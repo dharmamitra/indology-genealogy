@@ -1,0 +1,65 @@
+{
+ "people": [
+  {
+   "name": "R. Morris",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "E. Hardy",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Carpenter",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "R. Morris",
+   "type": "collaborated_with",
+   "object": "E. Hardy",
+   "role": null,
+   "place": "London",
+   "year_start": 1885,
+   "year_end": 1900,
+   "explicit": true,
+   "evidence": "Herausgegeben von R. Morris und E. Hardy, London PTS 1885—1900, 5 vols",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rhys Davids",
+   "type": "collaborated_with",
+   "object": "Carpenter",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rhys Davids und Carpenter, Dīgha Nikāya edited, vol. II, Preface p. VIII",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9082__Winternitz_GeschichteDerIndischenLitteratur_2_1920",
+ "chunk": 9,
+ "model": "gemini-flash-latest"
+}

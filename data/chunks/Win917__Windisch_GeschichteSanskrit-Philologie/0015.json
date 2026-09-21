@@ -1,0 +1,233 @@
+{
+ "people": [
+  {
+   "name": "Friedrich Schlegel",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "German",
+   "note": null
+  },
+  {
+   "name": "Franz Bopp",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Alexander Hamilton",
+   "birth_year": 1762,
+   "death_year": 1824,
+   "birth_place": null,
+   "nationality": "British",
+   "note": "Englischer Marineoffizier und Professor des Sanskrit"
+  },
+  {
+   "name": "Louis Mathieu Langlès",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "French",
+   "note": "Conservator der orientalischen Manuskripte der Kaiserlichen Bibliothek in Paris"
+  },
+  {
+   "name": "August Wilhelm Schlegel",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "German",
+   "note": "Bruder von Friedrich Schlegel"
+  },
+  {
+   "name": "William Robertson",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Scottish",
+   "note": "Königlicher Historiograph von Schottland"
+  },
+  {
+   "name": "Major Rennell",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "British",
+   "note": null
+  },
+  {
+   "name": "A. H. L. Heeren",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "German",
+   "note": "Historiker in Göttingen"
+  },
+  {
+   "name": "Peter von Bohlen",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Antoine-Louis Henri de Polier",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": "Lausanne",
+   "nationality": "Swiss",
+   "note": "Colonel im Dienste der East India Company"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Friedrich Schlegel",
+   "type": "studied_at",
+   "object": "Paris",
+   "role": null,
+   "place": "Paris",
+   "year_start": 1803,
+   "year_end": 1804,
+   "explicit": true,
+   "evidence": "Fr. Schlegel hatte seine Sanskritstudien, ebenso wie später Bopp, in Paris gemacht, \"vom Frühjahr 1803—1804\".",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Bopp",
+   "type": "studied_at",
+   "object": "Paris",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Fr. Schlegel hatte seine Sanskritstudien, ebenso wie später Bopp, in Paris gemacht",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Schlegel",
+   "type": "student_of",
+   "object": "Alexander Hamilton",
+   "role": null,
+   "place": "Paris",
+   "year_start": 1803,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dieser gab Fr. Schlegel Unterricht im Sanskrit, nach einer Nachricht täglich drei Stunden lang",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander Hamilton",
+   "type": "position_at",
+   "object": "Haileybury College",
+   "role": "Professor des Sanskrit und der Hindu-Literatur",
+   "place": null,
+   "year_start": 1808,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "war von 1808 an Professor des Sanskrit und der Hindu-Literatur an dem Haileybury College.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Louis Mathieu Langlès",
+   "type": "position_at",
+   "object": "Kaiserliche Bibliothek",
+   "role": "Conservator der orientalischen Manuskripte",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Conservator der orientalischen Manuskripte der Kaiserlichen Bibliothek war Louis Mathieu Langlès",
+   "quote_ok": true
+  },
+  {
+   "subject": "August Wilhelm Schlegel",
+   "type": "other",
+   "object": "Friedrich Schlegel",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Friedrich Schlegels Briefe an seinen Bruder August Wilhelm",
+   "quote_ok": true
+  },
+  {
+   "subject": "August Wilhelm Schlegel",
+   "type": "influenced_by",
+   "object": "William Robertson",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A. W. Schlegel bekennt, daß dies das eine der zwei Bücher sei, durch die er sich hauptsächlich zur Erlernung des Sanskrit habe bestimmen lassen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "August Wilhelm Schlegel",
+   "type": "influenced_by",
+   "object": "Friedrich Schlegel",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A. W. Schlegel bekennt, daß dies das eine der zwei Bücher sei, durch die er sich hauptsächlich zur Erlernung des Sanskrit habe bestimmen lassen. Das andere ist das eben besprochene Buch seines Bruders.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Robertson",
+   "type": "influenced_by",
+   "object": "Major Rennell",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Robertson seinerseits war zu seinem Buche durch das Memoir des Major Rennell veranlaßt worden",
+   "quote_ok": true
+  },
+  {
+   "subject": "August Wilhelm Schlegel",
+   "type": "influenced_by",
+   "object": "A. H. L. Heeren",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A. W. Schlegel knüpft an ihn und Heeren an",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter von Bohlen",
+   "type": "influenced_by",
+   "object": "A. H. L. Heeren",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "v. Bohlen sagt ausdrücklich, daß er Heerens Darstellung durch seine Kenntnis des Sanskrit ergänzen wolle.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Antoine-Louis Henri de Polier",
+   "type": "position_at",
+   "object": "East India Company",
+   "role": "Colonel",
+   "place": "India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Schweizers de Polier aus Lausanne, der lange Zeit im Dienste der East India Company gestanden hatte",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 15,
+ "model": "gemini-flash-latest"
+}

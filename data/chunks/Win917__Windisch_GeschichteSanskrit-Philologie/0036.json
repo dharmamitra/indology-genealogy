@@ -1,0 +1,277 @@
+{
+ "people": [
+  {
+   "name": "Eugène Burnouf",
+   "birth_year": 1801,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Alexandre Langlois",
+   "birth_year": 1788,
+   "death_year": 1854,
+   "birth_place": null,
+   "nationality": "French",
+   "note": "Mitglied der Académie des Inscriptions et Belles-Lettres"
+  },
+  {
+   "name": "Hippolyte Fauche",
+   "birth_year": 1797,
+   "death_year": 1869,
+   "birth_place": null,
+   "nationality": "French",
+   "note": "Benediktiner, Übersetzer von Sanskritliteratur ins Französische"
+  },
+  {
+   "name": "Guillaume Pauthier",
+   "birth_year": 1801,
+   "death_year": 1873,
+   "birth_place": null,
+   "nationality": "French",
+   "note": "Sinologe und Indologe"
+  },
+  {
+   "name": "Abel Rémusat",
+   "birth_year": 1788,
+   "death_year": 1832,
+   "birth_place": null,
+   "nationality": "French",
+   "note": "Professor des Chinesischen am Collège de France"
+  },
+  {
+   "name": "Julius Mohl",
+   "birth_year": 1800,
+   "death_year": 1876,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Professor des Persischen am Collège de France"
+  },
+  {
+   "name": "Garcin de Tassy",
+   "birth_year": 1794,
+   "death_year": 1878,
+   "birth_place": null,
+   "nationality": "French",
+   "note": null
+  },
+  {
+   "name": "Stanislas Julien",
+   "birth_year": 1797,
+   "death_year": 1873,
+   "birth_place": null,
+   "nationality": "French",
+   "note": "Nachfolger von Rémusat"
+  },
+  {
+   "name": "Heinrich Julius v. Klaproth",
+   "birth_year": 1783,
+   "death_year": 1835,
+   "birth_place": "Berlin",
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Robert Lenz",
+   "birth_year": 1808,
+   "death_year": 1836,
+   "birth_place": "Dorpat",
+   "nationality": null,
+   "note": "Professor des Sanskrit in St. Petersburg"
+  },
+  {
+   "name": "Gaspare Gorresio",
+   "birth_year": 1808,
+   "death_year": 1891,
+   "birth_place": "Bagnasco in Piemont",
+   "nationality": "Italian",
+   "note": "Abbate, Professor des Sanskrit an der Universität Turin und Bibliothekar an der Königl. Bibliothek zu Turin"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Grimblot",
+   "type": "other",
+   "object": "Albrecht Weber",
+   "role": "persönliche Beziehungen",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Grimblot stand mit A. Weber in persönlichen Beziehungen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexandre Langlois",
+   "type": "student_of",
+   "object": "Antoine-Léonard de Chézy",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Alexandre Langlois, geboren 1788, gestorben 1854 als Mitglied der Académie des Inscriptions et Belles Lettres, war der bevorzugte Schüler Chézys.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexandre Langlois",
+   "type": "position_at",
+   "object": "Académie des Inscriptions et Belles-Lettres",
+   "role": "Mitglied",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": 1854,
+   "explicit": true,
+   "evidence": "gestorben 1854 als Mitglied der Académie des Inscriptions et Belles Lettres",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eugène Burnouf",
+   "type": "other",
+   "object": "Abel Rémusat",
+   "role": "friend",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Unter den Pariser Orientalisten war Burnouf befreundet mit den Akademikern Abel Rémusat (1788-1832)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eugène Burnouf",
+   "type": "other",
+   "object": "Julius Mohl",
+   "role": "friend",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Unter den Pariser Orientalisten war Burnouf befreundet mit den Akademikern Abel Rémusat (1788-1832) und Julius Mohl (1800-1876)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Julius Mohl",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "Professor des Persischen",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Julius Mohl (1800-1876), der letztere Professor des Persischen, der erstere Professor des Chinesischen am Collège de France",
+   "quote_ok": true
+  },
+  {
+   "subject": "Abel Rémusat",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "Professor des Chinesischen",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "der erstere Professor des Chinesischen am Collège de France",
+   "quote_ok": true
+  },
+  {
+   "subject": "Abel Rémusat",
+   "type": "succeeded",
+   "object": "Louis-Mathieu Langlès",
+   "role": null,
+   "place": "Bibliothèque (Paris)",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "und der Nachfolger von Langlès an der Bibliothek.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stanislas Julien",
+   "type": "succeeded",
+   "object": "Abel Rémusat",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Stanislas Julien (1797-1873), der Nachfolger Rémusats",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eugène Burnouf",
+   "type": "collaborated_with",
+   "object": "Christian Lassen",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Durch Rémusats Auftrag, die indischen Handschriften der Pariser Bibliothek zu ordnen, sind Burnouf und Lassen zum Pāli und zu dem Essai sur le Pāli geführt worden.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Rosen",
+   "type": "student_of",
+   "object": "Franz Bopp",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er war ein Schüler Bopps",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Lenz",
+   "type": "position_at",
+   "object": "Universität St. Petersburg",
+   "role": "Professor des Sanskrit",
+   "place": "St. Petersburg",
+   "year_start": null,
+   "year_end": 1836,
+   "explicit": true,
+   "evidence": "gestorben 1836, als Professor des Sanskrit in St. Petersburg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gaspare Gorresio",
+   "type": "position_at",
+   "object": "Universität Turin",
+   "role": "Professor des Sanskrit",
+   "place": "Turin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor des Sanskrit an der Universität",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gaspare Gorresio",
+   "type": "position_at",
+   "object": "Königliche Bibliothek zu Turin",
+   "role": "Bibliothekar",
+   "place": "Turin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "zuletzt Bibliothekar an der Königl. Bibliothek zu Turin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gaspare Gorresio",
+   "type": "student_of",
+   "object": "Eugène Burnouf",
+   "role": null,
+   "place": "Paris",
+   "year_start": 1834,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Jahre 1834 ging er nach Paris und hörte dort Burnouf \"in pubblico ed in privato\"",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 36,
+ "model": "gemini-flash-latest"
+}

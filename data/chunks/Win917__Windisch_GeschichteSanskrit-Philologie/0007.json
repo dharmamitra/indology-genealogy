@@ -1,0 +1,165 @@
+{
+ "people": [
+  {
+   "name": "Henry Thomas Colebrooke",
+   "birth_year": 1765,
+   "death_year": 1837,
+   "birth_place": "London",
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Jones",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Sir John Shore",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Carey",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Böhtlingk",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Rieu",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jones",
+   "type": "position_at",
+   "object": "Asiatic Society",
+   "role": "President",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In den Reden, die er als President hielt",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir John Shore",
+   "type": "succeeded",
+   "object": "Jones",
+   "role": "President",
+   "place": "Asiatic Society",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "sein Nachfolger als President der Asiatic So- ciety, Sir John Shore",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir John Shore",
+   "type": "position_at",
+   "object": "Asiatic Society",
+   "role": "President",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "sein Nachfolger als President der Asiatic So- ciety, Sir John Shore",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Thomas Colebrooke",
+   "type": "position_at",
+   "object": "Civil Service of Bengal",
+   "role": "writership, anfangs Verwaltungsbeamter, dann Richter",
+   "place": "Tirhoot, Purneah, Mirzapore",
+   "year_start": 1782,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Schon im Jahre 1782 ging er nach Indien und begann seine Laufbahn dort mit einer writership im Civil Service of Bengal. Er war in Tirhoot, Purneah, Mirzapore tätig, anfangs als Verwaltungsbeamter, dann als Richter.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Thomas Colebrooke",
+   "type": "position_at",
+   "object": "Superior Court of Appeal",
+   "role": "Mitglied",
+   "place": "Calcutta",
+   "year_start": 1801,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Jahr 1801 wurde er Mitglied des Superior Court of Appeal in Calcutta",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Thomas Colebrooke",
+   "type": "position_at",
+   "object": "College of Fort William",
+   "role": "Professor des Sanskrit",
+   "place": "Calcutta",
+   "year_start": 1801,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Jahr 1801 wurde er [...] Professor des Sanskrit am College of Fort William",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Thomas Colebrooke",
+   "type": "position_at",
+   "object": "Council",
+   "role": "Mitglied",
+   "place": null,
+   "year_start": 1807,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "im Jahre 1807 unter Lord Minto Mitglied des Council.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carey",
+   "type": "collaborated_with",
+   "object": "Henry Thomas Colebrooke",
+   "role": null,
+   "place": "Serampore",
+   "year_start": 1804,
+   "year_end": 1804,
+   "explicit": true,
+   "evidence": "das Colebrooke angeregt, Carey herausgegeben hat, Serampore 1804. [...] Colebrooke ist mit der Vorrede zum Hitopadeśa daran beteiligt",
+   "quote_ok": true
+  },
+  {
+   "subject": "Böhtlingk",
+   "type": "collaborated_with",
+   "object": "Rieu",
+   "role": null,
+   "place": "Petersburg",
+   "year_start": 1847,
+   "year_end": 1847,
+   "explicit": true,
+   "evidence": "letzteres von Böhtlingk und Rieu (Petersburg 1847) herausgegeben.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 7,
+ "model": "gemini-flash-latest"
+}

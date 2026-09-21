@@ -1,0 +1,37 @@
+{
+ "people": [
+  {
+   "name": "Avinash Candra Kaviratna",
+   "birth_year": null,
+   "death_year": 1905,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Kavirāj in Calcutta; began publishing an English translation of the Caraka-Saṃhitā in 1890."
+  },
+  {
+   "name": "Pareshnath Sarma Kavibhushaṇa",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Son of Avinash Candra Kaviratna; completed his father's translation of the Caraka-Saṃhitā in 1911."
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Pareshnath Sarma Kavibhushaṇa",
+   "type": "other",
+   "object": "Avinash Candra Kaviratna",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "nach dessen Tode (1905) von seinem Sohn Pareshnath Sarma Kavibhushaṇa fortgesetzt",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9083__Winternitz_GeschichteDerIndischenLitteratur_3_1920",
+ "chunk": 96,
+ "model": "gemini-flash-latest"
+}

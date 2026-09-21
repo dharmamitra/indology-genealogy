@@ -1,0 +1,37 @@
+{
+ "people": [
+  {
+   "name": "H. Hubert",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "M. Mauss",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "H. Hubert",
+   "type": "collaborated_with",
+   "object": "M. Mauss",
+   "role": null,
+   "place": null,
+   "year_start": 1897,
+   "year_end": 1898,
+   "explicit": true,
+   "evidence": "Die Bedeutung der Śrautasūtras für die allgemeine Religionswissenschaft haben zuerst H. Hubert und M. Mauss in ihrem »Essai sur la nature et la fonction du sacrifice«",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9081__Winternitz_GeschichteDerIndischenLitteratur_1_1908",
+ "chunk": 37,
+ "model": "gemini-flash-latest"
+}

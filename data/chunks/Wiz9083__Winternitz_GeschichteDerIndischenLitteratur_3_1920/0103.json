@@ -1,0 +1,65 @@
+{
+ "people": [
+  {
+   "name": "H. Kingscote",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "S. M. Natesa Sastri",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "V. P. Shástrí Pandit",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Śaṅkar P. Pandit",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "H. Kingscote",
+   "type": "collaborated_with",
+   "object": "S. M. Natesa Sastri",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1890,
+   "explicit": true,
+   "evidence": "H. Kingscote and N. Sastri, Tales of the Sun, or Folklore of Southern India, London 1890.",
+   "quote_ok": true
+  },
+  {
+   "subject": "V. P. Shástrí Pandit",
+   "type": "collaborated_with",
+   "object": "Śaṅkar P. Pandit",
+   "role": "under supervision",
+   "place": null,
+   "year_start": null,
+   "year_end": 1869,
+   "explicit": true,
+   "evidence": "A Complete Collection of the Poems of Tukārāma ed. by V. P. Shástrí Pandit, under the supervision of Śaṅkar P. Pandit",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Wiz9083__Winternitz_GeschichteDerIndischenLitteratur_3_1920",
+ "chunk": 103,
+ "model": "gemini-flash-latest"
+}

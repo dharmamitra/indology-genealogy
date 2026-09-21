@@ -1,0 +1,37 @@
+{
+ "people": [
+  {
+   "name": "M. Hauvette-Besnault",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "P. Roussel",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "M. Hauvette-Besnault",
+   "type": "collaborated_with",
+   "object": "P. Roussel",
+   "role": null,
+   "place": "Paris",
+   "year_start": 1884,
+   "year_end": 1898,
+   "explicit": true,
+   "evidence": "T. IV u. V publié par M. Hauvette-Besnault et P. Roussel. Paris 1884 et 1898.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9081__Winternitz_GeschichteDerIndischenLitteratur_1_1908",
+ "chunk": 78,
+ "model": "gemini-flash-latest"
+}

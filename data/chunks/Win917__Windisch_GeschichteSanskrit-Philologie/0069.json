@@ -1,0 +1,157 @@
+{
+ "people": [
+  {
+   "name": "M. Müller",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Ballantyne",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Principal of the Sanskrit College in Benares"
+  },
+  {
+   "name": "Gottfried Hermann",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Haupt",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Winternitz",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Cowell",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "W. F. Webster",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ballantyne",
+   "type": "position_at",
+   "object": "Sanskrit College zu Benares",
+   "role": "Principal",
+   "place": "Benares",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ballantyne, damals noch Principal der Sanskrit College zu Benares",
+   "quote_ok": true
+  },
+  {
+   "subject": "M. Müller",
+   "type": "student_of",
+   "object": "Gottfried Hermann",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "deren Schule unter Gottfried Hermann und Haupt durchgemacht zu haben er sich rühmt",
+   "quote_ok": true
+  },
+  {
+   "subject": "M. Müller",
+   "type": "student_of",
+   "object": "Haupt",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "deren Schule unter Gottfried Hermann und Haupt durchgemacht zu haben er sich rühmt",
+   "quote_ok": true
+  },
+  {
+   "subject": "Winternitz",
+   "type": "student_of",
+   "object": "Bühler",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bühlers Schüler Winternitz",
+   "quote_ok": true
+  },
+  {
+   "subject": "W. F. Webster",
+   "type": "student_of",
+   "object": "Cowell",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "von Cowell, dann von des letzteren Schüler W. F. Webster",
+   "quote_ok": false
+  },
+  {
+   "subject": "M. Müller",
+   "type": "position_at",
+   "object": "Universität Oxford",
+   "role": "Deputy Professor",
+   "place": "Oxford",
+   "year_start": 1851,
+   "year_end": 1854,
+   "explicit": true,
+   "evidence": "Er wurde inzwischen 1851 zum Deputy Professor, 1854 zum Professor of Modern European Languages and Literature an der Universität Oxford ernannt",
+   "quote_ok": true
+  },
+  {
+   "subject": "M. Müller",
+   "type": "position_at",
+   "object": "Universität Oxford",
+   "role": "Professor of Modern European Languages and Literature",
+   "place": "Oxford",
+   "year_start": 1854,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1854 zum Professor of Modern European Languages and Literature an der Universität Oxford ernannt",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 69,
+ "model": "gemini-flash-latest"
+}

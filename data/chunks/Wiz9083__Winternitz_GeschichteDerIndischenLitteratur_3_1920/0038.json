@@ -1,0 +1,65 @@
+{
+ "people": [
+  {
+   "name": "R. Pischel",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "A. Weber",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Prof. Dr."
+  },
+  {
+   "name": "A. L. Chézy",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "French",
+   "note": "französischer Herausgeber des Sanskrittextes der Śakuntalā"
+  },
+  {
+   "name": "Vihārī Lāl Sarkār",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Bengali",
+   "note": "bengalischer Gelehrter"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "R. Pischel",
+   "type": "studied_at",
+   "object": "Breslau",
+   "role": null,
+   "place": "Breslau",
+   "year_start": null,
+   "year_end": 1870,
+   "explicit": true,
+   "evidence": "De Kâlidâsae Çâkuntali recensionibus, Diss., Breslau 1870",
+   "quote_ok": true
+  },
+  {
+   "subject": "R. Pischel",
+   "type": "other",
+   "object": "A. Weber",
+   "role": "opponent in a controversy",
+   "place": null,
+   "year_start": 1875,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Die Rezensionen der Çakuntalâ, eine Antwort an Herrn Prof. Dr. Weber, Breslau 1875. Dagegen A. Weber, Ind. Stud. 14, 35 ff.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9083__Winternitz_GeschichteDerIndischenLitteratur_3_1920",
+ "chunk": 38,
+ "model": "gemini-flash-latest"
+}

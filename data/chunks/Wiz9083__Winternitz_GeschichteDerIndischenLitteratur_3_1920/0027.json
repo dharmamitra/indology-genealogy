@@ -1,0 +1,85 @@
+{
+ "people": [
+  {
+   "name": "R. Schmidt",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Former pupil of Ernst Mehliß"
+  },
+  {
+   "name": "Ernst Mehliß",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Professor in Eisleben, celebrated 70th birthday in 1914"
+  },
+  {
+   "name": "Jul. Laber",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Completed dissertation at Bonn in 1913"
+  },
+  {
+   "name": "P. Peterson",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Pandit Durgāprasāda",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "R. Schmidt",
+   "type": "student_of",
+   "object": "Ernst Mehliß",
+   "role": null,
+   "place": "Eisleben",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Ins Deutsche übersetzt von R. Schmidt in der »Festgabe ehemaliger Schüler zum 70. Geburtstag des Professors Ernst Mehliß in Eisleben« 1914",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jul. Laber",
+   "type": "studied_at",
+   "object": "Bonn",
+   "role": null,
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": 1913,
+   "explicit": true,
+   "evidence": "Jul. Laber, Über das Vajjālaggam des Jayavallabha, Bonner Diss., Leipzig 1913",
+   "quote_ok": true
+  },
+  {
+   "subject": "P. Peterson",
+   "type": "collaborated_with",
+   "object": "Pandit Durgāprasāda",
+   "role": "editor",
+   "place": null,
+   "year_start": 1886,
+   "year_end": 1886,
+   "explicit": true,
+   "evidence": "Ed. by P. Peterson and Pandit Durgāprasāda, BSS 1886.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9083__Winternitz_GeschichteDerIndischenLitteratur_3_1920",
+ "chunk": 27,
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,121 @@
+{
+ "people": [
+  {
+   "name": "H. T. Colebrooke",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Horace Hayman Wilson",
+   "birth_year": 1784,
+   "death_year": 1860,
+   "birth_place": null,
+   "nationality": "British",
+   "note": "Assay Master of the Calcutta Mint, Secretary of the Asiatic Society of Bengal, Boden Professor of Sanskrit at Oxford"
+  },
+  {
+   "name": "Monier Williams",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Wilson's admirer and successor"
+  },
+  {
+   "name": "Eugène Burnouf",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "French",
+   "note": null
+  },
+  {
+   "name": "R. G. Bhandarkar",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Indian",
+   "note": "der bedeutendste Sanskritphilolog des heutigen Indiens"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "H. T. Colebrooke",
+   "type": "collaborated_with",
+   "object": "H. H. Wilson",
+   "role": "co-editor",
+   "place": "London",
+   "year_start": 1837,
+   "year_end": 1837,
+   "explicit": true,
+   "evidence": "Colebrooke scheint eine gewisse Vorliebe für das Sāṃkhyasystem gehabt zu haben, daher er zuletzt noch im Verein mit H. H. Wilson \"The Sāṅkhya Kārikā...\" herausgab, London 1837.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Monier Williams",
+   "type": "succeeded",
+   "object": "H. H. Wilson",
+   "role": "Boden Professor of Sanskrit",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Auch der Eindruck, den Wilson einst auf seinen späteren Verehrer und Nachfolger, den jugendlichen Monier Williams gemacht hatte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Horace Hayman Wilson",
+   "type": "position_at",
+   "object": "East India Company",
+   "role": "Medical Service",
+   "place": "India",
+   "year_start": 1808,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Horace Hayman Wilson, geb. 1784, kam 1808 nach Indien im \"Medical Service\" der East India Company.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Horace Hayman Wilson",
+   "type": "position_at",
+   "object": "Calcutta Mint",
+   "role": "Assay Master",
+   "place": "Calcutta",
+   "year_start": 1816,
+   "year_end": 1833,
+   "explicit": true,
+   "evidence": "Im Jahre 1816 wurde er Assay Master der Münze zu Calcutta ... und blieb beides, bis er 1833 nach England zurückkehrte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Horace Hayman Wilson",
+   "type": "position_at",
+   "object": "Asiatic Society of Bengal",
+   "role": "Secretary",
+   "place": "Calcutta",
+   "year_start": 1811,
+   "year_end": 1833,
+   "explicit": true,
+   "evidence": "war von 1811 an Secretary der Asiatic Society of Bengal, und blieb beides, bis er 1833 nach England zurückkehrte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Horace Hayman Wilson",
+   "type": "position_at",
+   "object": "Universität Oxford",
+   "role": "Boden Professor of Sanskrit",
+   "place": "Oxford",
+   "year_start": 1833,
+   "year_end": 1860,
+   "explicit": true,
+   "evidence": "Dort wurde er der erste Boden Professor of Sanskrit an der Universität Oxford. Er starb 1860.",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 9,
+ "model": "gemini-flash-latest"
+}

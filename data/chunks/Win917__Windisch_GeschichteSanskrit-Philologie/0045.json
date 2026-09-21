@@ -1,0 +1,45 @@
+{
+ "people": [
+  {
+   "name": "Christian Lassen",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Wurde durch ein Augenleiden an einer tiefergehenden Umarbeitung seines Werkes gehindert."
+  },
+  {
+   "name": "Postans",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Ensign, dann Lieutnant."
+  },
+  {
+   "name": "J. S. Burt",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Captain in the Bengal Engineers."
+  }
+ ],
+ "relations": [
+  {
+   "subject": "J. S. Burt",
+   "type": "position_at",
+   "object": "Bengal Engineers",
+   "role": "Captain",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Captain J. S. Burt, Bengal Engineers",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 45,
+ "model": "gemini-flash-latest"
+}

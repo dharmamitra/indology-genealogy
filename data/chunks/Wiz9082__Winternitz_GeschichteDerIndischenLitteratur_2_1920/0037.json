@@ -1,0 +1,37 @@
+{
+ "people": [
+  {
+   "name": "Winternitz",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Takakusu",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Referred to as Prof. Takakusu"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Winternitz",
+   "type": "other",
+   "object": "Takakusu",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mein Freund Prof. Takakusu, der die Autorschaft des Dichters Aṣvaghoṣa geradezu für ausgeschlossen hält, teilt mir mit",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9082__Winternitz_GeschichteDerIndischenLitteratur_2_1920",
+ "chunk": 37,
+ "model": "gemini-flash-latest"
+}

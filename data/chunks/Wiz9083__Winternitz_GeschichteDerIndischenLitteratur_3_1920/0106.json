@@ -1,0 +1,93 @@
+{
+ "people": [
+  {
+   "name": "William Jones",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "gelehrter und begeisterter Orientalist, erster anglo-indischer Dichter"
+  },
+  {
+   "name": "Anquetil Duperron",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "war ein von den Upaniṣads Begeisterter und selbst eine Art indischer Asket"
+  },
+  {
+   "name": "Kielhorn",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "entdeckte 1880/81 die ältesten Handschriften des westlichen Indiens aus dem 11. Jahrhundert"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "H. Meyer-Franck",
+   "type": "collaborated_with",
+   "object": "H. Meyer-Benfey",
+   "role": "co-translators",
+   "place": null,
+   "year_start": 1920,
+   "year_end": 1920,
+   "explicit": true,
+   "evidence": "übersetzt von H. Meyer-Franck und H. Meyer-Benfey, 1920",
+   "quote_ok": true
+  },
+  {
+   "subject": "P. Th. Hoffmann",
+   "type": "studied_at",
+   "object": "Tübingen",
+   "role": "doctoral candidate",
+   "place": "Tübingen",
+   "year_start": null,
+   "year_end": 1915,
+   "explicit": false,
+   "evidence": "P. Th. Hoffmann, Der indische und der deutsche Geist von Herder bis zur Romantik, Diss., Tübingen 1915",
+   "quote_ok": true
+  },
+  {
+   "subject": "G. A. Grierson",
+   "type": "influenced_by",
+   "object": "Windisch",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "G. A. Grierson (Bhandarkar Com. Vol. 117 ff.) schließt sich der Ansicht von Windisch an, daß das Pāli eine Mischsprache sei",
+   "quote_ok": false
+  },
+  {
+   "subject": "A. A. Macdonell",
+   "type": "collaborated_with",
+   "object": "A. B. Keith",
+   "role": "co-authors",
+   "place": "London",
+   "year_start": 1912,
+   "year_end": 1912,
+   "explicit": true,
+   "evidence": "A. A. Macdonell und A. B. Keith, Vedic Index of Names and Subjects, London 1912",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. B. Keith",
+   "type": "influenced_by",
+   "object": "L. de La Vallée Poussin",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "L. de La Vallée Poussin (Le Védisme, Paris 1909), dem sich A. B. Keith, JRAS 1909, 469 ff., anschließt",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9083__Winternitz_GeschichteDerIndischenLitteratur_3_1920",
+ "chunk": 106,
+ "model": "gemini-flash-latest"
+}

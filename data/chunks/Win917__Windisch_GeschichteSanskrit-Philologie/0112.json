@@ -1,0 +1,153 @@
+{
+ "people": [
+  {
+   "name": "A. de Gubernatis",
+   "birth_year": null,
+   "death_year": 1913,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Polyhistor, Professor of Sanskrit and Comparative Linguistics in Florence and Rome"
+  },
+  {
+   "name": "Weber",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Martin Hartmann",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Arabist"
+  },
+  {
+   "name": "Carlo Giussani",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Frédéric Baudry",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "André Lefèvre",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "A. de Gubernatis",
+   "type": "student_of",
+   "object": "Weber",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1862,
+   "year_end": 1862,
+   "explicit": true,
+   "evidence": "Eine größere Kenntnis des Sanskrit erwarb er sich 1862 bei Weber in Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. de Gubernatis",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1862,
+   "year_end": 1862,
+   "explicit": true,
+   "evidence": "Eine größere Kenntnis des Sanskrit erwarb er sich 1862 bei Weber in Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. de Gubernatis",
+   "type": "position_at",
+   "object": "Istituto dei Studi Superiori in Florenz",
+   "role": "Professor des Sanskrit und der Vergleichenden Sprachwissenschaft",
+   "place": "Florenz",
+   "year_start": 1863,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Von 1863 an war er lange Zeit Professor des Sanskrit und der Vergleichenden Sprachwissenschaft am Istituto dei Studi Superiori in Florenz",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. de Gubernatis",
+   "type": "position_at",
+   "object": "Rom",
+   "role": "Professor des Sanskrit und der italienischen Literatur",
+   "place": "Rom",
+   "year_start": 1890,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Jahre 1890 wurde er nach Rom als Professor des Sanskrit und der italienischen Literatur berufen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. de Gubernatis",
+   "type": "influenced_by",
+   "object": "Benfey",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In der Übersetzung schloß sich de Gubernatis hier an Benfey an, gestattete sich aber hier und da sehr kühne Konjekturen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Frédéric Baudry",
+   "type": "other",
+   "object": "A. de Gubernatis",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er widmete es seinen Freunden Frédéric Baudry und André Lefèvre.",
+   "quote_ok": true
+  },
+  {
+   "subject": "André Lefèvre",
+   "type": "other",
+   "object": "A. de Gubernatis",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er widmete es seinen Freunden Frédéric Baudry und André Lefèvre.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carlo Giussani",
+   "type": "collaborated_with",
+   "object": "A. de Gubernatis",
+   "role": "contributor of appendix",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In einer \"Appendice\" ergänzte Carlo Giussani dieses für italienische Studenten berechnete Handbuch durch eine Grammatik und Lesestücke",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 112,
+ "model": "gemini-flash-latest"
+}

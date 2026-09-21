@@ -1,0 +1,137 @@
+{
+ "people": [
+  {
+   "name": "Albrecht Weber",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Indologist; founder of the 'Indische Studien'"
+  },
+  {
+   "name": "W. Deecke",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Pupil of Albrecht Weber"
+  },
+  {
+   "name": "Ferdinand d'Eckstein",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Dänemark",
+   "note": "Lützower Jäger, in the Dutch army, called to Paris by Louis XVIII"
+  },
+  {
+   "name": "J. Mohl",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Holtzmann",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Böhtlingk",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Roth",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "W. Deecke",
+   "type": "student_of",
+   "object": "Albrecht Weber",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "W. Deecke hat seines Lehrers Weber Werk ergänzt und modifiziert",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albrecht Weber",
+   "type": "founded",
+   "object": "Indische Studien",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1850,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Schon zuvor hatte er die Zeitschrift für die Kunde des indischen Altertums \"Indische Studien\" gegründet, Erster Band Berlin 1850 bei Ferd. Dümmler",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albrecht Weber",
+   "type": "influenced_by",
+   "object": "Holtzmann",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Auch Holtzmanns 1841 erschienene Schrift \"Über den griechischen Ursprung des Indischen Thierkreises\" hatte großen Eindruck auf ihn gemacht",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albrecht Weber",
+   "type": "other",
+   "object": "Böhtlingk",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er widmete die 2. Auflage \"Böhtlingk und Roth den Freunden bei der Vollendung des Sanskrit-Wörterbuchs\".",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albrecht Weber",
+   "type": "other",
+   "object": "Roth",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er widmete die 2. Auflage \"Böhtlingk und Roth den Freunden bei der Vollendung des Sanskrit-Wörterbuchs\".",
+   "quote_ok": true
+  },
+  {
+   "subject": "J. Mohl",
+   "type": "other",
+   "object": "Ferdinand d'Eckstein",
+   "role": "acquaintance",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Über den Baron Ferdinand d'Eckstein veröffentlichte J. Mohl, der ihn gut gekannt hatte, eine Notice biographique",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 83,
+ "model": "gemini-flash-latest"
+}

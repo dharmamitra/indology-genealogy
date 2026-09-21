@@ -1,0 +1,37 @@
+{
+ "people": [
+  {
+   "name": "H. Oldenberg",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "R. Pischel",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "H. Oldenberg",
+   "type": "collaborated_with",
+   "object": "R. Pischel",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1883,
+   "explicit": true,
+   "evidence": "Herausgegeben von H. Oldenberg und R. Pischel, London PTS 1883.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9082__Winternitz_GeschichteDerIndischenLitteratur_2_1920",
+ "chunk": 15,
+ "model": "gemini-flash-latest"
+}

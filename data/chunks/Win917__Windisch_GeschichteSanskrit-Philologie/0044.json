@@ -1,0 +1,57 @@
+{
+ "people": [
+  {
+   "name": "Christian Lassen",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Author of Indische Alterthumskunde; suffered from an eye condition"
+  },
+  {
+   "name": "Stanislas Julien",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Friend and correspondent of Christian Lassen"
+  },
+  {
+   "name": "Andrzej Gawroński",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Polish",
+   "note": "Co-founder of the journal Rocznik Oryentalistyczny"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Christian Lassen",
+   "type": "other",
+   "object": "Stanislas Julien",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "briefliche Mitteilungen seines Freundes (II 765) Stanislas Julien vermittelt wurden",
+   "quote_ok": true
+  },
+  {
+   "subject": "Andrzej Gawroński",
+   "type": "founded",
+   "object": "Rocznik Oryentalistyczny",
+   "role": "co-founder",
+   "place": "Krakau",
+   "year_start": 1914,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in der mit von ihm gegründeten Zeitschrift Rocznik Oryentalistyczny (Polnisches Archiv für Orientalistik), Erster Teil, Krakau 1914-1915",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 44,
+ "model": "gemini-flash-latest"
+}

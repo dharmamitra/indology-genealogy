@@ -1,0 +1,65 @@
+{
+ "people": [
+  {
+   "name": "H. H. Wilson",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Vans Kennedy",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "R. Rost",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Fitzedward Hall",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "R. Rost",
+   "type": "collaborated_with",
+   "object": "Fitzedward Hall",
+   "role": "co-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Works by the late H. H. Wilson, ed. by R. Rost and Fitzedward Hall",
+   "quote_ok": true
+  },
+  {
+   "subject": "H. H. Wilson",
+   "type": "other",
+   "object": "Vans Kennedy",
+   "role": "predecessor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Einen Vorgänger hatte er an Vans Kennedy, Researches into the Nature and Affinity of Ancient and Hindu Mythology, London 1831.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9081__Winternitz_GeschichteDerIndischenLitteratur_1_1908",
+ "chunk": 75,
+ "model": "gemini-flash-latest"
+}

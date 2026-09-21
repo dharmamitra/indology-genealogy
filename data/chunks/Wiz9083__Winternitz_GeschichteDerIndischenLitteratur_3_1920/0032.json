@@ -1,0 +1,53 @@
+{
+ "people": [
+  {
+   "name": "Hermann Schlagintweit",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Brother of Emil Schlagintweit"
+  },
+  {
+   "name": "Emil Schlagintweit",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Brother of Hermann Schlagintweit"
+  },
+  {
+   "name": "Gaṇapati Śāstrī",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Indian",
+   "note": "Discovered palm-leaf manuscripts of Bhāsa's plays during a 1910 manuscript collection tour in South Travancore"
+  },
+  {
+   "name": "Paul Pelliot",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Brought Tocharian manuscript fragments from Douldour-Aqour and Dunhuang"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hermann Schlagintweit",
+   "type": "other",
+   "object": "Emil Schlagintweit",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hermann Schlagintweit (in dem Buch seines Bruders Emil Schlagintweit, Buddhism in Tibet, Leipzig und London 1863, S. 232 ff.)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9083__Winternitz_GeschichteDerIndischenLitteratur_3_1920",
+ "chunk": 32,
+ "model": "gemini-flash-latest"
+}

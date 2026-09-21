@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Indology Lineages</title>
+<meta name="description" content="An academic genealogy of Indology: who studied under whom, who taught where and when, 1650–1920. Extracted from Windisch and Winternitz, dated with Wikidata.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div class="app">
+  <header class="bar">
+    <h1>Indology <em>Lineages</em></h1>
+    <nav class="tabs" role="tablist" aria-label="Views">
+      <button role="tab" id="tab-lineages" data-view="lineages" aria-selected="true">Lineages</button>
+      <button role="tab" id="tab-chairs" data-view="chairs" aria-selected="false">Chairs</button>
+      <button role="tab" id="tab-map" data-view="map" aria-selected="false">Map</button>
+    </nav>
+    <div class="search"><input id="search" list="names" placeholder="Find a scholar or a place…" autocomplete="off" aria-label="Find a scholar or a place"><datalist id="names"></datalist></div>
+    <select id="source" aria-label="Sources">
+      <option value="all">All sources</option>
+      <option value="books">Books only</option>
+      <option value="Winternitz">Winternitz only</option>
+      <option value="Windisch">Windisch only</option>
+      <option value="Wikidata">Wikidata only</option>
+    </select>
+  </header>
+
+  <main class="stage" id="stage">
+    <div class="tools" id="tools"></div>
+    <div class="view" id="view-lineages">
+      <svg id="graph" role="img" aria-label="Scholars placed by year of birth, linked by teacher–student and other relations">
+        <defs>
+          <marker id="m-student_of" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path class="mk-student_of" d="M0,0.8 L8,4 L0,7.2 z"/></marker>
+          <marker id="m-influenced_by" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path class="mk-influenced_by" d="M0,0.8 L8,4 L0,7.2 z"/></marker>
+          <marker id="m-succeeded" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path class="mk-succeeded" d="M0,0.8 L8,4 L0,7.2 z"/></marker>
+        </defs>
+      </svg>
+      <div class="zoomers"><button id="zin" aria-label="Zoom in">+</button><button id="zout" aria-label="Zoom out">−</button><button id="zfit" aria-label="Fit all" title="Fit all">⤢</button></div>
+    </div>
+    <div class="view" id="view-chairs" hidden><div class="chairs-scroll" id="chairs-scroll"><svg id="chairs"></svg></div></div>
+    <div class="view" id="view-map" hidden>
+      <svg id="map" role="img" aria-label="Map of the places where Indologists held posts"></svg>
+      <div class="zoomers"><button id="min" aria-label="Zoom in">+</button><button id="mout" aria-label="Zoom out">−</button><button id="mfit" aria-label="Reset map" title="Reset">⤢</button></div>
+    </div>
+    <div class="yearbar" id="yearbar">
+      <button id="play" aria-label="Play through the years">▶</button>
+      <label class="allyears"><input type="checkbox" id="allyears" checked> all years</label>
+      <input type="range" id="year" min="1780" max="1920" step="1" value="1850" aria-label="Year">
+      <output id="yearout" for="year">1850</output>
+      <span class="yearnote" id="yearnote"></span>
+    </div>
+    <div id="tip" hidden></div>
+  </main>
+
+  <aside class="panel" id="panel" aria-live="polite"></aside>
+</div>
+<script src="vendor/d3.min.js"></script>
+<script src="vendor/topojson-client.min.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

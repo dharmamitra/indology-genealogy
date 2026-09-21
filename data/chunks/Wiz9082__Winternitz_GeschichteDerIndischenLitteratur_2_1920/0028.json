@@ -1,0 +1,65 @@
+{
+ "people": [
+  {
+   "name": "T. W. Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "J. Estlin Carpenter",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "L. de La Vallée Poussin",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "G. de Blonay",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "T. W. Rhys Davids",
+   "type": "collaborated_with",
+   "object": "J. Estlin Carpenter",
+   "role": "co-editors",
+   "place": "London",
+   "year_start": 1886,
+   "year_end": 1886,
+   "explicit": true,
+   "evidence": "Edited by T. W. Rhys Davids and J. Estlin Carpenter, I, London PTS 1886.",
+   "quote_ok": true
+  },
+  {
+   "subject": "L. de La Vallée Poussin",
+   "type": "collaborated_with",
+   "object": "G. de Blonay",
+   "role": "co-authors",
+   "place": null,
+   "year_start": 1892,
+   "year_end": 1894,
+   "explicit": true,
+   "evidence": "L. de La Vallée Poussin und G. de Blonay, Contes Bouddhiques in RHR, t. 26. 1892, 180 ff. und t. 29, 1894, 195 ff., 329 ff.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9082__Winternitz_GeschichteDerIndischenLitteratur_2_1920",
+ "chunk": 28,
+ "model": "gemini-flash-latest"
+}

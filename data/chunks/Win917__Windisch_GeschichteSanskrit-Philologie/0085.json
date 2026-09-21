@@ -1,0 +1,85 @@
+{
+ "people": [
+  {
+   "name": "A. Weber",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "J. Schick",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Münchner Anglizist"
+  },
+  {
+   "name": "R. v. Garbe",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Windisch",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Fausböll",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "J. Schick",
+   "type": "student_of",
+   "object": "A. Weber",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Deshalb nahm der sprachenkundige Münchner Anglizist J. Schick diese drei indischen Hauptgeschichten, die schon sein Lehrer Weber zusammengestellt hatte, in sein \"Corpus Hamleticum\" auf",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fausböll",
+   "type": "influenced_by",
+   "object": "A. Weber",
+   "role": null,
+   "place": null,
+   "year_start": 1871,
+   "year_end": 1871,
+   "explicit": true,
+   "evidence": "Veranlaßt durch Webers Abhandlung veröffentlichte Fausböll schon im Jahre nach ihr auch den Text: \"The Dasaratha-Jātaka, being the Buddhist story of King Rāma\", Kopenhagen und London 1871",
+   "quote_ok": true
+  },
+  {
+   "subject": "R. v. Garbe",
+   "type": "other",
+   "object": "Windisch",
+   "role": "dedicated book to",
+   "place": null,
+   "year_start": 1914,
+   "year_end": 1914,
+   "explicit": true,
+   "evidence": "Garbe gibt in seinem Windisch gewidmeten Buche \"Indien und das Christentum\", Tübingen 1914, eine sehr dankenswerte kritische Untersuchung",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 85,
+ "model": "gemini-flash-latest"
+}

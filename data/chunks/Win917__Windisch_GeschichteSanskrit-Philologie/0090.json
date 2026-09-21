@@ -1,0 +1,129 @@
+{
+ "people": [
+  {
+   "name": "William Dwight Whitney",
+   "birth_year": null,
+   "death_year": 1894,
+   "birth_place": null,
+   "nationality": "American",
+   "note": null
+  },
+  {
+   "name": "Ebenezer Burgess",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "American",
+   "note": "amerikanischer Missionar"
+  },
+  {
+   "name": "W. W. Rockhill",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "American",
+   "note": "of the United States Legation in Peking"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Dwight Whitney",
+   "type": "other",
+   "object": "Max Müller",
+   "role": "scientific controversy",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Whitney hat M. Müllers Bedeutung immer anerkannt, aber ihn namentlich auf sprachwissenschaftlichem Gebiete persönlich und sachlich scharf angegriffen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Maurice Bloomfield",
+   "type": "influenced_by",
+   "object": "William Dwight Whitney",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ebenso zeigt sich Whitneys Einfluß, wenn die Amerikaner sich besonders dem Atharvaveda zugewendet haben. Bloomfield widmete seine 1890 in Band XIV des JAOS. erschienene Ausgabe des Kauśikasūtra 'To William Dwight Whitney'",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ebenezer Burgess",
+   "type": "collaborated_with",
+   "object": "William Dwight Whitney",
+   "role": null,
+   "place": null,
+   "year_start": 1858,
+   "year_end": 1860,
+   "explicit": true,
+   "evidence": "übergab aber seine Vorarbeiten dem Committee of Publication der AOS. und überließ Whitney die ganze Ausführung des Planes ('the main share of the work falling to Prof. Whitney', S. 143).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Rockwell Lanman",
+   "type": "student_of",
+   "object": "William Dwight Whitney",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Lanmans 'Noun-Inflection', in Band X des JAOS. Auch von anderen Schülern Whitneys erschienen damals Arbeiten über die in der Literatur vorkommenden Formen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Avery",
+   "type": "student_of",
+   "object": "William Dwight Whitney",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Auch von anderen Schülern Whitneys erschienen damals Arbeiten über die in der Literatur vorkommenden Formen. In demselben Band X finden sich S. 219-324 'Contributions to the History of Verb-Inflection in Sanskrit' von John Avery",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Dwight Whitney",
+   "type": "other",
+   "object": "Otto von Böhtlingk",
+   "role": "opponent in controversy over Panini",
+   "place": null,
+   "year_start": 1893,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "Böhtlingk nahm sich 'als alter Freund und Bewunderer Pāṇini's' in seinem Artikel 'Whitney's letzte Angriffe auf Pāṇini' des letzteren an, in den Berichten der K. Sächs. Gesellsch. d. W. 1893",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Dwight Whitney",
+   "type": "collaborated_with",
+   "object": "W. Haskell",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mit Haskell zusammen veröffentlichte Whitney ebenda Proceed. S. XXXVII 'Statistics of External Vowel-Combination in the Rig- and Atharva-Vedas'.",
+   "quote_ok": true
+  },
+  {
+   "subject": "W. W. Rockhill",
+   "type": "position_at",
+   "object": "United States Legation in Peking",
+   "role": null,
+   "place": "Peking",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "W. W. Rockhill, 'now of the United States Legation in Peking'.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 90,
+ "model": "gemini-flash-latest"
+}

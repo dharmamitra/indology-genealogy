@@ -1,0 +1,373 @@
+{
+ "people": [
+  {
+   "name": "Hermann Brockhaus",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Professor des Sanskrit in Leipzig, Rektor der Universität Leipzig 1872"
+  },
+  {
+   "name": "M. Haberlandt",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Friedrich Spiegel",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Eduard Sachau",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Hermann Camillo Kellner",
+   "birth_year": 1839,
+   "death_year": 1916,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Gymnasialprofessor in Zwickau, Goethekenner"
+  },
+  {
+   "name": "Heinrich Uhle",
+   "birth_year": 1842,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Professor an der Kreuzschule in Dresden"
+  },
+  {
+   "name": "Richard Fritzsche",
+   "birth_year": 1851,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Rektor des Gymnasiums in Schneeberg"
+  },
+  {
+   "name": "Johannes Gildemeister",
+   "birth_year": 1812,
+   "death_year": 1890,
+   "birth_place": "Bremen",
+   "nationality": null,
+   "note": "Theologe und Philologe, Professor in Marburg und Bonn"
+  },
+  {
+   "name": "Albert Hoefer",
+   "birth_year": 1812,
+   "death_year": 1883,
+   "birth_place": "Greifswald",
+   "nationality": null,
+   "note": "Professor an der Universität Greifswald"
+  },
+  {
+   "name": "Arnold Hirzel",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Schweiz",
+   "note": "in Aarau wirkender Schweizer"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hermann Brockhaus",
+   "type": "position_at",
+   "object": "Universität Leipzig",
+   "role": "Rektor",
+   "place": "Leipzig",
+   "year_start": 1872,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Jahre 1872 wurde Brockhaus zum Rektor der Universität Leipzig gewählt",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Brockhaus",
+   "type": "founded",
+   "object": "Deutsche Morgenländische Gesellschaft",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Brockhaus gehörte zu den Gründern der Deutschen Morgenländischen Gesellschaft, deren Zeitschrift er in den Jahren 1852 bis 1865 redigiert hat.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Müller",
+   "type": "student_of",
+   "object": "Hermann Brockhaus",
+   "role": null,
+   "place": null,
+   "year_start": 1843,
+   "year_end": 1844,
+   "explicit": true,
+   "evidence": "Unter Brockhaus' Schülern ragt hervor Max Müller, der in den Jahren 1843 und 1844 den ersten Unterricht im Sanskrit von Brockhaus empfangen hat",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Spiegel",
+   "type": "student_of",
+   "object": "Hermann Brockhaus",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Auch Spiegel und Sachau haben bei ihm gehört",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eduard Sachau",
+   "type": "student_of",
+   "object": "Hermann Brockhaus",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Auch Spiegel und Sachau haben bei ihm gehört",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Camillo Kellner",
+   "type": "student_of",
+   "object": "Hermann Brockhaus",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "aber im engeren Sinne gehören noch zu seinen Schülern der Schreiber dieser Zeilen und eine Gruppe von sächsischen Gymnasiallehrern... Hermann Camillo Kellner",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Camillo Kellner",
+   "type": "position_at",
+   "object": "Gymnasium zu Zwickau",
+   "role": "Gymnasialprofessor",
+   "place": "Zwickau",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hermann Camillo Kellner, geboren 1839, gestorben 1916, war Gymnasialprofessor in Zwickau",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Uhle",
+   "type": "student_of",
+   "object": "Hermann Brockhaus",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "gehören noch zu seinen Schülern... eine Gruppe von sächsischen Gymnasiallehrern... Heinrich Uhle, geboren 1842, Professor an der Kreuzschule in Dresden",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Uhle",
+   "type": "position_at",
+   "object": "Kreuzschule in Dresden",
+   "role": "Professor",
+   "place": "Dresden",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Heinrich Uhle, geboren 1842, Professor an der Kreuzschule in Dresden",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Fritzsche",
+   "type": "student_of",
+   "object": "Hermann Brockhaus",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "gehören noch zu seinen Schülern... eine Gruppe von sächsischen Gymnasiallehrern... Richard Fritzsche, geboren 1851, Rektor des Gymnasiums in Schneeberg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Fritzsche",
+   "type": "position_at",
+   "object": "Gymnasium in Schneeberg",
+   "role": "Rektor",
+   "place": "Schneeberg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Richard Fritzsche, geboren 1851, Rektor des Gymnasiums in Schneeberg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arnold Hirzel",
+   "type": "studied_at",
+   "object": "Universität Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": 1890,
+   "explicit": true,
+   "evidence": "in seiner Leipziger Dissertation \"Gleichnisse und Metaphern im Ṛgveda in culturhistorischer Hinsicht zusammengestellt...\", Leipzig 1890",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Gildemeister",
+   "type": "studied_at",
+   "object": "Universität Göttingen",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "hat er in Göttingen und Bonn studiert",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Gildemeister",
+   "type": "studied_at",
+   "object": "Universität Bonn",
+   "role": null,
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "hat er in Göttingen und Bonn studiert",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Gildemeister",
+   "type": "student_of",
+   "object": "Heinrich Ewald",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wo für die semitischen Sprachen Ewald und Freitag, für das Sanskrit Lassen seine Lehrer waren.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Gildemeister",
+   "type": "student_of",
+   "object": "Georg Wilhelm Freytag",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wo für die semitischen Sprachen Ewald und Freitag, für das Sanskrit Lassen seine Lehrer waren.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Gildemeister",
+   "type": "student_of",
+   "object": "Christian Lassen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wo für die semitischen Sprachen Ewald und Freitag, für das Sanskrit Lassen seine Lehrer waren.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Gildemeister",
+   "type": "position_at",
+   "object": "Universität Marburg",
+   "role": "Professor in der theologischen Fakultät",
+   "place": "Marburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er wurde Professor in Marburg, hier in der theologischen Fakultät, und dann in Bonn, wo er seine akademische Laufbahn auch begonnen hatte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Gildemeister",
+   "type": "position_at",
+   "object": "Universität Bonn",
+   "role": "Professor",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er wurde Professor in Marburg, hier in der theologischen Fakultät, und dann in Bonn, wo er seine akademische Laufbahn auch begonnen hatte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Gildemeister",
+   "type": "other",
+   "object": "Niels Ludvig Westergaard",
+   "role": "Freund",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Für dieses benutzte er eine Kopenhagener und eine Tübinger Handschrift, erstere von seinem Freunde Westergaard, letztere von Goldstücker abgeschrieben.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albert Hoefer",
+   "type": "position_at",
+   "object": "Universität Greifswald",
+   "role": "Professor",
+   "place": "Greifswald",
+   "year_start": null,
+   "year_end": 1883,
+   "explicit": true,
+   "evidence": "geboren 1812 in Greifswald, gestorben 1883 als Professor an der dortigen Universität.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albert Hoefer",
+   "type": "founded",
+   "object": "Zeitschrift für die Wissenschaft der Sprache",
+   "role": null,
+   "place": null,
+   "year_start": 1845,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er gründete 1845 die \"Zeitschrift für die Wissenschaft der Sprache\"",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Gildemeister",
+   "type": "other",
+   "object": "Albert Hoefer",
+   "role": "Polemik/Streitschrift",
+   "place": null,
+   "year_start": 1840,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dies trug ihm Gildemeisters Streitschrift ein \"Die falsche Sanskritphilologie, an dem Beispiel des Herrn Dr. Hoefer in Berlin aufgezeigt\", Bonn 1840",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 54,
+ "model": "gemini-flash-latest"
+}

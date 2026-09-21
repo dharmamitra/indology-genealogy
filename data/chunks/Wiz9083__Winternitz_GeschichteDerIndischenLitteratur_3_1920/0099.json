@@ -1,0 +1,65 @@
+{
+ "people": [
+  {
+   "name": "L. Wilkinson",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Bāpu Deva Śāstrī",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Sudhākara Dvivedī",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Lattara Śarma",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "L. Wilkinson",
+   "type": "collaborated_with",
+   "object": "Bāpu Deva Śāstrī",
+   "role": null,
+   "place": "Calcutta",
+   "year_start": 1861,
+   "year_end": 1862,
+   "explicit": true,
+   "evidence": "Der Golādhyāya ins Englische übersetzt von L. Wilkinson und Bāpu Deva Śāstrī, Calcutta 1861—1862.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sudhākara Dvivedī",
+   "type": "collaborated_with",
+   "object": "Lattara Śarma",
+   "role": null,
+   "place": "Benares",
+   "year_start": 1883,
+   "year_end": 1883,
+   "explicit": true,
+   "evidence": "Mit Kommentar herausgegeben von S. Dvivedī und Lattara Śarma, Benares 1883.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9083__Winternitz_GeschichteDerIndischenLitteratur_3_1920",
+ "chunk": 99,
+ "model": "gemini-flash-latest"
+}

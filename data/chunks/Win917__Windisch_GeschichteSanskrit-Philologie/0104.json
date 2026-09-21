@@ -1,0 +1,137 @@
+{
+ "people": [
+  {
+   "name": "Berthold Delbrück",
+   "birth_year": 1842,
+   "death_year": null,
+   "birth_place": "Berlin",
+   "nationality": null,
+   "note": "Begründer der Vergleichenden Syntax"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Berthold Delbrück",
+   "type": "student_of",
+   "object": "Pott",
+   "role": null,
+   "place": "Halle",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In das Sanskrit wurde er eingeführt in Halle von Pott",
+   "quote_ok": true
+  },
+  {
+   "subject": "Berthold Delbrück",
+   "type": "student_of",
+   "object": "Weber",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "und in Berlin von Weber, bei dem er Veda hörte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ludwig",
+   "type": "student_of",
+   "object": "Weber",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ist er somit ähnlich wie Ludwig im ersten Anfang von Weber ausgegangen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Berthold Delbrück",
+   "type": "influenced_by",
+   "object": "Roth",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "so waren doch Böhtlingk und Roth seine Leitsterne. In der dankbaren Anerkennung des Petersburger Wörterbuchs gleicht er Whitney und Grassmann. Seiner Bewunderung für Roth als Interpreten des Ṛgveda",
+   "quote_ok": true
+  },
+  {
+   "subject": "Berthold Delbrück",
+   "type": "influenced_by",
+   "object": "Böhtlingk",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "so waren doch Böhtlingk und Roth seine Leitsterne.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Berthold Delbrück",
+   "type": "other",
+   "object": "Böhtlingk",
+   "role": "täglicher persönlicher Verkehr",
+   "place": "Jena",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mit Böhtlingk stand er in Jena jahrelang in täglichem persönlichen Verkehr.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Berthold Delbrück",
+   "type": "position_at",
+   "object": "Halle",
+   "role": null,
+   "place": "Halle",
+   "year_start": 1867,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nachdem er sich 1867 in Halle habilitiert hatte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Berthold Delbrück",
+   "type": "position_at",
+   "object": "Jena",
+   "role": "Ordinariat für Sanskrit und vergleichende Sprachkunde",
+   "place": "Jena",
+   "year_start": 1870,
+   "year_end": 1913,
+   "explicit": true,
+   "evidence": "folgte er 1870 einem Rufe nach Jena, wo 1873 ein Ordinariat für Sanskrit und vergleichende Sprachkunde für ihn gegründet wurde. Seit 1913 ist er in den Ruhestand getreten.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Brugmann",
+   "type": "collaborated_with",
+   "object": "Berthold Delbrück",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Brugmann verband sich mit ihm und übertrug ihm die Syntax in seinem Grundriß der Vergleichenden Sprachwissenschaft.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Berthold Delbrück",
+   "type": "collaborated_with",
+   "object": "Windisch",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Delbrück verband sich mit Windisch zur Herausgabe der \"Syntaktischen Forschungen\"",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 104,
+ "model": "gemini-flash-latest"
+}

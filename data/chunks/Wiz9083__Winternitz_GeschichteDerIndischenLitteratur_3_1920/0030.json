@@ -1,0 +1,57 @@
+{
+ "people": [
+  {
+   "name": "Th. Bloch",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "E. Windisch",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "M. Lindenau",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Th. Bloch",
+   "type": "student_of",
+   "object": "E. Windisch",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Th. Bloch, ein Schüler von Windisch",
+   "quote_ok": true
+  },
+  {
+   "subject": "M. Lindenau",
+   "type": "student_of",
+   "object": "E. Windisch",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "des Windisch-Schülers M. Lindenau",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9083__Winternitz_GeschichteDerIndischenLitteratur_3_1920",
+ "chunk": 30,
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,57 @@
+{
+ "people": [
+  {
+   "name": "Joh. Nobel",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "M. Winternitz",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "A. B. Keith",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Joh. Nobel",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": 1911,
+   "explicit": true,
+   "evidence": "Joh. Nobel, Beiträge zur älteren Geschichte des Alaṃkāraśāstra, Diss., Berlin 1911",
+   "quote_ok": false
+  },
+  {
+   "subject": "A. B. Keith",
+   "type": "collaborated_with",
+   "object": "M. Winternitz",
+   "role": null,
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": 1905,
+   "explicit": true,
+   "evidence": "Catalogue of Sanskrit Manuscripts in the Bodleian Library, vol. II begun by M. Winternitz, continued and completed by A. B. Keith. Oxford 1905.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9083__Winternitz_GeschichteDerIndischenLitteratur_3_1920",
+ "chunk": 1,
+ "model": "gemini-flash-latest"
+}

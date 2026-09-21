@@ -1,0 +1,229 @@
+{
+ "people": [
+  {
+   "name": "Anquetil Duperron",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "französisch",
+   "note": null
+  },
+  {
+   "name": "Le Gentil",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "französisch",
+   "note": "Freund von Anquetil Duperron, Resident des französischen Ministeriums in Faizabad"
+  },
+  {
+   "name": "Arthur Schopenhauer",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "deutsch",
+   "note": null
+  },
+  {
+   "name": "Albrecht Weber",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "deutsch",
+   "note": null
+  },
+  {
+   "name": "Paul Regnaud",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "französisch",
+   "note": null
+  },
+  {
+   "name": "John Muir",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Paul Deussen",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "deutsch",
+   "note": "Philosoph und Sanskritist"
+  },
+  {
+   "name": "Demetrios Galanos",
+   "birth_year": 1760,
+   "death_year": 1833,
+   "birth_place": "Athen",
+   "nationality": "griechisch",
+   "note": null
+  },
+  {
+   "name": "J. Klatt",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "deutsch",
+   "note": null
+  },
+  {
+   "name": "E. Teza",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "italienisch",
+   "note": null
+  },
+  {
+   "name": "Ignazio Guidi",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "italienisch",
+   "note": null
+  },
+  {
+   "name": "Ram Mohun Roy",
+   "birth_year": 1774,
+   "death_year": 1833,
+   "birth_place": "Rādhānagar bei Calcutta",
+   "nationality": "bengalisch",
+   "note": "Begründer des Brahma-Samāja"
+  },
+  {
+   "name": "A. Hamilton",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "L. Langlès",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "französisch",
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Anquetil Duperron",
+   "type": "position_at",
+   "object": "Paris",
+   "role": "Dolmetscher der orientalischen Sprachen",
+   "place": "Paris",
+   "year_start": 1762,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Jahre 1762 nach Paris zurückgekehrt, erhielt er das Amt eines Dolmetschers der orientalischen Sprachen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anquetil Duperron",
+   "type": "other",
+   "object": "Le Gentil",
+   "role": "Freund",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "durch die Güte seines Freundes Le Gentil, \"tunc apud Nabab Soudjaëddaulah, in urbe Faisabad, ministerii Gallici nomine residentis\"",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Schopenhauer",
+   "type": "influenced_by",
+   "object": "Anquetil Duperron",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Diese Stimmung der Übersetzung hat noch nach Jahrzehnten ihre Wirkung auf empfängliche Gemüter ausgeübt, so auf Schopenhauer, der die indische Philosophie aus diesem Werke kennen lernte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Regnaud",
+   "type": "studied_at",
+   "object": "École des Hautes Études",
+   "role": "élève",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Paul Regnaud (élève de l'École des Hautes Études)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Regnaud",
+   "type": "influenced_by",
+   "object": "John Muir",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "indem er die Hauptlehren mit den Hauptstellen belegte, hierin der Methode von John Muir in den \"Original Sanskrit Texts\" folgend.",
+   "quote_ok": true
+  },
+  {
+   "subject": "J. Klatt",
+   "type": "student_of",
+   "object": "Albrecht Weber",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Den Vṛddha-Cāṇakya gab J. Klatt heraus in seiner Dissertation... nachdem sein Lehrer Weber schon 1864... übersetzt hatte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ignazio Guidi",
+   "type": "collaborated_with",
+   "object": "E. Teza",
+   "role": "Transkription der Handschrift",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Den Text hatte für ihn Ignazio Guidi aus der Handschrift transkribiert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ram Mohun Roy",
+   "type": "founded",
+   "object": "Brahma-Samāja",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "der Begründer des Brahma-Samāja",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. Hamilton",
+   "type": "collaborated_with",
+   "object": "L. Langlès",
+   "role": "Katalogverfasser",
+   "place": "Paris",
+   "year_start": 1807,
+   "year_end": 1807,
+   "explicit": true,
+   "evidence": "\"Catalogue des manuscrits sanskrits de la bibliothèque impériale... Par A. Hamilton et L. Langlès\".",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 13,
+ "model": "gemini-flash-latest"
+}

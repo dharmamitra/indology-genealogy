@@ -1,0 +1,57 @@
+{
+ "people": [
+  {
+   "name": "C. Cappeller",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "N. B. Godabole",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "K. P. Parab",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "C. Cappeller",
+   "type": "studied_at",
+   "object": "Regimonti",
+   "role": null,
+   "place": "Regimonti",
+   "year_start": null,
+   "year_end": 1868,
+   "explicit": true,
+   "evidence": "C. Cappeller, Observationes ad Kālidāsae Mālavikāgnimitram, Diss., Regimonti 1868",
+   "quote_ok": true
+  },
+  {
+   "subject": "N. B. Godabole",
+   "type": "collaborated_with",
+   "object": "K. P. Parab",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1891,
+   "explicit": true,
+   "evidence": "von N. B. Godabole und K. P. Parab, 3d Ed., Bombay 1891, NSP.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9083__Winternitz_GeschichteDerIndischenLitteratur_3_1920",
+ "chunk": 39,
+ "model": "gemini-flash-latest"
+}

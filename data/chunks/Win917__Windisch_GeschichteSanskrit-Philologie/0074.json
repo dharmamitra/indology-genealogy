@@ -1,0 +1,77 @@
+{
+ "people": [
+  {
+   "name": "M. Müller",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Kasawara",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Japanese",
+   "note": null
+  },
+  {
+   "name": "Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Fergusson",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Kasawara",
+   "type": "student_of",
+   "object": "M. Müller",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "durch seinen japanischen Schüler Kasawara zugänglich wurde",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bühler",
+   "type": "other",
+   "object": "M. Müller",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "sein \"gelehrter Freund Professor Bühler\"",
+   "quote_ok": true
+  },
+  {
+   "subject": "M. Müller",
+   "type": "influenced_by",
+   "object": "Fergusson",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "adoptierte M. Müller die von Fergussons \"architektonischem Genie\" in seiner Abhandlung \"On the Śaka, Samvat, and Gupta Eras\" aufgestellte Theorie",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 74,
+ "model": "gemini-flash-latest"
+}

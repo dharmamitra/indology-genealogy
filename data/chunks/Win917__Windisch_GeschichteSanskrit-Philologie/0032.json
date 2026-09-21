@@ -1,0 +1,93 @@
+{
+ "people": [
+  {
+   "name": "Eugène Burnouf",
+   "birth_year": 1801,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Christian Lassen",
+   "birth_year": 1800,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Rasmus Christian Rask",
+   "birth_year": 1787,
+   "death_year": 1832,
+   "birth_place": null,
+   "nationality": "Däne",
+   "note": null
+  },
+  {
+   "name": "John Leyden",
+   "birth_year": 1775,
+   "death_year": 1811,
+   "birth_place": null,
+   "nationality": null,
+   "note": "chirurgien militaire, gestorben 1811 in Java"
+  },
+  {
+   "name": "Alexandre Langlois",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Antoine-Léonard de Chézy",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Eugène Burnouf",
+   "type": "collaborated_with",
+   "object": "Christian Lassen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1826,
+   "explicit": true,
+   "evidence": "E. Burnouf (geb. am 12. August 1801) im Verein mit seinem Altersgenossen Chr. Lassen (geb. am 22. Oktober 1800) der wissenschaftlichen Welt zuerst eine genauere Vorstellung vom Pāli gegeben",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexandre Langlois",
+   "type": "student_of",
+   "object": "Antoine-Léonard de Chézy",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Des Harivaṃśa hatte sich Alexandre Langlois, ein anderer Schüler Chézys, bemächtigt",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Prinsep",
+   "type": "influenced_by",
+   "object": "Eugène Burnouf",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1837,
+   "explicit": true,
+   "evidence": "Prinsep bekennt in einem Briefe an Burnouf vom 17. Juni 1837, daß der Essai über das Pāli bei seiner Übersetzung der Asoka-Inschriften sein Hauptführer im Studium der Endungen und der Flexionen gewesen sei",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 32,
+ "model": "gemini-flash-latest"
+}

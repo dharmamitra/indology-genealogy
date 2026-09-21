@@ -1,0 +1,93 @@
+{
+ "people": [
+  {
+   "name": "Böhtlingk",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Rieu",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "G. Thibaut",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Sudhākara Dvivedī",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Colebrooke",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Wilson",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Böhtlingk",
+   "type": "collaborated_with",
+   "object": "Rieu",
+   "role": null,
+   "place": "Petersburg",
+   "year_start": 1847,
+   "year_end": 1847,
+   "explicit": true,
+   "evidence": "letzteres von Böhtlingk und Rieu (Petersburg 1847) herausgegeben.",
+   "quote_ok": true
+  },
+  {
+   "subject": "G. Thibaut",
+   "type": "collaborated_with",
+   "object": "Sudhākara Dvivedī",
+   "role": null,
+   "place": "Benares",
+   "year_start": 1889,
+   "year_end": 1889,
+   "explicit": true,
+   "evidence": "Noch G. Thibaut hat die Ausgabe der Pañcasiddhāntikā, Benares 1889, zusammen mit dem auch auf dem Titel genannten Mahāmahopādhyāya Sudhākara Dvivedī unternommen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Colebrooke",
+   "type": "collaborated_with",
+   "object": "Wilson",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "die Sāṅkhyakārikās des Īśvarakṛṣṇa zu erwähnen, die später von ihm und Wilson, zusammen mit dem Kommentar des Gauḍapāda, herausgegeben worden sind.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 8,
+ "model": "gemini-flash-latest"
+}

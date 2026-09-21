@@ -1,0 +1,85 @@
+{
+ "people": [
+  {
+   "name": "J. Muir",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Theodor Aufrecht",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Theodor Goldstücker",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Edward Byles Cowell",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "F. Kittel",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Missionar"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "J. Muir",
+   "type": "collaborated_with",
+   "object": "Theodor Aufrecht",
+   "role": "Hilfe für das Verständnis der vedischen Texte",
+   "place": null,
+   "year_start": null,
+   "year_end": 1863,
+   "explicit": true,
+   "evidence": "Noch mehr erkennt Muir die Hilfe Aufrechts an in der Preface des schon 1863 erschienenen Vol. IV, für das Verständnis der vedischen Texte",
+   "quote_ok": true
+  },
+  {
+   "subject": "J. Muir",
+   "type": "collaborated_with",
+   "object": "Theodor Goldstücker",
+   "role": "Verbesserungen",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Appendix teilt Muir Verbesserungen von Goldstücker, Cowell und Aufrecht mit.",
+   "quote_ok": true
+  },
+  {
+   "subject": "J. Muir",
+   "type": "collaborated_with",
+   "object": "Edward Byles Cowell",
+   "role": "Verbesserungen",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Appendix teilt Muir Verbesserungen von Goldstücker, Cowell und Aufrecht mit.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 79,
+ "model": "gemini-flash-latest"
+}

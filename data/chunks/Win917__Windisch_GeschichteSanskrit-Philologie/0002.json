@@ -1,0 +1,181 @@
+{
+ "people": [
+  {
+   "name": "M. V. La Croze",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Bibliothécaire & Antiquaire du Roi de Prusse"
+  },
+  {
+   "name": "Bartholomäus Ziegenbalg",
+   "birth_year": 1683,
+   "death_year": 1719,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Missionar in Tranquebar"
+  },
+  {
+   "name": "August Hermann Francke",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Theologe und Pädagoge in Halle"
+  },
+  {
+   "name": "Père Calmette",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "French",
+   "note": "Jesuitenmissionar in Indien"
+  },
+  {
+   "name": "Père Pons",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "French",
+   "note": "Jesuitenmissionar in Indien"
+  },
+  {
+   "name": "Père Coeurdoux",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "French",
+   "note": "Jesuitenmissionar in Indien"
+  },
+  {
+   "name": "J. Ith",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Bibliothekar, Übersetzer des Ezour-Vedam"
+  },
+  {
+   "name": "Baron de Sainte Croix",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "French",
+   "note": "Herausgeber des französischen Ezour-Veda"
+  },
+  {
+   "name": "Francis Ellis",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "British",
+   "note": "Verfasser einer Untersuchung über den Ezour-Vedam"
+  },
+  {
+   "name": "Sir Alexander Johnston",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "British",
+   "note": "Chief Justice on the island of Ceylon"
+  },
+  {
+   "name": "Captain Fraser",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "British",
+   "note": "British resident at Pondicherry"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "M. V. La Croze",
+   "type": "position_at",
+   "object": "Roi de Prusse",
+   "role": "Bibliothécaire & Antiquaire",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "M. V. La Croze, Bibliothécaire & Antiquaire du Roi de Prusse",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bartholomäus Ziegenbalg",
+   "type": "position_at",
+   "object": "Mission in Tranquebar",
+   "role": "Missionar",
+   "place": "Tranquebar",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bartholomäus Ziegenbalg, geboren 1683 und schon 1719 gestorben, war dem König von Dänemark von August Hermann Francke in Halle für die Mission in Tranquebar empfohlen worden",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bartholomäus Ziegenbalg",
+   "type": "other",
+   "object": "August Hermann Francke",
+   "role": "recommended by",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "war dem König von Dänemark von August Hermann Francke in Halle für die Mission in Tranquebar empfohlen worden",
+   "quote_ok": true
+  },
+  {
+   "subject": "Baron de Sainte Croix",
+   "type": "position_at",
+   "object": "Académie des Inscriptions et Belles Lettres",
+   "role": "Mitglied",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Baron de Sainte Croix, Mitglied der Académie des Inscriptions et Belles Lettres",
+   "quote_ok": true
+  },
+  {
+   "subject": "J. Ith",
+   "type": "other",
+   "object": "Baron de Sainte Croix",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Wir erfahren von ihm, daß der Baron de Sainte Croix, Mitglied der Académie des Inscriptions et Belles Lettres, mit dem er persönlich befreundet war, der Herausgeber des französischen Ezour-Veda war.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir Alexander Johnston",
+   "type": "position_at",
+   "object": "Ceylon",
+   "role": "Chief Justice",
+   "place": "Ceylon",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sir Alexander Johnston (hier Johnson genannt), Chief Justice on the island of Ceylon",
+   "quote_ok": true
+  },
+  {
+   "subject": "Captain Fraser",
+   "type": "position_at",
+   "object": "Pondicherry",
+   "role": "British resident",
+   "place": "Pondicherry",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Captain Fraser, the British resident at Pondicherry",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 2,
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,129 @@
+{
+ "people": [
+  {
+   "name": "Moriz Winternitz",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "ord. Professor an der Deutschen Universität in Prag"
+  },
+  {
+   "name": "Jyun Takakusu",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Professor in Tokio, former student and friend of M. Winternitz"
+  },
+  {
+   "name": "Otto Stein",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Student of M. Winternitz"
+  },
+  {
+   "name": "Louis de La Vallée Poussin",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Professor in Brüssel"
+  },
+  {
+   "name": "Heinrich Kern",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Died shortly before 1920"
+  },
+  {
+   "name": "Ernst Windisch",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Died shortly before 1920"
+  },
+  {
+   "name": "Paul Deussen",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Died shortly before 1920"
+  },
+  {
+   "name": "Hermann Oldenberg",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Died shortly before 1920"
+  },
+  {
+   "name": "Leopold von Schroeder",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Friend of M. Winternitz; died shortly before 1920"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Moriz Winternitz",
+   "type": "position_at",
+   "object": "Deutsche Universität in Prag",
+   "role": "ord. Professor",
+   "place": "Prag",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. M. Winternitz, ord. Professor an der Deutschen Universität in Prag.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jyun Takakusu",
+   "type": "student_of",
+   "object": "Moriz Winternitz",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "meinem lieben Freunde und ehemaligen Schüler, Professor Jyun Takakusu in Tokio",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Stein",
+   "type": "student_of",
+   "object": "Moriz Winternitz",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Meinem Schüler Dr. Otto Stein bin ich für die bei der Korrektur der zweiten Hälfte dieses Bandes und bei der Revision des Index geleistete Hilfe zu Dank verpflichtet.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Moriz Winternitz",
+   "type": "other",
+   "object": "Leopold von Schroeder",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "mein lieber Freund Leopold von Schroeder, der es vor mehr als dreißig Jahren unternommen hat, eine Geschichte der indischen Litteratur und Kultur zu schreiben",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9082__Winternitz_GeschichteDerIndischenLitteratur_2_1920",
+ "chunk": 0,
+ "model": "gemini-flash-latest"
+}

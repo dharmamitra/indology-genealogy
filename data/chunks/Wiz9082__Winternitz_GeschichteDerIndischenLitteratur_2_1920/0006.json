@@ -1,0 +1,37 @@
+{
+ "people": [
+  {
+   "name": "T. W. Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "J. E. Carpenter",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "T. W. Rhys Davids",
+   "type": "collaborated_with",
+   "object": "J. E. Carpenter",
+   "role": null,
+   "place": "London",
+   "year_start": 1890,
+   "year_end": 1911,
+   "explicit": true,
+   "evidence": "Herausgegeben von T. W. Rhys Davids und J. E. Carpenter, London PTS, vol. I, 1890, vol. II, 1903, vol. III, 1911.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9082__Winternitz_GeschichteDerIndischenLitteratur_2_1920",
+ "chunk": 6,
+ "model": "gemini-flash-latest"
+}

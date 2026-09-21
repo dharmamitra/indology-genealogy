@@ -1,0 +1,37 @@
+{
+ "people": [
+  {
+   "name": "V. Trenckner",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "R. Chalmers",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "V. Trenckner",
+   "type": "collaborated_with",
+   "object": "R. Chalmers",
+   "role": "co-editor",
+   "place": null,
+   "year_start": 1888,
+   "year_end": 1902,
+   "explicit": true,
+   "evidence": "Herausgegeben von V. Trenckner und R. Chalmers, London PTS 1888—1902, 3 Vols.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9082__Winternitz_GeschichteDerIndischenLitteratur_2_1920",
+ "chunk": 7,
+ "model": "gemini-flash-latest"
+}

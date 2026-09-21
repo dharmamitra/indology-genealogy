@@ -1,0 +1,81 @@
+{
+ "people": [
+  {
+   "name": "M. Winternitz",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "o. Professor an der Deutschen Universität in Prag"
+  },
+  {
+   "name": "Louis de La Vallée Poussin",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Professor in Brüssel"
+  },
+  {
+   "name": "Jyun Takakusu",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Professor in Tokio"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "M. Winternitz",
+   "type": "position_at",
+   "object": "Deutsche Universität in Prag",
+   "role": "o. Professor",
+   "place": "Prag",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. M. Winternitz, o. Professor an der Deutschen Universität in Prag",
+   "quote_ok": true
+  },
+  {
+   "subject": "Louis de La Vallée Poussin",
+   "type": "position_at",
+   "object": "Brüssel",
+   "role": "Professor",
+   "place": "Brüssel",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Louis de La Vallée Poussin in Brüssel",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jyun Takakusu",
+   "type": "position_at",
+   "object": "Tokio",
+   "role": "Professor",
+   "place": "Tokio",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Jyun Takakusu in Tokio",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jyun Takakusu",
+   "type": "student_of",
+   "object": "M. Winternitz",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "meinem lieben Freunde und ehemaligen Schüler, Professor Jyun Takakusu in Tokio",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9082__Winternitz_GeschichteDerIndischenLitteratur_2_1920",
+ "chunk": 1,
+ "model": "gemini-flash-latest"
+}

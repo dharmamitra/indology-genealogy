@@ -1,0 +1,57 @@
+{
+ "people": [
+  {
+   "name": "R. Schmidt",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "J. Hertel",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "N. Mironow",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "R. Schmidt",
+   "type": "collaborated_with",
+   "object": "J. Hertel",
+   "role": null,
+   "place": null,
+   "year_start": 1905,
+   "year_end": 1907,
+   "explicit": true,
+   "evidence": "herausgegeben und übersetzt von R. Schmidt und J. Hertel in ZDMG 59, 1905 und 61, 1907.",
+   "quote_ok": true
+  },
+  {
+   "subject": "N. Mironow",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1903,
+   "explicit": true,
+   "evidence": "N. Mironow, Die Dharmaparīkṣā des Amitagati. Diss. Leipzig 1903.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9082__Winternitz_GeschichteDerIndischenLitteratur_2_1920",
+ "chunk": 60,
+ "model": "gemini-flash-latest"
+}

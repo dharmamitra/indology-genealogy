@@ -1,0 +1,129 @@
+{
+ "people": [
+  {
+   "name": "R. Pischel",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Albrecht Weber",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Stenzler",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "R. Pischel",
+   "type": "student_of",
+   "object": "Stenzler",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pischel war ein Schüler Stenzlers",
+   "quote_ok": true
+  },
+  {
+   "subject": "R. Pischel",
+   "type": "student_of",
+   "object": "Albrecht Weber",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "hatte aber auch bei Weber Vorlesungen gehört.",
+   "quote_ok": true
+  },
+  {
+   "subject": "R. Pischel",
+   "type": "other",
+   "object": "Albrecht Weber",
+   "role": "opponent in scholarly controversy",
+   "place": null,
+   "year_start": 1873,
+   "year_end": 1876,
+   "explicit": true,
+   "evidence": "Trotzdem brach sehr bald eine starke persönliche Polemik zwischen diesen beiden hervorragenden Gelehrten aus",
+   "quote_ok": true
+  },
+  {
+   "subject": "R. Pischel",
+   "type": "succeeded",
+   "object": "Albrecht Weber",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pischel wurde Webers Nachfolger an der Universität und in der Akademie zu Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "R. Pischel",
+   "type": "position_at",
+   "object": "Universität zu Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pischel wurde Webers Nachfolger an der Universität und in der Akademie zu Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "R. Pischel",
+   "type": "position_at",
+   "object": "Akademie zu Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pischel wurde Webers Nachfolger an der Universität und in der Akademie zu Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albrecht Weber",
+   "type": "position_at",
+   "object": "Universität zu Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pischel wurde Webers Nachfolger an der Universität und in der Akademie zu Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albrecht Weber",
+   "type": "position_at",
+   "object": "Akademie zu Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pischel wurde Webers Nachfolger an der Universität und in der Akademie zu Berlin.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 87,
+ "model": "gemini-flash-latest"
+}

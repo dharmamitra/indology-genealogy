@@ -1,0 +1,45 @@
+{
+ "people": [
+  {
+   "name": "Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Bunyiu Nanjio",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Takakusu",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Professor"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Max Müller",
+   "type": "collaborated_with",
+   "object": "Bunyiu Nanjio",
+   "role": null,
+   "place": "Oxford",
+   "year_start": 1883,
+   "year_end": 1883,
+   "explicit": true,
+   "evidence": "Beide Versionen sind von Max Müller und Bunyiu Nanjio herausgegeben (Anecdota Oxoniensia, Aryan Series, Vol. I, Part II, Oxford 1883)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9082__Winternitz_GeschichteDerIndischenLitteratur_2_1920",
+ "chunk": 43,
+ "model": "gemini-flash-latest"
+}

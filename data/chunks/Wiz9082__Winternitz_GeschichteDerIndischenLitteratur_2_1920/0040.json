@@ -1,0 +1,57 @@
+{
+ "people": [
+  {
+   "name": "Tsuru-Matsu Tokiwai",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Sarat Chandra Dās",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Hari Mohan Vidyābhūṣaṇa",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Tsuru-Matsu Tokiwai",
+   "type": "studied_at",
+   "object": "Universität Straßburg",
+   "role": null,
+   "place": "Straßburg",
+   "year_start": null,
+   "year_end": 1898,
+   "explicit": true,
+   "evidence": "Tsuru-Matsu Tokiwai, Studien zum Sumāgadhāvadāna, Diss. der Universität Straßburg 1898",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sarat Chandra Dās",
+   "type": "collaborated_with",
+   "object": "Hari Mohan Vidyābhūṣaṇa",
+   "role": null,
+   "place": "Kalkutta",
+   "year_start": 1888,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Der Text mit der tibetischen Übersetzung wird in der Bibl. Ind., Kalkutta 1888 ff. von Sarat Chandra Dās und Hari Mohan Vidyābhūṣaṇa herausgegeben.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9082__Winternitz_GeschichteDerIndischenLitteratur_2_1920",
+ "chunk": 40,
+ "model": "gemini-flash-latest"
+}

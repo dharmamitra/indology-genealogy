@@ -1,0 +1,65 @@
+{
+ "people": [
+  {
+   "name": "James Prinsep",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Kamalākānta",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Indian",
+   "note": "Pandit who assisted James Prinsep"
+  },
+  {
+   "name": "Bhagvānlāl Indraji",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Indian",
+   "note": null
+  },
+  {
+   "name": "Georg Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Bhagvānlāl Indraji",
+   "type": "collaborated_with",
+   "object": "Georg Bühler",
+   "role": null,
+   "place": null,
+   "year_start": 1878,
+   "year_end": 1878,
+   "explicit": true,
+   "evidence": "Einen genaueren Text und eine bessere Übersetzung dieser merkwürdigen ältesten Sanskritschrift gab 1878 Bhagvānlāl Indraji (in Verbindung mit Bühler) im Indian Antiquary VII 257.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Prinsep",
+   "type": "collaborated_with",
+   "object": "Kamalākānta",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prinsep erhielt einen Abklatsch auch dieser Inschrift von Rev. J. Wilson, und übersetzte sie mit Hilfe seines Pandit Kamalākānta, JASB. VII 334 ff.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 28,
+ "model": "gemini-flash-latest"
+}

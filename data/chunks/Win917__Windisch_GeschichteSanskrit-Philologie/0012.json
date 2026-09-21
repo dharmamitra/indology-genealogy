@@ -1,0 +1,101 @@
+{
+ "people": [
+  {
+   "name": "Anquetil Duperron",
+   "birth_year": 1731,
+   "death_year": 1805,
+   "birth_place": "Paris",
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Wilson",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Prinsep",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Le Gentil",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Wilson",
+   "type": "position_at",
+   "object": "Calcutta",
+   "role": "Assay Master",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Amtlich war Wilson als Assay Master von Calcutta Prinseps Vorgänger",
+   "quote_ok": true
+  },
+  {
+   "subject": "Prinsep",
+   "type": "succeeded",
+   "object": "Wilson",
+   "role": "Assay Master",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Amtlich war Wilson als Assay Master von Calcutta Prinseps Vorgänger",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anquetil Duperron",
+   "type": "position_at",
+   "object": "Paris",
+   "role": "Dolmetscher der orientalischen Sprachen",
+   "place": "Paris",
+   "year_start": 1762,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Jahre 1762 nach Paris zurückgekehrt, erhielt er das Amt eines Dolmetschers der orientalischen Sprachen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anquetil Duperron",
+   "type": "other",
+   "object": "Le Gentil",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "dessen persische Übersetzung er 1775 durch die Güte seines Freundes Le Gentil... erhalten hatte",
+   "quote_ok": false
+  },
+  {
+   "subject": "Le Gentil",
+   "type": "position_at",
+   "object": "French Government",
+   "role": "ministerii Gallici nomine residentis",
+   "place": "Faisabad",
+   "year_start": 1775,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Le Gentil, \"tunc apud Nabab Soudjaëddaulah, in urbe Faisabad, ministerii Gallici nomine residentis\"",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 12,
+ "model": "gemini-flash-latest"
+}

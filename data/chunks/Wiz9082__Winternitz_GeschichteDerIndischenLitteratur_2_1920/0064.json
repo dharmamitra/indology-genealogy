@@ -1,0 +1,45 @@
+{
+ "people": [
+  {
+   "name": "Nāṇatiloka",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Civil name Anton Gueth"
+  },
+  {
+   "name": "D. Andersen",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Helmer Smith",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "D. Andersen",
+   "type": "collaborated_with",
+   "object": "Helmer Smith",
+   "role": null,
+   "place": null,
+   "year_start": 1913,
+   "year_end": 1913,
+   "explicit": true,
+   "evidence": "Neue Ausgabe des Suttanipāta von D. Andersen und Helmer Smith, London PTS 1913.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9082__Winternitz_GeschichteDerIndischenLitteratur_2_1920",
+ "chunk": 64,
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,61 @@
+{
+ "people": [
+  {
+   "name": "H. C. Warren",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "American",
+   "note": "allzu früh verstorbener amerikanischer Gelehrter"
+  },
+  {
+   "name": "Rudolf Fuchs",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Rudolf Fuchs",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": 1908,
+   "explicit": true,
+   "evidence": "Rudolf Fuchs, Specimen des Peṭakopadesa, Berlin, Diss., 1908.",
+   "quote_ok": true
+  },
+  {
+   "subject": "C. R. Lanman",
+   "type": "collaborated_with",
+   "object": "H. C. Warren",
+   "role": "completion of Warren's unfinished edition and translation",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Derselbe allzu früh verstorbene amerikanische Gelehrte hat eine Ausgabe und eine Übersetzung des Werkes begonnen, die, von C. R. Lanman fortgesetzt und vollendet... erscheinen sollen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "W. Geiger",
+   "type": "other",
+   "object": "R. O. Franke",
+   "role": "opponent in a controversy",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "W. Geiger, Dīpavaṃsa und Mahāvaṃsa und die geschichtliche Überlieferung in Ceylon, Leipzig 1905 und ZDMG 63, 1909, 540 ff. gegen R. O. Franke",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9082__Winternitz_GeschichteDerIndischenLitteratur_2_1920",
+ "chunk": 30,
+ "model": "gemini-flash-latest"
+}

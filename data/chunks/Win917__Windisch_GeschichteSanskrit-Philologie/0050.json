@@ -1,0 +1,77 @@
+{
+ "people": [
+  {
+   "name": "Mathurin Veyssière de La Croze",
+   "birth_year": 1661,
+   "death_year": 1739,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Mönch im Benediktinerkloster St. Germain-des-Prés zu Paris, trat 1696 in Basel zur reformierten Kirche über, wurde 1697 Bibliothekar in Berlin."
+  },
+  {
+   "name": "Gottlieb Siegfried Bayer",
+   "birth_year": 1694,
+   "death_year": 1738,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Olfert Dapper",
+   "birth_year": null,
+   "death_year": 1690,
+   "birth_place": null,
+   "nationality": "Dutch",
+   "note": "Arzt und Geograph in Amsterdam."
+  },
+  {
+   "name": "Abraham Roger",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Dutch",
+   "note": "War tätig in Paliakatta an der Koromandelküste."
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Böhtlingk",
+   "type": "collaborated_with",
+   "object": "Roth",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "das Sanskrit-Wörterbuch von Böhtlingk und Roth benutzt hat",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mathurin Veyssière de La Croze",
+   "type": "position_at",
+   "object": "Berlin",
+   "role": "Bibliothekar",
+   "place": "Berlin",
+   "year_start": 1697,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "trat in Basel zur reformierten Kirche über und wurde 1697 Bibliothekar zu Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Abraham Roger",
+   "type": "position_at",
+   "object": "Paliakatta",
+   "role": null,
+   "place": "Paliakatta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "öftere Erwähnung der Stadt Paliakatta, in der Roger tätig gewesen war",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 50,
+ "model": "gemini-flash-latest"
+}

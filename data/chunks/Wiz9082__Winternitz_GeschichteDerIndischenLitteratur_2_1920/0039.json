@@ -1,0 +1,37 @@
+{
+ "people": [
+  {
+   "name": "E. B. Cowell",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "R. A. Neil",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "E. B. Cowell",
+   "type": "collaborated_with",
+   "object": "R. A. Neil",
+   "role": "co-editor",
+   "place": "Cambridge",
+   "year_start": 1886,
+   "year_end": 1886,
+   "explicit": true,
+   "evidence": "Edited by E. B. Cowell and R. A. Neil, Cambridge 1886.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9082__Winternitz_GeschichteDerIndischenLitteratur_2_1920",
+ "chunk": 39,
+ "model": "gemini-flash-latest"
+}

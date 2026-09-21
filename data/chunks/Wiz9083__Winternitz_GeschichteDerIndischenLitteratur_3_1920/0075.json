@@ -1,0 +1,57 @@
+{
+ "people": [
+  {
+   "name": "Th. Goldstücker",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "E. B. Cowell",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Prabhu Dutt Shāstrī",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Th. Goldstücker",
+   "type": "collaborated_with",
+   "object": "E. B. Cowell",
+   "role": null,
+   "place": "London",
+   "year_start": null,
+   "year_end": 1878,
+   "explicit": true,
+   "evidence": "Ed. by Th. Goldstücker und E. B. Cowell, London 1878",
+   "quote_ok": true
+  },
+  {
+   "subject": "Prabhu Dutt Shāstrī",
+   "type": "studied_at",
+   "object": "Kiel",
+   "role": null,
+   "place": "Kiel",
+   "year_start": null,
+   "year_end": 1911,
+   "explicit": true,
+   "evidence": "Prabhu Dutt Shāstrī, The Doctrine of Māyā in the System of the Vedānta, London 1911 (Diss. Kiel)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9083__Winternitz_GeschichteDerIndischenLitteratur_3_1920",
+ "chunk": 75,
+ "model": "gemini-flash-latest"
+}

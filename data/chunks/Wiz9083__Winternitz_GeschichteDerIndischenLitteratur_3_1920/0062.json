@@ -1,0 +1,37 @@
+{
+ "people": [
+  {
+   "name": "G. Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "P. Peterson",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "G. Bühler",
+   "type": "collaborated_with",
+   "object": "P. Peterson",
+   "role": null,
+   "place": "Bombay",
+   "year_start": 1887,
+   "year_end": 1891,
+   "explicit": true,
+   "evidence": "Edited by G. Bühler and P. Peterson, Bombay 1887 und 1891 (BSS, Nr. 10 und 42)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9083__Winternitz_GeschichteDerIndischenLitteratur_3_1920",
+ "chunk": 62,
+ "model": "gemini-flash-latest"
+}

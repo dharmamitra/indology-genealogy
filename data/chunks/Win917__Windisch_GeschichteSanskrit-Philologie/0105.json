@@ -1,0 +1,169 @@
+{
+ "people": [
+  {
+   "name": "B. Delbrück",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Ernst Windisch",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Karl Brugmann",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Eugen Wilhelm",
+   "birth_year": 1842,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "August Schleicher",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Carl Gaedicke",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Ferdinand de Saussure",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Adoniram Judson Eaton",
+   "birth_year": 1851,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "American",
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "B. Delbrück",
+   "type": "collaborated_with",
+   "object": "Ernst Windisch",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Delbrück verband sich mit Windisch zur Herausgabe der \"Syntaktischen Forschungen\"",
+   "quote_ok": true
+  },
+  {
+   "subject": "B. Delbrück",
+   "type": "collaborated_with",
+   "object": "Karl Brugmann",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in drei Teilen den dritten bis fünften Band von Brugmann und Delbrücks \"Grundriß der Vergleichenden Grammatik der Indogermanischen Sprachen\" bildet",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eugen Wilhelm",
+   "type": "student_of",
+   "object": "August Schleicher",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Wilhelm, geboren 1842, Professor am Gymnasium und an der Universität zu Jena, ein Schüler Schleichers",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eugen Wilhelm",
+   "type": "position_at",
+   "object": "Universität zu Jena",
+   "role": "Professor",
+   "place": "Jena",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Wilhelm, geboren 1842, Professor am Gymnasium und an der Universität zu Jena",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Gaedicke",
+   "type": "student_of",
+   "object": "B. Delbrück",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Als besonders gehaltvoll rühmt Delbrück (S. VIII) die Arbeit seines Schülers Carl Gaedicke.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Gaedicke",
+   "type": "studied_at",
+   "object": "Universität Jena",
+   "role": null,
+   "place": "Jena",
+   "year_start": null,
+   "year_end": 1877,
+   "explicit": false,
+   "evidence": "Aus dessen Dissertation über den Akkusativ im Rgveda, Jena 1877, ging seine größere Schrift \"Der Accusativ im Veda\", Breslau 1880, hervor",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ferdinand de Saussure",
+   "type": "studied_at",
+   "object": "Universität Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hier reiht sich auch die Leipziger Dissertation von Ferdinand de Saussure ein, \"De l'emploi du génitif absolu\", Genève 1881",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adoniram Judson Eaton",
+   "type": "studied_at",
+   "object": "Universität Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": 1884,
+   "explicit": true,
+   "evidence": "die 1884 erschienene Leipziger Dissertation \"The Ātmanepada in Ṛgveda\" von dem Amerikaner Adoniram Judson Eaton",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 105,
+ "model": "gemini-flash-latest"
+}

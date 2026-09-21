@@ -1,0 +1,213 @@
+{
+ "people": [
+  {
+   "name": "Cappeller",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Julius Grill",
+   "birth_year": 1840,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "German",
+   "note": "Württembergischer Theologe; Repetent in Tübingen, Dekan in Calw, Professor am Seminar in Maulbronn, Professor in Tübingen"
+  },
+  {
+   "name": "Hermann Brunnhofer",
+   "birth_year": 1841,
+   "death_year": 1917,
+   "birth_place": "Aarau",
+   "nationality": "Swiss",
+   "note": "Indologe und Kulturhistoriker"
+  },
+  {
+   "name": "Rudolf Roth",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Albrecht Weber",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Monier Williams",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Franz Kielhorn",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Adalbert Kuhn",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Julius Grill",
+   "type": "student_of",
+   "object": "Rudolf Roth",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Sanskrit bezeichnet er sich selbst als Schüler Roths.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Julius Grill",
+   "type": "position_at",
+   "object": "Tübingen",
+   "role": "Repetent",
+   "place": "Tübingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "war Repetent in Tübingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Julius Grill",
+   "type": "position_at",
+   "object": "Calw",
+   "role": "Dekan",
+   "place": "Calw",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dekan in Calw",
+   "quote_ok": true
+  },
+  {
+   "subject": "Julius Grill",
+   "type": "position_at",
+   "object": "Seminar in Maulbronn",
+   "role": "Professor",
+   "place": "Maulbronn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor am Seminar in Maulbronn",
+   "quote_ok": true
+  },
+  {
+   "subject": "Julius Grill",
+   "type": "position_at",
+   "object": "Universität Tübingen",
+   "role": "Professor der alttestamentlichen Exegese",
+   "place": "Tübingen",
+   "year_start": 1888,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "seit 1888 Professor der alttestamentlichen Exegese in Tübingen, jetzt in Ruhestand.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Julius Grill",
+   "type": "student_of",
+   "object": "Adalbert Kuhn",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Von den Meistern \"vergleichender indogermanischer Mythologie\", bei denen er in die Schule gegangen, nennt er A. Kuhn mit Namen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Brunnhofer",
+   "type": "student_of",
+   "object": "Albrecht Weber",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hermann Brunnhofer, geboren 1841 zu Aarau, gestorben 1917 in München, war im Sanskrit ein Schüler Webers.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Brunnhofer",
+   "type": "succeeded",
+   "object": "Franz Kielhorn",
+   "role": "wissenschaftlicher Hilfsarbeiter bei Monier Williams",
+   "place": "Oxford",
+   "year_start": 1866,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wo er zuerst als Nachfolger des nach Indien berufenen Kielhorn wissenschaftlicher Hilfsarbeiter bei Monier Williams in Oxford war.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Brunnhofer",
+   "type": "position_at",
+   "object": "Monier Williams",
+   "role": "wissenschaftlicher Hilfsarbeiter",
+   "place": "Oxford",
+   "year_start": 1866,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wo er zuerst als Nachfolger des nach Indien berufenen Kielhorn wissenschaftlicher Hilfsarbeiter bei Monier Williams in Oxford war.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Brunnhofer",
+   "type": "collaborated_with",
+   "object": "Max Müller",
+   "role": "Hilfsarbeiter am Wortindex zum Rgveda",
+   "place": "Oxford",
+   "year_start": 1867,
+   "year_end": 1867,
+   "explicit": true,
+   "evidence": "Im Sommer 1867 arbeitete er in gleicher Eigenschaft an dem Wortindex zum Rgveda für Max Müller.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Brunnhofer",
+   "type": "position_at",
+   "object": "Universität Bern",
+   "role": "Titularprofessor (zuvor Habilitation, Lehrauftrag für historische Topographie)",
+   "place": "Bern",
+   "year_start": 1901,
+   "year_end": 1914,
+   "explicit": true,
+   "evidence": "Habilitiert hat er sich erst 1901 in Bern, bezeichnenderweise für Urgeschichte und historische Geographie des Orients. [...] Zum Titularprofessor ernannt, verließ er Bern 1914",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 97,
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,153 @@
+{
+ "people": [
+  {
+   "name": "A. W. Schlegel",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Christian Lassen",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Franz Bopp",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Wilhelm von Humboldt",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Heeren",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "William Robertson",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Scottish",
+   "note": null
+  },
+  {
+   "name": "Henry Thomas Colebrooke",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Paul Deussen",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Otto Strauss",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Christian Lassen",
+   "type": "student_of",
+   "object": "A. W. Schlegel",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sein Schüler und Gehülfe Christian Lassen, von dessen Fleiß, Eifer und ausgezeichnetem Sprachsinn er schon jetzt der gelehrten Welt ersprießliche Früchte versprechen dürfe",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. W. Schlegel",
+   "type": "collaborated_with",
+   "object": "Christian Lassen",
+   "role": null,
+   "place": null,
+   "year_start": 1829,
+   "year_end": 1831,
+   "explicit": true,
+   "evidence": "Dazwischen gab er zusammen mit Lassen den \"Hitopadesas id est Institutio salutaris\" heraus, den Text 1829, den Commentarius criticus 1831",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Deussen",
+   "type": "collaborated_with",
+   "object": "Otto Strauss",
+   "role": null,
+   "place": null,
+   "year_start": 1906,
+   "year_end": 1906,
+   "explicit": true,
+   "evidence": "von Deussen im Verein mit Strauss (1906)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heeren",
+   "type": "position_at",
+   "object": "Göttingen",
+   "role": "Professor",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "An Herrn Professor Heeren in Göttingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. W. Schlegel",
+   "type": "influenced_by",
+   "object": "William Robertson",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Schlegel sagt hier, daß dies das eine der zwei Bücher war, durch die er sich hauptsächlich zur Erlernung des Sanskrit habe bestimmen lassen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm von Humboldt",
+   "type": "influenced_by",
+   "object": "Henry Thomas Colebrooke",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "W. v. Humboldt, der die indische Philosophie aus Colebrookes Essays kennen gelernt hatte",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 20,
+ "model": "gemini-flash-latest"
+}

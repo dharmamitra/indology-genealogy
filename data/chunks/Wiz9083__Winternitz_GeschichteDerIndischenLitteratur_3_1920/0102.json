@@ -1,0 +1,73 @@
+{
+ "people": [
+  {
+   "name": "G. U. Pope",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "christlicher Missionar"
+  },
+  {
+   "name": "H. Kingscote",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "S. M. Natesa Sastri",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "S. Krishnaswami Aiyangar",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "V. A. Smith",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "H. Kingscote",
+   "type": "collaborated_with",
+   "object": "S. M. Natesa Sastri",
+   "role": null,
+   "place": null,
+   "year_start": 1890,
+   "year_end": 1890,
+   "explicit": true,
+   "evidence": "H. Kingscote and N. Sastri, Tales of the Sun, or Folklore of Southern India, London 1890.",
+   "quote_ok": true
+  },
+  {
+   "subject": "V. A. Smith",
+   "type": "collaborated_with",
+   "object": "S. Krishnaswami Aiyangar",
+   "role": "contributed introduction",
+   "place": null,
+   "year_start": 1911,
+   "year_end": 1911,
+   "explicit": true,
+   "evidence": "S. Krishnaswami Aiyangar, Ancient India, London u. Madras 1911, S. 336 ff., dem V. A. Smith in der diesem Werk vorausgeschickten Einleitung p. XIII beistimmt",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9083__Winternitz_GeschichteDerIndischenLitteratur_3_1920",
+ "chunk": 102,
+ "model": "gemini-flash-latest"
+}

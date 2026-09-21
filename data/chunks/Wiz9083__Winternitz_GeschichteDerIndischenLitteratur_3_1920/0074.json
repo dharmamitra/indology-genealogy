@@ -1,0 +1,93 @@
+{
+ "people": [
+  {
+   "name": "E. B. Cowell",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "A. E. Gough",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "P. Peterson",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "C. Bendall",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Jacobi",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Suali",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "E. B. Cowell",
+   "type": "collaborated_with",
+   "object": "A. E. Gough",
+   "role": null,
+   "place": "London",
+   "year_start": null,
+   "year_end": 1894,
+   "explicit": true,
+   "evidence": "Translated by E. B. Cowell and A. E. Gough, 2nd Ed., London 1894.",
+   "quote_ok": true
+  },
+  {
+   "subject": "P. Peterson",
+   "type": "collaborated_with",
+   "object": "C. Bendall",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1890,
+   "explicit": true,
+   "evidence": "P. Peterson und C. Bendall, JRAS 1890, 490 ff.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Suali",
+   "type": "influenced_by",
+   "object": "Jacobi",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Jacobi (JAOS 31, 1911, 1 ff.), dem Suali (Introduzione p. 13) folgt, hat versucht, eine Chronologie der philosophischen Sūtras festzustellen",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9083__Winternitz_GeschichteDerIndischenLitteratur_3_1920",
+ "chunk": 74,
+ "model": "gemini-flash-latest"
+}

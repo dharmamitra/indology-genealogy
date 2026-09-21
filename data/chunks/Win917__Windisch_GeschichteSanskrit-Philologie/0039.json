@@ -1,0 +1,193 @@
+{
+ "people": [
+  {
+   "name": "Christian Lassen",
+   "birth_year": 1800,
+   "death_year": 1876,
+   "birth_place": "Bergen in Norwegen",
+   "nationality": null,
+   "note": "Professor der Altindischen Sprache und Literatur in Bonn"
+  },
+  {
+   "name": "August Wilhelm v. Schlegel",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Eugène Burnouf",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "N. L. Westergaard",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "dänisch",
+   "note": null
+  },
+  {
+   "name": "Heinrich Ewald",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "J. Häberlin",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": "Tuttlingen",
+   "nationality": null,
+   "note": "Missionar und Presbyter der anglikanischen Kirche"
+  },
+  {
+   "name": "Carl Friedrich Neumann",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Münchener Professor"
+  },
+  {
+   "name": "Ernst Trumpp",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Münchener Professor, langjähriger Missionar in Indien"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Christian Lassen",
+   "type": "student_of",
+   "object": "August Wilhelm v. Schlegel",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Wir haben ihn schon kennen gelernt als den begabten Schüler August Wilhelm v. Schlegels",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Lassen",
+   "type": "influenced_by",
+   "object": "August Wilhelm v. Schlegel",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Als Sanskritphilologe stand er unter dem Einflusse Schlegels.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Lassen",
+   "type": "position_at",
+   "object": "Bonn",
+   "role": "außerordentlicher Professor",
+   "place": "Bonn",
+   "year_start": 1830,
+   "year_end": 1840,
+   "explicit": true,
+   "evidence": "Im Jahre 1830 wurde er außerordentlicher, 1840 ordentlicher Professor.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Lassen",
+   "type": "position_at",
+   "object": "Bonn",
+   "role": "ordentlicher Professor der Altindischen Sprache und Literatur",
+   "place": "Bonn",
+   "year_start": 1840,
+   "year_end": 1876,
+   "explicit": true,
+   "evidence": "und ist gestorben am 8. Mai 1876 als Professor der Altindischen Sprache und Literatur in Bonn. [...] Im Jahre 1830 wurde er außerordentlicher, 1840 ordentlicher Professor.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Lassen",
+   "type": "collaborated_with",
+   "object": "Eugène Burnouf",
+   "role": null,
+   "place": "Paris",
+   "year_start": 1826,
+   "year_end": 1826,
+   "explicit": true,
+   "evidence": "Seine erste literarische Tat war im Verein mit Burnouf der Essai sur le Pali, Paris 1826.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Lassen",
+   "type": "other",
+   "object": "Eugène Burnouf",
+   "role": "friend",
+   "place": "Paris",
+   "year_start": 1825,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Während seines Aufenthalts in Paris im Jahre 1825 [...] schloß er die Freundschaft mit Eugène Burnouf.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Lassen",
+   "type": "collaborated_with",
+   "object": "August Wilhelm v. Schlegel",
+   "role": null,
+   "place": "Bonn",
+   "year_start": 1829,
+   "year_end": 1831,
+   "explicit": true,
+   "evidence": "Mit Schlegel zusammen gab Lassen heraus \"Hitopadesas id est Institutio salutaris\", Bonn 1829, 1831",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Ewald",
+   "type": "founded",
+   "object": "Zeitschrift für die Kunde des Morgenlandes",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": 1837,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "die hauptsächlich von Ewald angeregte Gründung der \"Zeitschrift für die Kunde des Morgenlandes\", deren erstes Heft Göttingen 1837 erschien",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Friedrich Neumann",
+   "type": "position_at",
+   "object": "München",
+   "role": "Professor",
+   "place": "München",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Carl Friedrich Neumann [...] In der Folgezeit hat ein anderer Münchener Professor, Ernst Trumpp",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Trumpp",
+   "type": "position_at",
+   "object": "München",
+   "role": "Professor",
+   "place": "München",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In der Folgezeit hat ein anderer Münchener Professor, Ernst Trumpp, der lange als Missionar in Indien tätig gewesen war",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 39,
+ "model": "gemini-flash-latest"
+}

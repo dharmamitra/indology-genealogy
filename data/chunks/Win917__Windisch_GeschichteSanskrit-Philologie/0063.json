@@ -1,0 +1,77 @@
+{
+ "people": [
+  {
+   "name": "Theodor Goldstücker",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Albrecht Weber",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "R. West",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "J. G. Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Theodor Goldstücker",
+   "type": "founded",
+   "object": "Sanskrit Text Society",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "die Publikationen der von ihm gegründeten Sanskrit Text Society unter dem Titel Auctores Sanscriti",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albrecht Weber",
+   "type": "other",
+   "object": "Theodor Goldstücker",
+   "role": "opponent in controversy",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Weber bekämpft (S. 43 ff.) Goldstücker Punkt für Punkt, indem er zu Goldstückers Kenntnis des Mahābhāṣya seine Kenntnis des Yajurveda hinzubrachte. In diesem Streit",
+   "quote_ok": true
+  },
+  {
+   "subject": "R. West",
+   "type": "collaborated_with",
+   "object": "J. G. Bühler",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Digest of Hindu Law, from the replies of the Shastris in the several Courts of the Bombay Presidency, Book II, Partition\" von R. West und J. G. Bühler",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 63,
+ "model": "gemini-flash-latest"
+}

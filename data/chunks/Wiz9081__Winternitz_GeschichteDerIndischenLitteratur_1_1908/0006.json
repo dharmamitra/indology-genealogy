@@ -1,0 +1,53 @@
+{
+ "people": [
+  {
+   "name": "Whitley Stokes",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Keltist, 1868 Sekretär des indischen Rats in Simla"
+  },
+  {
+   "name": "M. A. Stein",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Machte 1900 Handschriftenfunde bei Khotan in der Taklamakān-Wüste"
+  },
+  {
+   "name": "G. Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Entdeckte alte Handschriften in Indien, u. a. in Khambay"
+  },
+  {
+   "name": "Colebrooke",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Brachte Handschriftensammlungen nach Europa"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Whitley Stokes",
+   "type": "position_at",
+   "object": "indischer Rat",
+   "role": "Sekretär",
+   "place": "Simla",
+   "year_start": 1868,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Aber im Jahre 1868 regte der verdiente Keltist Whitley Stokes, damals Sekretär des indischen Rats in Simla, eine vollständige Katalogisierung aller Sanskrit-Handschriften an",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Wiz9081__Winternitz_GeschichteDerIndischenLitteratur_1_1908",
+ "chunk": 6,
+ "model": "gemini-flash-latest"
+}

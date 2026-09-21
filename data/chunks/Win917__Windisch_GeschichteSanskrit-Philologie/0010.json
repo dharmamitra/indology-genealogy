@@ -1,0 +1,77 @@
+{
+ "people": [
+  {
+   "name": "Horace Hayman Wilson",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "British Indologist; stayed in India and was 33 years old around 1819 when his Sanskrit-English dictionary appeared."
+  },
+  {
+   "name": "Henry Thomas Colebrooke",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Raghumaṇi Bhaṭṭācārya",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Indian",
+   "note": "Led a group of pandits at the College of Fort William in Calcutta from 1800 to 1809."
+  },
+  {
+   "name": "Premachandra Tarkabāgīśa",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Indian",
+   "note": "Professor of Rhetoric at Sanskrit College in Calcutta around 1863."
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Horace Hayman Wilson",
+   "type": "influenced_by",
+   "object": "Henry Thomas Colebrooke",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Auf den Rat Colebrookes entschloß sich Wilson, sie nachzuprüfen und zu ergänzen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Raghumaṇi Bhaṭṭācārya",
+   "type": "position_at",
+   "object": "College of Fort William",
+   "role": "Leitung der Pandits",
+   "place": "Calcutta",
+   "year_start": 1800,
+   "year_end": 1809,
+   "explicit": true,
+   "evidence": "Den Inhalt der Koṣas hatten im Jahre 1800 Pandits unter Leitung des Raghumaṇi Bhaṭṭācārya für das College of Fort William in Calcutta zu einem Wörterbuche zu verarbeiten begonnen, das 1809 fertig wurde.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Premachandra Tarkabāgīśa",
+   "type": "position_at",
+   "object": "Sanskrit College zu Calcutta",
+   "role": "Professor der Rhetorik",
+   "place": "Calcutta",
+   "year_start": 1863,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Premachandra Tarkabāgīśa, Professor der Rhetorik am Sanskrit College zu Calcutta",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 10,
+ "model": "gemini-flash-latest"
+}

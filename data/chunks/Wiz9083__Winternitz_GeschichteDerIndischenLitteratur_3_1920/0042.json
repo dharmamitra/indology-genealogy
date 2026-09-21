@@ -1,0 +1,65 @@
+{
+ "people": [
+  {
+   "name": "K. P. Parab",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "K. R. Māḍgāvkar",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Sten Konow",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Ch. R. Lanman",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "K. P. Parab",
+   "type": "collaborated_with",
+   "object": "K. R. Māḍgāvkar",
+   "role": null,
+   "place": "Bombay",
+   "year_start": 1898,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "von K. P. Parab und K. R. Māḍgāvkar, Bombay 1898, 2nd Ed. 1905, NSP.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sten Konow",
+   "type": "collaborated_with",
+   "object": "Ch. R. Lanman",
+   "role": null,
+   "place": "Cambridge Mass.",
+   "year_start": 1901,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "kritisch von Sten Konow nebst englischer Übersetzung von Ch. R. Lanman in HOS, Vol. IV, Cambridge Mass. 1901.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9083__Winternitz_GeschichteDerIndischenLitteratur_3_1920",
+ "chunk": 42,
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,65 @@
+{
+ "people": [
+  {
+   "name": "J. B. Biot",
+   "birth_year": null,
+   "death_year": 1862,
+   "birth_place": null,
+   "nationality": "French",
+   "note": "French astronomer whose writings stimulated Albrecht Weber's research on nakṣatras"
+  },
+  {
+   "name": "Albrecht Weber",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Ebenezer Burgess",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "William Dwight Whitney",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Albrecht Weber",
+   "type": "influenced_by",
+   "object": "J. B. Biot",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Den Anstoß zu Webers Untersuchung über die Nakṣatra hatten die Artikel des französischen Astronomen J. B. Biot gegeben",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ebenezer Burgess",
+   "type": "collaborated_with",
+   "object": "William Dwight Whitney",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Auch die Ausgabe des Sūryasiddhānta von Burgess und Whitney in der Bibliotheca Indica lag damals schon vor.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 71,
+ "model": "gemini-flash-latest"
+}

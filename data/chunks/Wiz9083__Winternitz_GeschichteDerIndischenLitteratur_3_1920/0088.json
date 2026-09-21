@@ -1,0 +1,77 @@
+{
+ "people": [
+  {
+   "name": "G. Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "J. Kirste",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "K. Scriba",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "G. Herberich",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "G. Bühler",
+   "type": "collaborated_with",
+   "object": "J. Kirste",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "G. Bühler und J. Kirste, Analyse der Citate in Aparārkas Kommentare, Denkschriften der Wiener Akademie 42, 1893, V",
+   "quote_ok": true
+  },
+  {
+   "subject": "K. Scriba",
+   "type": "studied_at",
+   "object": "Würzburg",
+   "role": null,
+   "place": "Würzburg",
+   "year_start": null,
+   "year_end": 1902,
+   "explicit": true,
+   "evidence": "K. Scriba, Die Fragmente des Pitāmaha, Text und Übersetzung, Leipzig 1902 (Würzburger Diss.).",
+   "quote_ok": true
+  },
+  {
+   "subject": "G. Herberich",
+   "type": "studied_at",
+   "object": "Würzburg",
+   "role": null,
+   "place": "Würzburg",
+   "year_start": null,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "G. Herberich, Zitate aus Vṛddhamanu und Bṛhanmanu nach Sanskritwerken, Würzburg 1893, Diss.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9083__Winternitz_GeschichteDerIndischenLitteratur_3_1920",
+ "chunk": 88,
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,69 @@
+{
+ "people": [
+  {
+   "name": "Kenjiu Kasawara",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "H. Wenzel",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Kenjiu Kasawara",
+   "type": "collaborated_with",
+   "object": "Max Müller",
+   "role": null,
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "Herausgegeben von Kenjiu Kasawara, Max Müller und H. Wenzel (Anecdota Oxoniensia, Aryan Series, Vol 1, Part 5), Oxford 1885.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kenjiu Kasawara",
+   "type": "collaborated_with",
+   "object": "H. Wenzel",
+   "role": null,
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "Herausgegeben von Kenjiu Kasawara, Max Müller und H. Wenzel (Anecdota Oxoniensia, Aryan Series, Vol 1, Part 5), Oxford 1885.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Müller",
+   "type": "collaborated_with",
+   "object": "H. Wenzel",
+   "role": null,
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "Herausgegeben von Kenjiu Kasawara, Max Müller und H. Wenzel (Anecdota Oxoniensia, Aryan Series, Vol 1, Part 5), Oxford 1885.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9082__Winternitz_GeschichteDerIndischenLitteratur_2_1920",
+ "chunk": 44,
+ "model": "gemini-flash-latest"
+}

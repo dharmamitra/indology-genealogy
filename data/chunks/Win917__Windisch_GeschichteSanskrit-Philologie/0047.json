@@ -1,0 +1,61 @@
+{
+ "people": [
+  {
+   "name": "Diogo do Couto",
+   "birth_year": null,
+   "death_year": 1616,
+   "birth_place": null,
+   "nationality": "portugiesisch",
+   "note": "Fortsetzer des João de Barros"
+  },
+  {
+   "name": "R. H. Th. Friederich",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "niederländisch",
+   "note": "forschte in Batavia über Bali und javanische Sanskrit-Inschriften"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "W. v. Humboldt",
+   "type": "influenced_by",
+   "object": "Raffles",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Raffles und Crawfurd waren schon W. v. Humboldts Autoritäten für sein Werk über die Kawi-Sprache.",
+   "quote_ok": true
+  },
+  {
+   "subject": "W. v. Humboldt",
+   "type": "influenced_by",
+   "object": "Crawfurd",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Raffles und Crawfurd waren schon W. v. Humboldts Autoritäten für sein Werk über die Kawi-Sprache.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lassen",
+   "type": "other",
+   "object": "A. Weber",
+   "role": "opponent in a controversy",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er hielt die bhakti für eine echt indische Form der Religiosität und bekämpfte A. Webers Ansicht, der in den Avatāras des Viṣṇu und in der göttlichen Verehrung Kṛṣṇas christlichen Einfluß erblickte.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 47,
+ "model": "gemini-flash-latest"
+}

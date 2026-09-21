@@ -1,0 +1,141 @@
+{
+ "people": [
+  {
+   "name": "Heinrich Wenzel",
+   "birth_year": 1855,
+   "death_year": 1893,
+   "birth_place": "Mainz",
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Heinrich Jäschke",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Missionar in Herrnhut, Tibetologe"
+  },
+  {
+   "name": "Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Heinrich Wenzel",
+   "type": "studied_at",
+   "object": "Jena",
+   "role": null,
+   "place": "Jena",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Heinrich Wenzel, geboren 1855 in Mainz, gestorben 1893 in London, studierte in Jena, Leipzig und Tübingen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Wenzel",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Heinrich Wenzel, geboren 1855 in Mainz, gestorben 1893 in London, studierte in Jena, Leipzig und Tübingen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Wenzel",
+   "type": "studied_at",
+   "object": "Tübingen",
+   "role": null,
+   "place": "Tübingen",
+   "year_start": null,
+   "year_end": 1879,
+   "explicit": true,
+   "evidence": "studierte in Jena, Leipzig und Tübingen. Seine Dissertation \"Über den Instrumentalis im Rigveda\", Tübingen 1879",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Wenzel",
+   "type": "student_of",
+   "object": "Max Müller",
+   "role": null,
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Seine besondere Studienrichtung erhielt er durch Max Müller in Oxford, zu dem er sich nach kurzem Aufenthalt in Straßburg mit einer Empfehlung von Noiré begab.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Wenzel",
+   "type": "student_of",
+   "object": "Heinrich Jäschke",
+   "role": null,
+   "place": "Herrnhut",
+   "year_start": 1881,
+   "year_end": 1883,
+   "explicit": true,
+   "evidence": "Auf M. Müllers Rat ging er 1881 zu dem Missionar H. Jäschke nach Herrnhut und widmete sich dort zwei Jahre lang dem Studium des Tibetischen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Wenzel",
+   "type": "position_at",
+   "object": "Universität Leipzig",
+   "role": "Habilitierter",
+   "place": "Leipzig",
+   "year_start": 1886,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er habilitierte sich in Leipzig mit der Schrift \"Suḥṛillekha... Leipzig 1886. Wenzel hat keine Vorlesungen in Leipzig gehalten, sondern begab sich bald nach der Habilitation nach London",
+   "quote_ok": false
+  },
+  {
+   "subject": "Heinrich Wenzel",
+   "type": "collaborated_with",
+   "object": "Max Müller",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Durch seine Kenntnis des Tibetischen hat er nicht nur M. Müller bei der Herausgabe des Dharmasaṃgraha unterstützt",
+   "quote_ok": false
+  },
+  {
+   "subject": "Heinrich Wenzel",
+   "type": "collaborated_with",
+   "object": "Cowell",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "sondern auch Cowell bei der Ausgabe des Buddhacarita, s. dessen Preface S. V.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Liebich",
+   "type": "other",
+   "object": "Heinrich Wenzel",
+   "role": "persönliche Bekanntschaft",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Auf Grund persönlicher Bekanntschaft mit ihm hat Liebich den Artikel in der Allg. Deutschen Biographie... geschrieben.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 76,
+ "model": "gemini-flash-latest"
+}

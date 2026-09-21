@@ -1,0 +1,57 @@
+{
+ "people": [
+  {
+   "name": "C. A. Florenz",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "R. Roth",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "W. D. Whitney",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "C. A. Florenz",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": 1887,
+   "explicit": true,
+   "evidence": "die ersten 50 Hymnen des VI. Buches C. A. Florenz (Göttingen 1887, Doktordissertation) ins Deutsche übersetzt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "R. Roth",
+   "type": "collaborated_with",
+   "object": "W. D. Whitney",
+   "role": "Herausgeber",
+   "place": "Berlin",
+   "year_start": 1856,
+   "year_end": 1856,
+   "explicit": true,
+   "evidence": "Der Text der Śaunaka-Rezension ist herausgegeben von R. Roth und W. D. Whitney, Berlin 1856.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9081__Winternitz_GeschichteDerIndischenLitteratur_1_1908",
+ "chunk": 17,
+ "model": "gemini-flash-latest"
+}

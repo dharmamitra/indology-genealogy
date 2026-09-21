@@ -1,0 +1,281 @@
+{
+ "people": [
+  {
+   "name": "Peter von Bohlen",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Theodor Goldstücker",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Friedrich Rückert",
+   "birth_year": 1788,
+   "death_year": 1866,
+   "birth_place": "Schweinfurt",
+   "nationality": "German",
+   "note": null
+  },
+  {
+   "name": "Franz Bopp",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Wilhelm Pfaff",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Professor der Mathematik in Erlangen"
+  },
+  {
+   "name": "Adolph Holtzmann",
+   "birth_year": 1810,
+   "death_year": 1870,
+   "birth_place": "Karlsruhe",
+   "nationality": "German",
+   "note": null
+  },
+  {
+   "name": "Othmar Frank",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Johann Andreas Schmeller",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Eugène Burnouf",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "French",
+   "note": null
+  },
+  {
+   "name": "Karl Bartsch",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Ernst Windisch",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Salomon Lefmann",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Adolf Holtzmann der Jüngere",
+   "birth_year": 1838,
+   "death_year": 1914,
+   "birth_place": "Karlsruhe",
+   "nationality": "German",
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Theodor Goldstücker",
+   "type": "influenced_by",
+   "object": "Peter von Bohlen",
+   "role": null,
+   "place": "Königsberg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Wir dürfen v. Bohlen auch zum Verdienst anrechnen, daß er Th. Goldstücker in Königsberg zum Sanskrit angeregt hat",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Rückert",
+   "type": "student_of",
+   "object": "Franz Bopp",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er selbst bezeichnet sich im Sanskrit als Schüler Bopps, obwohl er älter war als dieser, und erst später, als er Sanskrit schon recht gut verstand, in persönliche Beziehungen zu Bopp getreten ist.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Rückert",
+   "type": "position_at",
+   "object": "Erlangen",
+   "role": "Professor",
+   "place": "Erlangen",
+   "year_start": 1826,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er war damals schon, seit 1826, Professor in Erlangen, wo er auch Sanskrit las.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Rückert",
+   "type": "position_at",
+   "object": "Berlin",
+   "role": "Professor des Arabischen",
+   "place": "Berlin",
+   "year_start": 1841,
+   "year_end": 1849,
+   "explicit": true,
+   "evidence": "Später, von 1841 an, war er neben Bopp Professor des Arabischen in Berlin, bis er 1849 seine Professur niederlegte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Rückert",
+   "type": "collaborated_with",
+   "object": "Wilhelm Pfaff",
+   "role": null,
+   "place": "Erlangen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rückert arbeitete an der Übersetzung von Nal und Damajanti zusammen mit dem Professor der Mathematik Wilhelm Pfaff in Erlangen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolph Holtzmann",
+   "type": "student_of",
+   "object": "Othmar Frank",
+   "role": null,
+   "place": "München",
+   "year_start": 1832,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "hörte in München Sanskrit bei Othmar Frank",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolph Holtzmann",
+   "type": "student_of",
+   "object": "Johann Andreas Schmeller",
+   "role": null,
+   "place": "München",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "arbeitete ebenda unter Schmellers Leitung zugleich auf germanistischem Gebiet",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolph Holtzmann",
+   "type": "student_of",
+   "object": "Eugène Burnouf",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ging von da zu E. Burnouf nach Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolph Holtzmann",
+   "type": "position_at",
+   "object": "Heidelberg",
+   "role": "Professor der deutschen Literatur und des Sanskrit",
+   "place": "Heidelberg",
+   "year_start": 1852,
+   "year_end": 1870,
+   "explicit": true,
+   "evidence": "gestorben 1870 als Professor der deutschen Literatur und des Sanskrit in Heidelberg... Die Professur in Heidelberg erhielt er 1852.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Windisch",
+   "type": "succeeded",
+   "object": "Adolph Holtzmann",
+   "role": "Professor für Vergleichende Sprachwissenschaft",
+   "place": "Heidelberg",
+   "year_start": 1870,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nach Holtzmanns Tode wurde die Professur geteilt, für Deutsch und Romanisch wurde K. Bartsch berufen, für Vergleichende Sprachwissenschaft E. Windisch.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Salomon Lefmann",
+   "type": "position_at",
+   "object": "Heidelberg",
+   "role": "Extraordinariat für Sanskrit",
+   "place": "Heidelberg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Daneben hatte S. Lefmann ein Extraordinariat für Sanskrit.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Holtzmann der Jüngere",
+   "type": "other",
+   "object": "Adolph Holtzmann",
+   "role": "nephew",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "An seine Ideen knüpft sein Neffe Adolf Holtzmann der Jüngere an",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Holtzmann der Jüngere",
+   "type": "influenced_by",
+   "object": "Adolph Holtzmann",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "An seine Ideen knüpft sein Neffe Adolf Holtzmann der Jüngere an... der mit seines Onkels Exemplar der Calcuttaer Ausgabe auch das Studium des Mahābhārata geerbt hat.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Holtzmann der Jüngere",
+   "type": "position_at",
+   "object": "Freiburg",
+   "role": "Professor des Sanskrit",
+   "place": "Freiburg",
+   "year_start": null,
+   "year_end": 1914,
+   "explicit": true,
+   "evidence": "gestorben als Professor des Sanskrit in Freiburg 1914",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 23,
+ "model": "gemini-flash-latest"
+}

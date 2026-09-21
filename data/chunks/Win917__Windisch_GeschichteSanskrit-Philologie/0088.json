@@ -1,0 +1,69 @@
+{
+ "people": [
+  {
+   "name": "Walther Schubring",
+   "birth_year": 1881,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "J. S. Warren",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Dutch",
+   "note": null
+  },
+  {
+   "name": "A. Guérinot",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "French",
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Walther Schubring",
+   "type": "student_of",
+   "object": "Leumann",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Leumanns Schüler Walther Schubring (geb. 1881)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jacobi",
+   "type": "influenced_by",
+   "object": "Bühler",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Hintergrund steht Bühler, dem Jacobi sein Buch gewidmet hat, und dem er die erste Auskunft über einige wichtige Punkte verdankte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. Guérinot",
+   "type": "student_of",
+   "object": "Jacobi",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "der Franzose A. Guérinot, Schüler Jacobis",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 88,
+ "model": "gemini-flash-latest"
+}

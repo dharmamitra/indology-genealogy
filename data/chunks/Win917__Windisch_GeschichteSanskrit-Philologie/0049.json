@@ -1,0 +1,65 @@
+{
+ "people": [
+  {
+   "name": "Christian Lassen",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Fr. Windischmann",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Schüler von Christian Lassen"
+  },
+  {
+   "name": "O. Böhtlingk",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Ch. Rieu",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Fr. Windischmann",
+   "type": "student_of",
+   "object": "Christian Lassen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Auch der Schrift seines Schülers Fr. Windischmann \"Sancara sive de Theologumenis Vedanticorum\" gedenkt er wiederholt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "O. Böhtlingk",
+   "type": "collaborated_with",
+   "object": "Ch. Rieu",
+   "role": null,
+   "place": "St. Petersburg",
+   "year_start": 1841,
+   "year_end": 1841,
+   "explicit": true,
+   "evidence": "dessen Abhidhānacintāmaṇi von O. Böhtlingk und Ch. Rieu, St. Petersburg 1841, herausgegeben worden war.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 49,
+ "model": "gemini-flash-latest"
+}

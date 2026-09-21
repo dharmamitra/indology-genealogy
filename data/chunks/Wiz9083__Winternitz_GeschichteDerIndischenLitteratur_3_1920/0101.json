@@ -1,0 +1,29 @@
+{
+ "people": [
+  {
+   "name": "D. E. Smith",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "American",
+   "note": "Professor der Mathematik"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "H. H. Dhruva",
+   "type": "collaborated_with",
+   "object": "K. P. Trivedi",
+   "role": "joint editor",
+   "place": null,
+   "year_start": 1901,
+   "year_end": 1902,
+   "explicit": true,
+   "evidence": "Herausgegeben von H. H. Dhruva und K. P. Trivedi in BSS, Nr. 61 und 62, 1901 und 1902.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9083__Winternitz_GeschichteDerIndischenLitteratur_3_1920",
+ "chunk": 101,
+ "model": "gemini-flash-latest"
+}

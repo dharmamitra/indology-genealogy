@@ -1,0 +1,113 @@
+{
+ "people": [
+  {
+   "name": "Joh. Brune",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "M. Bloomfield",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "R. Garbe",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Le Roy Carr Barret",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "F. Edgerton",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "E. Felber",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "B. Geiger",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Joh. Brune",
+   "type": "studied_at",
+   "object": "Kiel",
+   "role": null,
+   "place": "Kiel",
+   "year_start": null,
+   "year_end": 1909,
+   "explicit": true,
+   "evidence": "Joh. Brune, Zur Textkritik der dem Sāmaveda mit dem achten Maṇḍala des Ṛgveda gemeinsamen Stellen, Diss. Kiel 1909",
+   "quote_ok": false
+  },
+  {
+   "subject": "M. Bloomfield",
+   "type": "collaborated_with",
+   "object": "R. Garbe",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1901,
+   "explicit": true,
+   "evidence": "Die Handschrift der Paippalāda-Rezension haben M. Bloomfield und R. Garbe (The Kashmirian Atharva-Veda, Stuttgart 1901) in Faksimile veröffentlicht.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Le Roy Carr Barret",
+   "type": "collaborated_with",
+   "object": "F. Edgerton",
+   "role": null,
+   "place": null,
+   "year_start": 1906,
+   "year_end": 1921,
+   "explicit": true,
+   "evidence": "Die Bücher I, II, IV—VIII der Kaschmirischen Rezension sind mit textkritischen Noten herausgegeben von Le Roy Carr Barret und F. Edgerton in JAOS vols. 26, 30, 32, 34, 35, 37, 40 und 41, 1906—1921.",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. Felber",
+   "type": "collaborated_with",
+   "object": "B. Geiger",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1912,
+   "explicit": true,
+   "evidence": "E. Felber (Die indische Musik der vedischen und der klassischen Zeit, mit Texten und Übersetzungen von B. Geiger, SWA 1912)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9083__Winternitz_GeschichteDerIndischenLitteratur_3_1920",
+ "chunk": 107,
+ "model": "gemini-flash-latest"
+}

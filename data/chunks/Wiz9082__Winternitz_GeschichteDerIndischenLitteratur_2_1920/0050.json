@@ -1,0 +1,65 @@
+{
+ "people": [
+  {
+   "name": "Leopold v. Schröder",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Prof. in Wien"
+  },
+  {
+   "name": "Diogo do Conto",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Portugiese",
+   "note": null
+  },
+  {
+   "name": "Angelo de Gubernatis",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "A. Obolonsky",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Leopold v. Schröder",
+   "type": "position_at",
+   "object": "Wien",
+   "role": "Prof.",
+   "place": "Wien",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. Leopold v. Schröder in Wien urteilt über das Buch:",
+   "quote_ok": true
+  },
+  {
+   "subject": "Angelo de Gubernatis",
+   "type": "collaborated_with",
+   "object": "A. Obolonsky",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Auch Angelo de Gubernatis und A. Obolonsky (Le Prince Siddhartha, drama en 5 actes et 21 tableaux, Tours 1899) haben das Leben des Buddha dramatisch bearbeitet.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9082__Winternitz_GeschichteDerIndischenLitteratur_2_1920",
+ "chunk": 50,
+ "model": "gemini-flash-latest"
+}

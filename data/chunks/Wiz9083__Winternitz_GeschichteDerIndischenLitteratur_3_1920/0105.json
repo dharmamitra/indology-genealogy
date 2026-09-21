@@ -1,0 +1,133 @@
+{
+ "people": [
+  {
+   "name": "Rāmmohun Roy",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Begründer des Brāhma-Samāj, Verfasser philosophischer und reformatorischer Schriften"
+  },
+  {
+   "name": "Akkhay Kumār Datta",
+   "birth_year": 1820,
+   "death_year": 1886,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Prosaschriftsteller und Essayist über Gegenstände der Sozialreform"
+  },
+  {
+   "name": "Īswar Chandra Vidyāsāgar",
+   "birth_year": 1820,
+   "death_year": 1891,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Prosaschriftsteller und Essayist über Gegenstände der Sozialreform"
+  },
+  {
+   "name": "Bankim Chandra Chatterji",
+   "birth_year": 1838,
+   "death_year": 1894,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Romanschriftsteller in Bengalen"
+  },
+  {
+   "name": "Romesh Chunder Dutt",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Gelehrter Schriftsteller und Politiker, Verfasser von »A History of Civilization in Ancient India«"
+  },
+  {
+   "name": "Dwārkanāth Tagore",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Devendranāth Tagore",
+   "birth_year": 1818,
+   "death_year": 1905,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Organisator des Brāhma-Samāj"
+  },
+  {
+   "name": "Rabindranath Tagore",
+   "birth_year": 1861,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Dichter und Philosoph, Nobelpreisträger für Literatur 1913"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Rāmmohun Roy",
+   "type": "founded",
+   "object": "Brāhma-Samāj",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wollte er die alte brahmanische Religion reformieren und wurde so der Begründer des Brāhma-Samāj, der »Gesellschaft der Gottesgläubigen«.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dwārkanāth Tagore",
+   "type": "other",
+   "object": "Rāmmohun Roy",
+   "role": "Freund und Anhänger",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ein warmer Freund und Anhänger des edlen Rāmmohun Roy und Förderer seines Werkes war Dwārkanāth Tagore.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Devendranāth Tagore",
+   "type": "other",
+   "object": "Dwārkanāth Tagore",
+   "role": "Sohn",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dessen Sohn Devendranāth Tagore (1818—1905) schloß sich dem Brāhma-Samāj an",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bankim Chandra Chatterji",
+   "type": "influenced_by",
+   "object": "Walter Scott",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bankim Chandra Chatterji (1838—1894), der an Walter Scott geschult war",
+   "quote_ok": false
+  },
+  {
+   "subject": "Rabindranath Tagore",
+   "type": "other",
+   "object": "Devendranāth Tagore",
+   "role": "Sohn",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ein Sohn dieses Devendranāth Tagore ist der im Jahre 1861 geborene Rabindranath Tagore",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9083__Winternitz_GeschichteDerIndischenLitteratur_3_1920",
+ "chunk": 105,
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,65 @@
+{
+ "people": [
+  {
+   "name": "F. L. Pullé",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "L. Suali",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Fleet",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Historiker Indiens, vor Verfassung des Textes verstorben"
+  },
+  {
+   "name": "Keshub Chunder Sen",
+   "birth_year": null,
+   "death_year": 1884,
+   "birth_place": null,
+   "nationality": "Indian",
+   "note": "Begründer des Brahmo Samaj of India"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "F. L. Pullé",
+   "type": "collaborated_with",
+   "object": "L. Suali",
+   "role": "Übersetzer",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Einzelne Kapitel des Kommentars übersetzt von Pullé und Suali in GSAI 8, 159 ff.; 9, 1 ff.; 12, 225 ff.; 17, 243 ff.; 19, 283 ff.; 20, 33 ff.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Keshub Chunder Sen",
+   "type": "founded",
+   "object": "Brahmo Samaj of India",
+   "role": "Begründer",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "der im Jahre 1884 verstorbene Keshub Chunder Sen, der Begründer des »Brahmo Samaj of India«",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9082__Winternitz_GeschichteDerIndischenLitteratur_2_1920",
+ "chunk": 62,
+ "model": "gemini-flash-latest"
+}

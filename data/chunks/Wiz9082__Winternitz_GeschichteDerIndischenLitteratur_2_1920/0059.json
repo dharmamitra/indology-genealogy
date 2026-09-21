@@ -1,0 +1,65 @@
+{
+ "people": [
+  {
+   "name": "P. Peterson",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "H. Jacobi",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "T. S. Kuppuswami Śāstrī",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "S. Subrahmanya Śāstrī",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "P. Peterson",
+   "type": "collaborated_with",
+   "object": "H. Jacobi",
+   "role": null,
+   "place": null,
+   "year_start": 1899,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ed. by P. Peterson und H. Jacobi, Bibl. Ind., 1899 ff.",
+   "quote_ok": true
+  },
+  {
+   "subject": "T. S. Kuppuswami Śāstrī",
+   "type": "collaborated_with",
+   "object": "S. Subrahmanya Śāstrī",
+   "role": null,
+   "place": null,
+   "year_start": 1902,
+   "year_end": 1902,
+   "explicit": true,
+   "evidence": "Ed. by T. S. Kuppuswami Śāstrī and S. Subrahmanya Śāstrī, Madras 1902",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9082__Winternitz_GeschichteDerIndischenLitteratur_2_1920",
+ "chunk": 59,
+ "model": "gemini-flash-latest"
+}

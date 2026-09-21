@@ -1,0 +1,37 @@
+{
+ "people": [
+  {
+   "name": "F. Kielhorn",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "G. Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "F. Kielhorn",
+   "type": "collaborated_with",
+   "object": "G. Bühler",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Herausgegeben ist der »Textus simplicior« von F. Kielhorn und G. Bühler, BSS I, III, V",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9083__Winternitz_GeschichteDerIndischenLitteratur_3_1920",
+ "chunk": 50,
+ "model": "gemini-flash-latest"
+}

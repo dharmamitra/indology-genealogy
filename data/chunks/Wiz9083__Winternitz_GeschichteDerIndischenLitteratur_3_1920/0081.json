@@ -1,0 +1,49 @@
+{
+ "people": [
+  {
+   "name": "Paul Markus",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Hermann Walter",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Paul Markus",
+   "type": "studied_at",
+   "object": "Universität Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": 1886,
+   "explicit": true,
+   "evidence": "Paul Markus, Die Yoga-Philosophie nach dem Rājamārtaṇḍa dargestellt, Leipziger Diss., Halle a. S. 1886.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Walter",
+   "type": "studied_at",
+   "object": "Universität München",
+   "role": null,
+   "place": "München",
+   "year_start": null,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "Aus dem Sanskrit übersetzt von Hermann Walter, München 1893, Diss.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9083__Winternitz_GeschichteDerIndischenLitteratur_3_1920",
+ "chunk": 81,
+ "model": "gemini-flash-latest"
+}

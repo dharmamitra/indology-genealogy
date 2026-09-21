@@ -1,0 +1,85 @@
+{
+ "people": [
+  {
+   "name": "Caroline Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Mary C. Foley",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Mabel Hunt",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Ed. Specht",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Sylvain Lévi",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Caroline Rhys Davids",
+   "type": "collaborated_with",
+   "object": "Mary C. Foley",
+   "role": null,
+   "place": "London",
+   "year_start": 1911,
+   "year_end": 1911,
+   "explicit": true,
+   "evidence": "Edited by Caroline Rhys Davids, assisted by Mary C. Foley and Mabel Hunt, Vol. I, London PTS 1911.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Caroline Rhys Davids",
+   "type": "collaborated_with",
+   "object": "Mabel Hunt",
+   "role": null,
+   "place": "London",
+   "year_start": 1911,
+   "year_end": 1911,
+   "explicit": true,
+   "evidence": "Edited by Caroline Rhys Davids, assisted by Mary C. Foley and Mabel Hunt, Vol. I, London PTS 1911.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ed. Specht",
+   "type": "collaborated_with",
+   "object": "Sylvain Lévi",
+   "role": null,
+   "place": "London",
+   "year_start": 1892,
+   "year_end": 1892,
+   "explicit": true,
+   "evidence": "Ed. Specht et Sylvain Lévi, Deux traductions Chinoises du Milindapañho, OC IX London 1892, vol. I, 518 ff.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9082__Winternitz_GeschichteDerIndischenLitteratur_2_1920",
+ "chunk": 25,
+ "model": "gemini-flash-latest"
+}

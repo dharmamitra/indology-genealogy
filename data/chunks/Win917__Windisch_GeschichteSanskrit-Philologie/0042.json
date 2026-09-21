@@ -1,0 +1,41 @@
+{
+ "people": [
+  {
+   "name": "Francis Buchanan",
+   "birth_year": 1762,
+   "death_year": 1829,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Botaniker, Surgeon; kam 1794 nach Indien; nahm später den Familiennamen Hamilton an"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Muir",
+   "type": "influenced_by",
+   "object": "Christian Lassen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Manches ist seit Lassen, dem Muir in Band II seiner \"Original Sanskrit Texts\" folgte, noch nicht wieder so eingehend be- handelt worden.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rudolf Roth",
+   "type": "collaborated_with",
+   "object": "William Dwight Whitney",
+   "role": "co-editors",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": 1856,
+   "explicit": true,
+   "evidence": "Roth und Whitneys Atharvaveda, Berlin 1856.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 42,
+ "model": "gemini-flash-latest"
+}

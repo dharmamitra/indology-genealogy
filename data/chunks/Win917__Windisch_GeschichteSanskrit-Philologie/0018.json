@@ -1,0 +1,93 @@
+{
+ "people": [
+  {
+   "name": "Franz Bopp",
+   "birth_year": null,
+   "death_year": 1867,
+   "birth_place": null,
+   "nationality": "German",
+   "note": "Pioneer of comparative linguistics and Sanskrit studies in Germany; professor in Berlin."
+  },
+  {
+   "name": "Wilhelm von Humboldt",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "German",
+   "note": "Statesman and scholar; introduced to Sanskrit by Franz Bopp."
+  },
+  {
+   "name": "Ernst Siecke",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "German",
+   "note": "Pupil of Franz Bopp."
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Franz Bopp",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": 1820,
+   "year_end": 1820,
+   "explicit": true,
+   "evidence": "ging er für den Winter 1820 nach Göttingen, wo er sich besonders mit Hebräisch und Arabisch beschäftigte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Bopp",
+   "type": "position_at",
+   "object": "Universität Berlin",
+   "role": "außerordentlicher Professor, seit 1825 ordentlicher Professor",
+   "place": "Berlin",
+   "year_start": 1821,
+   "year_end": 1867,
+   "explicit": true,
+   "evidence": "im Jahre 1821 an die Universität Berlin berufen wurde. Dort hat er, erst als außerordentlicher, seit 1825 als ordentlicher Professor... bis an sein Lebensende gelebt und gewirkt. Er starb am 23. Oktober 1867.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Bopp",
+   "type": "position_at",
+   "object": "Berliner Akademie",
+   "role": "Mitglied",
+   "place": "Berlin",
+   "year_start": 1822,
+   "year_end": 1867,
+   "explicit": true,
+   "evidence": "und schon seit 1822 als Mitglied der Akademie, bis an sein Lebensende gelebt und gewirkt. Er starb am 23. Oktober 1867.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm von Humboldt",
+   "type": "student_of",
+   "object": "Franz Bopp",
+   "role": null,
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dieser, von Bopp schon in London in das Sanskrit eingeführt, war von der Wichtigkeit des Sanskrit durchdrungen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Siecke",
+   "type": "student_of",
+   "object": "Franz Bopp",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "nach Bopps Tode besorgt von seinem Schüler Ernst Siecke",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 18,
+ "model": "gemini-flash-latest"
+}

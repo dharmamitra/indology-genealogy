@@ -1,0 +1,117 @@
+{
+ "people": [
+  {
+   "name": "Johann Gottfried Ludwig Kosegarten",
+   "birth_year": 1792,
+   "death_year": 1850,
+   "birth_place": "Insel Rügen",
+   "nationality": null,
+   "note": "Professor in Greifswald; gehört zur Bonner Schule"
+  },
+  {
+   "name": "Siegfried Goldschmidt",
+   "birth_year": null,
+   "death_year": 1884,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "J. Brune",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Oldenberg",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Theodor Benfey",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Gustav Bickell",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "J. Brune",
+   "type": "student_of",
+   "object": "Oldenberg",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dissertation seines Schülers J. Brune",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Ludwig Kosegarten",
+   "type": "position_at",
+   "object": "Greifswald",
+   "role": "Professor",
+   "place": "Greifswald",
+   "year_start": null,
+   "year_end": 1850,
+   "explicit": true,
+   "evidence": "gestorben 1850 als Professor in Greifswald",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Ludwig Kosegarten",
+   "type": "other",
+   "object": "Tullberg",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Das ziemlich reiche handschriftliche Material verdankte er zum großen Teil seinen Freunden Tullberg und Stenzler.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Ludwig Kosegarten",
+   "type": "other",
+   "object": "Stenzler",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Das ziemlich reiche handschriftliche Material verdankte er zum großen Teil seinen Freunden Tullberg und Stenzler.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Theodor Benfey",
+   "type": "collaborated_with",
+   "object": "Gustav Bickell",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1876,
+   "explicit": true,
+   "evidence": "Kalilag und Damnag. Alte syrische Übersetzung des indischen Fürstenspiegels. Text und deutsche Übersetzung von Gustav Bickell. Mit einer Einleitung von Theodor Benfey",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 57,
+ "model": "gemini-flash-latest"
+}

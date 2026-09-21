@@ -1,0 +1,37 @@
+{
+ "people": [
+  {
+   "name": "E. B. Cowell",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "F. W. Thomas",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "E. B. Cowell",
+   "type": "collaborated_with",
+   "object": "F. W. Thomas",
+   "role": "co-translators",
+   "place": "London",
+   "year_start": 1897,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "Ins Englische übersetzt von E. B. Cowell und F. W. Thomas, London 1897.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9083__Winternitz_GeschichteDerIndischenLitteratur_3_1920",
+ "chunk": 64,
+ "model": "gemini-flash-latest"
+}

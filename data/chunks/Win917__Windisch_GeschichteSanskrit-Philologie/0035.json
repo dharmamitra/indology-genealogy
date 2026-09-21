@@ -1,0 +1,89 @@
+{
+ "people": [
+  {
+   "name": "Eugène Burnouf",
+   "birth_year": null,
+   "death_year": 1852,
+   "birth_place": null,
+   "nationality": "French",
+   "note": null
+  },
+  {
+   "name": "Jules Barthélemy Saint-Hilaire",
+   "birth_year": 1805,
+   "death_year": 1895,
+   "birth_place": null,
+   "nationality": "French",
+   "note": "Philosoph und Politiker"
+  },
+  {
+   "name": "P. Grimblot",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "French",
+   "note": "Ancien Consul de France à Ceylan et en Birmanie"
+  },
+  {
+   "name": "A. Weber",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jules Barthélemy Saint-Hilaire",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "Professor des Griechischen",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Jules Barthélemy Saint-Hilaire, Professor des Griechischen am Collège de France",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jules Barthélemy Saint-Hilaire",
+   "type": "position_at",
+   "object": "Académie des Sciences morales et politiques",
+   "role": "Mitglied",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mitglied der Académie des Sciences morales et politiques",
+   "quote_ok": true
+  },
+  {
+   "subject": "P. Grimblot",
+   "type": "position_at",
+   "object": "France",
+   "role": "Consul de France à Ceylan et en Birmanie",
+   "place": "Ceylan et Birmanie",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "P. Grimblot, Ancien Consul de France à Ceylan et en Birmanie",
+   "quote_ok": true
+  },
+  {
+   "subject": "P. Grimblot",
+   "type": "other",
+   "object": "A. Weber",
+   "role": "persönliche Beziehungen",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Grimblot stand mit A. Weber in persönlichen Beziehungen.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 35,
+ "model": "gemini-flash-latest"
+}

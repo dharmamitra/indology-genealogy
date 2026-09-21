@@ -1,0 +1,125 @@
+{
+ "people": [
+  {
+   "name": "V. Fausböll",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Danish",
+   "note": null
+  },
+  {
+   "name": "Dines Andersen",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "E. B. Cowell",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "R. Chalmers",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "W. H. D. Rouse",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "H. T. Francis",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "R. A. Neil",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Dines Andersen",
+   "type": "collaborated_with",
+   "object": "V. Fausböll",
+   "role": "Index compiler",
+   "place": "London",
+   "year_start": 1877,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "The Jātaka together with its Commentary being Tales of the Anterior Births of Gotama Buddha edited by V. Fausböll, Vols. I—VII (vol. VII: Index by Dines Andersen), London 1877—1897.",
+   "quote_ok": true
+  },
+  {
+   "subject": "R. Chalmers",
+   "type": "collaborated_with",
+   "object": "E. B. Cowell",
+   "role": "translator",
+   "place": "Cambridge",
+   "year_start": 1895,
+   "year_end": 1907,
+   "explicit": true,
+   "evidence": "The Jātaka or Stories of the Buddha's Former Births, translated from the Pāli by various Hands under the Editorship of E. B. Cowell, Vols. I—VI, Cambridge 1895—1907 (Übersetzer sind: R. Chalmers",
+   "quote_ok": false
+  },
+  {
+   "subject": "W. H. D. Rouse",
+   "type": "collaborated_with",
+   "object": "E. B. Cowell",
+   "role": "translator",
+   "place": "Cambridge",
+   "year_start": 1895,
+   "year_end": 1907,
+   "explicit": true,
+   "evidence": "The Jātaka or Stories of the Buddha's Former Births, translated from the Pāli by various Hands under the Editorship of E. B. Cowell, Vols. I—VI, Cambridge 1895—1907 (Übersetzer sind: ... W. H. D. Rouse",
+   "quote_ok": true
+  },
+  {
+   "subject": "H. T. Francis",
+   "type": "collaborated_with",
+   "object": "E. B. Cowell",
+   "role": "translator",
+   "place": "Cambridge",
+   "year_start": 1895,
+   "year_end": 1907,
+   "explicit": true,
+   "evidence": "The Jātaka or Stories of the Buddha's Former Births, translated from the Pāli by various Hands under the Editorship of E. B. Cowell, Vols. I—VI, Cambridge 1895—1907 (Übersetzer sind: ... H. T. Francis",
+   "quote_ok": true
+  },
+  {
+   "subject": "R. A. Neil",
+   "type": "collaborated_with",
+   "object": "E. B. Cowell",
+   "role": "translator",
+   "place": "Cambridge",
+   "year_start": 1895,
+   "year_end": 1907,
+   "explicit": true,
+   "evidence": "The Jātaka or Stories of the Buddha's Former Births, translated from the Pāli by various Hands under the Editorship of E. B. Cowell, Vols. I—VI, Cambridge 1895—1907 (Übersetzer sind: ... R. A. Neil",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9082__Winternitz_GeschichteDerIndischenLitteratur_2_1920",
+ "chunk": 17,
+ "model": "gemini-flash-latest"
+}

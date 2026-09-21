@@ -1,0 +1,189 @@
+{
+ "people": [
+  {
+   "name": "Ferdinand de Saussure",
+   "birth_year": 1857,
+   "death_year": 1913,
+   "birth_place": "Genf",
+   "nationality": null,
+   "note": "Professor an der Universität Genf; stammte aus einer Familie von Naturforschern"
+  },
+  {
+   "name": "Georg Curtius",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Karl Brugmann",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Johannes Schmidt",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "August Schleicher",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Georg Mahlow",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ferdinand de Saussure",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": 1876,
+   "year_end": 1878,
+   "explicit": true,
+   "evidence": "Er studierte in den Jahren 1876-1878 vier Semester in Leipzig, wo er die Vorlesungen von Curtius und Brugmann hörte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ferdinand de Saussure",
+   "type": "student_of",
+   "object": "Georg Curtius",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": 1876,
+   "year_end": 1878,
+   "explicit": true,
+   "evidence": "Er studierte in den Jahren 1876-1878 vier Semester in Leipzig, wo er die Vorlesungen von Curtius und Brugmann hörte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ferdinand de Saussure",
+   "type": "student_of",
+   "object": "Karl Brugmann",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": 1876,
+   "year_end": 1878,
+   "explicit": true,
+   "evidence": "Er studierte in den Jahren 1876-1878 vier Semester in Leipzig, wo er die Vorlesungen von Curtius und Brugmann hörte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ferdinand de Saussure",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "dann ein Semester in Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ferdinand de Saussure",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": 1880,
+   "explicit": true,
+   "evidence": "und promovierte 1880 in Leipzig mit der oben S. 418 erwähnten Schrift",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ferdinand de Saussure",
+   "type": "position_at",
+   "object": "École des Hautes Études in Paris",
+   "role": "Maître de Conférences",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ehe de Saussure die Professur in Genf erhielt, war er 24jährig als Maître de Conférences an die École des Hautes Études in Paris berufen worden.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ferdinand de Saussure",
+   "type": "position_at",
+   "object": "Universität Genf",
+   "role": "Professor",
+   "place": "Genf",
+   "year_start": null,
+   "year_end": 1913,
+   "explicit": true,
+   "evidence": "gestorben 1913 als Professor an der dortigen Universität",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ferdinand de Saussure",
+   "type": "influenced_by",
+   "object": "Karl Brugmann",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Wenn auch beeinflußt von Brugmann, gab doch in selbständiger Weise eine Systematik des Vokalismus in der neuen Richtung F. de Saussure",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Schmidt",
+   "type": "student_of",
+   "object": "August Schleicher",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Aus der Schleicherschen Schule ist Johannes Schmidt besonders durch seine große Abhandlung",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Schmidt",
+   "type": "influenced_by",
+   "object": "Karl Brugmann",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Schmidt war, wie aus seinen eigenen Worten hervorgeht, von Brugmanns Arbeiten angeregt worden.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Mahlow",
+   "type": "student_of",
+   "object": "Johannes Schmidt",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sein streitbarer Schüler Georg Mahlow hat die neuen Anschauungen auch für die langen Vokale durchgeführt",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 109,
+ "model": "gemini-flash-latest"
+}

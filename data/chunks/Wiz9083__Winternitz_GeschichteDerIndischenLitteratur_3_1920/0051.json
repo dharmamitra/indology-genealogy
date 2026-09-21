@@ -1,0 +1,77 @@
+{
+ "people": [
+  {
+   "name": "A. W. v. Schlegel",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Ch. Lassen",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Johannes Hertel",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Max Koch",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "A. W. v. Schlegel",
+   "type": "collaborated_with",
+   "object": "Ch. Lassen",
+   "role": null,
+   "place": "Bonn a. Rh.",
+   "year_start": 1829,
+   "year_end": 1831,
+   "explicit": true,
+   "evidence": "Kritische Ausgaben sind die von A. W. v. Schlegel und Ch. Lassen (Bonn a. Rh. 1829—1831)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Hertel",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": 1897,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "Hertel, Über Text und Verfasser des Hitopadeša, Diss., Leipzig 1897",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Koch",
+   "type": "founded",
+   "object": "Zeitschrift für vergleichende Litteraturgeschichte",
+   "role": "Begründer",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Max Koch, der Begründer der »Zeitschrift für vergleichende Litteraturgeschichte«",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9083__Winternitz_GeschichteDerIndischenLitteratur_3_1920",
+ "chunk": 51,
+ "model": "gemini-flash-latest"
+}

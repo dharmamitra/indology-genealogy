@@ -1,0 +1,245 @@
+{
+ "people": [
+  {
+   "name": "A. Hoefer",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "J. G. L. Kosegarten",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Professor der Theologie und der Orientalischen Sprachen in Greifswald"
+  },
+  {
+   "name": "Adolf Friedrich Stenzler",
+   "birth_year": 1807,
+   "death_year": 1887,
+   "birth_place": "Wolgast",
+   "nationality": null,
+   "note": "Professor der Orientalischen Sprachen in Breslau"
+  },
+  {
+   "name": "Anton Eduard Wollheim da Fonseca",
+   "birth_year": 1810,
+   "death_year": 1884,
+   "birth_place": "Hamburg",
+   "nationality": null,
+   "note": "Schriftsteller, Diplomat und Privatdozent für orientalische Sprachen in Berlin"
+  },
+  {
+   "name": "Siegfried Goldschmidt",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Starb kurz nach 1883"
+  },
+  {
+   "name": "Paul Goldschmidt",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "J. Stevenson",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Rev., Vice-President der RAS in Bombay"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "A. Hoefer",
+   "type": "position_at",
+   "object": "Greifswald",
+   "role": null,
+   "place": "Greifswald",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "In der Vielseitigkeit wurde Hoefer noch übertroffen von seinem Greifswalder Kollegen J. G. L. Kosegarten",
+   "quote_ok": true
+  },
+  {
+   "subject": "J. G. L. Kosegarten",
+   "type": "position_at",
+   "object": "Greifswald",
+   "role": "Professor der Theologie und der Orientalischen Sprachen",
+   "place": "Greifswald",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "seinem Greifswalder Kollegen J. G. L. Kosegarten, Professor der Theologie und der Orientalischen Sprachen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Böhtlingk",
+   "type": "collaborated_with",
+   "object": "A. Hoefer",
+   "role": null,
+   "place": null,
+   "year_start": 1845,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Da bis zum Jahre 1845 noch kein vedischer Hymnus mit den Akzenten versehen gedruckt worden war, wandte sich Böhtlingk für die 19 Hymnen seiner Chrestomathie an Hoefer",
+   "quote_ok": true
+  },
+  {
+   "subject": "Siegfried Goldschmidt",
+   "type": "collaborated_with",
+   "object": "Paul Goldschmidt",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In Wirklichkeit hat ihn erst später musterhaft herausgegeben Siegfried Goldschmidt, unterstützt von Paul Goldschmidt",
+   "quote_ok": true
+  },
+  {
+   "subject": "J. Stevenson",
+   "type": "position_at",
+   "object": "RAS in Bombay",
+   "role": "Vice-President",
+   "place": "Bombay",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "des Rev. J. Stevenson, Vice-President der RAS. in Bombay",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Friedrich Stenzler",
+   "type": "position_at",
+   "object": "Breslau",
+   "role": "Professor der Orientalischen Sprachen",
+   "place": "Breslau",
+   "year_start": null,
+   "year_end": 1887,
+   "explicit": true,
+   "evidence": "gestorben 1887 als Professor der Orientalischen Sprachen in Breslau",
+   "quote_ok": false
+  },
+  {
+   "subject": "Adolf Friedrich Stenzler",
+   "type": "student_of",
+   "object": "Franz Bopp",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "begann er seine Sanskritstudien bei Bopp in Berlin, den er durch seine raschen Fortschritte in Erstaunen setzte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Friedrich Stenzler",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": 1829,
+   "explicit": true,
+   "evidence": "Er promovierte dort im Jahre 1829 mit der Dissertation \"Brahma-Vaivarta-Puráni Specimen\"",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anton Eduard Wollheim da Fonseca",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": 1831,
+   "explicit": true,
+   "evidence": "die Berlin 1831 erschienene Dissertation von A. E. Wollheim \"De nonnullis Padma-Purani Capitibus\"",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anton Eduard Wollheim da Fonseca",
+   "type": "position_at",
+   "object": "Berlin",
+   "role": "Privatdozent für orientalische Sprachen",
+   "place": "Berlin",
+   "year_start": 1849,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Seit 1849 einige Jahre Privatdozent für orientalische Sprachen in Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Friedrich Stenzler",
+   "type": "studied_at",
+   "object": "Bonn",
+   "role": null,
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Stenzler ging mit Empfehlungen von Bopp an Schlegel und Chézy ausgerüstet von Berlin nach Bonn und Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Friedrich Stenzler",
+   "type": "studied_at",
+   "object": "Paris",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Stenzler ging mit Empfehlungen von Bopp an Schlegel und Chézy ausgerüstet von Berlin nach Bonn und Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Friedrich Stenzler",
+   "type": "collaborated_with",
+   "object": "A. W. v. Schlegel",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Stenzler übernahm es, an Lassens Stelle für Schlegels Ausgabe des Rāmāyaṇa die Londoner Handschriften des III. Buches zu kollationieren",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Friedrich Stenzler",
+   "type": "other",
+   "object": "F. Rosen",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er dankt seinem Freunde Rosen und Bopp für Mitlesen der Korrekturbogen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Friedrich Stenzler",
+   "type": "influenced_by",
+   "object": "H. H. Wilson",
+   "role": null,
+   "place": null,
+   "year_start": 1830,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Schon seit dem Jahre 1830 hatte sich Stenzler mit dem Plane getragen, dieses Drama herauszugeben, angeregt durch Wilsons Übersetzung.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 55,
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,113 @@
+{
+ "people": [
+  {
+   "name": "Edwin Norris",
+   "birth_year": 1795,
+   "death_year": 1872,
+   "birth_place": "Taunton, Somerset",
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Francis Wilford",
+   "birth_year": null,
+   "death_year": 1822,
+   "birth_place": null,
+   "nationality": "Hannoveraner",
+   "note": "Ging 1771 nach Indien und trat in englische Dienste; gestorben in Benares"
+  },
+  {
+   "name": "James Prinsep",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Münzmeister von Beruf; Secretary of the Asiatic Society of Bengal"
+  },
+  {
+   "name": "H. H. Wilson",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Prinsep",
+   "type": "position_at",
+   "object": "Asiatic Society of Bengal",
+   "role": "Secretary and Editor of the Society's Journal",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "James Prinsep, late Secretary of the Asiatic Society of Bengal, and Editor of the Society's Journal",
+   "quote_ok": true
+  },
+  {
+   "subject": "H. H. Wilson",
+   "type": "influenced_by",
+   "object": "Colebrooke",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In seinen philologischen Arbeiten setzte er Colebrooke fort",
+   "quote_ok": true
+  },
+  {
+   "subject": "H. H. Wilson",
+   "type": "influenced_by",
+   "object": "James Prinsep",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in den archäologischen schloß er sich an Prinsep an",
+   "quote_ok": true
+  },
+  {
+   "subject": "H. H. Wilson",
+   "type": "collaborated_with",
+   "object": "C. Masson",
+   "role": null,
+   "place": "London",
+   "year_start": null,
+   "year_end": 1841,
+   "explicit": true,
+   "evidence": "Ariana Antiqua. A descriptive account of the Antiquities and Coins of Afghanistan : with a Memoir on the Buildings called Topes, by C. Masson, Esqu., London 1841",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edwin Norris",
+   "type": "collaborated_with",
+   "object": "A. Dawson",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Norris setzte sich mit dem sachkundigen A. Dawson in Verbindung. Dieser erkannte in dem ihm von Norris vorgelegten Stück der Inschrift das 7. Edikt der Asoka-Inschrift von Girnar.",
+   "quote_ok": true
+  },
+  {
+   "subject": "H. H. Wilson",
+   "type": "collaborated_with",
+   "object": "Edwin Norris",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Wilson veröffentlichte ihren Text vollständig in der oben erwähnten Neubearbeitung der Felseninschriften, mit einem Faksimile von Norris",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 29,
+ "model": "gemini-flash-latest"
+}

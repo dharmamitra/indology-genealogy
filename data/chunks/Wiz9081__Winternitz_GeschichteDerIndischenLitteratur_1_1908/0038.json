@@ -1,0 +1,85 @@
+{
+ "people": [
+  {
+   "name": "H. Hubert",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "M. Mauss",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "E. Haas",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "A. Weber",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Heinrich Stönner",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "H. Hubert",
+   "type": "collaborated_with",
+   "object": "M. Mauss",
+   "role": null,
+   "place": null,
+   "year_start": 1897,
+   "year_end": 1898,
+   "explicit": true,
+   "evidence": "H. Hubert und M. Mauss in ihrem »Essai sur la nature et la fonction du sacrifice« (Année Sociologique, Paris 1897—1898, pp. 29—138)",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. Haas",
+   "type": "collaborated_with",
+   "object": "A. Weber",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "E. Haas und A. Weber, Die Heiratsgebräuche der alten Inder, nach den Gṛhyasūtra (im fünften Band der »Indischen Studien«)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Stönner",
+   "type": "studied_at",
+   "object": "Halle a. S.",
+   "role": null,
+   "place": "Halle a. S.",
+   "year_start": null,
+   "year_end": 1901,
+   "explicit": true,
+   "evidence": "Das Mantra-Brāhmaṇa. 1. Prapāṭhaka (Sanskrit und deutsch) von Heinrich Stönner. Halle a. S. 1901 (Inauguraldissertation).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9081__Winternitz_GeschichteDerIndischenLitteratur_1_1908",
+ "chunk": 38,
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,97 @@
+{
+ "people": [
+  {
+   "name": "P. v. Bradke",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "G. B. Beaman",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "W. Jahn",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "G. Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "P. v. Bradke",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1882,
+   "explicit": true,
+   "evidence": "P. v. Bradke, Über das Mānava-Gṛhya-Sūtra, Leipzig (Diss.) 1882",
+   "quote_ok": true
+  },
+  {
+   "subject": "G. B. Beaman",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1895,
+   "explicit": true,
+   "evidence": "G. B. Beaman, On the Sources of the Dharma-Śāstras of Manu and Yājñavalkya, Leipzig (Diss.) 1895",
+   "quote_ok": true
+  },
+  {
+   "subject": "W. Jahn",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1904,
+   "explicit": true,
+   "evidence": "W. Jahn, Über die kosmogonischen Grundanschauungen im Mānava-Dharma-Śāstram, Leipzig 1904, Diss.",
+   "quote_ok": true
+  },
+  {
+   "subject": "G. Bühler",
+   "type": "influenced_by",
+   "object": "Max Müller",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Was aber Max Müller nur vermuten konnte, das hat G. Bühler durch zahlreiche Beweisgründe zu einer wissenschaftlichen Tatsache erhoben",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9083__Winternitz_GeschichteDerIndischenLitteratur_3_1920",
+ "chunk": 86,
+ "model": "gemini-flash-latest"
+}

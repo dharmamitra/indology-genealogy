@@ -1,0 +1,57 @@
+{
+ "people": [
+  {
+   "name": "Sten Konow",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "G. Morgenstierne",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "A. Gawroński",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "G. Morgenstierne",
+   "type": "student_of",
+   "object": "Sten Konow",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Wie er mir brieflich mitteilt, hält er dies durch eine im Druck befindliche Arbeit seines Schülers G. Morgenstierne für erwiesen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. Gawroński",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": 1907,
+   "explicit": true,
+   "evidence": "A. Gawroński, Sprachliche Untersuchungen über das Mṛcchakaṭika und das Daśakumāracarita, Diss. Leipzig 1907",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9083__Winternitz_GeschichteDerIndischenLitteratur_3_1920",
+ "chunk": 35,
+ "model": "gemini-flash-latest"
+}

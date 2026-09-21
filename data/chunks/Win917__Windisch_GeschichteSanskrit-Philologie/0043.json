@@ -1,0 +1,113 @@
+{
+ "people": [
+  {
+   "name": "Christian Lassen",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "James Tod",
+   "birth_year": 1782,
+   "death_year": 1835,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Lt. Colonel, Librarian of the Royal Asiatic Society"
+  },
+  {
+   "name": "Adalbert Kuhn",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Anthony Troyer",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "William Taylor",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Missionary"
+  },
+  {
+   "name": "Francis Buchanan-Hamilton",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Naturalist"
+  },
+  {
+   "name": "Walter Elliot",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Tod",
+   "type": "position_at",
+   "object": "R. Asiatic Society",
+   "role": "Librarian",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Lt. Colonel James Tod, geboren 1782, gestorben 1835, war zuletzt Librarian der R. Asiatic Society in London",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Lassen",
+   "type": "other",
+   "object": "James Tod",
+   "role": "personal acquaintance",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Lassen lernte Tod in London persönlich kennen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Lassen",
+   "type": "other",
+   "object": "Anthony Troyer",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Die von Troyer, den Lassen II 59 seinen Freund nennt, und Turnour herausgegebenen Geschichtswerke Indiens sind auch von Lassen benutzt worden",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Lassen",
+   "type": "influenced_by",
+   "object": "Adalbert Kuhn",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Abschnitt über die Entstehung der Kasten, der zugleich auch den Einfluß der besonders durch Adalbert Kuhn vertretenen archäologischen Richtung der vergleichenden Sprachwissenschaft erkennen läßt",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 43,
+ "model": "gemini-flash-latest"
+}

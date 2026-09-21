@@ -1,0 +1,185 @@
+{
+ "people": [
+  {
+   "name": "Fr. Johaentgen",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Hermann Grassmann",
+   "birth_year": 1809,
+   "death_year": 1877,
+   "birth_place": null,
+   "nationality": "German",
+   "note": "Sprachforscher und Mathematiker"
+  },
+  {
+   "name": "Alfred Ludwig",
+   "birth_year": 1832,
+   "death_year": 1912,
+   "birth_place": "Wien",
+   "nationality": "Austrian",
+   "note": "Professor der Vergleichenden Sprachenkunde an der Universität zu Prag"
+  },
+  {
+   "name": "Anton Boller",
+   "birth_year": 1811,
+   "death_year": 1869,
+   "birth_place": "Krems in Niederösterreich",
+   "nationality": "Austrian",
+   "note": "Autodidakt; Professor der vergleichenden Sprachwissenschaft und des Sanskrit in Wien"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Fr. Johaentgen",
+   "type": "student_of",
+   "object": "Christian Lassen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Johaentgen empfing die An- regung zu seiner Arbeit von seinem Lehrer Lassen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fr. Johaentgen",
+   "type": "influenced_by",
+   "object": "Albrecht Weber",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "suchte nach Webers Methode das Verhältnis des Mānava zu der indischen Philosophie darzustellen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Grassmann",
+   "type": "position_at",
+   "object": "Marienstifts-Gymnasium zu Stettin",
+   "role": "Professor",
+   "place": "Stettin",
+   "year_start": null,
+   "year_end": 1877,
+   "explicit": true,
+   "evidence": "geboren 1809, gestorben 1877 als Professor am Marienstifts-Gymnasium zu Stettin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Ludwig",
+   "type": "studied_at",
+   "object": "Universität Wien",
+   "role": null,
+   "place": "Wien",
+   "year_start": 1852,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Die Universität Wien bezog er 1852",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Ludwig",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1855,
+   "year_end": 1856,
+   "explicit": true,
+   "evidence": "ging dann nach Berlin im Wintersemester 1855/56.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Ludwig",
+   "type": "student_of",
+   "object": "Friedrich Müller",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "doch lag er auch weiteren Sprachstudien ob, besonders bei Friedrich Müller.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Ludwig",
+   "type": "position_at",
+   "object": "Universität Wien",
+   "role": "Habilitation für klassische Philologie",
+   "place": "Wien",
+   "year_start": 1858,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Jahre 1858 habilitierte er sich in Wien für klassische Philologie",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Ludwig",
+   "type": "position_at",
+   "object": "Universität Prag",
+   "role": "außerordentlicher Professor der klassischen Philologie und der Vergleichenden Sprachenkunde",
+   "place": "Prag",
+   "year_start": 1860,
+   "year_end": 1871,
+   "explicit": true,
+   "evidence": "Schon 1860 wurde er als außerordentlicher Professor der klassischen Philologie und der Vergleichenden Sprachenkunde nach Prag berufen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Ludwig",
+   "type": "position_at",
+   "object": "Universität Prag",
+   "role": "ordentlicher Professor der Vergleichenden Sprachenkunde",
+   "place": "Prag",
+   "year_start": 1871,
+   "year_end": 1912,
+   "explicit": true,
+   "evidence": "erhielt 1871 eine ordentliche Professur der letzteren, die er bis an sein Lebensende inne gehabt hat.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Ludwig",
+   "type": "student_of",
+   "object": "Anton Boller",
+   "role": "Sanskrit",
+   "place": "Wien",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In das Sanskrit wurde er durch Boller eingeführt",
+   "quote_ok": false
+  },
+  {
+   "subject": "Alfred Ludwig",
+   "type": "student_of",
+   "object": "Albrecht Weber",
+   "role": "Sanskrit",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Aber die Hauptanregung zum Studium des Sanskrit erhielt er von Albrecht Weber in Berlin. Am Ende des Schlußworts im 6. Bande seines Rigveda S. XII sagt Ludwig von diesem seinem Lehrer",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anton Boller",
+   "type": "position_at",
+   "object": "Universität Wien",
+   "role": "Dozent, außerordentlicher Professor, ordentlicher Professor",
+   "place": "Wien",
+   "year_start": 1845,
+   "year_end": 1869,
+   "explicit": true,
+   "evidence": "Sanskrit lehrte er in Wien von 1845 an, 1850 wurde er außerordentlicher, 1855 ordentlicher Professor der vergleichenden Sprachwissenschaft und des Sanskrit.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 92,
+ "model": "gemini-flash-latest"
+}

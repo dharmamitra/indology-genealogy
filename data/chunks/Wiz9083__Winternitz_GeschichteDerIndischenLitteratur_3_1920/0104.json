@@ -1,0 +1,65 @@
+{
+ "people": [
+  {
+   "name": "Lallū Jī Lāl",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Indian",
+   "note": "Author and translator who created Prem Sāgar in Hindi prose"
+  },
+  {
+   "name": "John Gilchrist",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "British",
+   "note": null
+  },
+  {
+   "name": "Behramji M. Malabari",
+   "birth_year": 1853,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Indian",
+   "note": "Parsi poet, writer in Gujarati and English, and social reformer"
+  },
+  {
+   "name": "Rāmmohun Roy",
+   "birth_year": 1774,
+   "death_year": 1833,
+   "birth_place": null,
+   "nationality": "Indian",
+   "note": "Scholar, author, and social/religious reformer, founder of the Brāhma-Samāj"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Lallū Jī Lāl",
+   "type": "student_of",
+   "object": "John Gilchrist",
+   "role": null,
+   "place": null,
+   "year_start": 1806,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Das Werk wurde im Jahre 1806 unter der Leitung von John Gilchrist begonnen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rāmmohun Roy",
+   "type": "founded",
+   "object": "Brāhma-Samāj",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wollte er die alte brahmanische Religion reformieren und wurde so der Begründer des Brāhma-Samāj",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9083__Winternitz_GeschichteDerIndischenLitteratur_3_1920",
+ "chunk": 104,
+ "model": "gemini-flash-latest"
+}

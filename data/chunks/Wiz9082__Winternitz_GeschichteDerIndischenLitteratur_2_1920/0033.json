@@ -1,0 +1,37 @@
+{
+ "people": [
+  {
+   "name": "V. A. Smith",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "W. Hoey",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "V. A. Smith",
+   "type": "collaborated_with",
+   "object": "W. Hoey",
+   "role": null,
+   "place": "Gopālpūr",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Buddhistische Sūtras in Sanskrit, auf Ziegeln geschrieben, fanden V. A. Smith und W. Hoey in den Ruinen von Gopālpūr",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9082__Winternitz_GeschichteDerIndischenLitteratur_2_1920",
+ "chunk": 33,
+ "model": "gemini-flash-latest"
+}

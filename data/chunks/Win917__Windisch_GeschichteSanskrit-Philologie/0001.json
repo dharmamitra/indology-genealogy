@@ -1,0 +1,177 @@
+{
+ "people": [
+  {
+   "name": "Burnell",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "lebte lange in Südindien"
+  },
+  {
+   "name": "Christoph Arnold",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Thomas la Grue",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Maistre és Arts, & Docteur en Medicine"
+  },
+  {
+   "name": "W. Caland",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Th. Zachariae",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "A. A. Fokker",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "François Bernier",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "French",
+   "note": "hielt sich 1656–1668 in Indien auf, acht Jahre lang Arzt am Hofe des Großmoguls"
+  },
+  {
+   "name": "Jean Baptiste Tavernier",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "French",
+   "note": "Ecuyer Baron d'Aubonne"
+  },
+  {
+   "name": "Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "A. de Gubernatis",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "M. V. La Croze",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Bibliothécaire & Antiquaire du Roi de Prusse"
+  },
+  {
+   "name": "Ziegenbalg",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Missionar in Indien"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "François Bernier",
+   "type": "position_at",
+   "object": "Hof des Großmoguls",
+   "role": "Arzt",
+   "place": "Indien",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "François Bernier hielt sich während der Jahre 1656-1668 in Indien auf und war acht Jahre lang Arzt am Hofe des Großmoguls.",
+   "quote_ok": true
+  },
+  {
+   "subject": "W. Caland",
+   "type": "influenced_by",
+   "object": "Th. Zachariae",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "W. Caland wurde durch Th. Zachariae auf zwei alte portugiesische Berichte dieser Art aufmerksam gemacht",
+   "quote_ok": true
+  },
+  {
+   "subject": "W. Caland",
+   "type": "collaborated_with",
+   "object": "A. A. Fokker",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1915,
+   "explicit": true,
+   "evidence": "Caland gab sie mit Hilfe von A. A. Fokker in holländischer Übersetzung heraus",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean Baptiste Tavernier",
+   "type": "other",
+   "object": "François Bernier",
+   "role": "travel companion",
+   "place": "Indien",
+   "year_start": 1665,
+   "year_end": 1665,
+   "explicit": true,
+   "evidence": "Tavernier unternahm seine Reise von Agra nach Bengalen im Jahre 1665 in Gesellschaft von Bernier",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. de Gubernatis",
+   "type": "other",
+   "object": "Max Müller",
+   "role": "scholarly correspondent / provider of archival materials",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Aus Briefen des Marco della Tomba machte ihm A. de Gubernatis Mitteilungen",
+   "quote_ok": true
+  },
+  {
+   "subject": "M. V. La Croze",
+   "type": "position_at",
+   "object": "Roi de Prusse",
+   "role": "Bibliothécaire & Antiquaire",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "M. V. La Croze, Bibliothécaire & Antiquaire du Roi de Prusse",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 1,
+ "model": "gemini-flash-latest"
+}

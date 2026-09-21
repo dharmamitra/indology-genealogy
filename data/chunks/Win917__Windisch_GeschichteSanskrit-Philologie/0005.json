@@ -1,0 +1,149 @@
+{
+ "people": [
+  {
+   "name": "Pierre Sonnerat",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "French",
+   "note": "Author of travel accounts on India and China; painter and observer of South Indian customs and religion."
+  },
+  {
+   "name": "Heinrich Roth",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "German",
+   "note": "Jesuit missionary who travelled between Goa and Agra from 1650 to 1660 and studied Sanskrit."
+  },
+  {
+   "name": "Johannes Ernst Hanxleden",
+   "birth_year": null,
+   "death_year": 1732,
+   "birth_place": null,
+   "nationality": "German",
+   "note": "Jesuit missionary in Malabar from 1699 to 1732; author of an early Sanskrit grammar and dictionary."
+  },
+  {
+   "name": "Paulinus a Sancto Bartholomaeo",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Austrian",
+   "note": "Carmelite missionary (birth name J. Ph. Wesdin) in Malabar (1776–1789) and Rome; author of early printed Sanskrit grammars."
+  },
+  {
+   "name": "Nathaniel Brassey Halhed",
+   "birth_year": 1751,
+   "death_year": 1830,
+   "birth_place": null,
+   "nationality": "British",
+   "note": "Official of the East India Company, translator of the Code of Gentoo Laws and author of a Bengali grammar."
+  },
+  {
+   "name": "Henricus van Rheede tot Drakestein",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Dutch",
+   "note": "Dutch Governor of Malabar; author/editor of Hortus Indicus Malabaricus."
+  },
+  {
+   "name": "Thomas Hyde",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "British",
+   "note": "Oxford orientalist."
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Heinrich Roth",
+   "type": "other",
+   "object": "François Bernier",
+   "role": "acquaintance",
+   "place": "India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Wir erfahren von ihm durch seinen Zeitgenossen Bernier, der ihn in Indien kennen lernte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nathaniel Brassey Halhed",
+   "type": "position_at",
+   "object": "East India Company",
+   "role": "Beamter",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nathaniel Brassey Halhed, einem Beamten der East India Company, geboren 1751, gestorben 1830",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Ernst Hanxleden",
+   "type": "position_at",
+   "object": "malabarische Mission",
+   "role": "Jesuit / Missionar",
+   "place": "Malabar",
+   "year_start": 1699,
+   "year_end": 1732,
+   "explicit": true,
+   "evidence": "den deutschen Jesuiten Johannes Ernst Hanxleden, der 1699 bis 1732 (in diesem Jahre gestorben) in der malabarischen Mission arbeitete",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paulinus a Sancto Bartholomaeo",
+   "type": "influenced_by",
+   "object": "Johannes Ernst Hanxleden",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "indem Fr. Paulinus a Sancto Bartholomaeo ... sie benutzte, die Grammatik für sein Sidharubam ... das Wörterbuch für sein Systema Brahmanicum",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paulinus a Sancto Bartholomaeo",
+   "type": "position_at",
+   "object": "Karmeliter-Mission",
+   "role": "Carmelita excalceatus Malabariae missionarius",
+   "place": "Malabar",
+   "year_start": 1776,
+   "year_end": 1789,
+   "explicit": true,
+   "evidence": "Paulinus, von Geburt ein Österreicher, mit dem Geburtsnamen J. Ph. Wesdin, war in Malabar 1776 bis 1789",
+   "quote_ok": false
+  },
+  {
+   "subject": "Henricus van Rheede tot Drakestein",
+   "type": "position_at",
+   "object": "Malabar",
+   "role": "Dutch Governor of Malabar",
+   "place": "Malabar",
+   "year_start": 1676,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Henry Van Rheede, the Dutch Governor of Malabar, had made a large collection of Indian plants",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Hyde",
+   "type": "position_at",
+   "object": "University of Oxford",
+   "role": "Orientalist",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "der 1694 veröffentlichten Historia Shahiludii des Oxforder Orientalisten Thomas Hyde",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 5,
+ "model": "gemini-flash-latest"
+}

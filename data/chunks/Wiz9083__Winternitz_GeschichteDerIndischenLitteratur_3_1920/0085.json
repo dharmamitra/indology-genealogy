@@ -1,0 +1,37 @@
+{
+ "people": [
+  {
+   "name": "A. C. Burnell",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "E. W. Hopkins",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "E. W. Hopkins",
+   "type": "collaborated_with",
+   "object": "A. C. Burnell",
+   "role": null,
+   "place": "London",
+   "year_start": null,
+   "year_end": 1884,
+   "explicit": true,
+   "evidence": "Eine neuere Übersetzung ist die von A. C. Burnell und E. W. Hopkins (London 1884)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9083__Winternitz_GeschichteDerIndischenLitteratur_3_1920",
+ "chunk": 85,
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,177 @@
+{
+ "people": [
+  {
+   "name": "Angelo de Gubernatis",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Italian",
+   "note": null
+  },
+  {
+   "name": "Hoernle",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Īśvara Candra Vidyāsāgara",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Thibaut",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Minajeff",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Albrecht Weber",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hoernle",
+   "type": "position_at",
+   "object": "Madrassa, il Collegio maomettano di Calcutta",
+   "role": "Direttore",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "von Hoernle, damals \"direttore della Madrassa, il Collegio maomettano di Calcutta\"",
+   "quote_ok": true
+  },
+  {
+   "subject": "Īśvara Candra Vidyāsāgara",
+   "type": "position_at",
+   "object": "Collegio Sanscrito",
+   "role": "Direttore",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Paṇḍit Īśvara Candra Vidyāsāgara, der vor diesem \"Direttore del Collegio Sanscrito\" gewesen war",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thibaut",
+   "type": "position_at",
+   "object": "Queen's College",
+   "role": "Direktor",
+   "place": "Benares",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "seines Besuches in Queen's College. [...] seine Charakteristik von Thibaut, dem damaligen Direktor des College",
+   "quote_ok": true
+  },
+  {
+   "subject": "Angelo de Gubernatis",
+   "type": "student_of",
+   "object": "Albrecht Weber",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1863,
+   "year_end": 1863,
+   "explicit": true,
+   "evidence": "Minajeff, mit dem er 1863 in Berlin bei Weber studiert hatte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Angelo de Gubernatis",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1863,
+   "year_end": 1863,
+   "explicit": true,
+   "evidence": "Minajeff, mit dem er 1863 in Berlin bei Weber studiert hatte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Minajeff",
+   "type": "student_of",
+   "object": "Albrecht Weber",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1863,
+   "year_end": 1863,
+   "explicit": true,
+   "evidence": "Minajeff, mit dem er 1863 in Berlin bei Weber studiert hatte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Minajeff",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1863,
+   "year_end": 1863,
+   "explicit": true,
+   "evidence": "Minajeff, mit dem er 1863 in Berlin bei Weber studiert hatte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Angelo de Gubernatis",
+   "type": "founded",
+   "object": "Museo Indiano",
+   "role": null,
+   "place": "Florenz",
+   "year_start": 1886,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "daß er nicht nur das Museo Indiano, sondern auch die Società Asiatica Italiana in Florenz gründete",
+   "quote_ok": true
+  },
+  {
+   "subject": "Angelo de Gubernatis",
+   "type": "founded",
+   "object": "Società Asiatica Italiana",
+   "role": null,
+   "place": "Florenz",
+   "year_start": 1886,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "daß er nicht nur das Museo Indiano, sondern auch die Società Asiatica Italiana in Florenz gründete",
+   "quote_ok": true
+  },
+  {
+   "subject": "Angelo de Gubernatis",
+   "type": "founded",
+   "object": "Giornale della Società Asiatica Italiana",
+   "role": null,
+   "place": "Firenze",
+   "year_start": 1887,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "mit dem \"Giornale della Società Asiatica Italiana\", deren erster Band Firenze 1887 erschien",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 114,
+ "model": "gemini-flash-latest"
+}

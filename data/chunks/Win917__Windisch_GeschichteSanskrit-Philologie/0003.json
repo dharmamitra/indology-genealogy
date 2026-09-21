@@ -1,0 +1,145 @@
+{
+ "people": [
+  {
+   "name": "Sir Alexander Johnston",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Captain Fraser",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "British",
+   "note": null
+  },
+  {
+   "name": "Robertus de Nobilibus",
+   "birth_year": null,
+   "death_year": 1656,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Gestorben in Mayilapur bei Madras"
+  },
+  {
+   "name": "Bartholomaeus Ziegenbalg",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Misnensis Saxo, Ecclesiae ex Indis collectae Praepositus"
+  },
+  {
+   "name": "John Zephaniah Holwell",
+   "birth_year": 1711,
+   "death_year": 1798,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Alexander Dow",
+   "birth_year": null,
+   "death_year": 1779,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Anquetil Duperron",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "French",
+   "note": null
+  },
+  {
+   "name": "Carsten Niebuhr",
+   "birth_year": 1733,
+   "death_year": 1815,
+   "birth_place": null,
+   "nationality": "Hannoveraner",
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sir Alexander Johnston",
+   "type": "position_at",
+   "object": "island of Ceylon",
+   "role": "Chief Justice",
+   "place": "Ceylon",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sir Alexander Johnston (hier Johnson genannt), Chief Justice on the island of Ceylon",
+   "quote_ok": true
+  },
+  {
+   "subject": "Captain Fraser",
+   "type": "position_at",
+   "object": "Pondicherry",
+   "role": "British resident",
+   "place": "Pondicherry",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Captain Fraser, the British resident at Pondicherry",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robertus de Nobilibus",
+   "type": "founded",
+   "object": "Madura mission",
+   "role": null,
+   "place": null,
+   "year_start": 1620,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er hat um 1620 die \"Madura mission\" gegründet",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Zephaniah Holwell",
+   "type": "position_at",
+   "object": "East India Company",
+   "role": "Chef de la Compagnie des Indes",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "John Zephaniah Holwell (1711-1798), der nach einem bewegten Leben im Dienste der East India Company zuletzt kurze Zeit \"Chef de la Compagnie des Indes\" war",
+   "quote_ok": false
+  },
+  {
+   "subject": "Anquetil Duperron",
+   "type": "position_at",
+   "object": "Akademie der schönen Wissenschaften zu Paris",
+   "role": "Mitglied",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Anquetils Du Perron, Mitglied der Akademie der schönen Wissenschaften zu Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carsten Niebuhr",
+   "type": "position_at",
+   "object": "dänische Dienste",
+   "role": "Ingenieur",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "der 1733 geborene, 1815 gestorbene Hannoveraner Carsten Niebuhr, der als Ingenieur in dänische Dienste trat",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 3,
+ "model": "gemini-flash-latest"
+}

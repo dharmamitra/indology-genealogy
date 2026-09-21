@@ -1,0 +1,125 @@
+{
+ "people": [
+  {
+   "name": "Heinrich Zimmer",
+   "birth_year": 1851,
+   "death_year": 1910,
+   "birth_place": "Castellaun (Rheinprovinz)",
+   "nationality": null,
+   "note": "Professor der Keltologie zu Berlin"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Heinrich Zimmer",
+   "type": "position_at",
+   "object": "Berlin",
+   "role": "Professor der Keltologie",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "gestorben 1910 als Professor der Keltologie zu Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Zimmer",
+   "type": "student_of",
+   "object": "Goldschmidt",
+   "role": "Sanskrit",
+   "place": "Straßburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "war im Sanskrit ein Schüler Goldschmidts in Straßburg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Zimmer",
+   "type": "studied_at",
+   "object": "Straßburg",
+   "role": null,
+   "place": "Straßburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "war im Sanskrit ein Schüler Goldschmidts in Straßburg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Zimmer",
+   "type": "student_of",
+   "object": "Roth",
+   "role": "Sanskrit",
+   "place": "Tübingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "und Roths in Tübingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Zimmer",
+   "type": "studied_at",
+   "object": "Tübingen",
+   "role": null,
+   "place": "Tübingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "und Roths in Tübingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Zimmer",
+   "type": "student_of",
+   "object": "Weber",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In der Widmung seines Buches nennt er diese beiden und Weber seine verehrten Lehrer.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Zimmer",
+   "type": "student_of",
+   "object": "Scherer",
+   "role": "Germanistik",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "war in der Germanistik ein Schüler Scherers",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Zimmer",
+   "type": "student_of",
+   "object": "Windisch",
+   "role": "keltologische Studien",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wendete sich aber bald keltologischen Studien zu, in die er zuerst von Windisch eingeführt worden war.",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. Ludwig",
+   "type": "influenced_by",
+   "object": "Haug",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "im Anschluß an Haug die Bedeutung des Rituals für das Verständnis des Ṛgveda hervorgehoben (S. XIII). Auch darin folgt er Haug",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 93,
+ "model": "gemini-flash-latest"
+}

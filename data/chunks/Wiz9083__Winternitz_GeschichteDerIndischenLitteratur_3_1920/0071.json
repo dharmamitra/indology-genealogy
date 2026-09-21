@@ -1,0 +1,49 @@
+{
+ "people": [
+  {
+   "name": "Th. Bloch",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Tukaram Laddu",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Th. Bloch",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "Th. Bloch, Vararuci und Hemacandra, ein Beitrag zur Kritik und Geschichte der Prakrit-Grammatik, (Leipziger) Diss., Gütersloh 1893",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tukaram Laddu",
+   "type": "studied_at",
+   "object": "Halle",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1912,
+   "explicit": true,
+   "evidence": "Tukaram Laddu, Prolegomena zu Trivikramas Prākrit-Grammatik. Diss. Halle 1912.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9083__Winternitz_GeschichteDerIndischenLitteratur_3_1920",
+ "chunk": 71,
+ "model": "gemini-flash-latest"
+}

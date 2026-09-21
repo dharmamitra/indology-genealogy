@@ -1,0 +1,149 @@
+{
+ "people": [
+  {
+   "name": "H. H. Wilson",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "English",
+   "note": null
+  },
+  {
+   "name": "Rudolf Roth",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "H. Graßmann",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Alfred Ludwig",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "R. Pischel",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "K. F. Geldner",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Adolf Kaegi",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Heinrich Zimmer",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "H. Oldenberg",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "H. Graßmann",
+   "type": "student_of",
+   "object": "Rudolf Roth",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zu diesen Forschern gehörte namentlich Rudolf Roth. Einer seiner Schüler und Anhänger war H. Graßmann",
+   "quote_ok": false
+  },
+  {
+   "subject": "K. F. Geldner",
+   "type": "student_of",
+   "object": "Rudolf Roth",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "die gleichfalls aus der Schule Roths hervorgegangene Auswahl »Siebenzig Lieder des Rigveda übersetzt von Karl Geldner und Adolf Kaegi",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Kaegi",
+   "type": "student_of",
+   "object": "Rudolf Roth",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "die gleichfalls aus der Schule Roths hervorgegangene Auswahl »Siebenzig Lieder des Rigveda übersetzt von Karl Geldner und Adolf Kaegi",
+   "quote_ok": true
+  },
+  {
+   "subject": "K. F. Geldner",
+   "type": "collaborated_with",
+   "object": "Adolf Kaegi",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1875,
+   "explicit": true,
+   "evidence": "Siebenzig Lieder des Rigveda übersetzt von Karl Geldner und Adolf Kaegi. Mit Beiträgen von R. Roth«. Tübingen 1875.",
+   "quote_ok": true
+  },
+  {
+   "subject": "R. Pischel",
+   "type": "collaborated_with",
+   "object": "K. F. Geldner",
+   "role": null,
+   "place": null,
+   "year_start": 1889,
+   "year_end": 1901,
+   "explicit": true,
+   "evidence": "R. Pischel und K. F. Geldner, die sich durch ihre »Vedischen Studien«³) um die Aufklärung vieler dunkler Stellen des Rigveda auſserordentlich verdient gemacht haben.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9081__Winternitz_GeschichteDerIndischenLitteratur_1_1908",
+ "chunk": 10,
+ "model": "gemini-flash-latest"
+}

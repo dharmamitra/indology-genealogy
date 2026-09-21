@@ -1,0 +1,145 @@
+{
+ "people": [
+  {
+   "name": "George Turnour",
+   "birth_year": 1799,
+   "death_year": 1843,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Ceylon Civil Service; kam 1818 nach Ceylon; Pāliforscher"
+  },
+  {
+   "name": "W. H. Wathen",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Persian Secretary to the Bombay Government"
+  },
+  {
+   "name": "B. H. Hodgson",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Resident in Nepal"
+  },
+  {
+   "name": "Rev. Dr. J. Wilson",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "President of the Bombay Literary Society"
+  },
+  {
+   "name": "James Prinsep",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "George Turnour",
+   "type": "position_at",
+   "object": "Ceylon Civil Service",
+   "role": null,
+   "place": "Ceylon",
+   "year_start": 1818,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "George Turnour, of the Ceylon Civil Service, geboren 1799, gestorben 1843, nach Ceylon gekommen 1818",
+   "quote_ok": true
+  },
+  {
+   "subject": "W. H. Wathen",
+   "type": "position_at",
+   "object": "Bombay Government",
+   "role": "Persian Secretary",
+   "place": "Bombay",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "W. H. Wathen, Persian Secretary to the Bombay Government",
+   "quote_ok": true
+  },
+  {
+   "subject": "B. H. Hodgson",
+   "type": "position_at",
+   "object": "British Residency in Nepal",
+   "role": "Resident",
+   "place": "Nepal",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "B. H. Hodgson, Resident in Nepal",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rev. Dr. J. Wilson",
+   "type": "position_at",
+   "object": "Bombay Literary Society",
+   "role": "President",
+   "place": "Bombay",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rev. Dr. J. Wilson, \"president of the Bombay Literary Society\"",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ráma Govinda",
+   "type": "position_at",
+   "object": "Asiatic Society",
+   "role": "the Society's pandit",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Text und Übersetzung hat Ráma Govinda, \"the Society's pandit\" hergestellt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Prinsep",
+   "type": "collaborated_with",
+   "object": "Kamalākānta",
+   "role": "pandit",
+   "place": null,
+   "year_start": 1837,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gestützt auf diesen Abklatsch gab Prinsep mit Hilfe seines Pandit Kamalākānta 1837, Journ. VI 963 ff. (Re-examination of the Allahabad pillar), eine neue Übersetzung",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Prinsep",
+   "type": "collaborated_with",
+   "object": "Ratna Paula",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prinsep wurde im Verständnis der Sprache von \"Ratna Paula the Pálí scholar\" unterstützt (JASB. VI 469).",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Prinsep",
+   "type": "influenced_by",
+   "object": "B. H. Hodgson",
+   "role": null,
+   "place": null,
+   "year_start": 1834,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er erhielt diese von B. H. Hodgson, Resident in Nepal, der also auch hier eine erste Anregung gegeben hat.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 27,
+ "model": "gemini-flash-latest"
+}

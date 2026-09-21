@@ -1,0 +1,69 @@
+{
+ "people": [
+  {
+   "name": "Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Coomara Svamy",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "R. Morris",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Rhys Davids",
+   "type": "collaborated_with",
+   "object": "Coomara Svamy",
+   "role": null,
+   "place": null,
+   "year_start": 1884,
+   "year_end": 1884,
+   "explicit": true,
+   "evidence": "Herausgegeben von Rhys Davids im Verein mit Coomara Svamy und R. Morris im JPTS 1884, p. 109 ff.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rhys Davids",
+   "type": "collaborated_with",
+   "object": "R. Morris",
+   "role": null,
+   "place": null,
+   "year_start": 1884,
+   "year_end": 1884,
+   "explicit": true,
+   "evidence": "Herausgegeben von Rhys Davids im Verein mit Coomara Svamy und R. Morris im JPTS 1884, p. 109 ff.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Coomara Svamy",
+   "type": "collaborated_with",
+   "object": "R. Morris",
+   "role": null,
+   "place": null,
+   "year_start": 1884,
+   "year_end": 1884,
+   "explicit": true,
+   "evidence": "Herausgegeben von Rhys Davids im Verein mit Coomara Svamy und R. Morris im JPTS 1884, p. 109 ff.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9082__Winternitz_GeschichteDerIndischenLitteratur_2_1920",
+ "chunk": 31,
+ "model": "gemini-flash-latest"
+}

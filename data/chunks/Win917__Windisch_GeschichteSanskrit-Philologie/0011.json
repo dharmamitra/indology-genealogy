@@ -1,0 +1,69 @@
+{
+ "people": [
+  {
+   "name": "H. H. Wilson",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "British",
+   "note": "Visitor of the Sanskrit College of Calcutta; returned to England before the publication of his Viṣṇupurāṇa translation."
+  },
+  {
+   "name": "H. Th. Colebrooke",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "British",
+   "note": "Found mortally ill by Wilson in England and died before the publication of his translation of the Sāṅkhyakārikā in 1837."
+  },
+  {
+   "name": "Vans Kennedy",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "British",
+   "note": "Colonel; known as a dissenter against established authorities in Sanskrit philology such as Colebrooke and Wilson."
+  }
+ ],
+ "relations": [
+  {
+   "subject": "H. H. Wilson",
+   "type": "position_at",
+   "object": "Sanskrit College of Calcutta",
+   "role": "visitor",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "As visitor of the Sanskrit College of Calcutta, he superintended the publication of a large number of Sanskrit books",
+   "quote_ok": false
+  },
+  {
+   "subject": "Vans Kennedy",
+   "type": "other",
+   "object": "H. H. Wilson",
+   "role": "opponent in controversy over the age and character of the Purāṇas",
+   "place": null,
+   "year_start": 1840,
+   "year_end": 1841,
+   "explicit": true,
+   "evidence": "Diese ganze Anschauung Wilsons bekämpfte Vans Kennedy in einer Reihe von Briefen an den Editor des Journal der RAS., die daselbst 1840 und 1841 unter der Überschrift \"On Professor Wilson's Theory respecting the Purāṇas\" veröffentlicht worden sind",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vans Kennedy",
+   "type": "other",
+   "object": "H. Th. Colebrooke",
+   "role": "opponent / critic in a treatise on Vedānta",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "macht auch auf eine, den Vedānta betreffende, Abhandlung (Transact. RAS. III 412) aufmerksam, die gegen Colebrooke gerichtet ist.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 11,
+ "model": "gemini-flash-latest"
+}

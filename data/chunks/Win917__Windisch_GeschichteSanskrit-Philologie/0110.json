@@ -1,0 +1,169 @@
+{
+ "people": [
+  {
+   "name": "Georg Curtius",
+   "birth_year": 1820,
+   "death_year": 1885,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Franz Bopp",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Karl Brugmann",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Theodor Benfey",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "August Schleicher",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Philipp Fortunatov",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Russian",
+   "note": null
+  },
+  {
+   "name": "Wilhelm Heymann",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Arthur Amelung",
+   "birth_year": null,
+   "death_year": 1874,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Er scheint ein Balte gewesen zu sein"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Georg Curtius",
+   "type": "student_of",
+   "object": "Franz Bopp",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Geboren 1820, ein unmittelbarer Schüler Bopps, war er festgewurzelt in dessen Lehre",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Curtius",
+   "type": "position_at",
+   "object": "Universität Leipzig",
+   "role": "Professor der klassischen Philologie",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "G. Curtius in Leipzig ... G. Curtius, der Professor der klassischen Philologie war",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Brugmann",
+   "type": "succeeded",
+   "object": "Georg Curtius",
+   "role": "Professur für Vergleichende Sprachwissenschaft",
+   "place": "Leipzig",
+   "year_start": 1885,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Brugmann wurde sein Nachfolger in einer besonderen Professur für Vergleichende Sprachwissenschaft.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Theodor Benfey",
+   "type": "position_at",
+   "object": "Universität Göttingen",
+   "role": "Lehrmeister",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "ihre Lehrmeister, Benfey in Göttingen, G. Curtius in Leipzig, Schleicher in Jena",
+   "quote_ok": true
+  },
+  {
+   "subject": "August Schleicher",
+   "type": "position_at",
+   "object": "Universität Jena",
+   "role": "Lehrmeister",
+   "place": "Jena",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "ihre Lehrmeister, Benfey in Göttingen, G. Curtius in Leipzig, Schleicher in Jena",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philipp Fortunatov",
+   "type": "position_at",
+   "object": "Moskau",
+   "role": "Gelehrter",
+   "place": "Moskau",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Die kleine aber inhaltsreiche Abhandlung des Moskauer Gelehrten Ph. Fortunatov",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Heymann",
+   "type": "studied_at",
+   "object": "Universität Göttingen",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": 1873,
+   "explicit": true,
+   "evidence": "in der Göttinger Dissertation \"Das l der indogermanischen Sprachen gehört der indogermanischen Grundsprache an\" von Wilhelm Heymann, Weimar 1873",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Amelung",
+   "type": "position_at",
+   "object": "Universität Dorpat",
+   "role": "Privatdozent",
+   "place": "Dorpat",
+   "year_start": 1871,
+   "year_end": 1874,
+   "explicit": true,
+   "evidence": "habilitierte sich 1871 in Dorpat und ist bald darauf gestorben, am 6. April 1874.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 110,
+ "model": "gemini-flash-latest"
+}

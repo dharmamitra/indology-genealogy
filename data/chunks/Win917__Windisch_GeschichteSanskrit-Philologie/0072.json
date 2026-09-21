@@ -1,0 +1,129 @@
+{
+ "people": [
+  {
+   "name": "Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Christian Karl Josias Bunsen",
+   "birth_year": 1791,
+   "death_year": 1860,
+   "birth_place": null,
+   "nationality": "German",
+   "note": "Preußischer Gesandter in London, später Freiherr"
+  },
+  {
+   "name": "Biot",
+   "birth_year": null,
+   "death_year": 1862,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Max Müller",
+   "type": "position_at",
+   "object": "University of Oxford",
+   "role": "Professur für Modern Languages",
+   "place": "Oxford",
+   "year_start": 1854,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Über die deutsche Literatur, den Minnesang, Schiller schrieb er, weil die Oxforder Professur, die er 1854 erhielt, auf Modern Languages lautete.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Max Müller",
+   "type": "position_at",
+   "object": "University of Oxford",
+   "role": "Professur für Comparative Philology",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Seine spätere Professur für Comparative Philology entsprach mehr seiner Vorbereitung und deckte zugleich seine Studien in der Vergleichenden Religionsgeschichte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Müller",
+   "type": "influenced_by",
+   "object": "Christian Karl Josias Bunsen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Aber mehr als dadurch wurde er in England von Anfang an durch Bunsen beeinflußt und seinen eigenen Anlagen entsprechend zur Religionsgeschichte in der Weltgeschichte geführt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Müller",
+   "type": "collaborated_with",
+   "object": "Christian Karl Josias Bunsen",
+   "role": null,
+   "place": "Oxford",
+   "year_start": 1847,
+   "year_end": 1847,
+   "explicit": true,
+   "evidence": "Das Zusammenarbeiten mit Bunsen zeigt sich zuerst in M. Müllers Vortrag... eine der \"Three Linguistic Dissertations, read at the Meeting of the British Association in Oxford, by Chevalier Bunsen, Charles Meyer, and Max Müller\"",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Müller",
+   "type": "collaborated_with",
+   "object": "Charles Meyer",
+   "role": null,
+   "place": "Oxford",
+   "year_start": 1847,
+   "year_end": 1847,
+   "explicit": true,
+   "evidence": "\"Three Linguistic Dissertations, read at the Meeting of the British Association in Oxford, by Chevalier Bunsen, Charles Meyer, and Max Müller\", London 1847.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Karl Josias Bunsen",
+   "type": "studied_at",
+   "object": "Marburg",
+   "role": null,
+   "place": "Marburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bunsen hat mit theologischen und philologischen Studien in Marburg und Göttingen begonnen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Karl Josias Bunsen",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bunsen hat mit theologischen und philologischen Studien in Marburg und Göttingen begonnen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Karl Josias Bunsen",
+   "type": "position_at",
+   "object": "Preußen",
+   "role": "preußischer Gesandter",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Christian Karl Josias Bunsen... war damals preußischer Gesandter in London",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 72,
+ "model": "gemini-flash-latest"
+}

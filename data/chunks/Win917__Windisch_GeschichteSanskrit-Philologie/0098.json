@@ -1,0 +1,49 @@
+{
+ "people": [
+  {
+   "name": "H. Brunnhofer",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Lehrer am Gymnasium in Goldingen in Kurland"
+  },
+  {
+   "name": "Alfred Hillebrandt",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "H. Brunnhofer",
+   "type": "position_at",
+   "object": "Gymnasium in Goldingen",
+   "role": "Lehrer",
+   "place": "Goldingen in Kurland",
+   "year_start": 1889,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Brunnhofer war damals Lehrer am Gymnasium in Goldingen in Kurland.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Hillebrandt",
+   "type": "influenced_by",
+   "object": "H. Brunnhofer",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hillebrandt steht prinzipiell auf dem Standpunkt Brunnhofers, wenn er in seinem Aufsatz \"Die Heimat des Ṛgveda\", Österr. Monatsschrift für den Orient 1917, S. 285 sagt",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 98,
+ "model": "gemini-flash-latest"
+}

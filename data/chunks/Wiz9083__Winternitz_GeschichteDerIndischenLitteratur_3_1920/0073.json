@@ -1,0 +1,65 @@
+{
+ "people": [
+  {
+   "name": "O. Böhtlingk",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Ch. Rieu",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "E. Denison Ross",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "S. Ch. Vidyābhūṣaṇa",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "O. Böhtlingk",
+   "type": "collaborated_with",
+   "object": "Ch. Rieu",
+   "role": "co-editors",
+   "place": "St. Petersburg",
+   "year_start": 1847,
+   "year_end": 1847,
+   "explicit": true,
+   "evidence": "Herausgegeben von O. Böhtlingk und Ch. Rieu, St. Petersburg 1847.",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. Denison Ross",
+   "type": "collaborated_with",
+   "object": "S. Ch. Vidyābhūṣaṇa",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ed. by E. Denison Ross and S. Ch. Vidyābhūṣaṇa, Part I",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9083__Winternitz_GeschichteDerIndischenLitteratur_3_1920",
+ "chunk": 73,
+ "model": "gemini-flash-latest"
+}

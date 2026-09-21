@@ -1,0 +1,77 @@
+{
+ "people": [
+  {
+   "name": "Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Wilson",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Rudolf Roth",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Georg Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Georg Bühler",
+   "type": "collaborated_with",
+   "object": "Max Müller",
+   "role": "prepared index for book",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "M. Müller dankt diesem hier am Ende der Vorrede für Anfertigung des Index zu seinem Buche.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Müller",
+   "type": "other",
+   "object": "Wilson",
+   "role": "dedicated work to",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "r erwachsene, Wilson gewidmete Werk \"A History of Ancient Sanskrit Literature\"",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rudolf Roth",
+   "type": "other",
+   "object": "Wilson",
+   "role": "dedicated work to",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "so war ihm doch jedenfalls Roths grundlegende, gleichfalls Wilson gewidmete Schrift vorausgegangen.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 70,
+ "model": "gemini-flash-latest"
+}

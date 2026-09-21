@@ -1,0 +1,137 @@
+{
+ "people": [
+  {
+   "name": "Ewald",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "J. Häberlin",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": "Tuttlingen",
+   "nationality": null,
+   "note": "Missionar und Presbyter der anglikanischen Kirche"
+  },
+  {
+   "name": "Carl Friedrich Neumann",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Münchener Professor"
+  },
+  {
+   "name": "Ernst Trumpp",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Münchener Professor und Missionar in Indien"
+  },
+  {
+   "name": "A. Schleicher",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Privatdozent in Bonn"
+  },
+  {
+   "name": "Th. Benfey",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Stern",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "J. Häberlin",
+   "type": "position_at",
+   "object": "anglikanische Kirche",
+   "role": "Missionar und Presbyter",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "von dem Missionar und Presbyter der anglikanischen Kirche Dr. J. Häberlin, einem geborenen Tuttlinger",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Friedrich Neumann",
+   "type": "position_at",
+   "object": "München",
+   "role": "Professor",
+   "place": "München",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Carl Friedrich Neumann... In der Folgezeit hat ein anderer Münchener Professor, Ernst Trumpp",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Trumpp",
+   "type": "position_at",
+   "object": "München",
+   "role": "Professor",
+   "place": "München",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ein anderer Münchener Professor, Ernst Trumpp",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Trumpp",
+   "type": "position_at",
+   "object": "Indien",
+   "role": "Missionar",
+   "place": "Indien",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "der lange als Missionar in Indien tätig gewesen war",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. Schleicher",
+   "type": "position_at",
+   "object": "Bonn",
+   "role": "Privatdozent",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A. Schleicher, der damals Privatdozent in Bonn war.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Th. Benfey",
+   "type": "collaborated_with",
+   "object": "Stern",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "seine im Verein mit Stern herausgegebene Schrift \"Über die Monatsnamen einiger alten Völker\"",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 40,
+ "model": "gemini-flash-latest"
+}

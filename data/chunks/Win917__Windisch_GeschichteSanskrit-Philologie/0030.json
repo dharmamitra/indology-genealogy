@@ -1,0 +1,137 @@
+{
+ "people": [
+  {
+   "name": "Edward Upham",
+   "birth_year": 1776,
+   "death_year": 1834,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Buchhändler und Autor"
+  },
+  {
+   "name": "Sir Alexander Johnston",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Chief justice and first member of his majesty's council auf Ceylon"
+  },
+  {
+   "name": "George Turnour",
+   "birth_year": 1799,
+   "death_year": 1843,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Beamter im Civil Service of Ceylon und Pāli-Forscher; gestorben in Neapel"
+  },
+  {
+   "name": "Brian Houghton Hodgson",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "British Resident in Nepal"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sir Alexander Johnston",
+   "type": "position_at",
+   "object": "Council of Ceylon",
+   "role": "chief justice and first member of his majesty's council",
+   "place": "Ceylon",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Auf Ceylon hatte Sir Alexander Johnston, \"chief justice and first member of his majesty's council\"",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Upham",
+   "type": "other",
+   "object": "Sir Alexander Johnston",
+   "role": "commissioned by",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Johnston wurde in London mit Edward Upham bekannt... Upham kam im Jahre 1826... im Auftrage Johnstons zu Burnouf nach Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Turnour",
+   "type": "position_at",
+   "object": "Civil Service of Ceylon",
+   "role": "Member of the Supreme Council",
+   "place": "Ceylon",
+   "year_start": 1818,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "war 1818 in den Civil Service of Ceylon eingetreten, in dem er bis zum Member of the Supreme Council aufstieg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Brian Houghton Hodgson",
+   "type": "position_at",
+   "object": "British Residency in Nepal",
+   "role": "British Resident in Nepal",
+   "place": "Kathmandu",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "diplomatischen Verdiensten Hodgsons als British Resident in Nepal",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Jones",
+   "type": "influenced_by",
+   "object": "Francis Wilford",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "W. Jones, obwohl anfangs mißtrauisch, war dann in \"Remarks on the Preceding Essay\" auf Wilfords Ideen eingegangen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eugène Burnouf",
+   "type": "influenced_by",
+   "object": "Brian Houghton Hodgson",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "so wäre Burnoufs Leistung nicht ohne Hodgson möglich gewesen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Prinsep",
+   "type": "influenced_by",
+   "object": "Charles Masson",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Wie Prinseps Leistung nicht ohne Masson",
+   "quote_ok": true
+  },
+  {
+   "subject": "Brian Houghton Hodgson",
+   "type": "collaborated_with",
+   "object": "James Prinsep",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er gehörte mit zu dem Milieu, in dem Prinsep seine entziffernde Tätigkeit entfaltete. Von ihm erhielt dieser das erste Faksimile der Asoka-Inschrift von Mathiah",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 30,
+ "model": "gemini-flash-latest"
+}

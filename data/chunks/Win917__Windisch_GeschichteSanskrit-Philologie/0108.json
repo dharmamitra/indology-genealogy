@@ -1,0 +1,189 @@
+{
+ "people": [
+  {
+   "name": "August Leskien",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Professor in Leipzig"
+  },
+  {
+   "name": "August Schleicher",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Heinrich Zimmer",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Wilhelm Scherer",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Germanist"
+  },
+  {
+   "name": "Karl Brugmann",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Hermann Osthoff",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Hermann Paul",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Wilhelm Braune",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Ernst Kuhn",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Karl Verner",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Danish",
+   "note": null
+  },
+  {
+   "name": "Maurice Bloomfield",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "American",
+   "note": null
+  },
+  {
+   "name": "Theodor Benfey",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Feierte sein 50jähriges Doktorjubiläum am 24. Oktober 1878"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "August Leskien",
+   "type": "student_of",
+   "object": "August Schleicher",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Aus Leskien sprach zugleich auch Schleicher, dessen Schüler er war.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Zimmer",
+   "type": "student_of",
+   "object": "Wilhelm Scherer",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Heinrich Zimmer, der ein unmittelbarer Schüler Scherers war.",
+   "quote_ok": true
+  },
+  {
+   "subject": "August Leskien",
+   "type": "position_at",
+   "object": "Universität Leipzig",
+   "role": "Professor",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Der älteste dieser Grammatiker war Leskien, damals schon Professor in Leipzig, dessen Vorlesungen die anderen hörten.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Paul",
+   "type": "collaborated_with",
+   "object": "Wilhelm Braune",
+   "role": "Mitherausgeber",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in den ersten Bänden der von Hermann Paul und Wilhelm Braune herausgegebenen \"Beiträge zur geschichte der deutschen sprache und literatur\"",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Brugmann",
+   "type": "founded",
+   "object": "Morphologische Untersuchungen auf dem Gebiete der indogermanischen Sprachen",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": 1878,
+   "year_end": 1881,
+   "explicit": true,
+   "evidence": "gründeten sie die \"Morphologischen Untersuchungen auf dem Gebiete der indogermanischen Sprachen\", von denen vier Teile erschienen sind, Leipzig 1878-1881.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Osthoff",
+   "type": "founded",
+   "object": "Morphologische Untersuchungen auf dem Gebiete der indogermanischen Sprachen",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": 1878,
+   "year_end": 1881,
+   "explicit": true,
+   "evidence": "gründeten sie die \"Morphologischen Untersuchungen auf dem Gebiete der indogermanischen Sprachen\", von denen vier Teile erschienen sind, Leipzig 1878-1881.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Kuhn",
+   "type": "influenced_by",
+   "object": "August Leskien",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Über das Prinzip der Analogie s. die Vorrede zu E. Kuhns Pāli-Grammatik 1875. Das ist z. T. durch Leskiens Einfluß zu erklären",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 108,
+ "model": "gemini-flash-latest"
+}

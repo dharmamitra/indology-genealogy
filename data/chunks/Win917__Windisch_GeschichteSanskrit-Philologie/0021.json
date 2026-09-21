@@ -1,0 +1,181 @@
+{
+ "people": [
+  {
+   "name": "Wilhelm von Humboldt",
+   "birth_year": 1767,
+   "death_year": 1835,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Preußischer Minister und Sprachforscher"
+  },
+  {
+   "name": "Christian Lassen",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "A. W. Schlegel",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Franz Bopp",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Silvestre de Sacy",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "J. C. Eduard Buschmann",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Eugène Burnouf",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Alexander von Humboldt",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Christian Lassen",
+   "type": "student_of",
+   "object": "A. W. Schlegel",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Christian Lassens Indischer Alterthumskunde eine Verwirklichung der idealen Forderungen erblicken dürfen, die sein Lehrer A. W. Schlegel aufgestellt hat.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Silvestre de Sacy",
+   "type": "position_at",
+   "object": "Société Asiatique",
+   "role": "Vorsitzender",
+   "place": "Paris",
+   "year_start": 1822,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "am 1. April 1822 unter dem Vorsitz Silvestre de Sacys gegründeten Société Asiatique in Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Bopp",
+   "type": "position_at",
+   "object": "Universität Berlin",
+   "role": "Professor",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ohne ihn würde Bopp nicht so rasch Professor in Berlin geworden sein.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Wilhelm von Humboldt",
+   "type": "position_at",
+   "object": "Preußen",
+   "role": "Minister",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Die Sanskritstudien hatten in Preußen in dem Minister Wilhelm v. Humboldt einen einflußreichen Gönner und Freund.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm von Humboldt",
+   "type": "student_of",
+   "object": "Franz Bopp",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Sanskrit darf er in derselben Weise wie A.W. v. Schlegel als ein Schüler Bopps bezeichnet werden.",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. W. Schlegel",
+   "type": "student_of",
+   "object": "Franz Bopp",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Sanskrit darf er in derselben Weise wie A.W. v. Schlegel als ein Schüler Bopps bezeichnet werden.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm von Humboldt",
+   "type": "other",
+   "object": "Alexander von Humboldt",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "der Bruder Alexander v. Humboldts widme sich jetzt mit dem größten Eifer dem Sanskrit",
+   "quote_ok": true
+  },
+  {
+   "subject": "J. C. Eduard Buschmann",
+   "type": "position_at",
+   "object": "Königl. Bibliothek in Berlin",
+   "role": "Custos",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "von J. C. Eduard Buschmann, damals Custos bei der Königl. Bibliothek in Berlin, für den Druck zurechtgemacht und herausgegeben worden",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eugène Burnouf",
+   "type": "collaborated_with",
+   "object": "Christian Lassen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Burnouf und Lassen hatten im Essai sur le Pali S. 152 fg. diese Sprache als aus dem Sanskrit entstanden hingestellt",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 21,
+ "model": "gemini-flash-latest"
+}

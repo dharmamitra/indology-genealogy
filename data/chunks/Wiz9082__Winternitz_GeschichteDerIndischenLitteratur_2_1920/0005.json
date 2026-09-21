@@ -1,0 +1,37 @@
+{
+ "people": [
+  {
+   "name": "Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Oldenberg",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Rhys Davids",
+   "type": "collaborated_with",
+   "object": "Oldenberg",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ins Englische übersetzt von Rhys Davids und Oldenberg in Vol. XIII, XVII und XX der SBE.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9082__Winternitz_GeschichteDerIndischenLitteratur_2_1920",
+ "chunk": 5,
+ "model": "gemini-flash-latest"
+}

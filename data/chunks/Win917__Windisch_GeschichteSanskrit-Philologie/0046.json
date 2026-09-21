@@ -1,0 +1,49 @@
+{
+ "people": [
+  {
+   "name": "Andrew Stirling",
+   "birth_year": 1793,
+   "death_year": 1830,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Ging 1813 nach Indien, war im Political Department tätig, gestorben in Calcutta."
+  },
+  {
+   "name": "J. S. Burt",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Captain bei den Bengal Engineers"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Andrew Stirling",
+   "type": "position_at",
+   "object": "Political Department",
+   "role": null,
+   "place": "Indien",
+   "year_start": 1813,
+   "year_end": 1830,
+   "explicit": true,
+   "evidence": "A. Stirling war geboren um 1793, ging 1813 nach Indien, war im Political Department tätig, und ist gestorben 1830 in Calcutta.",
+   "quote_ok": true
+  },
+  {
+   "subject": "J. S. Burt",
+   "type": "position_at",
+   "object": "Bengal Engineers",
+   "role": "Captain",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Captain J. S. Burt, Bengal Engineers",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 46,
+ "model": "gemini-flash-latest"
+}

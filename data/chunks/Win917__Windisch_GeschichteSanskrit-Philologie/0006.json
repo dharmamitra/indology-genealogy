@@ -1,0 +1,161 @@
+{
+ "people": [
+  {
+   "name": "Charles Wilkins",
+   "birth_year": 1750,
+   "death_year": 1833,
+   "birth_place": null,
+   "nationality": "British",
+   "note": "English scholar, East India Company civil servant, and first Librarian of the India House Library."
+  },
+  {
+   "name": "Sir William Jones",
+   "birth_year": 1746,
+   "death_year": 1794,
+   "birth_place": "London",
+   "nationality": "British",
+   "note": "Puisne Judge at Fort William and founder/president of the Asiatick Society in Calcutta."
+  },
+  {
+   "name": "Henry Thomas Colebrooke",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "British",
+   "note": "Came to India as a writer in the East India Company's Civil Service."
+  },
+  {
+   "name": "Sir Robert Chambers",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "British",
+   "note": "Chief Justice of the Supreme Court at Fort William."
+  },
+  {
+   "name": "Joh. Friedr. Kleuker",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "German",
+   "note": null
+  },
+  {
+   "name": "Fick",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "German",
+   "note": null
+  },
+  {
+   "name": "Benjamin Schultze",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "German",
+   "note": "Missionary in Tranquebar."
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Fick",
+   "type": "collaborated_with",
+   "object": "Joh. Friedr. Kleuker",
+   "role": null,
+   "place": "Riga",
+   "year_start": 1797,
+   "year_end": 1797,
+   "explicit": true,
+   "evidence": "dem, Riga 1797 erschienenen, Übersetzungswerke von Fick und Joh. Friedr. Kleuker",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Wilkins",
+   "type": "position_at",
+   "object": "East India Company's Civil Service",
+   "role": "writer",
+   "place": "India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "kam er nach Indien wie Colebrooke \"as a writer in the East India Company's Civil Service\"",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Thomas Colebrooke",
+   "type": "position_at",
+   "object": "East India Company's Civil Service",
+   "role": "writer",
+   "place": "India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "kam er nach Indien wie Colebrooke \"as a writer in the East India Company's Civil Service\"",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Wilkins",
+   "type": "position_at",
+   "object": "India House Library",
+   "role": "Librarian",
+   "place": "England",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hier war er der erste Librarian of the India House Library",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir William Jones",
+   "type": "position_at",
+   "object": "Supreme Court at Fort William",
+   "role": "Puisne Judge",
+   "place": "Bengal",
+   "year_start": 1783,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "kam 1783 nach Indien als \"a Puisne Judge of the Supreme Court at Fort William in Bengal\"",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir William Jones",
+   "type": "founded",
+   "object": "Asiatick Society",
+   "role": null,
+   "place": "Calcutta",
+   "year_start": 1784,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dieser geistvolle, vielseitige Mann war der Gründer der Asiatick Society in Calcutta",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir William Jones",
+   "type": "position_at",
+   "object": "Asiatick Society",
+   "role": "President",
+   "place": "Calcutta",
+   "year_start": 1784,
+   "year_end": 1794,
+   "explicit": true,
+   "evidence": "Asiatick Society in Calcutta, deren President er bis an sein Lebensende war",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir Robert Chambers",
+   "type": "position_at",
+   "object": "Supreme Court at Fort William",
+   "role": "Chief Justice",
+   "place": "Bengal",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sir Robert Chambers, Chief Justice des Supreme Court at Fort William",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 6,
+ "model": "gemini-flash-latest"
+}

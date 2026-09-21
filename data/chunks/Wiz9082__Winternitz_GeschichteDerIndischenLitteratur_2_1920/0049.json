@@ -1,0 +1,93 @@
+{
+ "people": [
+  {
+   "name": "G. A. van den Bergh van Eysinga",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Dutch",
+   "note": null
+  },
+  {
+   "name": "Albert J. Edmunds",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "American",
+   "note": null
+  },
+  {
+   "name": "Rudolf Seydel",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Martin Seydel",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "M. Anesaki",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Ernst Kuhn",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Martin Seydel",
+   "type": "collaborated_with",
+   "object": "Rudolf Seydel",
+   "role": "editor/contributor of supplementary notes",
+   "place": null,
+   "year_start": null,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "Die Buddha-Legende und das Leben Jesu nach den Evangelien, erneute Prüfung ihres gegenseitigen Verhältnisses, 2. Aufl. mit ergänzenden Anmerkungen von Martin Seydel, Weimar 1897.",
+   "quote_ok": true
+  },
+  {
+   "subject": "M. Anesaki",
+   "type": "collaborated_with",
+   "object": "Albert J. Edmunds",
+   "role": "editor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1909,
+   "explicit": true,
+   "evidence": "Buddhist and Christian Gospels now first compared from the Originals by A. J. Edmunds, edited by M. Anesaki, 4th Ed., Philadelphia 1908/9.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Kuhn",
+   "type": "collaborated_with",
+   "object": "G. A. van den Bergh van Eysinga",
+   "role": "contributor of afterword",
+   "place": null,
+   "year_start": null,
+   "year_end": 1904,
+   "explicit": true,
+   "evidence": "Ernst Kuhn im Nachwort zu Bergh van Eysingas Werk (S. 102 ff.)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9082__Winternitz_GeschichteDerIndischenLitteratur_2_1920",
+ "chunk": 49,
+ "model": "gemini-flash-latest"
+}

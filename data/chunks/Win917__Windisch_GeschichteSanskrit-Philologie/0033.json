@@ -1,0 +1,141 @@
+{
+ "people": [
+  {
+   "name": "Brian Houghton Hodgson",
+   "birth_year": 1800,
+   "death_year": 1894,
+   "birth_place": null,
+   "nationality": "British",
+   "note": "English Resident at Kathmandu at the court of Nepal, manuscript collector and scholar of Buddhism."
+  },
+  {
+   "name": "Daniel Wright",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "British",
+   "note": "English physician in Nepal and manuscript collector; brother of William Wright."
+  },
+  {
+   "name": "William Wright",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "British",
+   "note": "Arabist in Cambridge."
+  },
+  {
+   "name": "Alexander Csoma de Kőrös",
+   "birth_year": 1784,
+   "death_year": 1842,
+   "birth_place": "Kőrös in Siebenbürgen",
+   "nationality": "Hungarian",
+   "note": "Explorer and Tibetologist who died in Darjeeling."
+  },
+  {
+   "name": "H. Kern",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Bunyiu Nanjio",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "E. B. Cowell",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "J. Eggeling",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Neil",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Brian Houghton Hodgson",
+   "type": "position_at",
+   "object": "Hof von Nepāl",
+   "role": "englischer Resident",
+   "place": "Kathmandu",
+   "year_start": 1821,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Brian Houghton Hodgson, geboren 1800, gestorben 1894, war im Jahre 1821 als englischer Resident nach Kathmandu an den Hof von Nepāl gekommen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daniel Wright",
+   "type": "other",
+   "object": "William Wright",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Daniel Wright, lange Zeit englischer Arzt in Nepāl, Bruder des Arabisten William Wright in Cambridge",
+   "quote_ok": true
+  },
+  {
+   "subject": "H. Kern",
+   "type": "collaborated_with",
+   "object": "Bunyiu Nanjio",
+   "role": "co-editors",
+   "place": "St. Petersburg",
+   "year_start": 1912,
+   "year_end": 1912,
+   "explicit": true,
+   "evidence": "Der Sanskrittext ist erst von H. Kern und Bunyiu Nanjio in der Bibliotheca Buddhica, St. Petersburg 1912, herausgegeben worden.",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. B. Cowell",
+   "type": "collaborated_with",
+   "object": "J. Eggeling",
+   "role": "co-authors",
+   "place": "London",
+   "year_start": 1876,
+   "year_end": 1876,
+   "explicit": true,
+   "evidence": "E. B. Cowell und J. Eggeling, A Catalogue of Buddhist Sanskrit Manuscripts in the possession of the R. Asiatic Society (Hodgson Collection), JRAS. VIII, London 1876.",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. B. Cowell",
+   "type": "collaborated_with",
+   "object": "Neil",
+   "role": "co-editors",
+   "place": "Cambridge",
+   "year_start": 1886,
+   "year_end": 1886,
+   "explicit": true,
+   "evidence": "in Cowell und Neils Ausgabe (Cambridge 1886)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 33,
+ "model": "gemini-flash-latest"
+}

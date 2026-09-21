@@ -1,0 +1,149 @@
+{
+ "people": [
+  {
+   "name": "Othmar Frank",
+   "birth_year": 1770,
+   "death_year": 1840,
+   "birth_place": "Bamberg",
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Franz Bopp",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "A. Hamilton",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Henry Thomas Colebrooke",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Othmar Frank",
+   "type": "position_at",
+   "object": "Bamberg",
+   "role": "Professor der Philosophie",
+   "place": "Bamberg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "tritt uns in seinen Schriften zuerst als Professor der Philosophie in Bamberg entgegen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Othmar Frank",
+   "type": "position_at",
+   "object": "Universität Würzburg",
+   "role": "Professor Philosophiae ac Philologiae Orientalis, Indicae inprimis ac Persicae",
+   "place": "Würzburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "war dann Professor Philosophiae ac Philologiae Orientalis, Indicae inprimis ac Persicae, in Würzburg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Othmar Frank",
+   "type": "position_at",
+   "object": "Ludwig-Maximilians-Universität München",
+   "role": "Professor",
+   "place": "München",
+   "year_start": 1826,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "von 1826 an in München an der dortigen neugegründeten Universität.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Othmar Frank",
+   "type": "studied_at",
+   "object": "Paris",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zwei Süddeutsche waren es, Othmar Frank und Franz Bopp, die nebeneinander in Paris, unterstützt von ihrer Regierung, dem Studium des Sanskrit oblagen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Bopp",
+   "type": "studied_at",
+   "object": "Paris",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zwei Süddeutsche waren es, Othmar Frank und Franz Bopp, die nebeneinander in Paris, unterstützt von ihrer Regierung, dem Studium des Sanskrit oblagen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Othmar Frank",
+   "type": "studied_at",
+   "object": "London",
+   "role": null,
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Diese zweite Periode wurde heraufgeführt durch einen dreijährigen Studienaufenthalt in Paris und London",
+   "quote_ok": true
+  },
+  {
+   "subject": "Othmar Frank",
+   "type": "student_of",
+   "object": "A. Hamilton",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er dankt hier auch A. Hamilton für den ersten Unterricht im Sanskrit.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Othmar Frank",
+   "type": "founded",
+   "object": "Vyāsa, Über Philosophie, Mythologie, Literatur und Sprache der Hindu",
+   "role": null,
+   "place": null,
+   "year_start": 1826,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "läßt die von ihm gegründete Zeitschrift vermuten: \"Vyāsa, Über Philosophie, Mythologie, Literatur und Sprache der Hindu\"",
+   "quote_ok": true
+  },
+  {
+   "subject": "Othmar Frank",
+   "type": "influenced_by",
+   "object": "Henry Thomas Colebrooke",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sein Führer war Colebrooke, in dessen Handschriftensammlung er sich auch während seines Aufenthalts in London umgesehen hatte",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 16,
+ "model": "gemini-flash-latest"
+}

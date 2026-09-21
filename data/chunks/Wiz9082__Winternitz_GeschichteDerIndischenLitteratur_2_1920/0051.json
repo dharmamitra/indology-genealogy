@@ -1,0 +1,49 @@
+{
+ "people": [
+  {
+   "name": "M. Winternitz",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Leopold v. Schröder",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "M. Winternitz",
+   "type": "position_at",
+   "object": "Deutsche Universität in Prag",
+   "role": "ord. Professor",
+   "place": "Prag",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. M. Winternitz, ord. Professor an der Deutschen Universität in Prag.",
+   "quote_ok": true
+  },
+  {
+   "subject": "M. Winternitz",
+   "type": "other",
+   "object": "Leopold v. Schröder",
+   "role": "dedicated his work to",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Winternitz' Geschichte der indischen Litteratur ist Leopold v. Schröder gewidmet",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9082__Winternitz_GeschichteDerIndischenLitteratur_2_1920",
+ "chunk": 51,
+ "model": "gemini-flash-latest"
+}

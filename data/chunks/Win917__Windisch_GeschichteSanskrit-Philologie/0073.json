@@ -1,0 +1,97 @@
+{
+ "people": [
+  {
+   "name": "Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "A. Kuhn",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Ludwig Noiré",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Havet",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "élève de l'École des Hautes Études"
+  },
+  {
+   "name": "Bergaigne",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "répétiteur à l'École des Hautes Études"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Max Müller",
+   "type": "other",
+   "object": "A. Kuhn",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bei der Deutung der Mythen und der etymologischen Erklärung der mythologischen Namen stimmte er nicht immer mit seinem \"gelehrten Freunde Kuhn\" (a. a. O. S. 551) überein.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Müller",
+   "type": "influenced_by",
+   "object": "Ludwig Noiré",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In dieser Frage war er von Ludwig Noiré beeinflußt, dem er auch sein letztes größeres Werk gewidmet hat",
+   "quote_ok": true
+  },
+  {
+   "subject": "Havet",
+   "type": "studied_at",
+   "object": "École des Hautes Études",
+   "role": "élève",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sie ist ins Französische übersetzt worden von Havet, élève de l'École des Hautes Études",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bergaigne",
+   "type": "position_at",
+   "object": "École des Hautes Études",
+   "role": "répétiteur",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "übersetzt von Bergaigne, répétiteur à l'École des Hautes Études",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 73,
+ "model": "gemini-flash-latest"
+}

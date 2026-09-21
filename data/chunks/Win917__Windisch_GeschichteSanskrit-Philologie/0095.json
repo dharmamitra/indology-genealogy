@@ -1,0 +1,133 @@
+{
+ "people": [
+  {
+   "name": "Friedrich Bollensen",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Charles Rieu",
+   "birth_year": 1820,
+   "death_year": 1902,
+   "birth_place": "Genf",
+   "nationality": "Swiss",
+   "note": null
+  },
+  {
+   "name": "Otto Böhtlingk",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Lassen",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Trithen",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Swiss",
+   "note": null
+  },
+  {
+   "name": "F. Haag",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Swiss",
+   "note": null
+  },
+  {
+   "name": "Brunnhofer",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Swiss",
+   "note": null
+  },
+  {
+   "name": "Pischel",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Pischel",
+   "type": "collaborated_with",
+   "object": "Friedrich Bollensen",
+   "role": null,
+   "place": "England",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Die Oxforder Handschriften verglich Pischel für ihn bei seinem Aufenthalt in England.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Rieu",
+   "type": "collaborated_with",
+   "object": "Otto Böhtlingk",
+   "role": null,
+   "place": "St. Petersburg",
+   "year_start": null,
+   "year_end": 1847,
+   "explicit": true,
+   "evidence": "Herausgegeben, übersetzt und mit Anmerkungen begleitet von Otto Böhtlingk und Charles Rieu\", St. Petersburg 1847.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Rieu",
+   "type": "studied_at",
+   "object": "Bonn",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er hatte in Bonn studiert",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Rieu",
+   "type": "student_of",
+   "object": "Lassen",
+   "role": null,
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "war also im Sanskrit ein Schüler Lassens.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Rieu",
+   "type": "other",
+   "object": "Otto Böhtlingk",
+   "role": "friend",
+   "place": "Petersburg",
+   "year_start": 1847,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er ging nach Petersburg, wo er mit Böhtlingk befreundet wurde, 1847",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 95,
+ "model": "gemini-flash-latest"
+}

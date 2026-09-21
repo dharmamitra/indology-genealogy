@@ -1,0 +1,57 @@
+{
+ "people": [
+  {
+   "name": "Brian Houghton Hodgson",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Lebte von 1821–1843 in Nepal; betätigte sich als Staatsmann, Geograph, Zoologe, Ethnograph und Erforscher indischer Sprachen und Altertümer."
+  },
+  {
+   "name": "Alexander Csoma de Körös",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Ungar",
+   "note": "Wanderte zu Fuß von Ungarn nach Tibet und begann um 1824 mit der Erschließung der buddhistischen Litteratur von Tibet."
+  },
+  {
+   "name": "P. Bigandet",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Bischof"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Brian Houghton Hodgson",
+   "type": "position_at",
+   "object": "Nepal",
+   "role": "Staatsmann",
+   "place": "Nepal",
+   "year_start": 1821,
+   "year_end": 1843,
+   "explicit": true,
+   "evidence": "Brian Houghton Hodgson, der von 1821—1843 in Nepal lebte und sich als Staatsmann, Geograph, Zoolog, Ethnograph und Erforscher indischer Sprachen und Altertümer gleichgroße Verdienste erwarb.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shwe Zan Aung",
+   "type": "collaborated_with",
+   "object": "Mrs. Rhys Davids",
+   "role": null,
+   "place": "London",
+   "year_start": 1910,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "Translation of the Abhidhammattha-Saṅgaha with Introductory Essay and Notes by Shwe Zan Aung, revised and edited by Mrs. Rhys Davids, London PTS 1910.",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Wiz9082__Winternitz_GeschichteDerIndischenLitteratur_2_1920",
+ "chunk": 32,
+ "model": "gemini-flash-latest"
+}

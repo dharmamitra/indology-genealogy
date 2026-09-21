@@ -1,0 +1,185 @@
+{
+ "people": [
+  {
+   "name": "Otto Böhtlingk",
+   "birth_year": 1815,
+   "death_year": 1904,
+   "birth_place": "St. Petersburg",
+   "nationality": "holländisch, später russisch",
+   "note": "Aus einer Lübecker Familie stammend; lebte ab 1868 in Jena, ab 1885 in Leipzig."
+  },
+  {
+   "name": "Christian Lassen",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "August Leskien",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Ernst Windisch",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "H. Kern",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "B. Delbrück",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "L. v. Schroeder",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Otto Böhtlingk",
+   "type": "position_at",
+   "object": "K. Akademie der Wissenschaften zu St. Petersburg",
+   "role": "Mitglied, zuletzt Ehrenmitglied",
+   "place": "St. Petersburg",
+   "year_start": 1842,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "war seit 1842 Mitglied, zuletzt Ehrenmitglied der K. Akademie der Wissenschaften zu St. Petersburg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Böhtlingk",
+   "type": "studied_at",
+   "object": "Petersburg",
+   "role": null,
+   "place": "Petersburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Schon während seiner Studienzeit in Petersburg war ihm Bopps Glossarium und Grammatik in die Hände gekommen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Böhtlingk",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er ging daher zunächst nach Berlin, von da nach Bonn.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Böhtlingk",
+   "type": "studied_at",
+   "object": "Bonn",
+   "role": null,
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er ging daher zunächst nach Berlin, von da nach Bonn.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Böhtlingk",
+   "type": "student_of",
+   "object": "Christian Lassen",
+   "role": null,
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Seine Ausgabe \"Abhijñānaśakuntalam\" ist \"Dem geliebten Lehrer Herrn Christian Lassen\" gewidmet.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Böhtlingk",
+   "type": "other",
+   "object": "August Leskien",
+   "role": "friend",
+   "place": "Leipzig",
+   "year_start": 1885,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "von 1885 an in Leipzig, wo ihm Leskien und Windisch besonders nahe standen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Böhtlingk",
+   "type": "other",
+   "object": "Ernst Windisch",
+   "role": "friend",
+   "place": "Leipzig",
+   "year_start": 1885,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "von 1885 an in Leipzig, wo ihm Leskien und Windisch besonders nahe standen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Böhtlingk",
+   "type": "other",
+   "object": "H. Kern",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Drei, verschiedenen Generationen angehörende, hervorragende Freunde haben Böhtlingks wissenschaftliche Bedeutung und Persönlichkeit in übereinstimmender Weise charakterisiert: H. Kern...",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Böhtlingk",
+   "type": "other",
+   "object": "B. Delbrück",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Drei, verschiedenen Generationen angehörende, hervorragende Freunde haben Böhtlingks wissenschaftliche Bedeutung und Persönlichkeit in übereinstimmender Weise charakterisiert: ... B. Delbrück...",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Böhtlingk",
+   "type": "other",
+   "object": "L. v. Schroeder",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Drei, verschiedenen Generationen angehörende, hervorragende Freunde haben Böhtlingks wissenschaftliche Bedeutung und Persönlichkeit in übereinstimmender Weise charakterisiert: ... L. v. Schroeder...",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 60,
+ "model": "gemini-flash-latest"
+}

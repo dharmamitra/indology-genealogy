@@ -1,0 +1,241 @@
+{
+ "people": [
+  {
+   "name": "Othmar Frank",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Franz Bopp",
+   "birth_year": 1791,
+   "death_year": 1867,
+   "birth_place": "Mainz",
+   "nationality": null,
+   "note": "Professor an der Universität Berlin und Mitglied der K. Preußischen Akademie der Wissenschaften"
+  },
+  {
+   "name": "Friedrich Schlegel",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Karl Joseph Windischmann",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Katholischer Philosoph"
+  },
+  {
+   "name": "Friedrich Windischmann",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Sohn von Karl Joseph Windischmann"
+  },
+  {
+   "name": "Antoine-Isaac Silvestre de Sacy",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Antoine-Léonard de Chézy",
+   "birth_year": 1773,
+   "death_year": 1832,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Professor des Sanskrit am Collège de France"
+  },
+  {
+   "name": "August Wilhelm von Schlegel",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Othmar Frank",
+   "type": "position_at",
+   "object": "Ludwig-Maximilians-Universität in München",
+   "role": null,
+   "place": "München",
+   "year_start": 1826,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Das erste Heft erschien zur Eröffnung der Ludwig-Maximilians-Universität in München, an die er berufen worden war.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Othmar Frank",
+   "type": "influenced_by",
+   "object": "Henry Thomas Colebrooke",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sein Führer war Colebrooke, in dessen Handschriftensammlung er sich auch während seines Aufenthalts in London umgesehen hatte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Othmar Frank",
+   "type": "studied_at",
+   "object": "Paris",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wie gleichzeitig mit ihm Othmar Frank, der mit Unterstützung der Münchener Akademie nach Paris gekommen war",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Bopp",
+   "type": "position_at",
+   "object": "Königlich Preußische Akademie der Wissenschaften",
+   "role": "Mitglied",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": 1867,
+   "explicit": true,
+   "evidence": "gestorben 1867 als Mitglied der K. Preußischen Akademie d. W.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Bopp",
+   "type": "position_at",
+   "object": "Universität in Berlin",
+   "role": "Professor",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": 1867,
+   "explicit": true,
+   "evidence": "und Professor an der Universität in Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Bopp",
+   "type": "influenced_by",
+   "object": "Friedrich Schlegel",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er war von Friedrich Schlegels Buch angeregt worden",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Bopp",
+   "type": "studied_at",
+   "object": "Paris",
+   "role": null,
+   "place": "Paris",
+   "year_start": 1812,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Wie dieser machte er seine Studien in Paris, hat aber dort das Sanskrit wirklich erlernt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Bopp",
+   "type": "studied_at",
+   "object": "London",
+   "role": null,
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bopp hat seine Studien in Paris und London gemacht.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Bopp",
+   "type": "student_of",
+   "object": "Karl Joseph Windischmann",
+   "role": null,
+   "place": "Aschaffenburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "besuchte er das dortige Gymnasium und Lyceum, wo der katholische Philosoph Windischmann sein Lehrer war.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Karl Joseph Windischmann",
+   "type": "position_at",
+   "object": "Universität Bonn",
+   "role": null,
+   "place": "Bonn",
+   "year_start": 1818,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Windischmann wurde 1818 nach Bonn berufen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Windischmann",
+   "type": "other",
+   "object": "Karl Joseph Windischmann",
+   "role": "Sohn",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wegen der Übersetzung von Upaniṣadstellen, die ihm sein des Sanskrit kundiger Sohn Friedrich geliefert hat.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Bopp",
+   "type": "student_of",
+   "object": "Antoine-Isaac Silvestre de Sacy",
+   "role": null,
+   "place": "Paris",
+   "year_start": 1812,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "So hat auch Bopp, als er im Jahre 1812 nach Paris kam, bei diesem zuerst Arabisch gelernt, auch Persisch.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Antoine-Léonard de Chézy",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "Professor des Sanskrit",
+   "place": "Paris",
+   "year_start": 1815,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Chézy, geboren 1773, gestorben 1832, wurde erst später zum Professor des Sanskrit am Collège de France ernannt und begann seine Vorlesungen im Januar 1815",
+   "quote_ok": true
+  },
+  {
+   "subject": "August Wilhelm von Schlegel",
+   "type": "student_of",
+   "object": "Franz Bopp",
+   "role": null,
+   "place": "Paris",
+   "year_start": 1815,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bopp gab ihm Unterricht im Sanskrit.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 17,
+ "model": "gemini-flash-latest"
+}

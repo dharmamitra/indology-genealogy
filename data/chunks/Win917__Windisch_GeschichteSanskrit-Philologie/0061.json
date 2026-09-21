@@ -1,0 +1,173 @@
+{
+ "people": [
+  {
+   "name": "Otto Böhtlingk",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Rudolph Roth",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Weber",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Kern",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Westergaard",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Brockhaus",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Schiefner",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Cappeller",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "A. Blau",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Goldstücker",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Kern",
+   "type": "student_of",
+   "object": "Weber",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Kern, \"einem tüchtigen Schüler Webers\"",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Böhtlingk",
+   "type": "collaborated_with",
+   "object": "Rudolph Roth",
+   "role": null,
+   "place": "St. Petersburg",
+   "year_start": 1852,
+   "year_end": 1875,
+   "explicit": true,
+   "evidence": "Das \"Sanskrit-Wörterbuch herausgegeben von der Kaiserlichen Akademie der Wissenschaften, bearbeitet von Otto Böhtlingk und Rudolph Roth\"",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Böhtlingk",
+   "type": "other",
+   "object": "Westergaard",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "sondern wurde ihm übertragen von seinen Freunden Westergaard und Brockhaus, die beide in London handschriftliches Material zu einer Ausgabe gesammelt hatten.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Böhtlingk",
+   "type": "other",
+   "object": "Brockhaus",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "sondern wurde ihm übertragen von seinen Freunden Westergaard und Brockhaus, die beide in London handschriftliches Material zu einer Ausgabe gesammelt hatten.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Böhtlingk",
+   "type": "other",
+   "object": "Schiefner",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Vorwort des 1. und des 7. Teils dankt Böhtlingk auch seinem Freunde Schiefner, der ihm Beiträge aus der nordbuddhistischen Literatur lieferte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. Blau",
+   "type": "influenced_by",
+   "object": "Cappeller",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zum sachlichen Inhalt der Sprüche gab A. Blau auf Anregung von Cappeller einen Index in den Abhandlungen der DMG. IX, Leipzig 1893.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Böhtlingk",
+   "type": "other",
+   "object": "Goldstücker",
+   "role": "opponent in controversy",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Das Vorwort zum 5. Teil enthält eine Antwort auf Angriffe Goldstückers, ohne Namennennung",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 61,
+ "model": "gemini-flash-latest"
+}

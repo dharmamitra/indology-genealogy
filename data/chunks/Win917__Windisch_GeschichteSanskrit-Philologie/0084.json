@@ -1,0 +1,165 @@
+{
+ "people": [
+  {
+   "name": "Albrecht Weber",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "W. Deecke",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Ferdinand d'Eckstein",
+   "birth_year": null,
+   "death_year": 1862,
+   "birth_place": null,
+   "nationality": "Danish",
+   "note": "Aus Dänemark stammend, Lützower Jäger, in der holländischen Armee, von Louis XVIII nach Paris berufen; starb 1862 im 72. Lebensjahr."
+  },
+  {
+   "name": "Lancelot Wilkinson",
+   "birth_year": null,
+   "death_year": 1841,
+   "birth_place": null,
+   "nationality": "British",
+   "note": "Britischer Agent in Bhopal."
+  },
+  {
+   "name": "A. Wagener",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Anton Schiefner",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Erich Schröter",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Rājārāmaśāstrin",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Indian",
+   "note": null
+  },
+  {
+   "name": "Bālaśāstrin",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": "Indian",
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "W. Deecke",
+   "type": "student_of",
+   "object": "Albrecht Weber",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "W. Deecke hat seines Lehrers Weber Werk ergänzt und modifiziert",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ferdinand d'Eckstein",
+   "type": "position_at",
+   "object": "Société Asiatique",
+   "role": "Mitglied",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": 1862,
+   "explicit": true,
+   "evidence": "Er war Mitglied der Société Asiatique und starb in Paris 1862 im 72. Lebensjahre.",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. Wagener",
+   "type": "position_at",
+   "object": "Université de Gand",
+   "role": "professeur agrégé",
+   "place": "Gand",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A. Wagener, professeur agrégé à l'université de Gand",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anton Schiefner",
+   "type": "other",
+   "object": "Albrecht Weber",
+   "role": "Freund",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Von seinem Freunde Schiefner hatte er schon 1851 Abschriften von sechs kleinen Upanischaden aus der Petersburger Bibliothek erhalten.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Erich Schröter",
+   "type": "studied_at",
+   "object": "Universität Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Erich Schröter in seiner Leipziger Dissertation \"Pâśakakevalî, Ein indisches Würfelorakel\", Borna 1900.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rājārāmaśāstrin",
+   "type": "position_at",
+   "object": "Benares-College",
+   "role": "Professor",
+   "place": "Benares",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "den beiden Professoren des Benares-College Rājārāmaśāstrin und Bālaśāstrin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bālaśāstrin",
+   "type": "position_at",
+   "object": "Benares-College",
+   "role": "Professor",
+   "place": "Benares",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "den beiden Professoren des Benares-College Rājārāmaśāstrin und Bālaśāstrin.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 84,
+ "model": "gemini-flash-latest"
+}

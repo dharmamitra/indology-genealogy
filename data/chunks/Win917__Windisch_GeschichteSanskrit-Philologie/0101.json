@@ -1,0 +1,133 @@
+{
+ "people": [
+  {
+   "name": "Ernst Windisch",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Trat 1878 seine Professur in Leipzig an."
+  },
+  {
+   "name": "Albrecht Weber",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Richard Pischel",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Hielt 1900 seine Hallesche Rektorrede."
+  },
+  {
+   "name": "Theodor Bloch",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": "Reiste zum Ramgarh Hill im Sirguja State; starb früh vor der geplanten Veröffentlichung."
+  },
+  {
+   "name": "Durgāprasād",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Kāśīnāth Pāṇḍurang Parab",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Grenfell",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Hunt",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ernst Windisch",
+   "type": "position_at",
+   "object": "Universität Leipzig",
+   "role": "Professor",
+   "place": "Leipzig",
+   "year_start": 1878,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In Leipzig trat er seine Professur an mit einer Rede \"Über die brahmanische Philosophie\", gedruckt in der Zeitschrift \"Im Neuen Reich\", 1878, I S. 801—817.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Windisch",
+   "type": "influenced_by",
+   "object": "Albrecht Weber",
+   "role": null,
+   "place": null,
+   "year_start": 1881,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Auf Webers Bahnen wandelte Windisch, als er 1881 auf dem V. Internationalen Orientalisten-Kongreß zu Berlin einen Vortrag \"Über den griechischen Einfluß im indischen Drama\" hielt",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Pischel",
+   "type": "position_at",
+   "object": "Universität Halle",
+   "role": "Rektor",
+   "place": "Halle",
+   "year_start": 1900,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "zunächst seine Hallesche Rektorrede \"Die Heimat des Puppenspiels\", Halle 1900.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Durgāprasād",
+   "type": "collaborated_with",
+   "object": "Kāśīnāth Pāṇḍurang Parab",
+   "role": "Herausgeber",
+   "place": "Bombay",
+   "year_start": 1891,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "herausgegeben von Durgāprasād und Kāśīnāth Pāṇḍurang Parab in der Kāvyamālā, Bombay 1891",
+   "quote_ok": true
+  },
+  {
+   "subject": "Grenfell",
+   "type": "collaborated_with",
+   "object": "Hunt",
+   "role": null,
+   "place": null,
+   "year_start": 1903,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "die von Grenfell und Hunt aus den Oxyrrhynchus Papyri 1903 veröffentlichte Farce",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Win917__Windisch_GeschichteSanskrit-Philologie",
+ "chunk": 101,
+ "model": "gemini-flash-latest"
+}

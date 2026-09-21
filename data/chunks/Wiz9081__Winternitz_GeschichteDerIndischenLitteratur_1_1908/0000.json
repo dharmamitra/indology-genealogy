@@ -1,0 +1,113 @@
+{
+ "people": [
+  {
+   "name": "Moriz Winternitz",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Leopold von Schroeder",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "Albrecht Weber",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  },
+  {
+   "name": "A. Barth",
+   "birth_year": null,
+   "death_year": null,
+   "birth_place": null,
+   "nationality": null,
+   "note": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Moriz Winternitz",
+   "type": "position_at",
+   "object": "deutsche Universität in Prag",
+   "role": "a. ö. Professor",
+   "place": "Prag",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. M. Winternitz, a. ö. Professor an der deutschen Universität in Prag.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Leopold von Schroeder",
+   "type": "position_at",
+   "object": "Wiener Universität",
+   "role": "Professor",
+   "place": "Wien",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Leopold von Schroeder, Professor an der Wiener Universität",
+   "quote_ok": true
+  },
+  {
+   "subject": "Leopold von Schroeder",
+   "type": "position_at",
+   "object": "kaiserl. Akademie der Wissenschaften in Wien",
+   "role": "wirkliches Mitglied",
+   "place": "Wien",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wirklichem Mitglied der kaiserl. Akademie der Wissenschaften in Wien",
+   "quote_ok": true
+  },
+  {
+   "subject": "Moriz Winternitz",
+   "type": "influenced_by",
+   "object": "Leopold von Schroeder",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Was ich den... so überaus anregenden und wertvollen Vorlesungen über »Indiens Literatur und Kultur in historischer Entwicklung« von Leopold v. Schroeder (Leipzig 1887) verdanke",
+   "quote_ok": true
+  },
+  {
+   "subject": "Moriz Winternitz",
+   "type": "influenced_by",
+   "object": "Albrecht Weber",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Was ich den grundlegenden »Akademischen Vorlesungen über indische Literaturgeschichte« von Albrecht Weber (2. Aufl., Berlin 1876)... verdanke",
+   "quote_ok": true
+  },
+  {
+   "subject": "Moriz Winternitz",
+   "type": "influenced_by",
+   "object": "A. Barth",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Manches verdanke ich auch, ohne daſs es immer besonders erwähnt wäre, den wertvollen »Bulletins des Religions de l'Inde« von A. Barth",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9081__Winternitz_GeschichteDerIndischenLitteratur_1_1908",
+ "chunk": 0,
+ "model": "gemini-flash-latest"
+}
