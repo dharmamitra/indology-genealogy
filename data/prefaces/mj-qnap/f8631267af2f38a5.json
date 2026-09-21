@@ -1,0 +1,64 @@
+{
+ "author": "小川隆",
+ "doc_kind": "article",
+ "doc_year": 2003,
+ "people": [
+  {
+   "name": "小川隆",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Zen studies / Sinology"
+  },
+  {
+   "name": "衣川賢次",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "石井修道",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "小川隆",
+   "type": "position_at",
+   "object": "駒澤大学外国語部",
+   "role": "助教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "（駒澤大学外国語部助教授）",
+   "quote_ok": true
+  },
+  {
+   "subject": "小川隆",
+   "type": "influenced_by",
+   "object": "石井修道",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "行持の巻での記述については、本誌に連載されている、わが石井修道教授の『正法眼蔵行持』に学ぶ(一五)を参照ありたい",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Ogawa_小川隆_200304_200503",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Ogawa_小川隆_200304_200503.txt",
+ "meta": {
+  "title": "不立文学",
+  "author": "小川, 隆",
+  "year": 2003,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

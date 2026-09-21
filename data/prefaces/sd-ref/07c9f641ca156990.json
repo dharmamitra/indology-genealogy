@@ -1,0 +1,121 @@
+{
+ "author": "Latika Lahiri",
+ "doc_kind": "monograph",
+ "doc_year": 1986,
+ "people": [
+  {
+   "name": "Latika Lahiri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sinology"
+  },
+  {
+   "name": "Ji Xianlin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Richard Yang",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Tan Chung",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lokesh Chandra",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Latika Lahiri",
+   "type": "studied_at",
+   "object": "Peking (Beijing) University",
+   "role": "Indian Government scholar",
+   "place": "Beijing",
+   "year_start": 1958,
+   "year_end": 1959,
+   "explicit": true,
+   "evidence": "This work was started in 1958 when I was an Indian Govern- ment scholar in Peking (Beijing) University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Latika Lahiri",
+   "type": "student_of",
+   "object": "Ji Xianlin",
+   "role": "supervisor",
+   "place": "Peking (Beijing) University",
+   "year_start": 1958,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "It was through the initiative of Dr. Ji Xianlin, the renowned Buddhist and Sanskrit scholar, now the Vice-Chancellor of Peking University... Under his able guidance I undertook the work",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ji Xianlin",
+   "type": "position_at",
+   "object": "Peking University",
+   "role": "Vice-Chancellor",
+   "place": "Beijing",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Ji Xianlin, the renowned Buddhist and Sanskrit scholar, now the Vice-Chancellor of Peking University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Latika Lahiri",
+   "type": "position_at",
+   "object": "University of Delhi",
+   "role": null,
+   "place": "Delhi",
+   "year_start": 1959,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I brought back the incomplete manuscript to India in 1959... After join- ing the University of Delhi I had the opportunity to get help from Mr. Richard Yang",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Yang",
+   "type": "position_at",
+   "object": "University of Delhi",
+   "role": "visiting professor",
+   "place": "Delhi",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mr. Richard Yang who had then joined this University as a visiting professor.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tan Chung",
+   "type": "position_at",
+   "object": "Jawaharlal Nehru University",
+   "role": "Professor",
+   "place": "New Delhi",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Tan Chung of Jawaharlal Nehru University",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Chinese Monks in India by I-Ching_Latika Lahiri, tr., 1986",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Chinese Monks in India by I-Ching_Latika Lahiri, tr., 1986.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

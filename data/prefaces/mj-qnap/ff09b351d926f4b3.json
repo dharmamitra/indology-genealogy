@@ -1,0 +1,90 @@
+{
+ "author": "山口益",
+ "doc_kind": "article",
+ "doc_year": 1920,
+ "people": [
+  {
+   "name": "山口益",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "寺本婉雅",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Tibetology"
+  },
+  {
+   "name": "南條文雄",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "舟橋水哉",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "泉芳璟",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist Studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "山口益",
+   "type": "student_of",
+   "object": "寺本婉雅",
+   "role": "teacher",
+   "place": "大谷大學",
+   "year_start": 1916,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "この飜譯は大正四年四月大谷大學に初めて西藏語西藏文學課程の開かれし、その翌年の春、最初の講本に供せられしものに基づく。當時私は聽講の一員として、寺本先生の御講説あるに隨つて之を譯述し",
+   "quote_ok": true
+  },
+  {
+   "subject": "山口益",
+   "type": "studied_at",
+   "object": "大谷大學",
+   "role": null,
+   "place": null,
+   "year_start": 1916,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "この飜譯は大正四年四月大谷大學に初めて西藏語西藏文學課程の開かれし、その翌年の春、最初の講本に供せられしものに基づく。當時私は聽講の一員として",
+   "quote_ok": true
+  },
+  {
+   "subject": "寺本婉雅",
+   "type": "position_at",
+   "object": "大谷大學",
+   "role": null,
+   "place": null,
+   "year_start": 1915,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "大正四年四月大谷大學に初めて西藏語西藏文學課程の開かれし、その翌年の春、最初の講本に供せられしものに基づく。當時私は聽講の一員として、寺本先生の御講説あるに隨つて之を譯述し",
+   "quote_ok": true
+  }
+ ],
+ "docid": "YamagutiandTeramoto_1920a_山口益寺本婉雅_西藏文破我品和訳1",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/YamagutiandTeramoto_1920a_山口益寺本婉雅_西藏文破我品和訳1.txt",
+ "meta": {
+  "title": "西藏文俱舍論破我品譯",
+  "author": "寺本, 婉雅",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

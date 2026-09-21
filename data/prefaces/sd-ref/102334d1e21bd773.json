@@ -1,0 +1,104 @@
+{
+ "author": "Paul Harrison",
+ "doc_kind": "text_edition",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Paul Harrison",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "YUYAMA Akira",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rudy Smet",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Belgium",
+   "field": null
+  },
+  {
+   "name": "MAYEDA Sengaku",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Philip Yampolsky",
+   "birth_year": null,
+   "death_year": 1996,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kenneth Inada",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "MAYEDA Sengaku",
+   "type": "position_at",
+   "object": "Musashino Women's College",
+   "role": "Vice President",
+   "place": null,
+   "year_start": null,
+   "year_end": 1995,
+   "explicit": true,
+   "evidence": "the Committee elected me, then Vice President of Musashino Women's College, to be the Chair in October 1995.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philip Yampolsky",
+   "type": "position_at",
+   "object": "Numata Center for Buddhist Translation and Research",
+   "role": "Chairperson",
+   "place": "Berkeley, California",
+   "year_start": null,
+   "year_end": 1996,
+   "explicit": true,
+   "evidence": "with Professor Philip Yampolsky as the Chairperson. To our sorrow, Professor Yampolsky passed away in July 1996",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kenneth Inada",
+   "type": "succeeded",
+   "object": "Philip Yampolsky",
+   "role": "Chairperson",
+   "place": "Numata Center for Buddhist Translation and Research",
+   "year_start": 1997,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In July 1996, the Committee unfortunately lost its valued Chairperson, Dr. Philip Yampolsky... In February 1997, I was appointed to guide the Committee in his place.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kenneth Inada",
+   "type": "position_at",
+   "object": "Numata Center for Buddhist Translation and Research",
+   "role": "Chairperson",
+   "place": "Berkeley, California",
+   "year_start": 1997,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "thakfully Dr. Kenneth Inada is continuing the work as Chairperson.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_1868",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_1868.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

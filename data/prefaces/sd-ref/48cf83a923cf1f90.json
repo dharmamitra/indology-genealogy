@@ -1,0 +1,109 @@
+{
+ "author": "Junko Miyawaki",
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Junko Miyawaki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Mongol history"
+  },
+  {
+   "name": "Hidehiro Okada",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gustav John Ramstedt",
+   "birth_year": 1873,
+   "death_year": 1950,
+   "nationality": "Finnish",
+   "field": "studies of Altaic languages"
+  },
+  {
+   "name": "Pentti Aalto",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Michael Khodarkovsky",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Junko Miyawaki",
+   "type": "student_of",
+   "object": "Hidehiro Okada",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "thanks to the help of Hidehiro Okada, my teacher and soon my husband.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Junko Miyawaki",
+   "type": "other",
+   "object": "Hidehiro Okada",
+   "role": "spouse",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hidehiro Okada, my teacher and soon my husband.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Khodarkovsky",
+   "type": "studied_at",
+   "object": "Kalmyk university in Elista",
+   "role": null,
+   "place": "Elista",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. Khodarkovsky was born in the Ukraine, graduated from the Kalmyk university in Elista",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Khodarkovsky",
+   "type": "studied_at",
+   "object": "University of Chicago",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He took his Ph.D. at the University of Chicago.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Junko Miyawaki",
+   "type": "other",
+   "object": "Michael Khodarkovsky",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Existence of these family trees was discovered by my friend, Prof. Michael Khodarkovsky",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Miyawaki_Archival materials about Mongolia",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Miyawaki_Archival materials about Mongolia.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

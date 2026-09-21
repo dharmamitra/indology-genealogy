@@ -1,0 +1,90 @@
+{
+ "author": "Lokesh Chandra",
+ "doc_kind": "monograph",
+ "doc_year": 1985,
+ "people": [
+  {
+   "name": "Lokesh Chandra",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "F. D Lessing",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Raghu Vira",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Friedrich Weller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sharada Rani",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Lokesh Chandra",
+   "type": "position_at",
+   "object": "International Academy of Indian Culture",
+   "role": "Secretary",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Lokesh Chandra, Secretary of the International Academy of Indian Culture",
+   "quote_ok": true
+  },
+  {
+   "subject": "Raghu Vira",
+   "type": "other",
+   "object": "Lokesh Chandra",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "under the encouraging guidance of my father and guru Prof. Dr. Raghu Vira",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lokesh Chandra",
+   "type": "student_of",
+   "object": "Raghu Vira",
+   "role": "guru",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "under the encouraging guidance of my father and guru Prof. Dr. Raghu Vira",
+   "quote_ok": true
+  }
+ ],
+ "docid": "LokeshChandra",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/LokeshChandra.txt",
+ "meta": {
+  "title": "Tibetan-Sanskrit Dictionary",
+  "author": "Chandra, Lokesh",
+  "year": 1985,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

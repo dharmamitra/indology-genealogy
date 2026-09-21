@@ -1,0 +1,102 @@
+{
+ "author": "Siegfried Lienhard",
+ "doc_kind": "other",
+ "doc_year": 1988,
+ "people": [
+  {
+   "name": "Siegfried Lienhard",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Leif Asplund",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Wolfgang Voigt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Dieter George",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hartmut-Ortwin Feistel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Leif Asplund",
+   "type": "student_of",
+   "object": "Siegfried Lienhard",
+   "role": "student",
+   "place": "Stockholm",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I am also obligated to my student cand. phil. Leif Asplund, Stockholm, who kindly assisted me in correcting the proofs.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wolfgang Voigt",
+   "type": "founded",
+   "object": "Verzeichnis der orientalischen Handschriften in Deutschland",
+   "role": "founder",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "† Dr. Dr. h. c. Wolfgang Voigt, Berlin, the founder and former editor of the 'Verzeichnis der orientalischen Handschriften in Deutschland' (VOHD)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dieter George",
+   "type": "succeeded",
+   "object": "Wolfgang Voigt",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I also am very grateful to † Dr. Dieter George and Dr. Hartmut-Ortwin Feistel, successors to Dr. Voigt",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hartmut-Ortwin Feistel",
+   "type": "succeeded",
+   "object": "Wolfgang Voigt",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I also am very grateful to † Dr. Dieter George and Dr. Hartmut-Ortwin Feistel, successors to Dr. Voigt",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Lienhard Catalogue NewarManuscripts in Berlin",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Lienhard Catalogue NewarManuscripts in Berlin.txt",
+ "meta": {
+  "title": "Verzeichnis der orientalischen Handschriften in Deutschland",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

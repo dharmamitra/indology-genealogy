@@ -1,0 +1,90 @@
+{
+ "author": "Peter Schwieger",
+ "doc_kind": "monograph",
+ "doc_year": 2015,
+ "people": [
+  {
+   "name": "Peter Schwieger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetan studies"
+  },
+  {
+   "name": "Dieter Schuh",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetan studies"
+  },
+  {
+   "name": "Charles Ramble",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetan studies"
+  },
+  {
+   "name": "Borjigidai Oyunbilig",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Mongolian studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Peter Schwieger",
+   "type": "student_of",
+   "object": "Dieter Schuh",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The foundation for writing such a book was laid a long time ago when my academic teacher, Dieter Schuh, first introduced me to the world of Tibetan diplomatics.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Ramble",
+   "type": "position_at",
+   "object": "École pratique des hautes études",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Charles Ramble from the École pratique des hautes études in Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Schwieger",
+   "type": "collaborated_with",
+   "object": "Charles Ramble",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Charles Ramble from the École pratique des hautes études in Paris and I succeeded in setting up a joint project on “A Social History of Tibetan Societies from the Seventeenth to the Twentieth Century.\"",
+   "quote_ok": true
+  },
+  {
+   "subject": "Borjigidai Oyunbilig",
+   "type": "position_at",
+   "object": "Bonn",
+   "role": "colleague for Mongolian studies",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I am especially grateful to Borjigidai Oyunbilig. It was a great pleasure having him as a colleague for Mongolian studies for one year in Bonn",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Schwieger_The Dalai Lama and the Emperor of China",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Schwieger_The Dalai Lama and the Emperor of China.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

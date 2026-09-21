@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 2002,
+ "people": [
+  {
+   "name": "藤田光寛",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "ガワン・ウースン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  },
+  {
+   "name": "奥山直司",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "藤田光寛",
+   "type": "position_at",
+   "object": "高野山大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "高野山大学の藤田光寛先生のご教授によると、東北大学に河口慧海将来の北京街版諸スンブムがあるそうです。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ガワン・ウースン",
+   "type": "position_at",
+   "object": "東洋文庫",
+   "role": "非常勤研究員",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "東洋文庫非常勤研究員ガワン・ウースンさん、及び東洋文庫職員のみなさんからも貴重な助言をいただきました。",
+   "quote_ok": true
+  },
+  {
+   "subject": "奥山直司",
+   "type": "position_at",
+   "object": "高野山大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "高野山大学の奥山直司さんに親切な助言を頂きました。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Kawaguchi_collection",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Kawaguchi_collection.txt",
+ "meta": {
+  "title": "河口請来蔵外文献解説",
+  "author": "",
+  "year": 2002,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

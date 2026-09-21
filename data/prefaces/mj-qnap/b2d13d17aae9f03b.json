@@ -1,0 +1,128 @@
+{
+ "author": "William Dwight Whitney",
+ "doc_kind": "monograph",
+ "doc_year": 1879,
+ "people": [
+  {
+   "name": "W. D. W.",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Delbrück",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Avery",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Edgren",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lanman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Weber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "L. Schröder",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Avery",
+   "type": "student_of",
+   "object": "W. D. W.",
+   "role": "pupil",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Former pupils of my own. Prof. Avery and Dr. Edgren, have also helped me",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edgren",
+   "type": "student_of",
+   "object": "W. D. W.",
+   "role": "pupil",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Former pupils of my own. Prof. Avery and Dr. Edgren, have also helped me",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lanman",
+   "type": "student_of",
+   "object": "W. D. W.",
+   "role": "pupil",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "by my former pupil Prof. Lanman; my treatment of it is founded on his.",
+   "quote_ok": true
+  },
+  {
+   "subject": "W. D. W.",
+   "type": "student_of",
+   "object": "Weber",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "My manifold obligations to my own teacher, Prof Weber of Berlin, also require to be mentioned",
+   "quote_ok": true
+  },
+  {
+   "subject": "Weber",
+   "type": "position_at",
+   "object": "Berlin",
+   "role": "Prof",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof Weber of Berlin",
+   "quote_ok": true
+  }
+ ],
+ "docid": "whitney_grammar",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/whitney_grammar.txt",
+ "meta": {
+  "title": "The Buddhist Doctrine of Momentariness",
+  "author": "Stcherbatsky, Th.",
+  "year": 1930,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

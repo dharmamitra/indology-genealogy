@@ -1,0 +1,133 @@
+{
+ "author": "Max Müller",
+ "doc_kind": "text_edition",
+ "doc_year": 1849,
+ "people": [
+  {
+   "name": "Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Theodor Benfey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Eugène Burnouf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "W. H. Mill",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Charles Rieu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "H. H. Wilson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Oriental philology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Theodor Benfey",
+   "type": "position_at",
+   "object": "University of Göttingen",
+   "role": "Professor",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "a letter to my friend Professor Benfey at Göttingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Müller",
+   "type": "studied_at",
+   "object": "University of Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "those distinguished Oriental scholars whose lectures I have followed at the Universities of Leipzig, Berlin, and Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Müller",
+   "type": "studied_at",
+   "object": "University of Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "those distinguished Oriental scholars whose lectures I have followed at the Universities of Leipzig, Berlin, and Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Müller",
+   "type": "studied_at",
+   "object": "University of Paris",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "those distinguished Oriental scholars whose lectures I have followed at the Universities of Leipzig, Berlin, and Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Rieu",
+   "type": "position_at",
+   "object": "British Museum",
+   "role": null,
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I have also thankfully to acknowledge the kind assistance of my learned friend Dr. Ch. Rieu at the British Museum",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Müller",
+   "type": "student_of",
+   "object": "H. H. Wilson",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "To have been allowed to enjoy his acquaintance, and to avail myself of his instruction, will always be to me the best compensation",
+   "quote_ok": true
+  }
+ ],
+ "docid": "RV_Muller_1(I)=RgVedaMuller_I_text",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/RV_Muller_1(I)=RgVedaMuller_I_text.txt",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

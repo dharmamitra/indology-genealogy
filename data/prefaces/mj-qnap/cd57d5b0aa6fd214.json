@@ -1,0 +1,69 @@
+{
+ "author": "Somadeva Vasudeva",
+ "doc_kind": "monograph",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Somadeva Vasudeva",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Alexis Sanderson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Somadeva Vasudeva",
+   "type": "student_of",
+   "object": "Alexis Sanderson",
+   "role": "doctoral supervisor",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Most of this work was completed for my doctoral thesis under the supervision of Prof. Alexis Sanderson of All Souls College, Oxford",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexis Sanderson",
+   "type": "position_at",
+   "object": "All Souls College, Oxford",
+   "role": "Prof.",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. Alexis Sanderson of All Souls College, Oxford",
+   "quote_ok": true
+  },
+  {
+   "subject": "Somadeva Vasudeva",
+   "type": "position_at",
+   "object": "Institut français de Pondichéry",
+   "role": "allocataire de recherche",
+   "place": "Pondicherry",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "revised during a two year stay as allocataire de recherche at the Institut français de Pondichéry.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "somdev dissertation",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/somdev dissertation.txt",
+ "meta": {
+  "title": "The Yoga of the Mālinīvijayottaratantra: Chapters 1–4, 7, 11–17",
+  "author": "Vasudeva, Somadeva",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

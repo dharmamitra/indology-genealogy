@@ -1,0 +1,164 @@
+{
+ "author": "Daniel Boucher",
+ "doc_kind": "dissertation",
+ "doc_year": 1996,
+ "people": [
+  {
+   "name": "Daniel Boucher"
+  },
+  {
+   "name": "Victor H. Mair"
+  },
+  {
+   "name": "Antonino Forte"
+  },
+  {
+   "name": "Hubert Durt"
+  },
+  {
+   "name": "Robert Duquenne"
+  },
+  {
+   "name": "KARASHIMA Seishi"
+  },
+  {
+   "name": "FUKITA Takamichi"
+  },
+  {
+   "name": "Klaus Wille"
+  },
+  {
+   "name": "Jens-Uwe Hartmann"
+  },
+  {
+   "name": "Gérard Fussman"
+  },
+  {
+   "name": "Richard Salomon"
+  },
+  {
+   "name": "Paul Harrison"
+  },
+  {
+   "name": "Jan Nattier"
+  },
+  {
+   "name": "Ludo Rocher"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Daniel Boucher",
+   "type": "studied_at",
+   "object": "University of Pennsylvania",
+   "role": "Doctor of Philosophy",
+   "year_end": 1996,
+   "explicit": true,
+   "evidence": "Presented to the Faculties of the University of Pennsylvania in Partial Fulfillment of the Requirements for the Degree of Doctor of Philosophy 1996",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Daniel Boucher",
+   "type": "student_of",
+   "object": "Victor H. Mair",
+   "role": "doctoral supervisor",
+   "year_end": 1996,
+   "explicit": true,
+   "evidence": "Victor H. Main Supervisor of Dissertation",
+   "quote_ok": true
+  },
+  {
+   "subject": "Antonino Forte",
+   "type": "position_at",
+   "object": "Italian Cultural Institute of East Asian Studies",
+   "role": null,
+   "explicit": true,
+   "evidence": "Antonino Forte not only opened the valuable resources of his Italian Cultural Institute of East Asian Studies to me",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hubert Durt",
+   "type": "position_at",
+   "object": "Hōbōgirin institute",
+   "role": null,
+   "explicit": true,
+   "evidence": "Hubert Durt and Robert Duquenne were also kind enough to make the Hōbōgirin institute available to me",
+   "quote_ok": false
+  },
+  {
+   "subject": "Robert Duquenne",
+   "type": "position_at",
+   "object": "Hōbōgirin institute",
+   "role": null,
+   "explicit": true,
+   "evidence": "Hubert Durt and Robert Duquenne were also kind enough to make the Hōbōgirin institute available to me",
+   "quote_ok": false
+  },
+  {
+   "subject": "Daniel Boucher",
+   "type": "collaborated_with",
+   "object": "FUKITA Takamichi",
+   "role": null,
+   "explicit": true,
+   "evidence": "During our collaboration on an entirely different project, he was a constant font of resources, advice, introductions, and mirth.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daniel Boucher",
+   "type": "influenced_by",
+   "object": "KARASHIMA Seishi",
+   "role": null,
+   "explicit": true,
+   "evidence": "His work, as will be apparent from Chapter Three of this dissertation, has been a significant inspiration to me.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daniel Boucher",
+   "type": "student_of",
+   "object": "Paul Harrison",
+   "role": "committee member",
+   "year_end": 1996,
+   "explicit": true,
+   "evidence": "Prof. Paul Harrison has done yeoman work in reading the entire thesis. His willingness to join my dissertation committee from the other side of the world",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ludo Rocher",
+   "type": "position_at",
+   "object": "University of Pennsylvania",
+   "role": "professor",
+   "explicit": true,
+   "evidence": "I would like to thank two very special professors at the University of Pennsylvania... Prof. Ludo Rocher has exposed me to the heights of philological acumen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daniel Boucher",
+   "type": "student_of",
+   "object": "Ludo Rocher",
+   "role": "teacher",
+   "explicit": true,
+   "evidence": "it has been my great fortune to study with two such beings. Prof. Ludo Rocher has exposed me to the heights of philological acumen. His balanced blend of rigor and warmth in the classroom",
+   "quote_ok": true
+  },
+  {
+   "subject": "Victor H. Mair",
+   "type": "position_at",
+   "object": "University of Pennsylvania",
+   "role": "professor",
+   "explicit": true,
+   "evidence": "I would like to thank two very special professors at the University of Pennsylvania... But no one more than Prof. Victor Mair has contributed to my intellectual and professional growth",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Boucher",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Boucher.txt",
+ "meta": {
+  "title": "BUDDHIST TRANSLATION PROCEDURES IN THIRD-CENTURY CHINA: A STUDY OF DHARMARAKSA AND HIS TRANSLATION IDIOM",
+  "author": "Boucher, Daniel",
+  "year": 1996,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

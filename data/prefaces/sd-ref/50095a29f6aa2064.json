@@ -1,0 +1,85 @@
+{
+ "author": "Luciano Petech",
+ "doc_kind": "text_edition",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Luciano Petech",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "G. Tucci",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Peter Aufschnaiter",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hugh Richardson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Formichi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Luciano Petech",
+   "type": "student_of",
+   "object": "G. Tucci",
+   "role": "guru",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In preparing some of these notes I relied also upon the advice of my guru and friend G. Tucci",
+   "quote_ok": true
+  },
+  {
+   "subject": "Luciano Petech",
+   "type": "collaborated_with",
+   "object": "Hugh Richardson",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Changing the spelling of Map A and thoroughly checking it with the kind help of Mr. Hugh Richardson.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Luciano Petech",
+   "type": "collaborated_with",
+   "object": "Peter Aufschnaiter",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I have to thank also Mr. Peter Aufschnaiter, now in Kathmandu, who read through the text and sent me about a dozen short notes on places known to him from personal experience.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Ferrari_Mkhyen brtse's Guide",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Ferrari_Mkhyen brtse's Guide.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 1998,
+ "people": [
+  {
+   "name": "Albrecht Wezler"
+  },
+  {
+   "name": "Shujun Motegi"
+  },
+  {
+   "name": "Masaaki Hattori",
+   "field": "Indian Philosophy"
+  },
+  {
+   "name": "K.D. Tripathi"
+  },
+  {
+   "name": "T. Tomabechi"
+  },
+  {
+   "name": "Shinkan Murakami"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Shujun Motegi",
+   "type": "collaborated_with",
+   "object": "Albrecht Wezler",
+   "explicit": true,
+   "evidence": "we decided to undertake a joint project... Critically edited by ALBRECHT WEZLER and SHUJUN MOTEGI",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Masaaki Hattori",
+   "type": "position_at",
+   "object": "Kyoto University",
+   "role": "Prof.",
+   "explicit": true,
+   "evidence": "in the spring of 1971 in the office of Prof. Masaaki Hattori at Kyoto Univer- sity.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shujun Motegi",
+   "type": "studied_at",
+   "object": "Benares Hindu University",
+   "role": "MA",
+   "explicit": true,
+   "evidence": "when I was an M.A student studying, thanks to a grant of the General Cultural Scholarship Scheme of the Government of India, for two years at Benares Hindu University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shujun Motegi",
+   "type": "student_of",
+   "object": "K.D. Tripathi",
+   "role": "teacher",
+   "explicit": true,
+   "evidence": "to go through the text under the guidance of Prof. K.D. Tripathi.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shujun Motegi",
+   "type": "position_at",
+   "object": "Shinshu University",
+   "explicit": true,
+   "evidence": "with the financial help of the Japan Society for the Pro- motion of Science... and the cooperation of my col- leagues at Shinshu University",
+   "quote_ok": true
+  },
+  {
+   "subject": "T. Tomabechi",
+   "type": "position_at",
+   "object": "University of Lausanne",
+   "role": "assistant",
+   "explicit": true,
+   "evidence": "Mr. T. Tomabechi, assistant at the University of Lausanne.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shinkan Murakami",
+   "type": "position_at",
+   "object": "Tohoku University",
+   "role": "Faculty of Arts and Letters",
+   "explicit": true,
+   "evidence": "published in the Annual Reports of the Faculty of Arts and Letters, Tohoku University 33, 1983",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Yuktidipika_ed. Albrecht Wezler & Motegi Shujun-OCR",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Yuktidipika_ed. Albrecht Wezler & Motegi Shujun-OCR.txt",
+ "meta": {
+  "title": "Yuktidīpikā: The Most Significant Commentary on the Sāṃkhyakārikā",
+  "author": "Wezler, Albrecht and Motegi, Shujun",
+  "year": 1998,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1986,
+ "people": [
+  {
+   "name": "秦剛平",
+   "birth_year": 1940,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "L・H・フェルトマン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "秦剛平",
+   "type": "collaborated_with",
+   "object": "L・H・フェルトマン",
+   "role": "co-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "L・H・フェルトマン/秦剛平共編 全4巻",
+   "quote_ok": false
+  },
+  {
+   "subject": "秦剛平",
+   "type": "studied_at",
+   "object": "京都大学大学院",
+   "role": "修士課程修了",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "京都大学大学院キリスト教学修士課程修了。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Kobayashi_小林道夫_1986_哲学研究",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Kobayashi_小林道夫_1986_哲学研究.txt",
+ "meta": {
+  "title": "デカルトにおける自然学の形而上学的基礎づけ——伝統的存在論との対比において——",
+  "author": "小林, 道夫",
+  "year": 1986,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,176 @@
+{
+ "author": null,
+ "doc_kind": "obituary",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "André Bareau",
+   "birth_year": 1921,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Jean Filliozat",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Indology"
+  },
+  {
+   "name": "Paul Demiéville",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Sinology"
+  },
+  {
+   "name": "Sylvain Lévi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Indology"
+  },
+  {
+   "name": "Eugène Burnouf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Indology"
+  },
+  {
+   "name": "Walpola Rahula",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Sri Lankan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "André Bareau",
+   "type": "studied_at",
+   "object": "École Normale d'Auteuil",
+   "role": null,
+   "place": null,
+   "year_start": 1938,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "il passa le concours de l'École Normale d'Auteuil en 1938.",
+   "quote_ok": true
+  },
+  {
+   "subject": "André Bareau",
+   "type": "studied_at",
+   "object": "Sorbonne",
+   "role": "licence",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Préparant une licence de philosophie à la Sorbonne, il y découvrit aussi le sanskrit et le pāli.",
+   "quote_ok": true
+  },
+  {
+   "subject": "André Bareau",
+   "type": "student_of",
+   "object": "Jean Filliozat",
+   "role": "supervisor",
+   "place": "École Pratique des Hautes Études",
+   "year_start": null,
+   "year_end": 1947,
+   "explicit": true,
+   "evidence": "rédiger, sous la direction de Monsieur J. Filliozat, un mémoire de l'École Pratique des Hautes Études sur la notion bouddhique palie d'asaikhata [...]. Le mémoire fut soutenu en 1947",
+   "quote_ok": true
+  },
+  {
+   "subject": "André Bareau",
+   "type": "studied_at",
+   "object": "École Pratique des Hautes Études",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1947,
+   "explicit": true,
+   "evidence": "un mémoire de l'École Pratique des Hautes Études sur la notion bouddhique palie d'asaikhata [...] Le mémoire fut soutenu en 1947",
+   "quote_ok": true
+  },
+  {
+   "subject": "André Bareau",
+   "type": "position_at",
+   "object": "CNRS",
+   "role": null,
+   "place": null,
+   "year_start": 1947,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Le mémoire fut soutenu en 1947 et lui permit d'entrer au CNRS.",
+   "quote_ok": true
+  },
+  {
+   "subject": "André Bareau",
+   "type": "student_of",
+   "object": "Paul Demiéville",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ses maîtres, nos collègues Jean Filliozat et Paul Demiéville, lui avaient fait découvrir les exigences de l'étude du bouddhisme à la française",
+   "quote_ok": true
+  },
+  {
+   "subject": "André Bareau",
+   "type": "position_at",
+   "object": "École Pratique des Hautes Études",
+   "role": "Directeur d'Études à la IVe section",
+   "place": null,
+   "year_start": 1956,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Il fut nommé Directeur d'Études à la IV section de l'École Pratique des Hautes Études en 1956",
+   "quote_ok": true
+  },
+  {
+   "subject": "André Bareau",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "titulaire de la chaire d'Étude du Bouddhisme",
+   "place": null,
+   "year_start": 1971,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "fut élu titulaire de la chaire d'Étude du Bouddhisme du Collège de France le 7 mars 1971.",
+   "quote_ok": true
+  },
+  {
+   "subject": "André Bareau",
+   "type": "position_at",
+   "object": "Institut de Civilisation Indienne du Collège de France",
+   "role": "Directeur",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Directeur de l'Institut de Civilisation Indienne du Collège de France.",
+   "quote_ok": true
+  },
+  {
+   "subject": "André Bareau",
+   "type": "influenced_by",
+   "object": "Walpola Rahula",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Il avait beaucoup interrogé les moines singhalais de passage à Paris, le vénérable Walpola Rahula en particulier",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Bareau_Obituary",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Bareau_Obituary.txt#0",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

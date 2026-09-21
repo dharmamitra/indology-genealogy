@@ -1,0 +1,103 @@
+{
+ "author": null,
+ "doc_kind": "monograph",
+ "doc_year": 2008,
+ "people": [
+  {
+   "name": "Fukagawa Hidetoshi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Mathematics"
+  },
+  {
+   "name": "Tony Rothman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "Physics"
+  },
+  {
+   "name": "Daniel Pedoe",
+   "birth_year": null,
+   "death_year": 1998,
+   "nationality": "British",
+   "field": "Mathematics"
+  },
+  {
+   "name": "Freeman Dyson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Physics"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Fukagawa Hidetoshi",
+   "type": "collaborated_with",
+   "object": "Tony Rothman",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": 2008,
+   "explicit": true,
+   "evidence": "Sacred mathematics : Japanese temple geometry / Fukagawa Hidetoshi, Tony Rothman.",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Fukagawa Hidetoshi",
+   "type": "collaborated_with",
+   "object": "Daniel Pedoe",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1989,
+   "explicit": true,
+   "evidence": "He agreed to collaborate with Fukagawa in producing the book Japanese Temple Geometry Problems, which was published in English in 1989 by the Babbage Institute in Winnipeg, Canada.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Freeman Dyson",
+   "type": "student_of",
+   "object": "Daniel Pedoe",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Daniel Pedoe was my teacher when I was studying mathematics as a boy in an English high-school long ago.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Freeman Dyson",
+   "type": "position_at",
+   "object": "Institute for Advanced Study, Princeton",
+   "role": null,
+   "place": "Princeton, New Jersey",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Institute for Advanced Study, Princeton, New Jersey Foreword by Dyson",
+   "quote_ok": false
+  },
+  {
+   "subject": "Daniel Pedoe",
+   "type": "position_at",
+   "object": "University of Minnesota",
+   "role": "professor of mathematics",
+   "place": "Minnesota",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was then a professor of mathematics in Minnesota, and there he received a letter from Fukagawa.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Sacred Mathematics. Japanese Temple Geometry_Fukagawa Hidetoshi & Tony Rothman, 2008",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Sacred Mathematics. Japanese Temple Geometry_Fukagawa Hidetoshi & Tony Rothman, 2008.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

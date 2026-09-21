@@ -89,9 +89,10 @@ def llm_json(client, prompt, schema):
         return json.load(open(path))
     for attempt in range(5):
         try:
-            resp = client.models.generate_content(model=MODEL, contents=prompt, config=types.GenerateContentConfig(
-                temperature=0.0, response_mime_type="application/json", response_schema=schema,
-                max_output_tokens=65536))
+            cfg = dict(temperature=0.0, response_mime_type="application/json", response_schema=schema, max_output_tokens=65536)
+            if os.getenv("INDOLOGY_THINKING"):  # cap the thinking budget for bulk jobs (tokens; 0 = off)
+                cfg["thinking_config"] = types.ThinkingConfig(thinking_budget=int(os.environ["INDOLOGY_THINKING"]))
+            resp = client.models.generate_content(model=MODEL, contents=prompt, config=types.GenerateContentConfig(**cfg))
             data = json.loads(resp.text)
             json.dump(data, open(path, "w"), ensure_ascii=False, indent=1)
             return data

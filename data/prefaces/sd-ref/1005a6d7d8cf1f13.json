@@ -1,0 +1,78 @@
+{
+ "author": "Peter Alan Roberts",
+ "doc_kind": "monograph",
+ "doc_year": 2006,
+ "people": [
+  {
+   "name": "Jamgön Kongtrul",
+   "birth_year": 1813,
+   "death_year": 1899,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Jamyang Khyentse Wangpo",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Thrangu Rinpoche",
+   "birth_year": 1933,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Peter Alan Roberts",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetan Studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jamgön Kongtrul",
+   "type": "student_of",
+   "object": "Jamyang Khyentse Wangpo",
+   "role": "pupil",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A major factor in his life was becoming the pupil of the Jamyang Khyentse Wangpo, who encouraged and instructed him to produce his works",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Alan Roberts",
+   "type": "student_of",
+   "object": "Thrangu Rinpoche",
+   "role": "traditional teacher",
+   "place": "Samye Ling",
+   "year_start": 1979,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I have been translating for Rinpoche since 1984 and attending his teachings since 1979, when he first appeared in a Scottish summer at Samye Ling",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thrangu Rinpoche",
+   "type": "founded",
+   "object": "Thrangu Monastery",
+   "role": null,
+   "place": "Bodhnath, Nepal",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He reestablished Thrangu Monastery in Bodhnath, Nepal, in the seventies",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Commentary on Ranjung Dorje's Treatise_Khenchen Thrangu, 2006",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Commentary on Ranjung Dorje's Treatise_Khenchen Thrangu, 2006.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

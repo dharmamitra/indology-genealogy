@@ -1,0 +1,64 @@
+{
+ "author": "郷正道",
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "郷正道",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Jonathan A. Silk",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "池田哲郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Mongolian studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jonathan A. Silk",
+   "type": "studied_at",
+   "object": "University of Michigan",
+   "role": "graduate student",
+   "place": "USA",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "筆者はMĀの存在を米国ミシガン大学大学院生Jonathan A. Silk氏に教えられ",
+   "quote_ok": true
+  },
+  {
+   "subject": "池田哲郎",
+   "type": "position_at",
+   "object": "京都産業大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "この年代は, 京都産業大学のモンゴル語学者池田哲郎先生の御教示に依る。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Taniguchi_1990",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Taniguchi_1990.txt",
+ "meta": {
+  "title": "ハリバドラ著『小註』と『八千頌般若経』―プトンの『阿含の穂』を手がかりとして―",
+  "author": "谷口, 富士夫",
+  "year": 1998,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

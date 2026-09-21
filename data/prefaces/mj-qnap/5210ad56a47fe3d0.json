@@ -1,0 +1,83 @@
+{
+ "author": "Harry Falk",
+ "doc_kind": "article",
+ "doc_year": 2015,
+ "people": [
+  {
+   "name": "Harry Falk",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Seishi Karashima",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Tatsushi Tamai",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ingo Strauch",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Harry Falk",
+   "type": "collaborated_with",
+   "object": "Seishi Karashima",
+   "role": "co-inspecting manuscript / co-author",
+   "place": "Soka University at Hachioji",
+   "year_start": 2012,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "An invitation to Soka University at Hachioji in spring 2012 made it possible to re-inspect the manuscript with Seishi Karashima and Tatsushi Tamai",
+   "quote_ok": true
+  },
+  {
+   "subject": "Harry Falk",
+   "type": "collaborated_with",
+   "object": "Tatsushi Tamai",
+   "role": "co-inspecting manuscript",
+   "place": "Soka University at Hachioji",
+   "year_start": 2012,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "An invitation to Soka University at Hachioji in spring 2012 made it possible to re-inspect the manuscript with Seishi Karashima and Tatsushi Tamai",
+   "quote_ok": true
+  },
+  {
+   "subject": "Harry Falk",
+   "type": "collaborated_with",
+   "object": "Ingo Strauch",
+   "role": "co-author",
+   "place": null,
+   "year_start": 2014,
+   "year_end": 2014,
+   "explicit": true,
+   "evidence": "Falk, Harry & Ingo Strauch 2014 The Bajaur and Split Collections of Kharoṣṭhī Manuscripts within the context of Buddhist Gāndhārī literature.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "A_new_Gandhari_Dharmapada",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/A_new_Gandhari_Dharmapada.txt",
+ "meta": {
+  "title": "A new Gāndhārī Dharmapada (Texts from the Split Collection 3)",
+  "author": "Falk, Harry",
+  "year": 2015,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

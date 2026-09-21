@@ -1,0 +1,76 @@
+{
+ "author": "Yang-Gyu An",
+ "doc_kind": "text_edition",
+ "doc_year": 2003,
+ "people": [
+  {
+   "name": "Yang-Gyu An",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "South Korea",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "Richard Gombrich",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Ven. Hojin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist Studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Yang-Gyu An",
+   "type": "studied_at",
+   "object": "University of Oxford",
+   "role": "D.Phil.",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": 1998,
+   "explicit": true,
+   "evidence": "I refer readers to the introduction to my D.Phil. thesis (Oxford, 1998).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Yang-Gyu An",
+   "type": "student_of",
+   "object": "Richard Gombrich",
+   "role": "doctoral supervisor",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": 1998,
+   "explicit": true,
+   "evidence": "I am most grateful to Prof. Gombrich for having supervised my D.Phil. work",
+   "quote_ok": true
+  },
+  {
+   "subject": "Yang-Gyu An",
+   "type": "student_of",
+   "object": "Ven. Hojin",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Here I would like to express my deepest thanks to my teacher Ven. Hojin who has guided me in various ways.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Last Days",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Last Days.txt",
+ "meta": {
+  "title": "The Buddha's Last Days: Buddhaghosa's Commentary on the Mahāparinibbāna Sutta",
+  "author": "An, Yang-Gyu",
+  "year": 2003,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

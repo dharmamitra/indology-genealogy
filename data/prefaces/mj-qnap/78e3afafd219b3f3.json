@@ -1,0 +1,90 @@
+{
+ "author": "Tilmann Vetter",
+ "doc_kind": "monograph",
+ "doc_year": 1964,
+ "people": [
+  {
+   "name": "Tilmann Vetter",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Erich Frauwallner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Erich Heintel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  },
+  {
+   "name": "Lambert Schmithausen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ernst Steinkellner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Tilmann Vetter",
+   "type": "student_of",
+   "object": "Erich Frauwallner",
+   "role": "doctoral supervisor",
+   "place": "Universität Wien",
+   "year_start": 1960,
+   "year_end": 1962,
+   "explicit": true,
+   "evidence": "Im Frühjahr 1960 gab mir Prof. Frauwallner „Erkenntnisprobleme bei Dharmakirti“ als Dissertationsthema.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tilmann Vetter",
+   "type": "studied_at",
+   "object": "Universität Wien",
+   "role": "PhD",
+   "place": "Wien",
+   "year_start": null,
+   "year_end": 1962,
+   "explicit": true,
+   "evidence": "Die Dissertation, die ich im Frühjahr 1962 an der Universität Wien vorlegte, behandelte nur den ersten Teil des Planes",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tilmann Vetter",
+   "type": "student_of",
+   "object": "Erich Heintel",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Auch Prof. Heintel, dem ich hauptsächlich meine philosophische Ausbildung verdanke, bin ich für wertvolle Hinweise verpflichtet.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Vetter 1964 Dhrmakirti-OCR",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Vetter 1964 Dhrmakirti-OCR.txt",
+ "meta": {
+  "title": "Erkenntnisprobleme bei Dharmakirti",
+  "author": "Vetter, Tilmann",
+  "year": 1964,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

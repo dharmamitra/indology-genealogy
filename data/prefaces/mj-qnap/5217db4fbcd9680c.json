@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 2015,
+ "people": [
+  {
+   "name": "李学竹",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "加納和雄",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Harunaga Isaacson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "李学竹",
+   "type": "collaborated_with",
+   "object": "加納和雄",
+   "role": null,
+   "place": null,
+   "year_start": 2013,
+   "year_end": 2015,
+   "explicit": true,
+   "evidence": "加納和雄、李学竹 2013 「梵文『牟尼意趣荘厳』(Munimatālaṃkāra)第一章の和訳と校訂―冒頭部―」",
+   "quote_ok": true
+  },
+  {
+   "subject": "Harunaga Isaacson",
+   "type": "position_at",
+   "object": "ハンブルグ大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Harunaga Isaacson 教授 (ハンブルグ大学)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Li Kano Munimatalankara Critical_Edition_of_the_Sanskrit_text_of",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Li Kano Munimatalankara Critical_Edition_of_the_Sanskrit_text_of.txt",
+ "meta": {
+  "title": "梵文校訂『牟尼意趣荘厳』第一章 (fol. 48r4-58r5) ―『中観五蘊論』にもとづく一切法の解説―",
+  "author": "李 学竹, 加納 和雄",
+  "year": 2015,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

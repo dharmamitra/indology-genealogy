@@ -1,0 +1,71 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "MAYEDA Sengaku",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Philip Yampolsky",
+   "birth_year": null,
+   "death_year": 1996,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kenneth Inada",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "MAYEDA Sengaku",
+   "type": "position_at",
+   "object": "Musashino Women's College",
+   "role": "Vice-President",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the Committee elected me, Vice-President of Musashino Women's College, to be the Chair in Octo- ber 1995... The present members of the Committee are MAYEDA Sengaku",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philip Yampolsky",
+   "type": "position_at",
+   "object": "Numata Center",
+   "role": "Chairperson of the Publication Committee",
+   "place": null,
+   "year_start": 1991,
+   "year_end": 1996,
+   "explicit": true,
+   "evidence": "In December 1991, the Publication Committee was organized at the Numata Center, with Professor Philip Yampolsky as the Chairperson. To our sorrow, Professor Yampolsky passed away in July 1996",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kenneth Inada",
+   "type": "succeeded",
+   "object": "Philip Yampolsky",
+   "role": "Chairperson",
+   "place": "Numata Center",
+   "year_start": 1997,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Yampolsky passed away in July 1996, but thankfully Dr. Kenneth Inada is continuing the work as Chairper- son... In February 1997, I was appointed to guide the Committee in his place.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_1873",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_1873.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

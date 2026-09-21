@@ -1,0 +1,147 @@
+{
+ "author": "N. Veezhinathan",
+ "doc_kind": "text_edition",
+ "doc_year": 1971,
+ "people": [
+  {
+   "name": "N. Veezhinathan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "T. M. P. Mahadevan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Philosophy"
+  },
+  {
+   "name": "V. A. Devasenapati",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Philosophy"
+  },
+  {
+   "name": "S. R. Krishnamurti Sastriar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Vedānta"
+  },
+  {
+   "name": "T. P. Ramachandran",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "R. K. Parthasarathi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "N. Veezhinathan",
+   "type": "position_at",
+   "object": "Centre of Advanced Study in Philosophy, University of Madras",
+   "role": "Lecturer in Sanskrit",
+   "place": "Madras",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "N. VEEZHINATHAN, M.A., Ph. D. Lecturer in Sanskrit, Centre of Advanced Study in Philosophy University of Madras",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "T. M. P. Mahadevan",
+   "type": "position_at",
+   "object": "Centre of Advanced Study in Philosophy, University of Madras",
+   "role": "Director",
+   "place": "Madras",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "T. M. P. MAHADEVAN, M.A., Ph. D. Director, Centre of Advanced Study in Philosophy, University of Madras",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "N. Veezhinathan",
+   "type": "student_of",
+   "object": "T. M. P. Mahadevan",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I owe a deep debt of gratitude to Dr. T. M. P. Mahadevan under whose guidance I edited the present work",
+   "quote_ok": true
+  },
+  {
+   "subject": "S. R. Krishnamurti Sastriar",
+   "type": "position_at",
+   "object": "Sanskrit College, Madras",
+   "role": "Professor of Vedānta",
+   "place": "Madras",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Brahmaśrī S. R. Krishnamurti Sastriar, Professor of Vedānta, Sanskrit College, Madras",
+   "quote_ok": true
+  },
+  {
+   "subject": "N. Veezhinathan",
+   "type": "collaborated_with",
+   "object": "T. P. Ramachandran",
+   "role": "colleague",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "To my friend and colleague, Dr. T. P. Ramachandran who gave me all the help I needed",
+   "quote_ok": true
+  },
+  {
+   "subject": "N. Veezhinathan",
+   "type": "student_of",
+   "object": "R. K. Parthasarathi",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I am grateful to my former Professor Sri R. K. Parthasarathi, M.A., L. T., Dip. in French and German",
+   "quote_ok": false
+  },
+  {
+   "subject": "R. K. Parthasarathi",
+   "type": "position_at",
+   "object": "Oriental Manuscripts Library, Madras",
+   "role": "Curator",
+   "place": "Madras",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "at present the Curator of the Oriental Manuscripts Library, Madras",
+   "quote_ok": true
+  }
+ ],
+ "docid": "sankara-vijaya_by_anantanandagiri_1971",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/sankara-vijaya_by_anantanandagiri_1971.txt",
+ "meta": {
+  "title": "Śrī Śaṅkaravijaya",
+  "author": "Anantānandagiri",
+  "year": 1971,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

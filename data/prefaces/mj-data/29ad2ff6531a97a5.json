@@ -1,0 +1,164 @@
+{
+ "author": "福田琢",
+ "doc_kind": "text_edition",
+ "doc_year": 1999,
+ "people": [
+  {
+   "name": "福田琢",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "加藤清",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "寺本婉雅",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Tibetology"
+  },
+  {
+   "name": "西本龍山",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "泉芳璟",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indology"
+  },
+  {
+   "name": "佐々木閑",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "本庄良文",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "福田琢",
+   "type": "position_at",
+   "object": "同朋大学",
+   "role": null,
+   "place": null,
+   "year_start": 1995,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "筆者が同朋大学に着任して間もない1995年夏、同朋学園大学部附属図書館の書庫の片隅に、このチベット訳『施設論』 すべてのテクストに和訳を付した草稿ノートを見いだしたときには驚嘆した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "加藤清",
+   "type": "studied_at",
+   "object": "大谷大学",
+   "role": "BA",
+   "place": "京都",
+   "year_start": null,
+   "year_end": 1931,
+   "explicit": true,
+   "evidence": "加藤清氏はすでに故人であること、昭和6年3月に大谷大学文学部を卒業されて、以後も研究生として京都におられたこと",
+   "quote_ok": true
+  },
+  {
+   "subject": "加藤清",
+   "type": "studied_at",
+   "object": "大谷大学",
+   "role": "研究生 / 研究科生",
+   "place": "京都",
+   "year_start": 1931,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "昭和6年3月に大谷大学文学部を卒業されて、以後も研究生として京都におられたこと",
+   "quote_ok": true
+  },
+  {
+   "subject": "加藤清",
+   "type": "student_of",
+   "object": "寺本婉雅",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "加藤清氏が寺本婉雅教授のもとでチベット語の研鑽を積まれた研究者であり",
+   "quote_ok": true
+  },
+  {
+   "subject": "加藤清",
+   "type": "collaborated_with",
+   "object": "西本龍山",
+   "role": "translator/collaborator on Kokuyaku issaikyō",
+   "place": null,
+   "year_start": 1933,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "余輩、西本教授の依頼に依り、国訳一切経中有部薬事の翻訳のため、蔵文と比較し、義浄訳薬事十八巻全部蔵文と対照し",
+   "quote_ok": true
+  },
+  {
+   "subject": "西本龍山",
+   "type": "student_of",
+   "object": "寺本婉雅",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "恩師寺本教授の校閲を仰いで果逐することが出来たのである。",
+   "quote_ok": true
+  },
+  {
+   "subject": "佐々木閑",
+   "type": "position_at",
+   "object": "花園大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "花園大学の佐々木閑氏に問い合わせたところ",
+   "quote_ok": true
+  },
+  {
+   "subject": "本庄良文",
+   "type": "position_at",
+   "object": "神戸女子大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "すると神戸女子大学の本庄良文氏が、昨年の日本印度学仏教学会における研究発表でこの遺稿に触れられ",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Fukuda_福田琢_1999@加藤清遺稿　蔵文和譯『世間施設』(1)",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Fukuda_福田琢_1999@加藤清遺稿　蔵文和譯『世間施設』(1).txt",
+ "meta": {
+  "title": "加藤清遺稿　蔵文和譯『世間施設』(1)",
+  "author": "Fukuda, 琢",
+  "year": 1999,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

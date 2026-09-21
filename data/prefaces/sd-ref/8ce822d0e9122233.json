@@ -1,0 +1,71 @@
+{
+ "author": "Brenton Sullivan",
+ "doc_kind": "article",
+ "doc_year": 2015,
+ "people": [
+  {
+   "name": "Brenton Sullivan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kurtis Schaeffer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rin chen sgrol ma",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Brenton Sullivan",
+   "type": "student_of",
+   "object": "Kurtis Schaeffer",
+   "role": "teacher",
+   "place": "University of Virginia",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in a seminar on the Dalai Lamas taught by Professor Kurtis Schaeffer at the University of Virginia",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kurtis Schaeffer",
+   "type": "position_at",
+   "object": "University of Virginia",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Kurtis Schaeffer at the University of Virginia",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rin chen sgrol ma",
+   "type": "position_at",
+   "object": "China Tibetology Research Center",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rin chen sgrol ma of the China Tibetology Research Center",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Sullivan_Monastic Customaries and the Promotion of Dge lugs Scholasticism in A Mdo and Beyond",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Sullivan_Monastic Customaries and the Promotion of Dge lugs Scholasticism in A Mdo and Beyond.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

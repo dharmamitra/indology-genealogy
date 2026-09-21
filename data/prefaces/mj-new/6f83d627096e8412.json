@@ -1,0 +1,88 @@
+{
+ "author": "赤松明彦",
+ "doc_kind": "monograph",
+ "doc_year": 2008,
+ "people": [
+  {
+   "name": "赤松明彦",
+   "birth_year": 1953,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indian philosophy"
+  },
+  {
+   "name": "Paul Deussen",
+   "birth_year": 1845,
+   "death_year": 1919,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "シュトラウス",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "赤松明彦",
+   "type": "studied_at",
+   "object": "パリ第3大学大学院",
+   "role": "博士課程修了",
+   "place": null,
+   "year_start": null,
+   "year_end": 1983,
+   "explicit": true,
+   "evidence": "1983年、パリ第3（新ソルボンヌ）大学大学院博士課程修了。",
+   "quote_ok": true
+  },
+  {
+   "subject": "赤松明彦",
+   "type": "position_at",
+   "object": "京都大学大学院文学研究科",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "現在、京都大学大学院文学研究科教授。インド哲学専攻。",
+   "quote_ok": true
+  },
+  {
+   "subject": "シュトラウス",
+   "type": "student_of",
+   "object": "Paul Deussen",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "パウル・ドイッセン(一八四五―一九一九)は、ショーペンハウアーの弟子でニーチェの友人。インドや中国を含めた普遍哲学史を構想した。一九〇六年に弟子のシュトラウスとともに『マハーバーラタ』中の哲学的教説の部分を翻訳し発表した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Deussen",
+   "type": "collaborated_with",
+   "object": "シュトラウス",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1906,
+   "explicit": true,
+   "evidence": "一九〇六年に弟子のシュトラウスとともに『マハーバーラタ』中の哲学的教説の部分を翻訳し発表した。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Akamatsu Akihiko_『バガヴァッド・ギーター』_赤松明彦",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Akamatsu Akihiko_『バガヴァッド・ギーター』_赤松明彦.txt",
+ "meta": {
+  "title": "『バガヴァッド・ギーター』の翻訳書の数々",
+  "author": "",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

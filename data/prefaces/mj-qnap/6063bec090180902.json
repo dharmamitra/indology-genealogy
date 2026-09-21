@@ -1,0 +1,142 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 1958,
+ "people": [
+  {
+   "name": "Charles Sanders Peirce",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "philosophy"
+  },
+  {
+   "name": "Arthur W. Burks",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  },
+  {
+   "name": "Charles Hartshorne",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Paul Weiss",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "James H. Woods",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  },
+  {
+   "name": "William James",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  },
+  {
+   "name": "John Dewey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Arthur W. Burks",
+   "type": "position_at",
+   "object": "University of Michigan",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the Department was fortunate to enlist Professor Arthur W. Burks, of the University of Michigan, to perform that peculiarly exacting task.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Hartshorne",
+   "type": "collaborated_with",
+   "object": "Paul Weiss",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1935,
+   "explicit": true,
+   "evidence": "these, under the editorship of Drs. Charles Hartshorne and Paul Weiss, appeared as promised, ending with Volume VI in 1935.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James H. Woods",
+   "type": "position_at",
+   "object": "Harvard University",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "royalties from the earlier volumes, which were subsidized by gifts of the late Professor James H. Woods and anonymous friends",
+   "quote_ok": true
+  },
+  {
+   "subject": "William James",
+   "type": "influenced_by",
+   "object": "Charles Sanders Peirce",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Peirce was also influential in shaping the thinking of such figures as William James and John Dewey.",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "John Dewey",
+   "type": "influenced_by",
+   "object": "Charles Sanders Peirce",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Peirce was also influential in shaping the thinking of such figures as William James and John Dewey.",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Charles Sanders Peirce",
+   "type": "position_at",
+   "object": "United States Coast Survey",
+   "role": "research in astronomy and geodetics",
+   "place": null,
+   "year_start": 1859,
+   "year_end": 1860,
+   "explicit": true,
+   "evidence": "In fact, the only permanent position Peirce held was with the United States Coast Survey... He was employed by the Coast Survey from September 21, 1859, to June 1, 1860, and from July 1, 18",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Peirce_C_S_1935_CP7",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Peirce_C_S_1935_CP7.txt",
+ "meta": {
+  "title": "Collected Papers of Charles Sanders Peirce",
+  "author": "Peirce, Charles Sanders",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2003,
+ "people": [
+  {
+   "name": "Gangs-zhun",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan literature"
+  },
+  {
+   "name": "A-lags Dor-zhi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetology"
+  },
+  {
+   "name": "Rdo-lha",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Gangs-zhun",
+   "type": "studied_at",
+   "object": "Northwest Nationalities Institute",
+   "role": "master's degree",
+   "place": "Lanzhou",
+   "year_start": 1998,
+   "year_end": 2001,
+   "explicit": true,
+   "evidence": "He entered the Institute in 1998 and graduated with a master's degree in June 2001.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gangs-zhun",
+   "type": "student_of",
+   "object": "A-lags Dor-zhi",
+   "role": "MA supervisor",
+   "place": "Lanzhou",
+   "year_start": null,
+   "year_end": 2001,
+   "explicit": true,
+   "evidence": "He was one of the few students in the Tibetan literary section there, under the supervision of the dge lugs pa scholar popularly known as A-lags Dor-zhi",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gangs-zhun",
+   "type": "studied_at",
+   "object": "Teachers Training College for Nationalities in Chab-cha",
+   "role": null,
+   "place": "Chab-cha",
+   "year_start": null,
+   "year_end": 1989,
+   "explicit": true,
+   "evidence": "later at the Teachers Training College for Nationalities in Chab-cha (Ch. Gonghe)... Upon graduating in 1989",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gangs-zhun",
+   "type": "collaborated_with",
+   "object": "Rdo-lha",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": 2000,
+   "explicit": true,
+   "evidence": "a lengthy collection of essays entitled Lta ba bsam blo lag len [Views, Thoughts and Practice], which Gangs-zhun edited with his classmate Rdo-lha.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Latse-01",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Latse-01.txt",
+ "meta": {
+  "title": "LATSE LIBRARY NEWSLETTER",
+  "author": "",
+  "year": 2003,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

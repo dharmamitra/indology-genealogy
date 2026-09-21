@@ -1,0 +1,129 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 2004,
+ "people": [
+  {
+   "name": "Heinz Bechert",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Michael Schmidt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "J. Chung",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "S. Dietz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Klaus Wille",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Andreas Bock-Raming",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ernst Waldschmidt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Heinz Bechert",
+   "type": "collaborated_with",
+   "object": "Michael Schmidt",
+   "role": "editor and redactor",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": 2001,
+   "explicit": true,
+   "evidence": "Göttingen, im Dezember 2001 Heinz Bechert (Herausgeber) Michael Schmidt (Redaktor)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Schmidt",
+   "type": "collaborated_with",
+   "object": "J. Chung",
+   "role": "lexicographical contributors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Die Bearbeitung der Artikel zu den Stichwörtern in dieser Lieferung teilt sich wie folgt auf: trayo-daśika - dāsī-dāsa-° J. Chung",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Schmidt",
+   "type": "collaborated_with",
+   "object": "S. Dietz",
+   "role": "lexicographical contributors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "dik-praveśa - dṛṣṭāntaka S. Dietz",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Schmidt",
+   "type": "collaborated_with",
+   "object": "Andreas Bock-Raming",
+   "role": "proofreading",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bei der Korrekturlesung wirkte PD Dr. Andreas Bock-Raming mit.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinz Bechert",
+   "type": "succeeded",
+   "object": "Ernst Waldschmidt",
+   "role": "editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Begonnen von Ernst Waldschmidt Im Auftrage der Akademie der Wissenschaften zu Göttingen herausgegeben von Heinz Bechert",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "SWBTTF_14_trayoda.cika-",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/SWBTTF_14_trayoda.cika-.txt",
+ "meta": {
+  "title": "Sanskrit-Wörterbuch der buddhistischen Texte aus den Turfan-Funden und der kanonischen Literatur der Sarvāstivāda-Schule",
+  "author": "Waldschmidt, Ernst",
+  "year": 2002,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

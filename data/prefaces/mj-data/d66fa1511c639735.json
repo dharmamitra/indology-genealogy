@@ -1,0 +1,64 @@
+{
+ "author": "長崎法潤",
+ "doc_kind": "article",
+ "doc_year": 1990,
+ "people": [
+  {
+   "name": "長崎法潤",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "水野弘元",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "奈良康明",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "長崎法潤",
+   "type": "position_at",
+   "object": "大谷大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "渡辺論文五頁、同口的頁。\n(大谷大学教授)",
+   "quote_ok": true
+  },
+  {
+   "subject": "奈良康明",
+   "type": "student_of",
+   "object": "水野弘元",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "先生のご研究の回願とはいえ、それはまことに見事に日本のバーリ仏教研究そのものの回願にもなっているので、あえて「教理研究」の章に載せさせていただくことにした。先生の格別のご学恩に心から感謝申し上げたい。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Nagasaki_長崎法潤_1990",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Nagasaki_長崎法潤_1990.txt",
+ "meta": {
+  "title": "パーリ仏教研究とジャイナ教研究",
+  "author": "長崎 法潤",
+  "year": 1990,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

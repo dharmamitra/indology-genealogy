@@ -1,0 +1,45 @@
+{
+ "author": "Teun Goudriaan",
+ "doc_kind": "text_edition",
+ "doc_year": 1985,
+ "people": [
+  {
+   "name": "Teun Goudriaan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Sanjukta Gupta",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Teun Goudriaan",
+   "type": "collaborated_with",
+   "object": "Sanjukta Gupta",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": 1981,
+   "explicit": true,
+   "evidence": "A preliminary survey of the sources known to exist at present can be found in T. Goudriaan/S. Gupta, Hindu Tantric Literature, Wiesbaden 1981.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "viinaasikha",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/viinaasikha.txt",
+ "meta": {
+  "title": "The Viṇāśikhatantra: A Śaiva Tantra of the Left Current",
+  "author": "Goudriaan, Teun",
+  "year": 1985,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

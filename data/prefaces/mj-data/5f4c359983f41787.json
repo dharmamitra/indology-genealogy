@@ -1,0 +1,90 @@
+{
+ "author": null,
+ "doc_kind": "monograph",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "木村泰賢",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "荻原雲來",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "山口益",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "小谷信千代",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "本庄良文",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "木村泰賢",
+   "type": "collaborated_with",
+   "object": "荻原雲來",
+   "role": "co-translators",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "木村泰賢・荻原雲來『國譯阿毘達磨俱舍論』(國譯大藏經論部、第十一~十三卷)國民文庫刊行會、大正九~十年",
+   "quote_ok": true
+  },
+  {
+   "subject": "荻原雲來",
+   "type": "collaborated_with",
+   "object": "山口益",
+   "role": "co-translators",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "荻原雲來・山口益譯註『和譯稱友俱舍論疏』(二)同、昭和九年;同(三)昭和十四年。",
+   "quote_ok": true
+  },
+  {
+   "subject": "小谷信千代",
+   "type": "collaborated_with",
+   "object": "本庄良文",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": 2002,
+   "explicit": true,
+   "evidence": "小谷信千代・本庄良文「『俱舍論世品』本論・満増疏訳註(一)」『櫻部建博士喜寿記念論集 初期仏教からアビダルマへ』、平樂寺書店、二〇〇二年",
+   "quote_ok": true
+  }
+ ],
+ "docid": "倶舍論の原典解明　智品　定品",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/倶舍論の原典解明　智品　定品.txt",
+ "meta": {
+  "title": "倶舎論の原典研究 智品·定品",
+  "author": "櫻部, 本庄良文, 小谷信千代",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

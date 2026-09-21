@@ -1,0 +1,83 @@
+{
+ "author": "松田 和信",
+ "doc_kind": "article",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "松田 和信",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Jens-Uwe Hartmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "岡野 潔",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indology"
+  },
+  {
+   "name": "Roland Steiner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "松田 和信",
+   "type": "collaborated_with",
+   "object": "Jens-Uwe Hartmann",
+   "role": "collaborative decipherment",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "筆者が独ミュンヘン大学のイエンス＝ウヴェ・ハルトマン (Jens-Uwe Hartmann) 教授と解読を進めているアシュヴァゴーシャに帰せられる梵文『三啓集 (Tridaṇḍamālā)』",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jens-Uwe Hartmann",
+   "type": "position_at",
+   "object": "独ミュンヘン大学",
+   "role": "教授",
+   "place": "Germany",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "独ミュンヘン大学のイエンス＝ウヴェ・ハルトマン (Jens-Uwe Hartmann) 教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "岡野 潔",
+   "type": "position_at",
+   "object": "九州大学",
+   "role": "教授",
+   "place": "Japan",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "岡野潔教授（九州大学）の解題に詳しい",
+   "quote_ok": true
+  }
+ ],
+ "docid": "BC15-Matsuda2020(J)",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/BC15-Matsuda2020(J).txt",
+ "meta": {
+  "title": "ブッダチャリタ第15章「初転法輪」――梵文テキストと和訳――",
+  "author": "松田, 和信",
+  "year": 2020,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

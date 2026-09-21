@@ -1,0 +1,88 @@
+{
+ "author": "宇野惇",
+ "doc_kind": "article",
+ "doc_year": 1988,
+ "people": [
+  {
+   "name": "宇野惇",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indology"
+  },
+  {
+   "name": "T. R. V. Murti",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "India",
+   "field": "Indian philosophy"
+  },
+  {
+   "name": "Bhāma Carana Bhattacarya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "India",
+   "field": "Nyāya"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "宇野惇",
+   "type": "studied_at",
+   "object": "ベナレス・ヒンドゥ大学",
+   "role": null,
+   "place": "ベナレス",
+   "year_start": 1954,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "昭和29年から約三年半に亘り、インド政府給費留学生としてインドのベナレス・ヒンドゥ大学 (Banaras Hindu University) に留学する機会があった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "宇野惇",
+   "type": "student_of",
+   "object": "T. R. V. Murti",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "私の恩師ムルティ教授(T. R. V. Murti)に",
+   "quote_ok": false
+  },
+  {
+   "subject": "宇野惇",
+   "type": "student_of",
+   "object": "Bhāma Carana Bhattacarya",
+   "role": "teacher",
+   "place": "ベナレス大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "私も時折冷やかし半分に先生の授業を拝聴させてもらっていた。両師からは共に「その通りだ」という答えが返って来た。",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bhāma Carana Bhattacarya",
+   "type": "position_at",
+   "object": "ベナレス大学のサンスクリット・カレッジ",
+   "role": null,
+   "place": "ベナレス",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "バッターチャーリャ氏はペナレス大学のサンスクリット・カレッジで正理学 (Nyāya) を担当していたが",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Uno_宇野惇_1988a",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Uno_宇野惇_1988a.txt",
+ "meta": {
+  "title": "<anvaya> <vyatireka〉考",
+  "author": "宇野 惇",
+  "year": 1988,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

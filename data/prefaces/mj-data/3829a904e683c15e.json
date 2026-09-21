@@ -1,0 +1,102 @@
+{
+ "author": "渡辺麻里子",
+ "doc_kind": "article",
+ "doc_year": 2005,
+ "people": [
+  {
+   "name": "渡辺麻里子",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "内山純子",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "末木文美士",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Wolfgang Schamoni",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Germany",
+   "field": "Japanese studies"
+  },
+  {
+   "name": "服部金太郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "渡辺麻里子",
+   "type": "collaborated_with",
+   "object": "内山純子",
+   "role": "co-author / co-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": 2001,
+   "explicit": true,
+   "evidence": "内山純子・渡辺麻里子編著『〈曜光山月山寺〉了翁寄進鉄眼版一切経目録』、月山寺、二〇〇一年",
+   "quote_ok": true
+  },
+  {
+   "subject": "渡辺麻里子",
+   "type": "collaborated_with",
+   "object": "末木文美士",
+   "role": "research collaborator",
+   "place": "東京大学総合図書館",
+   "year_start": null,
+   "year_end": 2005,
+   "explicit": true,
+   "evidence": "瑞聖寺寄進本は、諸々の経緯を経て、現在は東京大学総合図書館に貴重図書として所蔵、末木文美士氏はじめ院生の方々と調査中である。",
+   "quote_ok": false
+  },
+  {
+   "subject": "渡辺麻里子",
+   "type": "influenced_by",
+   "object": "Wolfgang Schamoni",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2005,
+   "explicit": true,
+   "evidence": "本稿をなすにあたっては、ヴォルフガング・シャモニ氏(Prof. Dr. Wolfgang Schamoni)に、多大な御教示を賜りました。シャモ二氏は、近世初期日本における自伝類の研究をされており",
+   "quote_ok": true
+  },
+  {
+   "subject": "服部金太郎",
+   "type": "position_at",
+   "object": "大正大学",
+   "role": "図書館館長",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "服部氏は、元大正大学図書館館長で、図書館学の授業では必ずはじめに了翁について講義していたとのことである。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Watanabe_渡辺麻里子_2005",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Watanabe_渡辺麻里子_2005.txt",
+ "meta": {
+  "title": "『了翁祖休禅師行業記』について——〈付・翻刻〉秋田県公文書館蔵『了翁祖休禅師行業記』——",
+  "author": "渡辺麻里子",
+  "year": 2005,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

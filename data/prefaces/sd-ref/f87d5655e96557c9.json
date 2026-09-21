@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "monograph",
+ "doc_year": 1992,
+ "people": [
+  {
+   "name": "Humberto Maturana",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "biology"
+  },
+  {
+   "name": "Francisco Varela",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "biology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Francisco Varela",
+   "type": "student_of",
+   "object": "Humberto Maturana",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Francisco Varela had started as Maturana's student",
+   "quote_ok": false
+  },
+  {
+   "subject": "Humberto Maturana",
+   "type": "position_at",
+   "object": "University of Chile",
+   "role": null,
+   "place": "Chile",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "working as colleagues at the University of Chile",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francisco Varela",
+   "type": "position_at",
+   "object": "University of Chile",
+   "role": null,
+   "place": "Chile",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "working as colleagues at the University of Chile",
+   "quote_ok": true
+  },
+  {
+   "subject": "Humberto Maturana",
+   "type": "collaborated_with",
+   "object": "Francisco Varela",
+   "role": "co-authors",
+   "place": null,
+   "year_start": 1970,
+   "year_end": 1971,
+   "explicit": true,
+   "evidence": "small book entitled Autopoiesis: The Organization of the Living, written during 1970-1971 and first published in 1973",
+   "quote_ok": true
+  },
+  {
+   "subject": "Humberto Maturana",
+   "type": "collaborated_with",
+   "object": "Francisco Varela",
+   "role": "co-authors",
+   "place": "Santiago",
+   "year_start": 1980,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Much later, in 1980, when circumstances again made it possible, our collaboration was resumed in Santiago. The present book incorporates ideas developed independently or jointly by both of us",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Tree of Knowledge. The Biological Roots of Human Understanding (1992)_Humberto R. Maturana, Francisco J. Varela",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Tree of Knowledge. The Biological Roots of Human Understanding (1992)_Humberto R. Maturana, Francisco J. Varela.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

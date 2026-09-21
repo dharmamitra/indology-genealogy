@@ -1,0 +1,78 @@
+{
+ "author": "那須円照",
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Erich Frauwallner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sophie Fransis Kidd",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ernst Steinkellner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "本庄良文",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "小谷信千代",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sophie Fransis Kidd",
+   "type": "student_of",
+   "object": "Ernst Steinkellner",
+   "role": "supervision",
+   "place": null,
+   "year_start": null,
+   "year_end": 1995,
+   "explicit": true,
+   "evidence": "Erich Frauwallner translated from German by Sophie Fransis Kidd under the supervision of Ernst Steinkellner, Studies in Abhidharma Literature",
+   "quote_ok": true
+  },
+  {
+   "subject": "本庄良文",
+   "type": "collaborated_with",
+   "object": "小谷信千代",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2007,
+   "explicit": true,
+   "evidence": "本庄良文・小谷信千代 [2007]: 「倶舎論の原典研究 随眠品」, 大蔵出版.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "ick15_nasuensho",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/ick15_nasuensho.txt",
+ "meta": {
+  "title": "『倶舎論』とその諸註釈における三世実有論批判の研究(1) ―仏教の時間論―",
+  "author": "那須, 円照",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

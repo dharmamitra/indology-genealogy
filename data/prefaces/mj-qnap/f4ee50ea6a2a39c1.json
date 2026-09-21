@@ -1,0 +1,168 @@
+{
+ "author": "W. Kirfel",
+ "doc_kind": "monograph",
+ "doc_year": 1920,
+ "people": [
+  {
+   "name": "W. Kirfel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hermann Jacobi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "F. W. Thomas",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "A. K. Coomaraswamy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "R. Otto Franke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "H. von Glasenapp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "A. Grünwedel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Franz Xaver Kugler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "James H. Wouts",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "W. Kirfel",
+   "type": "student_of",
+   "object": "Hermann Jacobi",
+   "role": "teacher",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "MEINEM LEHRER HERRN GEHEIMEN REGIERUNGSRAT PROF. DR. HERMANN JACOBI ZU SEINEM 70. GEBURTSTAGE",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "W. Kirfel",
+   "type": "position_at",
+   "object": "Universität Bonn",
+   "role": "Bibliothekar und Privatdozent",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": 1920,
+   "explicit": true,
+   "evidence": "Von Dr. W. Kirfel Bibliothekar und Privatdozent an der Universität Bonn",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Hermann Jacobi",
+   "type": "position_at",
+   "object": "Universität Bonn",
+   "role": "Prof. Dr.",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "meinem hochverehrten Lehrer, Herrn Geheimrat Prof. Dr. Jacobi in Bonn",
+   "quote_ok": true
+  },
+  {
+   "subject": "F. W. Thomas",
+   "type": "position_at",
+   "object": "India Office Library",
+   "role": "Bibliothekar",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Thomas, der Bibliothekar der India Office Library in London",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. K. Coomaraswamy",
+   "type": "position_at",
+   "object": "Museum of Fine Arts",
+   "role": null,
+   "place": "Boston",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. A. K. Coomaraswamy, jetzt am Museum of Fine Arts, Boston, (Massachusetts U. S. A.)",
+   "quote_ok": true
+  },
+  {
+   "subject": "R. Otto Franke",
+   "type": "position_at",
+   "object": "Universität Königsberg",
+   "role": "Prof.",
+   "place": "Königsberg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Herren Prof. R. Otto Franke in Königsberg",
+   "quote_ok": true
+  },
+  {
+   "subject": "H. von Glasenapp",
+   "type": "position_at",
+   "object": "Universität Berlin",
+   "role": "Privatdozent",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Privatdozent Dr. H. von Glasenapp in Berlin",
+   "quote_ok": true
+  }
+ ],
+ "docid": "KIRFEL Die Kosmographie der Inder nach den Quellen dargestellt copy",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/KIRFEL Die Kosmographie der Inder nach den Quellen dargestellt copy.txt",
+ "meta": {
+  "title": "Die Kosmographie der Inder",
+  "author": "Kirfel, W.",
+  "year": 1920,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

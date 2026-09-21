@@ -1,0 +1,78 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2018,
+ "people": [
+  {
+   "name": "Luca M. Olivieri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Italian",
+   "field": "Archaeology"
+  },
+  {
+   "name": "Doris M. Srinivasan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Art History"
+  },
+  {
+   "name": "Giuseppe Salemi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Italian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Doris M. Srinivasan",
+   "type": "collaborated_with",
+   "object": "Luca M. Olivieri",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "By Doris M. Srinivasan, and Luca M. Olivieri, with a note by Giuseppe Salemi",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Luca M. Olivieri",
+   "type": "collaborated_with",
+   "object": "Giuseppe Salemi",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "By Doris M. Srinivasan, and Luca M. Olivieri, with a note by Giuseppe Salemi",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Giuseppe Salemi",
+   "type": "position_at",
+   "object": "University of Padova",
+   "role": null,
+   "place": "Padova",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Giuseppe Salemi, Department of Cultural Heritage, University of Padova, Italy",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Olivieri et al 2018 The_Eight_Armed_Devi_from_Guligram_Swat",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Olivieri et al 2018 The_Eight_Armed_Devi_from_Guligram_Swat.txt",
+ "meta": {
+  "title": "The Eight-Armed Devi from Guligram, Swat (c. 8th century CE)",
+  "author": "Srinivasan, Doris M. and Olivieri, Luca M.",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

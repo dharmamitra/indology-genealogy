@@ -1,0 +1,72 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1887,
+ "people": [
+  {
+   "name": "John Faithfull Fleet",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Richard Carnac Temple",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Faithfull Fleet",
+   "type": "collaborated_with",
+   "object": "Richard Carnac Temple",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "EDITED BY JOHN FAITHFULL FLEET, C.I.E., BOMBAY CIVIL SERVICE, AND RICHARD CARNAC TEMPLE, CAPTAIN, BENGAL STAFF CORPS.",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "John Faithfull Fleet",
+   "type": "position_at",
+   "object": "Bombay Civil Service",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "JOHN FAITHFULL FLEET, C.I.E., BOMBAY CIVIL SERVICE",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Richard Carnac Temple",
+   "type": "position_at",
+   "object": "Bengal Staff Corps",
+   "role": "Captain",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "RICHARD CARNAC TEMPLE, CAPTAIN, BENGAL STAFF CORPS",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "ia16",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/ia16.txt#0",
+ "meta": {
+  "title": "The Indian Antiquary, A Journal of Oriental Research",
+  "author": "Fleet, John Faithfull; Temple, Richard Carnac",
+  "year": 1984,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

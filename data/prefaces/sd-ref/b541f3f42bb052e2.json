@@ -1,0 +1,91 @@
+{
+ "author": "周雁飞",
+ "doc_kind": "dissertation",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "周雁飞",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "劳悦强",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "陈寅恪",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "周一良",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "周雁飞",
+   "type": "studied_at",
+   "object": "新加坡国立大学中文系",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "隋炀帝佛教意识形态研究 周雁飞 新加坡国立大学中文系 博士学位论文",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "周雁飞",
+   "type": "student_of",
+   "object": "劳悦强",
+   "role": "doctoral supervisor",
+   "place": "National University of Singapore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "First and foremost, A/P Lo Yuet Keung (劳悦强副教授)... As my supervisor, A/P Lo guided me through the process of writing this dissertation.",
+   "quote_ok": true
+  },
+  {
+   "subject": "劳悦强",
+   "type": "position_at",
+   "object": "National University of Singapore",
+   "role": "Associate Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A/P Lo Yuet Keung (劳悦强副教授), an esteemed preceptor of the Department of Chinese Studies of the National University of Singapore",
+   "quote_ok": true
+  },
+  {
+   "subject": "周一良",
+   "type": "student_of",
+   "object": "陈寅恪",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "陈寅恪的弟子周一良,在其《佛家史观中之隋炀帝》一文中,更明确地把炀帝在佛家眼中的崇高地位解释为“佛教史观”",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Study of the Buddhist political ideology of emperor Yang of the Sui dynasty_ZHOU YAN FEI",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Study of the Buddhist political ideology of emperor Yang of the Sui dynasty_ZHOU YAN FEI.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

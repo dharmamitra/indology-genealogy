@@ -1,0 +1,204 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1895,
+ "people": [
+  {
+   "name": "Sir Henry Rawlinson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Assyriology"
+  },
+  {
+   "name": "Grotefend",
+   "birth_year": null,
+   "death_year": 1853,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Burnouf",
+   "birth_year": null,
+   "death_year": 1852,
+   "nationality": "French",
+   "field": "Indology"
+  },
+  {
+   "name": "Lassen",
+   "birth_year": null,
+   "death_year": 1876,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Edwin Norris",
+   "birth_year": null,
+   "death_year": 1872,
+   "nationality": null,
+   "field": "Cuneiform Philology"
+  },
+  {
+   "name": "Dr. Hincks",
+   "birth_year": null,
+   "death_year": 1866,
+   "nationality": "Irish",
+   "field": null
+  },
+  {
+   "name": "Henry Talbot",
+   "birth_year": null,
+   "death_year": 1877,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lord Reay",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Henri Cordier",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Sinology"
+  },
+  {
+   "name": "Jules Oppert",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": null
+  },
+  {
+   "name": "G. Rawlinson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "History"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Lassen",
+   "type": "other",
+   "object": "Burnouf",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "one month earlier than his friend Burnouf's \"Memoire sur deux Inscriptions Cuneiformes\" in Paris.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edwin Norris",
+   "type": "position_at",
+   "object": "Royal Asiatic Society",
+   "role": "Assistant-Honorary Secretary and Honorary Librarian",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Edwin Norris, for thirty-five years Assistant-Honorary Secretary and Honorary Librarian of this Society",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lord Reay",
+   "type": "position_at",
+   "object": "Royal Asiatic Society",
+   "role": "President",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "At the Meeting of this Society on the 12th of March, our present President, Lord Reay, drew attention to the great loss, which we had suffered",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir Henry Rawlinson",
+   "type": "position_at",
+   "object": "Royal Asiatic Society",
+   "role": "President",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "He had filled the post of President of both Societies",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir Henry Rawlinson",
+   "type": "position_at",
+   "object": "Royal Geographical Society",
+   "role": "President",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He had filled the post of President of both Societies",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henri Cordier",
+   "type": "position_at",
+   "object": "Paris",
+   "role": "Professor of Chinese",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "My friend Henri Cordier, Professor of Chinese at Paris, and a Honorary Member of our Society",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jules Oppert",
+   "type": "position_at",
+   "object": "College of France",
+   "role": "Professor",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he quotes the opinion of Professor Jules Oppert, of the College of France",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir Henry Rawlinson",
+   "type": "collaborated_with",
+   "object": "G. Rawlinson",
+   "role": "colleague / contributor to edition of Herodotus",
+   "place": null,
+   "year_start": null,
+   "year_end": 1858,
+   "explicit": true,
+   "evidence": "Sir Henry was one of the two colleagues of his brother, the Rev. G. Rawlinson, Canon of Canterbury, in his Edition of the History of Herodotus, published in 1858",
+   "quote_ok": false
+  },
+  {
+   "subject": "Sir Henry Rawlinson",
+   "type": "other",
+   "object": "G. Rawlinson",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sir Henry was one of the two colleagues of his brother, the Rev. G. Rawlinson",
+   "quote_ok": true
+  }
+ ],
+ "docid": "JRASGBI1895",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/JRASGBI1895.txt#0",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

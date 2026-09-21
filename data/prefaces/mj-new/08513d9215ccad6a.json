@@ -1,0 +1,175 @@
+{
+ "author": "高崎直道",
+ "doc_kind": "text_edition",
+ "doc_year": 1981,
+ "people": [
+  {
+   "name": "高崎直道",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "S.S.Das",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "India",
+   "field": "Indology"
+  },
+  {
+   "name": "S.C.Vidyabhusana",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "India",
+   "field": "Indology"
+  },
+  {
+   "name": "南条文雄",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "P.L. Vaidya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "India",
+   "field": "Indology"
+  },
+  {
+   "name": "高楠順次郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "河口慧海",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Tibetology"
+  },
+  {
+   "name": "湯山明",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Michael Hahn",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Germany",
+   "field": "Indology"
+  },
+  {
+   "name": "E・クック",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indian philosophy"
+  },
+  {
+   "name": "岡田行弘",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indian philosophy"
+  },
+  {
+   "name": "矢島道彦",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indian philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "S.S.Das",
+   "type": "collaborated_with",
+   "object": "S.C.Vidyabhusana",
+   "role": "co-editors",
+   "place": "Darjeeling",
+   "year_start": null,
+   "year_end": 1900,
+   "explicit": true,
+   "evidence": "梵本の校訂は最初、インドのS.S.Das及び、S.C.Vidyabhusanaの手によって、冒頭の部分二分冊（後述南条本のp.144, L.5相当箇所まで）だけ出版された。（Darjeeling, 1900）",
+   "quote_ok": true
+  },
+  {
+   "subject": "湯山明",
+   "type": "position_at",
+   "object": "霊友会図書室",
+   "role": "図書室長",
+   "place": null,
+   "year_start": null,
+   "year_end": 1981,
+   "explicit": true,
+   "evidence": "霊友会図書室長、湯山明博士の御好意で",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Hahn",
+   "type": "position_at",
+   "object": "Nepal-German Sanskrit Manuscript Preservation Project",
+   "role": "計画センター長",
+   "place": "Nepal",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "当時の上記計画センター長 Michal Hahn 教授に依頼して取寄せでおかれたマイクロフィルム",
+   "quote_ok": true
+  },
+  {
+   "subject": "E・クック",
+   "type": "studied_at",
+   "object": "東京大学",
+   "role": "大学院生",
+   "place": null,
+   "year_start": null,
+   "year_end": 1981,
+   "explicit": true,
+   "evidence": "東京大学大学院人文科学研究科、印度哲学専修課程所属のE・クック、岡田行弘、矢島道彦の三君",
+   "quote_ok": true
+  },
+  {
+   "subject": "岡田行弘",
+   "type": "studied_at",
+   "object": "東京大学",
+   "role": "大学院生",
+   "place": null,
+   "year_start": null,
+   "year_end": 1981,
+   "explicit": true,
+   "evidence": "東京大学大学院人文科学研究科、印度哲学専修課程所属のE・クック、岡田行弘、矢島道彦の三君",
+   "quote_ok": true
+  },
+  {
+   "subject": "矢島道彦",
+   "type": "studied_at",
+   "object": "東京大学",
+   "role": "大学院生",
+   "place": null,
+   "year_start": null,
+   "year_end": 1981,
+   "explicit": true,
+   "evidence": "東京大学大学院人文科学研究科、印度哲学専修課程所属のE・クック、岡田行弘、矢島道彦の三君",
+   "quote_ok": true
+  }
+ ],
+ "docid": "LAS_Takasaki",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/LAS_Takasaki.txt",
+ "meta": {
+  "title": "A Revised Edition of the LANKĀVATĀRA-SŪTRA: Kṣanika-Parivarta",
+  "author": "Takasaki, Jikido",
+  "year": 1981,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,169 @@
+{
+ "author": "Francesco Sferra",
+ "doc_kind": "text_edition",
+ "doc_year": 2006,
+ "people": [
+  {
+   "name": "Giuseppe Tucci",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Italian",
+   "field": null
+  },
+  {
+   "name": "Gherardo Gnoli",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Italian",
+   "field": null
+  },
+  {
+   "name": "Francesco Sferra",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Italian",
+   "field": "Indology"
+  },
+  {
+   "name": "Stefania Merzagora",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  },
+  {
+   "name": "Raniero Gnoli",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Italian",
+   "field": "Indology"
+  },
+  {
+   "name": "Giacomella Orofino",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Mario E. Carelli",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Vrajavallabha Dvivedī",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Mahendraratna Vajrācārya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Margherita Serena Saccone",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Harunaga Isaacson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Giuseppe Tucci",
+   "type": "founded",
+   "object": "Serie Orientale Roma",
+   "role": null,
+   "place": "Rome",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "SERIE ORIENTALE ROMA FONDATA DA GIUSEPPE TUCCI",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Gherardo Gnoli",
+   "type": "position_at",
+   "object": "Istituto Italiano per l'Africa e l'Oriente",
+   "role": "President",
+   "place": "Rome",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gherardo Gnoli, President of the Istituto Italiano per l'Africa e l'Oriente",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francesco Sferra",
+   "type": "collaborated_with",
+   "object": "Stefania Merzagora",
+   "role": "collaborator",
+   "place": null,
+   "year_start": null,
+   "year_end": 2006,
+   "explicit": true,
+   "evidence": "Some years ago, I asked Stefania Merzagora, a Sanskritist and Tibetologist, to edit the Tibetan translation of the Sekoddeśatīkā. She readily agreed and proved to be an enthusiastic, competent and painstaking collaborator.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Raniero Gnoli",
+   "type": "collaborated_with",
+   "object": "Giacomella Orofino",
+   "role": "collaborator",
+   "place": null,
+   "year_start": null,
+   "year_end": 1994,
+   "explicit": true,
+   "evidence": "More than ten years ago, Raniero Gnoli and Giacomella Orofino began to study the Sekoddeśa and the Sekoddeśatīkā using numerous Sanskrit manuscripts and Tibetan sources.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francesco Sferra",
+   "type": "student_of",
+   "object": "Raniero Gnoli",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "As for the Sekoddeśatīkā, he decided to entrust me with the task of continuing and completing the edition of the text he began. Thus, for the present work I was able to take advantage not only of the material that he placed at my disposal... but also of his valuable advice.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vrajavallabha Dvivedī",
+   "type": "collaborated_with",
+   "object": "Mahendraratna Vajrācārya",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": 1986,
+   "explicit": true,
+   "evidence": "A list of these quotations and an index were published in 1986 by Vrajavallabha Dvivedī and Mahendraratna Vajrācārya",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Sekoddesatika (Sferra ed)",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Sekoddesatika (Sferra ed).txt",
+ "meta": {
+  "title": "The Sekoddeśaṭīkā by Nāropā (Paramārthasaṃgraha)",
+  "author": "Nāropā",
+  "year": 2006,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,282 @@
+{
+ "people": [
+  {
+   "name": "小川隆",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "入矢義高",
+   "birth_year": null,
+   "death_year": 1998,
+   "nationality": "Japan",
+   "field": "Sinology"
+  },
+  {
+   "name": "衣川賢次",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Sinology"
+  },
+  {
+   "name": "西口芳男",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "丘山新",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "松原",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "土屋",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "池上",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "林",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "小早川",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "柳田聖山",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "溝口",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Sinology"
+  },
+  {
+   "name": "末木文美士",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "伊藤",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Sinology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "西口芳男",
+   "type": "student_of",
+   "object": "入矢義高",
+   "role": "teacher",
+   "place": "禅文化研究所",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "京都・禅文化研究所の『景徳伝灯録』, 大慧『正法眼蔵』等の研究班...前者は入矢の指導で続けられていたものを西口芳男と衣川が引き継いで守っているもの",
+   "quote_ok": true
+  },
+  {
+   "subject": "衣川賢次",
+   "type": "student_of",
+   "object": "入矢義高",
+   "role": "teacher",
+   "place": "禅文化研究所",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "京都・禅文化研究所の『景徳伝灯録』, 大慧『正法眼蔵』等の研究班...前者は入矢の指導で続けられていたものを西口芳男と衣川が引き継いで守っているもの",
+   "quote_ok": true
+  },
+  {
+   "subject": "丘山新",
+   "type": "position_at",
+   "object": "東大東洋文化研究所",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "東大東洋文化研究所で行われている『祖堂集』の研究会である。...後者は同所の丘山新が衣川を講師に招いて続けているものである。",
+   "quote_ok": true
+  },
+  {
+   "subject": "小川隆",
+   "type": "collaborated_with",
+   "object": "丘山新",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2000,
+   "explicit": true,
+   "evidence": "丘山・衣川・小川「『祖堂集』牛頭法融卒読証一『祖堂集』研究会報告之一」(東文研紀要139, 2000)",
+   "quote_ok": true
+  },
+  {
+   "subject": "小川隆",
+   "type": "collaborated_with",
+   "object": "衣川賢次",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2000,
+   "explicit": true,
+   "evidence": "丘山・衣川・小川「『祖堂集』牛頭法融卒読証一『祖堂集』研究会報告之一」(東文研紀要139, 2000)",
+   "quote_ok": true
+  },
+  {
+   "subject": "小川隆",
+   "type": "collaborated_with",
+   "object": "松原",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2000,
+   "explicit": true,
+   "evidence": "松原・衣川・小川「『祖堂集』鳥窠和尚章と白居易一『祖堂集』研究会報告之二」(同140, 2000)",
+   "quote_ok": true
+  },
+  {
+   "subject": "小川隆",
+   "type": "collaborated_with",
+   "object": "土屋",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2001,
+   "explicit": true,
+   "evidence": "土屋・衣川・小川「懶瓚和尚『染道歌』攷一『祖堂集』研究会報告之三」(同141, 2001)",
+   "quote_ok": true
+  },
+  {
+   "subject": "小川隆",
+   "type": "collaborated_with",
+   "object": "池上",
+   "role": null,
+   "place": null,
+   "year_start": 2001,
+   "year_end": 2005,
+   "explicit": true,
+   "evidence": "小川・池上・林・小早川他「金沢文庫本『正法眼蔵』の訳注研究(1)～(5)」(駒大禅研年報12～17, 2001～05,以下さらに継続中)",
+   "quote_ok": true
+  },
+  {
+   "subject": "小川隆",
+   "type": "collaborated_with",
+   "object": "林",
+   "role": null,
+   "place": null,
+   "year_start": 2001,
+   "year_end": 2005,
+   "explicit": true,
+   "evidence": "小川・池上・林・小早川他「金沢文庫本『正法眼蔵』の訳注研究(1)～(5)」(駒大禅研年報12～17, 2001～05,以下さらに継続中)",
+   "quote_ok": true
+  },
+  {
+   "subject": "小川隆",
+   "type": "collaborated_with",
+   "object": "小早川",
+   "role": null,
+   "place": null,
+   "year_start": 2001,
+   "year_end": 2005,
+   "explicit": true,
+   "evidence": "小川・池上・林・小早川他「金沢文庫本『正法眼蔵』の訳注研究(1)～(5)」(駒大禅研年報12～17, 2001～05,以下さらに継続中)",
+   "quote_ok": true
+  },
+  {
+   "subject": "入矢義高",
+   "type": "collaborated_with",
+   "object": "柳田聖山",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "20世紀後半,入矢と柳田の共同作業によって敦煌禅宗文献や『祖堂集』の解読が進み",
+   "quote_ok": true
+  },
+  {
+   "subject": "入矢義高",
+   "type": "collaborated_with",
+   "object": "溝口",
+   "role": null,
+   "place": null,
+   "year_start": 1992,
+   "year_end": 1996,
+   "explicit": true,
+   "evidence": "入矢・溝口・末木・伊藤『碧巌録』上・中・下(岩波文庫,1992～96)",
+   "quote_ok": true
+  },
+  {
+   "subject": "入矢義高",
+   "type": "collaborated_with",
+   "object": "末木文美士",
+   "role": null,
+   "place": null,
+   "year_start": 1992,
+   "year_end": 1996,
+   "explicit": true,
+   "evidence": "入矢・溝口・末木・伊藤『碧巌録』上・中・下(岩波文庫,1992～96)",
+   "quote_ok": true
+  },
+  {
+   "subject": "入矢義高",
+   "type": "collaborated_with",
+   "object": "伊藤",
+   "role": null,
+   "place": null,
+   "year_start": 1992,
+   "year_end": 1996,
+   "explicit": true,
+   "evidence": "入矢・溝口・末木・伊藤『碧巌録』上・中・下(岩波文庫,1992～96)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "ogawa_小川隆_200612",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/ogawa_小川隆_200612.txt",
+ "meta": {
+  "title": "一 中国の原典読解",
+  "author": "小川 隆",
+  "year": 2006,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

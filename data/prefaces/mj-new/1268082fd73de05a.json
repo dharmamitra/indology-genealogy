@@ -1,0 +1,138 @@
+{
+ "author": "中村瑞隆",
+ "doc_kind": "monograph",
+ "doc_year": 1967,
+ "people": [
+  {
+   "name": "中村瑞隆",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "山口益",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "月輪賢隆",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "金倉円照",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "松濤誠廉",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "上山大峻",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "光川豊芸",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "望月歓厚",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "坂本幸男",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "宇井伯寿",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "中村瑞隆",
+   "type": "student_of",
+   "object": "山口益",
+   "role": "teacher",
+   "place": "京都",
+   "year_start": 1944,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "山口益先生の蔵訳宝性論の講読を, 先生の御自宅で聴講できることになった。昭和19年暮れのことである。",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "中村瑞隆",
+   "type": "position_at",
+   "object": "立正大学",
+   "role": null,
+   "place": null,
+   "year_start": 1945,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "同20年4月, 立正大学に職を奉じ",
+   "quote_ok": true
+  },
+  {
+   "subject": "中村瑞隆",
+   "type": "student_of",
+   "object": "月輪賢隆",
+   "role": "teacher",
+   "place": "京都",
+   "year_start": 1947,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "同22年4月, 京都北野の小寺に住した。その頃, 如来蔵について, 月輪賢隆先生に御教示を頂いた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "中村瑞隆",
+   "type": "influenced_by",
+   "object": "宇井伯寿",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "索引作成にあたって宇井伯寿の「宝性論研究」を参考にしたことを附記して, 同博士の労作に謝意を表する次第である。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "RGV-Tib",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/RGV-Tib.txt",
+ "meta": {
+  "title": "蔵和対訳 究竟一乗宝性論研究",
+  "author": "中村瑞隆",
+  "year": 1967,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

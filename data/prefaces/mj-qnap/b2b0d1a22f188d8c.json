@@ -1,0 +1,83 @@
+{
+ "author": "Moriz Winternitz",
+ "doc_kind": "monograph",
+ "doc_year": 1920,
+ "people": [
+  {
+   "name": "Moriz Winternitz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Jyun Takakusu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Otto Stein",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Leopold von Schroeder",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jyun Takakusu",
+   "type": "position_at",
+   "object": "Tokio",
+   "role": "Professor",
+   "place": "Tokio",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ligen Schüler, Professor Jyun Takakusu in Tokio, für manche wertvolle Zusendungen und briefliche Mitteilungen meinen herzlichen Dank auszusprechen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Stein",
+   "type": "student_of",
+   "object": "Moriz Winternitz",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Meinem Schüler Dr. Otto Stein bin ich für die bei der Korrektur der zweiten Hälfte dieses Bandes und bei der Revision des Index geleistete Hilfe zu Dank verpflichtet.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Moriz Winternitz",
+   "type": "other",
+   "object": "Leopold von Schroeder",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Und auch mein lieber Freund Leopold von Schroeder, der es vor mehr als dreißig Jahren unternommen hat, eine Geschichte der indischen Litteratur und Kultur zu schreiben",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wiz9082__Winternitz_GeschichteDerIndischenLitteratur_2_1920",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Wiz9082__Winternitz_GeschichteDerIndischenLitteratur_2_1920.txt",
+ "meta": {
+  "title": "Geschichte der indischen Litteratur, Bd. 2: Die buddhistische Litteratur und die heiligen Texte der Jainas",
+  "author": "Winternitz, Moriz",
+  "year": 1920,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

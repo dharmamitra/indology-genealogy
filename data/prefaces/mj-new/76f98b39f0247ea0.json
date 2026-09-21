@@ -1,0 +1,133 @@
+{
+ "author": "松田和信",
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "松田和信",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "羅炤",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "China",
+   "field": null
+  },
+  {
+   "name": "加納和雄",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "罗鸿",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "China",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "桂紹隆",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "吹田隆徳",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "加納和雄",
+   "type": "position_at",
+   "object": "駒澤大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "すべて科研費研究分担者の加納和雄氏（駒澤大学）より情報提供を受けた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "松田和信",
+   "type": "collaborated_with",
+   "object": "加納和雄",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "なお筆者と加納氏による共訳として、本テキストに基づく和訳が『インド論理学研究』第11号に掲載される予定である。",
+   "quote_ok": true
+  },
+  {
+   "subject": "罗鸿",
+   "type": "position_at",
+   "object": "四川大学",
+   "role": "教授",
+   "place": "中国",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "中国・四川大学の罗鸿 (Luo Hong) 教授によって近々刊行される。",
+   "quote_ok": true
+  },
+  {
+   "subject": "桂紹隆",
+   "type": "position_at",
+   "object": "龍谷大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Luo Hong 教授のテキスト校訂を支援された龍谷大学の桂紹隆博士等による和訳も刊行されるものと思われる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "桂紹隆",
+   "type": "collaborated_with",
+   "object": "罗鸿",
+   "role": "editorial collaboration",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Luo Hong 教授のテキスト校訂を支援された龍谷大学の桂紹隆博士等による和訳も刊行されるものと思われる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "吹田隆徳",
+   "type": "studied_at",
+   "object": "佛教大学大学院",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "14番から18番の犍稚関連5文献については佛教大学大学院の吹田隆徳氏が解読研究中であり",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Matsuda-Ratnākaraśānti",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Matsuda-Ratnākaraśānti.txt",
+ "meta": {
+  "title": "ラトナーカラシャーンティの般若波羅蜜修習次第",
+  "author": "松田 和信",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

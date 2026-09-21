@@ -1,0 +1,69 @@
+{
+ "author": "坪田さより",
+ "doc_kind": "article",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "坪田さより",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indology"
+  },
+  {
+   "name": "井狩彌介",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "坪田さより",
+   "type": "studied_at",
+   "object": "大阪大学大学院文学研究科",
+   "role": "PhD student",
+   "place": null,
+   "year_start": 2020,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "大阪大学大学院文学研究科 博士後期課程 1 年 坪田さより",
+   "quote_ok": true
+  },
+  {
+   "subject": "坪田さより",
+   "type": "collaborated_with",
+   "object": "井狩彌介",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "発表者は井狩教授の協力の下 VādhŚS IX の新写本群に基づく校訂テクストと誤注を作成しつつ、他の祭式文献との比較を通してその特徴を探ってきた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "井狩彌介",
+   "type": "position_at",
+   "object": "京都大学",
+   "role": "名誉教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1990 年代に井狩彌介京大名誉教授によって極めて信頼性の高い新写本群が発見され",
+   "quote_ok": true
+  }
+ ],
+ "docid": "坪田さより",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/坪田さより.txt",
+ "meta": {
+  "title": "Vādhūla-Śrautasūtra 新写本に見るヴァージャペーヤ祭の特徴について――戦車競走を中心に",
+  "author": "坪田 さより",
+  "year": 2020,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,100 @@
+{
+ "author": "上村勝彦",
+ "doc_kind": "festschrift",
+ "doc_year": 2000,
+ "people": [
+  {
+   "name": "加藤純章",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "インド文化学"
+  },
+  {
+   "name": "平川彰",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "インド学仏教学"
+  },
+  {
+   "name": "アレックス・ウエイマン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "加藤純章",
+   "type": "student_of",
+   "object": "平川彰",
+   "role": "恩師",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "特に、加藤先生の恩師であられる、東京大学名誉教授、現国際仏教学大学院大学教授・理事長の平川彰先生から",
+   "quote_ok": true
+  },
+  {
+   "subject": "平川彰",
+   "type": "position_at",
+   "object": "東京大学",
+   "role": "名誉教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "東京大学名誉教授、現国際仏教学大学院大学教授・理事長の平川彰先生",
+   "quote_ok": true
+  },
+  {
+   "subject": "平川彰",
+   "type": "position_at",
+   "object": "国際仏教学大学院大学",
+   "role": "教授・理事長",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "現国際仏教学大学院大学教授・理事長の平川彰先生",
+   "quote_ok": true
+  },
+  {
+   "subject": "アレックス・ウエイマン",
+   "type": "position_at",
+   "object": "コロンビア大学",
+   "role": "名誉教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "コロンビア大学名誉教授アレックス・ウエイマン先生",
+   "quote_ok": true
+  },
+  {
+   "subject": "加藤純章",
+   "type": "position_at",
+   "object": "名古屋大学大学院文学研究科",
+   "role": "主任教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "加藤先生は、ご健勝にて、名古屋大学大学院文学研究科インド文化学研究室主任教授としての責務を遂行されております。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Kamimura_上村勝彦_ラージャシェーカラとriti_2000",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Kamimura_上村勝彦_ラージャシェーカラとriti_2000.txt",
+ "meta": {
+  "title": "ラージャシェーカラと riti",
+  "author": "上村勝彦",
+  "year": 2000,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

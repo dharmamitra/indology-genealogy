@@ -1,0 +1,45 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 1979,
+ "people": [
+  {
+   "name": "坂本幸男",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "金倉圓照",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "金倉圓照",
+   "type": "student_of",
+   "object": "坂本幸男",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "昭和五十四年仲春\n後学 金倉圓照 しるす",
+   "quote_ok": true
+  }
+ ],
+ "docid": "阿毘達磨の研究. 坂本幸男論文集第一",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/阿毘達磨の研究. 坂本幸男論文集第一.txt",
+ "meta": {
+  "title": "阿毘達磨の研究",
+  "author": "坂本, 幸男",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

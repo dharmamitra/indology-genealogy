@@ -1,0 +1,128 @@
+{
+ "author": "J. Muir",
+ "doc_kind": "monograph",
+ "doc_year": 1868,
+ "people": [
+  {
+   "name": "J. Muir",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Horace Hayman Wilson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Fitzedward Hall",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Bernhard Von Cotta",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Geology"
+  },
+  {
+   "name": "Girolamo Volpe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Italian",
+   "field": null
+  },
+  {
+   "name": "Thomas Francis Wade",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Sinology"
+  },
+  {
+   "name": "F. A. de Varnhagen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Brazilian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Fitzedward Hall",
+   "type": "collaborated_with",
+   "object": "Horace Hayman Wilson",
+   "role": "editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "By the late Horace Hayman Wilson, M.A., F.R.S., thoroughly revised and edited, with Notes, by Dr. Fitzedward Hall.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bernhard Von Cotta",
+   "type": "position_at",
+   "object": "Freiburg",
+   "role": "Professor of Geology",
+   "place": "Freiburg",
+   "year_start": null,
+   "year_end": 1865,
+   "explicit": true,
+   "evidence": "By Bernhard Von Cotta, Professor of Geology at Freiburg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Girolamo Volpe",
+   "type": "position_at",
+   "object": "Eton College",
+   "role": "Italian Master",
+   "place": null,
+   "year_start": null,
+   "year_end": 1863,
+   "explicit": true,
+   "evidence": "By Girolamo Volpe, Italian Master at Eton College.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Francis Wade",
+   "type": "position_at",
+   "object": "Her Britannic Majesty's Legation at Peking",
+   "role": "Secretary",
+   "place": "Peking",
+   "year_start": null,
+   "year_end": 1867,
+   "explicit": true,
+   "evidence": "By Thomas Francis Wade, C.B., Secretary to Her Britannic Majesty's Legation at Peking.",
+   "quote_ok": true
+  },
+  {
+   "subject": "F. A. de Varnhagen",
+   "type": "position_at",
+   "object": "Ministre du Brésil au Pérou, Chili et Ecuador",
+   "role": "Ministre",
+   "place": null,
+   "year_start": null,
+   "year_end": 1865,
+   "explicit": true,
+   "evidence": "Par F. A. de Varnhagen, Ministre du Brésil au Pérou, Chili et Ecuador, etc.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "originalsanskrit03muir",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/originalsanskrit03muir.txt",
+ "meta": {
+  "title": "M89o",
+  "author": "",
+  "year": 1868,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

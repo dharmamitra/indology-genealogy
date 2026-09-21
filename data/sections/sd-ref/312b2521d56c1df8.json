@@ -1,0 +1,40 @@
+{
+ "author": null,
+ "doc_kind": "dissertation",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Pha bong kha pa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Rong tha Dam chos rgya mtsho",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Pha bong kha pa",
+   "type": "student_of",
+   "object": "Rong tha Dam chos rgya mtsho",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": 1903,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The famous Pha bong kha pa accompanied him in 1903 to study astrology (rtsi) with Rong tha Dam chos rgya mtsho.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Dgongs gcig",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Dgongs gcig.txt#0",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

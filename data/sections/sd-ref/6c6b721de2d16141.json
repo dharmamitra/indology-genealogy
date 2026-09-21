@@ -1,0 +1,102 @@
+{
+ "author": "John Vincent Bellezza",
+ "doc_kind": "monograph",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "sLob dpon bsTan 'dzin rnam dag",
+   "birth_year": 1926,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Bon Studies"
+  },
+  {
+   "name": "sGangs ru tshul khrims rgyal mtshan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": null
+  },
+  {
+   "name": "David Snellgrove",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Tibetology"
+  },
+  {
+   "name": "Shes rab bstan 'dzin rgyal mtshan",
+   "birth_year": 1915,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "sLob dpon bsTan 'dzin rnam dag",
+   "type": "student_of",
+   "object": "sGangs ru tshul khrims rgyal mtshan",
+   "role": "master",
+   "place": null,
+   "year_start": 1945,
+   "year_end": 1950,
+   "explicit": true,
+   "evidence": "From 1945 to 1950, he lived as a virtual hermit under the guidance of his master sGangs ru tshul khrims rgyal mtshan.",
+   "quote_ok": true
+  },
+  {
+   "subject": "sLob dpon bsTan 'dzin rnam dag",
+   "type": "studied_at",
+   "object": "sMan ri gling",
+   "role": "lha rams pa degree",
+   "place": null,
+   "year_start": 1950,
+   "year_end": 1953,
+   "explicit": true,
+   "evidence": "In 1950, he went to sMan ri gling to study and in 1953 received his lha rams pa degree.",
+   "quote_ok": true
+  },
+  {
+   "subject": "sLob dpon bsTan 'dzin rnam dag",
+   "type": "collaborated_with",
+   "object": "David Snellgrove",
+   "role": null,
+   "place": "United Kingdom",
+   "year_start": 1961,
+   "year_end": 1964,
+   "explicit": true,
+   "evidence": "From 1961 until 1964, he lived and worked in the United Kingdom with the Tibetologist David Snellgrove.",
+   "quote_ok": true
+  },
+  {
+   "subject": "sLob dpon bsTan 'dzin rnam dag",
+   "type": "founded",
+   "object": "Khri brtan nor bu rtse",
+   "role": null,
+   "place": "Kathmandu valley",
+   "year_start": 1986,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1986 he established his own dgon pa in the Kathmandu valley, Khri brtan nor bu rtse.",
+   "quote_ok": true
+  },
+  {
+   "subject": "sLob dpon bsTan 'dzin rnam dag",
+   "type": "student_of",
+   "object": "Shes rab bstan 'dzin rgyal mtshan",
+   "role": "traditional teacher",
+   "place": "Phug pa dgon",
+   "year_start": 1945,
+   "year_end": 1945,
+   "explicit": true,
+   "evidence": "It was at the time of the bDud rtsi 'bum sgrub that sLob dpon bstan 'dzin rnam dag received teachings at the monastery from Shes rab bstan 'dzin rgyal mtshan.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Bellezza_Divine Dyads",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Bellezza_Divine Dyads.txt#0",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

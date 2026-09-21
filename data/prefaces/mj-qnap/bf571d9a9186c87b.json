@@ -1,0 +1,114 @@
+{
+ "author": "F Max Müller",
+ "doc_kind": "text_edition",
+ "doc_year": 1885,
+ "people": [
+  {
+   "name": "F Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Kenjiu Kasawara",
+   "birth_year": null,
+   "death_year": 1883,
+   "nationality": "Japanese",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Bunyiu Nanjio",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "H. Wenzel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rost",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Kenjiu Kasawara",
+   "type": "student_of",
+   "object": "F Max Müller",
+   "role": "teacher",
+   "place": "Oxford",
+   "year_start": 1879,
+   "year_end": 1882,
+   "explicit": true,
+   "evidence": "Kenjiu Kasawara, who arrived in England in 1876, became my pupil in Sanskrit from 1879-82",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kenjiu Kasawara",
+   "type": "studied_at",
+   "object": "Oxford",
+   "role": null,
+   "place": "Oxford",
+   "year_start": 1879,
+   "year_end": 1883,
+   "explicit": true,
+   "evidence": "Kasawara’s life at Oxford was very monotonous... Oxford possessed a purer and nobler soul among her students than this poor Buddhist priest.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bunyiu Nanjio",
+   "type": "collaborated_with",
+   "object": "Kenjiu Kasawara",
+   "role": "fellow-worker",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "seeing no one and talking to no one but to me and his fellow-worker, Bunyiu Nanjio.",
+   "quote_ok": true
+  },
+  {
+   "subject": "F Max Müller",
+   "type": "collaborated_with",
+   "object": "H. Wenzel",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "I have gratefully to acknowledge the assistance which I received from Dr. H. Wenzel in this sometimes very troublesome work.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rost",
+   "type": "position_at",
+   "object": "India Office",
+   "role": "librarian",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "through the kindness of Dr. Rost, the learned librarian of the India Office",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Dharma-Sagraha_The_Dharma_Collection",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Dharma-Sagraha_The_Dharma_Collection.txt",
+ "meta": {
+  "title": "Dharma-Saṃgrahaḥ: The Dharma Collection",
+  "author": "Kasawara, Kenjiu",
+  "year": 1885,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

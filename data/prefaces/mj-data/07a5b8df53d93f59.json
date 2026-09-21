@@ -1,0 +1,97 @@
+{
+ "author": "山口益",
+ "doc_kind": "text_edition",
+ "doc_year": 1935,
+ "people": [
+  {
+   "name": "山口益",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Sylvain Lévi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Indology"
+  },
+  {
+   "name": "池田澄達",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "長尾雅人",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "野澤靜證",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "寺本婉雅",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Tibetan studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "山口益",
+   "type": "student_of",
+   "object": "Sylvain Lévi",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "le trépas de mon cher professeur Sylvain Lévi. [...] auprès du tombeau de mon défunt maître! Susumu Yamaguchi / 緒言を草するの日 恩師シルヴン・レギ敎授逝去の悲報傳へらる",
+   "quote_ok": false
+  },
+  {
+   "subject": "池田澄達",
+   "type": "position_at",
+   "object": "東北帝國大學圖書館",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "池田澄達氏から、同氏が東北帝國大學圖書館に於て苦心作製せられた同館所蔵の本釋疏西藏譯デリゲ版による寫真を惠與せられたので",
+   "quote_ok": true
+  },
+  {
+   "subject": "寺本婉雅",
+   "type": "position_at",
+   "object": "大谷大學圖書館",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "大谷大學圖書館所藏寺本婉雅教授招來本のそれを示す。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Madhyantavibhagatika_trs_Yamaguchi",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Madhyantavibhagatika_trs_Yamaguchi.txt",
+ "meta": {
+  "title": "別論釋疏 瑜伽唯識佛敎",
+  "author": "山口, 益敬",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

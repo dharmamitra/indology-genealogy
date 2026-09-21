@@ -1,0 +1,133 @@
+{
+ "author": "Paul Fuller",
+ "doc_kind": "monograph",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Paul Fuller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Paul Dundas",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rupert Gethin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "David Webster",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sue Hamilton",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Paul Williams",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Paul Fuller",
+   "type": "student_of",
+   "object": "Paul Dundas",
+   "role": "teacher",
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I was very lucky to study with Paul Dundas in Edinburgh.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Fuller",
+   "type": "student_of",
+   "object": "Rupert Gethin",
+   "role": "doctoral supervisor",
+   "place": "Bristol",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I should continue studying, which I did, in Bristol. There, Rupert Gethin was an understanding supervisor.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Fuller",
+   "type": "studied_at",
+   "object": "Bristol",
+   "role": "PhD",
+   "place": "Bristol",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Also in Bristol, David Webster and I finished our doctorates at the same time",
+   "quote_ok": true
+  },
+  {
+   "subject": "David Webster",
+   "type": "studied_at",
+   "object": "Bristol",
+   "role": "PhD",
+   "place": "Bristol",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Also in Bristol, David Webster and I finished our doctorates at the same time",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Fuller",
+   "type": "student_of",
+   "object": "Sue Hamilton",
+   "role": "committee member",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The examiners of the original PhD thesis, of which this book is a revised version, were Sue Hamilton and Paul Williams.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Fuller",
+   "type": "student_of",
+   "object": "Paul Williams",
+   "role": "committee member",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The examiners of the original PhD thesis, of which this book is a revised version, were Sue Hamilton and Paul Williams.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "The notion of Ditthi",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/The notion of Ditthi.txt",
+ "meta": {
+  "title": "The Notion of Diṭṭhi in Theravāda Buddhism: The point of view",
+  "author": "Fuller, Paul",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

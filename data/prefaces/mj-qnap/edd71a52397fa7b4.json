@@ -1,0 +1,154 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 1990,
+ "people": [
+  {
+   "name": "Rudolph Roth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Otto Böhtlingk",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "W. D. Whitney",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": null
+  },
+  {
+   "name": "Albrecht Weber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "Adalbert Kuhn",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Theodor Aufrecht",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Adolf Friedrich Stenzler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Anton Schiefner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Edward Röer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Otto Böhtlingk",
+   "type": "collaborated_with",
+   "object": "Rudolph Roth",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Unsere Arbeit ist in der Weise getheilt worden, dass der Eine (ROTH) die Literatur des VEDA und der vedischen Hülfsbücher, sowie den ÂJURVEDA des SUÇRUTA bearbeitet [...] vom Andern besorgt wird.",
+   "quote_ok": true
+  },
+  {
+   "subject": "W. D. Whitney",
+   "type": "position_at",
+   "object": "New Haven, Connecticut",
+   "role": "Professor",
+   "place": "New Haven, Connecticut",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Eine werthvolle Unterstützung empfangen wir durch ein ständiges und genaues Wörterverzeichniss zum ATHARVAN, welches uns Professor W. D. WHITNEY in New Haven, Connecticut, liefert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albrecht Weber",
+   "type": "position_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "dass Dr. ALBRECHT WEBER in Berlin den reichen Stoff des ÇATAPATHABRÂHMAṆA, der SÛTRA des KÂTJÂJANA und in der Folge auch der des ÇAṄKHÂJANA und PÂRASKARA uns zuführte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Theodor Aufrecht",
+   "type": "position_at",
+   "object": "Oxford",
+   "role": null,
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. AUFRECHT hat uns vor seiner Uebersiedelung nach Oxford bis ṚV excl. auf dem VEDA-Gebiete unterstützt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anton Schiefner",
+   "type": "position_at",
+   "object": "Kaiserliche Akademie der Wissenschaften",
+   "role": "Akademiker",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Akademiker SCHIEFNER verdanken wir mannigfache Mittheilungen aus der buddhistischen Literatur",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Röer",
+   "type": "position_at",
+   "object": "Calcutta",
+   "role": null,
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "durch die zuvorkommende Bemühung des Herrn Dr. RÖER in Calcutta",
+   "quote_ok": true
+  }
+ ],
+ "docid": "PW",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/PW.txt",
+ "meta": {
+  "title": "Sanskrit-Wörterbuch",
+  "author": "Böhtlingk, Otto; Roth, Rudolph",
+  "year": 1990,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

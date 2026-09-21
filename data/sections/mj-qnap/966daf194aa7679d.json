@@ -1,0 +1,102 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 1856,
+ "people": [
+  {
+   "name": "Charles Elliott",
+   "birth_year": 1776,
+   "death_year": 1856,
+   "nationality": "British",
+   "field": "Oriental scholar"
+  },
+  {
+   "name": "James Alexander",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Charles Metcalfe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Henry Pottinger",
+   "birth_year": 1790,
+   "death_year": 1856,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Henry Ellis",
+   "birth_year": 1788,
+   "death_year": null,
+   "nationality": "British",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Charles Elliott",
+   "type": "position_at",
+   "object": "Royal Asiatic Society",
+   "role": "Treasurer",
+   "place": "London",
+   "year_start": null,
+   "year_end": 1856,
+   "explicit": true,
+   "evidence": "held the office of Treasurer since the death of Mr. James Alexander, who was appointed to that office at the first institution of the Society.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Alexander",
+   "type": "position_at",
+   "object": "Royal Asiatic Society",
+   "role": "Treasurer",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mr. James Alexander, who was appointed to that office at the first institution of the Society.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Elliott",
+   "type": "succeeded",
+   "object": "Charles Metcalfe",
+   "role": "agent to the Governor-General at the Court of the Great Moghul",
+   "place": "Delhi",
+   "year_start": 1822,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he was sent to Delhi as senior member of the Board of Revenue of the North Western Provinces, and agent to the Governor-General at the Court of the Great Moghul... These qualities rendered him a fit and able successor to Sir Charles, afterwards Lord, Metcalfe.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Ellis",
+   "type": "studied_at",
+   "object": "Harrow",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "SIR HENRY ELLIS was born about the year 1788; and was educated at Harrow.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "JRASGBI16a",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/JRASGBI16a.txt#0",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

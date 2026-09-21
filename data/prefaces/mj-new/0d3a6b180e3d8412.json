@@ -1,0 +1,109 @@
+{
+ "author": "上山大峻",
+ "doc_kind": "article",
+ "doc_year": 1981,
+ "people": [
+  {
+   "name": "上山大峻",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "芳村修基",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "今枝由郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Tibetology"
+  },
+  {
+   "name": "赤松孝章",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "白井博之",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "三谷真澄",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "上山大峻",
+   "type": "position_at",
+   "object": "龍谷大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "(うえやま だいしゅん・本学教授) / 龍谷大學佛敎學會",
+   "quote_ok": false
+  },
+  {
+   "subject": "赤松孝章",
+   "type": "studied_at",
+   "object": "龍谷大学",
+   "role": "大学院生",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "赤松孝章, 白井博之両君 (本学大学院生)",
+   "quote_ok": true
+  },
+  {
+   "subject": "白井博之",
+   "type": "studied_at",
+   "object": "龍谷大学",
+   "role": "大学院生",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "赤松孝章, 白井博之両君 (本学大学院生)",
+   "quote_ok": true
+  },
+  {
+   "subject": "三谷真澄",
+   "type": "position_at",
+   "object": "龍谷大学",
+   "role": "講師",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "本学講師・三谷真澄氏",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Ueyama_lta_ba'i_khyad_par",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Ueyama_lta_ba'i_khyad_par.txt",
+ "meta": {
+  "title": "エセイデの仏教綱要書",
+  "author": "上山, 大峻",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

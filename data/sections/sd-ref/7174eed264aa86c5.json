@@ -1,0 +1,64 @@
+{
+ "people": [
+  {
+   "name": "Helga Uebach",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetan Studies"
+  },
+  {
+   "name": "Jampa L. Panglung",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetan Studies"
+  },
+  {
+   "name": "P. Schwieger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetan Studies"
+  },
+  {
+   "name": "Loden Sherap Dagyab",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetan Studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Helga Uebach",
+   "type": "collaborated_with",
+   "object": "Jampa L. Panglung",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1985,
+   "explicit": true,
+   "evidence": "Proceedings of the 4th Seminar of the International Association for Tibetan Studies edited by Helga Uebach and Jampa L. Panglung",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "P. Schwieger",
+   "type": "collaborated_with",
+   "object": "Loden Sherap Dagyab",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mr. Dagyab and I will publish the biographies in facsimile... They will be published soon in L. S. Dagyab and P. Schweiger, Die Biographie des ersten Brag-g.yab sKyabs-mgon Grags-pa rgya-mcho",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_PIATS-04-Munich-1985",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_PIATS-04-Munich-1985.txt#0",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

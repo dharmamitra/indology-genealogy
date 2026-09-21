@@ -1,0 +1,71 @@
+{
+ "author": "Kevin A. Vose",
+ "doc_kind": "monograph",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Kevin A. Vose",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "Jeffrey Hopkins",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "Ken Rinpoche Ngawang Jinpa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Kevin A. Vose",
+   "type": "student_of",
+   "object": "Jeffrey Hopkins",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Reading Tibetan Madhyamaka with Jeffrey, one senses that there is no end to his erudition... I extend my mentor my deepest gratitude.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ken Rinpoche Ngawang Jinpa",
+   "type": "studied_at",
+   "object": "Loseling College of Drepung Monastery",
+   "role": null,
+   "place": "Lhasa, Tibet",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ken Rinpoche Ngawang Jinpa, among the last generation to complete his training at Loseling College of Drepung Monastery in Lhasa, Tibet.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kevin A. Vose",
+   "type": "student_of",
+   "object": "Ken Rinpoche Ngawang Jinpa",
+   "role": "traditional teacher",
+   "place": "Darjeeling, India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "My readings of the Madhyamaka texts of Jayānanda and Chapa Chokyi enhanced through close consultation in Darjeeling, India, with Ken Rinpoche Ngawang Jinpa",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Vose_Resurrecting Candrakirti",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Vose_Resurrecting Candrakirti.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

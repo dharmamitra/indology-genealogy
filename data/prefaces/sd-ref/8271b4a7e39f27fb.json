@@ -1,0 +1,71 @@
+{
+ "author": "James H. Austin",
+ "doc_kind": "monograph",
+ "doc_year": 2006,
+ "people": [
+  {
+   "name": "James H. Austin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "neurology"
+  },
+  {
+   "name": "Nick Gier",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  },
+  {
+   "name": "Kobori-Roshi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Zen Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James H. Austin",
+   "type": "position_at",
+   "object": "University of Idaho",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Fortunately, this led to an invitation to teach an entire course entitled \"Zen and the Brain,\" and to my becoming formally affiliated with the University of Idaho.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nick Gier",
+   "type": "position_at",
+   "object": "University of Idaho",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Professor Nick Gier kindly invited me to give several lectures in his course on Buddhism. Fortunately, this led to an invitation to teach an entire course... formally affiliated with the University of Idaho.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James H. Austin",
+   "type": "student_of",
+   "object": "Kobori-Roshi",
+   "role": "traditional teacher",
+   "place": "Kyoto",
+   "year_start": 1974,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "When I began Zen training in Kyoto 7 years later... There was one final crucial factor: the opportunity to learn from Kobori-Roshi. He was a remarkable Zen master.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Zen-Brain Reflections_James H. Austin, 2006",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Zen-Brain Reflections_James H. Austin, 2006.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

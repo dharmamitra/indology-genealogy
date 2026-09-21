@@ -1,0 +1,79 @@
+{
+ "author": "Maurice Bloomfield",
+ "doc_kind": "text_edition",
+ "doc_year": 1890,
+ "people": [
+  {
+   "name": "Maurice Bloomfield"
+  },
+  {
+   "name": "William Dwight Whitney"
+  },
+  {
+   "name": "Johannes Klatt"
+  },
+  {
+   "name": "Otto von Böhtlingk"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Maurice Bloomfield",
+   "type": "position_at",
+   "object": "Johns Hopkins University",
+   "role": "Professor",
+   "place": "Baltimore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "PROFESSOR IN THE JOHNS HOPKINS UNIVERSITY, BALTIMORE, MD. ... MAURICE BLOOMFIELD.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Maurice Bloomfield",
+   "type": "student_of",
+   "object": "William Dwight Whitney",
+   "role": "pupil",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "TO WILLIAM DWIGHT WHITNEY. ... THIS WORK IS DEDICATED BY HIS FAITHFUL PUPIL AND FRIEND.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Klatt",
+   "type": "position_at",
+   "object": "Royal Library at Berlin",
+   "role": "custos of the Indian department",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Johannes Klatt, the custos of the Indian department of the Royal Library at Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto von Böhtlingk",
+   "type": "position_at",
+   "object": "Imperial Academy of Sciences at St. Petersburg",
+   "role": "Member",
+   "place": "St. Petersburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Otto von Böhtlingk, Member of the Imperial Academy of Sciences at St. Petersburg",
+   "quote_ok": true
+  }
+ ],
+ "docid": "JAOS_014_1890=journalamerican45socigoog",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/JAOS_014_1890=journalamerican45socigoog.txt",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

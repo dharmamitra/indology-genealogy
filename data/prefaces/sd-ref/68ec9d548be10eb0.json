@@ -1,0 +1,37 @@
+{
+ "people": [
+  {
+   "name": "Henrik Havlat",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  },
+  {
+   "name": "Gendün Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Henrik Havlat",
+   "type": "student_of",
+   "object": "Gendün Rinpoche",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "When I was practicing meditation in retreat under Gendün Rinpoche's guidance, he requested me to translate The Ocean of True Meaning from the Tibetan into German.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Mahamudra. The Ocean of True Meaning_Karmapa Wangchug Dorje",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Mahamudra. The Ocean of True Meaning_Karmapa Wangchug Dorje.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

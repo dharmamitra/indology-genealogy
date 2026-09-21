@@ -1,0 +1,73 @@
+{
+ "people": [
+  {
+   "name": "Rory Mackenzie",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Peter Harvey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ian Harris",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Rory Mackenzie",
+   "type": "student_of",
+   "object": "Peter Harvey",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Research students have supervisors and I would like to thank my supervisor, Professor Peter Harvey, for his help during my years as a part-time research student.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rory Mackenzie",
+   "type": "student_of",
+   "object": "Ian Harris",
+   "role": "committee member",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A thesis has examiners and I appreciate the constructive comments made by my external examiner, Professor Ian Harris.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rory Mackenzie",
+   "type": "position_at",
+   "object": "International Christian College, Glasgow",
+   "role": "teacher",
+   "place": "Glasgow",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "There are several people I would like to thank at the institute where I teach, the International Christian College, Glasgow.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "New buddhist movements Thailand",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/New buddhist movements Thailand.txt",
+ "meta": {
+  "title": "New Buddhist Movements in Thailand: Towards an understanding of Wat Phra Dhammakāya and Santi Asoke",
+  "author": "Mackenzie, Rory",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,58 @@
+{
+ "author": "Leopold von Schroeder",
+ "doc_kind": "text_edition",
+ "doc_year": 1909,
+ "people": [
+  {
+   "name": "Leopold von Schroeder",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "W. Caland",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Leopold von Schroeder",
+   "type": "position_at",
+   "object": "K. K. Universität zu Wien",
+   "role": "Professor",
+   "place": "Wien",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "LEOPOLD VON SCHROEDER PROFESSOR AN DER K. K. UNIVERSITÄT ZU WIEN",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "W. Caland",
+   "type": "position_at",
+   "object": "Utrecht",
+   "role": "Professor Dr.",
+   "place": "Utrecht",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Herr Professor Dr. W. CALAND in Utrecht",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Kathakasamhita02_Schroeder_Leipzig_1909",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Kathakasamhita02_Schroeder_Leipzig_1909.txt",
+ "meta": {
+  "title": "Kâthakam: Die Samhitâ der Katha-Çâkhâ",
+  "author": "von Schroeder, Leopold",
+  "year": 1909,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

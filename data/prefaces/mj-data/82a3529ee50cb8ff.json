@@ -1,0 +1,57 @@
+{
+ "author": "榎本正明",
+ "doc_kind": "article",
+ "doc_year": 2001,
+ "people": [
+  {
+   "name": "榎本正明",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "阿部慈園",
+   "birth_year": null,
+   "death_year": 2001,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "阿部慈園",
+   "type": "position_at",
+   "object": "明治大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": 2001,
+   "explicit": true,
+   "evidence": "本稿校正時に、明治大学の阿部慈園教授が平成13年1月24日に逝去されたことを知った。",
+   "quote_ok": true
+  },
+  {
+   "subject": "榎本正明",
+   "type": "student_of",
+   "object": "阿部慈園",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "阿部教授には、以前より dhuta に関する多くのご教示を頂き、また本稿をまとめる際にも、いろいろとご指導を賜った。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Enomoto_榎本正明_2001@dhutaの成立について",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Enomoto_榎本正明_2001@dhutaの成立について.txt",
+ "meta": {
+  "title": "dhuta の成立について",
+  "author": "榎本, 正明",
+  "year": 2001,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

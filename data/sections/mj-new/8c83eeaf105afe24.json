@@ -1,0 +1,99 @@
+{
+ "author": "辻直四郎",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "辻直四郎",
+   "birth_year": 1900,
+   "death_year": 1979,
+   "nationality": "Japanese",
+   "field": "Indology"
+  },
+  {
+   "name": "田中於菟彌",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "岩本裕",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "原実",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "田中於菟彌",
+   "type": "collaborated_with",
+   "object": "岩本裕",
+   "role": "co-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "編集 田中於菟彌 岩本裕 原実",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "田中於菟彌",
+   "type": "collaborated_with",
+   "object": "原実",
+   "role": "co-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "編集 田中於菟彌 岩本裕 原実",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "岩本裕",
+   "type": "collaborated_with",
+   "object": "原実",
+   "role": "co-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "編集 田中於菟彌 岩本裕 原実",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "辻直四郎",
+   "type": "position_at",
+   "object": "東京大学教養学部",
+   "role": null,
+   "place": null,
+   "year_start": 1955,
+   "year_end": 1955,
+   "explicit": false,
+   "evidence": "東京大学教養学部の職員懇親会で 挨拶する著者（昭和30年）",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "辻直四郎著作集(3)",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/辻直四郎著作集(3).txt#0",
+ "meta": {
+  "title": "辻直四郎著作集 第三巻 文学",
+  "author": "辻, 直四郎",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

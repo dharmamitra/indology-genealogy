@@ -1,0 +1,85 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1950,
+ "people": [
+  {
+   "name": "R. D. Karmarkar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "R. N. Dandekar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "A. P. Śāstri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Cecil Bendall",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "R. D. Karmarkar",
+   "type": "collaborated_with",
+   "object": "R. N. Dandekar",
+   "role": "co-editors",
+   "place": "Poona",
+   "year_start": 1949,
+   "year_end": 1950,
+   "explicit": true,
+   "evidence": "Annals of the Bhandarkar Oriental Research Institute Volume XXX 1949 EDITED BY R. D. Karmarkar, M.A. R. N. Dandekar, M A., Ph.D.",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "R. N. Dandekar",
+   "type": "position_at",
+   "object": "Bhandarkar Oriental Research Institute",
+   "role": null,
+   "place": "Poona",
+   "year_start": 1950,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Printed and published by Dr. R. N. Dandekar, M.A., Ph.D., at the Bhandarkar Institute Press, Bhandarkar Oriental Research Institute, Poona",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "A. P. Śāstri",
+   "type": "collaborated_with",
+   "object": "Cecil Bendall",
+   "role": "co-authors",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": 1905,
+   "explicit": true,
+   "evidence": "Catalogue of Nepal Manuscripts by A. P. Śāstri and Cecil Bendall ( Calcutta, 1905 )",
+   "quote_ok": true
+  }
+ ],
+ "docid": "ABORI 30",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/ABORI 30.txt#0",
+ "meta": {
+  "title": "Annals of the Bhandarkar Oriental Research Institute",
+  "author": "Karmarkar, R. D.; Dandekar, R. N.",
+  "year": 1949,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

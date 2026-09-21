@@ -1,0 +1,59 @@
+{
+ "author": "眞田有美",
+ "doc_kind": "other",
+ "doc_year": 1961,
+ "people": [
+  {
+   "name": "眞田有美",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "山口益",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "鈴木大拙",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "F. W. Thomas",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "眞田有美",
+   "type": "influenced_by",
+   "object": "山口益",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "これは大谷大學所藏 鈴木大拙博士將來の寫眞による。これについて特別の配慮を忝うした山口益博士に深甚の謝意を表す次第である。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Sanada_1961 (Ryukoku Skt MS cat)",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Sanada_1961 (Ryukoku Skt MS cat).txt",
+ "meta": {
+  "title": "大谷探檢隊將來 梵文佛典資料",
+  "author": "眞田 有美",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

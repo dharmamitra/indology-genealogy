@@ -1,0 +1,173 @@
+{
+ "people": [
+  {
+   "name": "長尾雅人",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "山口益",
+   "birth_year": 1895,
+   "death_year": 1976,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "服部正明",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "高崎直道",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "吉川幸次郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Sinology"
+  },
+  {
+   "name": "原眞乘",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indology"
+  },
+  {
+   "name": "野澤靜證",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "長尾雅人",
+   "type": "studied_at",
+   "object": "京都大學",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1931,
+   "explicit": true,
+   "evidence": "先生は昭和六年に京都大學文學部を佛敎學專攻でご卒業になりましたが",
+   "quote_ok": true
+  },
+  {
+   "subject": "服部正明",
+   "type": "student_of",
+   "object": "長尾雅人",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "私は役員でもあり、また長尾先生にお教えいただいた者のうちの一番古い世代に屬する一人でもございますので",
+   "quote_ok": true
+  },
+  {
+   "subject": "長尾雅人",
+   "type": "student_of",
+   "object": "原眞乘",
+   "role": "teacher",
+   "place": "京都大學",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "梵文にはその當時から原眞乘先生がおられまして、原先生から梵語を習うことができました。それが二回生のころだったと思います。",
+   "quote_ok": true
+  },
+  {
+   "subject": "山口益",
+   "type": "position_at",
+   "object": "京都大學",
+   "role": "講師",
+   "place": null,
+   "year_start": 1935,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "印度哲學史の講師になられたのは昭和十年からだと思います。",
+   "quote_ok": true
+  },
+  {
+   "subject": "長尾雅人",
+   "type": "collaborated_with",
+   "object": "野澤靜證",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "その後、それを一冊の書物にするという仕事は野澤靜證君と一緒に随分お手傳いをしました。",
+   "quote_ok": true
+  },
+  {
+   "subject": "山口益",
+   "type": "studied_at",
+   "object": "京都大學",
+   "role": "博士",
+   "place": null,
+   "year_start": null,
+   "year_end": 1941,
+   "explicit": true,
+   "evidence": "服部 山口先生はたしか學位は京大で取られたわけですね。長尾 そうです。昭和十六年の『佛敎における無と有との對論』が學位論文です。",
+   "quote_ok": false
+  },
+  {
+   "subject": "長尾雅人",
+   "type": "position_at",
+   "object": "東方文化研究所",
+   "role": null,
+   "place": null,
+   "year_start": 1937,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "東方文化研究所に昭和十二年に入るまで六年ほどはまるっきり遊んでいるようなものです。",
+   "quote_ok": false
+  },
+  {
+   "subject": "高崎直道",
+   "type": "position_at",
+   "object": "東方學會",
+   "role": "理事長",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "初めに學會を代表して高崎理事長からごあいさつをお願いします。",
+   "quote_ok": true
+  },
+  {
+   "subject": "吉川幸次郎",
+   "type": "position_at",
+   "object": "東方學會",
+   "role": "理事長",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "團長として東方學會理事長である吉川幸次郎先生がまず委嘱され",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Nagao_長尾雅人集I",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Nagao_長尾雅人集I.txt#1",
+ "meta": {
+  "title": "長尾雅人先生 論文集",
+  "author": "長尾, 雅人",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

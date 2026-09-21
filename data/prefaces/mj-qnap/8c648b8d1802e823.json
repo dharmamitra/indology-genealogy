@@ -1,0 +1,83 @@
+{
+ "author": "F. Max Müller",
+ "doc_kind": "monograph",
+ "doc_year": 1899,
+ "people": [
+  {
+   "name": "F. Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "comparative linguistics"
+  },
+  {
+   "name": "A. L. Mayhew",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Joseph Wright",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Heyse",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "F. Max Müller",
+   "type": "collaborated_with",
+   "object": "A. L. Mayhew",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1890,
+   "explicit": true,
+   "evidence": "two scholars who have rendered me valuable assistance while I was carrying this new edition through the Press, the Rev. A. L. Mayhew and Dr. Joseph Wright.",
+   "quote_ok": true
+  },
+  {
+   "subject": "F. Max Müller",
+   "type": "collaborated_with",
+   "object": "Joseph Wright",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1890,
+   "explicit": true,
+   "evidence": "two scholars who have rendered me valuable assistance while I was carrying this new edition through the Press, the Rev. A. L. Mayhew and Dr. Joseph Wright.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heyse",
+   "type": "position_at",
+   "object": "Berlin",
+   "role": "Professor",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the opinion of the late Professor Heyse of Berlin",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Muller1899_Science-of-Language_1=TheScienceOfLanguageVolI",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Muller1899_Science-of-Language_1=TheScienceOfLanguageVolI.txt",
+ "meta": {
+  "title": "The Science of Language",
+  "author": "Müller, F. Max",
+  "year": 1899,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

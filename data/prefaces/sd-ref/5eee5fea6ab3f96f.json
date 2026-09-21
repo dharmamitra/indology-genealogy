@@ -1,0 +1,78 @@
+{
+ "author": null,
+ "doc_kind": "monograph",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Somdet Phra Ñāṇasamvara",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Thai",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Prince Vajirañāṇavarorasa",
+   "birth_year": null,
+   "death_year": 1921,
+   "nationality": "Thai",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Francis John Patterson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Prince Damrong",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Thai",
+   "field": "Thai history and archaeology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Somdet Phra Ñāṇasamvara",
+   "type": "position_at",
+   "object": "Mahāmakuțarājavidyālaya",
+   "role": "Director",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Somdet Phra Ñāṇasamvara. Director, Mahāmakuțarājavidyālaya.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Prince Vajirañāṇavarorasa",
+   "type": "student_of",
+   "object": "Francis John Patterson",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he was among the first group of royal children who studied English under Mr. Francis John Patterson... Prince Manussanāga together with Prince Diswara... became the teacher's most favourite pupils.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Prince Damrong",
+   "type": "student_of",
+   "object": "Francis John Patterson",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prince Manussanāga together with Prince Diswara (or Prince Damrong, pioneer in the field of Thai history and archaeology), became the teacher's most favourite pupils.",
+   "quote_ok": false
+  }
+ ],
+ "docid": "cleaned_Ordination Procedure_Somdet Phra Mahasamana & Chao Krom Phraya Vajirananavarorasa",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Ordination Procedure_Somdet Phra Mahasamana & Chao Krom Phraya Vajirananavarorasa.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

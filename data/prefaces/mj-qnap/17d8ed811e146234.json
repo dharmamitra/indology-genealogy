@@ -1,0 +1,141 @@
+{
+ "author": "Lore Sander",
+ "doc_kind": "text_edition",
+ "doc_year": 1985,
+ "people": [
+  {
+   "name": "Lore Sander"
+  },
+  {
+   "name": "Ernst Waldschmidt"
+  },
+  {
+   "name": "Klaus Wille"
+  },
+  {
+   "name": "Heinz Bechert"
+  },
+  {
+   "name": "Wolfgang Voigt"
+  },
+  {
+   "name": "Dieter George"
+  },
+  {
+   "name": "Chandrabal Tripāthī"
+  },
+  {
+   "name": "Noritoshi Aramaki"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Lore Sander",
+   "type": "student_of",
+   "object": "Ernst Waldschmidt",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mein verehrter Lehrer Professor Dr. ERNST WALDSCHMIDT",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lore Sander",
+   "type": "collaborated_with",
+   "object": "Ernst Waldschmidt",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "BEARBEITET VON LORE SANDER UND ERNST WALDSCHMIDT",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Wolfgang Voigt",
+   "type": "founded",
+   "object": "Verzeichnis der orientalischen Handschriften in Deutschland",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "VERZEICHNIS DER ORIENTALISCHEN HANDSCHRIFTEN IN DEUTSCHLAND IM EINVERNEHMEN MIT DER DEUTSCHEN MORGENLÄNDISCHEN GESELLSCHAFT BEGRÜNDET VON WOLFGANG VOIGT",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Dieter George",
+   "type": "succeeded",
+   "object": "Wolfgang Voigt",
+   "role": "Leiter der Katalogisierung der orientalischen Handschriften in Deutschland",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Leiter der Katalogisierung der orientalischen Handschriften in Deutschland Dr. Dr. h. c. WOLFGANG VOIGT [...] In diesen Dank sei auch sein Nachfolger Dr. DIETER GEORGE mit einbezogen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chandrabal Tripāthī",
+   "type": "position_at",
+   "object": "Göttingen",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Einige Fragmente hatte Professor Dr. CHANDRABAL TRIPĀTHĪ (Berlin) zur Zeit seiner Tätigkeit in Göttingen bereits abgeschrieben und identifiziert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chandrabal Tripāthī",
+   "type": "position_at",
+   "object": "Berlin",
+   "role": "Professor",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Dr. CHANDRABAL TRIPĀTHĪ (Berlin)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Noritoshi Aramaki",
+   "type": "position_at",
+   "object": "Osaka",
+   "role": "Professor",
+   "place": "Osaka",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Dr. NORITOSHI ARAMAKI (Osaka, derzeit Hamburg)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Noritoshi Aramaki",
+   "type": "position_at",
+   "object": "Hamburg",
+   "role": null,
+   "place": "Hamburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Dr. NORITOSHI ARAMAKI (Osaka, derzeit Hamburg)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Turfan_5",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Turfan_5.txt",
+ "meta": {
+  "title": "Sanskrithandschriften aus den Turfanfunden",
+  "author": "Sander, Lore; Waldschmidt, Ernst",
+  "year": 1985,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

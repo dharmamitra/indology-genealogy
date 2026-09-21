@@ -1,0 +1,110 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 2022,
+ "people": [
+  {
+   "name": "Laura Giuliano",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Giovanna Iacono",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Loretta Paderni",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Massimo Osanna",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Michael Jung",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Islamic art"
+  },
+  {
+   "name": "Raffaele Torella",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Italian",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Laura Giuliano",
+   "type": "collaborated_with",
+   "object": "Giovanna Iacono",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sous la direction scientifique de Laura Giuliano, avec la collaboration de Giovanna Iacono",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Loretta Paderni",
+   "type": "position_at",
+   "object": "Museo delle Civiltà",
+   "role": "déléguée du directeur général des Musées",
+   "place": "Rome",
+   "year_start": null,
+   "year_end": 2022,
+   "explicit": true,
+   "evidence": "Loretta Paderni, déléguée du directeur général des Musées, le professeur Massimo Osanna, au Museo delle Civiltà jusqu'en mars 2022",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Jung",
+   "type": "position_at",
+   "object": "Museo delle Civiltà",
+   "role": "conservateur spécialiste d'art islamique",
+   "place": "Rome",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Michael Jung, conservateur spécialiste d'art islamique au Museo delle Civiltà",
+   "quote_ok": true
+  },
+  {
+   "subject": "Raffaele Torella",
+   "type": "position_at",
+   "object": "université Sapienza de Rome",
+   "role": "professeure émérite d'indologie",
+   "place": "Rome",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Raffaele Torella, professeure émérite d'indologie à l'université Sapienza de Rome",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Le_bouddhisme_et_l_art_bouddhique_en_In",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Le_bouddhisme_et_l_art_bouddhique_en_In.txt",
+ "meta": {
+  "title": "Inde. reflets de mondes sacrés",
+  "author": "",
+  "year": null,
+  "language": "fr"
+ },
+ "model": "gemini-flash-latest"
+}

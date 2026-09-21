@@ -1,0 +1,76 @@
+{
+ "author": "西本龍山",
+ "doc_kind": "monograph",
+ "doc_year": 1955,
+ "people": [
+  {
+   "name": "西本龍山",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "河野秀願",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "北川智衆",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "西本龍山",
+   "type": "other",
+   "object": "河野秀願",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "學友河野秀願君の指示により、大正五年十月唐招提寺長老北川智衆僧正の懋断を受けたのであつた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "西本龍山",
+   "type": "student_of",
+   "object": "北川智衆",
+   "role": "teacher",
+   "place": "唐招提寺",
+   "year_start": 1916,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "學友河野秀願君の指示により、大正五年十月唐招提寺長老北川智衆僧正の懋断を受けたのであつた。一年半あまりして律文解釋上に大光明をもたらされた。今にして思ふ、長老の行修並に學恩の甚大なるを。",
+   "quote_ok": true
+  },
+  {
+   "subject": "北川智衆",
+   "type": "position_at",
+   "object": "唐招提寺",
+   "role": "長老",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "唐招提寺長老北川智衆僧正",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Nishimoto_西本龍山_1955_四分律比丘戒本講讚",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Nishimoto_西本龍山_1955_四分律比丘戒本講讚.txt",
+ "meta": {
+  "title": "四分律比丘戒本講讚",
+  "author": "西本龍山",
+  "year": 1955,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

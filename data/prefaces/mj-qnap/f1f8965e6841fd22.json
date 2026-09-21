@@ -1,0 +1,76 @@
+{
+ "author": "宮坂宥勝",
+ "doc_kind": "journal_volume",
+ "doc_year": 1965,
+ "people": [
+  {
+   "name": "大山公淳",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "中野",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "稲葉義猛",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "大山公淳",
+   "type": "position_at",
+   "object": "高野山大学",
+   "role": "教授",
+   "place": "和歌山県",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "大山教授古稀記念出版会 和歌山県高野局区内高野山大学内",
+   "quote_ok": true
+  },
+  {
+   "subject": "中野",
+   "type": "position_at",
+   "object": "高野山大学",
+   "role": "学長",
+   "place": "和歌山県",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "序 中野 学長",
+   "quote_ok": true
+  },
+  {
+   "subject": "稲葉義猛",
+   "type": "position_at",
+   "object": "密教研究会",
+   "role": "代表者",
+   "place": "高野山大学内",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "編集者 密教研究会 和歌山県高野山大学内 代表者 稲葉義猛",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Miyasaka_宮坂宥勝_1965_TS",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Miyasaka_宮坂宥勝_1965_TS.txt",
+ "meta": {
+  "title": "シャーンタラクシタの伝える唯物論哲学",
+  "author": "宮坂, 宥勝",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

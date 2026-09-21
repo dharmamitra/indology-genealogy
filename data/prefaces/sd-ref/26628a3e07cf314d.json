@@ -1,0 +1,135 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Philip Yampolsky",
+   "birth_year": null,
+   "death_year": 1996,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kenneth K. Inada",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "MAYEDA Sengaku",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Yoshito S. Hakeda",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Brian Nagata",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Wm. Theodore de Bary",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Burton Watson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Philip Yampolsky",
+   "type": "position_at",
+   "object": "Publication Committee, Numata Center",
+   "role": "Chairperson",
+   "place": null,
+   "year_start": 1991,
+   "year_end": 1996,
+   "explicit": true,
+   "evidence": "In December 1991, the Publication Committee was organized at the Numata Center, with Professor Philip Yampolsky as the Chairperson. To our sorrow, Professor Yampolsky passed away in July 1996.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kenneth K. Inada",
+   "type": "position_at",
+   "object": "Publication Committee",
+   "role": "chair",
+   "place": null,
+   "year_start": null,
+   "year_end": 1999,
+   "explicit": true,
+   "evidence": "In October 1999, I became the third chairperson of the Publication Committee, on the retirement of its very capable former chair, Dr. Kenneth K. Inada.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Brian Nagata",
+   "type": "position_at",
+   "object": "Numata Center for Buddhist Translation and Research",
+   "role": "president",
+   "place": "Berkeley, California",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Reverend Brian Nagata, president of the Numata Center for Buddhist Translation and Research, Berkeley, California",
+   "quote_ok": true
+  },
+  {
+   "subject": "Yoshito S. Hakeda",
+   "type": "position_at",
+   "object": "Columbia University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Without their help and encouragement, this work could not have been completed. Columbia University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Yoshito S. Hakeda",
+   "type": "collaborated_with",
+   "object": "Burton Watson",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "to Professor Burton Watson for reading the manuscript and painstakingly comparing the translation with the original line by line, improving on its style at many",
+   "quote_ok": true
+  },
+  {
+   "subject": "Yoshito S. Hakeda",
+   "type": "collaborated_with",
+   "object": "Wm. Theodore de Bary",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I also wish to acknowledge my indebtedness to Professor Wm. Theodore de Bary, who encouraged me to undertake this project, and who read the manuscript and offered invaluable suggestions",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_1888",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_1888.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

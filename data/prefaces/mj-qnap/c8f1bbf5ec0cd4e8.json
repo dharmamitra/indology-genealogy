@@ -1,0 +1,83 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1937,
+ "people": [
+  {
+   "name": "K. P. Jayaswal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "M.P. Jayaswal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rāhula Sāṅkṛityāyana",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Manilal Patel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "M.P. Jayaswal",
+   "type": "collaborated_with",
+   "object": "Rāhula Sāṅkṛityāyana",
+   "role": "co-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Adhyardhaśataka of Mātṛiceṭa. Edited by M.P. Jayaswal and Rāhula Sāṅkṛityāyana (Appendix to J. B. O. R. S.)",
+   "quote_ok": true
+  },
+  {
+   "subject": "K. P. Jayaswal",
+   "type": "collaborated_with",
+   "object": "Rāhula Sāṅkṛityāyana",
+   "role": "co-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Vigrahavyāvartanī By Āchārya Nāgārjuna with Author’s own commentary. Edited by K. P. Jayaswal and Rāhula Sāṅkṛityāyana",
+   "quote_ok": true
+  },
+  {
+   "subject": "Manilal Patel",
+   "type": "studied_at",
+   "object": "Marburg",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "By Professor Dr. Manilal Patel, Ph.D., (Marburg)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "JBORS-23",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/JBORS-23.txt",
+ "meta": {
+  "title": "The Journal of the Bihar and Orissa Research Society",
+  "author": "",
+  "year": 1937,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

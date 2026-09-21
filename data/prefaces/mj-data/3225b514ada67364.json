@@ -1,0 +1,42 @@
+{
+ "people": [
+  {
+   "name": "梶山雄一",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "高木神元",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "梶山雄一",
+   "type": "collaborated_with",
+   "object": "高木神元",
+   "role": "collated Tibetan texts (デルゲ版との校合)",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "デルゲ版との校合は高木神元氏の御厚意による。ここに謝意を表する。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Kajiyama_梶山雄一_1963@清弁・安慧・護法",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Kajiyama_梶山雄一_1963@清弁・安慧・護法.txt",
+ "meta": {
+  "title": "清弁・安慧・護法",
+  "author": "梶山 雄一",
+  "year": 1963,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

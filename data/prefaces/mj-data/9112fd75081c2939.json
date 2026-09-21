@@ -1,0 +1,76 @@
+{
+ "author": "遠藤信一",
+ "doc_kind": "article",
+ "doc_year": 1995,
+ "people": [
+  {
+   "name": "遠藤信一",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "菅沼晃",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "番場裕之",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "遠藤信一",
+   "type": "student_of",
+   "object": "菅沼晃",
+   "role": "teacher",
+   "place": "東洋大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "本稿執筆にあたり、東洋大学教授菅沼 晃先生のご教示、ご指導を戴きました。",
+   "quote_ok": true
+  },
+  {
+   "subject": "菅沼晃",
+   "type": "position_at",
+   "object": "東洋大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "東洋大学教授菅沼 晃先生",
+   "quote_ok": true
+  },
+  {
+   "subject": "遠藤信一",
+   "type": "studied_at",
+   "object": "東洋大学大学院",
+   "role": "文学研究科博士後期課程単位取得満期退学",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "(文学研究科博士後期課程単位取得満期退学)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Endo_遠藤信一_1995@『倶舎論』における外道観 (2)-戒禁取見を中心に-",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Endo_遠藤信一_1995@『倶舎論』における外道観 (2)-戒禁取見を中心に-.txt",
+ "meta": {
+  "title": "『倶舎論』における外道観 (2)――戒禁取見を中心に――",
+  "author": "遠藤, 信一",
+  "year": 1995,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

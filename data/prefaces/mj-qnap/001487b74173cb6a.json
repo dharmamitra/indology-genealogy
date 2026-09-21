@@ -1,0 +1,64 @@
+{
+ "author": "Sarah Shaw",
+ "doc_kind": "monograph",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sarah Shaw",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Richard Gombrich",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies, Indology"
+  },
+  {
+   "name": "L.S. Cousins",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sarah Shaw",
+   "type": "student_of",
+   "object": "Richard Gombrich",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Richard Gombrich who taught me Pāli, has been endlessly helpful and generous in teaching me for many years",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sarah Shaw",
+   "type": "student_of",
+   "object": "L.S. Cousins",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "L.S. Cousins has taught me for even longer and I have had many conversations with him about the subject.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "[Sarah_Shaw]_Buddhist_Meditation__An_Anthology_of_(Bookos.org)",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/[Sarah_Shaw]_Buddhist_Meditation__An_Anthology_of_(Bookos.org).txt",
+ "meta": {
+  "title": "Buddhist Meditation: An anthology of texts from the Pāli canon",
+  "author": "Shaw, Sarah",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

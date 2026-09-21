@@ -1,0 +1,179 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1887,
+ "people": [
+  {
+   "name": "Benjamin Harrison",
+   "birth_year": null,
+   "death_year": 1887,
+   "nationality": "British",
+   "field": "Hebrew and Semitic languages"
+  },
+  {
+   "name": "Dr. Pusey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Hebrew"
+  },
+  {
+   "name": "Adolf Friederich Stenzler",
+   "birth_year": 1807,
+   "death_year": 1887,
+   "nationality": "German",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "George Shirt",
+   "birth_year": 1843,
+   "death_year": 1886,
+   "nationality": "British",
+   "field": "Sindhi, Oriental languages"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Benjamin Harrison",
+   "type": "studied_at",
+   "object": "Christ Church, Oxford",
+   "role": "B.A.",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": 1830,
+   "explicit": true,
+   "evidence": "he entered as an Under-graduate at Christ Church, Oxford. After the usual course of study, he took his B.A. degree in 1830",
+   "quote_ok": false
+  },
+  {
+   "subject": "Benjamin Harrison",
+   "type": "student_of",
+   "object": "Dr. Pusey",
+   "role": "teacher",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He had been a favourite pupil of Dr. Pusey, the Regius Professor of Hebrew at Oxford",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dr. Pusey",
+   "type": "position_at",
+   "object": "Oxford",
+   "role": "Regius Professor of Hebrew",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Pusey, the Regius Professor of Hebrew at Oxford",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Friederich Stenzler",
+   "type": "studied_at",
+   "object": "Greifswald",
+   "role": null,
+   "place": null,
+   "year_start": 1826,
+   "year_end": 1829,
+   "explicit": true,
+   "evidence": "He studied divinity between 1826 and 1829, at Greifswald, Berlin and Bonn",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Friederich Stenzler",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": null,
+   "year_start": 1826,
+   "year_end": 1829,
+   "explicit": true,
+   "evidence": "He studied divinity between 1826 and 1829, at Greifswald, Berlin and Bonn",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Friederich Stenzler",
+   "type": "studied_at",
+   "object": "Bonn",
+   "role": null,
+   "place": null,
+   "year_start": 1826,
+   "year_end": 1829,
+   "explicit": true,
+   "evidence": "He studied divinity between 1826 and 1829, at Greifswald, Berlin and Bonn",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Friederich Stenzler",
+   "type": "studied_at",
+   "object": "Paris University",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he visited the Paris University for a year",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Friederich Stenzler",
+   "type": "position_at",
+   "object": "Breslau University",
+   "role": "Professor of Sanskrit",
+   "place": "Breslau",
+   "year_start": 1833,
+   "year_end": 1887,
+   "explicit": true,
+   "evidence": "In 1833 he received the post, which he held till the end of his life, of Professor of Sanskrit at the Breslau University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Friederich Stenzler",
+   "type": "position_at",
+   "object": "Breslau University Library",
+   "role": "sub-librarian",
+   "place": "Breslau",
+   "year_start": 1834,
+   "year_end": 1872,
+   "explicit": true,
+   "evidence": "He was also engaged as sub-librarian at the Breslau University Library from 1834 to 1872.",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Shirt",
+   "type": "studied_at",
+   "object": "C.M.S. College, London",
+   "role": null,
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at the C.M.S. College, London, and the University of Cambridge",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Shirt",
+   "type": "studied_at",
+   "object": "University of Cambridge",
+   "role": "B.A.",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": 1864,
+   "explicit": true,
+   "evidence": "Educated at the C.M.S. College, London, and the University of Cambridge, he took his B.A. degree at the latter, with honours (Oriental Tripos) in 1864.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "JRASGBINS19",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/JRASGBINS19.txt#1",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,133 @@
+{
+ "author": "Carol Diane Savvas",
+ "doc_kind": "dissertation",
+ "doc_year": 1990,
+ "people": [
+  {
+   "name": "Carol Diane Savvas",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Geshe Lhundup Sopa Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Zong Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Lodro Tulku",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": null
+  },
+  {
+   "name": "Geshe Tsultrim Gyaltsen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": null
+  },
+  {
+   "name": "Peter Lindegger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Carol Diane Savvas",
+   "type": "student_of",
+   "object": "Geshe Lhundup Sopa Rinpoche",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1990,
+   "explicit": true,
+   "evidence": "I would like to thank my advisor the Venerable Professor Geshe Lhundup Sopa Rinpoche for his constant encouragement and erudite scholarly advice",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carol Diane Savvas",
+   "type": "student_of",
+   "object": "Zong Rinpoche",
+   "role": "traditional teacher",
+   "place": "Mundgod, Karnataka State, India",
+   "year_start": 1980,
+   "year_end": 1983,
+   "explicit": true,
+   "evidence": "Under his guidance and inspiration, I received my first real glimpse into the gCod practice in 1980, in Zong Labrang of Ganden Shartse Monastery, in the Tibetan refugee settlement in Mundgod",
+   "quote_ok": false
+  },
+  {
+   "subject": "Zong Rinpoche",
+   "type": "position_at",
+   "object": "Ganden Shartse Monastery",
+   "role": null,
+   "place": "Mundgod, Karnataka State, India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the late Venerable Zong Rinpoche of Ganden Shartse Monastery, a great Tibetan scholar and master of gCod.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lodro Tulku",
+   "type": "position_at",
+   "object": "Tibet Insitute, Rikon",
+   "role": null,
+   "place": "Rikon, Switzerland",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Lodro Tulku of the Tibet Insitute, Rikon, Switzerland, who has been most helpful throughout the research period",
+   "quote_ok": true
+  },
+  {
+   "subject": "Geshe Tsultrim Gyaltsen",
+   "type": "position_at",
+   "object": "Thubten Dhargye Ling",
+   "role": null,
+   "place": "Los Angeles",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I am grateful to Venerable Geshe Tsultrim Gyaltsen and Thubten Dhargye Ling in Los Angeles",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Lindegger",
+   "type": "position_at",
+   "object": "Tibet Institut, Rikon",
+   "role": null,
+   "place": "Rikon, Switzerland",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Finally, I would like to thank Dr. Peter Lindegger of Tibet Institut, Rikon, Switzerland",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Savvas-gcod",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Savvas-gcod.txt",
+ "meta": {
+  "title": "A study of the profound path of gCod: The Mahāyāna Buddhist meditation tradition of Tibet's great woman saint Machig Labdron",
+  "author": "Savvas, Carol Diane",
+  "year": 1990,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

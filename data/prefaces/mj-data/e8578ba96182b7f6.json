@@ -1,0 +1,90 @@
+{
+ "author": null,
+ "doc_kind": "edited_volume",
+ "doc_year": 1958,
+ "people": [
+  {
+   "name": "Arthur W. Burks",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "Philosophy"
+  },
+  {
+   "name": "Charles Hartshorne",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Philosophy"
+  },
+  {
+   "name": "Paul Weiss",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Philosophy"
+  },
+  {
+   "name": "James H. Woods",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Philosophy"
+  },
+  {
+   "name": "Charles Sanders Peirce",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "Philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Charles Hartshorne",
+   "type": "collaborated_with",
+   "object": "Paul Weiss",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1935,
+   "explicit": true,
+   "evidence": "these, under the editorship of Drs. Charles Hartshorne and Paul Weiss, appeared as promised, ending with Volume VI in 1935.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur W. Burks",
+   "type": "position_at",
+   "object": "University of Michigan",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the Department was fortunate to enlist Professor Arthur W. Burks, of the University of Michigan, to perform that peculiarly exacting task.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Sanders Peirce",
+   "type": "position_at",
+   "object": "United States Coast Survey",
+   "role": null,
+   "place": null,
+   "year_start": 1859,
+   "year_end": 1891,
+   "explicit": true,
+   "evidence": "the only permanent position Peirce held was with the United States Coast Survey, where he was employed to do research in astronomy and geodetics.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Peirce_C_S_1935_CP8",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Peirce_C_S_1935_CP8.txt",
+ "meta": {
+  "title": "Collected Papers of Charles Sanders Peirce",
+  "author": "Peirce, Charles Sanders",
+  "year": 1935,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

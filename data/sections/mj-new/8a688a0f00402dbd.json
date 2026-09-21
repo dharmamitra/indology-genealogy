@@ -1,0 +1,83 @@
+{
+ "author": "田中公明",
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "田中公明",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "松田和信",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "奥山直司",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Ratnakaji Bajracharya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Nepal",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "松田和信",
+   "type": "position_at",
+   "object": "東方研究会",
+   "role": "会員",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "写本に詳しい東方研究会会員の松田和信氏に提供し, 調査をお願いしている。",
+   "quote_ok": true
+  },
+  {
+   "subject": "田中公明",
+   "type": "collaborated_with",
+   "object": "松田和信",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "本文献の焼き付けは, 写本に詳しい東方研究会会員の松田和信氏に提供し, 調査をお願いしている。",
+   "quote_ok": true
+  },
+  {
+   "subject": "田中公明",
+   "type": "student_of",
+   "object": "Ratnakaji Bajracharya",
+   "role": "traditional teacher",
+   "place": "Kathmandu",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "カトマンドゥで屈指のプジャリと言われる Ratnakaji Bajracharya から, ネパール仏教における常用偈, 常用真言の教示を受け",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Tanaka_1990",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Tanaka_1990.txt#0",
+ "meta": {
+  "title": "ネパールのサンスクリット語仏教文献研究 (2) —NGMPPで新たに撮影された密教写本を中心として—",
+  "author": "田中, 公明",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

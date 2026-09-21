@@ -1,0 +1,69 @@
+{
+ "author": "石井修道",
+ "doc_kind": "festschrift",
+ "doc_year": 1997,
+ "people": [
+  {
+   "name": "石井修道",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "鎌田茂雄",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "石井修道",
+   "type": "student_of",
+   "object": "鎌田茂雄",
+   "role": "thesis supervisor",
+   "place": "駒沢大学",
+   "year_start": null,
+   "year_end": 1966,
+   "explicit": true,
+   "evidence": "一九六六年に駒沢大学仏教学部を卒業するに当たって、論文指導を鎌田先生にお願いし、「唐代中期の禅思想史の研究――南陽慧忠を中心として――」の卒論に取り組んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "石井修道",
+   "type": "studied_at",
+   "object": "駒沢大学",
+   "role": "BA",
+   "place": null,
+   "year_start": null,
+   "year_end": 1966,
+   "explicit": true,
+   "evidence": "一九六六年に駒沢大学仏教学部を卒業するに当たって",
+   "quote_ok": true
+  },
+  {
+   "subject": "石井修道",
+   "type": "influenced_by",
+   "object": "鎌田茂雄",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "鎌田先生の『禅源諸詮集都序』(筑摩書房、一九七一年一二月)および『宗密教学の思想史的研究』(東京大学出版会、一九七五年三月)が出版され、それに啓発されながら、研究を進めて来た",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Tanaka_田中良昭_1997",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Tanaka_田中良昭_1997.txt",
+ "meta": {
+  "title": "初期禅宗と華厳———燈史・語録篇——",
+  "author": "田中, 良昭",
+  "year": 1997,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

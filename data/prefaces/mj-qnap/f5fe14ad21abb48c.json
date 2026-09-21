@@ -1,0 +1,79 @@
+{
+ "author": "Shivaram Dattatray Joshi",
+ "doc_kind": "article",
+ "doc_year": 1960,
+ "people": [
+  {
+   "name": "Shivaram Dattatray Joshi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Śaṅkarśāstri Mārulkar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Maheśvarśāstri Joshi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Shivaram Dattatray Joshi",
+   "type": "student_of",
+   "object": "Śaṅkarśāstri Mārulkar",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I take this opportunity to acknowledge my gratefulness to two great teachers, at whose feet I had the honor and privilege of studying the chief grammatical texts of the Sanskrit language: the late Śaṅkarśāstri Mārulkar",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Shivaram Dattatray Joshi",
+   "type": "student_of",
+   "object": "Maheśvarśāstri Joshi",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "two great teachers, at whose feet I had the honor and privilege of studying the chief grammatical texts of the Sanskrit language: the late Śaṅkarśāstri Mārulkar and the late Maheśvarśāstri Joshi, my paternal uncle.",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Shivaram Dattatray Joshi",
+   "type": "other",
+   "object": "Maheśvarśāstri Joshi",
+   "role": "paternal uncle",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the late Maheśvarśāstri Joshi, my paternal uncle.",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "1_SAMBHASA-14",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/1_SAMBHASA-14.txt",
+ "meta": {
+  "title": "Kauṇḍa Bhaṭṭa on the Meaning of Sanskrit Verbs (1)",
+  "author": "Joshi, Shivaram Dattatray",
+  "year": 1960,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,164 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 1981,
+ "people": [
+  {
+   "name": "辻直四郎",
+   "birth_year": 1900,
+   "death_year": 1979,
+   "nationality": "Japan",
+   "field": "Indology"
+  },
+  {
+   "name": "田中於菟彌",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indology"
+  },
+  {
+   "name": "岩本裕",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indology"
+  },
+  {
+   "name": "原実",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indology"
+  },
+  {
+   "name": "羽田亨",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Central Asian studies"
+  },
+  {
+   "name": "Sylvain Lévi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "France",
+   "field": "Indology"
+  },
+  {
+   "name": "高津春繁",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "comparative linguistics"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "辻直四郎",
+   "type": "studied_at",
+   "object": "東京大学文学部言語学科",
+   "role": null,
+   "place": "Tokyo",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "東京大学文学部言語学科を卒業され、終生比較言語学を愛しつづけられながら、本邦における最初の真の意味でのヨーロッパ文献学の伝承者となられた博士",
+   "quote_ok": true
+  },
+  {
+   "subject": "辻直四郎",
+   "type": "student_of",
+   "object": "Sylvain Lévi",
+   "role": "teacher",
+   "place": "東京大学",
+   "year_start": 1927,
+   "year_end": 1927,
+   "explicit": true,
+   "evidence": "昭和2年, 当時日仏会長であった Sylvain Lévi 氏は東京大学に出講した。その当時, ある意味では唯一の聴講者が辻博士であった。...Lévi 教授の指導を受けた若き日の博士が筆をとったものが",
+   "quote_ok": true
+  },
+  {
+   "subject": "辻直四郎",
+   "type": "other",
+   "object": "高津春繁",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "わが国の比較言語学は博士と親交のあった高津春繁博士の『比較言語学』（昭和25年11月）と『印欧語比較文法』（昭和29年）によって一応の頂点に達したが",
+   "quote_ok": true
+  },
+  {
+   "subject": "岩本裕",
+   "type": "studied_at",
+   "object": "京都帝国大学大学院",
+   "role": "graduate student",
+   "place": "Kyoto",
+   "year_start": 1933,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "編者が博士の御名前を初めて知ったのは, 昭和8年ごろ京都帝国大学大学院学生当時に中央アジアの言語と文化に関して深い関心をもっていた時代であり",
+   "quote_ok": false
+  },
+  {
+   "subject": "岩本裕",
+   "type": "student_of",
+   "object": "羽田亨",
+   "role": "doctoral supervisor",
+   "place": "京都帝国大学",
+   "year_start": 1933,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "4が発表されたときには時の指導教授羽田亨博士から詳しく検討するように命じられたことがあった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "田中於菟彌",
+   "type": "collaborated_with",
+   "object": "岩本裕",
+   "role": "co-editor",
+   "place": null,
+   "year_start": 1981,
+   "year_end": 1981,
+   "explicit": true,
+   "evidence": "編集 田中於菟彌 岩本裕 原実",
+   "quote_ok": true
+  },
+  {
+   "subject": "原実",
+   "type": "collaborated_with",
+   "object": "岩本裕",
+   "role": "co-editor",
+   "place": null,
+   "year_start": 1981,
+   "year_end": 1981,
+   "explicit": true,
+   "evidence": "編集 田中於菟彌 岩本裕 原実",
+   "quote_ok": true
+  },
+  {
+   "subject": "田中於菟彌",
+   "type": "collaborated_with",
+   "object": "原実",
+   "role": "co-editor",
+   "place": null,
+   "year_start": 1981,
+   "year_end": 1981,
+   "explicit": true,
+   "evidence": "編集 田中於菟彌 岩本裕 原実",
+   "quote_ok": true
+  }
+ ],
+ "docid": "辻直四郎著作集(4)",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/辻直四郎著作集(4).txt",
+ "meta": {
+  "title": "辻直四郎著作集 第四巻 言語学",
+  "author": "辻, 直四郎",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

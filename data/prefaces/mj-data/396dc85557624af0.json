@@ -1,0 +1,109 @@
+{
+ "people": [
+  {
+   "name": "小谷信千代"
+  },
+  {
+   "name": "本庄良文"
+  },
+  {
+   "name": "櫻部建"
+  },
+  {
+   "name": "加治洋一"
+  },
+  {
+   "name": "岩本明美"
+  },
+  {
+   "name": "平岡聡"
+  },
+  {
+   "name": "森祖道"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "小谷信千代",
+   "type": "collaborated_with",
+   "object": "本庄良文",
+   "role": "co-authors / joint translation",
+   "place": null,
+   "year_start": null,
+   "year_end": 2004,
+   "explicit": true,
+   "evidence": "本稿は『倶舎論 世品』本論と、チベット訳にのみ現存する満増 Pūrņavardhana の倶舍論疏 Abhidharmakośațīkā Lakşaņānusāriņī の和訳である。本庄が本論を小谷が疏を下訳し",
+   "quote_ok": false
+  },
+  {
+   "subject": "小谷信千代",
+   "type": "collaborated_with",
+   "object": "櫻部建",
+   "role": "reading group participant",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "毎週月曜日に行なわれている輪読会で、櫻部建先生と、加治洋一,岩本明美,平岡聡の諸氏を含め全員で訳文を検討した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "本庄良文",
+   "type": "collaborated_with",
+   "object": "櫻部建",
+   "role": "reading group participant",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "毎週月曜日に行なわれている輪読会で、櫻部建先生と、加治洋一,岩本明美,平岡聡の諸氏を含め全員で訳文を検討した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "小谷信千代",
+   "type": "collaborated_with",
+   "object": "加治洋一",
+   "role": "reading group participant",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "毎週月曜日に行なわれている輪読会で、櫻部建先生と、加治洋一,岩本明美,平岡聡の諸氏を含め全員で訳文を検討した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "小谷信千代",
+   "type": "collaborated_with",
+   "object": "岩本明美",
+   "role": "reading group participant",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "毎週月曜日に行なわれている輪読会で、櫻部建先生と、加治洋一,岩本明美,平岡聡の諸氏を含め全員で訳文を検討した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "小谷信千代",
+   "type": "collaborated_with",
+   "object": "平岡聡",
+   "role": "reading group participant",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "毎週月曜日に行なわれている輪読会で、櫻部建先生と、加治洋一,岩本明美,平岡聡の諸氏を含め全員で訳文を検討した。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Odani&Honjo_小谷信千代&本庄良文_2004_『倶舎論　世品』本論・満増疏訳注（二）",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Odani&Honjo_小谷信千代&本庄良文_2004_『倶舎論　世品』本論・満増疏訳注（二）.txt",
+ "meta": {
+  "title": "『倶舎論 世品』本論・満増疏訳注（二）",
+  "author": "小谷信千代, 本庄良文",
+  "year": 2004,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

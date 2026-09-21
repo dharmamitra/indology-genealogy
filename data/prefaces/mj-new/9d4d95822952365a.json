@@ -1,0 +1,110 @@
+{
+ "author": "嶋本弘徳",
+ "doc_kind": "article",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "嶋本弘徳",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "上野隆平",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "勝呂信静",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "下川邊季由",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "干潟龍祥",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "高原信一",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist Studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "嶋本弘徳",
+   "type": "studied_at",
+   "object": "龍谷大学",
+   "role": "博士後期課程",
+   "place": null,
+   "year_start": null,
+   "year_end": 2020,
+   "explicit": true,
+   "evidence": "龍谷大学博士後期課程 嶋本 弘徳",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "上野隆平",
+   "type": "studied_at",
+   "object": "龍谷大学",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 2015,
+   "explicit": true,
+   "evidence": "上野隆平 [2015] 『『大乗荘厳経論』の仏陀観 : Pratiṣṭhādhikāra (基盤の章) の研究』龍谷大学博士論文.",
+   "quote_ok": true
+  },
+  {
+   "subject": "勝呂信静",
+   "type": "collaborated_with",
+   "object": "下川邊季由",
+   "role": "co-authors",
+   "place": null,
+   "year_start": 2007,
+   "year_end": 2007,
+   "explicit": true,
+   "evidence": "勝呂信静・下川邊季由 [2007] 『新国訳大蔵経 (瑜伽・唯識部 11) 摂大乗論』大蔵出版.",
+   "quote_ok": true
+  },
+  {
+   "subject": "干潟龍祥",
+   "type": "collaborated_with",
+   "object": "高原信一",
+   "role": "co-authors",
+   "place": null,
+   "year_start": 1990,
+   "year_end": 1990,
+   "explicit": true,
+   "evidence": "干潟龍祥・高原信一 [1990] 『ジャータカ・マーラー〈本生談の花鬘〉』講談社.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "嶋本弘德",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/嶋本弘德.txt",
+ "meta": {
+  "title": "菩薩の戒の甚深殊勝について ―『摂大乗論』第VI章「増上戒品」における教説の再構成を中心に―",
+  "author": "嶋本, 弘徳",
+  "year": 2020,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

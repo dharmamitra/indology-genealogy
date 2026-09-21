@@ -1,0 +1,142 @@
+{
+ "author": "山口益",
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "山口益",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Sylvain Lévi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Indology"
+  },
+  {
+   "name": "Giuseppe Tucci",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "宇井",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "長尾雅人",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Louis de La Vallée Poussin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Sujitkumar Mukhopadhyaya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "V. Bhattacharya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "野沢静証",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "山口益",
+   "type": "influenced_by",
+   "object": "Sylvain Lévi",
+   "role": null,
+   "place": null,
+   "year_start": 1928,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "わたしは、一九二八年十二月 Lévi 教授よりそれを複写することを勧められ [...] Sylvain Lévi 教授への感謝の徴意を表することと致したい。",
+   "quote_ok": true
+  },
+  {
+   "subject": "長尾雅人",
+   "type": "other",
+   "object": "山口益",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "学友長尾雅人博士が、ネパールにおいて調査せられたところによると",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sujitkumar Mukhopadhyaya",
+   "type": "student_of",
+   "object": "V. Bhattacharya",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "また、Sujitkumar Mukhopadhyaya は、師の V. Bhattacharya 氏に寄せられた前記 Tucci 氏の複写本",
+   "quote_ok": true
+  },
+  {
+   "subject": "山口益",
+   "type": "collaborated_with",
+   "object": "野沢静証",
+   "role": "co-author",
+   "place": null,
+   "year_start": 1953,
+   "year_end": 1953,
+   "explicit": true,
+   "evidence": "『原典解明』=山口益・野沢静証共著『世親唯識の原典解明』法蔵館、昭和二八年",
+   "quote_ok": true
+  },
+  {
+   "subject": "V. Bhattacharya",
+   "type": "collaborated_with",
+   "object": "Giuseppe Tucci",
+   "role": "co-editor",
+   "place": null,
+   "year_start": 1932,
+   "year_end": 1932,
+   "explicit": true,
+   "evidence": "MVBT = Madhyāntavibhāgasūtrabhāṣyatīkā, edited by V. Bhattacharya and G. Tucci, Calcutta 1932",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Trisvabhavakarika_Yamaguchi",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Trisvabhavakarika_Yamaguchi.txt",
+ "meta": {
+  "title": "世親造説三性論偈の梵蔵本及びその註釈的研究",
+  "author": "山口, 益",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

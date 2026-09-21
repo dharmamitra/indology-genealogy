@@ -1,0 +1,109 @@
+{
+ "author": "Françoise Wang-Toutain",
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Fazun",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Amdo Guéshé",
+   "birth_year": null,
+   "death_year": 1936,
+   "nationality": "Tibetan",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Dapu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Jiangze",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Taixu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": "Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Fazun",
+   "type": "student_of",
+   "object": "Amdo Guéshé",
+   "role": "teacher",
+   "place": "Wuchang",
+   "year_start": 1931,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Il se rendit en effet, la même année, à Wuchang afin d'étudier auprès d'Amdo Guéshé. Tout au long des mois qui suivirent, Fazun reçut de ce dernier une quarantaine d'initiations",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fazun",
+   "type": "student_of",
+   "object": "Dapu",
+   "role": "teacher",
+   "place": "Nulu",
+   "year_start": 1931,
+   "year_end": 1931,
+   "explicit": true,
+   "evidence": "En chemin, ils s'arrêtèrent à Nulu 拏墟, auprès du maître Dapu 達樸. Ce dernier transmit à Fazun une pratique particulière sur le mandala du corps de la Tārā Verte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fazun",
+   "type": "studied_at",
+   "object": "Drepung ('Bras-spung)",
+   "role": null,
+   "place": "Lhasa",
+   "year_start": 1931,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Fazun rendit visite au maître Zhacang 札倉 qui l'installa dans le monastère de Drepung ('Bras-spung).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fazun",
+   "type": "student_of",
+   "object": "Jiangze",
+   "role": "teacher",
+   "place": "Lhasa",
+   "year_start": null,
+   "year_end": 1936,
+   "explicit": true,
+   "evidence": "et avec le maître Jiangze 絳則法王 (Shartze ?), il étudia les règles monastiques.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Taixu",
+   "type": "founded",
+   "object": "Institut d'études du bouddhisme sino-tibétain (Hanzang jiaoli yuan)",
+   "role": null,
+   "place": "Beipei",
+   "year_start": 1930,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "il avait fondé à Beipei 北碚, dans le temple Jinyun 縉雲寺 qui était à l'abandon, l'Institut d'études du bouddhisme sino-tibétain.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Wang-Toutain_法尊 in Tibet",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Wang-Toutain_法尊 in Tibet.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

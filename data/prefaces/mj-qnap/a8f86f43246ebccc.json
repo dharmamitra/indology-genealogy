@@ -1,0 +1,76 @@
+{
+ "author": "Akira Sadakata",
+ "doc_kind": "monograph",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Akira Sadakata",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Hajime Nakamura",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Gaynor Sekimori",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hajime Nakamura",
+   "type": "position_at",
+   "object": "The University of Tokyo",
+   "role": "Professor Emeritus",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hajime Nakamura\nProfessor Emeritus\nThe University of Tokyo",
+   "quote_ok": true
+  },
+  {
+   "subject": "Akira Sadakata",
+   "type": "student_of",
+   "object": "Hajime Nakamura",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Finally, I would like to express my gratitude to my mentor, Professor Hajime Nakamura. ... he remains in good health and continues to show many kindnesses to me, his student for thirty-seven years.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Akira Sadakata",
+   "type": "collaborated_with",
+   "object": "Gaynor Sekimori",
+   "role": "translator",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I would like first of all to acknowledge my gratitude to the translator, Gaynor Sekimori. A scholar of Buddhism, she has produced a lucid and accurate translation.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "[Akira_Sadakata,_Hajime_Nakamura]_Buddhist_Cosmolo(Bookos.org)",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/[Akira_Sadakata,_Hajime_Nakamura]_Buddhist_Cosmolo(Bookos.org).txt",
+ "meta": {
+  "title": "Buddhist Cosmology: Philosophy and Origins",
+  "author": "Sadakata, Akira",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

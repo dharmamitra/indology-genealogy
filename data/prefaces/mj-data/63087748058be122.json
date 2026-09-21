@@ -1,0 +1,69 @@
+{
+ "author": "George Robert Elder",
+ "doc_kind": "dissertation",
+ "doc_year": 1978,
+ "people": [
+  {
+   "name": "George Robert Elder",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Alex Wayman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist scholarship"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "George Robert Elder",
+   "type": "student_of",
+   "object": "Alex Wayman",
+   "role": "doctoral supervisor",
+   "place": "Columbia University",
+   "year_start": null,
+   "year_end": 1978,
+   "explicit": true,
+   "evidence": "we were helped -- tested and encouraged -- by Professor Alex Wayman, our mentor at Columbia University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Robert Elder",
+   "type": "studied_at",
+   "object": "Columbia University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1978,
+   "explicit": true,
+   "evidence": "Professor Alex Wayman, our mentor at Columbia University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alex Wayman",
+   "type": "position_at",
+   "object": "Columbia University",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Alex Wayman, our mentor at Columbia University.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Elder-Samputa",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Elder-Samputa.txt",
+ "meta": {
+  "title": "THE SAMPUŢA TANTRA: EDITION AND TRANSLATION CHAPTERS I-IV.",
+  "author": "Elder, George Robert",
+  "year": 1978,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

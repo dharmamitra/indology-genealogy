@@ -1,0 +1,52 @@
+{
+ "author": "村上真完",
+ "doc_kind": "festschrift",
+ "doc_year": 1993,
+ "people": [
+  {
+   "name": "村上真完",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "渡邊文麿",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "仏教"
+  },
+  {
+   "name": "前田惠學",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "仏教"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "前田惠學",
+   "type": "collaborated_with",
+   "object": "渡邊文麿",
+   "role": "editor of memorial volume for",
+   "place": null,
+   "year_start": null,
+   "year_end": 1993,
+   "explicit": true,
+   "evidence": "渡邊文麿博士追悼記念論集 原始仏教と大乗仏教下\n1993年5月21日 発行\n編者 前田 惠 學",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Murakami_村上真完_1993b_倶舎論破我品訳注2",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Murakami_村上真完_1993b_倶舎論破我品訳注2.txt",
+ "meta": {
+  "title": "倶舎論破我品訳注",
+  "author": "村上真宗",
+  "year": 1993,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

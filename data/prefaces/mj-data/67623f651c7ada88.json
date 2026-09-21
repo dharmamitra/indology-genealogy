@@ -1,0 +1,118 @@
+{
+ "author": "藤井",
+ "doc_kind": "obituary",
+ "doc_year": 1963,
+ "people": [
+  {
+   "name": "藤井",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "鈴木一成",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "近江",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "藤井",
+   "type": "studied_at",
+   "object": "日蓮宗大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "願りみれば上人と私とは元日蓮宗大学の同級生であった。",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "鈴木一成",
+   "type": "studied_at",
+   "object": "日蓮宗大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "願りみれば上人と私とは元日蓮宗大学の同級生であった。",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "藤井",
+   "type": "collaborated_with",
+   "object": "鈴木一成",
+   "role": "classmate",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "願りみれば上人と私とは元日蓮宗大学の同級生であった。今を去る五十年前からの学友であり",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "鈴木一成",
+   "type": "position_at",
+   "object": "大崎大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "卒業後抜擢せられ大崎大学に入り、その特性を発揮され学園の重要人物に累進せられた。",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "鈴木一成",
+   "type": "position_at",
+   "object": "立正大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "又上人は立正大学の教授陣に於て将来嘱望された新進気鋭人物であった。",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "藤井",
+   "type": "collaborated_with",
+   "object": "近江",
+   "role": "classmate",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "本年五月には学友雑司ヶ谷法明寺近江上人を失い",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "Nakamura_中村瑞隆_1963",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Nakamura_中村瑞隆_1963.txt",
+ "meta": {
+  "title": "如来蔵経考",
+  "author": "中村瑞隆",
+  "year": 1963,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

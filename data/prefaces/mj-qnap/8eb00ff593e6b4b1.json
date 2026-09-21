@@ -1,0 +1,140 @@
+{
+ "author": "M. A. Stein",
+ "doc_kind": "text_edition",
+ "doc_year": 1892,
+ "people": [
+  {
+   "name": "M. A. Stein",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Govind Kaul",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Mukundarâm",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Dâmodar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Fred H. Andrews",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hari Kṛiṣṇa Kaul",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "M. A. Stein",
+   "type": "influenced_by",
+   "object": "Bühler",
+   "role": null,
+   "place": null,
+   "year_start": 1890,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "enabled me to submit the materials I had collected, to Prof. Bühler who granted me his valuable advice in all questions connected with the proposed Edition.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Govind Kaul",
+   "type": "collaborated_with",
+   "object": "M. A. Stein",
+   "role": null,
+   "place": "Lahore",
+   "year_start": 1888,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pandit Govind Kaul accompanied me to Lahore in 1888, and has since rendered me very valuable assistance",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mukundarâm",
+   "type": "collaborated_with",
+   "object": "M. A. Stein",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I have received equally useful assistance for the second half of the text from a younger Kashmirian scholar, Pandit Mukundarâm, who also prepared under my directions provisional indices",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dâmodar",
+   "type": "position_at",
+   "object": "Mahârâja's Pâthashâlâ at Srinagar",
+   "role": "Head Pandit",
+   "place": "Srinagar",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pandit Dâmodar, Head Pandit of His Highness the Mahârâja's Pâthashâlâ at Srinagar",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fred H. Andrews",
+   "type": "position_at",
+   "object": "Lahore School of Arts",
+   "role": "Vice-Principal",
+   "place": "Lahore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Fred H. Andrews, Esq., Vice-Principal of the Lahore School of Arts",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hari Kṛiṣṇa Kaul",
+   "type": "student_of",
+   "object": "M. A. Stein",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "his son Paṇḍit Hari Kṛiṣṇa Kaul, M.A., then my pupil",
+   "quote_ok": true
+  }
+ ],
+ "docid": "rajatarangini1",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/rajatarangini1.txt",
+ "meta": {
+  "title": "The Buddhist Tantras: Light on Indo-Tibetan Esotericism",
+  "author": "Wayman, Alex",
+  "year": 1973,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,74 @@
+{
+ "author": "福原亮厳",
+ "doc_kind": "monograph",
+ "doc_year": 1965,
+ "people": [
+  {
+   "name": "福原亮厳",
+   "birth_year": 1909,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "福原亮厳",
+   "type": "studied_at",
+   "object": "竜谷大学研究科",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "竜谷大学研究科卒業",
+   "quote_ok": true
+  },
+  {
+   "subject": "福原亮厳",
+   "type": "position_at",
+   "object": "竜谷大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "竜谷大学教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "福原亮厳",
+   "type": "studied_at",
+   "object": "ベルリン大学",
+   "role": "留学",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ベルリン大学留学,並に講義",
+   "quote_ok": true
+  },
+  {
+   "subject": "福原亮厳",
+   "type": "position_at",
+   "object": "ベルリン大学",
+   "role": "講義",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ベルリン大学留学,並に講義",
+   "quote_ok": true
+  }
+ ],
+ "docid": "大毘婆沙論_目次",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/大毘婆沙論_目次.txt",
+ "meta": {
+  "title": "阿毘達磨大毘婆沙論條目",
+  "author": "",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

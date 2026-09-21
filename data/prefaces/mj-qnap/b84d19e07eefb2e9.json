@@ -1,0 +1,79 @@
+{
+ "author": "Akhil Doegar; Akshay Prasad",
+ "doc_kind": "other",
+ "doc_year": 2002,
+ "people": [
+  {
+   "name": "Akhil Doegar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Mathematics"
+  },
+  {
+   "name": "Akshay Prasad",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Mathematics"
+  },
+  {
+   "name": "Helmer Aslaksen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Mathematics"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Akhil Doegar",
+   "type": "student_of",
+   "object": "Helmer Aslaksen",
+   "role": "supervisor",
+   "place": null,
+   "year_start": 2002,
+   "year_end": 2003,
+   "explicit": true,
+   "evidence": "Supervisor :: Associate Professor Helmer Aslaksen A part of Undergraduate Research in Mathematics (MA3288). Semester 1, 2002-2003",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Akshay Prasad",
+   "type": "student_of",
+   "object": "Helmer Aslaksen",
+   "role": "supervisor",
+   "place": null,
+   "year_start": 2002,
+   "year_end": 2003,
+   "explicit": true,
+   "evidence": "Supervisor :: Associate Professor Helmer Aslaksen A part of Undergraduate Research in Mathematics (MA3288). Semester 1, 2002-2003",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Akhil Doegar",
+   "type": "collaborated_with",
+   "object": "Akshay Prasad",
+   "role": null,
+   "place": null,
+   "year_start": 2002,
+   "year_end": 2003,
+   "explicit": true,
+   "evidence": "Indian Calendars Akhil Doegar :: Akshay Prasad Supervisor :: Associate Professor Helmer Aslaksen A part of Undergraduate Research in Mathematics (MA3288). Semester 1, 2002-2003",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "Indian Calendars",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Indian Calendars.txt",
+ "meta": {
+  "title": "Indian Calendars",
+  "author": "Doegar, Akhil; Prasad, Akshay",
+  "year": 2002,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

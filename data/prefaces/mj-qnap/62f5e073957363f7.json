@@ -1,0 +1,64 @@
+{
+ "author": "Christoph Cüppers",
+ "doc_kind": "monograph",
+ "doc_year": 1990,
+ "people": [
+  {
+   "name": "Christoph Cüppers",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lambert Schmithausen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Paul Harrison",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Christoph Cüppers",
+   "type": "student_of",
+   "object": "Lambert Schmithausen",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "The present work is an English translation and revised version of my doctoral dissertation... gratitude to Prof. Lambert Schmithausen, who... took ever diligent care of this work's progress",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Harrison",
+   "type": "studied_at",
+   "object": "Australian National University",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 1979,
+   "explicit": true,
+   "evidence": "The Pratyutpanna-Buddha-Saṃmukhāvasthita-Samādhi-Sūtra. Ph.D. dissertation, Australian National University, 1979.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Samadhirajasutra_9 (CUEPPERS)",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Samadhirajasutra_9 (CUEPPERS).txt",
+ "meta": {
+  "title": "The IXth Chapter of the Samādhirājasūtra: A Text-critical Contribution to the Study of Mahāyāna Sūtras",
+  "author": "Cüppers, Christoph",
+  "year": 1990,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

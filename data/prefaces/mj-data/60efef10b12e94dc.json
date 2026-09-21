@@ -1,0 +1,92 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 2000,
+ "people": [
+  {
+   "name": "吉元信行",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "長崎法潤",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "平川彰",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "金倉円照",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indian philosophy"
+  },
+  {
+   "name": "和辻哲郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Philosophy"
+  },
+  {
+   "name": "Wilhelm Geiger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Germany",
+   "field": "Indology"
+  },
+  {
+   "name": "Magdalene Geiger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Germany",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "吉元信行",
+   "type": "collaborated_with",
+   "object": "長崎法潤",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1997,
+   "explicit": true,
+   "evidence": "吉元信行・長崎法潤「大谷大学図書館所蔵パーリ語貝葉写本について」印度学仏教学研究45-2",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Geiger",
+   "type": "collaborated_with",
+   "object": "Magdalene Geiger",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1920,
+   "explicit": true,
+   "evidence": "ガイガー博士夫妻(M. und W. Geiger)の共同によるパーリ聖典を主とした「Pali Dhamma」(Munchen, 1920)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "大谷学報79.1_大谷学会",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/大谷学報79.1_大谷学会.txt",
+ "meta": {
+  "title": "奈街三郎の幼年童話",
+  "author": "藤本 芳則",
+  "year": 2000,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

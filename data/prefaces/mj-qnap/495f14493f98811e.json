@@ -1,0 +1,88 @@
+{
+ "author": "D. C. Sircar",
+ "doc_kind": "monograph",
+ "doc_year": 1983,
+ "people": [
+  {
+   "name": "D. C. Sircar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "D. R. Das",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "S. Bandyopadhyay",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "D. C. Sircar",
+   "type": "position_at",
+   "object": "University of Calcutta",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I also had to leave the University of Calcutta within a few years thereafter",
+   "quote_ok": true
+  },
+  {
+   "subject": "D. R. Das",
+   "type": "student_of",
+   "object": "D. C. Sircar",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I am extremely grateful to my pupil, Dr. D. R. Das, for help in revising the volume for the press.",
+   "quote_ok": true
+  },
+  {
+   "subject": "S. Bandyopadhyay",
+   "type": "student_of",
+   "object": "D. C. Sircar",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I have also received some assistance from Dr. S. Bandyopadhyay, another pupil of mine.",
+   "quote_ok": true
+  },
+  {
+   "subject": "D. R. Das",
+   "type": "collaborated_with",
+   "object": "S. Bandyopadhyay",
+   "role": "co-compilers of glossary and index",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The Glossary and Index of the volume have been prepared by Drs. D. R. Das and S. Bandyopadhyay",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Sircar.1983.SelectInscriptions.v2.OCR",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Sircar.1983.SelectInscriptions.v2.OCR.txt",
+ "meta": {
+  "title": "SELECT INSCRIPTIONS bearing on Indian History and Civilization",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

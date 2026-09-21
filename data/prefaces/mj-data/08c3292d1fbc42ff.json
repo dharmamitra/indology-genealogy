@@ -1,0 +1,57 @@
+{
+ "author": "Charles Brewer Jones",
+ "doc_kind": "dissertation",
+ "doc_year": 1996,
+ "people": [
+  {
+   "name": "Charles Brewer Jones",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Paul Groner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Charles Brewer Jones",
+   "type": "student_of",
+   "object": "Paul Groner",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1996,
+   "explicit": true,
+   "evidence": "I cannot begin to put into words the incalculable debt of gratitude that I owe to my advisor, Prof. Paul Groner, who has helped me in more ways than I can number.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Charles Brewer Jones",
+   "type": "studied_at",
+   "object": "University of Virginia",
+   "role": "PhD",
+   "place": "Charlottesville",
+   "year_start": null,
+   "year_end": 1996,
+   "explicit": false,
+   "evidence": "Charlottesville, and a University of Virginia Graduate Arts and Sciences Dissertation Year Fellowship.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Jones-BudInTaiwan",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Jones-BudInTaiwan.txt",
+ "meta": {
+  "title": "BUDDHISM IN TAIWAN: A HISTORICAL SURVEY",
+  "author": "Jones, Charles Brewer",
+  "year": 1996,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

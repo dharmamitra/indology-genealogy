@@ -1,0 +1,65 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 1971,
+ "people": [
+  {
+   "name": "Leopold von Schroeder",
+   "birth_year": 1851,
+   "death_year": 1920,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Rudolph Roth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "A. Weber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Leopold von Schroeder",
+   "type": "student_of",
+   "object": "Rudolph Roth",
+   "role": "teacher",
+   "place": "Tübingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Angeregt durch seinen Tübinger Lehrer Rudolph Roth hat der Indologe Leopold von Schroeder (1851–1920)",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "A. Weber",
+   "type": "position_at",
+   "object": "Berlin",
+   "role": "Prof.",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Eine, Herrn Prof. A. Weber in Berlin gehörige Handschrift des zweiten Kâṇḍa der Mâitr. S.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Maitrayanisamhita01_Schroeder_FSVG_1971",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Maitrayanisamhita01_Schroeder_FSVG_1971.txt",
+ "meta": {
+  "title": "Maitrāyaṇī Saṃhitā: Die Saṃhitā der Maitrāyaṇīya-Śākhā",
+  "author": "von Schroeder, Leopold",
+  "year": 1971,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

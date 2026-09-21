@@ -1,0 +1,91 @@
+{
+ "author": "McDougal",
+ "doc_kind": "dissertation",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "McDougal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetan studies"
+  },
+  {
+   "name": "Geoffrey Samuel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Mark Allon",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "dBang drag Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "McDougal",
+   "type": "studied_at",
+   "object": "University of Sydney",
+   "role": "Master of Arts (Research)",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A thesis submitted in fulfilment of the requirements for the degree of Master of Arts (Research) Faculty of Arts and Social Sciences University of Sydney",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "McDougal",
+   "type": "student_of",
+   "object": "Geoffrey Samuel",
+   "role": "MA supervisor",
+   "place": "University of Sydney",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The first people I would like to thank are my research supervisors, Professor Geoffrey Samuel and Dr. Mark Allon",
+   "quote_ok": true
+  },
+  {
+   "subject": "McDougal",
+   "type": "student_of",
+   "object": "Mark Allon",
+   "role": "MA supervisor",
+   "place": "University of Sydney",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The first people I would like to thank are my research supervisors, Professor Geoffrey Samuel and Dr. Mark Allon",
+   "quote_ok": true
+  },
+  {
+   "subject": "McDougal",
+   "type": "student_of",
+   "object": "dBang drag Rinpoche",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "I am sincerely thankful as well to dBang drag Rinpoche, a Gad chags lama whose embodiment of the Tibetan yogic view and simplicity in explaining it to me served as a bridge across worlds",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_McDougal_Transformations of contemplative culture in Eastern Tibet",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_McDougal_Transformations of contemplative culture in Eastern Tibet.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

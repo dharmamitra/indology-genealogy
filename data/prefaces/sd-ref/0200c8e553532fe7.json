@@ -1,0 +1,71 @@
+{
+ "author": "Guy S. Alitto",
+ "doc_kind": "other",
+ "doc_year": 2013,
+ "people": [
+  {
+   "name": "Guy S. Alitto",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "history"
+  },
+  {
+   "name": "Liang Shuming",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": null
+  },
+  {
+   "name": "Hu Shiru",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Guy S. Alitto",
+   "type": "position_at",
+   "object": "University of Chicago",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Guy Alitto of the University of Chicago is the author of The Last Confucian: Liang Shuming and the Chinese Dilemma of Modernity.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Liang Shuming",
+   "type": "position_at",
+   "object": "Peking University",
+   "role": "teaching",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "important activities of Mr. Liang's life (teaching at Peking University, working in the Rural Reconstruction Movement, founding the Democratic League...)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hu Shiru",
+   "type": "student_of",
+   "object": "Liang Shuming",
+   "role": "student",
+   "place": "Peking University",
+   "year_start": 1920,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "This man, an engineer who had lived in the U.S. for many decades, was one of Liang's students at Peking University in the early 1920s.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Has Man a Future. Dialogues with the Last Confucian_Shu Ming Liang, Guy S. Alitto",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Has Man a Future. Dialogues with the Last Confucian_Shu Ming Liang, Guy S. Alitto.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

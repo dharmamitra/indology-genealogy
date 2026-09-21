@@ -1,0 +1,71 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 1853,
+ "people": [
+  {
+   "name": "Dr. Wilson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Mr. Erskine",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Oriental literature"
+  },
+  {
+   "name": "Dr. Leyden",
+   "birth_year": null,
+   "death_year": 1811,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "James Atkinson",
+   "birth_year": 1780,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Oriental languages"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Mr. Erskine",
+   "type": "other",
+   "object": "Dr. Leyden",
+   "role": "early friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A regard for the fair fame of his early friend, as well as a conviction of the intrinsic value of the work, induced Mr. Erskine to acquire the language of the original, and to complete the translation",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Atkinson",
+   "type": "position_at",
+   "object": "College of Fort William",
+   "role": "Assistant Persian Professor",
+   "place": "Calcutta",
+   "year_start": 1818,
+   "year_end": 1818,
+   "explicit": true,
+   "evidence": "with a brief interval in 1818, during which he officiated as Assistant Persian Professor in the College of Fort William",
+   "quote_ok": true
+  }
+ ],
+ "docid": "JRASGBI15",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/JRASGBI15.txt#0",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

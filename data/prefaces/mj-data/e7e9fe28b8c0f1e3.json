@@ -1,0 +1,102 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 2000,
+ "people": [
+  {
+   "name": "NUMATA Yehan",
+   "birth_year": 1897,
+   "death_year": 1994,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "HANAYAMA Shōyū",
+   "birth_year": 1932,
+   "death_year": 1995,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "MAYEDA Sengaku",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Philip Yampolsky",
+   "birth_year": null,
+   "death_year": 1996,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Kenneth K. Inada",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "NUMATA Yehan",
+   "type": "founded",
+   "object": "Bukkyō Dendō Kyōkai",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. NUMATA Yehan, the founder of the Bukkyō Dendō Kyōkai (Society for the Promotion of Buddhism)",
+   "quote_ok": true
+  },
+  {
+   "subject": "MAYEDA Sengaku",
+   "type": "position_at",
+   "object": "Musashino Women's College",
+   "role": "Vice President",
+   "place": null,
+   "year_start": null,
+   "year_end": 1995,
+   "explicit": true,
+   "evidence": "After these severe blows, the Committee elected me, Vice President of Musashino Women's College, to be the Chair in October 1995.",
+   "quote_ok": true
+  },
+  {
+   "subject": "MAYEDA Sengaku",
+   "type": "succeeded",
+   "object": "HANAYAMA Shōyū",
+   "role": "Chair",
+   "place": "Translation Committee of the English Tripitaka",
+   "year_start": 1995,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The Committee also lost its able and devoted Chairperson, Professor HANAYAMA Shōyū, on June 16, 1995... the Committee elected me, Vice President of Musashino Women's College, to be the Chair in October 1995.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kenneth K. Inada",
+   "type": "succeeded",
+   "object": "Philip Yampolsky",
+   "role": "Chairperson",
+   "place": "Publication Committee at the Numata Center",
+   "year_start": 1997,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In July 1996, the Committee unfortunately lost its valued Chairperson, Dr. Philip Yampolsky... In February 1997, I was appointed to guide the Committee in his place.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "The Scripture on the Explication of Underlying Meaning(Samdhinirmocana)_BDK English Tripitaka 25-IV @ Keenan, John_2000",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/The Scripture on the Explication of Underlying Meaning(Samdhinirmocana)_BDK English Tripitaka 25-IV @ Keenan, John_2000.txt",
+ "meta": {
+  "title": "The Scripture on the Explication of Underlying Meaning",
+  "author": "Keenan, John",
+  "year": 2000,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

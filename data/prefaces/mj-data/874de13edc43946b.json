@@ -1,0 +1,100 @@
+{
+ "author": "小谷信千代",
+ "doc_kind": "monograph",
+ "doc_year": 2000,
+ "people": [
+  {
+   "name": "小谷信千代",
+   "birth_year": 1944,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "梶山雄一",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "丹治昭義",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "小谷信千代",
+   "type": "studied_at",
+   "object": "大谷大学文学部",
+   "role": "BA",
+   "place": null,
+   "year_start": null,
+   "year_end": 1967,
+   "explicit": true,
+   "evidence": "1967年大谷大学文学部卒業",
+   "quote_ok": true
+  },
+  {
+   "subject": "小谷信千代",
+   "type": "studied_at",
+   "object": "京都大学大学院",
+   "role": "MA",
+   "place": null,
+   "year_start": null,
+   "year_end": 1975,
+   "explicit": true,
+   "evidence": "1975年京都大学大学院修士課程修了",
+   "quote_ok": true
+  },
+  {
+   "subject": "小谷信千代",
+   "type": "studied_at",
+   "object": "大谷大学大学院博士課程",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1978,
+   "explicit": true,
+   "evidence": "1978年大谷大学大学院博士課程満期退学",
+   "quote_ok": true
+  },
+  {
+   "subject": "小谷信千代",
+   "type": "position_at",
+   "object": "大谷大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": 2000,
+   "explicit": true,
+   "evidence": "現在 大谷大学教授、博士(文学)",
+   "quote_ok": true
+  },
+  {
+   "subject": "梶山雄一",
+   "type": "collaborated_with",
+   "object": "丹治昭義",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "梶山雄一・丹治昭義訳『八千頌般若経』Ⅱ(中央公論社刊大乗仏典3)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Odani_小谷信千代_2000",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Odani_小谷信千代_2000.txt",
+ "meta": {
+  "title": "瑜伽行における法の修習",
+  "author": "小谷信千代",
+  "year": 2000,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

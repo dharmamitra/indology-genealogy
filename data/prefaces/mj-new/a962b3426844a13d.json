@@ -1,0 +1,78 @@
+{
+ "author": "Minoru Hara",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Minoru Hara",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "田中於菟彌",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "岩本裕",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "John Brough",
+   "birth_year": 1917,
+   "death_year": 1984,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jan Gonda",
+   "birth_year": 1905,
+   "death_year": 1991,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Minoru Hara",
+   "type": "collaborated_with",
+   "object": "田中於菟彌",
+   "role": "co-editor",
+   "place": null,
+   "year_start": 1981,
+   "year_end": 1982,
+   "explicit": true,
+   "evidence": "辻直四郎著作集 I〜IV (田中於菟彌、岩本裕と共編) (法蔵館1981〜82)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Minoru Hara",
+   "type": "collaborated_with",
+   "object": "岩本裕",
+   "role": "co-editor",
+   "place": null,
+   "year_start": 1981,
+   "year_end": 1982,
+   "explicit": true,
+   "evidence": "辻直四郎著作集 I〜IV (田中於菟彌、岩本裕と共編) (法蔵館1981〜82)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Hara_publ_list",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Hara_publ_list.txt",
+ "meta": {
+  "title": "LIST OF PUBLICATIONS",
+  "author": "Hara, Minoru",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

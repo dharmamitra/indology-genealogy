@@ -1,0 +1,160 @@
+{
+ "author": "Johannes Nobel",
+ "doc_kind": "text_edition",
+ "doc_year": 1957,
+ "people": [
+  {
+   "name": "Johannes Nobel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Karl Friedrich Geldner",
+   "birth_year": null,
+   "death_year": 1929,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Henry Clark Warren",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Charles Rockwell Lanman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Daniel H. H. Ingalls",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "W. Rau",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Henry Clark Warren",
+   "type": "founded",
+   "object": "Harvard Oriental Series",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "HARVARD ORIENTAL SERIES FOUNDED BY HENRY CLARK WARREN AND CHARLES ROCKWELL LANMAN",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Charles Rockwell Lanman",
+   "type": "founded",
+   "object": "Harvard Oriental Series",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "HARVARD ORIENTAL SERIES FOUNDED BY HENRY CLARK WARREN AND CHARLES ROCKWELL LANMAN",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Karl Friedrich Geldner",
+   "type": "position_at",
+   "object": "Universität Marburg",
+   "role": "Professor des Sanskrit",
+   "place": "Marburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "KARL FRIEDRICH GELDNER weiland Professor des Sanskrit an der Universität Marburg",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Johannes Nobel",
+   "type": "position_at",
+   "object": "Universität Marburg",
+   "role": "Professor des Sanskrit",
+   "place": "Marburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ANNES NOBEL Professor des Sanskrit an der Universität Marburg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Nobel",
+   "type": "succeeded",
+   "object": "Karl Friedrich Geldner",
+   "role": "Lehrstuhl für Indische Philologie",
+   "place": "Universität Marburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Da aber K. F. Geldner, mein Vorgänger auf dem Lehrstuhl für Indische Philologie an der Universität Marburg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Rockwell Lanman",
+   "type": "other",
+   "object": "Karl Friedrich Geldner",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Abschluß des großen Lebenswerkes seines Freundes Geldner",
+   "quote_ok": true
+  },
+  {
+   "subject": "W. Rau",
+   "type": "position_at",
+   "object": "Frankfurt",
+   "role": "Professor",
+   "place": "Frankfurt",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "haben es Professor W. Rau (jetzt in Frankfurt) und vor allem dann meine Frau übernommen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Nobel",
+   "type": "collaborated_with",
+   "object": "W. Rau",
+   "role": "preparation of Rigveda index",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Auch dabei hat W. Rau wertvolle Hilfe geleistet. Wir waren bestrebt, die nach Tausenden zählendem Eintragungen unter bestimmte Rubriken zu bringen.",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Geldner Index",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Geldner Index.txt",
+ "meta": {
+  "title": "Der Rig-Veda",
+  "author": "Geldner, Karl Friedrich",
+  "year": 1957,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

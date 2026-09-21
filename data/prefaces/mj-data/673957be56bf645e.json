@@ -1,0 +1,128 @@
+{
+ "author": "湯山明",
+ "doc_kind": "article",
+ "doc_year": 1997,
+ "people": [
+  {
+   "name": "湯山明",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "Émile Burnouf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "France",
+   "field": "Indology"
+  },
+  {
+   "name": "L. Leupol",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "France",
+   "field": "Indology"
+  },
+  {
+   "name": "Christian Lassen",
+   "birth_year": 1800,
+   "death_year": 1886,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Eugène Burnouf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "France",
+   "field": "Indology"
+  },
+  {
+   "name": "松田和信",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "戸田宏文",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist Studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Émile Burnouf",
+   "type": "collaborated_with",
+   "object": "L. Leupol",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1855,
+   "explicit": true,
+   "evidence": "Méthode pour étudier la langue sanscrite, par Émile Burnouf et L. Leupol",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eugène Burnouf",
+   "type": "collaborated_with",
+   "object": "Christian Lassen",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": 1826,
+   "explicit": true,
+   "evidence": "ユージェーヌは、幸いにもパリでラッセンと出会い、ともに二十代半ばの新進気鋭の学徒として、見事に一致した関心からパーリ語の最初の学術的研究書を共同して著わし、パリのアジア協会から先ず出版する。1826年のことである。",
+   "quote_ok": false
+  },
+  {
+   "subject": "Eugène Burnouf",
+   "type": "position_at",
+   "object": "アジア協会",
+   "role": "事務局長",
+   "place": "Paris",
+   "year_start": 1826,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1826年という年は、ユージェーヌが、まさしくアジア協会のいわば事務局長に就任した年だったのである。",
+   "quote_ok": true
+  },
+  {
+   "subject": "松田和信",
+   "type": "position_at",
+   "object": "佛教大学総合研究所",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1997,
+   "explicit": true,
+   "evidence": "わが仏教大学総合研究所の松田和信",
+   "quote_ok": true
+  },
+  {
+   "subject": "湯山明",
+   "type": "collaborated_with",
+   "object": "戸田宏文",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1977,
+   "explicit": true,
+   "evidence": "そこで戸田宏文を誘って、二人で小冊子をものしたのである。The Huntington Fragment F of the Saddharmapundarīkasūtra, by Akira Yuyama and Hirofumi Toda",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Yuyama_湯山明_1997_法華経の文献学的研究課題",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Yuyama_湯山明_1997_法華経の文献学的研究課題.txt",
+ "meta": {
+  "title": "法華経の文献学的研究課題",
+  "author": "湯山明",
+  "year": 1997,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

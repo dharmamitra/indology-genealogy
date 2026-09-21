@@ -1,0 +1,103 @@
+{
+ "author": "Albrecht Weber",
+ "doc_kind": "text_edition",
+ "doc_year": 1871,
+ "people": [
+  {
+   "name": "Albrecht Weber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Georg Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "William Dwight Whitney",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "E. Roer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "E. B. Cowell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Albrecht Weber",
+   "type": "position_at",
+   "object": "Universität zu Berlin",
+   "role": "Professor o. des Sanskrit",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "DR. ALBRECHT WEBER. Professor o. des Sanskrit an der Universität zu Berlin",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Georg Bühler",
+   "type": "position_at",
+   "object": "Bombay",
+   "role": "Professor",
+   "place": "Bombay",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor G. Bühler in Bombay",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Dwight Whitney",
+   "type": "position_at",
+   "object": "New Haven Conn.",
+   "role": "Professor",
+   "place": "New Haven Conn.",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor W. D. Whitney in New Haven Conn.",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. Roer",
+   "type": "collaborated_with",
+   "object": "E. B. Cowell",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "von Roer und E. B. Cowell (nros. 9-13 bis I, 8, 19)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Die_Taittiriya_Samhita",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Die_Taittiriya_Samhita.txt",
+ "meta": {
+  "title": "Die Taittiriya-Samhita",
+  "author": "Weber, Albrecht",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,80 @@
+{
+ "author": null,
+ "doc_kind": "dissertation",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "James Breckenridge",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "William Pitts",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Robert Baird",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Tarthang Tulku",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Khentse Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Michael Zimmerman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Tarthang Tulku",
+   "type": "student_of",
+   "object": "Khentse Rinpoche",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he continued his studies with his root-guru, Khentse Rinpoche",
+   "quote_ok": false
+  },
+  {
+   "subject": "Michael Zimmerman",
+   "type": "position_at",
+   "object": "Tibetan Nyingma Institute",
+   "role": "Vice-President",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Michael Zimmerman, Vice-President of the Tibetan Nyingma Institute",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Browning_Tarthang Tulku and Am Budd",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Browning_Tarthang Tulku and Am Budd.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

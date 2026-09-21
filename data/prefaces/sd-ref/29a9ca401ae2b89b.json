@@ -1,0 +1,85 @@
+{
+ "author": "Henry Shukman",
+ "doc_kind": "other",
+ "doc_year": 2019,
+ "people": [
+  {
+   "name": "Henry Shukman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Shinzen Young",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Philip Kapleau",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "Zen Buddhism"
+  },
+  {
+   "name": "Yamada Koun Roshi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Zen Buddhism"
+  },
+  {
+   "name": "Kubota Akira Roshi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Zen Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Henry Shukman",
+   "type": "student_of",
+   "object": "Shinzen Young",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "And I was blessed to be gifted some mindfulness training by the meditation adept Shinzen Young.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philip Kapleau",
+   "type": "collaborated_with",
+   "object": "Yamada Koun Roshi",
+   "role": "co-editors/translators",
+   "place": null,
+   "year_start": null,
+   "year_end": 1965,
+   "explicit": true,
+   "evidence": "helping to edit and translate a famous Zen book, The Three Pillars of Zen. The volume was the work of three men—Yamada Koun Roshi, Kubota Akira Roshi, and Philip Kapleau",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philip Kapleau",
+   "type": "collaborated_with",
+   "object": "Kubota Akira Roshi",
+   "role": "co-editors/translators",
+   "place": null,
+   "year_start": null,
+   "year_end": 1965,
+   "explicit": true,
+   "evidence": "helping to edit and translate a famous Zen book, The Three Pillars of Zen. The volume was the work of three men—Yamada Koun Roshi, Kubota Akira Roshi, and Philip Kapleau",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_One Blade of Grass  Finding the Old Road of the Heart, a Zen Memoir_Henry Shukman, 2019",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_One Blade of Grass  Finding the Old Road of the Heart, a Zen Memoir_Henry Shukman, 2019.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

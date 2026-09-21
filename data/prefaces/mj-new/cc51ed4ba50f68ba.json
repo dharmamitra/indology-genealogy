@@ -1,0 +1,133 @@
+{
+ "author": "上村勝彦",
+ "doc_kind": "text_edition",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "上村勝彦",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indology"
+  },
+  {
+   "name": "中村元",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indology"
+  },
+  {
+   "name": "原實",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indology"
+  },
+  {
+   "name": "山崎利男",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indology"
+  },
+  {
+   "name": "永尾信悟",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "横地優子",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "上村勝彦",
+   "type": "position_at",
+   "object": "東京大学東洋文化研究所",
+   "role": "助教授",
+   "place": "Tokyo",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "それは私が四十一歳で、東京大学東洋文化研究所の助教授に着任して、間もないころのことだと記憶している。",
+   "quote_ok": true
+  },
+  {
+   "subject": "上村勝彦",
+   "type": "student_of",
+   "object": "中村元",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "長年の間不肖の弟子を導いて下さった中村元、原實、山崎利男先生をはじめとする恩師の先生方に心から御礼申し上げたい。",
+   "quote_ok": false
+  },
+  {
+   "subject": "上村勝彦",
+   "type": "student_of",
+   "object": "原實",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "長年の間不肖の弟子を導いて下さった中村元、原實、山崎利男先生をはじめとする恩師の先生方に心から御礼申し上げたい。",
+   "quote_ok": false
+  },
+  {
+   "subject": "上村勝彦",
+   "type": "student_of",
+   "object": "山崎利男",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "長年の間不肖の弟子を導いて下さった中村元、原實、山崎利男先生をはじめとする恩師の先生方に心から御礼申し上げたい。",
+   "quote_ok": false
+  },
+  {
+   "subject": "上村勝彦",
+   "type": "collaborated_with",
+   "object": "永尾信悟",
+   "role": "colleague",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "同僚の永尾信悟氏には、しばしば有益な助言をいただいた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "上村勝彦",
+   "type": "collaborated_with",
+   "object": "横地優子",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "この日本語訳を開始したころ、横地優子氏に協力していただき、比較的近年に出版された参考書のリストを作成したが",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Kamimura Katsuhiko_マハーバーラタ01_上村勝彦訳",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Kamimura Katsuhiko_マハーバーラタ01_上村勝彦訳.txt",
+ "meta": {
+  "title": "原典訳 マハーバーラタ I",
+  "author": "上村勝彦",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

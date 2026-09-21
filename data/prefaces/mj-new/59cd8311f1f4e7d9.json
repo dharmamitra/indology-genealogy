@@ -1,0 +1,102 @@
+{
+ "author": "矢野道雄",
+ "doc_kind": "text_edition",
+ "doc_year": 1987,
+ "people": [
+  {
+   "name": "矢野道雄",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "大地原誠玄",
+   "birth_year": 1897,
+   "death_year": 1945,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "シヴ・シャルマ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "India",
+   "field": null
+  },
+  {
+   "name": "丸山博",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "幡井勉",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "丸山博",
+   "type": "position_at",
+   "object": "大阪大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "大阪大学の丸山博教授の主宰されるアーユルヴェーダ研究会",
+   "quote_ok": true
+  },
+  {
+   "subject": "丸山博",
+   "type": "position_at",
+   "object": "アーユルヴェーダ研究会",
+   "role": "主宰",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "大阪大学の丸山博教授の主宰されるアーユルヴェーダ研究会",
+   "quote_ok": true
+  },
+  {
+   "subject": "幡井勉",
+   "type": "succeeded",
+   "object": "丸山博",
+   "role": null,
+   "place": "アーユルヴェーダ研究会",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "丸山先生の後を引き継いでアーユルヴェーダ研究会の会長になられた幡井勉先生",
+   "quote_ok": true
+  },
+  {
+   "subject": "幡井勉",
+   "type": "position_at",
+   "object": "アーユルヴェーダ研究会",
+   "role": "会長",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "丸山先生の後を引き継いでアーユルヴェーダ研究会の会長になられた幡井勉先生",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Michio Yano caraka translation",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Michio Yano caraka translation.txt",
+ "meta": {
+  "title": "インド医学概論 チャラカ・サンヒター",
+  "author": "矢野道雄",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

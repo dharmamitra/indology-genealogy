@@ -1,0 +1,57 @@
+{
+ "author": "A. G. Paspati",
+ "doc_kind": "article",
+ "doc_year": 1862,
+ "people": [
+  {
+   "name": "A. G. Paspati",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Greek",
+   "field": "linguistics"
+  },
+  {
+   "name": "C. Hamlin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "A. G. Paspati",
+   "type": "collaborated_with",
+   "object": "C. Hamlin",
+   "role": "translator",
+   "place": "Constantinople",
+   "year_start": null,
+   "year_end": 1860,
+   "explicit": true,
+   "evidence": "BY A. G. PASPATI, A. M., M. D. TRANSLATED FROM THE GREEK BY REV. C. HAMLIN, D. D., MISSIONARY OF THE A. B. C. F. M. AT CONSTANTINOPLE.",
+   "quote_ok": true
+  },
+  {
+   "subject": "C. Hamlin",
+   "type": "position_at",
+   "object": "A. B. C. F. M.",
+   "role": "Missionary",
+   "place": "Constantinople",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "REV. C. HAMLIN, D. D., MISSIONARY OF THE A. B. C. F. M. AT CONSTANTINOPLE.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "JAOS_007_1862=journalofamerica07ameruoft_bw",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/JAOS_007_1862=journalofamerica07ameruoft_bw.txt#0",
+ "meta": {
+  "title": "The Life of the Buddha",
+  "author": "Rockhill, W. Woodville",
+  "year": 1884,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

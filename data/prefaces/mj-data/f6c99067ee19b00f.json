@@ -1,0 +1,76 @@
+{
+ "author": "大南龍昇",
+ "doc_kind": "article",
+ "doc_year": 1985,
+ "people": [
+  {
+   "name": "大南龍昇",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "壬生台舜",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "斉藤精也",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist Studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "大南龍昇",
+   "type": "student_of",
+   "object": "壬生台舜",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "翻訳には壬生博士の懇切な御指導に預った。",
+   "quote_ok": true
+  },
+  {
+   "subject": "大南龍昇",
+   "type": "position_at",
+   "object": "大正大学",
+   "role": "講師",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "(大正大学・講師)",
+   "quote_ok": true
+  },
+  {
+   "subject": "大南龍昇",
+   "type": "collaborated_with",
+   "object": "斉藤精也",
+   "role": "学兄",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "学兄斉藤精也氏も龍樹の広疏を研究されたことから、氏の研究に多くの教示を得ている。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Ominami_大南龍昇__1985_壬生台舜博士頌寿記念 仏教の歴史と思想@二種の稲竿経註釈書",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Ominami_大南龍昇__1985_壬生台舜博士頌寿記念 仏教の歴史と思想@二種の稲竿経註釈書.txt",
+ "meta": {
+  "title": "二種の稲竿経註釈書",
+  "author": "大南龍 昇",
+  "year": 1985,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

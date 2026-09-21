@@ -1,0 +1,96 @@
+{
+ "author": "M. Winternitz",
+ "doc_kind": "monograph",
+ "doc_year": 1920,
+ "people": [
+  {
+   "name": "M. Winternitz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Jyun Takakusu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Otto Stein",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Leopold von Schroeder",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "M. Winternitz",
+   "type": "position_at",
+   "object": "Deutschen Universität in Prag",
+   "role": "ord. Professor",
+   "place": "Prag",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Von Dr. M. Winternitz, ord. Professor an der Deutschen Universität in Prag.",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Jyun Takakusu",
+   "type": "student_of",
+   "object": "M. Winternitz",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "gen Schüler, Professor Jyun Takakusu in Tokio, für manche wertvolle Zusendungen und briefliche Mitteilungen meinen herzlichen Dank auszusprechen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Stein",
+   "type": "student_of",
+   "object": "M. Winternitz",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Meinem Schüler Dr. Otto Stein bin ich für die bei der Korrektur der zweiten Hälfte dieses Bandes und bei der Revision des Index geleistete Hilfe zu Dank verpflichtet.",
+   "quote_ok": true
+  },
+  {
+   "subject": "M. Winternitz",
+   "type": "other",
+   "object": "Leopold von Schroeder",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Und auch mein lieber Freund Leopold von Schroeder, der es vor mehr als dreißig Jahren unternommen hat, eine Geschichte der indischen Litteratur und Kultur zu schreiben",
+   "quote_ok": true
+  }
+ ],
+ "docid": "geschichtederind02wintuoft",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/geschichtederind02wintuoft.txt",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": null
+ },
+ "model": "gemini-flash-latest"
+}

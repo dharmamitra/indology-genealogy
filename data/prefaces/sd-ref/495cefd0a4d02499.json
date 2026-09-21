@@ -1,0 +1,127 @@
+{
+ "author": "Chen Liu",
+ "doc_kind": "dissertation",
+ "doc_year": 2011,
+ "people": [
+  {
+   "name": "Chen Liu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Claudia Brown",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ju-hsi Chou",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jiang Wu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Chen Liu",
+   "type": "studied_at",
+   "object": "Arizona State University",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 2011,
+   "explicit": true,
+   "evidence": "A Dissertation Presented in Partial Fulfillment of the Requirement for the Degree Doctor of Philosophy Approved November 2011 by the Graduate Supervisory Committee: Claudia Brown, Chair",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Chen Liu",
+   "type": "student_of",
+   "object": "Claudia Brown",
+   "role": "doctoral supervisor",
+   "place": "Arizona State University",
+   "year_start": null,
+   "year_end": 2011,
+   "explicit": true,
+   "evidence": "First and foremost I offer my sincerest gratitude to my supervisor at Arizona State University, Dr. Claudia Brown, without whom this dissertation could not have been written.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chen Liu",
+   "type": "student_of",
+   "object": "Ju-hsi Chou",
+   "role": "committee member",
+   "place": "Arizona State University",
+   "year_start": null,
+   "year_end": 2011,
+   "explicit": true,
+   "evidence": "I owe a special thanks to Dr. Ju-hsi Chou, Professor Emeritus of ASU and former Curator of Chinese Art, Cleveland Museum of Art, who has served as a member of my committee.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ju-hsi Chou",
+   "type": "position_at",
+   "object": "Arizona State University",
+   "role": "Professor Emeritus",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Ju-hsi Chou, Professor Emeritus of ASU",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ju-hsi Chou",
+   "type": "position_at",
+   "object": "Cleveland Museum of Art",
+   "role": "Curator of Chinese Art",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Ju-hsi Chou, Professor Emeritus of ASU and former Curator of Chinese Art, Cleveland Museum of Art",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chen Liu",
+   "type": "student_of",
+   "object": "Jiang Wu",
+   "role": "committee member",
+   "place": "Arizona State University",
+   "year_start": null,
+   "year_end": 2011,
+   "explicit": true,
+   "evidence": "I would also like to warmly acknowledge another member of my committee, Professor Jiang Wu of University of Arizona",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jiang Wu",
+   "type": "position_at",
+   "object": "University of Arizona",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Jiang Wu of University of Arizona",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Flowers Bloom and Fall. Representation of The Vimalakirti Sutra In Traditional Chinese Painting_Chen Liu, 2011",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Flowers Bloom and Fall. Representation of The Vimalakirti Sutra In Traditional Chinese Painting_Chen Liu, 2011.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

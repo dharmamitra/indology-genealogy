@@ -1,0 +1,71 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1981,
+ "people": [
+  {
+   "name": "Paul Hacker",
+   "birth_year": 1913,
+   "death_year": 1979,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "G. Oberhammer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Otto Böhtlingk",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rudolf Roth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "G. Oberhammer",
+   "type": "position_at",
+   "object": "Institut für Indologie der Universität Wien",
+   "role": "editor",
+   "place": "Wien",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "herausgegeben von G. OBERHAMMER Institut für Indologie Universität Wien",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Böhtlingk",
+   "type": "collaborated_with",
+   "object": "Rudolf Roth",
+   "role": "co-authors",
+   "place": "St. Peterburg",
+   "year_start": 1855,
+   "year_end": 1875,
+   "explicit": true,
+   "evidence": "BÖTHLINGK, OTTO—ROTH, RUDOLF. Sanskrit-Wörterbuch. 7 vols. St. Peterburg: Kaiserliche Akademie der Wissenschaften, 1855-75.",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Salomon (1981) A linguistic Analysis of the Mundaka Upanisad",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Salomon (1981) A linguistic Analysis of the Mundaka Upanisad.txt",
+ "meta": {
+  "title": "A Linguistic Analysis of the Mundaka Upanisad",
+  "author": "Salomon, R",
+  "year": 1981,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

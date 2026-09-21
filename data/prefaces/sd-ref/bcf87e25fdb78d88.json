@@ -1,0 +1,97 @@
+{
+ "author": "Leo M. Pruden",
+ "doc_kind": "text_edition",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Leo M. Pruden",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "UNNO Taitetsu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Stanley Weinstein",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Philip Yampolsky",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Paul L. Swanson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Leo M. Pruden",
+   "type": "student_of",
+   "object": "UNNO Taitetsu",
+   "role": "teacher",
+   "place": "Los Angeles",
+   "year_start": 1960,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In September of 1960 I began my formal study of Buddhism in Los Angeles... The reading was conducted under the guidance of the then Mr. and now Dr. UNNO Taitetsu, who gave unselfishly of his time to us three students.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Leo M. Pruden",
+   "type": "studied_at",
+   "object": "Tokyo University",
+   "role": null,
+   "place": "Tokyo",
+   "year_start": 1965,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In October of 1964 I was privileged to be able to go to Japan for further study of Buddhism; and from September of 1965 I was able [to study in the] Department of Indian and Buddhist Studies at Tokyo University.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Stanley Weinstein",
+   "type": "position_at",
+   "object": "Yale University",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Stanley Weinstein, presently at Yale University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philip Yampolsky",
+   "type": "position_at",
+   "object": "Publication Committee",
+   "role": "Chairman",
+   "place": "Berkeley, California",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Philip Yampolsky\nChairman\nPublication Committee",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_1864",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_1864.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

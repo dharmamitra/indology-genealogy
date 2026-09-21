@@ -1,0 +1,102 @@
+{
+ "author": "Michael Pye",
+ "doc_kind": "monograph",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Michael Pye",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Maurice Wiles",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ninian Smart",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Religious Studies"
+  },
+  {
+   "name": "John Tinsley",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Michael Pye",
+   "type": "student_of",
+   "object": "Maurice Wiles",
+   "role": "teacher",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I should like to thank my teacher at Cambridge, Maurice Wiles",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Pye",
+   "type": "position_at",
+   "object": "University of Lancaster",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "an appointment to the Department of Religious Studies at the University of Lancaster, headed then at its inception by Ninian Smart",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ninian Smart",
+   "type": "position_at",
+   "object": "University of Lancaster",
+   "role": "head of the Department of Religious Studies",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Department of Religious Studies at the University of Lancaster, headed then at its inception by Ninian Smart",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Pye",
+   "type": "position_at",
+   "object": "University of Leeds",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The subsequent patience of John Tinsley and other colleagues at the University of Leeds allowed me to complete my work",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Tinsley",
+   "type": "position_at",
+   "object": "University of Leeds",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "John Tinsley and other colleagues at the University of Leeds",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Pye_Skillful Means_A Mahayana Buddhist Concept",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Pye_Skillful Means_A Mahayana Buddhist Concept.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

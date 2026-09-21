@@ -1,0 +1,78 @@
+{
+ "author": "David P. Jackson",
+ "doc_kind": "monograph",
+ "doc_year": 2019,
+ "people": [
+  {
+   "name": "Chogye Shabdrung",
+   "birth_year": 1981,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Khenchen Sönam Gyatsho",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Dezhung Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Byams pa kun bzang",
+   "birth_year": 1907,
+   "death_year": 1940,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Chogye Shabdrung",
+   "type": "studied_at",
+   "object": "Sakya College",
+   "role": null,
+   "place": null,
+   "year_start": 2003,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 2003, following the advice of Chogye Rinpoche, he joined the Sakya College, where under the tutorship of venerable Khenchen Sönam Gyatsho he studied Buddhist doctrine and philosophy",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chogye Shabdrung",
+   "type": "student_of",
+   "object": "Khenchen Sönam Gyatsho",
+   "role": "teacher",
+   "place": null,
+   "year_start": 2003,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "under the tutorship of venerable Khenchen Sönam Gyatsho he studied Buddhist doctrine and philosophy for more than seven years",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dezhung Rinpoche",
+   "type": "collaborated_with",
+   "object": "Byams pa kun bzang",
+   "role": "assistant teacher",
+   "place": "Ga Tharlam dgon",
+   "year_start": 1933,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1933 he visited Kham and acted as Wara Shabdrung southwest of at Tharlam monastery (Ga Tharlam dgon), with Dezhung Rinpoche acting as assistant teacher.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Jackson_Lama of Lamas_The Life of the Vajra-Master Chogye Trichen Rinpoche_Book II",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Jackson_Lama of Lamas_The Life of the Vajra-Master Chogye Trichen Rinpoche_Book II.txt#0",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

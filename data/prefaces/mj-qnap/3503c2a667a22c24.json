@@ -1,0 +1,83 @@
+{
+ "author": "Monier Williams",
+ "doc_kind": "other",
+ "doc_year": 1976,
+ "people": [
+  {
+   "name": "Monier Williams",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Dr. Mill",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Dr. James Ballantyne",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Professor Johnson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Dr. Mill",
+   "type": "position_at",
+   "object": "Bishop’s College at Calcutta",
+   "role": "Principal",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Mill, formerly Principal of Bishop’s College at Calcutta",
+   "quote_ok": false
+  },
+  {
+   "subject": "Dr. James Ballantyne",
+   "type": "position_at",
+   "object": "College at Benares",
+   "role": "Principal",
+   "place": "Benares",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. James Ballantyne, the energetic Principal of the College at Benares",
+   "quote_ok": true
+  },
+  {
+   "subject": "Monier Williams",
+   "type": "other",
+   "object": "Professor Johnson",
+   "role": "colleague",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "gratefully acknowledging his obligation to his friend and colleague, Professor Johnson",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Monier-Williams_1976_Eng-Skt",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Monier-Williams_1976_Eng-Skt.txt",
+ "meta": {
+  "title": "A Dictionary English and Sanskrit",
+  "author": "Williams, Monier",
+  "year": 1976,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

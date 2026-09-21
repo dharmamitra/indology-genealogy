@@ -1,0 +1,78 @@
+{
+ "author": "森章司",
+ "doc_kind": "journal_volume",
+ "doc_year": 2006,
+ "people": [
+  {
+   "name": "森章司",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "金子芳夫",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "長崎法潤",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Jain studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "金子芳夫",
+   "type": "student_of",
+   "object": "森章司",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "私は教え子である数人の若い研究者と一緒に『原始仏教聖典資料による釈尊伝の研究』という研究を行っており、釈尊がどこでどのような経典を説かれたかということについては、その研究報告書のなかで金子芳夫氏が",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "森章司",
+   "type": "collaborated_with",
+   "object": "金子芳夫",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "私は教え子である数人の若い研究者と一緒に『原始仏教聖典資料による釈尊伝の研究』という研究を行っており、釈尊がどこでどのような経典を説かれたかということについては、その研究報告書のなかで金子芳夫氏が",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "長崎法潤",
+   "type": "position_at",
+   "object": "大谷大学",
+   "role": "非常勤講師",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "大谷大学においても退職後古稀を迎えられるまで、非常勤講師として後進の指導に当たったり",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Miyazi_2007",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Miyazi_2007.txt",
+ "meta": {
+  "title": "コーサラ国波斯匿王と仏教",
+  "author": "森, 章司",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

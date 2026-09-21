@@ -1,0 +1,150 @@
+{
+ "author": null,
+ "doc_kind": "festschrift",
+ "doc_year": 2000,
+ "people": [
+  {
+   "name": "Minoru Hara",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Ryutaro Tsuchida",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Albrecht Wezler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "辻直四郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "田中於菟彌",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "岩本裕",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "John Brough",
+   "birth_year": 1917,
+   "death_year": 1984,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jan Gonda",
+   "birth_year": 1905,
+   "death_year": 1991,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hans Bakker",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Harvard University",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ryutaro Tsuchida",
+   "type": "collaborated_with",
+   "object": "Albrecht Wezler",
+   "role": "co-editors",
+   "place": null,
+   "year_start": 2000,
+   "year_end": 2000,
+   "explicit": true,
+   "evidence": "edited by Ryutaro Tsuchida and Albrecht Wezler",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Minoru Hara",
+   "type": "collaborated_with",
+   "object": "田中於菟彌",
+   "role": "co-editors",
+   "place": null,
+   "year_start": 1981,
+   "year_end": 1982,
+   "explicit": true,
+   "evidence": "辻直四郎著作集 I~IV (田中於菟彌、岩本裕と共編) (法蔵館1981~82).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Minoru Hara",
+   "type": "collaborated_with",
+   "object": "岩本裕",
+   "role": "co-editors",
+   "place": null,
+   "year_start": 1981,
+   "year_end": 1982,
+   "explicit": true,
+   "evidence": "辻直四郎著作集 I~IV (田中於菟彌、岩本裕と共編) (法蔵館1981~82).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Minoru Hara",
+   "type": "studied_at",
+   "object": "Harvard University",
+   "role": "dissertation",
+   "place": null,
+   "year_start": null,
+   "year_end": 1966,
+   "explicit": true,
+   "evidence": "submission of his dissertation, Materials for the study of Pāśupata Śaivism, to the Department of Sanskrit and Indian Studies of Harvard University in 1966",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hans Bakker",
+   "type": "position_at",
+   "object": "Groningen",
+   "role": null,
+   "place": "Groningen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "HANS BAKKER, Groningen",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Tsuchida-Wezler (2000) Haranandalahari",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Tsuchida-Wezler (2000) Haranandalahari.txt",
+ "meta": {
+  "title": "Harānandalaharī: Volume in Honour of Professor Minoru Hara on his Seventieth Birthday",
+  "author": "Tsuchida, Ryutaro and Wezler, Albrecht",
+  "year": 2000,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,131 @@
+{
+ "author": "福田琢",
+ "doc_kind": "article",
+ "doc_year": 2000,
+ "people": [
+  {
+   "name": "福田琢",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "加藤清",
+   "birth_year": 1907,
+   "death_year": 1956,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "寺本婉雅",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Tibetology"
+  },
+  {
+   "name": "西本龍山",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "福田琢",
+   "type": "position_at",
+   "object": "同朋大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "福田 琢 (同朋大学)",
+   "quote_ok": false
+  },
+  {
+   "subject": "加藤清",
+   "type": "studied_at",
+   "object": "大谷大学予科",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1927,
+   "explicit": true,
+   "evidence": "1927年(昭和二年)に大谷大学予科",
+   "quote_ok": true
+  },
+  {
+   "subject": "加藤清",
+   "type": "studied_at",
+   "object": "大谷大学文学部",
+   "role": "student (原始仏教学専攻)",
+   "place": null,
+   "year_start": null,
+   "year_end": 1931,
+   "explicit": true,
+   "evidence": "1931年(昭和六年)に大谷大学文学部(原始仏教学専攻)を卒業後",
+   "quote_ok": true
+  },
+  {
+   "subject": "加藤清",
+   "type": "student_of",
+   "object": "寺本婉雅",
+   "role": "supervisor",
+   "place": "大谷大学",
+   "year_start": null,
+   "year_end": 1934,
+   "explicit": true,
+   "evidence": "寺本婉雅の指導のもと、1934年3月(昭和九年)に大谷大学文学部研究科(西蔵学専攻)を終了している。",
+   "quote_ok": false
+  },
+  {
+   "subject": "加藤清",
+   "type": "studied_at",
+   "object": "大谷大学文学部研究科",
+   "role": "research student (西蔵学専攻)",
+   "place": null,
+   "year_start": null,
+   "year_end": 1934,
+   "explicit": true,
+   "evidence": "寺本婉雅の指導のもと、1934年3月(昭和九年)に大谷大学文学部研究科(西蔵学専攻)を終了している。",
+   "quote_ok": false
+  },
+  {
+   "subject": "加藤清",
+   "type": "position_at",
+   "object": "東本願寺別院",
+   "role": null,
+   "place": "神戸市",
+   "year_start": 1935,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "翌1935年 (昭和十年)の神戸市東本願寺別院勤務を機に加藤は文献研究から退き",
+   "quote_ok": true
+  },
+  {
+   "subject": "加藤清",
+   "type": "position_at",
+   "object": "向上女子実業学校",
+   "role": "教頭",
+   "place": "ソウル(京城府)",
+   "year_start": 1938,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "以後加藤はソウル(京城府)向上女子実業学校教頭着任 (1938年)を経て",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Fukuda_福田琢_2000@『業施設』について",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Fukuda_福田琢_2000@『業施設』について.txt",
+ "meta": {
+  "title": "『業施設』について",
+  "author": "福田, 琢",
+  "year": 2000,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

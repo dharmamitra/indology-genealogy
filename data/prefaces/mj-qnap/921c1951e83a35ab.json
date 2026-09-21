@@ -1,0 +1,159 @@
+{
+ "author": "Renate Syed",
+ "doc_kind": "dissertation",
+ "doc_year": 1990,
+ "people": [
+  {
+   "name": "Renate Syed",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Dieter Schlingloff",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Friedrich Wilhelm",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gritli von Mitterwallner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "William Roxburgh",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "botany"
+  },
+  {
+   "name": "Robert Kyd",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "William Carey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Nathaniel Wallich",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Renate Syed",
+   "type": "studied_at",
+   "object": "Ludwig-Maximilians-Universität zu München",
+   "role": "PhD",
+   "place": "München",
+   "year_start": null,
+   "year_end": 1982,
+   "explicit": true,
+   "evidence": "Inaugural-Dissertation zur Erlangung des Doktorgrades der Philosophie an der Ludwig-Maximilians-Universität zu München vorgelegt von Renate Syed [...] Tag der mündlichen Prüfung: 26.7.1982",
+   "quote_ok": true
+  },
+  {
+   "subject": "Renate Syed",
+   "type": "student_of",
+   "object": "Dieter Schlingloff",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1982,
+   "explicit": true,
+   "evidence": "Referent: Prof. Dr. Dieter Schlingloff [...] Danken möchte ich an allererster Stelle meinem Doktorvater Herrn Prof. Dr. Dieter Schlingloff",
+   "quote_ok": true
+  },
+  {
+   "subject": "Renate Syed",
+   "type": "student_of",
+   "object": "Friedrich Wilhelm",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Korreferent: Prof. Dr. Friedrich Wilhelm [...] Mein Dank gilt auch meinen Lehrern Herrn Prof. Dr. Friedrich Wilhelm",
+   "quote_ok": true
+  },
+  {
+   "subject": "Renate Syed",
+   "type": "student_of",
+   "object": "Gritli von Mitterwallner",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mein Dank gilt auch meinen Lehrern Herrn Prof. Dr. Friedrich Wilhelm und Frau Prof. Dr. Gritli von Mitterwallner.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Kyd",
+   "type": "founded",
+   "object": "Royal Botanical Garden",
+   "role": null,
+   "place": "Kalkutta",
+   "year_start": 1787,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1787 von Robert Kyd gegründeten Royal Botanical Garden in Kalkutta",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Roxburgh",
+   "type": "position_at",
+   "object": "Royal Botanical Garden",
+   "role": "Leitung",
+   "place": "Kalkutta",
+   "year_start": 1793,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "übernahm 1793 die Leitung des 1787 von Robert Kyd gegründeten Royal Botanical Garden in Kalkutta",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Carey",
+   "type": "collaborated_with",
+   "object": "Nathaniel Wallich",
+   "role": "co-editors",
+   "place": null,
+   "year_start": 1820,
+   "year_end": 1824,
+   "explicit": true,
+   "evidence": "Das Manuskript Roxburghs wurde in zwei Teilen (1820 und 1824) von Carey und Wallich herausgegeben",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Syed 1990",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Syed 1990.txt",
+ "meta": {
+  "title": "Die Flora Altindiens in Literatur und Kunst",
+  "author": "Syed, Renate",
+  "year": 1990,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

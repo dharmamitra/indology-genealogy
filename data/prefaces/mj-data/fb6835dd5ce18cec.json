@@ -1,0 +1,110 @@
+{
+ "author": "山口益",
+ "doc_kind": "article",
+ "doc_year": 1920,
+ "people": [
+  {
+   "name": "山口益",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "寺本婉雅",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Tibetology"
+  },
+  {
+   "name": "南條",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "舟橋",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "泉",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "荻原雲來",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "山口益",
+   "type": "student_of",
+   "object": "寺本婉雅",
+   "role": "teacher",
+   "place": "大谷大學",
+   "year_start": 1916,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "この飜譯は大正四年四月大谷大學に初めて西藏語西藏文學課程の開かれし、その翌年の春、最初の謎本に供せられしものに基づく。當時私に聽講の一員さして、寺本先生の御講讀あるに隨つて之を詳述し",
+   "quote_ok": true
+  },
+  {
+   "subject": "山口益",
+   "type": "studied_at",
+   "object": "大谷大學",
+   "role": null,
+   "place": null,
+   "year_start": 1916,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "この飜譯は大正四年四月大谷大學に初めて西藏語西藏文學課程の開かれし、その翌年の春、最初の謎本に供せられしものに基づく。當時私に聽講の一員さして",
+   "quote_ok": true
+  },
+  {
+   "subject": "寺本婉雅",
+   "type": "position_at",
+   "object": "大谷大學",
+   "role": null,
+   "place": null,
+   "year_start": 1915,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "大正四年四月大谷大學に初めて西藏語西藏文學課程の開かれし、その翌年の春、最初の謎本に供せられしものに基づく。當時私に聽講の一員さして、寺本先生の御講讀あるに隨つて之を詳述し",
+   "quote_ok": true
+  },
+  {
+   "subject": "山口益",
+   "type": "collaborated_with",
+   "object": "寺本婉雅",
+   "role": "co-authors",
+   "place": null,
+   "year_start": 1920,
+   "year_end": 1920,
+   "explicit": true,
+   "evidence": "西藏文俱舍論破我品譯 寺本婉雅 山口",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "YamagutiandTeramoto_1920a_山口益寺本婉雅_西藏文破我品和訳1",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/YamagutiandTeramoto_1920a_山口益寺本婉雅_西藏文破我品和訳1.txt",
+ "meta": {
+  "title": "西藏文俱舍論破我品譯",
+  "author": "山口 益, 寺本 婉雅",
+  "year": 1920,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

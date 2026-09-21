@@ -1,0 +1,79 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "水野弘元",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "ウ・ウエープッラ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Burmese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "戸田忠",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "水野弘元",
+   "type": "collaborated_with",
+   "object": "ウ・ウエープッラ",
+   "role": "supervisor and co-translator",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "監修水野弘元 訳註ウ・ウエープッラ 戸田忠",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "水野弘元",
+   "type": "collaborated_with",
+   "object": "戸田忠",
+   "role": "supervisor and co-translator",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "監修水野弘元 訳註ウ・ウエープッラ 戸田忠",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "ウ・ウエープッラ",
+   "type": "collaborated_with",
+   "object": "戸田忠",
+   "role": "co-translator",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "監修水野弘元 訳註ウ・ウエープッラ 戸田忠",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "アビダンマッタサンガハ. 南方仏教哲学教義概説",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/アビダンマッタサンガハ. 南方仏教哲学教義概説.txt#0",
+ "meta": {
+  "title": "アビダンマッタサンガハ 南方仏教哲学教義概説",
+  "author": "アヌルッダ長老",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

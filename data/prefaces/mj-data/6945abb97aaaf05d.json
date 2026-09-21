@@ -1,0 +1,42 @@
+{
+ "people": [
+  {
+   "name": "前田専学",
+   "birth_year": 1931,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indian Philosophy"
+  },
+  {
+   "name": "下田正弘",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist Studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "前田専学",
+   "type": "other",
+   "object": "東京大学文学部印度哲学研究室",
+   "role": "festschrift honoree",
+   "place": null,
+   "year_start": null,
+   "year_end": 1991,
+   "explicit": true,
+   "evidence": "前田専学博士還暦記念論集 編者 東京大学文学部印度哲学研究室 1991年10月30日 第1刷発行",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Shimoda_下田正弘_1991",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Shimoda_下田正弘_1991.txt",
+ "meta": {
+  "title": "部派における「薬」としての肉食の諸相",
+  "author": "下田, 正弘",
+  "year": 1991,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

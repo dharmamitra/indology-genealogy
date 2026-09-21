@@ -1,0 +1,83 @@
+{
+ "author": "Gangānātha Jhā",
+ "doc_kind": "text_edition",
+ "doc_year": 1939,
+ "people": [
+  {
+   "name": "Gangānātha Jhā",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "Gopinatha Kaviraj",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "Babu Govindadāsa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Vindhyeshvarī Prasad Dube",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Gangānātha Jhā",
+   "type": "collaborated_with",
+   "object": "Gopinatha Kaviraj",
+   "role": "contributor of introduction",
+   "place": null,
+   "year_start": 1920,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I secured in 1920 a contribution on that subject from my colleague, Pandit Gopinatha Kaviraj, which is reproduced here as the ‘Introduction’",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gangānātha Jhā",
+   "type": "other",
+   "object": "Babu Govindadāsa",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "secured for me several years ago from Madras, by my friend Babu Govindadāsa.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vindhyeshvarī Prasad Dube",
+   "type": "position_at",
+   "object": "Sanskrit College Library",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mahāmahopādhyāya P. Vindhyeshvarī Prasad Dube of the Sanskrit College Library.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "jha_ns_trl",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/jha_ns_trl.txt",
+ "meta": {
+  "title": "Gautama's Nyāyasūtras [With Vātsyāyana-Bhāṣya]",
+  "author": "Jha, Ganganatha",
+  "year": 1939,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,145 @@
+{
+ "people": [
+  {
+   "name": "William H. Nienhauser, Jr.",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "Sinology"
+  },
+  {
+   "name": "Sarah Yim",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Leon Wieger",
+   "birth_year": 1856,
+   "death_year": 1933,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Evangeline Dora Edwards",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Dianna Xu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hsu Sung-nien",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": "Chinese literature"
+  },
+  {
+   "name": "Wang Pijiang",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William H. Nienhauser, Jr.",
+   "type": "position_at",
+   "object": "University of Wisconsin-Madison",
+   "role": null,
+   "place": "USA",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "University of Wisconsin-Madison, USA",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Dianna Xu",
+   "type": "position_at",
+   "object": "Memorial Library at the University of Wisconsin",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A word of thanks is in order to Dianna Xu of the Memorial Library at the University of Wisconsin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sarah Yim",
+   "type": "studied_at",
+   "object": "Yale University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1979,
+   "explicit": true,
+   "evidence": "was accepted by Yale University in 1979.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hsu Sung-nien",
+   "type": "position_at",
+   "object": "Shanghai Waiyu",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among numerous posts in China, Hsu served at the Shanghai Waiyu",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hsu Sung-nien",
+   "type": "other",
+   "object": "Wang Pijiang",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A close friend of Wang, Hsu used a translation of Wang's \"Tangren xiaoshuo zai Zhongguo wenxue shang zhi diwei\"",
+   "quote_ok": true
+  },
+  {
+   "subject": "Evangeline Dora Edwards",
+   "type": "studied_at",
+   "object": "University of London",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the University of London where she studied and then taught in the School of Oriental and African Studies",
+   "quote_ok": true
+  },
+  {
+   "subject": "Evangeline Dora Edwards",
+   "type": "position_at",
+   "object": "School of Oriental and African Studies",
+   "role": "Acting Head of the Far East Department",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "taught in the School of Oriental and African Studies, serving as Acting Head of the Far East Department",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Tang Dynasty Tales. A Guided Reader_William H Nienhauser, 2010",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Tang Dynasty Tales. A Guided Reader_William H Nienhauser, 2010.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

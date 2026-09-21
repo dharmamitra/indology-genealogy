@@ -1,0 +1,64 @@
+{
+ "author": "Peter Skilling",
+ "doc_kind": "article",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Peter Skilling",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Preecha Noonsuk",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "archaeology and history"
+  },
+  {
+   "name": "Harimoto Kengo",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Peter Skilling",
+   "type": "student_of",
+   "object": "Preecha Noonsuk",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "it was Achan Preecha who introduced me to the archaeology and history of Nakhon Si Thammarat and the South, sharing his knowledge with great pleasure and enthusiasm.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Skilling",
+   "type": "collaborated_with",
+   "object": "Harimoto Kengo",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I am especially grateful to Harimoto Kengo for reading the inscription with me and offering many comments and insights",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Skilling_Wat Maheyong_PENINSULAR SIAM_2017",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Skilling_Wat Maheyong_PENINSULAR SIAM_2017.txt",
+ "meta": {
+  "title": "Peninsular Siam and Its Neighborhoods: Essays in Memory of Dr. Preecha Noonsuk",
+  "author": "Noonsuk, Wannasarn",
+  "year": 2017,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,167 @@
+{
+ "author": "柳田聖山",
+ "doc_kind": "other",
+ "doc_year": 1988,
+ "people": [
+  {
+   "name": "柳田聖山",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "ポール・ドミエヴィル",
+   "birth_year": null,
+   "death_year": 1979,
+   "nationality": "France",
+   "field": "Sinology"
+  },
+  {
+   "name": "川勝義雄",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Sinology"
+  },
+  {
+   "name": "大橋保夫",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "興膳宏",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Sinology"
+  },
+  {
+   "name": "島田虔次",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Sinology"
+  },
+  {
+   "name": "京都大學人文科學研究所",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "コレージュ・ド・フランス",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "花園大學國際禪學研究所",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "柳田聖山",
+   "type": "position_at",
+   "object": "花園大學國際禪學研究所",
+   "role": "所長",
+   "place": "Kyoto",
+   "year_start": 1988,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "花園大學國際禪學研究所所長 柳田 聖山",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "川勝義雄",
+   "type": "student_of",
+   "object": "ポール・ドミエヴィル",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "因みにいえば、川勝義雄は早くパリに赴いて、自らドミエヴィルに師事し、フランス東洋學の傳統を、身をもって體した人である。",
+   "quote_ok": true
+  },
+  {
+   "subject": "川勝義雄",
+   "type": "collaborated_with",
+   "object": "大橋保夫",
+   "role": "co-translators",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "川勝義雄、大橋保夫、興膳宏の三人が、共同で翻譯する「フランスにおけるシナ學の歴史」がそれだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "川勝義雄",
+   "type": "collaborated_with",
+   "object": "興膳宏",
+   "role": "co-translators",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "川勝義雄、大橋保夫、興膳宏の三人が、共同で翻譯する「フランスにおけるシナ學の歴史」がそれだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "大橋保夫",
+   "type": "collaborated_with",
+   "object": "興膳宏",
+   "role": "co-translators",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "川勝義雄、大橋保夫、興膳宏の三人が、共同で翻譯する「フランスにおけるシナ學の歴史」がそれだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "柳田聖山",
+   "type": "position_at",
+   "object": "京都大學人文科學研究所",
+   "role": null,
+   "place": "Kyoto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "後年、私が京都大學人文科學研究所に入るのに、先にいう島田虔次と共力し、格別の愛顧を得ている。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ポール・ドミエヴィル",
+   "type": "position_at",
+   "object": "コレージュ・ド・フランス",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ドミエヴィルの講演は、自から屬するコレージュ・ド・フランスの東洋學について、その歴史的傳統を語るのがねらいだった。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "kobayashi_小林・原田196408_王維 (1)",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/kobayashi_小林・原田196408_王維 (1).txt#0",
+ "meta": {
+  "title": "ポール・ドミエヴィル禪學論集",
+  "author": "林, 信明",
+  "year": 1988,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

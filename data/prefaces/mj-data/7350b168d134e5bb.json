@@ -1,0 +1,83 @@
+{
+ "author": "石井修道",
+ "doc_kind": "article",
+ "doc_year": 1988,
+ "people": [
+  {
+   "name": "石井修道",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "鎌田茂雄",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "柳田聖山",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "小川隆",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "石井修道",
+   "type": "student_of",
+   "object": "鎌田茂雄",
+   "role": "teacher",
+   "place": "駒沢大学",
+   "year_start": null,
+   "year_end": 1965,
+   "explicit": true,
+   "evidence": "筆者は昭和四十年度の駒沢大学仏教学部の卒業論文を鎌田博士の指導の下に、「唐代中期の禅思想史の研究――南陽慧忠を中心として――――」としてまとめた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "石井修道",
+   "type": "studied_at",
+   "object": "駒沢大学仏教学部",
+   "role": "BA",
+   "place": null,
+   "year_start": null,
+   "year_end": 1965,
+   "explicit": true,
+   "evidence": "筆者は昭和四十年度の駒沢大学仏教学部の卒業論文を鎌田博士の指導の下に、「唐代中期の禅思想史の研究――南陽慧忠を中心として――――」としてまとめた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "小川隆",
+   "type": "studied_at",
+   "object": "北京大学",
+   "role": null,
+   "place": "北京",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "北京大学留学中の小川氏の私信からも有益な示唆を受けたことを記しておきたい。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Ishii_石井修道_198812",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Ishii_石井修道_198812.txt",
+ "meta": {
+  "title": "南陽慧忠の南方宗旨の批判について",
+  "author": "石井 修道",
+  "year": 1988,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

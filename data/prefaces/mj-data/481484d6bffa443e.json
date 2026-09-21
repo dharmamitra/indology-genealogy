@@ -1,0 +1,83 @@
+{
+ "author": null,
+ "doc_kind": "monograph",
+ "doc_year": 1976,
+ "people": [
+  {
+   "name": "オットー・ローゼンベルグ",
+   "birth_year": 1888,
+   "death_year": 1919,
+   "nationality": "Russian",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "スチェルバトスキー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Russian",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "M・ワレーザー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "佐々木現順",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "オットー・ローゼンベルグ",
+   "type": "position_at",
+   "object": "ペテルスブルク大学",
+   "role": "教授",
+   "place": "ペテルスブルク",
+   "year_start": null,
+   "year_end": 1919,
+   "explicit": true,
+   "evidence": "一九一九年十一月二十六日、わずか三十一歳にして、レバール(Reval) で夭折したペテルスブルク大学教授オットー・ローゼンベルグ",
+   "quote_ok": true
+  },
+  {
+   "subject": "オットー・ローゼンベルグ",
+   "type": "student_of",
+   "object": "スチェルバトスキー",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "彼の師であり友人でもあるスチェルバトスキー教授 (Prof. Th. Stcherbatsky)",
+   "quote_ok": true
+  },
+  {
+   "subject": "オットー・ローゼンベルグ",
+   "type": "other",
+   "object": "スチェルバトスキー",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "彼の師であり友人でもあるスチェルバトスキー教授 (Prof. Th. Stcherbatsky)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Sasaki_佐々木現順_197607",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Sasaki_佐々木現順_197607.txt",
+ "meta": {
+  "title": "仏教哲学の諸問題",
+  "author": "佐々木現順",
+  "year": 1976,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

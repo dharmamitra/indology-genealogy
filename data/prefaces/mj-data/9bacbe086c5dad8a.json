@@ -1,0 +1,64 @@
+{
+ "author": "小南一郎",
+ "doc_kind": "other",
+ "doc_year": 1996,
+ "people": [
+  {
+   "name": "吉川幸次郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Chinese literature"
+  },
+  {
+   "name": "平岡武夫",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Chinese philosophy"
+  },
+  {
+   "name": "小南一郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Sinology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "小南一郎",
+   "type": "student_of",
+   "object": "吉川幸次郎",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "私の恩師である吉川幸次郎先生",
+   "quote_ok": true
+  },
+  {
+   "subject": "小南一郎",
+   "type": "student_of",
+   "object": "平岡武夫",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "助手のころの私は、今から思えば生意氣盛りで、平岡先生にはずいぶん反發した。しかし先生が道山に歸せられた今、先生から受けた學恩の大きさを改めて感じている。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Hattori_服部正明_1996@ヴァイシェーシカ体系における宗教性の問題",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Hattori_服部正明_1996@ヴァイシェーシカ体系における宗教性の問題.txt",
+ "meta": {
+  "title": "ヴァイシェーシカ体系における宗教性の問題",
+  "author": "服部正明",
+  "year": 1996,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

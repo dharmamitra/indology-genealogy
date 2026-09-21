@@ -1,0 +1,193 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Mark Harrell",
+   "birth_year": 1966,
+   "death_year": null,
+   "nationality": null,
+   "field": "archaeology"
+  },
+  {
+   "name": "Takayasu HIGUCHI",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "archaeology"
+  },
+  {
+   "name": "Shichang MA",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": "Buddhist art and archaeology"
+  },
+  {
+   "name": "Kathleen D. Morrison",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "anthropology"
+  },
+  {
+   "name": "Tadanao YAMAMOTO",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "archaeology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Mark Harrell",
+   "type": "studied_at",
+   "object": "Exeter University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He read medieval English at Exeter University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mark Harrell",
+   "type": "studied_at",
+   "object": "SOAS, University of London",
+   "role": "Diploma in Asian Art",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "followed this with a Diploma in Asian Art at SOAS, University of London",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mark Harrell",
+   "type": "studied_at",
+   "object": "SOAS, University of London",
+   "role": "MA",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "SOAS, University of London, where he went on to obtain an MA in archaeology.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Takayasu HIGUCHI",
+   "type": "position_at",
+   "object": "Kyoto University",
+   "role": "Professor of Archaeology",
+   "place": "Kyoto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Takayasu HIGUCHI was Professor of Archaeology at Kyoto University until his retirement.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Takayasu HIGUCHI",
+   "type": "position_at",
+   "object": "San-Oku Hakko Kan Museum",
+   "role": "Director",
+   "place": "Kyoto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Now he acts as multiple Director for the San-Oku Hakko Kan Museum in Kyoto",
+   "quote_ok": true
+  },
+  {
+   "subject": "Takayasu HIGUCHI",
+   "type": "position_at",
+   "object": "Kashiwara Archaeological Research Institute",
+   "role": "Director",
+   "place": "Nara",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Director for the San-Oku Hakko Kan Museum in Kyoto, the Kashiwara Archaeological Research Institute in Nara",
+   "quote_ok": true
+  },
+  {
+   "subject": "Takayasu HIGUCHI",
+   "type": "position_at",
+   "object": "Institute of Silk Road Studies",
+   "role": "Director",
+   "place": "Nara",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Director for [...] the Institute of Silk Road Studies in Nara, Japan.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shichang MA",
+   "type": "position_at",
+   "object": "Beijing University",
+   "role": "Professor of Archaeology",
+   "place": "China",
+   "year_start": 1982,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Shichang MA is Professor of Archaeology at Beijing University, China, since 1982.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shichang MA",
+   "type": "position_at",
+   "object": "Dunhuang Research Academy",
+   "role": "Researcher in Buddhist Archaeology",
+   "place": null,
+   "year_start": 1963,
+   "year_end": 1978,
+   "explicit": true,
+   "evidence": "Between 1963 and 1978 he was a Researcher in Buddhist Archaeology at the Dunhuang Research Academy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kathleen D. Morrison",
+   "type": "position_at",
+   "object": "Northwestern University",
+   "role": "Assistant Professor of Anthropology",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Kathleen D. Morrison is Assistant Professor of Anthropology, Northwestern University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tadanao YAMAMOTO",
+   "type": "position_at",
+   "object": "Nara National Cultural Properties Research Institute",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Tadanao YAMAMOTO recently left the Nara National Cultural Properties Research Institute, where he worked for twenty years",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tadanao YAMAMOTO",
+   "type": "position_at",
+   "object": "Tenri University",
+   "role": "Professor of Archaeology",
+   "place": "Nara, Japan",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and is now Professor of Archaeology at Tenri University, Nara, Japan.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Barnes_Buddhist Archaeology_World Archaeology",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Barnes_Buddhist Archaeology_World Archaeology.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

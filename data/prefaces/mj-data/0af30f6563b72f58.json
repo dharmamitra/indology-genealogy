@@ -1,0 +1,114 @@
+{
+ "author": "Tissa Rajapatirana",
+ "doc_kind": "dissertation",
+ "doc_year": 1974,
+ "people": [
+  {
+   "name": "Tissa Rajapatirana",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "J.W. de Jong",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "A.L. Basham",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "L.A. Hercus",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "T.Y. Liu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Tissa Rajapatirana",
+   "type": "studied_at",
+   "object": "Australian National University",
+   "role": "Doctor of Philosophy",
+   "place": "Canberra",
+   "year_start": 1966,
+   "year_end": 1974,
+   "explicit": true,
+   "evidence": "National University as a staff candidate for the degree of Doctor of Philosophy from 1966 to 1974.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tissa Rajapatirana",
+   "type": "student_of",
+   "object": "J.W. de Jong",
+   "role": "doctoral supervisor",
+   "place": "Canberra",
+   "year_start": null,
+   "year_end": 1974,
+   "explicit": true,
+   "evidence": "It has been my great fortune to have completed this work under the patient and enlightened guidance of Professor J.W. de Jong",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tissa Rajapatirana",
+   "type": "student_of",
+   "object": "A.L. Basham",
+   "role": "supervisor",
+   "place": "Canberra",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I am thankful to Professor A.L. Basham and to Mrs. L.A. Hercus for acting as my supervisors during two brief periods of Professor de Jong's absence from Canberra.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Tissa Rajapatirana",
+   "type": "student_of",
+   "object": "L.A. Hercus",
+   "role": "supervisor",
+   "place": "Canberra",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I am thankful to Professor A.L. Basham and to Mrs. L.A. Hercus for acting as my supervisors during two brief periods of Professor de Jong's absence from Canberra.",
+   "quote_ok": false
+  },
+  {
+   "subject": "T.Y. Liu",
+   "type": "position_at",
+   "object": "Australian National University",
+   "role": "Professor",
+   "place": "Canberra",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "I am also grateful to Professor T.Y. Liu and colleagues in the Department of Chinese",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Rajapat1",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Rajapat1.txt",
+ "meta": {
+  "title": "SUVARNAVARNAVADANA translated and edited together with its Tibetan translation and the LAKŞACAITYASAMUTPATTI",
+  "author": "Rajapatirana, Tissa",
+  "year": 1974,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

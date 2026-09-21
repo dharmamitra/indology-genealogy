@@ -1,0 +1,76 @@
+{
+ "author": "Guang Xing",
+ "doc_kind": "monograph",
+ "doc_year": 2003,
+ "people": [
+  {
+   "name": "Guang Xing",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Tadeusz Skorupski",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Timothy Barrett",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Guang Xing",
+   "type": "studied_at",
+   "object": "SOAS",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "This book is a revised version of my Ph.D. dissertation. [...] sustained me through my years of study at SOAS.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Guang Xing",
+   "type": "student_of",
+   "object": "Tadeusz Skorupski",
+   "role": "doctoral supervisor",
+   "place": "SOAS",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "This book is a revised version of my Ph.D. dissertation. [...] First and foremost, I am very grateful to Professor Tadeusz Skorupski and Professor Timothy Barrett, for their guidance",
+   "quote_ok": true
+  },
+  {
+   "subject": "Guang Xing",
+   "type": "student_of",
+   "object": "Timothy Barrett",
+   "role": "doctoral supervisor",
+   "place": "SOAS",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "This book is a revised version of my Ph.D. dissertation. [...] First and foremost, I am very grateful to Professor Tadeusz Skorupski and Professor Timothy Barrett, for their guidance",
+   "quote_ok": true
+  }
+ ],
+ "docid": "The concept of the Buddha",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/The concept of the Buddha.txt",
+ "meta": {
+  "title": "The Concept of the Buddha: Its evolution from early Buddhism to the trikāya theory",
+  "author": "Xing, Guang",
+  "year": 2003,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

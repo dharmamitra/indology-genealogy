@@ -1,0 +1,75 @@
+{
+ "people": [
+  {
+   "name": "平岡武夫",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Chinese philosophy"
+  },
+  {
+   "name": "吉川幸次郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Sinology"
+  },
+  {
+   "name": "筧文生",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Sinology"
+  },
+  {
+   "name": "貝塚茂樹",
+   "birth_year": 1904,
+   "death_year": 1987,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "服部正明",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "筧文生",
+   "type": "student_of",
+   "object": "吉川幸次郎",
+   "role": "恩師",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "中國哲學ご出身の平岡先生の研究姿勢や學問に對する關心の在りかは、私の恩師である吉川幸次郎先生とは、對稱的といってよいほど違っていた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "筧文生",
+   "type": "student_of",
+   "object": "平岡武夫",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "助手のころの私は、今から思えば生意氣盛りで、平岡先生にはずいぶん反發した。しかし先生が道山に歸せられた今、先生から受けた學恩の大きさを改めて感じている。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Hattori_服部正明_1996_東方學91",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Hattori_服部正明_1996_東方學91.txt",
+ "meta": {
+  "title": "ヴァイシェーシカ體系における宗教性の問題",
+  "author": "服部正明",
+  "year": 1996,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,57 @@
+{
+ "author": "和田壽弘",
+ "doc_kind": "article",
+ "doc_year": 1990,
+ "people": [
+  {
+   "name": "和田壽弘",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indian Philosophy"
+  },
+  {
+   "name": "V. N. Jha",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "V. N. Jha",
+   "type": "position_at",
+   "object": "プーナ大学サンスクリットセンター",
+   "role": "長",
+   "place": "Poona",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "プーナ大学サンスクリットセンター長 V. N. Jha 教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "和田壽弘",
+   "type": "student_of",
+   "object": "V. N. Jha",
+   "role": "teacher",
+   "place": "名古屋大学",
+   "year_start": 1981,
+   "year_end": 1981,
+   "explicit": true,
+   "evidence": "プーナ大学サンスクリットセンター長 V. N. Jha 教授が名古屋大学印度哲学研究室にて1981年11月11日から同年12月15日にわたっておこなったNSMのŚabdakhaṇḍaに関する講義に出席して作成したノートが大変役に立った。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wada_和田壽弘_1990",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Wada_和田壽弘_1990.txt",
+ "meta": {
+  "title": "インド哲学における言語分析 (1)",
+  "author": "和田, 壽弘",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

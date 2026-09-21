@@ -1,0 +1,123 @@
+{
+ "author": "Dalsukhbhai Malvania",
+ "doc_kind": "text_edition",
+ "doc_year": 1971,
+ "people": [
+  {
+   "name": "Dalsukhbhai Malvania",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "B. P. Sinha",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Ancient Indian History and Archaeology"
+  },
+  {
+   "name": "A. S. Altekar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "Mohanlal Mehta",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "B. P. Sinha",
+   "type": "studied_at",
+   "object": "University of London",
+   "role": "PhD",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "General Editor Dr. B. P. Sinha, M.A., Ph. D. (London)",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "B. P. Sinha",
+   "type": "position_at",
+   "object": "K. P. Jayaswal Research Institute, Patna",
+   "role": "Hon Jt. Director",
+   "place": "Patna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hon Jt. Director, K. P. Jayaswal Research Institute, Patna",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "B. P. Sinha",
+   "type": "position_at",
+   "object": "Patna University",
+   "role": "University Prof. of Ancient Indian History and Archaeology",
+   "place": "Patna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "University Prof. of Ancient Indian History and Archaeology, Patna University.",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Dalsukhbhai Malvania",
+   "type": "position_at",
+   "object": "L. D. Institute",
+   "role": "Director",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Edited by PANDITA DALSUKHBHAI MALVANIA Director L. D. Institut",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "A. S. Altekar",
+   "type": "position_at",
+   "object": "K. P. Jayaswal Research Institute",
+   "role": "Hon. Director",
+   "place": "Patna",
+   "year_start": 1955,
+   "year_end": 1955,
+   "explicit": true,
+   "evidence": "A. S. ALTEKAR Hon. Director, 1-9-1955 K. P. Jayaswal Research Institute, Patna.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mohanlal Mehta",
+   "type": "student_of",
+   "object": "Dalsukhbhai Malvania",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I have to thank my pupil and friend Dr. Mohanlal Mehta, M.A., Ph.D., Śāstrācārya, for translating my Hindi introduction into English.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Dharmottarapradipa (DURVEKAMISRA)",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Dharmottarapradipa (DURVEKAMISRA).txt",
+ "meta": {
+  "title": "Dharmottarapradīpa",
+  "author": "Miśra, Durveka",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

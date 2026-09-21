@@ -1,0 +1,64 @@
+{
+ "author": "奈良康明",
+ "doc_kind": "festschrift",
+ "doc_year": 1990,
+ "people": [
+  {
+   "name": "奈良康明",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "水野弘元",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "杉本卓洲",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "奈良康明",
+   "type": "student_of",
+   "object": "水野弘元",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "先生の格別のご学恩に心から感謝申し上げたい。",
+   "quote_ok": true
+  },
+  {
+   "subject": "杉本卓洲",
+   "type": "position_at",
+   "object": "駒沢大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "(駒沢大学教授)\n杉本 卓洲",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Nara_奈良康明_1990@「出世間」と「世間」-インド仏教文化の構造理解のために-",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Nara_奈良康明_1990@「出世間」と「世間」-インド仏教文化の構造理解のために-.txt",
+ "meta": {
+  "title": "「出世間」と「世間」-インド仏教文化の構造理解のために-",
+  "author": "奈良, 康明",
+  "year": 1990,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

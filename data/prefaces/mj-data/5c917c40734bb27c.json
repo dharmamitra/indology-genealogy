@@ -1,0 +1,67 @@
+{
+ "people": [
+  {
+   "name": "佐々木現順",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "仏教学"
+  },
+  {
+   "name": "F. R. Hamm",
+   "birth_year": 1920,
+   "death_year": 1973,
+   "nationality": "German",
+   "field": "ジャイナと仏教学"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "佐々木現順",
+   "type": "position_at",
+   "object": "大谷大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "パーリ原典Sarasangahaの発見…………………………佐々木現順(1)... (本学教授 仏教学)",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "F. R. Hamm",
+   "type": "position_at",
+   "object": "ボン大学",
+   "role": "教授",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": 1973,
+   "explicit": true,
+   "evidence": "畏友ボン大学教授 F. R. Hamm 博士の急逝である。",
+   "quote_ok": true
+  },
+  {
+   "subject": "佐々木現順",
+   "type": "collaborated_with",
+   "object": "F. R. Hamm",
+   "role": null,
+   "place": null,
+   "year_start": 1954,
+   "year_end": 1973,
+   "explicit": true,
+   "evidence": "博士と私の交遊は一九五四年以来、二十年間続いた。ジャイナと仏教学の世界的権威であり、その業蹟は屢々私のレポートに現われたので周知と思う。彼はこの Sārasangaha の資料収集を助け、又、貴重なノイマンの Das Sārasangaha 及びその研究を入手出来たのも博士の支援の賜物であった。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "大谷学報54.2_大谷学会",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/大谷学報54.2_大谷学会.txt",
+ "meta": {
+  "title": "大谷学報 第五十四巻第二号",
+  "author": "佐々木 現順",
+  "year": 1974,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

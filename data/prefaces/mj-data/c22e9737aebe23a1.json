@@ -1,0 +1,69 @@
+{
+ "author": "加藤純章",
+ "doc_kind": "article",
+ "doc_year": 1978,
+ "people": [
+  {
+   "name": "Étienne Lamotte",
+   "birth_year": 1903,
+   "death_year": null,
+   "nationality": "Belgium",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "加藤純章",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Étienne Lamotte",
+   "type": "position_at",
+   "object": "Louvain大学",
+   "role": "名誉教授",
+   "place": "Belgium",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ラモット教授は一九○三年、ベルギー南部ディナン (Dinant)の生まれ。現在ルーヴァン (Louvain)大学名誉教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "Étienne Lamotte",
+   "type": "position_at",
+   "object": "ヴァチカンの非キリスト教宗教研究部門",
+   "role": "顧問",
+   "place": "Vatican",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ヴァチカンの非キリスト教宗教研究部門顧問",
+   "quote_ok": true
+  },
+  {
+   "subject": "Étienne Lamotte",
+   "type": "position_at",
+   "object": "Mélanges Chinois et Bouddhiques",
+   "role": "主幹",
+   "place": "Brussels",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ブリュッセルの東洋学術誌 Mélanges Chinois et Bouddhiques 主幹など。",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Lamotte_197804",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Lamotte_197804.txt",
+ "meta": {
+  "title": "『大智度論』の引用文献とその価値",
+  "author": "ラモット, エチエンヌ",
+  "year": 1978,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

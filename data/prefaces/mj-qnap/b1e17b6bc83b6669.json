@@ -1,0 +1,103 @@
+{
+ "author": "Paul Deussen",
+ "doc_kind": "text_edition",
+ "doc_year": 1906,
+ "people": [
+  {
+   "name": "Paul Deussen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Otto Strauss",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Paul Emile Dumont",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Richard Garbe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hermann Jacobi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Paul Deussen",
+   "type": "position_at",
+   "object": "Universität Kiel",
+   "role": "Professor",
+   "place": "Kiel",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "DR. PAUL DEUSSEN PROFESSOR AN DER UNIVERSITÄT KIEL.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Strauss",
+   "type": "student_of",
+   "object": "Paul Deussen",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "meines jungen Freundes und ehemaligen Schülers Dr. Otto Straufs",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Deussen",
+   "type": "collaborated_with",
+   "object": "Otto Strauss",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "IN GEMEINSCHAFT MIT DR. OTTO STRAUSS AUS DEM SANSKRIT ÜBERSETZT VON DR. PAUL DEUSSEN",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Paul Deussen",
+   "type": "collaborated_with",
+   "object": "Paul Emile Dumont",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Für einen kleinern Teil des Ganzen, die Anugîtâ, habe ich in gleicher Weise die Mithilfe eines andern jungen Freundes, des Dr. Paul Emile Dumont, dankbar anzuerkennen.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "vierphilosophisc00deusuoft_bw",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/vierphilosophisc00deusuoft_bw.txt",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,57 @@
+{
+ "author": "辛嶋静志",
+ "doc_kind": "article",
+ "doc_year": 2001,
+ "people": [
+  {
+   "name": "辛嶋静志",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "竹橋太",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "竹橋太",
+   "type": "position_at",
+   "object": "真宗教学研究所",
+   "role": "助手",
+   "place": null,
+   "year_start": 1995,
+   "year_end": 1997,
+   "explicit": true,
+   "evidence": "1995年から1997年春まで真宗教学研究所で行われた「大阿弥陀経」研究会で、助手(当時)の竹橋太氏",
+   "quote_ok": true
+  },
+  {
+   "subject": "辛嶋静志",
+   "type": "collaborated_with",
+   "object": "竹橋太",
+   "role": null,
+   "place": "真宗教学研究所",
+   "year_start": 1995,
+   "year_end": 1997,
+   "explicit": true,
+   "evidence": "訳の部分は、1995年から1997年春まで真宗教学研究所で行われた「大阿弥陀経」研究会で、助手(当時)の竹橋太氏が下訳を準備し、私が大いに手を入れたものを参考にした。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Karashima_辛島静志_2001",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Karashima_辛島静志_2001.txt",
+ "meta": {
+  "title": "『大阿弥陀経』訳注(三)",
+  "author": "辛嶋 静志",
+  "year": 2001,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

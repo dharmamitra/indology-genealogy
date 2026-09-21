@@ -1,0 +1,72 @@
+{
+ "author": "澤本貫",
+ "doc_kind": "other",
+ "doc_year": 1958,
+ "people": [
+  {
+   "name": "望月信亨",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "鈴木大拙",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "塚本善隆",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "澤本貫",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "鈴木大拙",
+   "type": "position_at",
+   "object": "世界聖典刊行協會",
+   "role": "會長",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "世界聖典刊行協會は會長 鈴木大拙博士の年来の念願であつた世界の東洋學、佛教學に劃期的貢献をなす「影印北版西藏大藏經刊行」という",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "澤本貫",
+   "type": "position_at",
+   "object": "世界聖典刊行協會",
+   "role": "常任理事",
+   "place": null,
+   "year_start": null,
+   "year_end": 1958,
+   "explicit": true,
+   "evidence": "世界聖典刊行協會 常任理事 澤 本 貫",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Vol 8",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Vol 8.txt",
+ "meta": {
+  "title": "望月佛教大辭典",
+  "author": "望月信亨",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

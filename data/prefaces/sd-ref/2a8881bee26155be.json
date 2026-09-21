@@ -1,0 +1,90 @@
+{
+ "author": "K.T.S. Sarao",
+ "doc_kind": "monograph",
+ "doc_year": 2012,
+ "people": [
+  {
+   "name": "K.T.S. Sarao",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "St. Edmunds College, University of Cambridge",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "R.C. Mitra",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Louis Renou",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "K.T.S. Sarao",
+   "type": "position_at",
+   "object": "St. Edmunds College, University of Cambridge",
+   "role": "Visiting Fellow",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Visiting fellowships offered by St. Edmunds College, University of",
+   "quote_ok": true
+  },
+  {
+   "subject": "R.C. Mitra",
+   "type": "studied_at",
+   "object": "Sorbonne",
+   "role": "PhD",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": 1947,
+   "explicit": true,
+   "evidence": "This seminal work was prepared in 1947 as a doctoral thesis by R.C. Mitra.¹ ... ¹The thesis entitled \"Le déclin du bouddhisme dans l'Inde\" was presented at the Sorbonne in 1947",
+   "quote_ok": false
+  },
+  {
+   "subject": "Louis Renou",
+   "type": "position_at",
+   "object": "Institute of Indian Civilization of the University of Paris",
+   "role": "Director",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": 1947,
+   "explicit": true,
+   "evidence": "prepared at the suggestion of Louis Renou, Director of the Institute of Indian Civilization of the University of Paris.",
+   "quote_ok": true
+  },
+  {
+   "subject": "R.C. Mitra",
+   "type": "influenced_by",
+   "object": "Louis Renou",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "initially prepared at the suggestion of Louis Renou, Director of the Institute of Indian Civilization of the University of Paris.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Sarao_Decline of Buddhism in India",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Sarao_Decline of Buddhism in India.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

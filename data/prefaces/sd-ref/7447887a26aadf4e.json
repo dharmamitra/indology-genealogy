@@ -1,0 +1,83 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "小川一乗",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Leonard W. J. van der Kuijp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  },
+  {
+   "name": "Ernst Steinkellner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Austria",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "小川一乗",
+   "type": "position_at",
+   "object": "大谷大学",
+   "role": "教授",
+   "place": "Kyoto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "西藏文献研究班主任\n大谷大学教授\n小川一乗",
+   "quote_ok": true
+  },
+  {
+   "subject": "小川一乗",
+   "type": "position_at",
+   "object": "大谷大学真宗綜合研究所の西蔵文献研究班",
+   "role": "主任",
+   "place": "Kyoto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "西藏文献研究班主任\n大谷大学教授\n小川一乗",
+   "quote_ok": true
+  },
+  {
+   "subject": "Leonard W. J. van der Kuijp",
+   "type": "position_at",
+   "object": "University of Washington",
+   "role": "assistant professor",
+   "place": "Seattle",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Leonard W. J. van der Kuijp, assistant professor at the University of Washington, Seattle",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Steinkellner",
+   "type": "position_at",
+   "object": "Vienna",
+   "role": "Professor",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "suggestion of Professor Ernst Steinkellner of Vienna",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Kuijp_Gtsang nag pa's tshad ma rnam nges",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Kuijp_Gtsang nag pa's tshad ma rnam nges.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

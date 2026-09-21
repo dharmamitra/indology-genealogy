@@ -1,0 +1,90 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 1959,
+ "people": [
+  {
+   "name": "Lokesh Chandra",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Gadjin M. Nagao",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "F. D Lessing",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Friedrich Weller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "RaghuVira",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Lokesh Chandra",
+   "type": "position_at",
+   "object": "International Academy of Indian Culture",
+   "role": "Secretary",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Lokesh Chandra, Secretary of the International Academy of Indian Culture",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lokesh Chandra",
+   "type": "student_of",
+   "object": "RaghuVira",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "under the encouraging guidance of my father and guru Prof. Dr. Raghu Vira",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lokesh Chandra",
+   "type": "other",
+   "object": "RaghuVira",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "my father and guru Prof. Dr. Raghu Vira",
+   "quote_ok": true
+  }
+ ],
+ "docid": "LokeshChandra_1959-61",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/LokeshChandra_1959-61.txt",
+ "meta": {
+  "title": "TIBETAN-SANSKRIT DICTIONARY",
+  "author": "Chandra, Lokesh",
+  "year": 1959,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

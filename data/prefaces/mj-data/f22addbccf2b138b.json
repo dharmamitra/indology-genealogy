@@ -1,0 +1,109 @@
+{
+ "author": "水野弘元",
+ "doc_kind": "article",
+ "doc_year": 1988,
+ "people": [
+  {
+   "name": "水野弘元",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "印順",
+   "birth_year": 1906,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "太虚",
+   "birth_year": 1890,
+   "death_year": 1947,
+   "nationality": "Chinese",
+   "field": "Buddhism"
+  },
+  {
+   "name": "星雲",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhism"
+  },
+  {
+   "name": "姉崎正治",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "赤沼智善",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "星雲",
+   "type": "student_of",
+   "object": "印順",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "同じく学徳ともにすぐれた印順法師に師事し、学問的な顧問と仰いでいると思われる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "星雲",
+   "type": "founded",
+   "object": "仏光山",
+   "role": null,
+   "place": "高雄",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "高雄に仏光山を開き、今日では台湾全土から諸外国へも教線を延ばしている、学徳ともにすぐれた星雲法師",
+   "quote_ok": true
+  },
+  {
+   "subject": "印順",
+   "type": "student_of",
+   "object": "太虚",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "中国本土において、戦前から戦後に至るまで中国仏教を指導育成した偉大な太虚法師 (1890-1947)に師事して",
+   "quote_ok": true
+  },
+  {
+   "subject": "印順",
+   "type": "studied_at",
+   "object": "大正大学",
+   "role": "文学博士",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "この中の『中国禅宗史』によって大正大学で文学博士の学位を得られた。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Mizuno_水野弘元_1988@『雜阿含』の研究と出版",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Mizuno_水野弘元_1988@『雜阿含』の研究と出版.txt",
+ "meta": {
+  "title": "『雑阿含経』の研究と出版",
+  "author": "Mizuno, Hiromoto",
+  "year": 1988,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

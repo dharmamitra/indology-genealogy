@@ -1,0 +1,121 @@
+{
+ "author": "Arinde L. Jonker",
+ "doc_kind": "dissertation",
+ "doc_year": 2018,
+ "people": [
+  {
+   "name": "Arinde L. Jonker",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Peter Bisschop",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Daniele Cuneo",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jonathan Silk",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Arinde L. Jonker",
+   "type": "studied_at",
+   "object": "Leiden University",
+   "role": "Research MA",
+   "place": null,
+   "year_start": null,
+   "year_end": 2018,
+   "explicit": true,
+   "evidence": "Leiden University Faculty of Humanities Leiden Institute for Area Studies Research MA thesis Asian Studies bc. Arinde L. Jonker",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Arinde L. Jonker",
+   "type": "student_of",
+   "object": "Peter Bisschop",
+   "role": "MA supervisor",
+   "place": "Leiden University",
+   "year_start": null,
+   "year_end": 2018,
+   "explicit": true,
+   "evidence": "Supervisor: prof. P. C. Bisschop 2018 [...] my teacher, my guru, professor Peter Bisschop, who has supervised me not only with regards to my thesis but during my entire academic forming at Leiden University",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Peter Bisschop",
+   "type": "position_at",
+   "object": "Leiden University",
+   "role": "professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "my teacher, my guru, professor Peter Bisschop, who has supervised me not only with regards to my thesis but during my entire academic forming at Leiden University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daniele Cuneo",
+   "type": "student_of",
+   "object": "Arinde L. Jonker",
+   "role": "teacher",
+   "place": "Leiden University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "During professor Bisschop’s academic sabbatical, I was blessed that he was replaced by the over-talented dr. Daniele Cuneo",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daniele Cuneo",
+   "type": "position_at",
+   "object": "Sorbonne",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "La Sorbonne is very lucky to have brought in such a brilliant young scholar.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arinde L. Jonker",
+   "type": "student_of",
+   "object": "Jonathan Silk",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I would also like to thank professor Jonathan Silk. Without him I would have never started studying Sanskrit. He has encouraged me to be critical and taught me that creativity is an important aspect of academic work.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "arinde ma thesis repo",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/arinde ma thesis repo.txt",
+ "meta": {
+  "title": "The Death of a Yogi: The Relation between Yoga, Death and Liberation in Early Śaiva Traditions. With Specific Reference to the Pāśupatasūtra and the Skandapurāṇa",
+  "author": "Jonker, Arinde L.",
+  "year": 2018,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,95 @@
+{
+ "author": "Johannes Nobel",
+ "doc_kind": "text_edition",
+ "doc_year": 1937,
+ "people": [
+  {
+   "name": "Johannes Nobel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "W. Printz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "W. Kalthoff",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "H. Lüders",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johannes Nobel",
+   "type": "position_at",
+   "object": "Marburg",
+   "role": null,
+   "place": "Marburg (Lahn)",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Marburg (Lahn), Weihnachten 1936. Joh. Nobel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "W. Printz",
+   "type": "position_at",
+   "object": "Bibliothek der Deutschen Morgenländischen Gesellschaft",
+   "role": "Professor",
+   "place": "Halle",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Herrn Professor W. Printz danke ich nicht nur für die Lesung einer zweiten Korrektur, sondern vor allem auch für die stets bereitwillige und rasche Übersendung der benötigten Literatur aus der Bibliothek der Deutschen Morgenländischen Gesellschaft in Halle.",
+   "quote_ok": true
+  },
+  {
+   "subject": "W. Kalthoff",
+   "type": "position_at",
+   "object": "Marburg",
+   "role": "Studienrat",
+   "place": "Marburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Herr Studienrat Dr. W. Kalthoff (Marburg) hat in dankenswerter Weise ebenfalls eine Korrektur gelesen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "H. Lüders",
+   "type": "position_at",
+   "object": "Preußische Akademie der Wissenschaften",
+   "role": "Orientalische Kommission",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Herrn Geheimrat H. Lüders, durch dessen Vermittlung die Orientalische Kommission der Preußischen Akademie der Wissenschaften in Berlin einen größeren Betrag als Druckkostenzuschuß zur Verfügung gestellt hat",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Intro01",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Intro01.txt",
+ "meta": {
+  "title": "Suvarṇabhāsottamasūtra: Das Goldglanz-Sūtra",
+  "author": "Nobel, Johannes",
+  "year": 1937,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

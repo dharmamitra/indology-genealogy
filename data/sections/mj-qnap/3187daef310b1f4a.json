@@ -1,0 +1,135 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1880,
+ "people": [
+  {
+   "name": "Robert Hesketh",
+   "birth_year": 1817,
+   "death_year": 1880,
+   "nationality": "British",
+   "field": "architecture"
+  },
+  {
+   "name": "Augustus Pugin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "architecture"
+  },
+  {
+   "name": "Philip Hardwick",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "architecture"
+  },
+  {
+   "name": "Augustus Frederick Livesay",
+   "birth_year": null,
+   "death_year": 1879,
+   "nationality": "British",
+   "field": "architecture"
+  },
+  {
+   "name": "James Adams",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "architecture"
+  },
+  {
+   "name": "Sir John Soane",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "architecture"
+  },
+  {
+   "name": "George William Mayhew",
+   "birth_year": 1818,
+   "death_year": 1880,
+   "nationality": "British",
+   "field": "architecture"
+  },
+  {
+   "name": "Finden",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "architecture"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Robert Hesketh",
+   "type": "student_of",
+   "object": "Augustus Pugin",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He first studied under Augustus Pugin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Hesketh",
+   "type": "student_of",
+   "object": "Philip Hardwick",
+   "role": "pupil",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and was a pupil of the late Mr. Philip Hardwick, R.A.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Augustus Frederick Livesay",
+   "type": "student_of",
+   "object": "James Adams",
+   "role": "pupil",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and was articled to Mr. James Adams, a pupil of Sir John Soane.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Adams",
+   "type": "student_of",
+   "object": "Sir John Soane",
+   "role": "pupil",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mr. James Adams, a pupil of Sir John Soane.",
+   "quote_ok": true
+  },
+  {
+   "subject": "George William Mayhew",
+   "type": "student_of",
+   "object": "Finden",
+   "role": "pupil",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was articled to the late Mr. Finden.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "The Transactions of the Royal Institute of British Architects, session 1979–1880 (includes William Simson’s report on Buddhist Architecture in the Jellalabad [Jallalabad] Valley ) 1880 gri_33125006146308",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/The Transactions of the Royal Institute of British Architects, session 1979–1880 (includes William Simson’s report on Buddhist Architecture in the Jellalabad [Jallalabad] Valley ) 1880 gri_33125006146308.txt#0",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

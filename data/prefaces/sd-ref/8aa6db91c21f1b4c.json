@@ -1,0 +1,109 @@
+{
+ "author": null,
+ "doc_kind": "monograph",
+ "doc_year": 2015,
+ "people": [
+  {
+   "name": "Kōun Yamada",
+   "birth_year": 1907,
+   "death_year": 1989,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Yasutani Haku'un",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ryōun-ken Masamichi Yamada",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Paul Shepherd",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Roselyn Stone",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Kōun Yamada",
+   "type": "succeeded",
+   "object": "Yasutani Haku'un",
+   "role": "chief successor",
+   "place": "Sanbō Zen",
+   "year_start": 1970,
+   "year_end": 1989,
+   "explicit": true,
+   "evidence": "As the chief successor of Yasutani, Kōun Yamada was the abbot of Sanbō Zen from 1970 to 1989",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ryōun-ken Masamichi Yamada",
+   "type": "student_of",
+   "object": "Kōun Yamada",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "twenty-five years of Zen practice under his guidance, eventually succeeding to his Dharma.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ryōun-ken Masamichi Yamada",
+   "type": "other",
+   "object": "Kōun Yamada",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I feel proud that my father wrote this book",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Shepherd",
+   "type": "student_of",
+   "object": "Kōun Yamada",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "translated into English by Paul Shepherd and edited by Dr. Roselyn Stone, both longtime students of mine",
+   "quote_ok": true
+  },
+  {
+   "subject": "Roselyn Stone",
+   "type": "student_of",
+   "object": "Kōun Yamada",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "translated into English by Paul Shepherd and edited by Dr. Roselyn Stone, both longtime students of mine",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Zen  The authentic gate_Yamada Koun, 2015",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Zen  The authentic gate_Yamada Koun, 2015.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

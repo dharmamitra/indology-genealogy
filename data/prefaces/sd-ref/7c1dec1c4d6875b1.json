@@ -1,0 +1,121 @@
+{
+ "author": "Wendy Palace",
+ "doc_kind": "monograph",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Wendy Palace",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "David Sweet",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "History"
+  },
+  {
+   "name": "Rebecca Reader",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "History"
+  },
+  {
+   "name": "Imogen Anderson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "History"
+  },
+  {
+   "name": "Jo Storey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "History"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Wendy Palace",
+   "type": "student_of",
+   "object": "David Sweet",
+   "role": "doctoral supervisor",
+   "place": "Durham University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "To Dr David Sweet, my doctoral supervisor at Durham University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wendy Palace",
+   "type": "studied_at",
+   "object": "Durham University",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "To Dr David Sweet, my doctoral supervisor at Durham University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "David Sweet",
+   "type": "position_at",
+   "object": "Durham University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "To Dr David Sweet, my doctoral supervisor at Durham University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rebecca Reader",
+   "type": "position_at",
+   "object": "Durham University",
+   "role": "History Department member",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "To Drs Rebecca Reader, Imogen Anderson, Jo Storey and other members of the Durham University History Department.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Imogen Anderson",
+   "type": "position_at",
+   "object": "Durham University",
+   "role": "History Department member",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "To Drs Rebecca Reader, Imogen Anderson, Jo Storey and other members of the Durham University History Department.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jo Storey",
+   "type": "position_at",
+   "object": "Durham University",
+   "role": "History Department member",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "To Drs Rebecca Reader, Imogen Anderson, Jo Storey and other members of the Durham University History Department.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Palace_The British Empire and Tibet",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Palace_The British Empire and Tibet.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

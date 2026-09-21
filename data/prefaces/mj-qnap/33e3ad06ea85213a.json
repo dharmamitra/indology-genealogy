@@ -1,0 +1,144 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 2007,
+ "people": [
+  {
+   "name": "Heinz Bechert",
+   "birth_year": null,
+   "death_year": 2005,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Klaus Röhrborn",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Michael Schmidt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "J. Chung",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "A. Bock-Raming",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Klaus Wille",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Siglinde Dietz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "J.-U. Hartmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "H.-J. Röllicke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "S. Karashima",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ernst Waldschmidt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Klaus Röhrborn",
+   "type": "collaborated_with",
+   "object": "Michael Schmidt",
+   "role": "editor and redactor",
+   "place": "Göttingen",
+   "year_start": 2004,
+   "year_end": 2007,
+   "explicit": true,
+   "evidence": "Göttingen, im Juni 2004 Klaus Röhrborn (Herausgeber) Michael Schmidt (Redaktor)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Klaus Röhrborn",
+   "type": "succeeded",
+   "object": "Heinz Bechert",
+   "role": "Herausgeber",
+   "place": null,
+   "year_start": 2003,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ab der nächsten, also der 17. Lieferung dieses Wörterbuchs wird Prof. Dr. Klaus Röhrborn als Herausgeber tätig werden.",
+   "quote_ok": true
+  },
+  {
+   "subject": "J.-U. Hartmann",
+   "type": "collaborated_with",
+   "object": "H.-J. Röllicke",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": 2006,
+   "explicit": true,
+   "evidence": "Hrsg. von J.-U. Hartmann und H.-J. Röllicke. Düsseldorf 2006",
+   "quote_ok": true
+  },
+  {
+   "subject": "S. Karashima",
+   "type": "collaborated_with",
+   "object": "Klaus Wille",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": 2006,
+   "explicit": true,
+   "evidence": "S. Karashima, K. Wille (Editors-in-chief), Buddhist Manuscripts from Central Asia. The British Library Sanskrit Fragments. Vol. I. Tokyo 2006.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "SWBTTF III 20. mat-sadṛśa : mleccha",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/SWBTTF III 20. mat-sadṛśa : mleccha.txt",
+ "meta": {
+  "title": "Sanskrit-Wörterbuch der buddhistischen Texte aus den Turfan-Funden",
+  "author": "Waldschmidt, Ernst",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,93 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Lobsang Dagpa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jay Goldberg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Dezhung Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Geshe Lozang Jamspal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jared Rhoton",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Cyrus Stearns",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Lobsang Dagpa",
+   "type": "collaborated_with",
+   "object": "Jay Goldberg",
+   "role": "translator",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Translated by Lobsang Dagpa and Jay Goldberg",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Lobsang Dagpa",
+   "type": "student_of",
+   "object": "Dezhung Rinpoche",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "First and foremost, we wish to sincerely thank the most venerable Dezhung Rinpoche, abbot of Tharlam Monastery, for clearing up many doubts we had concerning various points of the text, as well as for expanding our knowledge",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jay Goldberg",
+   "type": "student_of",
+   "object": "Dezhung Rinpoche",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "First and foremost, we wish to sincerely thank the most venerable Dezhung Rinpoche, abbot of Tharlam Monastery, for clearing up many doubts we had concerning various points of the text, as well as for expanding our knowledge",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Three Visions. Fundamental Teachings of the Sakya Lineage of Tibetan Buddhism_Ngorchen Konchog Lhundrub",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Three Visions. Fundamental Teachings of the Sakya Lineage of Tibetan Buddhism_Ngorchen Konchog Lhundrub.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

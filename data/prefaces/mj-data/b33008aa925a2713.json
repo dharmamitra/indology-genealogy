@@ -1,0 +1,64 @@
+{
+ "author": "幅田 裕美",
+ "doc_kind": "festschrift",
+ "doc_year": 2015,
+ "people": [
+  {
+   "name": "幅田 裕美",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jens-Uwe Hartmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "松田 和信",
+   "birth_year": 1955,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jens-Uwe Hartmann",
+   "type": "position_at",
+   "object": "ミュンヘン大学",
+   "role": "教授",
+   "place": "Munich",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ミュンヘン大学の Jens-Uwe Hartmann 教授の写本講読ゼミで読んでいただき",
+   "quote_ok": true
+  },
+  {
+   "subject": "幅田 裕美",
+   "type": "student_of",
+   "object": "Jens-Uwe Hartmann",
+   "role": null,
+   "place": "Munich",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "ミュンヘン大学の Jens-Uwe Hartmann 教授の写本講読ゼミで読んでいただき、ゼミの参加者に貴重なご助言をいただいた。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Ueno_上野牧生_2015@アシュヴァゴーシャの失われた荘厳経論",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Ueno_上野牧生_2015@アシュヴァゴーシャの失われた荘厳経論.txt",
+ "meta": {
+  "title": "アシュヴァゴーシャの失われた荘厳経論",
+  "author": "上野, 牧生",
+  "year": 2015,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

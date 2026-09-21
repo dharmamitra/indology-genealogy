@@ -1,0 +1,174 @@
+{
+ "people": [
+  {
+   "name": "David Ownby"
+  },
+  {
+   "name": "Vincent Goossaert"
+  },
+  {
+   "name": "Ji Zhe"
+  },
+  {
+   "name": "Ester Bianchi"
+  },
+  {
+   "name": "Wang Enyang"
+  },
+  {
+   "name": "Longlian"
+  },
+  {
+   "name": "Sherap Gyatso",
+   "birth_year": 1884,
+   "death_year": 1968,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Fazun"
+  },
+  {
+   "name": "Taixu"
+  },
+  {
+   "name": "Guankong"
+  },
+  {
+   "name": "Nenghai",
+   "birth_year": 1886,
+   "death_year": 1967
+  }
+ ],
+ "relations": [
+  {
+   "subject": "David Ownby",
+   "type": "collaborated_with",
+   "object": "Vincent Goossaert",
+   "role": "co-editor",
+   "explicit": true,
+   "evidence": "Edited by Edited by David Ownby Vincent Goossaert",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Longlian",
+   "type": "student_of",
+   "object": "Wang Enyang",
+   "role": "teacher",
+   "explicit": true,
+   "evidence": "She was always there, taking notes on my teachings. From the very beginning, I was able to see what a talented student she was.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Longlian",
+   "type": "student_of",
+   "object": "Fazun",
+   "role": "teacher",
+   "year_start": 1939,
+   "year_end": 1940,
+   "explicit": true,
+   "evidence": "Most notably, in 1939 she studied the Tibetan language with Fazun, and the following year attended his lessons on the Weishi sanshi lun",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fazun",
+   "type": "student_of",
+   "object": "Taixu",
+   "role": "traditional teacher",
+   "explicit": true,
+   "evidence": "A disciple of Taixu, he graduated from the Wuchang Institute of Buddhist Studies.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fazun",
+   "type": "studied_at",
+   "object": "Wuchang Institute of Buddhist Studies",
+   "explicit": true,
+   "evidence": "he graduated from the Wuchang Institute of Buddhist Studies.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fazun",
+   "type": "studied_at",
+   "object": "Beijing Institute of Tibetan Studies",
+   "year_start": 1925,
+   "explicit": true,
+   "evidence": "In 1925 Fazun studied at the newly founded Beijing Institute of Tibetan Studies",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fazun",
+   "type": "position_at",
+   "object": "Beijing Institute of Buddhist Studies",
+   "role": "vice-director",
+   "year_start": 1956,
+   "explicit": true,
+   "evidence": "in 1956 he was given the post of vice-director of the Beijing Institute of Buddhist Studies, and in 1980, after the Cultural Revolution, he became its director.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Fazun",
+   "type": "position_at",
+   "object": "Beijing Institute of Buddhist Studies",
+   "role": "director",
+   "year_start": 1980,
+   "explicit": true,
+   "evidence": "and in 1980, after the Cultural Revolution, he became its director.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Taixu",
+   "type": "founded",
+   "object": "Institute of Sino-Tibetan Buddhist Studies",
+   "year_start": 1930,
+   "year_end": 1931,
+   "explicit": true,
+   "evidence": "the Institute of Sino-Tibetan Buddhist Studies, founded by Taixu and Fazun in 1930-1931.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fazun",
+   "type": "founded",
+   "object": "Institute of Sino-Tibetan Buddhist Studies",
+   "year_start": 1930,
+   "year_end": 1931,
+   "explicit": true,
+   "evidence": "the Institute of Sino-Tibetan Buddhist Studies, founded by Taixu and Fazun in 1930-1931.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Guankong",
+   "type": "position_at",
+   "object": "Institute of Sino-Tibetan Buddhist Studies",
+   "role": "teacher",
+   "explicit": true,
+   "evidence": "then moved to Chongqing to teach at the Institute of Sino-Tibetan Buddhist Studies",
+   "quote_ok": true
+  },
+  {
+   "subject": "Guankong",
+   "type": "position_at",
+   "object": "Institute of Buddhist Studies of Beijing",
+   "role": "professor",
+   "year_start": 1957,
+   "explicit": true,
+   "evidence": "In 1957 he was appointed professor at the Institute of Buddhist Studies of Beijing.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Longlian",
+   "type": "student_of",
+   "object": "Nenghai",
+   "role": "traditional teacher",
+   "explicit": true,
+   "evidence": "Longlian often went to hear him preach, and became one of his closest disciples, studying both exoteric and tantric texts and tenets with him.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Making saints in modern China_Chi Che (Ji Zhe), Vincent Goossaert, David Ownby,  2017.pdf",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Making saints in modern China_Chi Che (Ji Zhe), Vincent Goossaert, David Ownby,  2017.pdf.txt#0",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

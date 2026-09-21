@@ -1,0 +1,159 @@
+{
+ "author": null,
+ "doc_kind": "edited_volume",
+ "doc_year": 1981,
+ "people": [
+  {
+   "name": "辻直四郎",
+   "birth_year": 1900,
+   "death_year": 1979,
+   "nationality": "Japan",
+   "field": "Indology"
+  },
+  {
+   "name": "田中於菟彌",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indology"
+  },
+  {
+   "name": "岩本裕",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indology"
+  },
+  {
+   "name": "原実",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indology"
+  },
+  {
+   "name": "風間喜代三",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "高楠順次郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "鈴木信太郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "渡邊一夫",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "田中於菟彌",
+   "type": "collaborated_with",
+   "object": "岩本裕",
+   "role": "co-editor",
+   "place": null,
+   "year_start": 1981,
+   "year_end": 1981,
+   "explicit": true,
+   "evidence": "編 集 田 中 於 菟 彌 岩 本 裕 原 実",
+   "quote_ok": true
+  },
+  {
+   "subject": "田中於菟彌",
+   "type": "collaborated_with",
+   "object": "原実",
+   "role": "co-editor",
+   "place": null,
+   "year_start": 1981,
+   "year_end": 1981,
+   "explicit": true,
+   "evidence": "編 集 田 中 於 菟 彌 岩 本 裕 原 実",
+   "quote_ok": true
+  },
+  {
+   "subject": "岩本裕",
+   "type": "collaborated_with",
+   "object": "原実",
+   "role": "co-editor",
+   "place": null,
+   "year_start": 1981,
+   "year_end": 1981,
+   "explicit": true,
+   "evidence": "編 集 田 中 於 菟 彌 岩 本 裕 原 実",
+   "quote_ok": true
+  },
+  {
+   "subject": "辻直四郎",
+   "type": "student_of",
+   "object": "高楠順次郎",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "著者はその若き日に, 恩師高楠順次郎博士の監修された『ウパニシャット全書(全9巻)』の企画に参加し",
+   "quote_ok": true
+  },
+  {
+   "subject": "原実",
+   "type": "student_of",
+   "object": "辻直四郎",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "その昔ともに博士の講筵に侍った畏友風間喜代三氏の協力を得たことを付記する",
+   "quote_ok": true
+  },
+  {
+   "subject": "風間喜代三",
+   "type": "student_of",
+   "object": "辻直四郎",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "その昔ともに博士の講筵に侍った畏友風間喜代三氏の協力を得たことを付記する",
+   "quote_ok": true
+  },
+  {
+   "subject": "辻直四郎",
+   "type": "position_at",
+   "object": "慶応義塾大学語学研究所",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "久しく著者と関係を有していた慶応義塾大学語学研究所より『語学論叢』第1輯の巻頭論文として発表されたもので",
+   "quote_ok": true
+  }
+ ],
+ "docid": "辻直四郎著作集(1)",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/辻直四郎著作集(1).txt",
+ "meta": {
+  "title": "辻直四郎著作集 第一巻 ヴェーダ学I",
+  "author": "辻, 直四郎",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,52 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1996,
+ "people": [
+  {
+   "name": "Thubten J. Norbu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Robert Ekvall",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sarat Chandra Das",
+   "birth_year": 1849,
+   "death_year": 1917,
+   "nationality": "British",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Thubten J. Norbu",
+   "type": "collaborated_with",
+   "object": "Robert Ekvall",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1969,
+   "explicit": true,
+   "evidence": "According to Thubten J. Norbu and Robert Ekvall who translated the play into English in 1969",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Lungta-10",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Lungta-10.txt",
+ "meta": {
+  "title": "the lives of the panchen lamas",
+  "author": "",
+  "year": 1996,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,64 @@
+{
+ "author": "山崎守一",
+ "doc_kind": "article",
+ "doc_year": 2000,
+ "people": [
+  {
+   "name": "山崎守一",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "逢坂雄美",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "M. Miyao",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "山崎守一",
+   "type": "collaborated_with",
+   "object": "逢坂雄美",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "筆者はここ数年来、逢坂雄美理学博士と共同でコンピュータを利用して、初期ジャイナ教文献や初期仏教文献の詩脚(=句、pāda)や語彙の索引を作成し公表してきた",
+   "quote_ok": true
+  },
+  {
+   "subject": "山崎守一",
+   "type": "collaborated_with",
+   "object": "M. Miyao",
+   "role": null,
+   "place": null,
+   "year_start": 1995,
+   "year_end": 1995,
+   "explicit": true,
+   "evidence": "M. Yamazaki and Y. Ousaka, and M. Miyao, Indexes to the Dhammapada, Pali Text Society, Oxford 1995.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Yamazaki_山崎守一_2000a",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Yamazaki_山崎守一_2000a.txt",
+ "meta": {
+  "title": "Dhamma-pada 並行詩脚対照表",
+  "author": "山崎, 守一",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

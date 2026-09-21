@@ -1,0 +1,99 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1905,
+ "people": [
+  {
+   "name": "Louis Finot",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "H. Parmentier",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "archaeology"
+  },
+  {
+   "name": "E.-M. Durand",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "P. Villaume",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Louis Finot",
+   "type": "position_at",
+   "object": "École Française d'Extrême-Orient",
+   "role": "premier directeur et son organisateur",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A M. LOUIS FINOT SON PREMIER DIRECTEUR ET SON ORGANISATEUR l'École Française d'Extrême-Orient RECONNAISSANTE",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "H. Parmentier",
+   "type": "position_at",
+   "object": "École Française d'Extrême-Orient",
+   "role": "architecte, chef du Service archéologique",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "H. PARMENTIER, architecte, chef du Service archéologique de l'École française d'Extrême-Orient",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "E.-M. Durand",
+   "type": "position_at",
+   "object": "École Française d'Extrême-Orient",
+   "role": "correspondant",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "E.-M. DURAND, Missionnaire apostolique, correspondant de l'École française d'Extrême-Orient",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "H. Parmentier",
+   "type": "collaborated_with",
+   "object": "E.-M. Durand",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1905,
+   "explicit": true,
+   "evidence": "LE TRÉSOR DES ROIS CHAMS par MM. H. PARMENTIER, architecte, chef du Service archéologique de l'École française d'Extrême-Orient, et E.-M. DURAND",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "BEFEO_5",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/BEFEO_5.txt#0",
+ "meta": {
+  "title": "Bulletin de l'Ecole Française d'Extrême-Orient",
+  "author": "",
+  "year": 1905,
+  "language": "fr"
+ },
+ "model": "gemini-flash-latest"
+}

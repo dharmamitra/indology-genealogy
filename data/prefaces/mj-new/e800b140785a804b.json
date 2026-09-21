@@ -1,0 +1,76 @@
+{
+ "author": "高崎直道",
+ "doc_kind": "article",
+ "doc_year": 1981,
+ "people": [
+  {
+   "name": "高崎直道",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "高井隆秀",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "服部正明",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "高崎直道",
+   "type": "position_at",
+   "object": "北海道大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "（北海道大学教授）\n\n真諦三蔵の思想\n高崎 直道",
+   "quote_ok": true
+  },
+  {
+   "subject": "高井隆秀",
+   "type": "position_at",
+   "object": "高井隆秀教授還暦記念論集『密教思想』",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "高井隆秀教授還暦記念論集『密教思想』",
+   "quote_ok": true
+  },
+  {
+   "subject": "高崎直道",
+   "type": "influenced_by",
+   "object": "服部正明",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "この論稿が刺戟となって、筆者高崎は同じく真諦の訳書『無上依経』についても、『宝性論』の経典化であることを明らかにした",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Takasaki_1981",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Takasaki_1981.txt",
+ "meta": {
+  "title": "真諦三蔵の思想",
+  "author": "高崎, 直道",
+  "year": 1981,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

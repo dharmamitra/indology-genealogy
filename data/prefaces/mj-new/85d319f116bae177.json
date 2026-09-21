@@ -1,0 +1,71 @@
+{
+ "author": null,
+ "doc_kind": "festschrift",
+ "doc_year": 1991,
+ "people": [
+  {
+   "name": "おおまえ ふとし",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "松本照敬",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "伊原照蓮",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "戸崎宏正",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "おおまえ ふとし",
+   "type": "position_at",
+   "object": "九州大学",
+   "role": "非常勤講師",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "(おおまえ ふとし・九州大学非常勤講師)",
+   "quote_ok": true
+  },
+  {
+   "subject": "戸崎宏正",
+   "type": "position_at",
+   "object": "伊原照蓮博士古稀記念会",
+   "role": "代表",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "発行者 伊原照蓮博士古稀記念会\n代表 戸 崎 宏 正",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Omae_1991",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Omae_1991.txt",
+ "meta": {
+  "title": "ダルマキールティの聖典観 ―『プラマーナ・ヴァールティカ』第1章および自註の和訳 (6) ―",
+  "author": "",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

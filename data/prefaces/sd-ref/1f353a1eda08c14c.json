@@ -1,0 +1,37 @@
+{
+ "people": [
+  {
+   "name": "Herbert Franke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hans Steininger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Herbert Franke",
+   "type": "other",
+   "object": "Hans Steininger",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Vorbemerkung: Die Tatsache, daß diese Freundschaftsgabe für Hans Steininger in englischer Sprache abgefaßt ist, bedarf einer Erläuterung.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Franke_Sha-lo-pa_Shes_rabs_dpal",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Franke_Sha-lo-pa_Shes_rabs_dpal.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

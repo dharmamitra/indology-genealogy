@@ -1,0 +1,150 @@
+{
+ "author": "James Mallinson",
+ "doc_kind": "article",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "James Mallinson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Alexis Sanderson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Péter-Dániel Szántó",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jason Birch",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Andrea Acri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Mallinson",
+   "type": "student_of",
+   "object": "Alexis Sanderson",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I had the great fortune to have Professor Sanderson as the supervisor of my doctoral thesis",
+   "quote_ok": true
+  },
+  {
+   "subject": "Péter-Dániel Szántó",
+   "type": "student_of",
+   "object": "Alexis Sanderson",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "two other former students of Sanderson, Péter-Dániel Szántó and Jason Birch",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jason Birch",
+   "type": "student_of",
+   "object": "Alexis Sanderson",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "two other former students of Sanderson, Péter-Dániel Szántó and Jason Birch",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Mallinson",
+   "type": "collaborated_with",
+   "object": "Alexis Sanderson",
+   "role": null,
+   "place": "Oxford",
+   "year_start": 2012,
+   "year_end": 2012,
+   "explicit": true,
+   "evidence": "This edition was read with Professor Alexis Sanderson, Jason Birch, Péter-Dániel Szántó and Andrea Acri in Oxford in early 2012",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Mallinson",
+   "type": "collaborated_with",
+   "object": "Jason Birch",
+   "role": null,
+   "place": "Oxford",
+   "year_start": 2012,
+   "year_end": 2012,
+   "explicit": true,
+   "evidence": "This edition was read with Professor Alexis Sanderson, Jason Birch, Péter-Dániel Szántó and Andrea Acri in Oxford in early 2012",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Mallinson",
+   "type": "collaborated_with",
+   "object": "Péter-Dániel Szántó",
+   "role": null,
+   "place": "Oxford",
+   "year_start": 2012,
+   "year_end": 2012,
+   "explicit": true,
+   "evidence": "This edition was read with Professor Alexis Sanderson, Jason Birch, Péter-Dániel Szántó and Andrea Acri in Oxford in early 2012",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Mallinson",
+   "type": "collaborated_with",
+   "object": "Andrea Acri",
+   "role": null,
+   "place": "Oxford",
+   "year_start": 2012,
+   "year_end": 2012,
+   "explicit": true,
+   "evidence": "This edition was read with Professor Alexis Sanderson, Jason Birch, Péter-Dániel Szántó and Andrea Acri in Oxford in early 2012",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Mallinson",
+   "type": "collaborated_with",
+   "object": "Péter-Dániel Szántó",
+   "role": "co-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I am currently preparing a critical edition and annotated translation of the text with Dr Szántó",
+   "quote_ok": true
+  }
+ ],
+ "docid": "9789004432802-BP000022",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/9789004432802-BP000022.txt",
+ "meta": {
+  "title": "The Amṛtasiddhi: Haṭhayoga’s Tantric Buddhist Source Text",
+  "author": "Mallinson, James",
+  "year": 2020,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

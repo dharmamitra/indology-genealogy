@@ -1,0 +1,76 @@
+{
+ "author": "舟橋尚哉",
+ "doc_kind": "article",
+ "doc_year": 1998,
+ "people": [
+  {
+   "name": "舟橋尚哉",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "舟橋一哉",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "舟橋水哉",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "舟橋尚哉",
+   "type": "other",
+   "object": "舟橋一哉",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "私の父(舟橋一哉)は、「唯識三年、倶舎八年」というのは、「桃栗三年、柿八年」をもじったもので",
+   "quote_ok": true
+  },
+  {
+   "subject": "舟橋尚哉",
+   "type": "other",
+   "object": "舟橋水哉",
+   "role": "grandfather",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "私の祖父(舟橋水哉)が『倶舎の教義及び其歴史』の中で",
+   "quote_ok": true
+  },
+  {
+   "subject": "舟橋一哉",
+   "type": "other",
+   "object": "舟橋水哉",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "私の父(舟橋一哉)……私の祖父(舟橋水哉)",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Funahashi_舟橋尚哉_1998@「唯識三年、倶舎八年」考",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Funahashi_舟橋尚哉_1998@「唯識三年、倶舎八年」考.txt#0",
+ "meta": {
+  "title": "「唯識三年、倶舎八年」考",
+  "author": "舟橋, 尚哉",
+  "year": 1998,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

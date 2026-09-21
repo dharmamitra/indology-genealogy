@@ -1,0 +1,83 @@
+{
+ "author": "E. H. Johnston",
+ "doc_kind": "text_edition",
+ "doc_year": 1936,
+ "people": [
+  {
+   "name": "E. H. Johnston",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Indology"
+  },
+  {
+   "name": "A. A. Macdonell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "A. C. Woolner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "H. N. Randle",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "E. H. Johnston",
+   "type": "student_of",
+   "object": "A. A. Macdonell",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "any virtues my work may possess are ultimately due to the ideals and exact methods of scholarship which that great teacher never wearied of im- pressing on his pupils",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. C. Woolner",
+   "type": "position_at",
+   "object": "University of the Panjab",
+   "role": "Vice-Chancellor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the University of the Panjab, and its Vice-Chancellor, Professor A. C. Woolner, C.I.E.",
+   "quote_ok": true
+  },
+  {
+   "subject": "H. N. Randle",
+   "type": "position_at",
+   "object": "India Office",
+   "role": "Librarian",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the Librarians of the India Office, particularly Dr. H. N. Randle",
+   "quote_ok": true
+  }
+ ],
+ "docid": "2015.283043.The-Buddhacarita_text",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/2015.283043.The-Buddhacarita_text.txt",
+ "meta": {
+  "title": "The Buddhacarita or Acts of the Buddha",
+  "author": "Johnston, E. H.",
+  "year": 1972,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

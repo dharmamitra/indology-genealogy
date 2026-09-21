@@ -1,0 +1,102 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1981,
+ "people": [
+  {
+   "name": "N. S. Shukla",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "霍韜晦",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Charles Willemen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "松田和信",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "田端哲哉",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "N. S. Shukla",
+   "type": "position_at",
+   "object": "テヘラン大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "現在テヘラン大学教授のシュクラ氏は、このラーフラコレクション中より佛教混淆梵語の法句経 Buddhist Hybrid Sanskrit Dharma- pada (BHS-Dhp.) に注目し",
+   "quote_ok": false
+  },
+  {
+   "subject": "霍韜晦",
+   "type": "studied_at",
+   "object": "香港新亜書院研究所",
+   "role": null,
+   "place": "Hong Kong",
+   "year_start": null,
+   "year_end": 1966,
+   "explicit": true,
+   "evidence": "著者の霍韜晦氏は、香港新亜書院研究所を卒業(一九六六)の後、大谷大学大学院に留学し(一九六九~七二)",
+   "quote_ok": true
+  },
+  {
+   "subject": "霍韜晦",
+   "type": "studied_at",
+   "object": "大谷大学大学院",
+   "role": null,
+   "place": "Kyoto",
+   "year_start": 1969,
+   "year_end": 1972,
+   "explicit": true,
+   "evidence": "大谷大学大学院に留学し(一九六九~七二)、現在は香港中文大学哲学系講師である。",
+   "quote_ok": true
+  },
+  {
+   "subject": "霍韜晦",
+   "type": "position_at",
+   "object": "香港中文大学哲学系",
+   "role": "講師",
+   "place": "Hong Kong",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "現在は香港中文大学哲学系講師である。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Tabata_田端哲哉_書評「The Busshist Hybid Sanskrit Dharmapada」",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Tabata_田端哲哉_書評「The Busshist Hybid Sanskrit Dharmapada」.txt",
+ "meta": {
+  "title": "書評「The Busshist Hybid Sanskrit Dharmapada」",
+  "author": "田端哲哉",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

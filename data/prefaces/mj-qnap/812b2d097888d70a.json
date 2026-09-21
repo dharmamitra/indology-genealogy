@@ -1,0 +1,115 @@
+{
+ "author": "Sten Konow",
+ "doc_kind": "text_edition",
+ "doc_year": 1929,
+ "people": [
+  {
+   "name": "Sten Konow",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Norwegian",
+   "field": "Indology"
+  },
+  {
+   "name": "E. J. Rapson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "H. Lüders",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "A. M. Boyer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Émile Senart",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sten Konow",
+   "type": "position_at",
+   "object": "Oslo University",
+   "role": "Professor",
+   "place": "Oslo",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "EDITED BY STEN KONOW, PH.D. PROFESSOR IN THE OSLO UNIVERSITY",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Sten Konow",
+   "type": "succeeded",
+   "object": "E. J. Rapson",
+   "role": null,
+   "place": null,
+   "year_start": 1922,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1922 Professor Rapson intimated that his other engagements precluded him from undertaking the work, and... decided to offer the vacant post to me",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. M. Boyer",
+   "type": "collaborated_with",
+   "object": "E. J. Rapson",
+   "role": "co-editors",
+   "place": null,
+   "year_start": 1920,
+   "year_end": 1927,
+   "explicit": true,
+   "evidence": "Kharoṣṭhī Inscriptions discovered by Sir Aurel Stein in Chinese Turkestan. Transcribed and edited by A. M. Boyer, E. J. Rapson, and E. Senart. Parts I and II. Oxford, 1920-27.",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. M. Boyer",
+   "type": "collaborated_with",
+   "object": "Émile Senart",
+   "role": "co-editors",
+   "place": null,
+   "year_start": 1920,
+   "year_end": 1927,
+   "explicit": true,
+   "evidence": "Kharoṣṭhī Inscriptions discovered by Sir Aurel Stein in Chinese Turkestan. Transcribed and edited by A. M. Boyer, E. J. Rapson, and E. Senart. Parts I and II. Oxford, 1920-27.",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. J. Rapson",
+   "type": "collaborated_with",
+   "object": "Émile Senart",
+   "role": "co-editors",
+   "place": null,
+   "year_start": 1920,
+   "year_end": 1927,
+   "explicit": true,
+   "evidence": "Kharoṣṭhī Inscriptions discovered by Sir Aurel Stein in Chinese Turkestan. Transcribed and edited by A. M. Boyer, E. J. Rapson, and E. Senart. Parts I and II. Oxford, 1920-27.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "CII 2.1 corpus Inscriptionum Indicarum vol 2 pt 1 2015.32007 Kharoshthi Inscriptions with the Exception of Those of Asoka",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/CII 2.1 corpus Inscriptionum Indicarum vol 2 pt 1 2015.32007 Kharoshthi Inscriptions with the Exception of Those of Asoka.txt",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

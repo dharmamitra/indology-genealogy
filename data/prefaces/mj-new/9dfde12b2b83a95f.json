@@ -1,0 +1,95 @@
+{
+ "author": "舟橋尚哉",
+ "doc_kind": "monograph",
+ "doc_year": 1985,
+ "people": [
+  {
+   "name": "舟橋尚哉",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "氏家覚勝",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "高岡秀暢",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "武内紹晃",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "舟橋尚哉",
+   "type": "collaborated_with",
+   "object": "高岡秀暢",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "幸い高岡秀暢氏の協力により、ネパールの National Archives から『大乗荘厳経論』に関する大部分の写本を手に入れることができた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "氏家覚勝",
+   "type": "position_at",
+   "object": "高野山大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "高野山大学教授氏家覚勝氏が持ち帰られた、ネパールの National Archives の目録四巻",
+   "quote_ok": true
+  },
+  {
+   "subject": "舟橋尚哉",
+   "type": "other",
+   "object": "氏家覚勝",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "学友氏家覚勝教授に、この目録に載っている Mahāyānasūtrālaṃkāra の写本を取り寄せたいが、どうすればよいかを相談したところ",
+   "quote_ok": true
+  },
+  {
+   "subject": "武内紹晃",
+   "type": "position_at",
+   "object": "竜谷大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "武内紹晃教授『大谷探検隊将来の『大乗荘厳経論』について』（『竜谷大学論集』第三五二号）",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Funahashi_1985",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Funahashi_1985.txt",
+ "meta": {
+  "title": "ネパール写本対照による大乗荘厳経論の研究",
+  "author": "舟橋, 尚哉",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

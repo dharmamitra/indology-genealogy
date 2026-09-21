@@ -1,0 +1,84 @@
+{
+ "author": "下田正弘",
+ "doc_kind": "festschrift",
+ "doc_year": 1996,
+ "people": [
+  {
+   "name": "下田正弘",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "さだかた あきら",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "種村隆元",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "今西順吉",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "下田正弘",
+   "type": "position_at",
+   "object": "東京大学",
+   "role": "助教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "(しもだまさひろ・東京大学助教授)",
+   "quote_ok": true
+  },
+  {
+   "subject": "さだかた あきら",
+   "type": "position_at",
+   "object": "東海大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "(さだかた あきら・東海大学教授)",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "下田正弘",
+   "type": "influenced_by",
+   "object": "種村隆元",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "このKSについては種村隆元が現在研究を進めており[...]氏より適切な示唆を受けたことを感謝するとともに、研究成果の早い公表を期待したい。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Shimoda_下田正弘_1996@仏塔信仰と如来蔵思想―Buddhacarita, Anuttarasrayasutra, Ratnagotravibhaga, Kriyasamgraha―",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Shimoda_下田正弘_1996@仏塔信仰と如来蔵思想―Buddhacarita, Anuttarasrayasutra, Ratnagotravibhaga, Kriyasamgraha―.txt",
+ "meta": {
+  "title": "仏塔信仰と如来蔵思想―Buddhacarita, Anuttarāśrayasūtra, Ratnagotravibhāga, Kriyāsamgraha―",
+  "author": "下田 正弘",
+  "year": 1996,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

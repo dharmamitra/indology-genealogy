@@ -1,0 +1,64 @@
+{
+ "author": "Mark Allon",
+ "doc_kind": "monograph",
+ "doc_year": 1997,
+ "people": [
+  {
+   "name": "Mark Allon",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "K.R. Norman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "M. Hara",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Mark Allon",
+   "type": "student_of",
+   "object": "K.R. Norman",
+   "role": "doctoral supervisor",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "First, I would like to thank Professor K.R. Norman, my supervisor, who provided excellent supervision during my stay in Cambridge and from whom I have learnt much.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mark Allon",
+   "type": "studied_at",
+   "object": "St John's College, Cambridge",
+   "role": "doctorate",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "I am also greatly indebted to the Association of Commonwealth Universities and St John's College, Cambridge, for their generous financial support of my doctorate studies.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Allon_1997-Style-Function",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Allon_1997-Style-Function.txt",
+ "meta": {
+  "title": "Style and Function: A study of the dominant stylistic features of the prose portions of Pāli canonical sutta texts and their mnemonic function",
+  "author": "Allon, Mark",
+  "year": 1997,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

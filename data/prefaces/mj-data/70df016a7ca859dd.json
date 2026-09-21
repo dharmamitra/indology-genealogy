@@ -1,0 +1,64 @@
+{
+ "author": "干潟龍祥",
+ "doc_kind": "article",
+ "doc_year": 1954,
+ "people": [
+  {
+   "name": "干潟龍祥",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "高楠順次郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "宇井伯壽",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indian philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "干潟龍祥",
+   "type": "student_of",
+   "object": "高楠順次郎",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "顧みれば今から三十餘年前、小生が大學卒業後間もない頃、恩師高楠先生から、世親年代について再檢討するよう命ぜられた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "干潟龍祥",
+   "type": "influenced_by",
+   "object": "宇井伯壽",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "少くとも彌勒に歸せられる諸論の著者と、無着との間に師弟としての年齢の間隔をおかなければならないといふ考に達したことは、全く宇井敎授の右の説によるものである。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Hikata_干潟龍祥_1954",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Hikata_干潟龍祥_1954.txt",
+ "meta": {
+  "title": "世親年代再考",
+  "author": "干潟, 龍祥",
+  "year": 1954,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

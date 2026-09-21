@@ -1,0 +1,78 @@
+{
+ "author": "Sarah Harding",
+ "doc_kind": "text_edition",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sarah Harding",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Khyabje Kalu Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Drubpön Lama Tenpa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Chagdud Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sarah Harding",
+   "type": "student_of",
+   "object": "Khyabje Kalu Rinpoche",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I feel profound, inexpressible appreciation of Khyabje Kalu Rinpoche for initiating me into the lineage and practice of Machik Lapdrön and suggesting that I translate this book in the first place.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sarah Harding",
+   "type": "student_of",
+   "object": "Drubpön Lama Tenpa",
+   "role": "traditional teacher",
+   "place": "France",
+   "year_start": 1976,
+   "year_end": 1980,
+   "explicit": true,
+   "evidence": "The women of my retreat studied it together, in between meditation sessions, under the guidance of our benevolent retreat master, Lama Tenpa.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sarah Harding",
+   "type": "collaborated_with",
+   "object": "Chagdud Rinpoche",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "By the late eighties I had done only the first few chapters (with the gracious help of Chagdud Rinpoche)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Harding_Machik’s complete explanation",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Harding_Machik’s complete explanation.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,133 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "福原亮嚴",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "井ノ口泰淳",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "上山大峻",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "前田至成",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "加藤宏道",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "菊地英司",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "舟橋一哉",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "福原亮嚴",
+   "type": "position_at",
+   "object": "龍谷大學",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "監修 龍谷大學教授 福原亮嚴 文學博士",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "前田至成",
+   "type": "collaborated_with",
+   "object": "加藤宏道",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "共著 前田至成 加藤宏道 菊地英司",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "前田至成",
+   "type": "collaborated_with",
+   "object": "菊地英司",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "共著 前田至成 加藤宏道 菊地英司",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "加藤宏道",
+   "type": "collaborated_with",
+   "object": "菊地英司",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "共著 前田至成 加藤宏道 菊地英司",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "井ノ口泰淳",
+   "type": "collaborated_with",
+   "object": "上山大峻",
+   "role": "proofreading / editing (校閱)",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "校閱 井ノ口泰淳 上山大峻",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "阿毘達磨倶舎論本頌の研究業品随眠品",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/阿毘達磨倶舎論本頌の研究業品随眠品.txt#0",
+ "meta": {
+  "title": "梵本藏譯漢譯合璧 阿毘達磨俱舍論本頌の研究————業品・隨眠品————",
+  "author": "前 田至 成, 加 藤宏 道, 菊 地 英 司, 永田文昌堂刊",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

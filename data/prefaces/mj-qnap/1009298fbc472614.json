@@ -1,0 +1,98 @@
+{
+ "author": "W. Hoey",
+ "doc_kind": "monograph",
+ "doc_year": 1882,
+ "people": [
+  {
+   "name": "W. Hoey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hermann Oldenberg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Buddhism"
+  },
+  {
+   "name": "T. W. Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Émile Senart",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Reinhold Rost",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hermann Oldenberg",
+   "type": "position_at",
+   "object": "University of Berlin",
+   "role": "Professor",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "BY DR. HERMANN OLDENBERG, PROFESSOR AT THE UNIVERSITY OF BERLIN",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Hermann Oldenberg",
+   "type": "collaborated_with",
+   "object": "T. W. Rhys Davids",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the coadjutor of Mr. Rhys Davids in the translation of the Pâli scriptures for Professor Max Müller's \"Sacred Books of the East\"",
+   "quote_ok": true
+  },
+  {
+   "subject": "Reinhold Rost",
+   "type": "position_at",
+   "object": "India Office",
+   "role": "Librarian",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Rost, the Librarian of the India Office",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Oldenberg_Buddha",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Oldenberg_Buddha.txt",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": null
+ },
+ "model": "gemini-flash-latest"
+}

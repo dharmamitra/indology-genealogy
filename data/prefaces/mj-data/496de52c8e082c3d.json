@@ -1,0 +1,114 @@
+{
+ "author": "中本由美",
+ "doc_kind": "article",
+ "doc_year": 2014,
+ "people": [
+  {
+   "name": "中本由美",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "水木要太郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "local history"
+  },
+  {
+   "name": "橋本凝胤",
+   "birth_year": 1897,
+   "death_year": 1978,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "平岡定海",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "山崎慶輝",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "中本由美",
+   "type": "position_at",
+   "object": "龍谷大学文学研究科",
+   "role": "研究生",
+   "place": "Kyoto",
+   "year_start": null,
+   "year_end": 2014,
+   "explicit": true,
+   "evidence": "中本由美 (龍谷大学文学研究科研究生,2012年度 BARC 公募研究員)",
+   "quote_ok": true
+  },
+  {
+   "subject": "中本由美",
+   "type": "position_at",
+   "object": "龍谷大学アジア仏教文化研究センター",
+   "role": "公募研究員",
+   "place": "Kyoto",
+   "year_start": 2012,
+   "year_end": 2013,
+   "explicit": true,
+   "evidence": "中本由美 (龍谷大学文学研究科研究生,2012年度 BARC 公募研究員)",
+   "quote_ok": true
+  },
+  {
+   "subject": "水木要太郎",
+   "type": "position_at",
+   "object": "奈良県師範学校",
+   "role": "教員",
+   "place": "Nara",
+   "year_start": 1890,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "水木は愛媛県出身。明治23年(1890) に奈良県師範学校教員として奈良に移住した後、奈良県の地域史研究の先駆者となる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "橋本凝胤",
+   "type": "studied_at",
+   "object": "東京帝国大学",
+   "role": null,
+   "place": "Tokyo",
+   "year_start": null,
+   "year_end": 1925,
+   "explicit": true,
+   "evidence": "1925年東京帝国大学印度哲学科卒。",
+   "quote_ok": true
+  },
+  {
+   "subject": "平岡定海",
+   "type": "collaborated_with",
+   "object": "山崎慶輝",
+   "role": "co-editor",
+   "place": null,
+   "year_start": 1985,
+   "year_end": 1985,
+   "explicit": true,
+   "evidence": "平岡定海・山崎慶輝編『日本仏教宗史論集 第二巻 南都六宗』吉川弘文館 1985年1頁",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Nakamoto_中本由美_2014@日本近代における南都仏教研究のあゆみ」",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Nakamoto_中本由美_2014@日本近代における南都仏教研究のあゆみ」.txt",
+ "meta": {
+  "title": "日本近代における南都仏教研究のあゆみ",
+  "author": "中本由美",
+  "year": 2014,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

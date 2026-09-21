@@ -1,0 +1,83 @@
+{
+ "author": "Chen Jinhua",
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Chen Jinhua",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Aramaki Noritoshi 荒牧典俊",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Takakusu Junjirō 高楠順次郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Watanabe Kaigyoku 渡邊海旭",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Chen Jinhua",
+   "type": "student_of",
+   "object": "Aramaki Noritoshi 荒牧典俊",
+   "role": "postdoctoral mentor",
+   "place": "Institute for Research in Humanities at Kyoto University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "result of my postdoctoral research, which has been supported by the Japan Society for the Promotion of Science (JSPS), and conducted at the Institute for Research in Humanities at Kyoto University under the supervision of Professor Aramaki Noritoshi 荒牧典俊.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chen Jinhua",
+   "type": "studied_at",
+   "object": "Institute for Research in Humanities at Kyoto University",
+   "role": "postdoctoral research",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "result of my postdoctoral research, which has been supported by the Japan Society for the Promotion of Science (JSPS), and conducted at the Institute for Research in Humanities at Kyoto University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Takakusu Junjirō 高楠順次郎",
+   "type": "collaborated_with",
+   "object": "Watanabe Kaigyoku 渡邊海旭",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "printed in Takakusu Junjirō 高楠順次郎 and Watanabe Kaigyoku 渡邊海旭 et al., eds., Taishō shinshū daizōkyō 大正新修大藏經",
+   "quote_ok": true
+  }
+ ],
+ "docid": "11-1-53",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/11-1-53.txt",
+ "meta": {
+  "title": "Stories from the Life of Chi-tsang and Their Use in T'ien-t'ai Sectarian Historiography",
+  "author": "Chen, Jinhua",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

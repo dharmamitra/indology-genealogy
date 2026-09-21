@@ -1,0 +1,71 @@
+{
+ "author": "白館戒雲",
+ "doc_kind": "article",
+ "doc_year": 1994,
+ "people": [
+  {
+   "name": "白館戒雲",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "ツルティム・ケサン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetology"
+  },
+  {
+   "name": "北村太道",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Esoteric Buddhist studies"
+  },
+  {
+   "name": "種智院大学",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "白館戒雲",
+   "type": "collaborated_with",
+   "object": "北村太道",
+   "role": "co-translator",
+   "place": null,
+   "year_start": null,
+   "year_end": 1994,
+   "explicit": true,
+   "evidence": "種智院大学の北村太道先生(本学大学院終了)との共訳『ガワン・パルデン著大秘密四タントラ概論——チベット密教入門――』永田文昌堂が成りました。",
+   "quote_ok": true
+  },
+  {
+   "subject": "北村太道",
+   "type": "position_at",
+   "object": "種智院大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "種智院大学の北村太道先生(本学大学院終了)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Kelsang_ツルティム・ケサン_1994@密教学の発展を志向して",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Kelsang_ツルティム・ケサン_1994@密教学の発展を志向して.txt",
+ "meta": {
+  "title": "密教学の発展を志向して",
+  "author": "白館戒雲\n(ツルティム・ケサン)",
+  "year": 1994,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

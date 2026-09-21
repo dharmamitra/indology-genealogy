@@ -1,0 +1,188 @@
+{
+ "author": "Charles R. Lanman",
+ "doc_kind": "text_edition",
+ "doc_year": 1939,
+ "people": [
+  {
+   "name": "K. F. Geldner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Charles R. Lanman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Roth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Bloomfield",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Henry Clarke Warren",
+   "birth_year": 1854,
+   "death_year": 1899,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Johannes Nobel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "W. E. Clark",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Bloomfield",
+   "type": "student_of",
+   "object": "Charles R. Lanman",
+   "role": null,
+   "place": "Baltimore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A Vedic Concordance, von Bloomfield, meinem Schüler und Nachfolger zu Baltimore.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bloomfield",
+   "type": "succeeded",
+   "object": "Charles R. Lanman",
+   "role": null,
+   "place": "Baltimore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A Vedic Concordance, von Bloomfield, meinem Schüler und Nachfolger zu Baltimore.",
+   "quote_ok": true
+  },
+  {
+   "subject": "K. F. Geldner",
+   "type": "student_of",
+   "object": "Roth",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Geldner war der Schüler von Roth.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Clarke Warren",
+   "type": "studied_at",
+   "object": "Harvard",
+   "role": "B.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1879,
+   "explicit": true,
+   "evidence": "Baccalaureus Artium (B. A.) von Harvard in 1879.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Clarke Warren",
+   "type": "student_of",
+   "object": "Charles R. Lanman",
+   "role": null,
+   "place": "The Johns Hopkins University zu Baltimore",
+   "year_start": 1879,
+   "year_end": 1879,
+   "explicit": true,
+   "evidence": "Er war mein Schüler auf The Johns Hopkins University zu Baltimore in 1879",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Clarke Warren",
+   "type": "studied_at",
+   "object": "The Johns Hopkins University zu Baltimore",
+   "role": null,
+   "place": "Baltimore",
+   "year_start": 1879,
+   "year_end": 1879,
+   "explicit": true,
+   "evidence": "Er war mein Schüler auf The Johns Hopkins University zu Baltimore in 1879",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles R. Lanman",
+   "type": "position_at",
+   "object": "Harvard",
+   "role": null,
+   "place": null,
+   "year_start": 1880,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "(als ich in 1880 an Harvard berufen wurde)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Nobel",
+   "type": "succeeded",
+   "object": "K. F. Geldner",
+   "role": "Professor",
+   "place": "Marburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Geldner's Nachfolger zu Marburg, Professor Dr. Johannes Nobel",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Nobel",
+   "type": "position_at",
+   "object": "Marburg",
+   "role": "Professor Dr.",
+   "place": "Marburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Geldner's Nachfolger zu Marburg, Professor Dr. Johannes Nobel",
+   "quote_ok": true
+  },
+  {
+   "subject": "W. E. Clark",
+   "type": "position_at",
+   "object": "Harvard University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Harvard University, June 25, 1939. W. E. Clark.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Geldner-Der Rig-Veda Vol_1 _text",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Geldner-Der Rig-Veda Vol_1 _text.txt",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

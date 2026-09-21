@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1887,
+ "people": [
+  {
+   "name": "Henri Cordier",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Sinology"
+  },
+  {
+   "name": "Terrien de Lacouperie",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indo-Chinese Philology"
+  },
+  {
+   "name": "James Gibbs",
+   "birth_year": 1825,
+   "death_year": 1886,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Arthur Grote",
+   "birth_year": 1814,
+   "death_year": null,
+   "nationality": "British",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Henri Cordier",
+   "type": "position_at",
+   "object": "École des Langues Orientales Vivantes",
+   "role": "Professor",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "By M. HENRI CORDIER, Professor at the École des Langues Orientales Vivantes and École des Sciences Politiques, Paris.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henri Cordier",
+   "type": "position_at",
+   "object": "École des Sciences Politiques",
+   "role": "Professor",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "By M. HENRI CORDIER, Professor at the École des Langues Orientales Vivantes and École des Sciences Politiques, Paris.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Terrien de Lacouperie",
+   "type": "position_at",
+   "object": "University College, London",
+   "role": "Professor of Indo-Chinese Philology",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "By TERRIEN DE LACOUPERIE, Ph. & Litt.D., Professor of Indo-Chinese Philology, University College, London.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Gibbs",
+   "type": "position_at",
+   "object": "University of Bombay",
+   "role": "Vice-Chancellor",
+   "place": "Bombay",
+   "year_start": 1870,
+   "year_end": 1879,
+   "explicit": true,
+   "evidence": "In 1870 Mr. Gibbs was first appointed Vice-Chancellor of the University of Bombay, and continued by four re-appointments to hold that office until his departure from India in 1879.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Grote",
+   "type": "studied_at",
+   "object": "Haileybury College",
+   "role": null,
+   "place": null,
+   "year_start": 1832,
+   "year_end": 1833,
+   "explicit": true,
+   "evidence": "he entered Haileybury College early in 1832, and passed out in December, 1833, as ‘highly distinguished,’ having obtained prizes in Classics, Bengali, Persian, Hindustani and Arabic.",
+   "quote_ok": false
+  }
+ ],
+ "docid": "JRASGBINS19",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/JRASGBINS19.txt#0",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

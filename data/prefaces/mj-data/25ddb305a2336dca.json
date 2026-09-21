@@ -1,0 +1,83 @@
+{
+ "author": "宇野惇",
+ "doc_kind": "article",
+ "doc_year": 1992,
+ "people": [
+  {
+   "name": "宇野惇",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indian philosophy"
+  },
+  {
+   "name": "Raghunath Giri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indian philosophy"
+  },
+  {
+   "name": "Bhama Charana Bhattacarya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indian philosophy"
+  },
+  {
+   "name": "Kashi Vidya Pith 大学",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "宇野惇",
+   "type": "student_of",
+   "object": "Raghunath Giri",
+   "role": "teacher",
+   "place": "India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "三十数年前のインド留学中のことであるが、ジャイナ教研究の傍ら新正理学の基本的な作品二、三篇を、私は若いパンディットから読んでもらったことがある。[...] 私を指導して呉れたかっての若いパンディットは[...] (3) Dr. Raghunath Giri.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Raghunath Giri",
+   "type": "student_of",
+   "object": "Bhama Charana Bhattacarya",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "当時この分野では最も著名なパンディットの一人 Bhama Charana Bhattacarya の愛弟子であった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "Raghunath Giri",
+   "type": "position_at",
+   "object": "Kashi Vidya Pith 大学",
+   "role": "哲学科主任教授",
+   "place": "ヴァーラナシー",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "(3) Dr. Raghunath Giri. 現在はヴァーラナシーのKashi Vidya Pith 大学哲学科主任教授。",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Uno_宇野惇_1992",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Uno_宇野惇_1992.txt",
+ "meta": {
+  "title": "新正理学の基本的構想",
+  "author": "宇野 惇",
+  "year": 1992,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

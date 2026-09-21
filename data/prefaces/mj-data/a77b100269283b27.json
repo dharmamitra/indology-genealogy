@@ -1,0 +1,81 @@
+{
+ "author": "Peter Haskel",
+ "doc_kind": "other",
+ "doc_year": 1984,
+ "people": [
+  {
+   "name": "Peter Haskel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Yoshito Hakeda",
+   "birth_year": null,
+   "death_year": 1983,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Peter Haskel",
+   "type": "student_of",
+   "object": "Yoshito Hakeda",
+   "role": "teacher",
+   "place": "Columbia University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "My teacher, Professor Yoshito Hakeda of the East Asian Languages Department of Columbia University, had originally intended to submit a paper on Bankei and Kūkai for this commemorative volume.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Haskel",
+   "type": "studied_at",
+   "object": "Columbia University",
+   "role": "graduate student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he asked me, as a long-time graduate student who had worked under his direction, to compose the essay in his place.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Yoshito Hakeda",
+   "type": "position_at",
+   "object": "Columbia University",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1983,
+   "explicit": true,
+   "evidence": "Professor Yoshito Hakeda of the East Asian Languages Department of Columbia University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Haskel",
+   "type": "collaborated_with",
+   "object": "Yoshito Hakeda",
+   "role": "co-translators",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "An English translation of selected Bankei materials by myself and Professor Hakeda ıs scheduled this spring from Grove Press in New York City under the title Bankei Zen.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wayman, Alex_1984@The Mahavairocanasutra and the Kriya-Samgraha",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Wayman, Alex_1984@The Mahavairocanasutra and the Kriya-Samgraha.txt",
+ "meta": {
+  "title": "The Mahāvairocanasūtra and the Kriyā-Samgraha",
+  "author": "Wayman, Alex",
+  "year": 1984,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

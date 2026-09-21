@@ -1,0 +1,59 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "H. Kern",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Bunyiu Nanjio",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "H. Kern",
+   "type": "position_at",
+   "object": "University of Leiden",
+   "role": "Professor of Sanskrit",
+   "place": "Leiden",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "EDITED BY H. KERN PROFESSOR OF SANSKRIT IN THE UNIVERSITY OF LEIDEN",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "H. Kern",
+   "type": "collaborated_with",
+   "object": "Bunyiu Nanjio",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "THE SADDHARMA-PUṆḌARĪKA-SŪTRA OR THE LOTUS OF THE TRUE LAW EDITED BY H. KERN PROFESSOR OF SANSKRIT IN THE UNIVERSITY OF LEIDEN AND BUNYIU NANJIO",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "ordinancesofmanu00manu_bw",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/ordinancesofmanu00manu_bw.txt",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

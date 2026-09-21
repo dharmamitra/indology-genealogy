@@ -1,0 +1,45 @@
+{
+ "author": "H. Kern",
+ "doc_kind": "text_edition",
+ "doc_year": 1874,
+ "people": [
+  {
+   "name": "H. Kern",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Dr. Rost",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "H. Kern",
+   "type": "other",
+   "object": "Dr. Rost",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the friendly assistance of my friend Dr. ROST in procuring me materials from the London libraries.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "aryabhatiya_kern",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/aryabhatiya_kern.txt",
+ "meta": {
+  "title": "The Vimalakīrti Nirdeśa Sūtra",
+  "author": "Luk, Charles",
+  "year": 1972,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

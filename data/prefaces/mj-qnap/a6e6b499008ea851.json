@@ -1,0 +1,95 @@
+{
+ "author": "Gopal Narayan Bahura",
+ "doc_kind": "monograph",
+ "doc_year": 1976,
+ "people": [
+  {
+   "name": "Gopal Narayan Bahura",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "C. Kunhan Rājā",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "Madhav Krishna Sharma",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Asok Kumar Das",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Art History"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Madhav Krishna Sharma",
+   "type": "student_of",
+   "object": "C. Kunhan Rājā",
+   "role": "pupil",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Then the Mahārājā invited Shri Madhav Krishna Sharma, a pupil of C. Kunhan Rājā and Inspector of Sanskrit Pathshalas, Rajasthan, in 1952",
+   "quote_ok": true
+  },
+  {
+   "subject": "C. Kunhan Rājā",
+   "type": "position_at",
+   "object": "Madras University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1946,
+   "explicit": true,
+   "evidence": "In 1946 Dr. C. Kunhan Rājā of the Madras University was invited and given the task of cataloguing.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Madhav Krishna Sharma",
+   "type": "position_at",
+   "object": "Sanskrit Pathshalas, Rajasthan",
+   "role": "Inspector",
+   "place": "Rajasthan",
+   "year_start": 1952,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Shri Madhav Krishna Sharma, a pupil of C. Kunhan Rājā and Inspector of Sanskrit Pathshalas, Rajasthan, in 1952",
+   "quote_ok": true
+  },
+  {
+   "subject": "Asok Kumar Das",
+   "type": "position_at",
+   "object": "Museum",
+   "role": "Director",
+   "place": "Jaipur",
+   "year_start": null,
+   "year_end": 1976,
+   "explicit": true,
+   "evidence": "I am deeply indebted to Dr. Asok Kumar Das, the Director of our Museum for reading through the draft of the introductory essay",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Amber-Jaipur_02 crop",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Amber-Jaipur_02 crop.txt",
+ "meta": {
+  "title": "Literary Heritage of the Rulers of Amber and Jaipur",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

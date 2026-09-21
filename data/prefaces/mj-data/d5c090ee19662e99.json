@@ -1,0 +1,52 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 2000,
+ "people": [
+  {
+   "name": "Stanisław Schayer",
+   "birth_year": 1899,
+   "death_year": 1941,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Piotr Balcerowicz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Marek Mejor",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Piotr Balcerowicz",
+   "type": "collaborated_with",
+   "object": "Marek Mejor",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": 2000,
+   "explicit": true,
+   "evidence": "Edited by Piotr Balcerowicz & Marek Mejor",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Brockington(2000) Structure of Mokṣadharmaparvan of MBh",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Brockington(2000) Structure of Mokṣadharmaparvan of MBh.txt",
+ "meta": {
+  "title": "The structure of the Moksa-dharma-parvan of the Mahā-bhārata",
+  "author": "Brockington, John",
+  "year": 2000,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

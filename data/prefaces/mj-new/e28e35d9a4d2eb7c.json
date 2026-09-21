@@ -1,0 +1,102 @@
+{
+ "author": "長尾雅人",
+ "doc_kind": "article",
+ "doc_year": 1963,
+ "people": [
+  {
+   "name": "長尾雅人",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "服部正明",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "G・ロート",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "V. Bhattacharya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "G. Tucci",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Italian",
+   "field": "Tibetology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "長尾雅人",
+   "type": "collaborated_with",
+   "object": "服部正明",
+   "role": null,
+   "place": "カトマンドゥ",
+   "year_start": 1956,
+   "year_end": 1956,
+   "explicit": true,
+   "evidence": "同行者は当時カルカッタ大学に留学中の服部正明君で, 後に掲げる二つの目録も, 同君の協力の下に成ったものである。",
+   "quote_ok": true
+  },
+  {
+   "subject": "服部正明",
+   "type": "studied_at",
+   "object": "カルカッタ大学",
+   "role": null,
+   "place": "Calcutta",
+   "year_start": 1956,
+   "year_end": 1956,
+   "explicit": true,
+   "evidence": "同行者は当時カルカッタ大学に留学中の服部正明君で",
+   "quote_ok": true
+  },
+  {
+   "subject": "G・ロート",
+   "type": "studied_at",
+   "object": "ミュンヘン",
+   "role": null,
+   "place": "Kathmandu",
+   "year_start": 1956,
+   "year_end": 1956,
+   "explicit": true,
+   "evidence": "閲覧者としては, 当時ミュンヘンから留学中のG・ロート博士が毎日通って来る以外には誰も見かけぬ。",
+   "quote_ok": false
+  },
+  {
+   "subject": "V. Bhattacharya",
+   "type": "collaborated_with",
+   "object": "G. Tucci",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1932,
+   "explicit": true,
+   "evidence": "V. Bhattacharya & G. Tucci, Madhyāntavibhāgasūtrabhāṣyaṭīkā, Part 1, Calcutta O. S., No. 24. (1932)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Nagao_1963",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Nagao_1963.txt",
+ "meta": {
+  "title": "カトマンドゥの仏教写本典籍",
+  "author": "長尾, 雅人",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

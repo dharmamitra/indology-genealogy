@@ -1,0 +1,64 @@
+{
+ "author": "湯山明",
+ "doc_kind": "article",
+ "doc_year": 1990,
+ "people": [
+  {
+   "name": "湯山明",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "仏教学"
+  },
+  {
+   "name": "水野弘元",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "パーリ仏教"
+  },
+  {
+   "name": "奈良康明",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "湯山明",
+   "type": "position_at",
+   "object": "国際仏教学研究所",
+   "role": "所長",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "(国際仏教学研究所所長)",
+   "quote_ok": true
+  },
+  {
+   "subject": "奈良康明",
+   "type": "student_of",
+   "object": "水野弘元",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "先生の格別のご学恩に心から感謝申し上げたい。 本書がわが国のパーリ語、パーリ仏教、そしてパーリ文化研究に資するところがあれば幸いである。 平成二年五月十日 奈良康明",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Yuyama_湯山明_1990",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Yuyama_湯山明_1990.txt",
+ "meta": {
+  "title": "仏教文献学の方法試論",
+  "author": "湯山, 明",
+  "year": 1990,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

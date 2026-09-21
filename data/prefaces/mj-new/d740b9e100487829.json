@@ -1,0 +1,114 @@
+{
+ "author": "岩本裕",
+ "doc_kind": "text_edition",
+ "doc_year": 1937,
+ "people": [
+  {
+   "name": "岩本裕",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indology"
+  },
+  {
+   "name": "常磐井堯猷",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indology"
+  },
+  {
+   "name": "榊亮三郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "田中秀央",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "羽田亨",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "岩本裕",
+   "type": "student_of",
+   "object": "常磐井堯猷",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "恩師常磐井堯猷先生の須摩提女經梵本の出版を始め [...] 常磐井先生の御懇篤なる御指導の下に",
+   "quote_ok": true
+  },
+  {
+   "subject": "岩本裕",
+   "type": "student_of",
+   "object": "田中秀央",
+   "role": "doctoral supervisor",
+   "place": "京都帝國大學",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "過去五ヶ年間の大學院學生生活に於て公私ともに多大の御迷惑を煩はし奉つた指導教授の田中秀央・羽田亨兩先生",
+   "quote_ok": true
+  },
+  {
+   "subject": "岩本裕",
+   "type": "student_of",
+   "object": "羽田亨",
+   "role": "doctoral supervisor",
+   "place": "京都帝國大學",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "過去五ヶ年間の大學院學生生活に於て公私ともに多大の御迷惑を煩はし奉つた指導教授の田中秀央・羽田亨兩先生",
+   "quote_ok": true
+  },
+  {
+   "subject": "岩本裕",
+   "type": "studied_at",
+   "object": "京都帝國大學",
+   "role": null,
+   "place": "Kyoto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "私が今日までお世話になつてきた京都帝國大學梵語學文學研究室 [...] 過去五ヶ年間の大學院學生生活",
+   "quote_ok": true
+  },
+  {
+   "subject": "榊亮三郎",
+   "type": "position_at",
+   "object": "京都帝國大學",
+   "role": "professor",
+   "place": "Kyoto",
+   "year_start": null,
+   "year_end": 1931,
+   "explicit": false,
+   "evidence": "明治の末期に此の研究室が榊亮三郎博士によつて開創されて以來略三十年の歳月を閲してきたのであるが [...] 榊博士停年退職の後を享けて今日まで六年",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Iwamoto Yutaka_岩本裕_1937_Mahasahasrapramardani",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Iwamoto Yutaka_岩本裕_1937_Mahasahasrapramardani.txt",
+ "meta": {
+  "title": "MAHASĀHASRAPRAMARDANĪ (PAÑCARAKṢA I)",
+  "author": "Iwamoto, Yutaka",
+  "year": 1937,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

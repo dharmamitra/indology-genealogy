@@ -1,0 +1,57 @@
+{
+ "author": "山崎守一",
+ "doc_kind": "festschrift",
+ "doc_year": 2001,
+ "people": [
+  {
+   "name": "伊藤道哉",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "medicine"
+  },
+  {
+   "name": "阿部慈園",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "伊藤道哉",
+   "type": "position_at",
+   "object": "東北大学大学院医学研究科",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "東北大学大学院医学研究科の伊藤道哉氏",
+   "quote_ok": true
+  },
+  {
+   "subject": "阿部慈園",
+   "type": "position_at",
+   "object": "明治大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "明治大学の阿部慈園氏",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Yamazaki_山崎守一_2001",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Yamazaki_山崎守一_2001.txt",
+ "meta": {
+  "title": "初期ジャイナ教における頭陀",
+  "author": "Yamazaki, Mamoruichi",
+  "year": 2001,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

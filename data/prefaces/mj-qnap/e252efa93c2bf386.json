@@ -1,0 +1,85 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 1977,
+ "people": [
+  {
+   "name": "Ratnachandraji",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Gulabchandraji",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "A. C. Woolner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Indology"
+  },
+  {
+   "name": "Pritamlal N. Kachhi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ratnachandraji",
+   "type": "student_of",
+   "object": "Gulabchandraji",
+   "role": "traditional teacher",
+   "place": "Limbdi",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "DISCIPLE OF SWAMI SHRI GULABCHANDRAJI (Limbdi)",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "A. C. Woolner",
+   "type": "position_at",
+   "object": "Oriental College, Lahore",
+   "role": "Principal",
+   "place": "Lahore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A. C. Woolner Esquire M. A. (Oxon.) PRINCIPAL, ORIENTAL COLLEGE, LAHORE.",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Pritamlal N. Kachhi",
+   "type": "position_at",
+   "object": "M. S. High School",
+   "role": null,
+   "place": "Indore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pritamlal N. Kachhi, B.A. M. S. High School, Indore.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Ratnachandraji_1977.1-4",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Ratnachandraji_1977.1-4.txt",
+ "meta": {
+  "title": "An Illustrated Ardha-Magadhi Dictionary",
+  "author": "Ratnachandraji, Shatavdhani The Jaina Muni Shri",
+  "year": 1977,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

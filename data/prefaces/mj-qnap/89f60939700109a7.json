@@ -1,0 +1,95 @@
+{
+ "author": "丸井浩",
+ "doc_kind": "article",
+ "doc_year": 1996,
+ "people": [
+  {
+   "name": "丸井浩",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indian Philosophy"
+  },
+  {
+   "name": "A. Wezler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Germany",
+   "field": "Indology"
+  },
+  {
+   "name": "K. Preisendanz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "B. Gupta",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "丸井浩",
+   "type": "student_of",
+   "object": "A. Wezler",
+   "role": "teacher",
+   "place": "ハンブルグ大学",
+   "year_start": 1992,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1992年4月以来, 断続的にではあるが, ハンブルグ大学 A. Wezler 教授の指導を受けながら, NM の一部を精読する機会に恵まれてきた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. Wezler",
+   "type": "position_at",
+   "object": "ハンブルグ大学",
+   "role": "教授",
+   "place": "Hamburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ハンブルグ大学 A. Wezler 教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "K. Preisendanz",
+   "type": "position_at",
+   "object": "ハンブルグ大学",
+   "role": null,
+   "place": "Hamburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "また同大学 K. Preisendanz 女史からも, ニヤーヤ研究にとって非常に貴重な助言を賜っている。",
+   "quote_ok": true
+  },
+  {
+   "subject": "B. Gupta",
+   "type": "studied_at",
+   "object": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+   "role": "PhD",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": 1962,
+   "explicit": true,
+   "evidence": "Gupta, B. [1963] Die Wahrnehmungslehre in der Nyāyamañjarī. Walldorf. (BonnのRheinische Friedrich-Wilhelms-Universität に1962年提出, 審査された博士論文)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Marui_丸井浩_1996",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Marui_丸井浩_1996.txt",
+ "meta": {
+  "title": "Jayanta Bhaṭṭaの著作をめぐる諸問題",
+  "author": "丸井, 浩",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,157 @@
+{
+ "author": "Masahide Mori",
+ "doc_kind": "monograph",
+ "doc_year": 2009,
+ "people": [
+  {
+   "name": "Masahide Mori",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Tadeusz Skorupski",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "J. C. Wright",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Paul Williams",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Musashi Tachikawa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Yukei Matsunaga",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Masahide Mori",
+   "type": "student_of",
+   "object": "Tadeusz Skorupski",
+   "role": "doctoral supervisor",
+   "place": "SOAS, London University",
+   "year_start": 1988,
+   "year_end": 1996,
+   "explicit": true,
+   "evidence": "This is the revised and enlarged edition of my PhD dissertation submitted to SOAS, London University in 1996 under the supervision of Dr. Tadeusz Skorupski.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Masahide Mori",
+   "type": "studied_at",
+   "object": "SOAS, London University",
+   "role": "PhD",
+   "place": "London",
+   "year_start": 1988,
+   "year_end": 1997,
+   "explicit": true,
+   "evidence": "the opportunity of studying in SOAS from 1988 as a PhD student enabled me to make substantial progress... I was able to submit my PhD dissertation to SOAS in 1996 and the degree was bestowed in 1997.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Masahide Mori",
+   "type": "studied_at",
+   "object": "Nagoya University",
+   "role": "MA",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I started the research on Tantric Buddhist rituals in my MA course in Nagoya University... I could only study a very limited part of the Vajrāvalī in my MA thesis which was submitted to Nagoya University",
+   "quote_ok": true
+  },
+  {
+   "subject": "J. C. Wright",
+   "type": "position_at",
+   "object": "London University",
+   "role": "Professor",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The referees were Prof. J. C. Wright, London University, and Dr. Paul Williams, Bristol University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Williams",
+   "type": "position_at",
+   "object": "Bristol University",
+   "role": null,
+   "place": "Bristol",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The referees were Prof. J. C. Wright, London University, and Dr. Paul Williams, Bristol University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Musashi Tachikawa",
+   "type": "position_at",
+   "object": "National Museum of Ethnology",
+   "role": "Emeritus Professor",
+   "place": "Osaka",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "It was Dr. Musashi Tachikawa, Emeritus Professor of the National Museum of Ethnology in Osaka, who suggested to me that I work on the Vajrāvalī when I was an MA student of Nagoya University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Masahide Mori",
+   "type": "position_at",
+   "object": "Koyasan University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1994,
+   "explicit": true,
+   "evidence": "In 1994, I was given a six month study leave in London by Koyasan University thanks to the generous arrangement provided by Prof. Yukei Matsunaga, Former Director of the Institute of Tantric Buddhism, to which I belonged.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Yukei Matsunaga",
+   "type": "position_at",
+   "object": "Institute of Tantric Buddhism, Koyasan University",
+   "role": "Director",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. Yukei Matsunaga, Former Director of the Institute of Tantric Buddhism, to which I belonged.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Vajraavalii_Vol1",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Vajraavalii_Vol1.txt",
+ "meta": {
+  "title": "Vajrāvalī of Abhayākaragupta",
+  "author": "Mori, Masahide",
+  "year": 2009,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

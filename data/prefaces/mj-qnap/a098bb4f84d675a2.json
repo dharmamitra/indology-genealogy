@@ -1,0 +1,45 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1862,
+ "people": [
+  {
+   "name": "Henry Yule",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Macpherson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Henry Yule",
+   "type": "collaborated_with",
+   "object": "Macpherson",
+   "role": null,
+   "place": "Java",
+   "year_start": 1860,
+   "year_end": 1860,
+   "explicit": true,
+   "evidence": "My companion in these visits was Dr. Macpherson of the Madras Army, whose praiseworthy exertions in the exploration of primeval antiquities at Kertch during the Crimean war are well known.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Journal_of_the_Asiatic_Society_of_Bengal_vol_31",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Journal_of_the_Asiatic_Society_of_Bengal_vol_31.txt",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

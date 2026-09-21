@@ -1,0 +1,88 @@
+{
+ "author": "Leonard W. J. van der Kuijp",
+ "doc_kind": "text_edition",
+ "doc_year": 1989,
+ "people": [
+  {
+   "name": "Leonard W. J. van der Kuijp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  },
+  {
+   "name": "小川 一乗",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Ernst Steinkellner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Austrian",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Leonard W. J. van der Kuijp",
+   "type": "position_at",
+   "object": "University of Washington",
+   "role": "Assistant Professor",
+   "place": "Seattle",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Leonard W. J. van der Kuijp, assistant professor at the University of Washington, Seattle",
+   "quote_ok": true
+  },
+  {
+   "subject": "小川 一乗",
+   "type": "position_at",
+   "object": "大谷大学",
+   "role": "教授",
+   "place": "Kyoto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "大谷大学 教授 小川 一 乗",
+   "quote_ok": true
+  },
+  {
+   "subject": "小川 一乗",
+   "type": "position_at",
+   "object": "大谷大学真宗総合研究所",
+   "role": "西蔵文献研究班主任",
+   "place": "Kyoto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "西蔵文献研究班主任\n大谷大学 教授 小川 一 乗",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Steinkellner",
+   "type": "position_at",
+   "object": "Universität Wien",
+   "role": "Professor",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ウィーン大学のシュタインケルナー教授（Ernst Steinkellner）",
+   "quote_ok": true
+  }
+ ],
+ "docid": "van der Kuijp_1989",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/van der Kuijp_1989.txt",
+ "meta": {
+  "title": "An Introduction to Gtsang-nag-pa's Tshad-ma rnam-par nges-pa'i ṭi-ka legs-bshad bsdus-pa",
+  "author": "van der Kuijp, Leonard W. J.",
+  "year": 1989,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

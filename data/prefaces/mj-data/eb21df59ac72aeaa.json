@@ -1,0 +1,97 @@
+{
+ "author": "渡邊瑞嚴",
+ "doc_kind": "article",
+ "doc_year": 1940,
+ "people": [
+  {
+   "name": "渡邊瑞嚴",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "多田",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "木村",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "山本",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "月輪",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "山口",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "多田",
+   "type": "position_at",
+   "object": "東北帝大",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "東北帝大の多田先生の絶大の御好意によるもので",
+   "quote_ok": true
+  },
+  {
+   "subject": "渡邊瑞嚴",
+   "type": "student_of",
+   "object": "木村",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "次に數論教義に就いては恩師木村・山本雨先生の御教示を仰ぐ心算であつたが",
+   "quote_ok": true
+  },
+  {
+   "subject": "渡邊瑞嚴",
+   "type": "student_of",
+   "object": "山本",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "次に數論教義に就いては恩師木村・山本雨先生の御教示を仰ぐ心算であつたが",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Watanabe_渡邊瑞嚴_1940@中観心頌の数論破",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Watanabe_渡邊瑞嚴_1940@中観心頌の数論破.txt",
+ "meta": {
+  "title": "中観心頌の数論破",
+  "author": "渡邊, 瑞嚴",
+  "year": 1940,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

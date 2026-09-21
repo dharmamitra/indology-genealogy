@@ -1,0 +1,52 @@
+{
+ "author": "Hanna Havnevik",
+ "doc_kind": "article",
+ "doc_year": 1995,
+ "people": [
+  {
+   "name": "Tashi Tsering",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  },
+  {
+   "name": "K. Yeshi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Tashi Tsering",
+   "type": "position_at",
+   "object": "LTWA",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I thus agree with Tashi Tsering (LTWA) who suggests 1865 as Lochen's year of birth in the unpublished paper referred to above.",
+   "quote_ok": true
+  },
+  {
+   "subject": "K. Yeshi",
+   "type": "collaborated_with",
+   "object": "Tashi Tsering",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "K. Yeshi and Acharya T. Tsering write that Lochen was born in 1852",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_PIATS-07-Graz-1995-v1",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_PIATS-07-Graz-1995-v1.txt#0",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,109 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 2001,
+ "people": [
+  {
+   "name": "Walpola Rahula",
+   "birth_year": null,
+   "death_year": 1997,
+   "nationality": "Sri Lankan",
+   "field": null
+  },
+  {
+   "name": "Paul Demiéville",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rupert Gethin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Charles Willemen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Peter Ebbatson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Walpola Rahula",
+   "type": "student_of",
+   "object": "Paul Demiéville",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I owe a debt of profound gratitude to Professor Paul Demiéville, my teacher in Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rupert Gethin",
+   "type": "position_at",
+   "object": "Bristol University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr Rupert Gethin of Bristol University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Willemen",
+   "type": "position_at",
+   "object": "Ghent University",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Charles Willemen of Ghent University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Ebbatson",
+   "type": "student_of",
+   "object": "Walpola Rahula",
+   "role": "doctoral supervisor",
+   "place": "University of Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr Peter Ebbatson, formerly doctoral student of Venerable Rahula at the University of Oxford",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Ebbatson",
+   "type": "studied_at",
+   "object": "University of Oxford",
+   "role": "doctoral student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr Peter Ebbatson, formerly doctoral student of Venerable Rahula at the University of Oxford",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Abhidharmasamuccaya by Asanga_Walpola Rahula_Sara Boin-Webb, English, 2001",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Abhidharmasamuccaya by Asanga_Walpola Rahula_Sara Boin-Webb, English, 2001.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

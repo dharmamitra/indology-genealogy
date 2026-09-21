@@ -1,0 +1,183 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1886,
+ "people": [
+  {
+   "name": "Rizá Kulí Khán",
+   "birth_year": 1800,
+   "death_year": 1871,
+   "nationality": "Persian",
+   "field": "Persian literature"
+  },
+  {
+   "name": "Sidney Churchill",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "E. W. Hopkins",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "A. V. Williams Jackson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "D. G. Lyon",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "B. Jülg",
+   "birth_year": 1825,
+   "death_year": 1886,
+   "nationality": null,
+   "field": "Classical Philology"
+  },
+  {
+   "name": "John Hallett Batten",
+   "birth_year": 1811,
+   "death_year": 1886,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Joseph Hallett Batten",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Rizá Kulí Khán",
+   "type": "position_at",
+   "object": "Royal Academy, Tehran",
+   "role": "Deputy Director",
+   "place": "Tehran",
+   "year_start": 1851,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he was appointed Deputy Director of the Royal Academy, which had lately been formed at Tehran, a post he held for some years.",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. W. Hopkins",
+   "type": "position_at",
+   "object": "Bryn Mawr College",
+   "role": "Professor",
+   "place": "Bryn Mawr, Penn.",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "by Professor E. W. Hopkins, of Bryn Mawr College, Bryn Mawr, Penn.",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. V. Williams Jackson",
+   "type": "position_at",
+   "object": "Columbia College",
+   "role": null,
+   "place": "New York City",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "by Mr. A. V. Williams Jackson, of Columbia College, New York City.",
+   "quote_ok": true
+  },
+  {
+   "subject": "D. G. Lyon",
+   "type": "position_at",
+   "object": "Harvard College",
+   "role": "Prof.",
+   "place": "Cambridge, Mass.",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "by Prof. D. G. Lyon, of Harvard College, Cambridge, Mass.",
+   "quote_ok": true
+  },
+  {
+   "subject": "B. Jülg",
+   "type": "position_at",
+   "object": "University of Innspruck",
+   "role": "Professor of Classical Philology",
+   "place": "Innspruck",
+   "year_start": null,
+   "year_end": 1886,
+   "explicit": true,
+   "evidence": "died on the 14th August, aged 61, at Innspruck, in the University of which city he was Professor of Classical Philology.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Hallett Batten",
+   "type": "studied_at",
+   "object": "Charterhouse",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1827,
+   "explicit": true,
+   "evidence": "He was educated at Charterhouse",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Hallett Batten",
+   "type": "studied_at",
+   "object": "Haileybury College",
+   "role": null,
+   "place": "Haileybury",
+   "year_start": 1827,
+   "year_end": 1829,
+   "explicit": true,
+   "evidence": "Shortly afterwards he entered Haileybury College, and passed out in May, 1829",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Hallett Batten",
+   "type": "other",
+   "object": "Joseph Hallett Batten",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "John Hallett Batten, son of the Rev. Dr. Joseph Hallett Batten, Principal of the East India College at Haileybury",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Hallett Batten",
+   "type": "position_at",
+   "object": "East India College at Haileybury",
+   "role": "Principal",
+   "place": "Haileybury",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the Rev. Dr. Joseph Hallett Batten, Principal of the East India College at Haileybury",
+   "quote_ok": true
+  }
+ ],
+ "docid": "JRASGBINS18",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/JRASGBINS18.txt#0",
+ "meta": {
+  "title": "Journal of the Royal Asiatic Society of Great Britain and Ireland",
+  "author": "Royal Asiatic Society of Great Britain and Ireland",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

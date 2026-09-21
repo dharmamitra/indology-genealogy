@@ -1,0 +1,116 @@
+{
+ "author": "Jonathan A. Silk",
+ "doc_kind": "text_edition",
+ "doc_year": 2016,
+ "people": [
+  {
+   "name": "Michael Witzel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jonathan A. Silk",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Ernst Steinkellner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gelong Lodrö Sangpo",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jigme Sheldrön",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gregory Hillis",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Luis O. Gómez",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Gelong Lodrö Sangpo",
+   "type": "student_of",
+   "object": "Ernst Steinkellner",
+   "role": "supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 2010,
+   "explicit": true,
+   "evidence": "Trans. Gelong Lodrö Sangpo with the assistance of Jigme Sheldrön, under the supervision of Professor Ernst Steinkellner",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gelong Lodrö Sangpo",
+   "type": "collaborated_with",
+   "object": "Jigme Sheldrön",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2010,
+   "explicit": true,
+   "evidence": "Trans. Gelong Lodrö Sangpo with the assistance of Jigme Sheldrön",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gregory Hillis",
+   "type": "studied_at",
+   "object": "University of Virginia",
+   "role": "MA",
+   "place": null,
+   "year_start": null,
+   "year_end": 1993,
+   "explicit": true,
+   "evidence": "MA thesis, University of Virginia.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Luis O. Gómez",
+   "type": "collaborated_with",
+   "object": "Jonathan A. Silk",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1989,
+   "explicit": true,
+   "evidence": "Luis O. Gómez and Jonathan A. Silk, eds., Studies in the Literature of the Great Vehicle: Three Mahāyāna Texts",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Materials Towards the Study of Vasubandus Vimsika-OCR",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Materials Towards the Study of Vasubandus Vimsika-OCR.txt",
+ "meta": {
+  "title": "Harvard Oriental Series",
+  "author": "Witzel, Michael",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

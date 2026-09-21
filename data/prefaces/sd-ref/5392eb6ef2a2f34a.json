@@ -1,0 +1,71 @@
+{
+ "author": "Robert Aitken",
+ "doc_kind": "monograph",
+ "doc_year": 1982,
+ "people": [
+  {
+   "name": "Robert Aitken",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "D.T. Suzuki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhism"
+  },
+  {
+   "name": "Nakagawa Sōen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Zen"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Robert Aitken",
+   "type": "student_of",
+   "object": "D.T. Suzuki",
+   "role": "teacher",
+   "place": "University of Hawaii",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I recall a course in Buddhism given by Dr. D.T. Suzuki at the University of Hawaii a long time ago. He began the course by telling the story of Shakyamuni.",
+   "quote_ok": true
+  },
+  {
+   "subject": "D.T. Suzuki",
+   "type": "position_at",
+   "object": "University of Hawaii",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "a course in Buddhism given by Dr. D.T. Suzuki at the University of Hawaii a long time ago.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Aitken",
+   "type": "student_of",
+   "object": "Nakagawa Sōen",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Nakagawa Sōen Roshi once said to me, \"Zen is not asceticism.\" He said this by way of assuring me that I need not follow his example of swimming off the coast of Japan in February.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Taking the Path of Zen_Robert Aitken, 1982",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Taking the Path of Zen_Robert Aitken, 1982.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

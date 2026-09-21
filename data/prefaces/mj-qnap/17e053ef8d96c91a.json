@@ -1,0 +1,135 @@
+{
+ "author": "Megumu Honda",
+ "doc_kind": "text_edition",
+ "doc_year": 1968,
+ "people": [
+  {
+   "name": "Megumu Honda",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Johannes Rahder",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Paul Mus",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Paul Tedesco",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rulon Wells",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Richard Gard",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Lokesh Chandra",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Denis Sinor",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Megumu Honda",
+   "type": "studied_at",
+   "object": "Yale University",
+   "role": null,
+   "place": "New Haven, Conn.",
+   "year_start": 1961,
+   "year_end": 1962,
+   "explicit": true,
+   "evidence": "during the semester 1961-62 at Yale University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Megumu Honda",
+   "type": "collaborated_with",
+   "object": "Johannes Rahder",
+   "role": null,
+   "place": "Yale University",
+   "year_start": 1961,
+   "year_end": 1962,
+   "explicit": true,
+   "evidence": "Prof. Johannes Rahder who has generously read with me difficult passages and terms in the text during the semester 1961-62 at Yale University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Megumu Honda",
+   "type": "student_of",
+   "object": "Paul Tedesco",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. Paul Tedesco taught me the basic knowledge of Sanskrit through his excellent training which was greatly helpful to understand this text.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Megumu Honda",
+   "type": "student_of",
+   "object": "Rulon Wells",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. Rulon Wells guided me in various ways to study Indology.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Rahder",
+   "type": "position_at",
+   "object": "Yale University",
+   "role": "Professor",
+   "place": "New Haven, Conn.",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Prof. Johannes Rahder who has generously read with me difficult passages and terms in the text during the semester 1961-62 at Yale University though he was on leave of absence.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Honda Dasabhumika transl",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Honda Dasabhumika transl.txt",
+ "meta": {
+  "title": "Annotated Translation of the Dasabhumika-sutra",
+  "author": "Honda, Megumu",
+  "year": 1968,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

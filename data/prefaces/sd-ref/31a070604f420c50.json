@@ -1,0 +1,129 @@
+{
+ "author": "Angela Love",
+ "doc_kind": "dissertation",
+ "doc_year": 2008,
+ "people": [
+  {
+   "name": "Angela Love",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Psychology"
+  },
+  {
+   "name": "Wayland Secrest",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Phyliss Cooke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "David Sarnoff",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Richard Davidson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "psychology"
+  },
+  {
+   "name": "Robert Thurman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetan Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Angela Love",
+   "type": "studied_at",
+   "object": "Capella University",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 2008,
+   "explicit": true,
+   "evidence": "A Dissertation Presented in Partial Fulfillment Of the Requirements for the Degree Doctor of Philosophy Capella University",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Angela Love",
+   "type": "student_of",
+   "object": "Wayland Secrest",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 2008,
+   "explicit": true,
+   "evidence": "My appreciation goes to my mentor, Dr. Wayland Secrest, for his guidance and insight",
+   "quote_ok": true
+  },
+  {
+   "subject": "Angela Love",
+   "type": "student_of",
+   "object": "Phyliss Cooke",
+   "role": "committee member",
+   "place": null,
+   "year_start": null,
+   "year_end": 2008,
+   "explicit": true,
+   "evidence": "as well as to my committee members, Dr. Phyliss Cooke, and Dr. David Sarnoff.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Angela Love",
+   "type": "student_of",
+   "object": "David Sarnoff",
+   "role": "committee member",
+   "place": null,
+   "year_start": null,
+   "year_end": 2008,
+   "explicit": true,
+   "evidence": "as well as to my committee members, Dr. Phyliss Cooke, and Dr. David Sarnoff.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Davidson",
+   "type": "position_at",
+   "object": "University of Wisconsin-Madison",
+   "role": "psychology professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Richard Davidson, a psychology professor at the University of Wisconsin-Madison has explored brain states of Tibetan monks",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Thurman",
+   "type": "position_at",
+   "object": "Columbia University",
+   "role": "chair of Tibetan Buddhist studies",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Robert Thurman (2004), the first Western Tibetan Buddhist monk, and chair of Tibetan Buddhist studies at Columbia University",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Love_Monks in managerial roles",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Love_Monks in managerial roles.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

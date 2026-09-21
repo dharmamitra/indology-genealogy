@@ -1,0 +1,77 @@
+{
+ "people": [
+  {
+   "name": "John W. M. Krummel"
+  },
+  {
+   "name": "Mahmoud Ayoub"
+  },
+  {
+   "name": "Shigenori Nagatomo"
+  },
+  {
+   "name": "Kazashi Nobuo"
+  },
+  {
+   "name": "Inaga Shigemi"
+  },
+  {
+   "name": "Agnes Heller"
+  },
+  {
+   "name": "Richard Bernstein"
+  },
+  {
+   "name": "John C. Maraldo"
+  },
+  {
+   "name": "Fred Dallmayr"
+  },
+  {
+   "name": "Graham Parkes"
+  },
+  {
+   "name": "Joan Stambaugh"
+  },
+  {
+   "name": "Bret Davis"
+  },
+  {
+   "name": "Robert Carter"
+  },
+  {
+   "name": "Jason Wirth"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John W. M. Krummel",
+   "type": "student_of",
+   "object": "Shigenori Nagatomo",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I would like to express special gratitude to Professor Nagatomo for helping me get started in reading and translating Japanese philosophical texts.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John W. M. Krummel",
+   "type": "collaborated_with",
+   "object": "Shigenori Nagatomo",
+   "role": "co-translators",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Place and Dialectic: Two Essays by Nishida Kitarō, translated by John W. M. Krummel and Shigenori Nagatomo",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Nishida Kitaro’s Chiasmatic Chorology. Place of Dialectic, Dialectic of Place_John W. M. Krummel, 2015",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Nishida Kitaro’s Chiasmatic Chorology. Place of Dialectic, Dialectic of Place_John W. M. Krummel, 2015.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

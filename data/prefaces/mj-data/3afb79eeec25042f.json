@@ -1,0 +1,76 @@
+{
+ "author": "広浜 哲生",
+ "doc_kind": "article",
+ "doc_year": 2001,
+ "people": [
+  {
+   "name": "広浜 哲生",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "斎藤明",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "白館戒雲",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "斎藤明",
+   "type": "position_at",
+   "object": "東京大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bpのテクストについては、東京大学の斎藤明教授の学位論文 Saito [1984] 所収の校訂テクストを使用したが",
+   "quote_ok": false
+  },
+  {
+   "subject": "斎藤明",
+   "type": "studied_at",
+   "object": "Australian National University",
+   "role": "Doctor of Philosophy",
+   "place": null,
+   "year_start": null,
+   "year_end": 1984,
+   "explicit": true,
+   "evidence": "Saito Akira (1984) A Study of the Buddhapalita: Mülamadhyamaka-vrtti, A Thesis Submitted for the Degree of Doctor of Philosophy in the Australian National University. August, 1984.",
+   "quote_ok": true
+  },
+  {
+   "subject": "白館戒雲",
+   "type": "position_at",
+   "object": "大谷大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "そのコピーを快く認めて下さった斎藤先生と、入手の労を取って下さった大谷大学白館戒雲先生に対し、記して感謝の意を表します。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Hirohama_広浜哲生_2001@中論仏護注におけるupadana",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Hirohama_広浜哲生_2001@中論仏護注におけるupadana.txt",
+ "meta": {
+  "title": "『中論仏護註』における取 (upādāna) について",
+  "author": "広浜 哲生",
+  "year": 2001,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

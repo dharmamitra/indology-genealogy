@@ -1,0 +1,71 @@
+{
+ "author": "Alan Watts",
+ "doc_kind": "monograph",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Alan Watts",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Daisetz Teitaro Suzuki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Christmas Humphreys",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Daisetz Teitaro Suzuki",
+   "type": "position_at",
+   "object": "Otani Buddhist College at Kyoto",
+   "role": "Professor",
+   "place": "Kyoto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Daisetz Teitaro Suzuki of the Otani Buddhist College at Kyoto.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christmas Humphreys",
+   "type": "position_at",
+   "object": "Buddhist Lodge, London",
+   "role": "President",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mr Christmas Humphreys, President of the Buddhist Lodge, London",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alan Watts",
+   "type": "student_of",
+   "object": "Christmas Humphreys",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "for it was he who not only introduced me to the work of Professor Suzuki but laid the foundations of my knowledge of Buddhism.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Spirit of Zen_Alan Watts",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Spirit of Zen_Alan Watts.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,53 @@
+{
+ "author": "Michael Hahn",
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Michael Hahn",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Wilhelm Rau",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Michael Hahn",
+   "type": "position_at",
+   "object": "University of Marburg",
+   "role": null,
+   "place": "Marburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The Tibetan Shes rab sdong bu University of Marburg Michael Hahn",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Michael Hahn",
+   "type": "student_of",
+   "object": "Wilhelm Rau",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "as my teacher Wilhelm Rau once defined it",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Hahn_Prajñādaṇḍa_3",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Hahn_Prajñādaṇḍa_3.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

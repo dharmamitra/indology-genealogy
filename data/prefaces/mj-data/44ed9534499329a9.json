@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "河田悌一",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "高田順仁",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "河田悌一",
+   "type": "position_at",
+   "object": "関西大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "関西大学 河田悌一教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "高田順仁",
+   "type": "studied_at",
+   "object": "本学大学院",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "なお本書「観の章」全体については、このたび本学大学院出身の高田順仁とともに翻訳を試みた。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "大谷学報76.1_大谷学会",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/大谷学報76.1_大谷学会.txt",
+ "meta": {
+  "title": "『今昔物語集』における往生人の種々相",
+  "author": "石橋, 義秀",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,89 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Yoshito S. Hakeda",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Wm. Theodore de Bary",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Burton Watson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Yoshito S. Hakeda",
+   "type": "position_at",
+   "object": "Columbia University",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Yoshito S. Hakeda was Professor in the Department of East Asian Languages a",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Yoshito S. Hakeda",
+   "type": "position_at",
+   "object": "Columbia University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1966,
+   "explicit": true,
+   "evidence": "Yoshito S. Hakeda\nColumbia University\nMarch 1, 1966",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wm. Theodore de Bary",
+   "type": "position_at",
+   "object": "Columbia University",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "In preparing this translation I have received financial assistance from the Committee on Oriental Studies at Columbia University... I also wish to acknowledge my indebtedness to Professor Wm. Theodore de Bary",
+   "quote_ok": true
+  },
+  {
+   "subject": "Burton Watson",
+   "type": "position_at",
+   "object": "Columbia University",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "to Professor Burton Watson for reading the manuscript and painstakingly comparing the translation with the original line by line",
+   "quote_ok": true
+  }
+ ],
+ "docid": "[Ryuichi_Abe,_Yoshito_S._Hakeda]_The_Awakening_of_(Bookos.org)",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/[Ryuichi_Abe,_Yoshito_S._Hakeda]_The_Awakening_of_(Bookos.org).txt",
+ "meta": {
+  "title": "The Awakening of Faith",
+  "author": "Aśvaghoṣa",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

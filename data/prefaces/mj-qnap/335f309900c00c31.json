@@ -1,0 +1,90 @@
+{
+ "author": "K. J. Grimm",
+ "doc_kind": "article",
+ "doc_year": 1901,
+ "people": [
+  {
+   "name": "Robert Koldewey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "Meissner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Assyriology"
+  },
+  {
+   "name": "Andrae",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Fulgence Fresnel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": null
+  },
+  {
+   "name": "Jules Oppert",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Robert Koldewey",
+   "type": "collaborated_with",
+   "object": "Meissner",
+   "role": null,
+   "place": null,
+   "year_start": 1899,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in January 1899, the Deutsche Orient-Gesellschaft sent out an expedition under the direction of Dr. Robert Koldewey, of Görlitz, assisted by the Assyriologist, Dr. Meissner, of Halle, and 'Regierungsbauführer' Andrae",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Koldewey",
+   "type": "collaborated_with",
+   "object": "Andrae",
+   "role": null,
+   "place": null,
+   "year_start": 1899,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in January 1899, the Deutsche Orient-Gesellschaft sent out an expedition under the direction of Dr. Robert Koldewey, of Görlitz, assisted by the Assyriologist, Dr. Meissner, of Halle, and 'Regierungsbauführer' Andrae",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fulgence Fresnel",
+   "type": "collaborated_with",
+   "object": "Jules Oppert",
+   "role": null,
+   "place": "Tell Kasr",
+   "year_start": 1851,
+   "year_end": 1854,
+   "explicit": true,
+   "evidence": "During the years 1851-1854 the French expedition under Fulgence Fresnel and Jules Oppert collected on Tell Kasr, especially on its eastern side, a great many fragments of colored tiles.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "JAOS_022-1_1901=journalamerican10socigoog",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/JAOS_022-1_1901=journalamerican10socigoog.txt",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

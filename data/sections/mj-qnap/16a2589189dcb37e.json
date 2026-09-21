@@ -1,0 +1,172 @@
+{
+ "author": "P. V. Sharma",
+ "doc_kind": "text_edition",
+ "doc_year": 1985,
+ "people": [
+  {
+   "name": "P. V. Sharma",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Ayurveda"
+  },
+  {
+   "name": "G. P. Sharma",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Ayurveda"
+  },
+  {
+   "name": "Gaṅgādhara Roy",
+   "birth_year": 1799,
+   "death_year": 1885,
+   "nationality": "Indian",
+   "field": "Ayurveda"
+  },
+  {
+   "name": "Rāma Kānta Sen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Ayurveda"
+  },
+  {
+   "name": "Dwārakānāth Sen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Ayurveda"
+  },
+  {
+   "name": "Hārāṇacandra Cakravartī",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Ayurveda"
+  },
+  {
+   "name": "Paréśanātha Sen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Ayurveda"
+  },
+  {
+   "name": "Yogindranātha Sen",
+   "birth_year": 1871,
+   "death_year": 1931,
+   "nationality": "Indian",
+   "field": "Ayurveda"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "P. V. Sharma",
+   "type": "position_at",
+   "object": "Banaras Hindu University",
+   "role": "Director, Postgraduate Institute of Indian Medicine",
+   "place": "Varanasi",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "By Prof. PRIYAVRAT SHARMA Formerly Director, Postgraduate Institute of Indian Medicine Banaras Hindu University",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "P. V. Sharma",
+   "type": "collaborated_with",
+   "object": "G. P. Sharma",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1972,
+   "explicit": true,
+   "evidence": "P. V. Sharma and G. P. Sharma : Jejjaṭa ( 9th Cent. A. D. ) and his informations about drugs, I. J. H. S., Vol. 7, No. 9 ( 1972 ).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gaṅgādhara Roy",
+   "type": "student_of",
+   "object": "Rāma Kānta Sen",
+   "role": "traditional teacher",
+   "place": "Belgharia",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he was admitted as a disciple to the school of Kavirāja Rāma Kānta Sen, a famous learned physician of Belgharia in Rajashahi district.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dwārakānāth Sen",
+   "type": "student_of",
+   "object": "Gaṅgādhara Roy",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among his disciples are scholars like Dwārakānāth sen, Hārāṇacandra Cakravartī, Paréśanātha Sen etc.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hārāṇacandra Cakravartī",
+   "type": "student_of",
+   "object": "Gaṅgādhara Roy",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among his disciples are scholars like Dwārakānāth sen, Hārāṇacandra Cakravartī, Paréśanātha Sen etc.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paréśanātha Sen",
+   "type": "student_of",
+   "object": "Gaṅgādhara Roy",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among his disciples are scholars like Dwārakānāth sen, Hārāṇacandra Cakravartī, Paréśanātha Sen etc.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Yogindranātha Sen",
+   "type": "other",
+   "object": "Dwārakānāth Sen",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was the eldest son of Kavirāja Dwārakānātha Sen, one of the illustrious disciples of Gaṅgādhara Roy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Yogindranātha Sen",
+   "type": "student_of",
+   "object": "Dwārakānāth Sen",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a distinguished scholar of sanskrit and studied Āyurveda with his father.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Carakasaṃhitā, trl. by P.V. Sharma, vol. III SVA",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Carakasaṃhitā, trl. by P.V. Sharma, vol. III SVA.txt#0",
+ "meta": {
+  "title": "Caraka-Saṃhitā: Critical Notes",
+  "author": "Sharma, Priyavrat",
+  "year": 1985,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

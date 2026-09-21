@@ -1,0 +1,83 @@
+{
+ "author": "吉元信行",
+ "doc_kind": "article",
+ "doc_year": 1997,
+ "people": [
+  {
+   "name": "舟橋智哉",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "奥村浩基",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "山田良賢",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "鍵主良敬",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "舟橋智哉",
+   "type": "studied_at",
+   "object": "大谷大学",
+   "role": "博士後期課程",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "本学大学院博士後期課程舟橋智哉氏",
+   "quote_ok": true
+  },
+  {
+   "subject": "奥村浩基",
+   "type": "studied_at",
+   "object": "大谷大学",
+   "role": "博士後期課程",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "同奥村浩基氏",
+   "quote_ok": true
+  },
+  {
+   "subject": "鍵主良敬",
+   "type": "influenced_by",
+   "object": "山田良賢",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor YAMADA Ryōken: What I Learned from His Person and His Work. KAGINUSHI Ryōkei",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Yoshimoto_吉元信行_1997_佛教學セミナー66@仏陀最後の旅と筏の譬",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Yoshimoto_吉元信行_1997_佛教學セミナー66@仏陀最後の旅と筏の譬.txt",
+ "meta": {
+  "title": "仏陀最後の旅と筏の譬",
+  "author": "吉元信行",
+  "year": 1997,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

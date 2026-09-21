@@ -1,0 +1,157 @@
+{
+ "author": "Akira Yuyama",
+ "doc_kind": "monograph",
+ "doc_year": 2000,
+ "people": [
+  {
+   "name": "Louis-Mathieu Langlès",
+   "birth_year": 1763,
+   "death_year": 1824,
+   "nationality": "French",
+   "field": "Oriental studies"
+  },
+  {
+   "name": "Antoine Isaac Silvestre de Sacy",
+   "birth_year": 1758,
+   "death_year": 1838,
+   "nationality": "French",
+   "field": "Oriental studies"
+  },
+  {
+   "name": "Alexander Hamilton",
+   "birth_year": 1762,
+   "death_year": 1824,
+   "nationality": "British",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Friedrich von Schlegel",
+   "birth_year": 1772,
+   "death_year": 1829,
+   "nationality": "German",
+   "field": "Indian studies"
+  },
+  {
+   "name": "Antoine Léonard de Chézy",
+   "birth_year": 1773,
+   "death_year": 1832,
+   "nationality": "French",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Ernest Renan",
+   "birth_year": 1823,
+   "death_year": 1892,
+   "nationality": "French",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Louis-Mathieu Langlès",
+   "type": "position_at",
+   "object": "École Spéciale des Langues Orientales Vivantes",
+   "role": "Administrateur and chair holder in Persian",
+   "place": "Paris",
+   "year_start": 1796,
+   "year_end": 1824,
+   "explicit": true,
+   "evidence": "He was elected the first “Administrateur” as well as the first chair holder in Persian. He stayed on at this post until his death in 1824.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Antoine Isaac Silvestre de Sacy",
+   "type": "succeeded",
+   "object": "Louis-Mathieu Langlès",
+   "role": "Administrateur",
+   "place": "École Spéciale des Langues Orientales Vivantes",
+   "year_start": 1824,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Baron Antoine Isaac Silvestre de Sacy (21.IX.1758-21.II.1838) succeeded as “Administrateur”, the post held by Langlès until his death",
+   "quote_ok": true
+  },
+  {
+   "subject": "Louis-Mathieu Langlès",
+   "type": "position_at",
+   "object": "Bibliothèque royale",
+   "role": "Chief Keeper of the Department of Manuscripts",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": 1824,
+   "explicit": true,
+   "evidence": "Langlès was concurrently Chief Keeper of the Department of Manuscripts at the Royal Library",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander Hamilton",
+   "type": "position_at",
+   "object": "Haileybury College",
+   "role": "Professor of Sanskrit",
+   "place": "Hertfordshire",
+   "year_start": null,
+   "year_end": 1824,
+   "explicit": true,
+   "evidence": "Il était professeur de samskrit et de littérature indienne, au collège des langues orientales à Haileybury.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander Hamilton",
+   "type": "collaborated_with",
+   "object": "Louis-Mathieu Langlès",
+   "role": null,
+   "place": "Paris",
+   "year_start": 1807,
+   "year_end": 1807,
+   "explicit": true,
+   "evidence": "Hamilton prepared a catalogue and Langlès arranged for publication (see Hamilton-Langlès 1807).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich von Schlegel",
+   "type": "student_of",
+   "object": "Alexander Hamilton",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "During his stay Friedrich von Schlegel (1772-1829) was lucky enough to study Sanskrit with him.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Antoine Léonard de Chézy",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "chair holder of Sanskrit",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Antoine Léonard de Chézy (1773-1832), the first chair holder of Sanskrit at the Collège de France.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernest Renan",
+   "type": "position_at",
+   "object": "Bibliothèque Impériale, Département des Manuscrits Orientaux",
+   "role": null,
+   "place": "Paris",
+   "year_start": 1851,
+   "year_end": 1860,
+   "explicit": true,
+   "evidence": "from 1851 to 1860, Ernest Renan (1823-1892) worked for this department of oriental manuscripts.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Akira Yuyama 2000 Eugène Burnouf, The Background to his Research into the Lotus Sutra BPPB-03",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Akira Yuyama 2000 Eugène Burnouf, The Background to his Research into the Lotus Sutra BPPB-03.txt#2",
+ "meta": {
+  "title": "Eugène Burnouf: The Background to his Research into the Lotus Sutra",
+  "author": "Yuyama, Akira",
+  "year": 2000,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,64 @@
+{
+ "author": "上山大峻",
+ "doc_kind": "article",
+ "doc_year": 1968,
+ "people": [
+  {
+   "name": "上山大峻",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "藤枝晃",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Sinology"
+  },
+  {
+   "name": "山口瑞鳳",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Tibetology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "上山大峻",
+   "type": "student_of",
+   "object": "藤枝晃",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "殊に藤枝晃先生からは、数年にわたり懇切な御指導をたまわった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "上山大峻",
+   "type": "influenced_by",
+   "object": "山口瑞鳳",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "山口瑞鳳先生より、プトンの佛敎史卷末の經典目錄に、われわれが前篇において藏外チベット譯であると指摘した法成譯佛典の名を見る場合があるという示教をうけた。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Ueyama_上山大峻_1968@大蕃國大德三藏法師沙門法成の研究 (下)",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Ueyama_上山大峻_1968@大蕃國大德三藏法師沙門法成の研究 (下).txt",
+ "meta": {
+  "title": "大蕃國大德三藏法師沙門法成の研究 (下)",
+  "author": "上山, 大峻",
+  "year": 1968,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

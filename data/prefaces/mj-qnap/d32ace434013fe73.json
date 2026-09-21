@@ -1,0 +1,110 @@
+{
+ "author": "Edward Müller",
+ "doc_kind": "text_edition",
+ "doc_year": 1897,
+ "people": [
+  {
+   "name": "Edward Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Trenckner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Mabel Bode",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "C. H. Tawney",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Andersen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Edward Müller",
+   "type": "position_at",
+   "object": "University of Bern",
+   "role": "Professor",
+   "place": "Bern",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "EDITED BY EDWARD MÜLLER, PH.D. PROFESSOR IN THE UNIVERSITY OF BERN.",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "C. H. Tawney",
+   "type": "position_at",
+   "object": "India Office",
+   "role": "Librarian",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor C. H. Tawney, Librarian of the India Office",
+   "quote_ok": true
+  },
+  {
+   "subject": "Andersen",
+   "type": "position_at",
+   "object": "Copenhagen University Library",
+   "role": null,
+   "place": "Copenhagen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the authorities of the Copenhagen University Library, especially Dr. Andersen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Müller",
+   "type": "collaborated_with",
+   "object": "Mabel Bode",
+   "role": null,
+   "place": null,
+   "year_start": 1894,
+   "year_end": 1896,
+   "explicit": true,
+   "evidence": "The whole text of the Atthasālinī was copied from the manuscripts G. and C. by Mrs. Mabel Bode during the year 1894 and the beginning of 1895... Mrs. Bode was kind enough to compare the second half",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Dhs-a",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Dhs-a.txt",
+ "meta": {
+  "title": "The Atthasālinī: Buddhaghosa's Commentary on the Dhammasaṅgaṇi",
+  "author": "Müller, Edward",
+  "year": 1979,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

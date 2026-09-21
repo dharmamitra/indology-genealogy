@@ -1,0 +1,57 @@
+{
+ "author": "梶原三恵子",
+ "doc_kind": "article",
+ "doc_year": 2016,
+ "people": [
+  {
+   "name": "梶原三恵子",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indology"
+  },
+  {
+   "name": "榎本文雄",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "梶原三恵子",
+   "type": "collaborated_with",
+   "object": "榎本文雄",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "榎本文雄教授のご教示による。",
+   "quote_ok": true
+  },
+  {
+   "subject": "榎本文雄",
+   "type": "position_at",
+   "object": "教授",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "榎本文雄教授のご教示による。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Kajihara (2016) ウパニシャッドと初期仏典の一接点",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Kajihara (2016) ウパニシャッドと初期仏典の一接点.txt",
+ "meta": {
+  "title": "ウパニシャッドと初期仏典の一接点 --入門・受戒の儀礼 とブラフマチャリヤ--",
+  "author": "梶原, 三恵子",
+  "year": 2016,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,102 @@
+{
+ "author": "Étienne Lamotte",
+ "doc_kind": "text_edition",
+ "doc_year": 1935,
+ "people": [
+  {
+   "name": "Étienne Lamotte",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Louis de La Vallée Poussin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "S. Lévi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": null
+  },
+  {
+   "name": "J. Przyluski",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": null
+  },
+  {
+   "name": "P. Demiéville",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Étienne Lamotte",
+   "type": "student_of",
+   "object": "Louis de La Vallée Poussin",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1925,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mais notre reconnaissance la plus profonde et la plus filiale s'adresse avant tout à M. L. de La Vallée Poussin qui, depuis dix ans, n'a cessé un seul jour de nous former à sa méthode",
+   "quote_ok": true
+  },
+  {
+   "subject": "Étienne Lamotte",
+   "type": "student_of",
+   "object": "S. Lévi",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "les encouragements multiples de nos maîtres et amis français MM. S. Lévi, J. Przyluski et P. Demiéville.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Étienne Lamotte",
+   "type": "student_of",
+   "object": "J. Przyluski",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "les encouragements multiples de nos maîtres et amis français MM. S. Lévi, J. Przyluski et P. Demiéville.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Étienne Lamotte",
+   "type": "student_of",
+   "object": "P. Demiéville",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "les encouragements multiples de nos maîtres et amis français MM. S. Lévi, J. Przyluski et P. Demiéville.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Sandhinirmocanasutra ed Lamotte 1935 AD",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Sandhinirmocanasutra ed Lamotte 1935 AD.txt",
+ "meta": {
+  "title": "L'EXPOSÉ",
+  "author": "",
+  "year": 1935,
+  "language": "fr"
+ },
+ "model": "gemini-flash-latest"
+}

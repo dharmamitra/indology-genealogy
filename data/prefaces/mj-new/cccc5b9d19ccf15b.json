@@ -1,0 +1,150 @@
+{
+ "author": "山田俊",
+ "doc_kind": "other",
+ "doc_year": 2003,
+ "people": [
+  {
+   "name": "山田俊",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ヴィクター・メア",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "麦谷邦夫",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "船山徹",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "坂内栄夫",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ヴィクター・メア",
+   "type": "position_at",
+   "object": "ペンシルヴァニア大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ペンシルヴァニア大学ヴィクター・メア教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "山田俊",
+   "type": "position_at",
+   "object": "熊本県立大学文学部",
+   "role": "助教授",
+   "place": null,
+   "year_start": null,
+   "year_end": 2003,
+   "explicit": true,
+   "evidence": "研究代表者 山田俊\n（熊本県立大学文学部助教授）",
+   "quote_ok": true
+  },
+  {
+   "subject": "麦谷邦夫",
+   "type": "position_at",
+   "object": "京都大学人文科学研究所",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": 2003,
+   "explicit": true,
+   "evidence": "麦谷邦夫（京都大学人文科学研究所教授　六朝隋唐時代の三教思想）",
+   "quote_ok": true
+  },
+  {
+   "subject": "船山徹",
+   "type": "position_at",
+   "object": "京都大学人文科学研究所",
+   "role": "助教授",
+   "place": null,
+   "year_start": null,
+   "year_end": 2003,
+   "explicit": true,
+   "evidence": "船山　徹（京都大学人文科学研究所助教授　六朝隋唐の仏教思想）",
+   "quote_ok": true
+  },
+  {
+   "subject": "坂内栄夫",
+   "type": "position_at",
+   "object": "岐阜大学教育学部",
+   "role": "助教授",
+   "place": null,
+   "year_start": null,
+   "year_end": 2003,
+   "explicit": true,
+   "evidence": "坂内栄夫（岐阜大学教育学部助教授　唐代の道仏思想交流）",
+   "quote_ok": true
+  },
+  {
+   "subject": "山田俊",
+   "type": "collaborated_with",
+   "object": "麦谷邦夫",
+   "role": "co-researcher",
+   "place": null,
+   "year_start": 2001,
+   "year_end": 2003,
+   "explicit": true,
+   "evidence": "平成13年度～平成14年度\n科学研究費補助金（基盤研究(C)(1)）\n研究成果報告書（本冊）... 研究代表者　山田　俊 ... 研究分担者 麦谷邦夫",
+   "quote_ok": true
+  },
+  {
+   "subject": "山田俊",
+   "type": "collaborated_with",
+   "object": "船山徹",
+   "role": "co-researcher",
+   "place": null,
+   "year_start": 2001,
+   "year_end": 2003,
+   "explicit": true,
+   "evidence": "平成13年度～平成14年度\n科学研究費補助金（基盤研究(C)(1)）\n研究成果報告書（本冊）... 研究代表者　山田　俊 ... 研究分担者 ... 船山　徹",
+   "quote_ok": true
+  },
+  {
+   "subject": "山田俊",
+   "type": "collaborated_with",
+   "object": "坂内栄夫",
+   "role": "co-researcher",
+   "place": null,
+   "year_start": 2001,
+   "year_end": 2003,
+   "explicit": true,
+   "evidence": "平成13年度～平成14年度\n科学研究費補助金（基盤研究(C)(1)）\n研究成果報告書（本冊）... 研究代表者　山田　俊 ... 研究分担者 ... 坂内栄夫",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Funayama_2003",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Funayama_2003.txt",
+ "meta": {
+  "title": "五世紀中国における仏教徒の戒律受容",
+  "author": "船山, 徹",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

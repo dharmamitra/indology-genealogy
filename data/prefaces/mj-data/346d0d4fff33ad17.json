@@ -1,0 +1,116 @@
+{
+ "author": "西尾京雄",
+ "doc_kind": "monograph",
+ "doc_year": 1940,
+ "people": [
+  {
+   "name": "西尾京雄",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "赤沼智善",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "寺本婉雅",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Tibetology"
+  },
+  {
+   "name": "多田等觀",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Tibetology"
+  },
+  {
+   "name": "新野修基",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "山口益",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "野澤靜證",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "西尾京雄",
+   "type": "student_of",
+   "object": "赤沼智善",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "恩師 故 赤沼智善先生 に 捧 ぐ",
+   "quote_ok": true
+  },
+  {
+   "subject": "多田等觀",
+   "type": "position_at",
+   "object": "東北帝國大學",
+   "role": "西藏學敎授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "同大學西藏學敎授多田等觀氏の特別なる御配慮",
+   "quote_ok": true
+  },
+  {
+   "subject": "新野修基",
+   "type": "position_at",
+   "object": "東北帝國大學",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "同研究室の新野修基氏の甚大なる御好意",
+   "quote_ok": true
+  },
+  {
+   "subject": "西尾京雄",
+   "type": "collaborated_with",
+   "object": "野澤靜證",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "又、學友野澤靜證氏は校正を擔當され、その間、特に種々懇切なる助言を忝ふした。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "仏地経論之研究　西尾京雄",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/仏地経論之研究　西尾京雄.txt",
+ "meta": {
+  "title": "佛地經論之研究 第二卷",
+  "author": "西尾京雄",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

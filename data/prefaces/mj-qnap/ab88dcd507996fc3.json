@@ -1,0 +1,88 @@
+{
+ "author": "John Dowson",
+ "doc_kind": "monograph",
+ "doc_year": 1888,
+ "people": [
+  {
+   "name": "John Dowson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Hindustani"
+  },
+  {
+   "name": "Samuel Beal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Chinese"
+  },
+  {
+   "name": "Garrett",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Dowson",
+   "type": "position_at",
+   "object": "Staff College",
+   "role": "Late Professor of Hindustani",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "BY JOHN DOWSON, M.R.A.S. LATE PROFESSOR OF HINDUSTANI, STAFF COLLEGE.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Samuel Beal",
+   "type": "position_at",
+   "object": "University College, London",
+   "role": "Professor of Chinese",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "By SAMUEL BEAL, B.A. (Trin. Coll., Camb.); Professor of Chinese, University College, London",
+   "quote_ok": true
+  },
+  {
+   "subject": "Samuel Beal",
+   "type": "studied_at",
+   "object": "Trin. Coll., Camb.",
+   "role": "B.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "By SAMUEL BEAL, B.A. (Trin. Coll., Camb.)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Garrett",
+   "type": "position_at",
+   "object": "Public Instruction in Mysore",
+   "role": "Director",
+   "place": "Mysore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mr. Garrett, Director of Public Instruction in Mysore, published in India a few years ago a \"Classical Dictionary of India\"",
+   "quote_ok": true
+  }
+ ],
+ "docid": "dowson_a_classical_dictinary_of_hindu_mythology_and_religion_geography_history_and_literature_1888",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/dowson_a_classical_dictinary_of_hindu_mythology_and_religion_geography_history_and_literature_1888.txt",
+ "meta": {
+  "title": "大正新脩大藏經",
+  "author": "",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,59 @@
+{
+ "author": "原田和宗",
+ "doc_kind": "article",
+ "doc_year": 2010,
+ "people": [
+  {
+   "name": "原田和宗",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "林錦華",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Taiwanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "林錦華",
+   "type": "studied_at",
+   "object": "龍谷大学大学院",
+   "role": null,
+   "place": null,
+   "year_start": 2000,
+   "year_end": 2001,
+   "explicit": true,
+   "evidence": "当時、龍谷大学大学院に留学生 として在籍されていた台湾出身の尼僧、林錦華氏",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "原田和宗",
+   "type": "collaborated_with",
+   "object": "林錦華",
+   "role": "reading group",
+   "place": null,
+   "year_start": 2000,
+   "year_end": 2001,
+   "explicit": true,
+   "evidence": "平成12~13(2000~2001)年頃、当時、龍谷大学大学院に留学生 として在籍されていた台湾出身の尼僧、林錦華氏の求めに応じて開いた 私的な輪読会でテキストにした梵文『瑜伽師地論本地分菩薩地』「住品」 の和訳である。",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "Harada_原田和宗_2010",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Harada_原田和宗_2010.txt",
+ "meta": {
+  "title": "『菩薩地』「住品」和訳 (1)",
+  "author": "原田 和宗",
+  "year": 2010,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

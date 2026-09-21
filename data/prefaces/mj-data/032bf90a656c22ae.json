@@ -1,0 +1,84 @@
+{
+ "author": "Nicholson T. Collier",
+ "doc_kind": "dissertation",
+ "doc_year": 1998,
+ "people": [
+  {
+   "name": "Nicholson T. Collier"
+  },
+  {
+   "name": "Paul Griffiths"
+  },
+  {
+   "name": "Sheldon Pollock"
+  },
+  {
+   "name": "David Tracy"
+  },
+  {
+   "name": "Andrew Rotman"
+  },
+  {
+   "name": "Arulchelvam"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Nicholson T. Collier",
+   "type": "studied_at",
+   "object": "University of Chicago",
+   "role": "PhD",
+   "year_end": 1998,
+   "explicit": false,
+   "evidence": "At the University of Chicago, my adviser Paul Griffiths provided invaluable assistance throughout my career as a graduate student.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nicholson T. Collier",
+   "type": "student_of",
+   "object": "Paul Griffiths",
+   "role": "doctoral supervisor",
+   "year_end": 1998,
+   "explicit": true,
+   "evidence": "At the University of Chicago, my adviser Paul Griffiths provided invaluable assistance throughout my career as a graduate student.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nicholson T. Collier",
+   "type": "student_of",
+   "object": "David Tracy",
+   "role": "committee member",
+   "year_end": 1998,
+   "explicit": true,
+   "evidence": "I would also like to thank my third committee member, David Tracy, for his suggestions and critical readings of this work.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nicholson T. Collier",
+   "type": "collaborated_with",
+   "object": "Andrew Rotman",
+   "role": "learning Sanskrit together",
+   "explicit": true,
+   "evidence": "Andrew Rotman has been a good friend, a colleague, and a most valuable conversation partner. Without our long bi-weekly phone conversations while we were learning Sanskrit together",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arulchelvam",
+   "type": "position_at",
+   "object": "Peradeniya University",
+   "explicit": true,
+   "evidence": "Dr. Arulchelvam of Peradeniya University gave me important help while I was in Sri Lanka.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Collier-BudHermen",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Collier-BudHermen.txt",
+ "meta": {
+  "title": "ORNAMENTING INTENTIONS: INTENTION AND IMPLICATION IN BUDDHIST HERMENEUTICS",
+  "author": "Collier, Nicholson T.",
+  "year": 1998,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

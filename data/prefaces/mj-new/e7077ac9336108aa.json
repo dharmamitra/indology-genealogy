@@ -1,0 +1,64 @@
+{
+ "author": "丸井浩",
+ "doc_kind": "article",
+ "doc_year": 1991,
+ "people": [
+  {
+   "name": "丸井浩",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indology"
+  },
+  {
+   "name": "和田利弘",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indology"
+  },
+  {
+   "name": "江島恵教",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "和田利弘",
+   "type": "position_at",
+   "object": "名古屋大学文学部",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "名古屋大学文学部教授 和田利弘氏から御教示を賜った。",
+   "quote_ok": true
+  },
+  {
+   "subject": "丸井浩",
+   "type": "influenced_by",
+   "object": "江島恵教",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "江島教授の所論に負うところが大きく、かつ幾多の点で有益な刺激を受けている。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "img20240609_16404384",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/img20240609_16404384.txt",
+ "meta": {
+  "title": "禁止命令の意味と二種の否定",
+  "author": "丸井, 浩",
+  "year": 1991,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

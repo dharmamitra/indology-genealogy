@@ -1,0 +1,103 @@
+{
+ "author": "G. Bhattacharya",
+ "doc_kind": "article",
+ "doc_year": 1987,
+ "people": [
+  {
+   "name": "D. Mitra",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "D. C. Sircar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Marianne Yaldiz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Wibke Lobo",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "A. N. Lahiri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "D. Mitra",
+   "type": "student_of",
+   "object": "D. C. Sircar",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mitra comments, p. 63, “My grateful thanks are due to my teacher Dr. D. C. Sircar, Government Epigraphist for India",
+   "quote_ok": true
+  },
+  {
+   "subject": "D. C. Sircar",
+   "type": "position_at",
+   "object": "Government Epigraphist for India",
+   "role": "Government Epigraphist for India",
+   "place": "India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. D. C. Sircar, Government Epigraphist for India",
+   "quote_ok": true
+  },
+  {
+   "subject": "Marianne Yaldiz",
+   "type": "collaborated_with",
+   "object": "Wibke Lobo",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1987,
+   "explicit": true,
+   "evidence": "EDITED BY MARIANNE YALDIZ WIBKE LOBO",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "D. C. Sircar",
+   "type": "collaborated_with",
+   "object": "A. N. Lahiri",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sircar, D. C. and Lahiri, A. N. Footprint slab inscription from Nagarjunikonda.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "1",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/1.txt",
+ "meta": {
+  "title": "Investigating Indian Art",
+  "author": "Yaldiz, Marianne; Lobo, Wibke",
+  "year": 1987,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,102 @@
+{
+ "author": "Jacques Ryckmans",
+ "doc_kind": "edited_volume",
+ "doc_year": 1993,
+ "people": [
+  {
+   "name": "Étienne Lamotte",
+   "birth_year": 1903,
+   "death_year": 1983,
+   "nationality": "Belgian",
+   "field": "Buddhology"
+  },
+  {
+   "name": "J. Dantinne",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jacques Grand'Henry",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jacques Ryckmans",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Maurice Leroy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Étienne Lamotte",
+   "type": "position_at",
+   "object": "Université catholique de Louvain",
+   "role": "Professeur",
+   "place": "Louvain",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mgr Étienne LAMOTTE 1903-1983 Professeur à l'Université catholique de Louvain",
+   "quote_ok": true
+  },
+  {
+   "subject": "J. Dantinne",
+   "type": "student_of",
+   "object": "Étienne Lamotte",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "le Dr. J. Dantinne, ancien élève d'Étienne Lamotte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jacques Grand'Henry",
+   "type": "position_at",
+   "object": "Institut Orientaliste de l'Université Catholique de Louvain",
+   "role": "président",
+   "place": "Louvain-la-Neuve",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "le Pr Jacques Grand'Henry, président de l'Institut Orientaliste de l'Université Catholique de Louvain",
+   "quote_ok": true
+  },
+  {
+   "subject": "Maurice Leroy",
+   "type": "position_at",
+   "object": "Académie Royale de Belgique",
+   "role": "Secrétaire perpétuel",
+   "place": "Bruxelles",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Académie Royale de Belgique Pr Maurice Leroy(†), Secrétaire perpétuel",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Premiere Colloque Etienne Lamotte",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Premiere Colloque Etienne Lamotte.txt",
+ "meta": {
+  "title": "Premier colloque Étienne Lamotte",
+  "author": "",
+  "year": 1993,
+  "language": "fr"
+ },
+ "model": "gemini-flash-latest"
+}

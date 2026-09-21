@@ -1,0 +1,49 @@
+{
+ "people": [
+  {
+   "name": "服部正明",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indology"
+  },
+  {
+   "name": "Frauwallner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Austrian",
+   "field": "Indology"
+  },
+  {
+   "name": "大阪府立大學",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "服部正明",
+   "type": "position_at",
+   "object": "大阪府立大學",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "拙稿 Dignaga's Theory of Direct Knowledge (大阪府立大學紀要, 人文‧社會科學第7卷)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Hattori_服部正明_1961@ディグナーガ及びその周邊の年代―附『三時の考察』和譯―",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Hattori_服部正明_1961@ディグナーガ及びその周邊の年代―附『三時の考察』和譯―.txt",
+ "meta": {
+  "title": "ディグナーガ及びその周邊の年代―附『三時の考察』和譯―",
+  "author": "服部, 正明",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

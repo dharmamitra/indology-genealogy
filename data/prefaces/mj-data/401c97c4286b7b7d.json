@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 2013,
+ "people": [
+  {
+   "name": "松下俊英",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "兵藤一夫",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "上原永子",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Art history"
+  },
+  {
+   "name": "箕浦暁雄",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "松下俊英",
+   "type": "position_at",
+   "object": "大谷大学",
+   "role": "任期制助教",
+   "place": null,
+   "year_start": null,
+   "year_end": 2013,
+   "explicit": false,
+   "evidence": "二〇一三年三月末で任期制助教の松下俊英氏が任期満了で退任されました。",
+   "quote_ok": true
+  },
+  {
+   "subject": "兵藤一夫",
+   "type": "position_at",
+   "object": "大谷大学",
+   "role": "名誉教授",
+   "place": null,
+   "year_start": 2013,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "長年本学仏教学の教育と研究の中心であられた兵藤一夫先生が定年退職され、名誉教授となられました。",
+   "quote_ok": true
+  },
+  {
+   "subject": "上原永子",
+   "type": "position_at",
+   "object": "大谷大学",
+   "role": "任期制助教",
+   "place": null,
+   "year_start": 2013,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "二〇一三年度からガンダーラ美術が専門の上原永子氏が任期制助教として仏教学科の教員スタッフに加わりました。",
+   "quote_ok": true
+  },
+  {
+   "subject": "箕浦暁雄",
+   "type": "position_at",
+   "object": "大谷大学",
+   "role": "准教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "二〇一二年度在外研究で米国スタンフォード大学に滞在中であった箕浦暁雄准教授は二〇一三年三月に無事に帰国されました。",
+   "quote_ok": true
+  },
+  {
+   "subject": "箕浦暁雄",
+   "type": "position_at",
+   "object": "Stanford University",
+   "role": "在外研究",
+   "place": "米国",
+   "year_start": 2012,
+   "year_end": 2013,
+   "explicit": true,
+   "evidence": "二〇一二年度在外研究で米国スタンフォード大学に滞在中であった箕浦暁雄准教授は二〇一三年三月に無事に帰国されました。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "仏教学セミナー97",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/仏教学セミナー97.txt",
+ "meta": {
+  "title": "ハリバドラ『八千頌般若経解説 現観荘厳論光明』試訳",
+  "author": "兵藤, 淳",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

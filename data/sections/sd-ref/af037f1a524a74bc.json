@@ -1,0 +1,90 @@
+{
+ "author": "David P. Jackson",
+ "doc_kind": "monograph",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "David P. Jackson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  },
+  {
+   "name": "Alexander Csoma de Körös",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Hungarian",
+   "field": "Tibetology"
+  },
+  {
+   "name": "Sangs-rgyas-phun-tshogs",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Studies"
+  },
+  {
+   "name": "Kun-dga'-chos-legs-rdo-rje",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "David P. Jackson",
+   "type": "position_at",
+   "object": "Hamburg",
+   "role": "teaching",
+   "place": "Hamburg",
+   "year_start": null,
+   "year_end": 2001,
+   "explicit": true,
+   "evidence": "This history of Tibetan Studies derived from the text I wrote for the lectures I gave twice during my time of teaching in Hamburg, the second time in 2001.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander Csoma de Körös",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His training in Göttingen was in classical and Biblical philology.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander Csoma de Körös",
+   "type": "student_of",
+   "object": "Kun-dga'-chos-legs-rdo-rje",
+   "role": "traditional teacher",
+   "place": "rDzong-khul Na-ro-phug-po-che",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "a 100-folio treatise entitled ‘Khor ‘das kun gyi written by Csoma's teacher, Kun-dga'-chos-legs-rdo-rje, has survived.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander Csoma de Körös",
+   "type": "student_of",
+   "object": "Sangs-rgyas-phun-tshogs",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "On a medical treatise by another of Csoma's teachers, Sangs-rgyas-phun-tshogs, made for Csoma as a summary of Tibetan medicine",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Jackson_A History of Tibetan Studies",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Jackson_A History of Tibetan Studies.txt#0",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

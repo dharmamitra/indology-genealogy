@@ -1,0 +1,88 @@
+{
+ "author": "梶浦晉",
+ "doc_kind": "article",
+ "doc_year": 2001,
+ "people": [
+  {
+   "name": "梶浦晉",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "後藤昭雄",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "落合俊典",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "後藤昭雄",
+   "type": "position_at",
+   "object": "大阪大學",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "近年にいたって大阪大學の後藤昭雄教授によって、金剛寺所藏典籍のうち國文學・漢文學關係の資料が相次いで研究・紹介されている。",
+   "quote_ok": true
+  },
+  {
+   "subject": "梶浦晉",
+   "type": "collaborated_with",
+   "object": "後藤昭雄",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "筆者は、同寺に願い出て後藤敎授の作業に參加させていただき、その過程で金剛寺一切經中より從來その存在が知られなかった古逸の經典を見いだすことができた。",
+   "quote_ok": false
+  },
+  {
+   "subject": "落合俊典",
+   "type": "position_at",
+   "object": "華頂短期大學",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "『弘明集』所收「奉法要」の記事等は落合俊典華頂短期大學教授の御教示によるものである。",
+   "quote_ok": true
+  },
+  {
+   "subject": "梶浦晉",
+   "type": "collaborated_with",
+   "object": "落合俊典",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "現在、落合敎授を中心に『安般守意經』の會讀を行っており、新出『佛說十二門經』「佛說鮮十二門經」とともにその内容について順次報告していく豫定である。",
+   "quote_ok": false
+  }
+ ],
+ "docid": "kajiura 梶浦　晋_2001",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/kajiura 梶浦　晋_2001.txt",
+ "meta": {
+  "title": "金剛寺一切經と新出安世高譯佛典",
+  "author": "梶浦 晋",
+  "year": 2001,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

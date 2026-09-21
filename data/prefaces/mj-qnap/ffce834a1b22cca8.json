@@ -1,0 +1,64 @@
+{
+ "author": "Cecil Bendall",
+ "doc_kind": "other",
+ "doc_year": 1883,
+ "people": [
+  {
+   "name": "Cecil Bendall",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Cowell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Eggeling",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Cecil Bendall",
+   "type": "collaborated_with",
+   "object": "Cowell",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "When therefore he suggested that I should endeavour to complete it, I commenced at first on the MSS. that he had left untouched, availing myself however of the material that he kindly made over to me.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Cowell",
+   "type": "collaborated_with",
+   "object": "Eggeling",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "chiefly on the lines of the Catalogue prepared by himself and Dr Eggeling for the Royal Asiatic Society",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Bendall Catalogue Buddh Mss Cambridge",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Bendall Catalogue Buddh Mss Cambridge.txt",
+ "meta": {
+  "title": "Catalogue of the Buddhist Sanskrit Manuscripts in the University Library, Cambridge, with Introductory Notices and Illustrations of the Palæography and Chronology of Nepal and Bengal",
+  "author": "Bendall, Cecil",
+  "year": 1883,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

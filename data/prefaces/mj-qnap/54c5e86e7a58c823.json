@@ -1,0 +1,76 @@
+{
+ "author": "Sengaku Mayeda",
+ "doc_kind": "text_edition",
+ "doc_year": 1979,
+ "people": [
+  {
+   "name": "Sengaku Mayeda",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indian philosophy"
+  },
+  {
+   "name": "Trevor Leggett",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Japanese Buddhism"
+  },
+  {
+   "name": "Marie G. Wanek",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indian philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Marie G. Wanek",
+   "type": "student_of",
+   "object": "Sengaku Mayeda",
+   "role": "teacher",
+   "place": "University of Pennsylvania",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Thanks are also due to Dr. Marie G. Wanek, my former student in Indian philosophy at the University of Pennsylvania",
+   "quote_ok": true
+  },
+  {
+   "subject": "Marie G. Wanek",
+   "type": "studied_at",
+   "object": "University of Pennsylvania",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Marie G. Wanek, my former student in Indian philosophy at the University of Pennsylvania",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sengaku Mayeda",
+   "type": "position_at",
+   "object": "University of Pennsylvania",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "my former student in Indian philosophy at the University of Pennsylvania",
+   "quote_ok": true
+  }
+ ],
+ "docid": "upad_trl_intro",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/upad_trl_intro.txt",
+ "meta": {
+  "title": "A THOUSAND TEACHINGS: The Upadeśasāhasrī of Śaṅkara",
+  "author": "Mayeda, Sengaku",
+  "year": 1979,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

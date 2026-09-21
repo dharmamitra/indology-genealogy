@@ -1,0 +1,64 @@
+{
+ "author": "Edward Byles Cowell",
+ "doc_kind": "text_edition",
+ "doc_year": 1882,
+ "people": [
+  {
+   "name": "Edward Byles Cowell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "A. E. Gough",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rāmanārāyaṇa Vidyāratna",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Edward Byles Cowell",
+   "type": "collaborated_with",
+   "object": "A. E. Gough",
+   "role": "co-translators",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I. The Chárváka System (E. B. C.) . . . . 2\nII. The Bauddha System (A. E. G.) . . . . 12",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Byles Cowell",
+   "type": "influenced_by",
+   "object": "Rāmanārāyaṇa Vidyāratna",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I give them as I have heard them from Paṇḍit Rāmanārāyaṇa Vidyāratna.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Sarvadarsanasamgraha_Madhava_Trans_Cowell_1882",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Sarvadarsanasamgraha_Madhava_Trans_Cowell_1882.txt",
+ "meta": {
+  "title": "The Buddhist Philosophy of Universal Flux",
+  "author": "Satkari Mookerjee",
+  "year": 1935,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

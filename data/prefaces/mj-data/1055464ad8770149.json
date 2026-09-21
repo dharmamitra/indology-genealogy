@@ -1,0 +1,90 @@
+{
+ "author": "浪花宣明",
+ "doc_kind": "festschrift",
+ "doc_year": 2005,
+ "people": [
+  {
+   "name": "浪花宣明",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "長崎法潤",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "笠原研寿",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "南条文雄",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "マックス・ミュラー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "浪花宣明",
+   "type": "position_at",
+   "object": "東方研究会",
+   "role": "研究員",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "(なにわ・せんみょう 東方研究会研究員)",
+   "quote_ok": true
+  },
+  {
+   "subject": "長崎法潤",
+   "type": "studied_at",
+   "object": "ナーランダ仏教研究所",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "若き日の先生が、ナーランダ仏教研究所に学んでいたときの話",
+   "quote_ok": true
+  },
+  {
+   "subject": "笠原研寿",
+   "type": "student_of",
+   "object": "マックス・ミュラー",
+   "role": "teacher",
+   "place": "Oxford",
+   "year_start": 1881,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "英国滞在中の笠原がいかに勤勉で誠実な学徒であったかを絶賛するマックス・ミュラーの序文があった。……明治十四年(一八八一年)の秋、笠原研寿はオクスフォードに滞在し、ミュラーの計らいで",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Naniwa_浪花宣明_2005@原始仏教の無我説ー「非我説」に対する期待と疑問ー",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Naniwa_浪花宣明_2005@原始仏教の無我説ー「非我説」に対する期待と疑問ー.txt",
+ "meta": {
+  "title": "原始仏教の無我説ー「非我説」に対する期待と疑問ー",
+  "author": "浪花宣明",
+  "year": 2005,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,83 @@
+{
+ "author": "鳥居久靖",
+ "doc_kind": "article",
+ "doc_year": 1957,
+ "people": [
+  {
+   "name": "鳥居久靖",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Sinology"
+  },
+  {
+   "name": "長沢規矩也",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Sinology"
+  },
+  {
+   "name": "太田辰夫",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Sinology"
+  },
+  {
+   "name": "入矢義高",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Sinology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "鳥居久靖",
+   "type": "other",
+   "object": "太田辰夫",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "畏友太田辰夫氏蔵本（以下太田本と略称）によって、その大要を記す。",
+   "quote_ok": true
+  },
+  {
+   "subject": "鳥居久靖",
+   "type": "student_of",
+   "object": "長沢規矩也",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "【後記】本稿を草するに当り、資料借覧の便を与えられた長沢規矩也・太田辰夫の両氏、ならびに折にふれ垂教をたまわった長沢・入矢義高両氏に厚く御礼申し上げる。",
+   "quote_ok": false
+  },
+  {
+   "subject": "鳥居久靖",
+   "type": "student_of",
+   "object": "入矢義高",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "ならびに折にふれ垂教をたまわった長沢・入矢義高両氏に厚く御礼申し上げる。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "torii_195703_鳥居久靖",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/torii_195703_鳥居久靖.txt",
+ "meta": {
+  "title": "日本人編纂中國俗語辭書の若干について",
+  "author": "鳥居, 久靖",
+  "year": 1956,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,119 @@
+{
+ "author": "高崎直道",
+ "doc_kind": "other",
+ "doc_year": 1976,
+ "people": [
+  {
+   "name": "高崎直道",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "山口益",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "中村瑞隆",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "宇井伯寿",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indian philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "高崎直道",
+   "type": "position_at",
+   "object": "駒澤大学",
+   "role": null,
+   "place": "Tokyo",
+   "year_start": 1957,
+   "year_end": 1969,
+   "explicit": true,
+   "evidence": "昭和三十二年から四十四年までの十二年間、非常勤なり専任なりでこちらに伺っておったものでございます。",
+   "quote_ok": false
+  },
+  {
+   "subject": "高崎直道",
+   "type": "position_at",
+   "object": "大阪大学",
+   "role": null,
+   "place": null,
+   "year_start": 1969,
+   "year_end": 1975,
+   "explicit": true,
+   "evidence": "七年前にこの大学を退きまして関西の方に移り、大阪大学に勤めておりました。六年半でまた東京にもどることになりまして",
+   "quote_ok": false
+  },
+  {
+   "subject": "高崎直道",
+   "type": "position_at",
+   "object": "駒澤大学",
+   "role": null,
+   "place": "Tokyo",
+   "year_start": 1976,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "再び今年からこちらの大学の教壇で講義をするようになったものでございます。",
+   "quote_ok": false
+  },
+  {
+   "subject": "中村瑞隆",
+   "type": "position_at",
+   "object": "立正大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "今立正大学の教授をされております中村瑞隆先生",
+   "quote_ok": true
+  },
+  {
+   "subject": "中村瑞隆",
+   "type": "student_of",
+   "object": "山口益",
+   "role": "teacher",
+   "place": "京都的大谷大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "京都の大谷大学にはありまして、山口益先生を中心にして、若い学者の方がずっとこれを戦争中に読んでおられたようであります。そのころのことにつきましては、今立正大学の教授をされております中村瑞隆先生が、そのころ大学院生であられたのか、その席で一緒に講読をしていた",
+   "quote_ok": true
+  },
+  {
+   "subject": "高崎直道",
+   "type": "studied_at",
+   "object": "プーナ大学",
+   "role": "PhD",
+   "place": "Pune",
+   "year_start": 1954,
+   "year_end": 1957,
+   "explicit": true,
+   "evidence": "昭和二十九年にインドにまいりました時に、まっ先にこの本を手に入れました。それをたずさえて留学先でありますプーナにまいりました。インドには、それから三十二年の始めまでおりました。[...] プーナ大学の Ph. D. (ドクター・オブ・フィロソフィ) 論文として提出",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Takasaki_高崎直道_1976@公開講演_如来蔵思想の形成",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Takasaki_高崎直道_1976@公開講演_如来蔵思想の形成.txt",
+ "meta": {
+  "title": "公開講演 如来蔵思想の形成",
+  "author": "高崎, 直道",
+  "year": 1976,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

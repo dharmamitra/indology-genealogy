@@ -1,0 +1,79 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 1983,
+ "people": [
+  {
+   "name": "C.T. Shen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhism"
+  },
+  {
+   "name": "Fayen Koo",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Janet Gyatso",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Yin Shun",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "C.T. Shen",
+   "type": "position_at",
+   "object": "Buddhist Association of the United States",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mr. C.T. Shen of the Buddhist Association of the United States launched a project to translate the Chinese Tripitaka into English.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fayen Koo",
+   "type": "collaborated_with",
+   "object": "C.T. Shen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1976,
+   "explicit": true,
+   "evidence": "Under the leadership of Mr. Shen and Mr. Fayen Koo, the translation of the tire Mahāratnakūta Sūtra, totalling more than a million words, was completed in the fall of 1976.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Janet Gyatso",
+   "type": "collaborated_with",
+   "object": "Fayen Koo",
+   "role": "editor / reviewer",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Translators: Fayen Koo Editors: Yang-chu Hsu Walter Hsieh Janet Gyatso",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "cleaned_Treasury of Mahayana Sutras. Selections from the Maharatnakuta Sutra_Garma C . C. Chang, 1983",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Treasury of Mahayana Sutras. Selections from the Maharatnakuta Sutra_Garma C . C. Chang, 1983.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,116 @@
+{
+ "author": "Giuseppe Tucci",
+ "doc_kind": "text_edition",
+ "doc_year": 1958,
+ "people": [
+  {
+   "name": "Giuseppe Tucci",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Italian",
+   "field": null
+  },
+  {
+   "name": "R. Gnoli",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "V. V. Gokhale",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Muni Jambuvijaya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "P. Demiéville",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "H. E. Richardson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "P. Daffinà",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "R. Gnoli",
+   "type": "student_of",
+   "object": "Giuseppe Tucci",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in collaboration with my pupil, Doctor R. Gnoli, we were able to transcribe the complete text.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Giuseppe Tucci",
+   "type": "collaborated_with",
+   "object": "R. Gnoli",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in collaboration with my pupil, Doctor R. Gnoli, we were able to transcribe the complete text.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Giuseppe Tucci",
+   "type": "other",
+   "object": "V. V. Gokhale",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The Ratnagotra-upadeśa of Sajjanapāda I sent for publication to my friend V. V. Gokhale",
+   "quote_ok": true
+  },
+  {
+   "subject": "Giuseppe Tucci",
+   "type": "collaborated_with",
+   "object": "P. Daffinà",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The indices will be published when the series is concluded. To their compilation Dr. P. Daffinà is attending.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Minor Buddhist Texts, p.ii, Tucci_1958",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Minor Buddhist Texts, p.ii, Tucci_1958.txt",
+ "meta": {
+  "title": "Minor Buddhist Texts, Part II",
+  "author": "Tucci, Giuseppe",
+  "year": 1958,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

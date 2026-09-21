@@ -1,0 +1,121 @@
+{
+ "author": "塚本啓祥",
+ "doc_kind": "festschrift",
+ "doc_year": 1991,
+ "people": [
+  {
+   "name": "古坂紘一",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "羽田野伯猷",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "塚本啓祥",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "磯田熙文",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indology"
+  },
+  {
+   "name": "伊藤道哉",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indology"
+  },
+  {
+   "name": "金倉圓照",
+   "birth_year": null,
+   "death_year": 1986,
+   "nationality": "Japan",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "古坂紘一",
+   "type": "student_of",
+   "object": "羽田野伯猷",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "本稿は故羽田野伯猷先生の御指導による菩薩地研究の成果の一部である。",
+   "quote_ok": true
+  },
+  {
+   "subject": "古坂紘一",
+   "type": "position_at",
+   "object": "大阪教育大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "古坂紘一 ふるさか・こういち 大阪教育大学教授、文修",
+   "quote_ok": true
+  },
+  {
+   "subject": "塚本啓祥",
+   "type": "position_at",
+   "object": "東北大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1991,
+   "explicit": true,
+   "evidence": "平成三年九月一日 東北大学印度学仏教史研究室・塚本啓祥",
+   "quote_ok": true
+  },
+  {
+   "subject": "塚本啓祥",
+   "type": "collaborated_with",
+   "object": "磯田熙文",
+   "role": "co-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1991,
+   "explicit": true,
+   "evidence": "本書の編集と出版事業の運営に携わった磯田熙文・伊藤道哉の両氏",
+   "quote_ok": true
+  },
+  {
+   "subject": "塚本啓祥",
+   "type": "collaborated_with",
+   "object": "伊藤道哉",
+   "role": "co-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1991,
+   "explicit": true,
+   "evidence": "本書の編集と出版事業の運営に携わった磯田熙文・伊藤道哉の両氏",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Furusaka_古坂紘一_1991@如来の三十二相に関する因果観―特に『菩薩地』を中心として―",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Furusaka_古坂紘一_1991@如来の三十二相に関する因果観―特に『菩薩地』を中心として―.txt",
+ "meta": {
+  "title": "如来の三十二相に関する因果観――特に『菩薩地』を中心として――",
+  "author": "古坂, 紘一",
+  "year": 1991,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

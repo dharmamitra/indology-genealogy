@@ -1,0 +1,83 @@
+{
+ "author": "S. S. Saith",
+ "doc_kind": "other",
+ "doc_year": 1941,
+ "people": [
+  {
+   "name": "S. S. Saith",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "A. C. Woolner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Lakshman Sarup",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Bala Sahai Shastri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "S. S. Saith",
+   "type": "position_at",
+   "object": "Panjab University Library",
+   "role": "Librarian",
+   "place": "Lahore",
+   "year_start": 1941,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Panjab University Library, Lahore, December, 1941. S. S. Saith, Librarian.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Lakshman Sarup",
+   "type": "position_at",
+   "object": "Panjab University",
+   "role": "University Professor of Sanskrit",
+   "place": "Lahore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "described by Dr. Lakshman Sarup, M. A., D. Phil., University Professor of Sanskrit in his learned introduction",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bala Sahai Shastri",
+   "type": "position_at",
+   "object": "Panjab University Library",
+   "role": "in-charge, Sanskrit Section",
+   "place": "Lahore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pt. Bala Sahai Shastri, in-charge, Sanskrit Section, carried out the preparatory and press work.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Contents",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Contents.txt",
+ "meta": {
+  "title": "Catalogue of Sanskrit Manuscripts of the Panjab University",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

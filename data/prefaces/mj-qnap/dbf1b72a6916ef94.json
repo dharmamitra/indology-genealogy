@@ -1,0 +1,72 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1901,
+ "people": [
+  {
+   "name": "Richard Carnac Temple",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Dr. Hultzsch",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "epigraphy"
+  },
+  {
+   "name": "Dr. Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "epigraphy"
+  },
+  {
+   "name": "Rev. F. Kittel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "lexicography"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Richard Carnac Temple",
+   "type": "position_at",
+   "object": "The Indian Antiquary",
+   "role": "Editor",
+   "place": null,
+   "year_start": 1901,
+   "year_end": 1901,
+   "explicit": true,
+   "evidence": "THE INDIAN ANTIQUARY, A JOURNAL OF ORIENTAL RESEARCH... EDITED BY RICHARD CARNAC TEMPLE, C.I.E., LIEUT.-COLONEL, INDIAN STAFF CORPS. VOL. XXX. — 1901.",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Dr. Hultzsch",
+   "type": "position_at",
+   "object": "Government of India",
+   "role": "Government Epigraphist",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "under the direction of the Government Epigraphist, Dr. Hultzsch.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "indian_antiquary_30_1901",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/indian_antiquary_30_1901.txt",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

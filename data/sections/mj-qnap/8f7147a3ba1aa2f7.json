@@ -1,0 +1,130 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1895,
+ "people": [
+  {
+   "name": "Sir Henry Rawlinson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Cuneiform Research"
+  },
+  {
+   "name": "Paul Haupt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": null
+  },
+  {
+   "name": "Grotefend",
+   "birth_year": null,
+   "death_year": 1853,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Eugène Burnouf",
+   "birth_year": null,
+   "death_year": 1852,
+   "nationality": "French",
+   "field": "Asiatic languages"
+  },
+  {
+   "name": "Christian Lassen",
+   "birth_year": null,
+   "death_year": 1876,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Edwin Norris",
+   "birth_year": null,
+   "death_year": 1872,
+   "nationality": null,
+   "field": "Cuneiform Philology"
+  },
+  {
+   "name": "Hincks",
+   "birth_year": null,
+   "death_year": 1866,
+   "nationality": "Irish",
+   "field": "decipherment"
+  },
+  {
+   "name": "Henry Talbot",
+   "birth_year": null,
+   "death_year": 1877,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "James Legge",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sinology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sir Henry Rawlinson",
+   "type": "position_at",
+   "object": "Royal Asiatic Society",
+   "role": "Director",
+   "place": "London",
+   "year_start": 1862,
+   "year_end": 1895,
+   "explicit": true,
+   "evidence": "He was elected a Member of this Society in 1847, and Director in 1862, which office he held by annual re-election, up to the date of his death, for 33 years.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir Henry Rawlinson",
+   "type": "position_at",
+   "object": "Royal Asiatic Society",
+   "role": "President",
+   "place": "London",
+   "year_start": 1878,
+   "year_end": 1881,
+   "explicit": true,
+   "evidence": "He was President of the Society from 1878 to May, 1881.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edwin Norris",
+   "type": "position_at",
+   "object": "Royal Asiatic Society",
+   "role": "Assistant-Honorary Secretary and Honorary Librarian",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Edwin Norris, for thirty-five years Assistant- Honorary Secretary and Honorary Librarian of this Society",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Legge",
+   "type": "position_at",
+   "object": "University of Oxford",
+   "role": "Professor",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "By Professor LEGGE, Oxford.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "JRASGBI1895a",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/JRASGBI1895a.txt#0",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,83 @@
+{
+ "author": "前田専学",
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "前田専学",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indology"
+  },
+  {
+   "name": "S.S. Suryanarayana Sastri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "India",
+   "field": "Indian Philosophy"
+  },
+  {
+   "name": "R. Balasubramanian",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "India",
+   "field": null
+  },
+  {
+   "name": "V.K.S.N. Raghavan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "India",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "前田専学",
+   "type": "position_at",
+   "object": "東京大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "(東京大学教授) 前田 専学",
+   "quote_ok": true
+  },
+  {
+   "subject": "S.S. Suryanarayana Sastri",
+   "type": "position_at",
+   "object": "マドラス大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "マドラス大学で教鞭をとっていたシャーストリー (S.S. Suryanarayana Sastri)",
+   "quote_ok": false
+  },
+  {
+   "subject": "R. Balasubramanian",
+   "type": "collaborated_with",
+   "object": "V.K.S.N. Raghavan",
+   "role": "co-translators / co-editors",
+   "place": null,
+   "year_start": 1982,
+   "year_end": 1982,
+   "explicit": true,
+   "evidence": "Ed. by R. Balasubramanian and V.K.S.N. Raghavan. Madras: University of Madras, 1982. ... バーラスプラマニアンとラガヴァン(V.K.S.N. Raghavan)は、第V章の英訳を行なった",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Mayeda_前田專学",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Mayeda_前田專学.txt",
+ "meta": {
+  "title": "シヴァ教諸派の成立と展開――シャイヴァ・シッダーンタを中心にして",
+  "author": "前田 専学",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

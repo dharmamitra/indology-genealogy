@@ -1,0 +1,71 @@
+{
+ "author": null,
+ "doc_kind": "festschrift",
+ "doc_year": 1982,
+ "people": [
+  {
+   "name": "壬生台舜",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Kenji Watanabe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Jozef Deleu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "壬生台舜",
+   "type": "position_at",
+   "object": "大正大学綜合仏教研究所",
+   "role": "所長",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "梵文学研究室主任、仏教学研究室主任、図書館長、大正大学綜合仏教研究所所長等を歴任され",
+   "quote_ok": true
+  },
+  {
+   "subject": "壬生台舜",
+   "type": "position_at",
+   "object": "大正大学",
+   "role": "図書館長",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "梵文学研究室主任、仏教学研究室主任、図書館長、大正大学綜合仏教研究所所長等を歴任され",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kenji Watanabe",
+   "type": "influenced_by",
+   "object": "Jozef Deleu",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I would like to express my indebtedness and gratitude to Prof. Dr. Jozef Deleu whose knowledge of Jaina Prakrit has been a great help to me",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Kyodo_A Study of the Buddhist Manuscripts of Dunhuang",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Kyodo_A Study of the Buddhist Manuscripts of Dunhuang.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

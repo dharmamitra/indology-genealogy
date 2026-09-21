@@ -1,0 +1,88 @@
+{
+ "author": "櫻部建",
+ "doc_kind": "monograph",
+ "doc_year": 1960,
+ "people": [
+  {
+   "name": "櫻部建"
+  },
+  {
+   "name": "Th. Stcherbatsky"
+  },
+  {
+   "name": "O. Rosenberg"
+  },
+  {
+   "name": "寺本婉雅"
+  },
+  {
+   "name": "山口益"
+  },
+  {
+   "name": "L. V. Poussin"
+  },
+  {
+   "name": "V. V. Gokhale"
+  },
+  {
+   "name": "荻原雲來"
+  },
+  {
+   "name": "木村泰賢"
+  },
+  {
+   "name": "西義雄"
+  },
+  {
+   "name": "舟橋一哉"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "O. Rosenberg",
+   "type": "student_of",
+   "object": "Th. Stcherbatsky",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "漢譯の參照については、スチェルバッキー門下の鬼才○・ローゼンベルクの助力があつたことを、譯者自らその序文に記している。",
+   "quote_ok": true
+  },
+  {
+   "subject": "寺本婉雅",
+   "type": "collaborated_with",
+   "object": "山口益",
+   "role": "co-translators",
+   "place": null,
+   "year_start": null,
+   "year_end": 1922,
+   "explicit": true,
+   "evidence": "「西藏文俱舍論破我品譯」寺本婉雅・山口益、(「佛教研究」二ノ一・二、一九二二)",
+   "quote_ok": true
+  },
+  {
+   "subject": "荻原雲來",
+   "type": "collaborated_with",
+   "object": "木村泰賢",
+   "role": "co-translators",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "荻原・木村兩博士による國譯大藏經所輯の「俱舍論」",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Sakurabe_櫻部建_1960＠破我品の研究",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Sakurabe_櫻部建_1960＠破我品の研究.txt",
+ "meta": {
+  "title": "破我品の研究",
+  "author": "櫻部 建",
+  "year": 1960,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

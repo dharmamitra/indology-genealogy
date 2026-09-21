@@ -1,0 +1,83 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 1871,
+ "people": [
+  {
+   "name": "Georg Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "William Dwight Whitney",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "E. Roer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "E. B. Cowell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Georg Bühler",
+   "type": "position_at",
+   "object": "Bombay",
+   "role": "Professor",
+   "place": "Bombay",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ein von Professor G. Bühler in Bombay am 31. Dec. 1870 erhaltenes gutes Manuscript",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Dwight Whitney",
+   "type": "position_at",
+   "object": "New Haven",
+   "role": "Professor",
+   "place": "New Haven Conn.",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "von Professor W. D. Whitney in New Haven Conn. am 6. März 1871 geliehen erhalten",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. Roer",
+   "type": "collaborated_with",
+   "object": "E. B. Cowell",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "herausgegeben der Reihe nach von E. Roer (nros. 1-8 bis I, 4, 46), von Roer und E. B. Cowell (nros. 9-13 bis I, 8, 19)",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Indische_Studien_11-12_1871=TS",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Indische_Studien_11-12_1871=TS.txt",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

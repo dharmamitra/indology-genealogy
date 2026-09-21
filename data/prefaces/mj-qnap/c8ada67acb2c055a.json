@@ -1,0 +1,84 @@
+{
+ "author": null,
+ "doc_kind": "monograph",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "James Mallinson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Mark Singleton",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Georg Feuerstein",
+   "birth_year": 1947,
+   "death_year": 2012,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Dominik Wujastyk",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Mallinson",
+   "type": "collaborated_with",
+   "object": "Mark Singleton",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": 2017,
+   "explicit": true,
+   "evidence": "Roots of Yoga Translated and edited with an introduction by JAMES MALLINSON and MARK SINGLETON",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "James Mallinson",
+   "type": "influenced_by",
+   "object": "Dominik Wujastyk",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dominik Wujastyk (whose Roots of Āyurveda was an inspiration for this volume).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mark Singleton",
+   "type": "influenced_by",
+   "object": "Dominik Wujastyk",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dominik Wujastyk (whose Roots of Āyurveda was an inspiration for this volume).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Roots of Yoga (Penguin Classics) - James Mallinson",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Roots of Yoga (Penguin Classics) - James Mallinson.txt",
+ "meta": {
+  "title": "Roots of Yoga",
+  "author": "Mallinson, James and Singleton, Mark",
+  "year": 2017,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

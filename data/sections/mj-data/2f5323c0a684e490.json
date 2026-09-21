@@ -1,0 +1,126 @@
+{
+ "author": "長尾雅人",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "長尾雅人",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "目野黙羨",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Religious studies"
+  },
+  {
+   "name": "金岡秀友",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "井上正",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "松浦正昭",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "長尾雅人",
+   "type": "position_at",
+   "object": "京都大学",
+   "role": "名誉教授",
+   "place": "Kyoto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "京都大学名誉教授 長尾 雅人",
+   "quote_ok": true
+  },
+  {
+   "subject": "目野黙羨",
+   "type": "studied_at",
+   "object": "ユング研究所",
+   "role": null,
+   "place": "スイス",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "目野黙羨（みゆき・もくせん スイスのユング研究所を卒業、現在カリフォルニア州立大学の宗教学の教授）",
+   "quote_ok": false
+  },
+  {
+   "subject": "目野黙羨",
+   "type": "position_at",
+   "object": "カリフォルニア州立大学",
+   "role": "宗教学の教授",
+   "place": "California",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "現在カリフォルニア州立大学の宗教学の教授",
+   "quote_ok": false
+  },
+  {
+   "subject": "金岡秀友",
+   "type": "position_at",
+   "object": "東洋大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "金岡秀友東洋大学教授",
+   "quote_ok": false
+  },
+  {
+   "subject": "井上正",
+   "type": "position_at",
+   "object": "奈良大学",
+   "role": "教授",
+   "place": "Nara",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "井上正奈良大学教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "松浦正昭",
+   "type": "position_at",
+   "object": "奈良国立博物館",
+   "role": "仏教美術研究室長",
+   "place": "Nara",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "松浦正昭奈良国立博物館仏教美術研究室長",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Nagao_長尾雅人集II",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Nagao_長尾雅人集II.txt#0",
+ "meta": {
+  "title": "長尾雅人集II",
+  "author": "長尾, 雅人",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

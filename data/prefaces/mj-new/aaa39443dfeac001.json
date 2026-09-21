@@ -1,0 +1,164 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 1963,
+ "people": [
+  {
+   "name": "望月信亨",
+   "birth_year": null,
+   "death_year": 1948,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "塚本善隆",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "大類純",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "沢本貫",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "金山正好",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "土田勝彌",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "鈴木大拙",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "塚本善隆",
+   "type": "student_of",
+   "object": "望月信亨",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "補遺二巻を完成して、恩師望月博士の霊前に捧げて報告し",
+   "quote_ok": true
+  },
+  {
+   "subject": "塚本善隆",
+   "type": "collaborated_with",
+   "object": "大類純",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "編纂代表塚本善隆先生、金山正好・故土田勝彌両先生、編纂主任大類純先生をはじめ",
+   "quote_ok": true
+  },
+  {
+   "subject": "塚本善隆",
+   "type": "collaborated_with",
+   "object": "金山正好",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "編纂代表塚本善隆先生、金山正好・故土田勝彌両先生、編纂主任大類純先生をはじめ",
+   "quote_ok": true
+  },
+  {
+   "subject": "塚本善隆",
+   "type": "collaborated_with",
+   "object": "土田勝彌",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "編纂代表塚本善隆先生、金山正好・故土田勝彌両先生、編纂主任大類純先生をはじめ",
+   "quote_ok": true
+  },
+  {
+   "subject": "沢本貫",
+   "type": "position_at",
+   "object": "財団法人鈴木学術財団",
+   "role": "専務理事",
+   "place": null,
+   "year_start": 1963,
+   "year_end": 1963,
+   "explicit": true,
+   "evidence": "財団法人鈴木学財団 専務理事\n世界聖典刊行協会 常任理事\n沢 本 貫",
+   "quote_ok": true
+  },
+  {
+   "subject": "沢本貫",
+   "type": "position_at",
+   "object": "世界聖典刊行協会",
+   "role": "常任理事",
+   "place": null,
+   "year_start": 1963,
+   "year_end": 1963,
+   "explicit": true,
+   "evidence": "財団法人鈴木学財団 専務理事\n世界聖典刊行協会 常任理事\n沢 本 貫",
+   "quote_ok": true
+  },
+  {
+   "subject": "鈴木大拙",
+   "type": "founded",
+   "object": "世界聖典刊行協会",
+   "role": null,
+   "place": null,
+   "year_start": 1949,
+   "year_end": 1949,
+   "explicit": true,
+   "evidence": "昭和二十四年鈴木大拙博士の発願のもとに、その学徳を中心に世界聖典刊行協会が結成されて以来",
+   "quote_ok": true
+  },
+  {
+   "subject": "鈴木大拙",
+   "type": "position_at",
+   "object": "世界聖典刊行協会",
+   "role": "会長",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "鈴木会長をはじめとする当協会並びに鈴木学財団の役員各位",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Vol 9",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Vol 9.txt",
+ "meta": {
+  "title": "望月佛教大辭典 補遺第一卷",
+  "author": "望月信亨",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

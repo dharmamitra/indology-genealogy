@@ -1,0 +1,99 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 2007,
+ "people": [
+  {
+   "name": "Helena Blankleder",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Wulstan Fletcher",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Alak Zenkar Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Lama Sonam Topgyal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Nyoshul Khen Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Pema Wangyal Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Khenpo Chöga",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Helena Blankleder",
+   "type": "collaborated_with",
+   "object": "Wulstan Fletcher",
+   "role": "translator",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "This text was translated by Helena Blankleder and Wulstan Fletcher of the Padmakara Translation Group.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lama Sonam Topgyal",
+   "type": "student_of",
+   "object": "Nyoshul Khen Rinpoche",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Lama Sonam Topgyal, a disciple of Nyoshul Khen Rinpoche",
+   "quote_ok": true
+  },
+  {
+   "subject": "Khenpo Chöga",
+   "type": "position_at",
+   "object": "Shri Simha College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "presentation of Khenpo Kunpel's commentary given by Khenpo Chöga of Shri Simha College",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Nectar of Manjushri's Speech. Detailed Comm. on Shantideva's Way of the Bodhisattva_Kunzang Pelden, Padmakara Tr. Gr, 2007",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Nectar of Manjushri's Speech. Detailed Comm. on Shantideva's Way of the Bodhisattva_Kunzang Pelden, Padmakara Tr. Gr, 2007.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

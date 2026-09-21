@@ -1,0 +1,110 @@
+{
+ "author": "Fritz Jäger",
+ "doc_kind": "other",
+ "doc_year": 1933,
+ "people": [
+  {
+   "name": "O. Franke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Sinology"
+  },
+  {
+   "name": "Eduard Sachau",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Oriental Studies"
+  },
+  {
+   "name": "Fr. Hirth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sinology"
+  },
+  {
+   "name": "W. W. Rockhill",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Oriental Studies"
+  },
+  {
+   "name": "Wilhelm Grube",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sinology"
+  },
+  {
+   "name": "Herbert Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sinology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "O. Franke",
+   "type": "studied_at",
+   "object": "University of Göttingen",
+   "role": "doctoral student",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": 1886,
+   "explicit": true,
+   "evidence": "1. Die Sarvasammata-Çikshâ mit Commentar, herausgegeben, übersetzt und erklärt. Göttingen 1886 [Dissertation].",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Eduard Sachau",
+   "type": "position_at",
+   "object": "Seminar für Orientalische Sprachen an der Königlichen Friedrich-Wilhelms Universität zu Berlin",
+   "role": "Director",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": 1898,
+   "explicit": true,
+   "evidence": "Mittheilungen des Seminars für Orientalische Sprachen an der Königlichen Friedrich-Wilhelms Universität zu Berlin, herausgegeben dem Director Prof. Dr. Eduard Sachau. Jahrgang I (Berlin und Stuttgart 1898)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fr. Hirth",
+   "type": "collaborated_with",
+   "object": "W. W. Rockhill",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1912,
+   "explicit": true,
+   "evidence": "Fr. Hirth and W. W. Rockhill, Chau-Ju-Kua: His Work on the Chinese and Arab Trade in the twelfth and thirteenth Centuries, entitled Chu-fan-chi. St. Petersburg 1912.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Herbert Müller",
+   "type": "collaborated_with",
+   "object": "Wilhelm Grube",
+   "role": "editor/completer of translation",
+   "place": null,
+   "year_start": null,
+   "year_end": 1912,
+   "explicit": true,
+   "evidence": "Übersetzung der Kapitel 1 bis 46 von Wilhelm Grube. Durch eine Inhaltsangabe der Kapitel 47 bis 100 ergänzt, eingeleitet und herausgegeben von Herbert Müller. Band I. Leiden 1912.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "AM1933-3",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/AM1933-3.txt",
+ "meta": {
+  "title": "Bibliographie der Schriften von Professor Dr. O. Franke",
+  "author": "Jäger, Fritz",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

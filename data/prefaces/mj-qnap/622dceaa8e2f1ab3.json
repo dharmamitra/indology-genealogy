@@ -1,0 +1,108 @@
+{
+ "author": null,
+ "doc_kind": "edited_volume",
+ "doc_year": 2007,
+ "people": [
+  {
+   "name": "Ann Heirman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Stephan Peter Bumbacher",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Pol Vanden Broucke",
+   "birth_year": 1957,
+   "death_year": 2004,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sem Vermeersch",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ann Heirman",
+   "type": "collaborated_with",
+   "object": "Stephan Peter Bumbacher",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": 2007,
+   "explicit": true,
+   "evidence": "The Spread of Buddhism Edited by Ann Heirman and Stephan Peter Bumbacher",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Ann Heirman",
+   "type": "position_at",
+   "object": "Ghent",
+   "role": null,
+   "place": "Ghent",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ann Heirman (Ghent) and Stephan Peter Bumbacher (Tübingen)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stephan Peter Bumbacher",
+   "type": "position_at",
+   "object": "Tübingen",
+   "role": null,
+   "place": "Tübingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ann Heirman (Ghent) and Stephan Peter Bumbacher (Tübingen)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ann Heirman",
+   "type": "other",
+   "object": "Pol Vanden Broucke",
+   "role": "colleague and friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I wish to express my deepest gratitude to my colleague and friend Pol Vanden Broucke, who in the course of this project sadly passed away.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sem Vermeersch",
+   "type": "collaborated_with",
+   "object": "Pol Vanden Broucke",
+   "role": "editor of posthumous paper",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The Accounts of Milbon, Hyet’ong and Myŏngnang in the Samguk yusa .............................................................................................. 277 POL VANDEN BROUCKE†, EDITED BY SEM VERMEERSCH",
+   "quote_ok": true
+  }
+ ],
+ "docid": "The Spread of BuddhismSYD",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/The Spread of BuddhismSYD.txt",
+ "meta": {
+  "title": "The Spread of Buddhism",
+  "author": "Heirman, Ann; Bumbacher, Stephan Peter",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,69 @@
+{
+ "author": "村松",
+ "doc_kind": "journal_volume",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "村松",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Library and Information Science"
+  },
+  {
+   "name": "高橋正隆",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Library and Information Science"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "村松",
+   "type": "position_at",
+   "object": "大谷大学",
+   "role": "専任講師",
+   "place": "京都",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "(村松) ... (本学専任講師 図書館学)",
+   "quote_ok": false
+  },
+  {
+   "subject": "高橋正隆",
+   "type": "position_at",
+   "object": "大谷大学",
+   "role": "教授",
+   "place": "京都",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "付記 小論は先に本学の高橋正隆教授が平成五年十一月十二日、私立大学図書館協会西部地区部会京都地区研修大会において「目録学と図書学、図書館学」と題して講演されたことに啓発され",
+   "quote_ok": true
+  },
+  {
+   "subject": "村松",
+   "type": "influenced_by",
+   "object": "高橋正隆",
+   "role": null,
+   "place": null,
+   "year_start": 1993,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "付記 小論は先に本学の高橋正隆教授が平成五年十一月十二日、私立大学図書館協会西部地区部会京都地区研修大会において「目録学と図書学、図書館学」と題して講演されたことに啓発され、目録学の概略を漢書芸文志、校讎通義、典籍概見の本文に沿って考察したものである。記して学恩を謝す。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "大谷学報75.1_大谷学会",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/大谷学報75.1_大谷学会.txt",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

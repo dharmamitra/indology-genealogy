@@ -1,0 +1,124 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1890,
+ "people": [
+  {
+   "name": "Sir Thomas Edward Colebrooke",
+   "birth_year": 1813,
+   "death_year": 1890,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Henry Thomas Colebrooke",
+   "birth_year": null,
+   "death_year": 1837,
+   "nationality": "British",
+   "field": "Oriental studies"
+  },
+  {
+   "name": "Professor Whitney",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Henry Thomas Colebrooke",
+   "type": "founded",
+   "object": "Royal Asiatic Society",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he was the only surviving son of our Founder, the illustrious scholar Henry Thomas Colebrooke, who died in 1837",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir Thomas Edward Colebrooke",
+   "type": "other",
+   "object": "Henry Thomas Colebrooke",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he was the only surviving son of our Founder, the illustrious scholar Henry Thomas Colebrooke",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir Thomas Edward Colebrooke",
+   "type": "position_at",
+   "object": "Royal Asiatic Society",
+   "role": "President",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sir Thomas Edward Colebrooke, Bart., who had repeatedly filled the office of President, and was still our Vice-President, when he died, January 11, 1890.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir Thomas Edward Colebrooke",
+   "type": "position_at",
+   "object": "Royal Asiatic Society",
+   "role": "Vice-President",
+   "place": null,
+   "year_start": null,
+   "year_end": 1890,
+   "explicit": true,
+   "evidence": "and was still our Vice-President, when he died, January 11, 1890.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir Thomas Edward Colebrooke",
+   "type": "studied_at",
+   "object": "Eton",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was educated at Eton",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir Thomas Edward Colebrooke",
+   "type": "studied_at",
+   "object": "East India College at Haileybury",
+   "role": null,
+   "place": "Hertfordshire",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he was sent to the East India College at Haileybury in Hertfordshire, and arrived in India in 1832.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Professor Whitney",
+   "type": "position_at",
+   "object": "Newhaven",
+   "role": "Professor",
+   "place": "United States",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Whitney of Newhaven, United States",
+   "quote_ok": false
+  }
+ ],
+ "docid": "JRASGBI 1890",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/JRASGBI 1890.txt#0",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

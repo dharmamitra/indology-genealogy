@@ -1,0 +1,121 @@
+{
+ "author": "Daniel Wright",
+ "doc_kind": "monograph",
+ "doc_year": 1877,
+ "people": [
+  {
+   "name": "Daniel Wright",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Munshī Shew Shunker Singh",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Pandit Shrī Gunānand",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Nepalese",
+   "field": null
+  },
+  {
+   "name": "Professor Cowell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Professor Eggeling",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "W. Wright",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Munshī Shew Shunker Singh",
+   "type": "collaborated_with",
+   "object": "Pandit Shrī Gunānand",
+   "role": "co-translators",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was assisted, when necessary, by Pandit Shrī Gunānand",
+   "quote_ok": true
+  },
+  {
+   "subject": "Professor Cowell",
+   "type": "position_at",
+   "object": "University of Cambridge",
+   "role": "Professor",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Cowell of Cambridge",
+   "quote_ok": true
+  },
+  {
+   "subject": "Professor Eggeling",
+   "type": "position_at",
+   "object": "University of Edinburgh",
+   "role": "Professor",
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Eggeling of Edinburgh",
+   "quote_ok": true
+  },
+  {
+   "subject": "W. Wright",
+   "type": "position_at",
+   "object": "University of Cambridge",
+   "role": "Professor",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor W. Wright of Cambridge",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daniel Wright",
+   "type": "other",
+   "object": "W. Wright",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "My brother, Professor W. Wright of Cambridge",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Daniel Wright 1877, History of Nepal",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Daniel Wright 1877, History of Nepal.txt",
+ "meta": {
+  "title": "History of Nepal: With an Introductory Sketch of the Country and People of Nepal",
+  "author": "Wright, Daniel",
+  "year": 1990,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

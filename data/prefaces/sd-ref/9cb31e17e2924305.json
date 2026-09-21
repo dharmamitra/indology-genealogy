@@ -1,0 +1,153 @@
+{
+ "people": [
+  {
+   "name": "Jan Peter F. Hintelmann"
+  },
+  {
+   "name": "Marianne Pieper"
+  },
+  {
+   "name": "Klaus Eichner"
+  },
+  {
+   "name": "Horst W. Opaschowski"
+  },
+  {
+   "name": "Ludwig Fischer"
+  },
+  {
+   "name": "Ralph M. Becker"
+  },
+  {
+   "name": "Paiboon Srichaisawat"
+  },
+  {
+   "name": "Thupten Nyandak"
+  },
+  {
+   "name": "Tenzin Kunga"
+  },
+  {
+   "name": "Sonam Senge"
+  },
+  {
+   "name": "Sonam Rinchen"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jan Peter F. Hintelmann",
+   "type": "studied_at",
+   "object": "Universität Hamburg",
+   "role": "PhD",
+   "explicit": true,
+   "evidence": "Dissertation zur Erlangung des Grades des Doktors der Philosophie im Fachbereich Sozialwissenschaften der Universität Hamburg vorgelegt von Jan Peter F. Hintelmann",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Jan Peter F. Hintelmann",
+   "type": "student_of",
+   "object": "Marianne Pieper",
+   "role": "doctoral supervisor",
+   "explicit": true,
+   "evidence": "Besonderer Dank gilt meiner Betreuerin Frau Prof. Dr. Marianne Pieper für die Unterstützung und Förderung sowie die Annahme des Promotionsthemas.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Marianne Pieper",
+   "type": "position_at",
+   "object": "Universität Hamburg",
+   "role": "Pro-Dekanin des Fachbereichs Sozialwissenschaften",
+   "explicit": true,
+   "evidence": "Prof. Dr. Marianne Pieper, Pro-Dekanin des Fachbereichs Sozialwissenschaften",
+   "quote_ok": true
+  },
+  {
+   "subject": "Klaus Eichner",
+   "type": "position_at",
+   "object": "Universität Hamburg",
+   "role": "Dekan des Fachbereichs Sozialwissenschaften",
+   "explicit": true,
+   "evidence": "Prof. Dr. Klaus Eichner, Dekan des Fachbereichs Sozialwissenschaften",
+   "quote_ok": true
+  },
+  {
+   "subject": "Horst W. Opaschowski",
+   "type": "position_at",
+   "object": "Universität Hamburg",
+   "role": "Professor für Erziehungswissenschaft",
+   "explicit": true,
+   "evidence": "Herr Prof. Dr. Horst W. Opaschowski, Professor für Erziehungswissenschaft an der Universität Hamburg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ludwig Fischer",
+   "type": "position_at",
+   "object": "Institut für Germanistik II",
+   "role": "Prof. Dr.",
+   "explicit": true,
+   "evidence": "Herrn Prof. Dr. Ludwig Fischer, vom Institut für Germanistik II",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ralph M. Becker",
+   "type": "position_at",
+   "object": "Universität Hamburg",
+   "role": "Dr.",
+   "explicit": true,
+   "evidence": "Herrn Dr. Ralph M. Becker vom Fachbereich Kulturgeschichte und Kulturkunde der Universität Hamburg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paiboon Srichaisawat",
+   "type": "position_at",
+   "object": "Bangkok University",
+   "role": "Ass. Prof. von der Faculty of Physical Education",
+   "explicit": true,
+   "evidence": "Ass. Prof. Paiboon Srichaisawat von der Faculty of Physical Education-Bangkok University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Peter F. Hintelmann",
+   "type": "student_of",
+   "object": "Thupten Nyandak",
+   "role": "traditional teacher",
+   "explicit": true,
+   "evidence": "Stellvertretend für alle meine chinesischen, thailändischen, tibetischen und amerikanischen Freunde und Lehrer danke ich [...] Pema-Lama Thupten Nyandak",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Peter F. Hintelmann",
+   "type": "student_of",
+   "object": "Tenzin Kunga",
+   "role": "traditional teacher",
+   "explicit": true,
+   "evidence": "Stellvertretend für alle meine chinesischen, thailändischen, tibetischen und amerikanischen Freunde und Lehrer danke ich [...] Venerable Tenzin Kunga",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Peter F. Hintelmann",
+   "type": "student_of",
+   "object": "Sonam Senge",
+   "role": "traditional teacher",
+   "explicit": true,
+   "evidence": "Stellvertretend für alle meine chinesischen, thailändischen, tibetischen und amerikanischen Freunde und Lehrer danke ich [...] Venerable Geshe Sonam Senge",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Peter F. Hintelmann",
+   "type": "student_of",
+   "object": "Sonam Rinchen",
+   "role": "traditional teacher",
+   "explicit": true,
+   "evidence": "Stellvertretend für alle meine chinesischen, thailändischen, tibetischen und amerikanischen Freunde und Lehrer danke ich [...] Venerable Geshe Sonam Rinchen",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Fernöstliche Kampfkunst, Lebenskraftkonzepte und Selbsttransformationstechnologien_Jan Peter F. Hintelmann, 2009",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Fernöstliche Kampfkunst, Lebenskraftkonzepte und Selbsttransformationstechnologien_Jan Peter F. Hintelmann, 2009.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

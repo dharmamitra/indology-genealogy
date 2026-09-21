@@ -1,0 +1,64 @@
+{
+ "author": "Patrick Olivelle",
+ "doc_kind": "text_edition",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Patrick Olivelle",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Laxman Shastri Joshi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "Saroja Bhate",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Laxman Shastri Joshi",
+   "type": "position_at",
+   "object": "Prājña Pāṭhaśālā",
+   "role": "Director",
+   "place": "Wai",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I remember going to Wai in Maharashtra to the Prājña Pāṭhaśālā in the 1970s and 1980s. The Director Laxman Shastri Joshi was the epitome of hospitality and kindness.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Patrick Olivelle",
+   "type": "collaborated_with",
+   "object": "Saroja Bhate",
+   "role": "collator",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Foremost among the individuals is Dr. Saroja Bhate and her group of students who collated many manuscripts.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Olivelle (2020) ed. Yājñavalkya Dharmaśāstra. The Textual History of a Hindu Legal Code",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Olivelle (2020) ed. Yājñavalkya Dharmaśāstra. The Textual History of a Hindu Legal Code.txt",
+ "meta": {
+  "title": "Yājñavalkya Dharmaśāstra: The Textual History of a Hindu Legal Code",
+  "author": "Olivelle, Patrick",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

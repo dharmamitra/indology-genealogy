@@ -1,0 +1,157 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 2014,
+ "people": [
+  {
+   "name": "Eugène Burnouf",
+   "birth_year": 1801,
+   "death_year": 1852,
+   "nationality": "French",
+   "field": "orientalist"
+  },
+  {
+   "name": "Jean-Louis Burnouf",
+   "birth_year": 1775,
+   "death_year": 1844,
+   "nationality": "French",
+   "field": "classicist"
+  },
+  {
+   "name": "Chézy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Dwight Goddard",
+   "birth_year": 1861,
+   "death_year": 1939,
+   "nationality": "American",
+   "field": null
+  },
+  {
+   "name": "Gombojab",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Mongolian",
+   "field": "translator"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Eugène Burnouf",
+   "type": "student_of",
+   "object": "Jean-Louis Burnouf",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He received instruction in Greek and Latin from his father and studied at the Lycée Louis-le-Grand.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eugène Burnouf",
+   "type": "other",
+   "object": "Jean-Louis Burnouf",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the son of the distinguished classicist Jean-Louis Burnouf (1775–1844).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eugène Burnouf",
+   "type": "studied_at",
+   "object": "Lycée Louis-le-Grand",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied at the Lycée Louis-le-Grand.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eugène Burnouf",
+   "type": "studied_at",
+   "object": "École des Chartes",
+   "role": "degrees in both letters and law",
+   "place": null,
+   "year_start": 1822,
+   "year_end": 1824,
+   "explicit": true,
+   "evidence": "He entered the École des Chartes in 1822, receiving degrees in both letters and law in 1824.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eugène Burnouf",
+   "type": "student_of",
+   "object": "Chézy",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Burnouf was appointed to succeed his teacher in the chair of Sanskrit at the Collège de France.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eugène Burnouf",
+   "type": "succeeded",
+   "object": "Chézy",
+   "role": null,
+   "place": "Collège de France",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the death of Chézy, Burnouf was appointed to succeed his teacher in the chair of Sanskrit at the Collège de France.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eugène Burnouf",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "chair of Sanskrit",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "appointed to succeed his teacher in the chair of Sanskrit at the Collège de France.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dwight Goddard",
+   "type": "studied_at",
+   "object": "Hartford Theological Seminary",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he enrolled at Hartford Theological Seminary and was ordained as a minister in the Congregational Church.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gombojab",
+   "type": "position_at",
+   "object": "School of the Tibetan Language (Xi fan xue zong guan)",
+   "role": "director",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was appointed by Emperor Yongzheng as director of the School of the Tibetan Language (Xi fan xue zong guan)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Princeton Dictionary of Buddhism_Buswell & Lopez 2014_",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Princeton Dictionary of Buddhism_Buswell & Lopez 2014_.txt#0",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

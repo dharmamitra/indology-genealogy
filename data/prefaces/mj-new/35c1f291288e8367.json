@@ -1,0 +1,183 @@
+{
+ "author": "川瀬貴也",
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "川瀬貴也",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Chung Chin-Hong",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "South Korean",
+   "field": "Religious Studies"
+  },
+  {
+   "name": "Lee Chang-Yick",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "South Korean",
+   "field": "Religious Studies"
+  },
+  {
+   "name": "西村真次",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "History"
+  },
+  {
+   "name": "孫晋泰",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Korean",
+   "field": "Folklore"
+  },
+  {
+   "name": "佐藤",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Religious Studies"
+  },
+  {
+   "name": "赤松智城",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Religious Studies"
+  },
+  {
+   "name": "全京秀",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "South Korean",
+   "field": "Anthropology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Chung Chin-Hong",
+   "type": "position_at",
+   "object": "ソウル大学校宗教学科",
+   "role": "名誉教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "鄭鎮弘氏は現在ソウル大学校宗教学科の名誉教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lee Chang-Yick",
+   "type": "studied_at",
+   "object": "ソウル大学校宗教学科",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "李チャンイク氏もソウル大学校宗教学科出身である",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chung Chin-Hong",
+   "type": "collaborated_with",
+   "object": "Lee Chang-Yick",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "「韓国 Korea」を担当しているのはChung Chin-Hong（鄭鎮弘）と Lee Chang-Yick（李チャンイク）という二人の宗教学者である",
+   "quote_ok": true
+  },
+  {
+   "subject": "孫晋泰",
+   "type": "studied_at",
+   "object": "早稲田大学史学科",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "彼は早稲田大学史学科で西村真次に学んでいる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "孫晋泰",
+   "type": "student_of",
+   "object": "西村真次",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "彼は早稲田大学史学科で西村真次に学んでいる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "佐藤",
+   "type": "succeeded",
+   "object": "赤松智城",
+   "role": "教授",
+   "place": "宗教学・宗教史講座",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "佐藤は赤松の後任として宗教学・宗教史講座の教授となった人物。",
+   "quote_ok": true
+  },
+  {
+   "subject": "佐藤",
+   "type": "position_at",
+   "object": "駒澤大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "戦後は駒澤大学及び東洋大学教授を歴任。",
+   "quote_ok": true
+  },
+  {
+   "subject": "佐藤",
+   "type": "position_at",
+   "object": "東洋大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "戦後は駒澤大学及び東洋大学教授を歴任。",
+   "quote_ok": true
+  },
+  {
+   "subject": "全京秀",
+   "type": "position_at",
+   "object": "ソウル大学",
+   "role": "人類学教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ソウル大人類学教授である全京秀",
+   "quote_ok": true
+  }
+ ],
+ "docid": "rel030s004",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/rel030s004.txt",
+ "meta": {
+  "title": "近代朝鮮半島における「宗教研究」の流れに関するメモ",
+  "author": "川瀬, 貴也",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

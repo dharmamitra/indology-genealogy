@@ -1,0 +1,64 @@
+{
+ "people": [
+  {
+   "name": "Shan Shan Zhao"
+  },
+  {
+   "name": "James Benn"
+  },
+  {
+   "name": "Shayne Clarke"
+  },
+  {
+   "name": "Mark Rowe"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Shan Shan Zhao",
+   "type": "studied_at",
+   "object": "McMaster University",
+   "role": "Master of Arts",
+   "year_end": 2019,
+   "explicit": true,
+   "evidence": "A Thesis Submitted to the School of Graduate Studies in Partial Fulfilment of the Requirements for the Degree Master of Arts ... during my study at McMaster University.",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Shan Shan Zhao",
+   "type": "student_of",
+   "object": "James Benn",
+   "role": "MA supervisor",
+   "year_end": 2019,
+   "explicit": true,
+   "evidence": "I would first like to express my very great appreciation to my supervisor, Dr. James Benn, for his encouragement, patience, and advice during my study and the development of this thesis.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shan Shan Zhao",
+   "type": "student_of",
+   "object": "Shayne Clarke",
+   "role": "teacher",
+   "year_end": 2019,
+   "explicit": true,
+   "evidence": "I would also like to thank Dr. Shayne Clarke and Dr. Mark Rowe for instructing me during my study at McMaster University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shan Shan Zhao",
+   "type": "student_of",
+   "object": "Mark Rowe",
+   "role": "teacher",
+   "year_end": 2019,
+   "explicit": true,
+   "evidence": "I would also like to thank Dr. Shayne Clarke and Dr. Mark Rowe for instructing me during my study at McMaster University.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Protection of the Dharma In Daoxuan’s Continued Biographies of Eminent Monks_Shan Shan Zhao, 2019",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Protection of the Dharma In Daoxuan’s Continued Biographies of Eminent Monks_Shan Shan Zhao, 2019.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,133 @@
+{
+ "author": "松田和信",
+ "doc_kind": "article",
+ "doc_year": 1995,
+ "people": [
+  {
+   "name": "松田和信",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Cecil Bendall",
+   "birth_year": 1856,
+   "death_year": 1907,
+   "nationality": "United Kingdom",
+   "field": "Indology"
+  },
+  {
+   "name": "Louis de La Vallée Poussin",
+   "birth_year": 1869,
+   "death_year": 1938,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Sylvain Lévi",
+   "birth_year": 1863,
+   "death_year": 1935,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "戸田宏文",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "E. Steinkellner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "松田和信",
+   "type": "position_at",
+   "object": "佛教大学総合研究所",
+   "role": "専任研究員 (助教授)",
+   "place": "Kyoto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "松田和信* ... * 佛教大学総合研究所専任研究員 (助教授)",
+   "quote_ok": true
+  },
+  {
+   "subject": "戸田宏文",
+   "type": "position_at",
+   "object": "徳島大学",
+   "role": "教授",
+   "place": "Tokushima",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "徳島大学の戸田宏文教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "松田和信",
+   "type": "collaborated_with",
+   "object": "戸田宏文",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1991,
+   "explicit": true,
+   "evidence": "徳島大学の戸田宏文教授と共同で出版した “Three Sanskrit Fragments of the Saddharmapuṇḍarīka ...”",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. Steinkellner",
+   "type": "position_at",
+   "object": "ウィーン大学",
+   "role": "教授",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ウィーン大学のシュタインケルナー教授 (E. Steinkellner)",
+   "quote_ok": true
+  },
+  {
+   "subject": "松田和信",
+   "type": "collaborated_with",
+   "object": "E. Steinkellner",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1991,
+   "explicit": true,
+   "evidence": "ウィーン大学のシュタインケルナー教授 (E. Steinkellner) と共同で出版した “The Sanskrit Manuscript of Dharmakīrti's Pramāṇaviniścaya ...”",
+   "quote_ok": true
+  },
+  {
+   "subject": "Louis de La Vallée Poussin",
+   "type": "other",
+   "object": "Cecil Bendall",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "写本の写真を譲り受けた友人のラ・ヴァレー・プサン (Louis de La Vallée Poussin, 1869-1938)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "matsuda1995",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/matsuda1995.txt",
+ "meta": {
+  "title": "『解深密経』における菩薩十地の梵文資料",
+  "author": "松田 和信",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,130 @@
+{
+ "author": "阿辻哲次",
+ "doc_kind": "monograph",
+ "doc_year": 1985,
+ "people": [
+  {
+   "name": "阿辻哲次",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Sinology"
+  },
+  {
+   "name": "尾崎雄二郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Sinology"
+  },
+  {
+   "name": "吉川幸次郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Sinology"
+  },
+  {
+   "name": "周叔弢",
+   "birth_year": 1890,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": "bibliography"
+  },
+  {
+   "name": "周一良",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": "history"
+  },
+  {
+   "name": "王萱鈴",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": null
+  },
+  {
+   "name": "王引之",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": null
+  },
+  {
+   "name": "段玉裁",
+   "birth_year": 1735,
+   "death_year": 1815,
+   "nationality": "Chinese",
+   "field": "Sinology"
+  },
+  {
+   "name": "龔麗正",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "周一良",
+   "type": "position_at",
+   "object": "北京大学歴史系",
+   "role": "教授",
+   "place": "北京",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "現在北京大学歴史系の周一良教授は彼の念である。",
+   "quote_ok": true
+  },
+  {
+   "subject": "周一良",
+   "type": "other",
+   "object": "周叔弢",
+   "role": "family",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "現在北京大学歴史系の周一良教授は彼の念である。",
+   "quote_ok": true
+  },
+  {
+   "subject": "王萱鈴",
+   "type": "student_of",
+   "object": "王引之",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "王萱鈴（または王萱齢とも書く）は字は北堂、昌平（河北省）の人で、王引之に師事した学者である。",
+   "quote_ok": true
+  },
+  {
+   "subject": "龔麗正",
+   "type": "other",
+   "object": "段玉裁",
+   "role": "son-in-law",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "段氏の女婿にあたる龔麗正",
+   "quote_ok": true
+  }
+ ],
+ "docid": "atsuji_198503_阿辻哲次",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/atsuji_198503_阿辻哲次.txt#0",
+ "meta": {
+  "title": "漢字学：『説文解字』の世界",
+  "author": "阿辻哲次",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

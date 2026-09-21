@@ -1,0 +1,53 @@
+{
+ "author": "Manfred Taube",
+ "doc_kind": "monograph",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Manfred Taube",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  },
+  {
+   "name": "D. Schuh",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Manfred Taube",
+   "type": "position_at",
+   "object": "Karl-Marx-Universität",
+   "role": null,
+   "place": "Karl-Marx-Platz",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Anschrift des Autors:\nLehr- und Forschungsbereich Süd- und Ostasien der Karl-Marx-Universität\nKarl-Marx-Platz",
+   "quote_ok": true
+  },
+  {
+   "subject": "D. Schuh",
+   "type": "collaborated_with",
+   "object": "Manfred Taube",
+   "role": "editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "von Manfred Taube Beiträge zur Geschichte der medizinischen Literatur Tibets Herausgegeben von D. Schuh",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "cleaned_Taube_Medical Lit in Tibet",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Taube_Medical Lit in Tibet.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

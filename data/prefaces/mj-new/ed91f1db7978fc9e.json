@@ -1,0 +1,76 @@
+{
+ "author": "松本史朗",
+ "doc_kind": "article",
+ "doc_year": 1980,
+ "people": [
+  {
+   "name": "松本史朗",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "山口瑞鳳",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Tibetology"
+  },
+  {
+   "name": "上杉隆英",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "松本史朗",
+   "type": "studied_at",
+   "object": "東京大学大学院",
+   "role": "博士課程",
+   "place": null,
+   "year_start": null,
+   "year_end": 1979,
+   "explicit": true,
+   "evidence": "(まつもと しろう・東京大学大学院博士課程)",
+   "quote_ok": true
+  },
+  {
+   "subject": "上杉隆英",
+   "type": "studied_at",
+   "object": "駒沢大学院",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "駒沢大学院の上杉隆英氏",
+   "quote_ok": true
+  },
+  {
+   "subject": "松本史朗",
+   "type": "student_of",
+   "object": "山口瑞鳳",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "本稿執筆に際し、チベット文の読解において御教示を頂いた山口瑞鳳博士",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Matsumoto Ratnakara 1980 81041",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Matsumoto Ratnakara 1980 81041.txt",
+ "meta": {
+  "title": "Ratnākarasāntiの中観派批判(上)",
+  "author": "松本, 史朗",
+  "year": 1980,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

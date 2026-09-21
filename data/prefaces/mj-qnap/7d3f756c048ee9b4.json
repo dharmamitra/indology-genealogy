@@ -1,0 +1,99 @@
+{
+ "author": "Alex Cherniak",
+ "doc_kind": "text_edition",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John Clay",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jennifer Clay",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sheldon Pollock",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Isabelle Onians",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Clay",
+   "type": "founded",
+   "object": "Clay Sanskrit Library",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "THE CLAY SANSKRIT LIBRARY FOUNDED BY JOHN & JENNIFER CLAY",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Jennifer Clay",
+   "type": "founded",
+   "object": "Clay Sanskrit Library",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "THE CLAY SANSKRIT LIBRARY FOUNDED BY JOHN & JENNIFER CLAY",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Sheldon Pollock",
+   "type": "position_at",
+   "object": "Clay Sanskrit Library",
+   "role": "General Editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "GENERAL EDITOR Sheldon Pollock",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Isabelle Onians",
+   "type": "position_at",
+   "object": "Clay Sanskrit Library",
+   "role": "Editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "EDITED BY Isabelle Onians",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "Clay Mahabharata 6-1 Bhishma",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Clay Mahabharata 6-1 Bhishma.txt",
+ "meta": {
+  "title": "The Clay Sanskrit Library",
+  "author": "Onians, Isabelle",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

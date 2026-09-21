@@ -1,0 +1,155 @@
+{
+ "author": "戸田忠",
+ "doc_kind": "text_edition",
+ "doc_year": 1980,
+ "people": [
+  {
+   "name": "戸田忠",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "東元慶喜",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "水野弘元",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "ウ・ウエープッラ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Myanmar",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "後藤恵照",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "鈴木龍太郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "井沢孝一",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "片山一良",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "阿部慈園",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "戸田忠",
+   "type": "student_of",
+   "object": "東元慶喜",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "東元慶喜先生にパーリ語文法の手ほどきを受け、釈尊仏教の匂いに新鮮な感銘を受けたのを覚えている。",
+   "quote_ok": true
+  },
+  {
+   "subject": "戸田忠",
+   "type": "student_of",
+   "object": "水野弘元",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "水野弘元先生には読本を、特に週一回の先生を中心とした講読の会には7年間にわたり直接教えを受けた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "戸田忠",
+   "type": "collaborated_with",
+   "object": "ウ・ウエープッラ",
+   "role": "co-translators",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "訳註ウ・ウエープッラ 戸田忠",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "戸田忠",
+   "type": "collaborated_with",
+   "object": "後藤恵照",
+   "role": null,
+   "place": "小栗堂",
+   "year_start": 1969,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "小栗堂にて44年春に、後藤恵照師と共に始めたパーリ語の学習会",
+   "quote_ok": true
+  },
+  {
+   "subject": "戸田忠",
+   "type": "other",
+   "object": "片山一良",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "畏友の片山一良,阿部慈園の両氏には原稿作成の上で色々御助力頂いた",
+   "quote_ok": true
+  },
+  {
+   "subject": "戸田忠",
+   "type": "other",
+   "object": "阿部慈園",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "畏友の片山一良,阿部慈園の両氏には原稿作成の上で色々御助力頂いた",
+   "quote_ok": true
+  }
+ ],
+ "docid": "アビダンマッタサンガハ. 南方仏教哲学教義概説",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/アビダンマッタサンガハ. 南方仏教哲学教義概説.txt",
+ "meta": {
+  "title": "アビダンマッタサンガハ 南方仏教哲学教義概説",
+  "author": "アヌルッダ長老",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,78 @@
+{
+ "author": "高崎直道",
+ "doc_kind": "monograph",
+ "doc_year": 1974,
+ "people": [
+  {
+   "name": "高崎直道",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "宇井伯寿",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "坂本幸男",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Lambert Schmithausen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Münster 大学",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "宇井伯寿",
+   "type": "collaborated_with",
+   "object": "坂本幸男",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "『国訳一切経・瑜伽部,九』大東出版社,(坂本幸男共著・仏性論訳註)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lambert Schmithausen",
+   "type": "position_at",
+   "object": "Münster 大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Münster 大学の Schmithausen 教授による次の論文が発表された。 Lambert Schmithausen, 'Philologische Bemerkungen zum Ratnagotravibhāga'",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Takasaki_高崎直道_1974-Nyoraizou",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Takasaki_高崎直道_1974-Nyoraizou.txt",
+ "meta": {
+  "title": "如来蔵思想の定義",
+  "author": "Takasaki, 直道",
+  "year": 1974,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

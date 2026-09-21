@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "festschrift",
+ "doc_year": 1973,
+ "people": [
+  {
+   "name": "高崎直道",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "藤田宏達",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "中村元",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indian philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "高崎直道",
+   "type": "other",
+   "object": "中村元",
+   "role": "festschrift honoree",
+   "place": null,
+   "year_start": null,
+   "year_end": 1973,
+   "explicit": false,
+   "evidence": "中村 元博士還暦記念論集 インド思想と仏教 春秋社",
+   "quote_ok": true
+  },
+  {
+   "subject": "藤田宏達",
+   "type": "position_at",
+   "object": "大阪大学",
+   "role": "助教授",
+   "place": "Japan",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "藤田宏達 ... (昭和二十五年卒、大阪大学助教授)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Takasaki_高崎直道_1973",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Takasaki_高崎直道_1973.txt",
+ "meta": {
+  "title": "種姓に安住する菩薩——瑜伽行派の種姓論・序説",
+  "author": "高崎, 直道",
+  "year": 1973,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,57 @@
+{
+ "author": "James Legge",
+ "doc_kind": "text_edition",
+ "doc_year": 1886,
+ "people": [
+  {
+   "name": "James Legge",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sinology"
+  },
+  {
+   "name": "J. H. Sedgwick",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Legge",
+   "type": "position_at",
+   "object": "University of Oxford",
+   "role": null,
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "so far as our resources here in Oxford would permit... JAMES LEGGE. OXFORD: June, 1886.",
+   "quote_ok": true
+  },
+  {
+   "subject": "J. H. Sedgwick",
+   "type": "position_at",
+   "object": "University of Oxford",
+   "role": "University Chinese Scholar",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I am indebted for the use of it to the Rev. J. H. Sedgwick, University Chinese Scholar.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Fa Xuan Record of Buddhist Kingdoms",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Fa Xuan Record of Buddhist Kingdoms.txt",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

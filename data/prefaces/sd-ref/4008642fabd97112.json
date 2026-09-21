@@ -1,0 +1,83 @@
+{
+ "author": "Dragomir Dimitrov",
+ "doc_kind": "dissertation",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Dragomir Dimitrov",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Michael Hahn",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jayandra Soni",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Dragomir Dimitrov",
+   "type": "student_of",
+   "object": "Michael Hahn",
+   "role": "doctoral supervisor",
+   "place": "Marburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "doctoral thesis prepared under the supervision of Professor Michael Hahn (Marburg)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dragomir Dimitrov",
+   "type": "studied_at",
+   "object": "University of Marburg",
+   "role": "PhD",
+   "place": "Marburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "doctoral thesis prepared under the supervision of Professor Michael Hahn (Marburg) and submitted to the Faculty of Foreign Languages at the University of by the University of Marburg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Hahn",
+   "type": "position_at",
+   "object": "University of Marburg",
+   "role": "Professor",
+   "place": "Marburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Professor Michael Hahn (Marburg)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jayandra Soni",
+   "type": "position_at",
+   "object": "University of Marburg",
+   "role": null,
+   "place": "Marburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "my friend and colleague Dr Jayandra Soni (Marburg)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Dimitrov_Snyan ngag me long diss 3",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Dimitrov_Snyan ngag me long diss 3.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,45 @@
+{
+ "author": "伊藤武",
+ "doc_kind": "monograph",
+ "doc_year": 2022,
+ "people": [
+  {
+   "name": "佐保田鶴治",
+   "birth_year": 1899,
+   "death_year": 1986,
+   "nationality": "Japan",
+   "field": "Indian philosophy"
+  },
+  {
+   "name": "伊藤武",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "伊藤武",
+   "type": "influenced_by",
+   "object": "佐保田鶴治",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "もう30年以上もむかしのことで、サンスクリットはまだ知らなかったが、そのころ読んでいた佐保田鶴治著『ヨーガのすすめ』に、ヨーガ行者がよく用いるマントラとして、ガーヤトリーの訳文がしるされていたのだ。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "yogasamhita",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/yogasamhita.txt",
+ "meta": {
+  "title": "図説 ヨーガ大全",
+  "author": "Ito, Takeshi",
+  "year": 2022,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

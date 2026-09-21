@@ -1,0 +1,124 @@
+{
+ "author": "原実",
+ "doc_kind": "text_edition",
+ "doc_year": 2005,
+ "people": [
+  {
+   "name": "原実",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indology"
+  },
+  {
+   "name": "上村勝彦",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Sanskrit literature"
+  },
+  {
+   "name": "V. Raghavan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit poetics"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "上村勝彦",
+   "type": "student_of",
+   "object": "原実",
+   "role": "teacher",
+   "place": "東京大学",
+   "year_start": 1966,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "私が初めて彼と出会ったのは一九六六年秋、私が一年の海外出張より帰国した折であった。聞けばもと東大フランス学科に在籍し、大学院でサンスクリット研究を選んだ由であった。……教え子として、又後年は学問の同僚として",
+   "quote_ok": true
+  },
+  {
+   "subject": "上村勝彦",
+   "type": "student_of",
+   "object": "V. Raghavan",
+   "role": null,
+   "place": "マドラス大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "筆者の公務を補佐し、その後インドに留学して当時マドラス大学に講筵を張っていたインド古典辞学の巨匠 V. Raghavan 博士に師事した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "上村勝彦",
+   "type": "studied_at",
+   "object": "東京大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "聞けばもと東大フランス学科に在籍し、大学院でサンスクリット研究を選んだ由であった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "上村勝彦",
+   "type": "position_at",
+   "object": "東京大学東洋文化研究所",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "その成果は彼が最後に職を奉じていた東大東洋文化研究所より二冊の大冊となって上梓されている。",
+   "quote_ok": true
+  },
+  {
+   "subject": "原実",
+   "type": "position_at",
+   "object": "国際仏教学大学院大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "（国際仏教学大学院大学教授、東京大学名誉教授）",
+   "quote_ok": true
+  },
+  {
+   "subject": "原実",
+   "type": "position_at",
+   "object": "東京大学",
+   "role": "名誉教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "（国際仏教学大学院大学教授、東京大学名誉教授）",
+   "quote_ok": true
+  },
+  {
+   "subject": "V. Raghavan",
+   "type": "position_at",
+   "object": "マドラス大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "当時マドラス大学に講筵を張っていたインド古典辞学の巨匠 V. Raghavan 博士",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Kamimura Katsuhiko_マハーバーラタ08_上村勝彦訳",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Kamimura Katsuhiko_マハーバーラタ08_上村勝彦訳.txt",
+ "meta": {
+  "title": "原典訳マハーバーラタ 8",
+  "author": "上村勝彦",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

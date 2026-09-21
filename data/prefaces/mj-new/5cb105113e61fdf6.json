@@ -1,0 +1,90 @@
+{
+ "author": "松田和信",
+ "doc_kind": "article",
+ "doc_year": 2006,
+ "people": [
+  {
+   "name": "松田和信",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Paul Harrison",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "西村実則",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "辛嶋静志",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "米澤嘉康",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "西村実則",
+   "type": "position_at",
+   "object": "大正大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "大正大学の西村実則教授によってサンダー博士の出版に基づく言語分析が最近発表された。",
+   "quote_ok": true
+  },
+  {
+   "subject": "辛嶋静志",
+   "type": "position_at",
+   "object": "創価大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "これらの用例については創価大学の辛嶋静志教授、および大正大学の米澤嘉康氏より教示を得た。",
+   "quote_ok": true
+  },
+  {
+   "subject": "米澤嘉康",
+   "type": "position_at",
+   "object": "大正大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "これらの用例については創価大学の辛嶋静志教授、および大正大学の米澤嘉康氏より教示を得た。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Matsuda_2006",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Matsuda_2006.txt",
+ "meta": {
+  "title": "アフガニスタンの仏教写本",
+  "author": "松田, 和信",
+  "year": 2006,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

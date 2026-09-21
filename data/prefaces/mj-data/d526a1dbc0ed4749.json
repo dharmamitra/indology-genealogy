@@ -1,0 +1,78 @@
+{
+ "author": "Étienne Lamotte",
+ "doc_kind": "monograph",
+ "doc_year": 1988,
+ "people": [
+  {
+   "name": "Étienne Lamotte",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Louis de La Vallée Poussin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Susumu Yamaguchi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist philosophy"
+  },
+  {
+   "name": "Rāhula Sāṁkṛtyāyāna",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Vidhushekhara Bhattacharya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Étienne Lamotte",
+   "type": "student_of",
+   "object": "Louis de La Vallée Poussin",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "When, in 1936, as requested by my teacher, Louis de La Vallée Poussin, I published the Tibetan version and the French translation of the Karmasiddhi-prakaraṇa",
+   "quote_ok": false
+  },
+  {
+   "subject": "Étienne Lamotte",
+   "type": "other",
+   "object": "Susumu Yamaguchi",
+   "role": "friend and colleague",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "my learned colleague and friend, the Rev. Susumu Yamaguchi",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Karmasiddhiprakarana. Lamotte",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Karmasiddhiprakarana. Lamotte.txt",
+ "meta": {
+  "title": "KARMASIDDHIPRAKARAŅA: The Treatise on Action by Vasubandhu",
+  "author": "Vasubandhu",
+  "year": 1988,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,85 @@
+{
+ "author": null,
+ "doc_kind": "festschrift",
+ "doc_year": 2005,
+ "people": [
+  {
+   "name": "Bettina Bäumer",
+   "birth_year": 1940,
+   "death_year": null,
+   "nationality": "Austrian",
+   "field": "Indology"
+  },
+  {
+   "name": "Sadananda Das",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ernst Fürlinger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Somdev Vasudeva",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sadananda Das",
+   "type": "collaborated_with",
+   "object": "Ernst Fürlinger",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": 2005,
+   "explicit": true,
+   "evidence": "Sāmarasya : studies in Indian arts, philosophy and interreligious dialogue : in honour of Bettina Bäumer / edited by Sadananda Das, Ernst Fürlinger.",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Bettina Bäumer",
+   "type": "position_at",
+   "object": "Alice Boner Institute",
+   "role": "Director",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bettina Bäumer, b. 1940, Austrian scholar of Indology and religious studies and former Director of Alice Boner I",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Somdev Vasudeva",
+   "type": "position_at",
+   "object": "Oxford",
+   "role": null,
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Read in a draft of an edition prepared by Dr. Somdev Vasudeva (Oxford).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "A Commentary on The Opening Verses of Tantrasara of Abhinavagupta_text",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/A Commentary on The Opening Verses of Tantrasara of Abhinavagupta_text.txt",
+ "meta": {
+  "title": "Sāmarasya: Studies in Indian Arts, Philosophy, and Interreligious Dialogue",
+  "author": "Das, Sadananda; Fürlinger, Ernst",
+  "year": 2005,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

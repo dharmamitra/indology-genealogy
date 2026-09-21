@@ -1,0 +1,95 @@
+{
+ "author": "北川秀則",
+ "doc_kind": "article",
+ "doc_year": 1969,
+ "people": [
+  {
+   "name": "北川秀則",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indology"
+  },
+  {
+   "name": "立川武蔵",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indology"
+  },
+  {
+   "name": "小林信彦",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indology"
+  },
+  {
+   "name": "入矢義高",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Sinology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "北川秀則",
+   "type": "position_at",
+   "object": "名古屋大学",
+   "role": null,
+   "place": "名古屋市",
+   "year_start": null,
+   "year_end": 1969,
+   "explicit": false,
+   "evidence": "名古屋大学文学部二十周年記念論集 ... Arthasamgraha 和訳解説(北川) ... 各学科各研究室を通じての全員執筆を建前とし、文学部所属専任教官各位の力編を求めた",
+   "quote_ok": true
+  },
+  {
+   "subject": "立川武蔵",
+   "type": "studied_at",
+   "object": "Harvard 大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Harvard 大学留学中の立川武蔵氏の助力により、同大学図書館所蔵のテキストについても調査することを得た。",
+   "quote_ok": true
+  },
+  {
+   "subject": "小林信彦",
+   "type": "position_at",
+   "object": "Toronto 大学",
+   "role": "助教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "なおこの中の多くは Toronto 大学助教授小林信彦氏の指摘によるものであるので、ここに記して謝意を表する。",
+   "quote_ok": true
+  },
+  {
+   "subject": "入矢義高",
+   "type": "position_at",
+   "object": "名古屋大学文学部",
+   "role": "代表者",
+   "place": "名古屋市千種区不老町",
+   "year_start": null,
+   "year_end": 1969,
+   "explicit": true,
+   "evidence": "編集兼発行人 名古屋大学文学部 代表者 入矢義高",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Kitagawa_北川秀則_1969",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Kitagawa_北川秀則_1969.txt",
+ "meta": {
+  "title": "Arthasamgraha 和訳解説 II",
+  "author": "北川, 秀則",
+  "year": 1969,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

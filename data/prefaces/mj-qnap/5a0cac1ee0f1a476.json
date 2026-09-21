@@ -1,0 +1,84 @@
+{
+ "author": "Kurt Andrew Johnson",
+ "doc_kind": "dissertation",
+ "doc_year": 2010,
+ "people": [
+  {
+   "name": "Kurt Andrew Johnson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jane Moody",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jim Watt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Michael J. Franklin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Kurt Andrew Johnson",
+   "type": "studied_at",
+   "object": "University of York",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 2010,
+   "explicit": true,
+   "evidence": "Kurt Andrew Johnson PhD University of York Department of English and Related Literature September 2010",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Kurt Andrew Johnson",
+   "type": "student_of",
+   "object": "Jane Moody",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "I would like to thank most sincerely Professor Jane Moody for her steady stewardship, critical council and patient advice during this long process; you’ve taught me more than I realise.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kurt Andrew Johnson",
+   "type": "student_of",
+   "object": "Michael J. Franklin",
+   "role": "committee member",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "as well as Dr. Michael J. Franklin for generously serving as an external examiner for this thesis",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Final_Thesis-OCR",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Final_Thesis-OCR.txt",
+ "meta": {
+  "title": "Sir William Jones and Representations of Hinduism in British Poetry, 1784-1812",
+  "author": "Johnson, Kurt Andrew",
+  "year": 2010,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

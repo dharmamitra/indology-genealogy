@@ -1,0 +1,116 @@
+{
+ "author": "牛島徳次",
+ "doc_kind": "monograph",
+ "doc_year": 1967,
+ "people": [
+  {
+   "name": "牛島徳次",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Sinology"
+  },
+  {
+   "name": "滝川亀太郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "水沢利忠",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "周法高",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sinology"
+  },
+  {
+   "name": "王力",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "China",
+   "field": "Sinology"
+  },
+  {
+   "name": "董同穌",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sinology"
+  },
+  {
+   "name": "羅常培",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "China",
+   "field": "Sinology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "牛島徳次",
+   "type": "position_at",
+   "object": "東京教育大学",
+   "role": "助教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "東京教育大学助教授 牛島徳次著",
+   "quote_ok": true
+  },
+  {
+   "subject": "牛島徳次",
+   "type": "studied_at",
+   "object": "東北大学",
+   "role": "博士",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "文学博士(東北大学)",
+   "quote_ok": true
+  },
+  {
+   "subject": "牛島徳次",
+   "type": "influenced_by",
+   "object": "王力",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "本書では王力氏・羅常培氏の説を斟酌し、一応前漢・後漢を合わせて一時期とし、これを「古代」と呼ぶことにする。",
+   "quote_ok": true
+  },
+  {
+   "subject": "牛島徳次",
+   "type": "influenced_by",
+   "object": "羅常培",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "本書では王力氏・羅常培氏の説を斟酌し、一応前漢・後漢を合わせて一時期とし、これを「古代」と呼ぶことにする。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Ushijima_196701_牛島徳次_漢語文法論（古代編）",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Ushijima_196701_牛島徳次_漢語文法論（古代編）.txt",
+ "meta": {
+  "title": "漢語文法論（古代編）",
+  "author": "牛島徳次",
+  "year": 1967,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

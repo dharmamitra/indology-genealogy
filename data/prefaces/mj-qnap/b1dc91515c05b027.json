@@ -1,0 +1,58 @@
+{
+ "author": "若原雄昭",
+ "doc_kind": "article",
+ "doc_year": 1982,
+ "people": [
+  {
+   "name": "若原雄昭",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "小野勝年",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "若原雄昭",
+   "type": "studied_at",
+   "object": "龍谷大学大学院",
+   "role": "graduate student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "(わかはら・ゆうしょう 龍谷大学大学院生)",
+   "quote_ok": true
+  },
+  {
+   "subject": "小野勝年",
+   "type": "position_at",
+   "object": "龍谷大学",
+   "role": "元教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "（おの・かつとし 元龍大教授）",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "Wakahara_若原雄昭_1982",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Wakahara_若原雄昭_1982.txt",
+ "meta": {
+  "title": "南都佛教",
+  "author": "若原 雄昭",
+  "year": 1982,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

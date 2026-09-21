@@ -1,0 +1,52 @@
+{
+ "author": "Thomas Cleary",
+ "doc_kind": "monograph",
+ "doc_year": 2000,
+ "people": [
+  {
+   "name": "Thomas Cleary",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "E. Bruce Brooks",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Thomas Cleary",
+   "type": "student_of",
+   "object": "E. Bruce Brooks",
+   "role": "teacher",
+   "place": "Harvard",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Thanks are due to E. Bruce Brooks, an inspiring teacher who introduced me and many other students at Harvard to the subtleties of the original Confucius over twenty years ago.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Cleary",
+   "type": "studied_at",
+   "object": "Harvard",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Thanks are due to E. Bruce Brooks, an inspiring teacher who introduced me and many other students at Harvard to the subtleties of the original Confucius over twenty years ago.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Essential Confucius_Thomas Cleary (2000)",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Essential Confucius_Thomas Cleary (2000).txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

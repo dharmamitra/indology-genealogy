@@ -1,0 +1,94 @@
+{
+ "author": "Peter Skilling",
+ "doc_kind": "article",
+ "doc_year": 2000,
+ "people": [
+  {
+   "name": "湯山 明"
+  },
+  {
+   "name": "Michael Hahn"
+  },
+  {
+   "name": "Siglinde Dietz"
+  },
+  {
+   "name": "松田和信"
+  },
+  {
+   "name": "Jens Braarvig"
+  },
+  {
+   "name": "Lore Sander"
+  },
+  {
+   "name": "Peter Skilling"
+  },
+  {
+   "name": "Valrae Reynolds"
+  },
+  {
+   "name": "Helmut Eimer"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Siglinde Dietz",
+   "type": "student_of",
+   "object": "Michael Hahn",
+   "role": "doctoral supervisor",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": 1980,
+   "explicit": true,
+   "evidence": "彼のもとで三分冊の大著にして博士論文をまとめ(Bonn 1980)、更に推敲を重ねて刊行された次第だけを、ここに書き留めておきたい。 Die buddhistische Briefliteratur Indiens... von Siglinde Dietz",
+   "quote_ok": true
+  },
+  {
+   "subject": "Siglinde Dietz",
+   "type": "studied_at",
+   "object": "Universität Bonn",
+   "role": "PhD",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": 1980,
+   "explicit": true,
+   "evidence": "博士論文をまとめ(Bonn 1980)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Valrae Reynolds",
+   "type": "position_at",
+   "object": "Newark Museum",
+   "role": "Curator of the Oriental Collections",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I thank Valrae Reynolds, Curator of the Oriental Collections, for her enthusiastic cooperation.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Helmut Eimer",
+   "type": "position_at",
+   "object": "Universität Bonn",
+   "role": null,
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the complete and thorough catalogue under preparation by Dr. Helmut Eimer (Bonn).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Skilling_2000b",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Skilling_2000b.txt",
+ "meta": {
+  "title": "The Batang Manuscript Kanjur in the Newark Museum: A Preliminary Report",
+  "author": "Skilling, Peter",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

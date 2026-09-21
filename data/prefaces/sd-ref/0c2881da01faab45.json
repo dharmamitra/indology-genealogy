@@ -1,0 +1,95 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Kenryu T. Tsuji",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese-American",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Yehan Numata",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kenju Masuyama",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Kenryu T. Tsuji",
+   "type": "studied_at",
+   "object": "Ryukoku University",
+   "role": null,
+   "place": "Kyoto, Japan",
+   "year_start": 1938,
+   "year_end": 1941,
+   "explicit": true,
+   "evidence": "in 1938 to study Buddhism at Ryukoku University (Kyoto, Japan), receiving his ordination in 1941.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kenryu T. Tsuji",
+   "type": "studied_at",
+   "object": "University of Toronto",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Within a year, he left to attend the University of Toronto supporting himself and his family",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kenryu T. Tsuji",
+   "type": "founded",
+   "object": "Ekoji Buddhist Temple",
+   "role": null,
+   "place": "northern Virginia",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and Rev. Dr. Yehan Numata, founded Ekoji Buddhist Temple (\"Temple of the Gift of Light\") in northern Virginia.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Yehan Numata",
+   "type": "founded",
+   "object": "Ekoji Buddhist Temple",
+   "role": null,
+   "place": "northern Virginia",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and Rev. Dr. Yehan Numata, founded Ekoji Buddhist Temple (\"Temple of the Gift of Light\") in northern Virginia.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Kenju Masuyama",
+   "type": "position_at",
+   "object": "Ryukoku University",
+   "role": "Dean",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the dorm's overseer was the Dean of the University, Rev. Kenju Masuyama.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_1958",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_1958.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

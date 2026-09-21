@@ -1,0 +1,615 @@
+{
+ "author": "Akira Yuyama",
+ "doc_kind": "monograph",
+ "doc_year": 2000,
+ "people": [
+  {
+   "name": "Theodor Benfey",
+   "birth_year": 1809,
+   "death_year": 1881,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "Maurice Bloomfield",
+   "birth_year": 1855,
+   "death_year": 1928,
+   "nationality": "Austrian",
+   "field": null
+  },
+  {
+   "name": "Franklin Edgerton",
+   "birth_year": 1885,
+   "death_year": 1963,
+   "nationality": "American",
+   "field": null
+  },
+  {
+   "name": "William Norman Brown",
+   "birth_year": 1892,
+   "death_year": 1975,
+   "nationality": "American",
+   "field": null
+  },
+  {
+   "name": "Murray Barnson Emeneau",
+   "birth_year": 1904,
+   "death_year": null,
+   "nationality": "American",
+   "field": null
+  },
+  {
+   "name": "Hermann Collitz",
+   "birth_year": 1855,
+   "death_year": 1935,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Leonard Bloomfield",
+   "birth_year": 1887,
+   "death_year": 1949,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "William Dwight Whitney",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": null
+  },
+  {
+   "name": "Hanns Oertel",
+   "birth_year": 1868,
+   "death_year": 1952,
+   "nationality": "German",
+   "field": "Indo-Iranian Studies"
+  },
+  {
+   "name": "Arthur Anthony Macdonell",
+   "birth_year": 1854,
+   "death_year": 1930,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Friedrich Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Walter Rudolf von Roth",
+   "birth_year": 1821,
+   "death_year": 1895,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Monier Monier-Williams",
+   "birth_year": 1819,
+   "death_year": 1899,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Cecil Bendall",
+   "birth_year": 1856,
+   "death_year": 1910,
+   "nationality": null,
+   "field": "Vedic and Avestan"
+  },
+  {
+   "name": "Edward Byles Cowell",
+   "birth_year": 1831,
+   "death_year": 1903,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Émile Charles Marie Senart",
+   "birth_year": 1847,
+   "death_year": 1928,
+   "nationality": "French",
+   "field": "Indian and Buddhist studies"
+  },
+  {
+   "name": "Thomas William Rhys Davids",
+   "birth_year": 1843,
+   "death_year": 1922,
+   "nationality": null,
+   "field": "Pāli studies"
+  },
+  {
+   "name": "André Paul Bareau",
+   "birth_year": 1921,
+   "death_year": 1993,
+   "nationality": "French",
+   "field": "Étude du Bouddhisme"
+  },
+  {
+   "name": "Paul Mus",
+   "birth_year": 1902,
+   "death_year": 1969,
+   "nationality": "French",
+   "field": "Civilisation de l’Extrême-Orient"
+  },
+  {
+   "name": "Gérard Fussman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Histoire du monde indien"
+  },
+  {
+   "name": "Jean Filliozat",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Langues et littératures de l’Inde"
+  },
+  {
+   "name": "Georges Dumézil",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Civilisation indo-européenne"
+  },
+  {
+   "name": "Claude Lévi-Strauss",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Anthropologie sociale"
+  },
+  {
+   "name": "Louis Hambis",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Histoire et civilisation de l’Asie centrale"
+  },
+  {
+   "name": "Rolf A. Stein",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Étude du monde chinois: institutions et concepts"
+  },
+  {
+   "name": "Jacques Gernet",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Histoire sociale et intellectuelle de la Chine"
+  },
+  {
+   "name": "Bernard Frank",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Civilisation japonaise"
+  },
+  {
+   "name": "Michel Bréal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "comparative grammar"
+  },
+  {
+   "name": "Antoine Meillet",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "comparative grammar"
+  },
+  {
+   "name": "Émile Benveniste",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "comparative grammar"
+  },
+  {
+   "name": "Antoine Léon de Chézy",
+   "birth_year": 1773,
+   "death_year": 1832,
+   "nationality": "French",
+   "field": "Langues et littératures sanscrites"
+  },
+  {
+   "name": "Jean Pierre Abel-Rémusat",
+   "birth_year": 1788,
+   "death_year": 1832,
+   "nationality": "French",
+   "field": "Langues et littératures chinoises et tartares-mandchoues"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Theodor Benfey",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1829,
+   "explicit": true,
+   "evidence": "near Göttingen, where he studied western classics in the first place. He was promoted in 1829 and ‘habilitated’ there in 1839.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Theodor Benfey",
+   "type": "position_at",
+   "object": "Göttingen",
+   "role": "Privatdozent",
+   "place": null,
+   "year_start": 1834,
+   "year_end": 1848,
+   "explicit": true,
+   "evidence": "He was a ‘Privatdozent’ in Göttingen from 1834, extraordinary professor in 1848, and finally full professor from 1862 until his death in 1881",
+   "quote_ok": true
+  },
+  {
+   "subject": "Theodor Benfey",
+   "type": "position_at",
+   "object": "Göttingen",
+   "role": "extraordinary professor",
+   "place": null,
+   "year_start": 1848,
+   "year_end": 1862,
+   "explicit": true,
+   "evidence": "extraordinary professor in 1848, and finally full professor from 1862 until his death in 1881",
+   "quote_ok": true
+  },
+  {
+   "subject": "Theodor Benfey",
+   "type": "position_at",
+   "object": "Göttingen",
+   "role": "full professor",
+   "place": null,
+   "year_start": 1862,
+   "year_end": 1881,
+   "explicit": true,
+   "evidence": "and finally full professor from 1862 until his death in 1881",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Collitz",
+   "type": "position_at",
+   "object": "Johns Hopkins University",
+   "role": "colleague",
+   "place": null,
+   "year_start": 1907,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hermann Collitz (1855-1935), who became a colleague at the Johns Hopkins University in 1907.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Leonard Bloomfield",
+   "type": "other",
+   "object": "Maurice Bloomfield",
+   "role": "nephew",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Leonard Bloomfield (1887-1949) was his nephew.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hanns Oertel",
+   "type": "student_of",
+   "object": "William Dwight Whitney",
+   "role": "teacher",
+   "place": "Yale",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "there was a German student who took the trouble of coming to Yale to study with William Dwight Whitney. I think that he was much influenced by the Yale tradition. It was Hanns Oertel (1868-1952)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hanns Oertel",
+   "type": "position_at",
+   "object": "Munich",
+   "role": "Professor of Indo-Iranian Studies",
+   "place": null,
+   "year_start": 1925,
+   "year_end": 1935,
+   "explicit": true,
+   "evidence": "who became Professor of Indo-Iranian Studies at Munich (1925-1935), after having taught at Yale and then at Basel and Marburg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Anthony Macdonell",
+   "type": "student_of",
+   "object": "Theodor Benfey",
+   "role": "teacher",
+   "place": "Göttingen",
+   "year_start": 1875,
+   "year_end": 1876,
+   "explicit": true,
+   "evidence": "matriculated in the latter in 1875. He studied with Theodor Benfey for one year.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Anthony Macdonell",
+   "type": "student_of",
+   "object": "Friedrich Max Müller",
+   "role": "teacher",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After having worked with Max Müller at Oxford for some time, he came back to Germany to work with Walter Rudolf von Roth (1821-1895) at Tübingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Anthony Macdonell",
+   "type": "student_of",
+   "object": "Walter Rudolf von Roth",
+   "role": "teacher",
+   "place": "Tübingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he came back to Germany to work with Walter Rudolf von Roth (1821-1895) at Tübingen and later obtained his doctorate at Leipzig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Anthony Macdonell",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": "doctorate",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and later obtained his doctorate at Leipzig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Anthony Macdonell",
+   "type": "succeeded",
+   "object": "Monier Monier-Williams",
+   "role": "Boden Professor of Sanskrit",
+   "place": "Oxford",
+   "year_start": 1899,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was appointed to Boden Professor of Sanskrit in 1899 after Monier Monier-Williams (1819-1899; in chair since 1860).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Cecil Bendall",
+   "type": "student_of",
+   "object": "Theodor Benfey",
+   "role": "teacher",
+   "place": "Göttingen",
+   "year_start": 1879,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From Cambridge came Cecil Bendall (1856-1910) to study Vedic and Avestan with Theodor Benfey in 1879.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Cecil Bendall",
+   "type": "student_of",
+   "object": "Edward Byles Cowell",
+   "role": "teacher",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bendall first studied Arabic at Oxford and then Sanskrit at Cambridge with Edward Byles Cowell (1831-1903).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Émile Charles Marie Senart",
+   "type": "influenced_by",
+   "object": "Theodor Benfey",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "But he was so much influenced by Theodor Benfey that he switched from his original interest in western classics to Indian and Buddhist studies",
+   "quote_ok": true
+  },
+  {
+   "subject": "Émile Charles Marie Senart",
+   "type": "collaborated_with",
+   "object": "Thomas William Rhys Davids",
+   "role": "founding of the Pali Text Society",
+   "place": null,
+   "year_start": 1881,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He cooperated with Thomas William Rhys Davids (1843-1922) on the founding of the Pali Text Society in 1881",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas William Rhys Davids",
+   "type": "founded",
+   "object": "Pali Text Society",
+   "role": null,
+   "place": null,
+   "year_start": 1881,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "founding of the Pali Text Society in 1881",
+   "quote_ok": true
+  },
+  {
+   "subject": "André Paul Bareau",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "chair of Étude du Bouddhisme",
+   "place": "Paris",
+   "year_start": 1971,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1971 André Paul Bareau (1921-1993) was appointed to a chair named “Étude du Bouddhisme”.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Mus",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "chair of Civilisation de l’Extrême-Orient",
+   "place": "Paris",
+   "year_start": 1946,
+   "year_end": 1970,
+   "explicit": true,
+   "evidence": "In 1946 a scholar of distinguished achievements and global activities, Paul Mus (1902-1969), who was invited to fill the chair of “Civilisation de l’Extrême-Orient” retired silently in 1970",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gérard Fussman",
+   "type": "succeeded",
+   "object": "Jean Filliozat",
+   "role": "chair of Histoire du monde indien",
+   "place": "Collège de France",
+   "year_start": 1983,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the chair of traditional Indian studies was renamed “Histoire du monde indien” on the appointment of Gérard Fussman (1983/1984- ) after the retirement of Jean Filliozat (1951/1952-1978)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georges Dumézil",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "chair of Civilisation indo-européenne",
+   "place": "Paris",
+   "year_start": 1949,
+   "year_end": 1968,
+   "explicit": true,
+   "evidence": "Georges Dumézil: “Civilisation indo-européenne” (1949-1968)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Claude Lévi-Strauss",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "chair of Anthropologie sociale",
+   "place": "Paris",
+   "year_start": 1959,
+   "year_end": 1982,
+   "explicit": true,
+   "evidence": "Claude Lévi-Strauss: “Anthropologie sociale (created)” (1959-1982)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Louis Hambis",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "chair of Histoire et civilisation de l’Asie centrale",
+   "place": "Paris",
+   "year_start": 1965,
+   "year_end": 1977,
+   "explicit": true,
+   "evidence": "Louis Hambis: “Histoire et civilisation de l’Asie centrale” (1965-1977)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rolf A. Stein",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "chair of Étude du monde chinois: institutions et concepts",
+   "place": "Paris",
+   "year_start": 1965,
+   "year_end": 1981,
+   "explicit": true,
+   "evidence": "Rolf A. Stein: “Étude du monde chinois: institutions et concepts” (1965-1981)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jacques Gernet",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "chair of Histoire sociale et intellectuelle de la Chine",
+   "place": "Paris",
+   "year_start": 1975,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Jacques Gernet: “Histoire sociale et intellectuelle de la Chine” (1975- )",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bernard Frank",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "chair of Civilisation japonaise",
+   "place": "Paris",
+   "year_start": 1979,
+   "year_end": 1996,
+   "explicit": true,
+   "evidence": "Bernard Frank (Civilisation japonaise” (1979-1996)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Antoine Meillet",
+   "type": "succeeded",
+   "object": "Michel Bréal",
+   "role": "chair of comparative grammar",
+   "place": "Collège de France",
+   "year_start": 1905,
+   "year_end": 1936,
+   "explicit": true,
+   "evidence": "chair of comparative grammar created first for Michel Bréal (chargé de cours, 1864-1865; titulaire, 1866-1905) was succeeded by Antoine Meillet (1905/1906-1936) and Émile Benveniste (1937-1972)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Émile Benveniste",
+   "type": "succeeded",
+   "object": "Antoine Meillet",
+   "role": "chair of comparative grammar",
+   "place": "Collège de France",
+   "year_start": 1937,
+   "year_end": 1972,
+   "explicit": true,
+   "evidence": "succeeded by Antoine Meillet (1905/1906-1936) and Émile Benveniste (1937-1972)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Antoine Léon de Chézy",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "chair of Langues et littératures sanscrites",
+   "place": "Paris",
+   "year_start": 1814,
+   "year_end": 1832,
+   "explicit": true,
+   "evidence": "The chairs of Indology and Sinology were founded on 11 December 1814... Both Professors Antoine Léon de Chézy (1773-1832) and Jean Pierre Abel-Rémusat (1788-1832) gave their first lectures at the Collège de France",
+   "quote_ok": false
+  },
+  {
+   "subject": "Jean Pierre Abel-Rémusat",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "chair of Langues et littératures chinoises et tartares-mandchoues",
+   "place": "Paris",
+   "year_start": 1814,
+   "year_end": 1832,
+   "explicit": true,
+   "evidence": "The chairs of Indology and Sinology were founded on 11 December 1814... Both Professors Antoine Léon de Chézy (1773-1832) and Jean Pierre Abel-Rémusat (1788-1832) gave their first lectures at the Collège de France",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Akira Yuyama 2000 Eugène Burnouf, The Background to his Research into the Lotus Sutra BPPB-03",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Akira Yuyama 2000 Eugène Burnouf, The Background to his Research into the Lotus Sutra BPPB-03.txt#7",
+ "meta": {
+  "title": "Eugène Burnouf: The Background to his Research into the Lotus Sutra",
+  "author": "Yuyama, Akira",
+  "year": 2000,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

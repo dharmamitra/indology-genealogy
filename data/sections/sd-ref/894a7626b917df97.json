@@ -1,0 +1,134 @@
+{
+ "people": [
+  {
+   "name": "Karen D. Drickamer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kōsen Rōshi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Zen Buddhism"
+  },
+  {
+   "name": "Daisetsu Zenrai",
+   "birth_year": 1802,
+   "death_year": 1878,
+   "nationality": "Japanese",
+   "field": "Zen Buddhism"
+  },
+  {
+   "name": "Tetsuō Sōkatsu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Zen Buddhism"
+  },
+  {
+   "name": "Sasaki Shigetsu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Zen Buddhism"
+  },
+  {
+   "name": "Paul Carus",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  },
+  {
+   "name": "Hermann Grassmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Suzuki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Zen Buddhism"
+  },
+  {
+   "name": "Shaku Sōen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Zen Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Karen D. Drickamer",
+   "type": "position_at",
+   "object": "Morris Library, Southern Illinois University at Carbondale",
+   "role": "Curator of Manuscripts, Special Collections",
+   "place": "Carbondale",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Karen D. Drickamer, Curator of Manuscripts, Special Collections, Morris Library, Southern Illinois University at Carbondale",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kōsen Rōshi",
+   "type": "student_of",
+   "object": "Daisetsu Zenrai",
+   "role": "ordained under",
+   "place": "Sōgenji in Okayama Prefecture",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Kōsen Rōshi was ordained at age twenty-five under Daisetsu Zenrai (1802-78) at Sōgenji in Okayama Prefecture.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Sasaki Shigetsu",
+   "type": "student_of",
+   "object": "Tetsuō Sōkatsu",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Tetsuō Sōkatsu and his student Sasaki Shigetsu",
+   "quote_ok": false
+  },
+  {
+   "subject": "Paul Carus",
+   "type": "student_of",
+   "object": "Hermann Grassmann",
+   "role": "teacher",
+   "place": "gymnasium in Stettin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the mathematician Hermann Grassmann, with whom Carus studied at the gymnasium in Stettin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Suzuki",
+   "type": "collaborated_with",
+   "object": "Shaku Sōen",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": 1900,
+   "explicit": true,
+   "evidence": "Suzuki's Seiza no susume (Tokyo: Kōyūkan, 1900), which was written in collaboration with Sōen Rōshi",
+   "quote_ok": false
+  }
+ ],
+ "docid": "cleaned_CURATORS of the BUDDHA. STUDY OF BUDDHISM UNDER COLONIALISM_Donald S. Lopez, ed., 1995",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_CURATORS of the BUDDHA. STUDY OF BUDDHISM UNDER COLONIALISM_Donald S. Lopez, ed., 1995.txt#22",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

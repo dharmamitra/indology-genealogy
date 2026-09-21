@@ -1,0 +1,57 @@
+{
+ "author": "Étienne Lamotte",
+ "doc_kind": "article",
+ "doc_year": 1978,
+ "people": [
+  {
+   "name": "Étienne Lamotte",
+   "birth_year": 1903,
+   "death_year": null,
+   "nationality": "Belgium",
+   "field": null
+  },
+  {
+   "name": "加藤純章",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Étienne Lamotte",
+   "type": "position_at",
+   "object": "ルーヴァン大学",
+   "role": "名誉教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "現在ルーヴァン(Louvain)大学名誉教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "加藤純章",
+   "type": "collaborated_with",
+   "object": "Étienne Lamotte",
+   "role": "translator",
+   "place": null,
+   "year_start": 1978,
+   "year_end": 1978,
+   "explicit": true,
+   "evidence": "エチエンヌ・ラモット / 加藤純章訳 / 本稿は、十月十一日に東京大学で行われた同大学文学部主催の講演会における講演 Les sources scripturaires de l'Upadeśa et leurs valeurs respectives 全文の翻訳である。",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Lamotte_1978_MP-Quotations-Jp",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Lamotte_1978_MP-Quotations-Jp.txt",
+ "meta": {
+  "title": "『大智度論』の引用文献とその価値",
+  "author": "Lamotte, Étienne",
+  "year": 1978,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

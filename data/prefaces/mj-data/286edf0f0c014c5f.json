@@ -1,0 +1,90 @@
+{
+ "author": "袴谷憲昭",
+ "doc_kind": "monograph",
+ "doc_year": 2008,
+ "people": [
+  {
+   "name": "袴谷憲昭",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "Erich Frauwallner",
+   "birth_year": 1898,
+   "death_year": 1974,
+   "nationality": "Austrian",
+   "field": "Indology"
+  },
+  {
+   "name": "梶山雄一",
+   "birth_year": 1925,
+   "death_year": 2004,
+   "nationality": "Japanese",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "G. Oberhammer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "E. Steinkellner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "G. Oberhammer",
+   "type": "student_of",
+   "object": "Erich Frauwallner",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ここで、フラウワルナー教授の門下を代表するオバーハムマー教授とシュタインケルナー教授とが、上記の『小論文集』の「序言」に記している中から冒頭の一節のみを引いておくことにしよう。",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. Steinkellner",
+   "type": "student_of",
+   "object": "Erich Frauwallner",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ここで、フラウワルナー教授の門下を代表するオバーハムマー教授とシュタインケルナー教授とが、上記の『小論文集』の「序言」に記している中から冒頭の一節のみを引いておくことにしよう。",
+   "quote_ok": true
+  },
+  {
+   "subject": "G. Oberhammer",
+   "type": "collaborated_with",
+   "object": "E. Steinkellner",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1982,
+   "explicit": true,
+   "evidence": "G. Oberhammer, E. Steinkellner (eds.), Erich Frauwallner Kleine Schriften, Glasenapp-Stiftung, Band 22, Franz Steiner Verlag, Wiesbaden, 1982",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Hakamaya_袴谷憲昭_2008a@序_仏教心意識論序説_唯識文献研究",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Hakamaya_袴谷憲昭_2008a@序_仏教心意識論序説_唯識文献研究.txt",
+ "meta": {
+  "title": "仏教心意識論序説 唯識文献研究",
+  "author": "袴谷憲昭",
+  "year": 2008,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

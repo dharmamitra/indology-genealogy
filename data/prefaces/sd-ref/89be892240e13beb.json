@@ -1,0 +1,90 @@
+{
+ "author": "Peter C. Perdue",
+ "doc_kind": "monograph",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Peter C. Perdue",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "History"
+  },
+  {
+   "name": "Joseph Fletcher",
+   "birth_year": null,
+   "death_year": 1984,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Cheng Chongde",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Qing History"
+  },
+  {
+   "name": "Lin Man-houng",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Peter C. Perdue",
+   "type": "student_of",
+   "object": "Joseph Fletcher",
+   "role": "teacher",
+   "place": "Harvard",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Joseph Fletcher, with whom I studied Manchu at Harvard, died in 1984",
+   "quote_ok": true
+  },
+  {
+   "subject": "Cheng Chongde",
+   "type": "position_at",
+   "object": "People's University Qing History Institute",
+   "role": "Director",
+   "place": "Beijing",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Cheng Chongde, Director of the People's University Qing History Institute",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter C. Perdue",
+   "type": "position_at",
+   "object": "MIT History Faculty",
+   "role": "department head",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "to all my col- leagues on the MIT History Faculty for comments and encouragement... I could make progress on this book even while serving as department head",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lin Man-houng",
+   "type": "position_at",
+   "object": "Academia Sinica, Taiwan",
+   "role": null,
+   "place": "Taiwan",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Lin Man-houng of Academia Sinica, Taiwan",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Perdue_China Marches West",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Perdue_China Marches West.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

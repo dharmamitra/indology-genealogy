@@ -1,0 +1,64 @@
+{
+ "author": "Daisetz Teitaro Suzuki",
+ "doc_kind": "monograph",
+ "doc_year": 1930,
+ "people": [
+  {
+   "name": "Daisetz Teitaro Suzuki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Hōkei Idzumi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Shizusato Sugihira",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hōkei Idzumi",
+   "type": "position_at",
+   "object": "unknown",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Hōkei Idzumi who gave valuable information whenever the author met with grammatical difficulties in reading the Sanskrit text",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shizusato Sugihira",
+   "type": "position_at",
+   "object": "unknown",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Shizusato Sugihira and Mr. Kensei Yokogawa who read the proofs for typographical errors.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Suzuki_Studies_in_the_Lankavatara",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Suzuki_Studies_in_the_Lankavatara.txt",
+ "meta": {
+  "title": "Studies in the Lankavatara Sutra",
+  "author": "Suzuki, Daisetz Teitaro",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

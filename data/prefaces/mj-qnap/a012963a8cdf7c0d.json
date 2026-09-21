@@ -1,0 +1,183 @@
+{
+ "author": "Richard Salomon",
+ "doc_kind": "monograph",
+ "doc_year": 1999,
+ "people": [
+  {
+   "name": "Richard Salomon",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Raymond Allchin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Mark Barnard",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Collett Cox",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhism"
+  },
+  {
+   "name": "Timothy Lenz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jason Neelis",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Richard Salomon",
+   "type": "collaborated_with",
+   "object": "Raymond Allchin",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "RICHARD SALOMON With contributions by Raymond Allchin and Mark Barnard",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Richard Salomon",
+   "type": "collaborated_with",
+   "object": "Mark Barnard",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "RICHARD SALOMON With contributions by Raymond Allchin and Mark Barnard",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Richard Salomon",
+   "type": "position_at",
+   "object": "University of Washington",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "At the University of Washington, special thanks are due to the College of Arts and Sciences ... Equally indispensable, at another level, was the assistance of my colleague Professor Collett Cox",
+   "quote_ok": true
+  },
+  {
+   "subject": "Collett Cox",
+   "type": "position_at",
+   "object": "University of Washington",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At the University of Washington ... was the assistance of my colleague Professor Collett Cox and of our graduate students",
+   "quote_ok": true
+  },
+  {
+   "subject": "Timothy Lenz",
+   "type": "student_of",
+   "object": "Richard Salomon",
+   "role": null,
+   "place": "University of Washington",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the assistance of my colleague Professor Collett Cox and of our graduate students, especially Timothy Lenz and Jason Neelis.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jason Neelis",
+   "type": "student_of",
+   "object": "Richard Salomon",
+   "role": null,
+   "place": "University of Washington",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the assistance of my colleague Professor Collett Cox and of our graduate students, especially Timothy Lenz and Jason Neelis.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Timothy Lenz",
+   "type": "student_of",
+   "object": "Collett Cox",
+   "role": null,
+   "place": "University of Washington",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the assistance of my colleague Professor Collett Cox and of our graduate students, especially Timothy Lenz and Jason Neelis.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jason Neelis",
+   "type": "student_of",
+   "object": "Collett Cox",
+   "role": null,
+   "place": "University of Washington",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the assistance of my colleague Professor Collett Cox and of our graduate students, especially Timothy Lenz and Jason Neelis.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Timothy Lenz",
+   "type": "studied_at",
+   "object": "University of Washington",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At the University of Washington ... our graduate students, especially Timothy Lenz and Jason Neelis.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jason Neelis",
+   "type": "studied_at",
+   "object": "University of Washington",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At the University of Washington ... our graduate students, especially Timothy Lenz and Jason Neelis.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Salomon 1999 Ancient Buddhist Scrolls from Gandhara-OCR",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Salomon 1999 Ancient Buddhist Scrolls from Gandhara-OCR.txt",
+ "meta": {
+  "title": "Ancient Buddhist Scrolls from Gandhara: The British Library Kharosthi Fragments",
+  "author": "Salomon, Richard",
+  "year": 1999,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

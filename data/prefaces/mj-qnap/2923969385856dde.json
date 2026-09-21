@@ -1,0 +1,127 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 1998,
+ "people": [
+  {
+   "name": "Albrecht Wezler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Shujun Motegi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indology"
+  },
+  {
+   "name": "Masaaki Hattori",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indian Philosophy"
+  },
+  {
+   "name": "K.D. Tripathi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Toru Tomabechi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Albrecht Wezler",
+   "type": "collaborated_with",
+   "object": "Shujun Motegi",
+   "role": "co-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1998,
+   "explicit": true,
+   "evidence": "Critically edited by ALBRECHT WEZLER and SHUJUN MOTEGI",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Masaaki Hattori",
+   "type": "position_at",
+   "object": "Kyoto University",
+   "role": "Prof.",
+   "place": "Kyoto",
+   "year_start": 1971,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in the spring of 1971 in the office of Prof. Masaaki Hattori at Kyoto University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shujun Motegi",
+   "type": "studied_at",
+   "object": "Benares Hindu University",
+   "role": "M.A student",
+   "place": "Varanasi",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "when I was an M.A student studying, thanks to a grant of the General Cultural Scholarship Scheme of the Government of India, for two years at Benares Hindu University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shujun Motegi",
+   "type": "student_of",
+   "object": "K.D. Tripathi",
+   "role": "teacher",
+   "place": "Benares Hindu University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "to go through the text under the guidance of Prof. K.D. Tripathi.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shujun Motegi",
+   "type": "position_at",
+   "object": "Shinshu University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the cooperation of my col- leagues at Shinshu University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Toru Tomabechi",
+   "type": "position_at",
+   "object": "University of Lausanne",
+   "role": "assistant",
+   "place": "Lausanne",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mr. T. Tomabechi, assistant at the University of Lausanne.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Yuktidīpikā ed. Albrecht Wezler & Motegi Shujun",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Yuktidīpikā ed. Albrecht Wezler & Motegi Shujun.txt",
+ "meta": {
+  "title": "YUKTIDĪPIKĀ: The Most Significant Commentary on the Sāṃkhyakārikā",
+  "author": "Wezler, Albrecht and Motegi, Shujun",
+  "year": 1998,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

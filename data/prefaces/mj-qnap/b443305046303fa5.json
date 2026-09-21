@@ -1,0 +1,76 @@
+{
+ "author": "Munindo Bhikkhu",
+ "doc_kind": "edited_volume",
+ "doc_year": 2011,
+ "people": [
+  {
+   "name": "Munindo Bhikkhu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Ajahn Chah",
+   "birth_year": null,
+   "death_year": 1992,
+   "nationality": "Thai",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Ajahn Sumedho",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ajahn Sumedho",
+   "type": "student_of",
+   "object": "Ajahn Chah",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "During Ajahn Chah’s visit to Europe in 1978 he asked his senior Western disciple, Ajahn Sumedho, to accept an invitation to establish a Theravada Buddhist monastery in Britain.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Munindo Bhikkhu",
+   "type": "student_of",
+   "object": "Ajahn Chah",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Our teacher, the Venerable Ajahn Chah, had been seriously ill for a number of years.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ajahn Sumedho",
+   "type": "founded",
+   "object": "Cittaviveka",
+   "role": null,
+   "place": "West Sussex",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Not only was a Theravada training monastery well established in the UK – Cittaviveka in West Sussex – but Ajahn Sumedho further initiated and supported the building of seven other monasteries",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Seeing_the_Way_Vol2",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Seeing_the_Way_Vol2.txt",
+ "meta": {
+  "title": "Seeing the Way: Discerning Timeless Truth in Traditional Buddhist Teachings",
+  "author": "",
+  "year": 2011,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1882,
+ "people": [
+  {
+   "name": "K. M. Chatfield",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Wahrmund",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "K. M. Chatfield",
+   "type": "position_at",
+   "object": "Public Instruction, Bombay",
+   "role": "Director of Public Instruction",
+   "place": "Bombay",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "for the former of which I am indebted to the kindness of K. M. Chatfield, Esq., Director of Public Instruction, Bombay.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wahrmund",
+   "type": "position_at",
+   "object": "University",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Professor Wahrmund, whom I consulted about this word, considers it the name of a brotherhood",
+   "quote_ok": true
+  }
+ ],
+ "docid": "IA11",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/IA11.txt#0",
+ "meta": {
+  "title": "The Indian Antiquary: A Journal of Oriental Research",
+  "author": "Burgess, Jas.",
+  "year": 1984,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

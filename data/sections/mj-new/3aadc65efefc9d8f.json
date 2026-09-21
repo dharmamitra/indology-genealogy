@@ -1,0 +1,53 @@
+{
+ "author": "中野義照",
+ "doc_kind": "text_edition",
+ "doc_year": 1965,
+ "people": [
+  {
+   "name": "中野義照",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indology"
+  },
+  {
+   "name": "ヴィンテルニッツ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "アーサー・アヴァロン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "中野義照",
+   "type": "other",
+   "object": "ヴィンテルニッツ",
+   "role": "translator",
+   "place": null,
+   "year_start": null,
+   "year_end": 1965,
+   "explicit": true,
+   "evidence": "ヴィンテルニッツ著 中野義照訳",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "Winternitz_jp_2=epic-purana_1",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Winternitz_jp_2=epic-purana_1.txt#0",
+ "meta": {
+  "title": "叙事詩とプラーナ",
+  "author": "ヴィンテルニッツ, モーリツ",
+  "year": 1965,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

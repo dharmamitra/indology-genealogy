@@ -1,0 +1,97 @@
+{
+ "author": "Martin Haug",
+ "doc_kind": "text_edition",
+ "doc_year": 1863,
+ "people": [
+  {
+   "name": "Martin Haug",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Otto von Böhtlingk",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Rudolph Roth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Theodor Goldstücker",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "E. B. Cowell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Georg Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Otto von Böhtlingk",
+   "type": "collaborated_with",
+   "object": "Rudolph Roth",
+   "role": "co-compilers",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the great Sanscrit Dictionary, compiled by Boehtlingk and Roth.",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. B. Cowell",
+   "type": "position_at",
+   "object": "Calcutta",
+   "role": "Professor",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor E. B. Cowell, at Calcutta",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Bühler",
+   "type": "position_at",
+   "object": "Bombay",
+   "role": "Professor",
+   "place": "Bombay",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Bühler at Bombay",
+   "quote_ok": true
+  }
+ ],
+ "docid": "AB_Haug_v1_1863=aitareyabrahman00hauggoog",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/AB_Haug_v1_1863=aitareyabrahman00hauggoog.txt",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,138 @@
+{
+ "author": null,
+ "doc_kind": "monograph",
+ "doc_year": 1976,
+ "people": [
+  {
+   "name": "オットー・ローゼンベルグ",
+   "birth_year": 1888,
+   "death_year": 1919,
+   "nationality": "Russian",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "スチェルバトスキー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "オルデンブルク",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "佐々木現順",
+   "birth_year": 1915,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "M・ワレーザー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "オットー・ローゼンベルグ",
+   "type": "position_at",
+   "object": "ペテルスブルク大学",
+   "role": "教授",
+   "place": "Petersburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ペテルスブルク大学教授オットー・ローゼンベルグ(Otto Rosenberg)",
+   "quote_ok": true
+  },
+  {
+   "subject": "オットー・ローゼンベルグ",
+   "type": "student_of",
+   "object": "スチェルバトスキー",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "彼の師であり友人でもあるスチェルバトスキー教授 (Prof. Th. Stcherbatsky)",
+   "quote_ok": true
+  },
+  {
+   "subject": "オットー・ローゼンベルグ",
+   "type": "student_of",
+   "object": "オルデンブルク",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "スチェルバトスキー教授とオルデンブルク教授の指導と関与とに対し甚深の謝意を表明する",
+   "quote_ok": true
+  },
+  {
+   "subject": "佐々木現順",
+   "type": "studied_at",
+   "object": "京都大学文学部",
+   "role": "graduate",
+   "place": "Kyoto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "学歴 京都大学文学部(哲学専攻) 卒",
+   "quote_ok": true
+  },
+  {
+   "subject": "佐々木現順",
+   "type": "position_at",
+   "object": "ハーバード大学",
+   "role": "フルブライト教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "職歴 ハーバード大学フルブライト教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "佐々木現順",
+   "type": "position_at",
+   "object": "ハンブルグ大学",
+   "role": "客員教授",
+   "place": "Hamburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ハンブルグ大学客員教授等",
+   "quote_ok": true
+  },
+  {
+   "subject": "佐々木現順",
+   "type": "position_at",
+   "object": "大谷大学",
+   "role": "教授",
+   "place": "Kyoto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "現職 大谷大学教授",
+   "quote_ok": true
+  }
+ ],
+ "docid": "仏教哲学の諸問題. ローゼンベルク",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/仏教哲学の諸問題. ローゼンベルク.txt",
+ "meta": {
+  "title": "仏教哲学の諸問題",
+  "author": "ローゼンベルク",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

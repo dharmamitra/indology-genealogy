@@ -1,0 +1,102 @@
+{
+ "author": "R. E. Emmerick",
+ "doc_kind": "text_edition",
+ "doc_year": 1980,
+ "people": [
+  {
+   "name": "R. E. Emmerick",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "A. Wezler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "O. von Hinüber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "S. A. Srinivasan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jürgen Jakobi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "A. Wezler",
+   "type": "other",
+   "object": "R. E. Emmerick",
+   "role": "colleague",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In this connection, my colleague Professor A. Wezler made the journey from Kathmandu to Kottayam on my behalf",
+   "quote_ok": true
+  },
+  {
+   "subject": "O. von Hinüber",
+   "type": "position_at",
+   "object": "Mainz",
+   "role": "Professor",
+   "place": "Mainz",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and Professor O. von Hinüber, Mainz, took photographs of it for me in Madras.",
+   "quote_ok": true
+  },
+  {
+   "subject": "S. A. Srinivasan",
+   "type": "position_at",
+   "object": "Hamburg",
+   "role": "Professor",
+   "place": "Hamburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor S. A. Srinivasan, Hamburg, examined for me the portions in Telugu script.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jürgen Jakobi",
+   "type": "student_of",
+   "object": "R. E. Emmerick",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A number of misprints have been avoided thanks to the careful proof-reading of my student Jürgen Jakobi.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "The Siddhasāra of Ravigupta, ed. R. E. Emmerick, vol. 1, SVA",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/The Siddhasāra of Ravigupta, ed. R. E. Emmerick, vol. 1, SVA.txt",
+ "meta": {
+  "title": "The Siddhasāra of Ravigupta",
+  "author": "Emmerick, R. E.",
+  "year": 1980,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,78 @@
+{
+ "author": "Edward A. Irons",
+ "doc_kind": "other",
+ "doc_year": 2008,
+ "people": [
+  {
+   "name": "Hakuun Yasutani",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Zen Buddhism"
+  },
+  {
+   "name": "Daiun Sogaku Harada",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Zen Buddhism"
+  },
+  {
+   "name": "Sayagyi U Ba Khin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Burmese",
+   "field": "Vipassana meditation"
+  },
+  {
+   "name": "Mother Sayamagyi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Burmese",
+   "field": "Vipassana meditation"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hakuun Yasutani",
+   "type": "student_of",
+   "object": "Daiun Sogaku Harada",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the modern Zen master Hakuun Tasutani-roshi (1885-1973) only received the inka from his master, Harada-roshi, when he was 58.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Mother Sayamagyi",
+   "type": "student_of",
+   "object": "Sayagyi U Ba Khin",
+   "role": "disciple",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After U Ba Khin's death, his closest disciple, Mother Sayamagyi, assumed leadership of the IMC.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mother Sayamagyi",
+   "type": "succeeded",
+   "object": "Sayagyi U Ba Khin",
+   "role": null,
+   "place": "International Meditation Centre",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After U Ba Khin's death, his closest disciple, Mother Sayamagyi, assumed leadership of the IMC.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Encyclopedia Of Buddhism_Edward A. Irons_(Encyclopedia of World Religions) 2008",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Encyclopedia Of Buddhism_Edward A. Irons_(Encyclopedia of World Religions) 2008.txt#0",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

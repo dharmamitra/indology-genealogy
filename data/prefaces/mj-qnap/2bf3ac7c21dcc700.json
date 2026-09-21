@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Alexis Sanderson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "James Mallinson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Péter-Dániel Szántó",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Mallinson",
+   "type": "student_of",
+   "object": "Alexis Sanderson",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in particular our teacher Alexis Sanderson, who presided over the first group reading of the text and who has constantly supported and mentored our work.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Péter-Dániel Szántó",
+   "type": "student_of",
+   "object": "Alexis Sanderson",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in particular our teacher Alexis Sanderson, who presided over the first group reading of the text and who has constantly supported and mentored our work.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Péter-Dániel Szántó",
+   "type": "position_at",
+   "object": "All Souls College, Oxford",
+   "role": "Fellow",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Péter-Dániel Szántó thanks the Warden and Fellows of All Souls College, Oxford, where he was a Fellow during much of the time he was working on the book.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Mallinson",
+   "type": "collaborated_with",
+   "object": "Péter-Dániel Szántó",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The time that James Mallinson spent working on this book... Péter-Dániel Szántó thanks the Warden and Fellows of All Souls College, Oxford, where he was a Fellow during much of the time he was working on the book.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "The Amrtasiddhi and the Amrtasiddhimula - Mallinson, James",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/The Amrtasiddhi and the Amrtasiddhimula - Mallinson, James.txt",
+ "meta": {
+  "title": "Amṛtasiddhi",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

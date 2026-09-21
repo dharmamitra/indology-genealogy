@@ -1,0 +1,133 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 2002,
+ "people": [
+  {
+   "name": "Hsuan Hua",
+   "birth_year": 1918,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Hsu Yun",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Chang Chih",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Heng Sure",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Heng Chau",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hsuan Hua",
+   "type": "student_of",
+   "object": "Chang Chih",
+   "role": "traditional teacher",
+   "place": "San Yuan Monastery",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he entered San Yuan Monastery, took as his teacher Master Chang Chih, and subsequently received the full ordination of a Buddhist monk at Pu To Mountain.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hsuan Hua",
+   "type": "student_of",
+   "object": "Hsu Yun",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": 1948,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1948, Master Hua traveled south to meet the Venerable Hsu Yun... From him Master Hua received the patriarchal transmission in the Wei Yang Lineage of the Chan School.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heng Sure",
+   "type": "student_of",
+   "object": "Hsuan Hua",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the two bowing monks would need their teacher's advice... Heng Sure held a vow of silence for the entire journey",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heng Chau",
+   "type": "student_of",
+   "object": "Hsuan Hua",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the two bowing monks would need their teacher's advice... it became Heng Chau's job to talk with the many people who stopped along the highway",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hsuan Hua",
+   "type": "founded",
+   "object": "Buddhist Text Translation Society",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "So far, the Buddhist Text Translation Society, which he founded, has issued over 130 volumes of translation",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hsuan Hua",
+   "type": "founded",
+   "object": "Dharma Realm Buddhist University",
+   "role": null,
+   "place": "Talmage, California",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At the City of Ten Thousand Buddhas in Talmage, California, he established formal training programs for monastics and for laity; elementary and secondary schools for boys and for girls; and Dharma Realm Buddhist University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hsuan Hua",
+   "type": "founded",
+   "object": "Institute for World Religions",
+   "role": null,
+   "place": "Berkeley",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and Dharma Realm Buddhist University, together with the University's branch, the Institute for World Religions, in Berkeley.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_News From True Cultivators. Letters to Abbot Hua, 2002",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_News From True Cultivators. Letters to Abbot Hua, 2002.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

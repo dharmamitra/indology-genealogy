@@ -1,0 +1,90 @@
+{
+ "author": "Arthur Waley",
+ "doc_kind": "text_edition",
+ "doc_year": 1960,
+ "people": [
+  {
+   "name": "Arthur Waley",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Stephen Owen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Karlgren",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gustav Haloun",
+   "birth_year": null,
+   "death_year": 1951,
+   "nationality": null,
+   "field": "Chinese"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Stephen Owen",
+   "type": "position_at",
+   "object": "Harvard University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "-Stephen Owen, Harvard University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gustav Haloun",
+   "type": "position_at",
+   "object": "University of Cambridge",
+   "role": "Professor of Chinese",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": 1951,
+   "explicit": true,
+   "evidence": "Gustav Haloun, who shortly afterwards became Professor of Chinese in Cambridge and died there in 1951.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gustav Haloun",
+   "type": "position_at",
+   "object": "Sinological Seminary at Göttingen",
+   "role": "Director",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Gustav Haloun, Director of the Sinological Seminary at Göttingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Waley",
+   "type": "student_of",
+   "object": "Gustav Haloun",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "who not only put at my disposal the resources of the splendid Chinese library which has been formed at Göttingen under his care, but also directed my studies",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Book of Songs. Ancient Chinese Classic of Poetry_Arthur Waley, 1960",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Book of Songs. Ancient Chinese Classic of Poetry_Arthur Waley, 1960.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

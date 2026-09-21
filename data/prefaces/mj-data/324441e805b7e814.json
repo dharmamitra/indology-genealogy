@@ -1,0 +1,76 @@
+{
+ "author": "遠藤信一",
+ "doc_kind": "article",
+ "doc_year": 1998,
+ "people": [
+  {
+   "name": "遠藤信一",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "菅沼晃",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "森章司",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "遠藤信一",
+   "type": "student_of",
+   "object": "菅沼晃",
+   "role": "teacher",
+   "place": "Delhi",
+   "year_start": null,
+   "year_end": 1997,
+   "explicit": true,
+   "evidence": "本稿執筆にあたり、東洋大学教授菅沼 晃先生のご指導・ご助言を戴きました。ここに篤く御礼申し上げます。また、本稿は、筆者も同行させて頂いたインド滞在中に、デリーにおいてご指導戴きました。",
+   "quote_ok": true
+  },
+  {
+   "subject": "菅沼晃",
+   "type": "position_at",
+   "object": "東洋大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "東洋大学教授菅沼 晃先生のご指導・ご助言を戴きました。",
+   "quote_ok": true
+  },
+  {
+   "subject": "森章司",
+   "type": "position_at",
+   "object": "東洋大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "また、東洋大学教授 森章司先生のご助言を頂戴致しました。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Endo_遠藤信一_1998@『倶舎論』における邪見と邪智について",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Endo_遠藤信一_1998@『倶舎論』における邪見と邪智について.txt",
+ "meta": {
+  "title": "『倶舎論』における邪見と邪智について",
+  "author": "遠藤, 信一",
+  "year": 1998,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

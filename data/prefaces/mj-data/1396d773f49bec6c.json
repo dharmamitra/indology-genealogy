@@ -1,0 +1,72 @@
+{
+ "author": "勝呂信静",
+ "doc_kind": "festschrift",
+ "doc_year": 1985,
+ "people": [
+  {
+   "name": "勝呂信静",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "中村瑞隆",
+   "birth_year": 1915,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhology"
+  },
+  {
+   "name": "吉元信行",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "玉井威",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist Studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "勝呂信静",
+   "type": "position_at",
+   "object": "立正大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "(立正大学教授)",
+   "quote_ok": true
+  },
+  {
+   "subject": "吉元信行",
+   "type": "collaborated_with",
+   "object": "玉井威",
+   "role": "translators",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "この部分は吉元信行・玉井威によって左のように訳",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "Suguro_勝呂信静_1985",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Suguro_勝呂信静_1985.txt",
+ "meta": {
+  "title": "大乗荘厳経論と摂大乗論――唯識学派の開祖「弥勒」の問題をめぐって―",
+  "author": "勝呂 信静",
+  "year": 1985,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

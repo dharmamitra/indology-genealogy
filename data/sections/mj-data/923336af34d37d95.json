@@ -1,0 +1,67 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "荒牧典俊"
+  },
+  {
+   "name": "梶山雄一"
+  },
+  {
+   "name": "長尾雅人"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "荒牧典俊",
+   "type": "collaborated_with",
+   "object": "梶山雄一",
+   "role": "co-translators",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "大乗仏典 15 世親論集 荒牧典俊訳 梶山雄一訳 長尾雅人訳",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "荒牧典俊",
+   "type": "collaborated_with",
+   "object": "長尾雅人",
+   "role": "co-translators",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "大乗仏典 15 世親論集 荒牧典俊訳 梶山雄一訳 長尾雅人訳",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "長尾雅人",
+   "type": "collaborated_with",
+   "object": "梶山雄一",
+   "role": "co-editors/supervisors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "監修 長尾雅人 梶山雄一",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "大乗仏典　世親",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/大乗仏典　世親.txt#0",
+ "meta": {
+  "title": "大乗仏典 世親論集",
+  "author": "荒牧典俊, 梶山雄一, 長尾雅人",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

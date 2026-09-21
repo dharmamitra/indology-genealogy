@@ -1,0 +1,111 @@
+{
+ "people": [
+  {
+   "name": "Shaku Sōen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Kōsen Sōon",
+   "birth_year": 1816,
+   "death_year": 1892,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "D. T. Suzuki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Paul Carus",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Shaku Sōen",
+   "type": "student_of",
+   "object": "Kōsen Sōon",
+   "role": "teacher",
+   "place": "Engakuji",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sōen's modernist outlook reflects in part the influence of his own teacher, Kōsen Sōon (better known as Imagita [or Imakita] Kō- sen, 1816-92)",
+   "quote_ok": false
+  },
+  {
+   "subject": "Shaku Sōen",
+   "type": "studied_at",
+   "object": "Keio University",
+   "role": null,
+   "place": "Tokyo",
+   "year_start": null,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "He then took the unusual step of entering the prestigious Keio University in Tokyo... Upon graduation in 1885, while still in his twenties, Sōen traveled to India and Ceylon",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shaku Sōen",
+   "type": "position_at",
+   "object": "Engakuji",
+   "role": "chief abbot",
+   "place": "Kamakura",
+   "year_start": 1892,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sōen traveled to India and Ceylon to pursue his study of Buddhist languages. He returned to installed as chief abbot of Engakuji following his master's death in 1892.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kōsen Sōon",
+   "type": "position_at",
+   "object": "Engakuji",
+   "role": "chief abbot",
+   "place": "Kamakura",
+   "year_start": 1875,
+   "year_end": 1892,
+   "explicit": true,
+   "evidence": "Imagita [or Imakita] Kō- sen, 1816-92), the highly respected if somewhat unorthodox Rinzai leader who served as chief abbot (kanchō) of Engakuji from 1875 un- til his death in 1892",
+   "quote_ok": true
+  },
+  {
+   "subject": "D. T. Suzuki",
+   "type": "student_of",
+   "object": "Shaku Sōen",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "through the efforts of some of his students, no- ... The English translation of Sōen's address to the World Parliament had been prepared by the then unknown D. T. Suzuki",
+   "quote_ok": true
+  },
+  {
+   "subject": "D. T. Suzuki",
+   "type": "student_of",
+   "object": "Paul Carus",
+   "role": "teacher",
+   "place": "America",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "following the World Parliament Sōen arranged for Suzuki to travel to America to study with Paul",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_CURATORS of the BUDDHA. STUDY OF BUDDHISM UNDER COLONIALISM_Donald S. Lopez, ed., 1995",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_CURATORS of the BUDDHA. STUDY OF BUDDHISM UNDER COLONIALISM_Donald S. Lopez, ed., 1995.txt#16",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

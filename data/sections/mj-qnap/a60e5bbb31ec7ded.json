@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1845,
+ "people": [
+  {
+   "name": "Dr. Malcolmson",
+   "birth_year": null,
+   "death_year": 1844,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "William Griffith",
+   "birth_year": 1810,
+   "death_year": 1845,
+   "nationality": null,
+   "field": "botany"
+  },
+  {
+   "name": "Dr. Wallich",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "botany"
+  },
+  {
+   "name": "Dr. M'Clelland",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Dr. Malcolmson",
+   "type": "position_at",
+   "object": "Bombay Branch Royal Asiatic Society",
+   "role": "Secretary",
+   "place": "Bombay",
+   "year_start": 1842,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Two years after this date he became Secretary to the Bombay Branch Royal Asiatic Society.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Griffith",
+   "type": "studied_at",
+   "object": "London University",
+   "role": null,
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was born in the year 1810, and was educated at the London University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Griffith",
+   "type": "collaborated_with",
+   "object": "Dr. M'Clelland",
+   "role": null,
+   "place": "Assam",
+   "year_start": 1835,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was, in 1835, deputed to Assam, with Dr. M'Clelland, for the purpose of assisting Dr. Wallich in his inspection of the growth of the Tea plant in Assam",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Griffith",
+   "type": "position_at",
+   "object": "Botanical Garden at Calcutta",
+   "role": "superintendence",
+   "place": "Calcutta",
+   "year_start": 1842,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1842, upon Dr. Wallich's absence, from illness, at the Cape, he was intrusted with the superintendence of the Botanical Garden at Calcutta",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Griffith",
+   "type": "position_at",
+   "object": "Medical College",
+   "role": "Botanical Professor",
+   "place": "Calcutta",
+   "year_start": 1842,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and with the duties of the Botanical Professor in the Medical College",
+   "quote_ok": true
+  }
+ ],
+ "docid": "JRASGBI8",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/JRASGBI8.txt#0",
+ "meta": {
+  "title": "Indian Institute, Oxford",
+  "author": "Temple, R. C.",
+  "year": 1886,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

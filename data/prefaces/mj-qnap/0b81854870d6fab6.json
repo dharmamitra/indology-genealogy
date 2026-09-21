@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1986,
+ "people": [
+  {
+   "name": "秦剛平",
+   "birth_year": 1941,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "L・H・フェルドマン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "秦剛平",
+   "type": "studied_at",
+   "object": "京都大学大学院",
+   "role": "修士課程",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "京都大学大学院キリスト教学修士課程修了。同博士課程のとき米国に5年間留学。",
+   "quote_ok": true
+  },
+  {
+   "subject": "L・H・フェルドマン",
+   "type": "collaborated_with",
+   "object": "秦剛平",
+   "role": "共編",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ヨセフス研究 L・H・フェルドマン／秦剛平共編 全4巻",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Kobayashi_小林道夫_1986_哲学研究",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Kobayashi_小林道夫_1986_哲学研究.txt",
+ "meta": {
+  "title": "デカルトにおける自然学の形而上学的基礎づけ",
+  "author": "小林, 道夫",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

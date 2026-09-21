@@ -1,0 +1,90 @@
+{
+ "author": "David Jackson",
+ "doc_kind": "monograph",
+ "doc_year": 2019,
+ "people": [
+  {
+   "name": "Chogye Trichen Rinpoche",
+   "birth_year": 1919,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Kunga Chöphel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Geshe Tshechok",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Zimwok Rinpoche",
+   "birth_year": 1884,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Chogye Trichen Rinpoche",
+   "type": "student_of",
+   "object": "Kunga Chöphel",
+   "role": "traditional teacher",
+   "place": "Nalendra Monastery",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Chogye Rinpoche later fondly recalled the kindness of his first tutor at Nalendra, the above-mentioned Kunga Chöphel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chogye Trichen Rinpoche",
+   "type": "student_of",
+   "object": "Geshe Tshechok",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": 1929,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At the age of ten (1929), Chogye Rinpoche received from Geshe Tshechok the mind-training bodhicitta instructions of the “Practice of the Victor's Sons\"",
+   "quote_ok": true
+  },
+  {
+   "subject": "Geshe Tshechok",
+   "type": "student_of",
+   "object": "Kunga Chöphel",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Geshe Tshechok was a disciple of Kunga Chöphel",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chogye Trichen Rinpoche",
+   "type": "student_of",
+   "object": "Zimwok Rinpoche",
+   "role": "traditional teacher",
+   "place": "Nalendra Monastery",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zimwok Rinpoche became one of Chogye Rinpoche's two main gurus.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Jackson_Lama of Lamas_The Life of the Vajra-Master Chogye Trichen Rinpoche_Book I",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Jackson_Lama of Lamas_The Life of the Vajra-Master Chogye Trichen Rinpoche_Book I.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

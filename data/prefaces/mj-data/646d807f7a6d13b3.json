@@ -1,0 +1,95 @@
+{
+ "author": "西義雄",
+ "doc_kind": "article",
+ "doc_year": 1982,
+ "people": [
+  {
+   "name": "西義雄",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "木村泰賢",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Sylvain Lévi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Indology"
+  },
+  {
+   "name": "高楠順次郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "西義雄",
+   "type": "studied_at",
+   "object": "東大インド哲学",
+   "role": null,
+   "place": null,
+   "year_start": 1921,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "私が大正十年、東大インド哲学に入学以来、求めてやまなかったインド仏教史研究の結論の一として",
+   "quote_ok": true
+  },
+  {
+   "subject": "西義雄",
+   "type": "student_of",
+   "object": "木村泰賢",
+   "role": "恩師",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "木村泰賢先生――私の恩師ですが、木村泰賢先生が仏教は由心論だと言われ",
+   "quote_ok": true
+  },
+  {
+   "subject": "西義雄",
+   "type": "student_of",
+   "object": "Sylvain Lévi",
+   "role": "teacher",
+   "place": "東大",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "私は昭和の初め、シルヴァン・レヴィ(Sylvain Lévi) 先生のヤショウミトラの倶舎釈論の講義を東大でお聞きしましたけれども",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sylvain Lévi",
+   "type": "collaborated_with",
+   "object": "高楠順次郎",
+   "role": "collaborator",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "日本に来て高楠先生に聞き、共訳したいと言っておられました。既に世界的な学者が、分らんところが多いから高楠順次郎先生に教わりながら、先生と一緒に、共同で研究をやるために来たんだということを",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Nishi_西義雄_1982@西義雄先生最終講議「成仏道観と生命学」",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Nishi_西義雄_1982@西義雄先生最終講議「成仏道観と生命学」.txt",
+ "meta": {
+  "title": "成仏道観と生命学",
+  "author": "西, 義雄",
+  "year": 1982,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

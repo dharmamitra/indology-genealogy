@@ -1,0 +1,57 @@
+{
+ "author": "Leopold von Schroeder",
+ "doc_kind": "text_edition",
+ "doc_year": 1885,
+ "people": [
+  {
+   "name": "Leopold von Schroeder",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "B. Delbrück",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "B. Delbrück",
+   "type": "position_at",
+   "object": "Jena",
+   "role": "Prof.",
+   "place": "Jena",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "meinem verehrten Freunde, Prof. B. Delbrück in Jena",
+   "quote_ok": true
+  },
+  {
+   "subject": "Leopold von Schroeder",
+   "type": "other",
+   "object": "B. Delbrück",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Eine Reihe von Berichtigungen und mehrere zum Theil evidente, zum Theil sehr beachtenswerthe Conjecturen, die ich meinem verehrten Freunde, Prof. B. Delbrück in Jena verdanke",
+   "quote_ok": true
+  }
+ ],
+ "docid": "MAITRAYANI SAMHITA-2",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/MAITRAYANI SAMHITA-2.txt",
+ "meta": {
+  "title": "मैत्रायणी संहिता (Maitrāyaṇī Saṃhitā)",
+  "author": "von Schroeder, Leopold",
+  "year": 1885,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

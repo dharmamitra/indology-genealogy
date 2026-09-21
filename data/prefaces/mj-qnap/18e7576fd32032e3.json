@@ -1,0 +1,67 @@
+{
+ "author": "Elisa Freschi",
+ "doc_kind": "monograph",
+ "doc_year": 2012,
+ "people": [
+  {
+   "name": "Elisa Freschi"
+  },
+  {
+   "name": "Raffaele Torella"
+  },
+  {
+   "name": "John Taber"
+  },
+  {
+   "name": "Alessandro Graheli"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Elisa Freschi",
+   "type": "student_of",
+   "object": "Raffaele Torella",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I started working on the following text while working on my PhD, under the tuition of Prof. Raffaele Torella",
+   "quote_ok": true
+  },
+  {
+   "subject": "Elisa Freschi",
+   "type": "collaborated_with",
+   "object": "John Taber",
+   "role": "reading a text together",
+   "place": "Albuquerque, New Mexico",
+   "year_start": 2007,
+   "year_end": 2007,
+   "explicit": true,
+   "evidence": "I also had the privilege of reading more than half of the text in July 2007 in Albuquerque, New Mexico, with Prof. John Taber",
+   "quote_ok": true
+  },
+  {
+   "subject": "Elisa Freschi",
+   "type": "collaborated_with",
+   "object": "Alessandro Graheli",
+   "role": "reading a text together",
+   "place": "Albuquerque, New Mexico",
+   "year_start": 2007,
+   "year_end": 2007,
+   "explicit": true,
+   "evidence": "Dr. Alessandro Graheli, who also frequently took part in our reading sessions.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Freschi (2012) Duty, Language and Exegesis in Prabhakara Mimamsa",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Freschi (2012) Duty, Language and Exegesis in Prabhakara Mimamsa.txt",
+ "meta": {
+  "title": "Duty, Language and Exegesis in Prābhākara Mīmāṃsā",
+  "author": "Freschi, Elisa",
+  "year": 2012,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

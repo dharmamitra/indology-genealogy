@@ -1,0 +1,133 @@
+{
+ "author": "Pascale Hugon",
+ "doc_kind": "text_edition",
+ "doc_year": 2019,
+ "people": [
+  {
+   "name": "Pascale Hugon",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ernst Steinkellner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Toru Tomabechi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Tom Tillemans",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "IWATA Takashi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "WATANABE Toshikazu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Pascale Hugon",
+   "type": "collaborated_with",
+   "object": "Toru Tomabechi",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Toru Tomabechi and I edited the third chapter.",
+   "quote_ok": true
+  },
+  {
+   "subject": "IWATA Takashi",
+   "type": "position_at",
+   "object": "Waseda University",
+   "role": "Prof.",
+   "place": "Tokyo",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. IWATA Takashi (Waseda University, Tokyo)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pascale Hugon",
+   "type": "position_at",
+   "object": "Institute for the Cultural and Intellectual History of Asia (IKGA)",
+   "role": null,
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At the IKGA, I worked jointly on a large part of the edition with my colleague WATANABE Toshikazu",
+   "quote_ok": true
+  },
+  {
+   "subject": "WATANABE Toshikazu",
+   "type": "position_at",
+   "object": "Institute for the Cultural and Intellectual History of Asia (IKGA)",
+   "role": "colleague",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At the IKGA, I worked jointly on a large part of the edition with my colleague WATANABE Toshikazu",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pascale Hugon",
+   "type": "collaborated_with",
+   "object": "WATANABE Toshikazu",
+   "role": null,
+   "place": "IKGA",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At the IKGA, I worked jointly on a large part of the edition with my colleague WATANABE Toshikazu",
+   "quote_ok": true
+  },
+  {
+   "subject": "WATANABE Toshikazu",
+   "type": "position_at",
+   "object": "Kokugakuin University",
+   "role": "Professor",
+   "place": "Tokyo",
+   "year_start": 2018,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "WATANABE Toshikazu (since 2018 Professor at Kokugakuin University, Tokyo)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "9783700186434_gesamt",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/9783700186434_gesamt.txt",
+ "meta": {
+  "title": "Dharmottara's Pramāṇaviniścayaṭīkā Chapter 3: Diplomatic Edition",
+  "author": "Hugon, Pascale",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

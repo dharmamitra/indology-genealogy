@@ -1,0 +1,105 @@
+{
+ "author": "御牧 克己",
+ "doc_kind": "article",
+ "doc_year": 1987,
+ "people": [
+  {
+   "name": "御牧 克己",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Tibetology"
+  },
+  {
+   "name": "北村甫",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Linguistics"
+  },
+  {
+   "name": "長野泰彦",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Linguistics"
+  },
+  {
+   "name": "立川武蔵",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "松本史朗",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Tshulkrim Kelsang",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "S. Onoda",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "長野泰彦",
+   "type": "collaborated_with",
+   "object": "立川武蔵",
+   "role": "co-editors",
+   "place": null,
+   "year_start": 1987,
+   "year_end": 1987,
+   "explicit": true,
+   "evidence": "北村甫教授退官記念論文集 チベットの言語と文化 昭和六十二年四月十五日初版第一刷発行 編著者 長野泰彦 立川武蔵",
+   "quote_ok": true
+  },
+  {
+   "subject": "松本史朗",
+   "type": "position_at",
+   "object": "駒澤大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "(まつもと しろう・駒澤大学)",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Tshulkrim Kelsang",
+   "type": "collaborated_with",
+   "object": "S. Onoda",
+   "role": "co-editors",
+   "place": null,
+   "year_start": 1985,
+   "year_end": 1985,
+   "explicit": true,
+   "evidence": "Textbooks of Se-ra Monastery for the Primary Course of Studies, edited by Tshulkrim Kelsang & S. Onoda, Biblia Tibetica 1, Kyoto, 1985.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Mimaki_1987",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Mimaki_1987.txt",
+ "meta": {
+  "title": "チベット語仏典概観",
+  "author": "御牧 克己",
+  "year": 1987,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

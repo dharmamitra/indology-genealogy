@@ -1,0 +1,78 @@
+{
+ "author": "松本史朗",
+ "doc_kind": "article",
+ "doc_year": 1986,
+ "people": [
+  {
+   "name": "松本史朗",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "定方晟",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "平川彰",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "和辻哲郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Philosophy"
+  },
+  {
+   "name": "宇井伯寿",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "定方晟",
+   "type": "student_of",
+   "object": "平川彰",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "さて、定方氏は、その論文の冒頭で、「恩師平川先生の記念論集への寄稿の依頼を編集者氏からうけたとき、私はこれは是非とも応じさせてもらわなくてはと思った。",
+   "quote_ok": true
+  },
+  {
+   "subject": "和辻哲郎",
+   "type": "influenced_by",
+   "object": "宇井伯寿",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "博士の解釈は、縁起の時間的解釈を批判した宇井博士の説を継ぐものとして有名だが",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Matsumoto_松本史朗_1986@論評_縁起について―私の如来蔵思想批判―",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Matsumoto_松本史朗_1986@論評_縁起について―私の如来蔵思想批判―.txt",
+ "meta": {
+  "title": "縁起について―私の如来蔵思想批判―",
+  "author": "松本史朗",
+  "year": 1986,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

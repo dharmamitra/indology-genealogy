@@ -1,0 +1,115 @@
+{
+ "author": "岩本明美",
+ "doc_kind": "article",
+ "doc_year": 1996,
+ "people": [
+  {
+   "name": "岩本明美",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "長尾雅人",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "荒牧典俊",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "袴谷憲昭",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "荒井裕明",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "岩本明美",
+   "type": "student_of",
+   "object": "長尾雅人",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "長尾雅人京都大学名誉教授と荒牧典俊京都大学人文科学研究所教授の両先生ご指導による、『荘厳経論』第14章の輪読会における成果を参照させていただくことができた",
+   "quote_ok": false
+  },
+  {
+   "subject": "岩本明美",
+   "type": "student_of",
+   "object": "荒牧典俊",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "長尾雅人京都大学名誉教授と荒牧典俊京都大学人文科学研究所教授の両先生ご指導による、『荘厳経論』第14章の輪読会における成果を参照させていただくことができた",
+   "quote_ok": false
+  },
+  {
+   "subject": "長尾雅人",
+   "type": "position_at",
+   "object": "京都大学",
+   "role": "名誉教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "長尾雅人京都大学名誉教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "荒牧典俊",
+   "type": "position_at",
+   "object": "京都大学人文科学研究所",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "荒牧典俊京都大学人文科学研究所教授",
+   "quote_ok": false
+  },
+  {
+   "subject": "袴谷憲昭",
+   "type": "collaborated_with",
+   "object": "荒井裕明",
+   "role": null,
+   "place": null,
+   "year_start": 1993,
+   "year_end": 1993,
+   "explicit": true,
+   "evidence": "袴谷憲昭・荒井裕明校註「大乗荘厳経論」(新国訳大蔵経,瑜伽・唯識部12)大蔵出版,1993.",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "Iwamoto_岩本明美_1996a",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Iwamoto_岩本明美_1996a.txt",
+ "meta": {
+  "title": "『大乗荘厳経論』第14章「教授教誡章」の背景",
+  "author": "岩本明美",
+  "year": 1996,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 1960,
+ "people": [
+  {
+   "name": "望月信亨",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "鈴木大拙",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "塚本善隆",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "塚本善隆",
+   "type": "position_at",
+   "object": "世界聖典刊行協會",
+   "role": "文化委員",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "世界聖典刊行協會文化委員 文學博士 塚本善隆",
+   "quote_ok": true
+  },
+  {
+   "subject": "望月信亨",
+   "type": "collaborated_with",
+   "object": "塚本善隆",
+   "role": "編纂・增訂編輯",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "著 作 者 文學博士 望月信亨 [...] 文學博士 塚本善隆 增訂編輯担当者",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Vol 1",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Vol 1.txt#3",
+ "meta": {
+  "title": "望月佛教大辭典",
+  "author": "望月信亨",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

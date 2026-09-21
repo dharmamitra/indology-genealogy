@@ -1,0 +1,64 @@
+{
+ "author": "Manfred Mayrhofer",
+ "doc_kind": "monograph",
+ "doc_year": 1956,
+ "people": [
+  {
+   "name": "Manfred Mayrhofer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Wilhelm Brandenstein",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Edeltraut Mayrhofer-Paßler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Manfred Mayrhofer",
+   "type": "student_of",
+   "object": "Wilhelm Brandenstein",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Herausgehoben aber aus der Reihe jener satpuruṣāḥ [...] sei der Name meines Lehrers Wilhelm Brandenstein.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Manfred Mayrhofer",
+   "type": "other",
+   "object": "Edeltraut Mayrhofer-Paßler",
+   "role": "husband of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Den Abschluß aber bilde wiederum der Name meiner Frau, Edeltraut Mayrhofer-Paßler.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Mayrhofer_1956-80",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Mayrhofer_1956-80.txt",
+ "meta": {
+  "title": "Kurzgefaßtes etymologisches Wörterbuch des Altindischen",
+  "author": "Mayrhofer, Manfred",
+  "year": 1956,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

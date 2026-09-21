@@ -1,0 +1,102 @@
+{
+ "author": "横山紘一",
+ "doc_kind": "monograph",
+ "doc_year": 1979,
+ "people": [
+  {
+   "name": "横山紘一",
+   "birth_year": 1940,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "平川彰",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "橋本凝胤",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "田村芳朗",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "小川宏",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "横山紘一",
+   "type": "studied_at",
+   "object": "東京大学大学院印度哲学科",
+   "role": "MA",
+   "place": null,
+   "year_start": null,
+   "year_end": 1970,
+   "explicit": true,
+   "evidence": "1970年 東京大学大学院印度哲学科修士課程修了。",
+   "quote_ok": true
+  },
+  {
+   "subject": "横山紘一",
+   "type": "position_at",
+   "object": "立教大学",
+   "role": "助教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "現在立教大学助教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "横山紘一",
+   "type": "student_of",
+   "object": "平川彰",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "唯識専攻を決定づけたのは恩師平川彰先生のご薫陶による。",
+   "quote_ok": true
+  },
+  {
+   "subject": "横山紘一",
+   "type": "student_of",
+   "object": "橋本凝胤",
+   "role": "traditional teacher",
+   "place": "東大仏教青年会",
+   "year_start": 1970,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "唯識学が一つの宗教であることをお教え下さったのは薬師寺の橋本凝胤長老であった。昭和四十五年四月から、毎月二回、東大仏教青年会で『成唯識論』のご講義を拝聴させていただいた。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Yokoyama Koitsu_唯識の哲学_横山紘一",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Yokoyama Koitsu_唯識の哲学_横山紘一.txt",
+ "meta": {
+  "title": "唯識の哲学",
+  "author": "横山紘一",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

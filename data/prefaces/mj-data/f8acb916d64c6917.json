@@ -1,0 +1,85 @@
+{
+ "author": "宮下晴輝",
+ "doc_kind": "article",
+ "doc_year": 2014,
+ "people": [
+  {
+   "name": "宮下晴輝",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "木村泰賢",
+   "birth_year": 1881,
+   "death_year": 1930,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "宇井伯寿",
+   "birth_year": 1882,
+   "death_year": 1963,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "赤沼智善",
+   "birth_year": 1884,
+   "death_year": 1937,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "和辻哲郎",
+   "birth_year": 1889,
+   "death_year": 1960,
+   "nationality": "Japanese",
+   "field": "philosophy"
+  },
+  {
+   "name": "姉崎正治",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "religious studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "赤沼智善",
+   "type": "influenced_by",
+   "object": "宇井伯寿",
+   "role": null,
+   "place": null,
+   "year_start": 1925,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "同月に顕われた宇井博士の論文を読んで、啓発を受けるところが多く、自分の所論の不備、殊に、伝統的解釈が経典的根拠としているもの、そのものに向っての批判が足らなかったことを気づかしめられた",
+   "quote_ok": true
+  },
+  {
+   "subject": "姉崎正治",
+   "type": "position_at",
+   "object": "東京大学",
+   "role": "宗教学の教授",
+   "place": "東京",
+   "year_start": 1904,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "一九〇四年に東京大学の宗教学の教授に就任する。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Miyashita_宮下晴輝_2014@縁起説研究初期が残したもの",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Miyashita_宮下晴輝_2014@縁起説研究初期が残したもの.txt",
+ "meta": {
+  "title": "縁起説研究初期が残したもの",
+  "author": "宮下 晴輝",
+  "year": 2014,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

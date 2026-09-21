@@ -1,0 +1,84 @@
+{
+ "author": "V. A. Ramaswami Sastri and K. A. Sivaramakrishna Sastri",
+ "doc_kind": "text_edition",
+ "doc_year": 1950,
+ "people": [
+  {
+   "name": "V. A. Ramaswami Sastri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "K. A. Sivaramakrishna Sastri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "B. V. Narayanaswami Naidu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "R. Ramanujachari",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "V. A. Ramaswami Sastri",
+   "type": "collaborated_with",
+   "object": "K. A. Sivaramakrishna Sastri",
+   "role": "co-editors",
+   "place": "Annamalainagar",
+   "year_start": null,
+   "year_end": 1950,
+   "explicit": true,
+   "evidence": "In preparing the text of Bhavanaviveka and its commentary, the following manuscripts and printed material have been collated... V. A. Ramaswami Sastri and K. A. Sivaramakrishna Sastri",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "B. V. Narayanaswami Naidu",
+   "type": "position_at",
+   "object": "Annamalai University Journal",
+   "role": "past Editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "past and present Editors of the Annamalai University Journal, Dr. B. V. Narayanaswami Naidu, M.A., B. COM., PH. D., Bar-at-Law and Prof. R. Ramanujachari, M A.",
+   "quote_ok": true
+  },
+  {
+   "subject": "R. Ramanujachari",
+   "type": "position_at",
+   "object": "Annamalai University Journal",
+   "role": "Editor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1950,
+   "explicit": true,
+   "evidence": "past and present Editors of the Annamalai University Journal, Dr. B. V. Narayanaswami Naidu, M.A., B. COM., PH. D., Bar-at-Law and Prof. R. Ramanujachari, M A.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Bhavanaviveka_full",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Bhavanaviveka_full.txt",
+ "meta": {
+  "title": "Bhavanaviveka with Visamagranthibhedika",
+  "author": "Ramaswami Sastri, V. A. and Sivaramakrishna Sastri, K. A.",
+  "year": 1950,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

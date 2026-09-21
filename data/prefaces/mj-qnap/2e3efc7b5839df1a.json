@@ -1,0 +1,71 @@
+{
+ "author": "A. Weber",
+ "doc_kind": "other",
+ "doc_year": 1892,
+ "people": [
+  {
+   "name": "G. Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Fr. Kielhorn",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Deccan College",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Educational Department der Bombay-Presidency",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "G. Bühler",
+   "type": "position_at",
+   "object": "Educational Department der Bombay-Presidency",
+   "role": null,
+   "place": "Bombay",
+   "year_start": 1863,
+   "year_end": 1880,
+   "explicit": true,
+   "evidence": "G. Bühler anvertraut, der von 1863-1880 dem Educational Department der Bombay-Presidency angehörte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fr. Kielhorn",
+   "type": "position_at",
+   "object": "Deccan College",
+   "role": null,
+   "place": "Poona",
+   "year_start": 1866,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Fr. Kielhorn (seit 1866 am Deccan College in Poona)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "diehandschriften0503preu",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/diehandschriften0503preu.txt",
+ "meta": {
+  "title": "Die Handschriften-Verzeichnisse der Königlichen Bibliothek zu Berlin. Fünfter Band. Verzeichniss der Sanskrit- und Prâkṛit-Handschriften",
+  "author": "Weber, A.",
+  "year": 1892,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

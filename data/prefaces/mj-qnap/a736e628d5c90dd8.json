@@ -1,0 +1,90 @@
+{
+ "author": "下田正弘",
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "下田正弘",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "和辻哲郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "philosophy"
+  },
+  {
+   "name": "木村泰賢",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indian philosophy"
+  },
+  {
+   "name": "藤井日達",
+   "birth_year": 1885,
+   "death_year": 1985,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "丸山行造",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "和辻哲郎",
+   "type": "studied_at",
+   "object": "東京大学",
+   "role": "doctoral student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "この書物は東京大学に提出された和辻の学位論文であり、一九二七年に出版されている",
+   "quote_ok": true
+  },
+  {
+   "subject": "木村泰賢",
+   "type": "position_at",
+   "object": "東京大学文学部",
+   "role": "印度哲学教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "木村泰賢（当時の東大文学部印度哲学教授）",
+   "quote_ok": true
+  },
+  {
+   "subject": "丸山行造",
+   "type": "student_of",
+   "object": "藤井日達",
+   "role": "弟子",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "その忠実な弟子である丸山行造",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Shimoda_下田正弘_2002b",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Shimoda_下田正弘_2002b.txt",
+ "meta": {
+  "title": "未来に照らされる仏教 ―仏教学に与えられた課題―",
+  "author": "下田, 正弘",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

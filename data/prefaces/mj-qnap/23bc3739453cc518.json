@@ -1,0 +1,76 @@
+{
+ "author": "W. Caland",
+ "doc_kind": "text_edition",
+ "doc_year": 1907,
+ "people": [
+  {
+   "name": "W. Caland",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Bhandarkar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Thomas",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "W. Caland",
+   "type": "position_at",
+   "object": "University of Utrecht",
+   "role": "Professor of Sanskrit",
+   "place": "Utrecht",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor of Sanskrit at the University of Utrecht.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bhandarkar",
+   "type": "position_at",
+   "object": "Elphinstone College",
+   "role": "Professor",
+   "place": "Bombay",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Bhandarkar of Elphinstone College also was kind enough to provide me with more material",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas",
+   "type": "position_at",
+   "object": "India Office",
+   "role": "Librarian-in-Chief",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Thomas, Librarian-in-Chief to the India Office",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Caland_ed_BaudhSS_II-III=bibliothecaindi03indigoog",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Caland_ed_BaudhSS_II-III=bibliothecaindi03indigoog.txt",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

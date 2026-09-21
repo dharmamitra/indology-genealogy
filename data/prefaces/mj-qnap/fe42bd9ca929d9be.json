@@ -1,0 +1,100 @@
+{
+ "author": "J. W. Hauer",
+ "doc_kind": "dissertation",
+ "doc_year": 1921,
+ "people": [
+  {
+   "name": "J. W. Hauer",
+   "birth_year": 1881,
+   "death_year": null,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "Richard v. Garbe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hermann Jacobi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "J. W. Hauer",
+   "type": "student_of",
+   "object": "Richard v. Garbe",
+   "role": "doctoral supervisor",
+   "place": "Tübingen",
+   "year_start": 1916,
+   "year_end": 1917,
+   "explicit": true,
+   "evidence": "Referent: Professor Dr. v. Garbe 24. Juni 1917",
+   "quote_ok": true
+  },
+  {
+   "subject": "J. W. Hauer",
+   "type": "studied_at",
+   "object": "Universität zu Tübingen",
+   "role": "PhD",
+   "place": "Tübingen",
+   "year_start": 1916,
+   "year_end": 1918,
+   "explicit": true,
+   "evidence": "Inaugural-Dissertation zur Erlangung der Doktorwürde einer Hohen Philosophischen Fakultät der Universität zu Tübingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "J. W. Hauer",
+   "type": "studied_at",
+   "object": "Missionsanstalt in Basel",
+   "role": null,
+   "place": "Basel",
+   "year_start": 1900,
+   "year_end": 1906,
+   "explicit": true,
+   "evidence": "Dann trat ich in die Missionsanstalt in Basel ein und unterzog mich daselbst bis zum Jahre 1906, mit einem Jahr Unterbrechung beim Militärdienst, der Vorbereitung",
+   "quote_ok": true
+  },
+  {
+   "subject": "J. W. Hauer",
+   "type": "studied_at",
+   "object": "Universität Oxford",
+   "role": "B.A. mit Berechtigung zum M.A.",
+   "place": "Oxford",
+   "year_start": 1911,
+   "year_end": 1915,
+   "explicit": true,
+   "evidence": "Vom Jahre 1911 bis 1915 studierte ich im Gedanken an meine Rückkehr nach Indien an der Universität Oxford... und erwarb mir den Oxforder Grad (B.A. mit Berechtigung zum M.A.).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Jacobi",
+   "type": "collaborated_with",
+   "object": "Richard v. Garbe",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Die Bemerkung über Tabu im AV verdanke einer persönlichen Mitteilung Jacobis an v. Garbe.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Hauer, Die Anfänge der Yogapraxis im alten Indien 1921 dieanfngederyo00haue",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Hauer, Die Anfänge der Yogapraxis im alten Indien 1921 dieanfngederyo00haue.txt",
+ "meta": {
+  "title": "Die Anfänge der Yogapraxis im alten Indien",
+  "author": "Hauer, J. W.",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,52 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 2005,
+ "people": [
+  {
+   "name": "Fabienne Jagou",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  },
+  {
+   "name": "Carole McGranahan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "Anthropology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Fabienne Jagou",
+   "type": "position_at",
+   "object": "École française d'Extrême-Orient",
+   "role": "Maître de conférences",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Maître de conférences à l'École française d'Extrême-Orient.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carole McGranahan",
+   "type": "position_at",
+   "object": "University of Colorado",
+   "role": "Assistant Professor of Anthropology",
+   "place": "USA",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Assistant Professor of Anthropology at the University of Colorado, USA.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Cahiers d'Extrême-Asie_2005",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Cahiers d'Extrême-Asie_2005.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

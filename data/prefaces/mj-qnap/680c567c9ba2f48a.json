@@ -1,0 +1,92 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "V. Raghavan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "S. D. Gajendragadkar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "A. B. Gajendragadkar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "S. D. Gajendragadkar",
+   "type": "position_at",
+   "object": "Elphinstone High School, Bombay",
+   "role": "Shastri",
+   "place": "Bombay",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "BY S. D. Gajendragadkar Vyakarana-Nishnata ( Baroda ), Shastri, Elphinstone High School, Bombay.",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "A. B. Gajendragadkar",
+   "type": "position_at",
+   "object": "Deccan College, Poona",
+   "role": "Senior Dakshina Fellow",
+   "place": "Poona",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "BY A. B. Gajendragadkar Quondam Senior Dakshina Fellow, Deccan College, Poona",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "A. B. Gajendragadkar",
+   "type": "position_at",
+   "object": "Karnatak College, Dharwar",
+   "role": "Lecturer on Sanskrit",
+   "place": "Dharwar",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Lecturer on Sanskrit, Karnatak College, Dharwar.",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "S. D. Gajendragadkar",
+   "type": "collaborated_with",
+   "object": "A. B. Gajendragadkar",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "THE HARSHACHARITA OF Banabhatta ( UCHCHHVASAS I TO IV ) Edited With a Sanskrit Commentary ( Balabhodhini ) BY S. D. Gajendragadkar [...] AND An Introduction, Notes [...] BY A. B. Gajendragadkar",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "harsacarita_ed_gajendragadkar",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/harsacarita_ed_gajendragadkar.txt",
+ "meta": {
+  "title": "The Harshacharita",
+  "author": "Banabhatta",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

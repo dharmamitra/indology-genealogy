@@ -1,0 +1,117 @@
+{
+ "author": "金倉圓照",
+ "doc_kind": "monograph",
+ "doc_year": 1958,
+ "people": [
+  {
+   "name": "金倉圓照",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indian philosophy"
+  },
+  {
+   "name": "山口益",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "金倉圓照",
+   "type": "studied_at",
+   "object": "東京帝大文学部印度哲学科",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1920,
+   "explicit": true,
+   "evidence": "大正9年東京帝大文学部印度哲学科卒業。",
+   "quote_ok": true
+  },
+  {
+   "subject": "金倉圓照",
+   "type": "position_at",
+   "object": "東北帝大",
+   "role": "助教授",
+   "place": null,
+   "year_start": 1923,
+   "year_end": 1929,
+   "explicit": true,
+   "evidence": "大正12年東北帝大助教授。同年より同15年まで英・独・印各国に留学。昭和4年東北帝大教授。",
+   "quote_ok": true
+  },
+  {
+   "subject": "金倉圓照",
+   "type": "position_at",
+   "object": "東北帝大",
+   "role": "教授",
+   "place": null,
+   "year_start": 1929,
+   "year_end": 1960,
+   "explicit": true,
+   "evidence": "昭和4年東北帝大教授。同35年名誉教授。",
+   "quote_ok": true
+  },
+  {
+   "subject": "金倉圓照",
+   "type": "position_at",
+   "object": "宮城教育大学",
+   "role": "学長",
+   "place": null,
+   "year_start": 1966,
+   "year_end": 1969,
+   "explicit": true,
+   "evidence": "同41年より44年まで宮城教育大学学長。",
+   "quote_ok": true
+  },
+  {
+   "subject": "金倉圓照",
+   "type": "position_at",
+   "object": "立正大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "現在立正大学教授。",
+   "quote_ok": true
+  },
+  {
+   "subject": "金倉圓照",
+   "type": "collaborated_with",
+   "object": "山口益",
+   "role": null,
+   "place": null,
+   "year_start": 1950,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "山口博士は、本典第九章のパンヂカーを数年大谷大学で講読せられ、私の翻訳の企てを聞かるゝや、協同研究を提議せられた。そしてそれに対し、昭和二十五年度文部省科学研究費の補助と合なった。",
+   "quote_ok": false
+  },
+  {
+   "subject": "山口益",
+   "type": "position_at",
+   "object": "大谷大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "山口博士は、本典第九章のパンヂカーを数年大谷大学で講読せられ",
+   "quote_ok": true
+  }
+ ],
+ "docid": "悟りへの道",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/悟りへの道.txt",
+ "meta": {
+  "title": "悟りへの道",
+  "author": "シャンティデーヴ",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,78 @@
+{
+ "author": null,
+ "doc_kind": "edited_volume",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Tsering Shakya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Thierry Dodin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Heinz Räther",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Michael Weiers",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Central Asian Studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Tsering Shakya",
+   "type": "position_at",
+   "object": "School of Oriental and African Studies, University of London",
+   "role": null,
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Tsering Shakya\nSchool of Oriental and African Studies\nUniversity of London",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thierry Dodin",
+   "type": "collaborated_with",
+   "object": "Heinz Räther",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Imagining Tibet: Between Shangri-la and Feudal Oppression\nThierry Dodin and Heinz Räther",
+   "quote_ok": false
+  },
+  {
+   "subject": "Michael Weiers",
+   "type": "position_at",
+   "object": "Institute of Central Asian Studies at the University of Bonn",
+   "role": "director, Professor",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the Institute of Central Asian Studies at the University of Bonn-especially its director, Professor Michael Weiers-for its support",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Dodin and Rather_Imagining Tibet",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Dodin and Rather_Imagining Tibet.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

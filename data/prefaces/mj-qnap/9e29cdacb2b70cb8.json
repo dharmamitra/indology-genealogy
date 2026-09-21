@@ -1,0 +1,45 @@
+{
+ "author": "F. Max Müller",
+ "doc_kind": "text_edition",
+ "doc_year": 1891,
+ "people": [
+  {
+   "name": "F. Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Eugène Burnouf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "F. Max Müller",
+   "type": "student_of",
+   "object": "Eugène Burnouf",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I took as an example which I tried to follow, though well aware of my inability to reach its excellence, the Commentaire sur le Yasna by my friend and teacher, Eugène Burnouf.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "vedichymns01mulluoft",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/vedichymns01mulluoft.txt",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": null
+ },
+ "model": "gemini-flash-latest"
+}

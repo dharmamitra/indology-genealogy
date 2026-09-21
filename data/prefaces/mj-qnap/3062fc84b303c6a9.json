@@ -1,0 +1,146 @@
+{
+ "author": "Kazuo ENOKI",
+ "doc_kind": "article",
+ "doc_year": 1967,
+ "people": [
+  {
+   "name": "Kazuo ENOKI",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Mikinosuke Ishida",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Kurakichi Shiratori",
+   "birth_year": 1865,
+   "death_year": 1942,
+   "nationality": "Japanese",
+   "field": "Oriental studies"
+  },
+  {
+   "name": "Baron Hisaya Iwasaki",
+   "birth_year": 1865,
+   "death_year": 1955,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Yukichi Fukuzawa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Tsunashirô Wada",
+   "birth_year": 1856,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Baron Hisaya Iwasaki",
+   "type": "student_of",
+   "object": "Yukichi Fukuzawa",
+   "role": "teacher",
+   "place": "Keiō Gijuku",
+   "year_start": 1875,
+   "year_end": 1878,
+   "explicit": true,
+   "evidence": "He was educated from 1875 to 1878 under Yukichi Fukuzawa 福澤諭吉 at the Keiō Gijuku 慶應義塾",
+   "quote_ok": true
+  },
+  {
+   "subject": "Baron Hisaya Iwasaki",
+   "type": "studied_at",
+   "object": "Keiō Gijuku",
+   "role": null,
+   "place": null,
+   "year_start": 1875,
+   "year_end": 1878,
+   "explicit": true,
+   "evidence": "He was educated from 1875 to 1878 under Yukichi Fukuzawa 福澤諭吉 at the Keiō Gijuku 慶應義塾 what is now the Keiō Gijuku University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Baron Hisaya Iwasaki",
+   "type": "studied_at",
+   "object": "Mitsubishi Shōgyō Gakkō",
+   "role": null,
+   "place": null,
+   "year_start": 1878,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "and from 1878 to 1885 at the Mitsubishi Shōgyō Gakkō 三菱商業學校",
+   "quote_ok": true
+  },
+  {
+   "subject": "Baron Hisaya Iwasaki",
+   "type": "studied_at",
+   "object": "Wharton School of Finance and Commerce of the University of Pennsylvania",
+   "role": "Bachelor of Science",
+   "place": "Philadelphia",
+   "year_start": 1886,
+   "year_end": 1891,
+   "explicit": true,
+   "evidence": "In 1886 Hisaya went to Philadelphia, where he read natural sciences at the Wharton School of Finance and Commerce of the University of Pennsylvania. Graduating the Bachelor of Science in 1891",
+   "quote_ok": true
+  },
+  {
+   "subject": "Baron Hisaya Iwasaki",
+   "type": "founded",
+   "object": "Toyo Bunko",
+   "role": null,
+   "place": "Tokyo",
+   "year_start": 1924,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Baron Hisaya Iwasaki 岩崎久彌 (1865–1955) who enlarged it in scope and scale and established the Toyo Bunko in 1924.",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Mikinosuke Ishida",
+   "type": "position_at",
+   "object": "Toyo Bunko",
+   "role": "curator",
+   "place": "Tokyo",
+   "year_start": 1924,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mr. Mikinosuke Ishida was appointed the curator.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kurakichi Shiratori",
+   "type": "position_at",
+   "object": "Toyo Bunko",
+   "role": "Trustee",
+   "place": "Tokyo",
+   "year_start": 1924,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The Toyo Bunko was placed under the management of the Board of Trustees consisting of six people who were Junnosuke Inouye, Masunosuke Odagiri, Kazutoshi Ueda, Kurakichi Shiratori...",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Enoki_1967",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Enoki_1967.txt",
+ "meta": {
+  "title": "Memoirs of the Research Department of the Toyo Bunko",
+  "author": "",
+  "year": 1967,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,166 @@
+{
+ "author": "Heather Karmay",
+ "doc_kind": "monograph",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Heather Karmay",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  },
+  {
+   "name": "Nicole Vandier-Nicolas",
+   "birth_year": 1908,
+   "death_year": 1987,
+   "nationality": "French",
+   "field": "Sinology"
+  },
+  {
+   "name": "D. C. Lau",
+   "birth_year": 1921,
+   "death_year": 2010,
+   "nationality": "Chinese",
+   "field": "Sinology"
+  },
+  {
+   "name": "Roderick Whitfield",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "East Asian art history"
+  },
+  {
+   "name": "Jessica Rawson",
+   "birth_year": 1943,
+   "death_year": null,
+   "nationality": "British",
+   "field": "East Asian art history"
+  },
+  {
+   "name": "John Lowry",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jeannine Auboyer",
+   "birth_year": 1912,
+   "death_year": 1990,
+   "nationality": "French",
+   "field": "Indian art history"
+  },
+  {
+   "name": "Samten Gyaltsen Karmay",
+   "birth_year": 1936,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Heather Karmay",
+   "type": "student_of",
+   "object": "Nicole Vandier-Nicolas",
+   "role": "supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mme. Vandier-Nicolas introduced me to the magnificent collection of Dunhuang paintings in the Musée Guimet and directed the research paper which forms the basis of the present study.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heather Karmay",
+   "type": "student_of",
+   "object": "D. C. Lau",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "My respected former Professor D. C. Lau has been of considerable help with the Chinese translations.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heather Karmay",
+   "type": "student_of",
+   "object": "Samten Gyaltsen Karmay",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Last and certainly not least my husband, friend and teacher, Samten Gyaltsen Karmay",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heather Karmay",
+   "type": "other",
+   "object": "Samten Gyaltsen Karmay",
+   "role": "husband",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Last and certainly not least my husband, friend and teacher, Samten Gyaltsen Karmay",
+   "quote_ok": true
+  },
+  {
+   "subject": "Roderick Whitfield",
+   "type": "position_at",
+   "object": "British Museum",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I would like to thank my friends Jessica Rawson and Dr. Roderick Whitfield of the British Museum",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jessica Rawson",
+   "type": "position_at",
+   "object": "British Museum",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I would like to thank my friends Jessica Rawson and Dr. Roderick Whitfield of the British Museum",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Lowry",
+   "type": "position_at",
+   "object": "Victoria and Albert Museum",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "John Lowry of the Victoria and Albert Museum",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jeannine Auboyer",
+   "type": "position_at",
+   "object": "Musée Guimet",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mlle. Auboyer of Musée Guimet",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Karmay_Sino-Tib Art",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Karmay_Sino-Tib Art.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

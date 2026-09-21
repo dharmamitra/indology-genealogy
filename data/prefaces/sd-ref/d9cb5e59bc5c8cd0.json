@@ -1,0 +1,74 @@
+{
+ "author": null,
+ "doc_kind": "monograph",
+ "doc_year": 2000,
+ "people": [
+  {
+   "name": "Kennard Lipman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Merrill Peterson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Namkhai Norbu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Kennard Lipman",
+   "type": "collaborated_with",
+   "object": "Merrill Peterson",
+   "role": "co-translators",
+   "place": null,
+   "year_start": null,
+   "year_end": 2000,
+   "explicit": true,
+   "evidence": "Translated by Kennard Lipman and Merrill Peterson",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Kennard Lipman",
+   "type": "influenced_by",
+   "object": "Namkhai Norbu",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Translated by ennard Lipman and Merrill Peterson under the inspiration of Namkhai Norbu",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Merrill Peterson",
+   "type": "influenced_by",
+   "object": "Namkhai Norbu",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Translated by ennard Lipman and Merrill Peterson under the inspiration of Namkhai Norbu",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "cleaned_Longchenpa_kun byed rgyal po'i don khrid",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Longchenpa_kun byed rgyal po'i don khrid.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

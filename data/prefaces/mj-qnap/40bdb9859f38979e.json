@@ -1,0 +1,84 @@
+{
+ "author": "Dorji Penjore",
+ "doc_kind": "other",
+ "doc_year": 2002,
+ "people": [
+  {
+   "name": "Dorji Penjore",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Bhutanese",
+   "field": null
+  },
+  {
+   "name": "Jagar Dorji",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Michael Aris",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Michael Hutt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Dorji Penjore",
+   "type": "position_at",
+   "object": "The Centre for Bhutan Studies",
+   "role": "Compiler",
+   "place": "Thimphu",
+   "year_start": null,
+   "year_end": 2002,
+   "explicit": true,
+   "evidence": "Bhutan's National Bibliography Dorji Penjore Compiler The Centre for Bhutan Studies",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Jagar Dorji",
+   "type": "position_at",
+   "object": "National Institute of Education, Paro",
+   "role": "Director",
+   "place": "Paro",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The Centre would like to thank Dr. Jagar Dorji, Director, National Institute of Education, Paro",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Aris",
+   "type": "collaborated_with",
+   "object": "Michael Hutt",
+   "role": "co-editors",
+   "place": null,
+   "year_start": 1994,
+   "year_end": 1994,
+   "explicit": true,
+   "evidence": "Aris, Michael and Hutt, Michael (edited) 1994 Bhutan: Aspects of Culture and Development",
+   "quote_ok": true
+  }
+ ],
+ "docid": "bt-nat-bibliog",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/bt-nat-bibliog.txt",
+ "meta": {
+  "title": "Bhutan's National Bibliography",
+  "author": "Penjore, Dorji",
+  "year": 2002,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

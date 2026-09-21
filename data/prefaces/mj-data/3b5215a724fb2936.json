@@ -1,0 +1,83 @@
+{
+ "author": "吉村誠",
+ "doc_kind": "article",
+ "doc_year": 2016,
+ "people": [
+  {
+   "name": "吉村誠",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "長澤和俊",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "水谷真成",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "藤丸智雄",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "吉村誠",
+   "type": "position_at",
+   "object": "駒沢大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "よしむら まこと\n駒沢大学教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "藤丸智雄",
+   "type": "position_at",
+   "object": "東京大学仏教青年会",
+   "role": "主事",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "私はかつて二十年ほど前に、この東京大学仏教青年会の主事をさせていただいており",
+   "quote_ok": true
+  },
+  {
+   "subject": "藤丸智雄",
+   "type": "position_at",
+   "object": "浄土真宗本願寺派総合研究所",
+   "role": null,
+   "place": "京都",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "浄土真宗本願寺派総合研究所という、京都の堀川七条を少し上がったところに本願寺というお寺がありますが、そこの研究所に所属しております。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Yoshimura_吉村誠_2016@玄奘三蔵はるかなる旅",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Yoshimura_吉村誠_2016@玄奘三蔵はるかなる旅.txt",
+ "meta": {
+  "title": "玄奘三蔵はるかなる旅",
+  "author": "吉村 誠",
+  "year": 2016,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

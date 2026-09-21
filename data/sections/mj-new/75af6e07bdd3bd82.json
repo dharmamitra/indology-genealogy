@@ -1,0 +1,73 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "櫻部 建",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "小谷 信千代",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "山口 益",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "舟橋 一哉",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "櫻部 建",
+   "type": "collaborated_with",
+   "object": "小谷 信千代",
+   "role": "co-translators",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "倶舎論の原典解明 賢聖品 櫻部 建 小谷信千代 訳",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "山口 益",
+   "type": "collaborated_with",
+   "object": "舟橋 一哉",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1987,
+   "explicit": true,
+   "evidence": "山口益・舟橋一哉『倶舎論の原典解明 業品』（法藏館 1987）",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "AKBh 倶舍論の原典解明　賢聖品",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/AKBh 倶舍論の原典解明　賢聖品.txt#0",
+ "meta": {
+  "title": "倶舎論の原典解明 賢聖品",
+  "author": "櫻部 建, 小谷 信千代",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,143 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1905,
+ "people": [
+  {
+   "name": "Louis Finot",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "H. Parmentier",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "archaeology"
+  },
+  {
+   "name": "E.-M. Durand",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Alleyne Ireland",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "C. Duroiselle",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "L. Pullé",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Italian",
+   "field": null
+  },
+  {
+   "name": "Nocentini",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Italian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Louis Finot",
+   "type": "position_at",
+   "object": "École Française d'Extrême-Orient",
+   "role": "premier directeur et son organisateur",
+   "place": "Hanoi",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A M. LOUIS FINOT SON PREMIER DIRECTEUR ET SON ORGANISATEUR l'École Française d'Extrême-Orient RECONNAISSANTE",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "H. Parmentier",
+   "type": "position_at",
+   "object": "École française d'Extrême-Orient",
+   "role": "chef du Service archéologique",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "MM. H. PARMENTIER, architecte, chef du Service archéologique de l'École française d'Extrême-Orient",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "E.-M. Durand",
+   "type": "position_at",
+   "object": "École française d'Extrême-Orient",
+   "role": "correspondant",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "E.-M. DURAND, Missionnaire apostolique, correspondant de l'École française d'Extrême-Orient",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Alleyne Ireland",
+   "type": "position_at",
+   "object": "Université de Chicago",
+   "role": "colonial Commissioner",
+   "place": "Chicago",
+   "year_start": 1901,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "En 1901, M. Alleyne IRELAND fut nommé « colonial Commissioner » de l'Université de Chicago",
+   "quote_ok": true
+  },
+  {
+   "subject": "C. Duroiselle",
+   "type": "position_at",
+   "object": "École française d'Extrême-Orient",
+   "role": "collaborateur",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Notre collaborateur, M. C Duroiselle a commencé à publier dans le vol. II, n° 1 du Buddhism (Rangoon, oct. 1905) une traduction anglaise du Commentaire pâli du Dhammapada.",
+   "quote_ok": true
+  },
+  {
+   "subject": "L. Pullé",
+   "type": "collaborated_with",
+   "object": "Nocentini",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "le professeur comte L. Pullé y note ensuite, de la plume et de l'objectif, les souvenirs de son voyage, en compagnie du professeur Nocentini, jusqu'en Indochine.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "BEFEO_5",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/BEFEO_5.txt#2",
+ "meta": {
+  "title": "Bulletin de l'Ecole Française d'Extrême-Orient",
+  "author": "",
+  "year": 1905,
+  "language": "fr"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,124 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 1992,
+ "people": [
+  {
+   "name": "A. Wezler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Hartmut-Ortwin Feistel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Wolfgang Voigt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Dieter George",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "K. L. Janert",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Cecil Bendall",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Edward Byles Cowell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Julius Eggeling",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Wolfgang Voigt",
+   "type": "founded",
+   "object": "Verzeichnis der orientalischen Handschriften in Deutschland",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "VERZEICHNIS DER ORIENTALISCHEN HANDSCHRIFTEN IN DEUTSCHLAND IM EINVERNEHMEN MIT DER DEUTSCHEN MORGENLÄNDISCHEN GESELLSCHAFT BEGRÜNDET VON WOLFGANG VOIGT",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Hartmut-Ortwin Feistel",
+   "type": "position_at",
+   "object": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz",
+   "role": "Oriental Department",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. H.-O. Feistel of the Oriental Department, Staatsbibliothek zu Berlin - Preußischer Kulturbesitz",
+   "quote_ok": true
+  },
+  {
+   "subject": "Cecil Bendall",
+   "type": "influenced_by",
+   "object": "Edward Byles Cowell",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "When therefore he suggested that I should endeavour to complete it, I commenced at first on the MSS. that he had left untouched, availing myself however of the material that he kindly made over to me.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Byles Cowell",
+   "type": "collaborated_with",
+   "object": "Julius Eggeling",
+   "role": "catalogue co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "chiefly on the lines of the Catalogue prepared by himself and Dr Eggeling for the Royal Asiatic Society",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Bendall 1992 cat of buddh ms AD_2",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Bendall 1992 cat of buddh ms AD_2.txt",
+ "meta": {
+  "title": "Verzeichnis der orientalischen Handschriften in Deutschland",
+  "author": "Feistel, Hartmut-Ortwin",
+  "year": 1992,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

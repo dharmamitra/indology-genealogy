@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 1996,
+ "people": [
+  {
+   "name": "三友健容",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "齋藤龍裕",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "佐野靖夫",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "三友健容",
+   "type": "position_at",
+   "object": "立正大学",
+   "role": "学部長",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "大学院で仏教学演習の講義を担当し、毎火曜日にAbhidharmadīpa-vibhāṣāprabhāvṛtti を読んでいる。院生諸君は大変熱心で...小生の方は、学部長としての校務のため",
+   "quote_ok": true
+  },
+  {
+   "subject": "齋藤龍裕",
+   "type": "student_of",
+   "object": "三友健容",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "大学院で仏教学演習の講義を担当し...齋藤龍裕・佐野靖夫君はこの予習会の主導者で、ついに部派仏教思想研究会にまで発展しだした。今回その授業の成果の一部を大学院論集に記載することになった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "佐野靖夫",
+   "type": "student_of",
+   "object": "三友健容",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "大学院で仏教学演習の講義を担当し...齋藤龍裕・佐野靖夫君はこの予習会の主導者で、ついに部派仏教思想研究会にまで発展しだした。今回その授業の成果の一部を大学院論集に記載することになった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "齋藤龍裕",
+   "type": "collaborated_with",
+   "object": "佐野靖夫",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "齋藤龍裕・佐野靖夫君はこの予習会の主導者で、ついに部派仏教思想研究会にまで発展しだした。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "立正大学大学院部派仏教思想研究会_1996",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/立正大学大学院部派仏教思想研究会_1996.txt",
+ "meta": {
+  "title": "Abhidharma文献におけるālocanaの用例",
+  "author": "立正大学大学院部派仏教思想研究会",
+  "year": 1996,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,40 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Hsüan Hua",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhism"
+  },
+  {
+   "name": "Xuyun",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": "Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hsüan Hua",
+   "type": "student_of",
+   "object": "Xuyun",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Master Hua's own teacher Master Xuyun respected and endorsed the Śūrangama Sūtra's instructions",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Surangama Sutra_ny_Buddhist Text Translation Society",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Surangama Sutra_ny_Buddhist Text Translation Society.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

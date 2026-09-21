@@ -1,0 +1,98 @@
+{
+ "author": "古宇田亮修",
+ "doc_kind": "article",
+ "doc_year": 2004,
+ "people": [
+  {
+   "name": "古宇田亮修",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "鈴木晃信",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "大塚伸夫",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "松濤泰雄",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "戸田宏文",
+   "birth_year": 1936,
+   "death_year": 2003,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "松田和信",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "古宇田亮修",
+   "type": "influenced_by",
+   "object": "鈴木晃信",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "本稿は, 当研究会の鈴木晃信氏による『瑜伽師地論・声聞地』写本に対するコンピュータを用いた最初の文字作成1)を手本とし, その方法論2)を参考とさせて頂いた。",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "古宇田亮修",
+   "type": "student_of",
+   "object": "戸田宏文",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "梵文写本の研究に不慣れな筆者に対し、種々の資料を提供して下さった上、懇切なる御教示をも頂戴していた(故)戸田宏文博士(1936-2003)",
+   "quote_ok": false
+  },
+  {
+   "subject": "松田和信",
+   "type": "position_at",
+   "object": "佛教大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "松田和信教授(佛教大学)の御教示によれば",
+   "quote_ok": true
+  }
+ ],
+ "docid": "KOUDA Ryoshi Vimalakirtinirdesasutra Script 2004 AD",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/KOUDA Ryoshi Vimalakirtinirdesasutra Script 2004 AD.txt",
+ "meta": {
+  "title": "『維摩經』・『智光明莊嚴經』梵文寫本の書体",
+  "author": "古宇田, 亮修",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

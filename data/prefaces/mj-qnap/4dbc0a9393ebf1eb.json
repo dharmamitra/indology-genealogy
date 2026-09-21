@@ -1,0 +1,71 @@
+{
+ "author": "田口順爾",
+ "doc_kind": "article",
+ "doc_year": 2001,
+ "people": [
+  {
+   "name": "田口順爾",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Shin Buddhist studies"
+  },
+  {
+   "name": "北畠典典",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "武邑尚邦",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Shin Buddhist studies"
+  },
+  {
+   "name": "高楠順次郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "田口順爾",
+   "type": "student_of",
+   "object": "北畠典典",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "恩師・北畠典典先生は、華厳宗第四祖澄観（七三八〜八三九）の説を用いられて「真如と我と同根であり、法性と我とは一体である」と明示なされた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "武邑尚邦",
+   "type": "student_of",
+   "object": "高楠順次郎",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "武邑尚邦先生は、恩師・高楠順次郎先生の説を用いられて、「仏とは、宇宙大の人格を完成した人」と言われ",
+   "quote_ok": true
+  }
+ ],
+ "docid": "taguchi_200111_田口順爾",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/taguchi_200111_田口順爾.txt",
+ "meta": {
+  "title": "諸仏の一考察",
+  "author": "田口順爾",
+  "year": 2001,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

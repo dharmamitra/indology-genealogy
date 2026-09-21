@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1886,
+ "people": [
+  {
+   "name": "John Hallett Batten",
+   "birth_year": 1811,
+   "death_year": 1886,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "B. Jülg",
+   "birth_year": 1825,
+   "death_year": 1886,
+   "nationality": null,
+   "field": "Classical Philology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Hallett Batten",
+   "type": "studied_at",
+   "object": "Charterhouse",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was educated at Charterhouse",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Hallett Batten",
+   "type": "studied_at",
+   "object": "Haileybury College",
+   "role": null,
+   "place": null,
+   "year_start": 1827,
+   "year_end": 1829,
+   "explicit": true,
+   "evidence": "Shortly afterwards he entered Haileybury College, and passed ou 1829",
+   "quote_ok": false
+  },
+  {
+   "subject": "B. Jülg",
+   "type": "position_at",
+   "object": "University of Inspruck",
+   "role": "Professor of Classical Philology",
+   "place": "Inspruck",
+   "year_start": null,
+   "year_end": 1886,
+   "explicit": true,
+   "evidence": "Inspruck, in the University of which city he was Professor of Classical Philology.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "JRASGBINS 18",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/JRASGBINS 18.txt#0",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

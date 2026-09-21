@@ -1,0 +1,151 @@
+{
+ "author": "Masamichi Ichigō",
+ "doc_kind": "text_edition",
+ "doc_year": 1985,
+ "people": [
+  {
+   "name": "Masamichi Ichigō",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Susumu Yamaguchi",
+   "birth_year": null,
+   "death_year": 1976,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Y. Kajiyama",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist logic and epistemology"
+  },
+  {
+   "name": "Gadjin M. Nagao",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Suketaka Kashiwa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Masamichi Ichigō",
+   "type": "student_of",
+   "object": "Susumu Yamaguchi",
+   "role": "teacher",
+   "place": "Otani University",
+   "year_start": 1961,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "It was from my Guru, the late Professor Susumu Yamaguchi, who gave a lecture on the Madhyamakālaṃkāra at Otani University in 1961",
+   "quote_ok": true
+  },
+  {
+   "subject": "Masamichi Ichigō",
+   "type": "student_of",
+   "object": "Y. Kajiyama",
+   "role": "teacher",
+   "place": "Kyoto University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Thereafter, the editor had the good fortune to be able to attend the seminar of Professor Y. Kajiyama on the Bahirarthaparīkṣā of the Tattvasaṃgraha at Kyoto University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Masamichi Ichigō",
+   "type": "student_of",
+   "object": "Gadjin M. Nagao",
+   "role": "doctoral supervisor",
+   "place": "Kyoto University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Finally, the editor wishes to express his gratitude and thanks to Professor Gadjin M. Nagao, his academic adviser at Kyoto University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Masamichi Ichigō",
+   "type": "position_at",
+   "object": "Kyoto Sangyo University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1985,
+   "explicit": false,
+   "evidence": "Critically Edited By Masamichi ICHIGŌ Kyoto Sangyo University Kyoto 1985",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Suketaka Kashiwa",
+   "type": "position_at",
+   "object": "Kyoto Sangyo University",
+   "role": "President",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "president of the University, Suketaka Kashiwa",
+   "quote_ok": true
+  },
+  {
+   "subject": "Masamichi Ichigō",
+   "type": "studied_at",
+   "object": "University of Michigan",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "made it possible for the editor to go to the University of Michigan to complete this study.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Y. Kajiyama",
+   "type": "position_at",
+   "object": "Kyoto University",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "attend the seminar of Professor Y. Kajiyama on the Bahirarthaparīkṣā of the Tattvasaṃgraha at Kyoto University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gadjin M. Nagao",
+   "type": "position_at",
+   "object": "Kyoto University",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Gadjin M. Nagao, his academic adviser at Kyoto University",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Ichigo_1985_Madhyamakālaṅkāra_ed",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Ichigo_1985_Madhyamakālaṅkāra_ed.txt",
+ "meta": {
+  "title": "Madhyamakālaṃkāra",
+  "author": "Ichigō, Masamichi",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,246 @@
+{
+ "author": "Thomas Anthony Tweed",
+ "doc_kind": "dissertation",
+ "doc_year": 1989,
+ "people": [
+  {
+   "name": "Thomas Anthony Tweed"
+  },
+  {
+   "name": "William Clebsch"
+  },
+  {
+   "name": "Daniel Howe"
+  },
+  {
+   "name": "Bruce Kuklick"
+  },
+  {
+   "name": "Robert Buswell"
+  },
+  {
+   "name": "Luis Gomez"
+  },
+  {
+   "name": "Van Harvey"
+  },
+  {
+   "name": "Lee Yearley"
+  },
+  {
+   "name": "Gordon Kaufman"
+  },
+  {
+   "name": "Carl Bielefeldt"
+  },
+  {
+   "name": "Robert Thurman"
+  },
+  {
+   "name": "Peter Gregory"
+  },
+  {
+   "name": "Nagatomi"
+  },
+  {
+   "name": "Eckels"
+  },
+  {
+   "name": "William Hutchison"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Thomas Anthony Tweed",
+   "type": "studied_at",
+   "object": "Stanford",
+   "role": "PhD",
+   "explicit": true,
+   "evidence": "one of my teachers at Stanford, William Clebsch, died before I wrote the dissertation proposal",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Anthony Tweed",
+   "type": "student_of",
+   "object": "William Clebsch",
+   "role": "teacher",
+   "explicit": true,
+   "evidence": "one of my teachers at Stanford, William Clebsch, died before I wrote the dissertation proposal... As his student and research assistant I learned a great deal",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daniel Howe",
+   "type": "position_at",
+   "object": "UCLA",
+   "role": "Professor",
+   "explicit": true,
+   "evidence": "Professor Howe of UCLA was especially generous with his time--even serving on my Qualifying Exam Committee.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Anthony Tweed",
+   "type": "student_of",
+   "object": "Daniel Howe",
+   "role": "committee member",
+   "explicit": true,
+   "evidence": "Professor Howe of UCLA was especially generous with his time--even serving on my Qualifying Exam Committee.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bruce Kuklick",
+   "type": "position_at",
+   "object": "Penn",
+   "explicit": true,
+   "evidence": "Bruce Kuklick of Penn, Robert Buswell of UCLA, and Luis Gomez of Michigan commented on an early summary of the project.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Buswell",
+   "type": "position_at",
+   "object": "UCLA",
+   "explicit": true,
+   "evidence": "Bruce Kuklick of Penn, Robert Buswell of UCLA, and Luis Gomez of Michigan commented on an early summary of the project.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Luis Gomez",
+   "type": "position_at",
+   "object": "Michigan",
+   "explicit": true,
+   "evidence": "Bruce Kuklick of Penn, Robert Buswell of UCLA, and Luis Gomez of Michigan commented on an early summary of the project.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Anthony Tweed",
+   "type": "student_of",
+   "object": "Van Harvey",
+   "role": "committee member",
+   "explicit": true,
+   "evidence": "Van Harvey at Stanford who, together with Lee Yearley at Stanford and Gordon Kaufman at Harvard Divinity School, taught me to think... Carl Bielefeldt, who served on my dissertation committee with Professor Harvey",
+   "quote_ok": true
+  },
+  {
+   "subject": "Van Harvey",
+   "type": "position_at",
+   "object": "Stanford",
+   "explicit": true,
+   "evidence": "Van Harvey at Stanford who, together with Lee Yearley at Stanford and Gordon Kaufman at Harvard Divinity School, taught me to think.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lee Yearley",
+   "type": "position_at",
+   "object": "Stanford",
+   "explicit": true,
+   "evidence": "Van Harvey at Stanford who, together with Lee Yearley at Stanford and Gordon Kaufman at Harvard Divinity School, taught me to think.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Anthony Tweed",
+   "type": "student_of",
+   "object": "Lee Yearley",
+   "role": "teacher",
+   "explicit": true,
+   "evidence": "Van Harvey at Stanford who, together with Lee Yearley at Stanford and Gordon Kaufman at Harvard Divinity School, taught me to think.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gordon Kaufman",
+   "type": "position_at",
+   "object": "Harvard Divinity School",
+   "explicit": true,
+   "evidence": "together with Lee Yearley at Stanford and Gordon Kaufman at Harvard Divinity School, taught me to think.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Anthony Tweed",
+   "type": "student_of",
+   "object": "Gordon Kaufman",
+   "role": "teacher",
+   "explicit": true,
+   "evidence": "together with Lee Yearley at Stanford and Gordon Kaufman at Harvard Divinity School, taught me to think.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Anthony Tweed",
+   "type": "student_of",
+   "object": "Carl Bielefeldt",
+   "role": "committee member",
+   "explicit": true,
+   "evidence": "Carl Bielefeldt, who served on my dissertation committee with Professor Harvey, taught me much of what I know about Buddhism.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Anthony Tweed",
+   "type": "student_of",
+   "object": "Robert Thurman",
+   "role": "teacher",
+   "explicit": true,
+   "evidence": "I also studied Buddhism with Robert Thurman and Peter Gregory",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Anthony Tweed",
+   "type": "student_of",
+   "object": "Peter Gregory",
+   "role": "teacher",
+   "explicit": true,
+   "evidence": "I also studied Buddhism with Robert Thurman and Peter Gregory",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nagatomi",
+   "type": "position_at",
+   "object": "Harvard",
+   "role": "Professor",
+   "explicit": true,
+   "evidence": "two Buddhist scholars at Harvard--Professors Nagatomi and Eckels",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eckels",
+   "type": "position_at",
+   "object": "Harvard",
+   "role": "Professor",
+   "explicit": true,
+   "evidence": "two Buddhist scholars at Harvard--Professors Nagatomi and Eckels",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Anthony Tweed",
+   "type": "student_of",
+   "object": "William Hutchison",
+   "role": "doctoral supervisor",
+   "explicit": true,
+   "evidence": "William Hutchison of Harvard, who served as co-director of the dissertation.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Hutchison",
+   "type": "position_at",
+   "object": "Harvard",
+   "explicit": true,
+   "evidence": "William Hutchison of Harvard, who served as co-director of the dissertation.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Anthony Tweed",
+   "type": "studied_at",
+   "object": "Harvard",
+   "role": "Exchange Scholar",
+   "explicit": true,
+   "evidence": "During the final stages of the project I spent about one and a half years at Harvard as an Exchange Scholar at the Committee on the Study of Religion.",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Tweed-Amer.Buddh",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Tweed-Amer.Buddh.txt",
+ "meta": {
+  "title": "The American encounter with Buddhism, 1844-1912: Responses to Buddhism, dissent and consent, and Victorian religious culture",
+  "author": "Tweed, Thomas Anthony",
+  "year": 1989,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

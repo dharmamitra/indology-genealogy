@@ -1,0 +1,126 @@
+{
+ "author": "Gail Hinich Sutherland",
+ "doc_kind": "monograph",
+ "doc_year": 1991,
+ "people": [
+  {
+   "name": "Gail Hinich Sutherland",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Carol Bolon",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "art history"
+  },
+  {
+   "name": "Wendy Doniger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Frank Reynolds",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Virendra Singh",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Gail Hinich Sutherland",
+   "type": "studied_at",
+   "object": "University of Chicago",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "The idea for this project began to take shape in an art history course at the University of Chicago taught by Carol Bolon.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carol Bolon",
+   "type": "position_at",
+   "object": "University of Chicago",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "an art history course at the University of Chicago taught by Carol Bolon.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gail Hinich Sutherland",
+   "type": "student_of",
+   "object": "Carol Bolon",
+   "role": "teacher",
+   "place": "University of Chicago",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The idea for this project began to take shape in an art history course at the University of Chicago taught by Carol Bolon.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gail Hinich Sutherland",
+   "type": "student_of",
+   "object": "Wendy Doniger",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "The seeds of that inspiration have been diligently, faithfully, and critically tended by Wendy Doniger (O'Flaherty) through all stages of their development. [...] do not reflect the directions of my advisers.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gail Hinich Sutherland",
+   "type": "student_of",
+   "object": "Frank Reynolds",
+   "role": "committee member",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "I am grateful for her comments as well as for those of Carol Bolon and Frank Reynolds. Any inadequacies, misconceptions, or errors to be found in this book, however, [...] do not reflect the directions of my advisers.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gail Hinich Sutherland",
+   "type": "student_of",
+   "object": "Virendra Singh",
+   "role": "traditional teacher",
+   "place": "Varanasi",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Virendra was both an excellent Hindi teacher and a potent purveyor of sakti.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "[Gail_Hinich_Sutherland]_The_Disguises_of_the_Demon",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/[Gail_Hinich_Sutherland]_The_Disguises_of_the_Demon.txt",
+ "meta": {
+  "title": "The Disguises of the Demon: The Development of the Yaksa in Hinduism and Buddhism",
+  "author": "Sutherland, Gail Hinich",
+  "year": 1991,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

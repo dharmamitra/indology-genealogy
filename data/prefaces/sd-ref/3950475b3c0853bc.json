@@ -1,0 +1,92 @@
+{
+ "author": "Charles Willemen",
+ "doc_kind": "text_edition",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Charles Willemen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rolf Giebel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "New Zealand",
+   "field": null
+  },
+  {
+   "name": "Rudy Smet",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Belgium",
+   "field": null
+  },
+  {
+   "name": "MAYEDA Sengaku",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Philip Yampolsky",
+   "birth_year": null,
+   "death_year": 1996,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kenneth Inada",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Philip Yampolsky",
+   "type": "position_at",
+   "object": "Publication Committee, Numata Center",
+   "role": "Chairperson",
+   "place": "Berkeley, California",
+   "year_start": 1991,
+   "year_end": 1996,
+   "explicit": true,
+   "evidence": "In December 1991, the Publication Committee was organized at the Numata Center, with Professor Philip Yampolsky as the Chairperson. To our sorrow, Professor Yampolsky passed away in July 1996",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kenneth Inada",
+   "type": "succeeded",
+   "object": "Philip Yampolsky",
+   "role": null,
+   "place": "Publication Committee, Numata Center",
+   "year_start": 1997,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In July 1996, the Committee unfortunately lost its valued Chair- person, Dr. Philip Yampolsky... In Febru- ary 1997, I was appointed to guide the Committee in his place.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kenneth Inada",
+   "type": "position_at",
+   "object": "Publication Committee, Numata Center",
+   "role": "Chairperson",
+   "place": "Berkeley, California",
+   "year_start": 1997,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In Febru- ary 1997, I was appointed to guide the Committee in his place.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_1870",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_1870.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

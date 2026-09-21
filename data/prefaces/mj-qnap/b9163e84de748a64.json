@@ -1,0 +1,64 @@
+{
+ "author": "辛嶋静志",
+ "doc_kind": "article",
+ "doc_year": 2006,
+ "people": [
+  {
+   "name": "辛嶋静志",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indology, Buddhist Studies"
+  },
+  {
+   "name": "Oskar von Hinüber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "原實",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "辛嶋静志",
+   "type": "student_of",
+   "object": "Oskar von Hinüber",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Oskar von Hinüber教授は、名詞icchāにantika (cf. BHSD, s.v.)が結合した形*icchāntikaがicchantikaに変化したのではないかという見解を示された。……ご教示下さった恩師二人に感謝の意を表したい。",
+   "quote_ok": true
+  },
+  {
+   "subject": "辛嶋静志",
+   "type": "student_of",
+   "object": "原實",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "また原實教授は、iti + anta > *ityanta > *iccantaに由来し「言われたことすなわち伝統に固執する者」を意味する可能性はないか検討するようにご教示下さった……ご教示下さった恩師二人に感謝の意を表したい。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Karashima_辛島静志_200606",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Karashima_辛島静志_200606.txt",
+ "meta": {
+  "title": "一闡提 (icchantika) は誰か",
+  "author": "辛嶋, 静志",
+  "year": 2006,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

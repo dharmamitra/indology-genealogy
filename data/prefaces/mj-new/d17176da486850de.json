@@ -1,0 +1,65 @@
+{
+ "author": "加納和雄・李学竹",
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "加納和雄",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "李学竹",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "苦米地等流",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "加納和雄",
+   "type": "collaborated_with",
+   "object": "李学竹",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "梵文『牟尼意趣荘厳』（Munimatālaṃkāra） 第1章の和訳と校訂 ―冒頭部― 加納和雄・李学竹",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "苦米地等流",
+   "type": "position_at",
+   "object": "人文情報学研究所",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "苦米地等流先生 [人文情報学研究所]",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Kano and Li Munimatālaṃkāra Critical Edition and Annotated Japanese",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Kano and Li Munimatālaṃkāra Critical Edition and Annotated Japanese.txt",
+ "meta": {
+  "title": "梵文『牟尼意趣荘厳』（Munimatālaṃkāra）第1章の和訳と校訂 ―冒頭部―",
+  "author": "加納和雄・李学竹",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

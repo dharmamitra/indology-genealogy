@@ -1,0 +1,97 @@
+{
+ "author": null,
+ "doc_kind": "edited_volume",
+ "doc_year": 1992,
+ "people": [
+  {
+   "name": "Yuri Michaelovitch Parfionovitch",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Russian",
+   "field": "Tibetology"
+  },
+  {
+   "name": "George Roerich",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Russian",
+   "field": "Tibetology"
+  },
+  {
+   "name": "Fernand Meyer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gyurme Dorje",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Marianne Winder",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Yuri Michaelovitch Parfionovitch",
+   "type": "student_of",
+   "object": "George Roerich",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "tradition and lineage of the best Russian tibetology, especially that of his own teacher George Roerich",
+   "quote_ok": true
+  },
+  {
+   "subject": "Yuri Michaelovitch Parfionovitch",
+   "type": "collaborated_with",
+   "object": "Fernand Meyer",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "former USSR Academy of Sciences, had invited the collaboration of Fernand Meyer in the publication of the paintings, and their accompanying texts.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gyurme Dorje",
+   "type": "position_at",
+   "object": "School of Oriental and African Studies",
+   "role": "fellowship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "We are very grateful to the trustees of the Wellcome Trust and to the School of Oriental and African Studies for awarding a fellowship to Gyurme Dorje",
+   "quote_ok": true
+  },
+  {
+   "subject": "Marianne Winder",
+   "type": "position_at",
+   "object": "Wellcome Institute for the History of Medicine",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Marianne Winder, formerly of the Wellcome Institute for the History of Medicine",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Parfionovitch_Tib Medical Paintings_v1",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Parfionovitch_Tib Medical Paintings_v1.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

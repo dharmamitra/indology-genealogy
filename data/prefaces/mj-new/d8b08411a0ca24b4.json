@@ -1,0 +1,172 @@
+{
+ "author": "松田和信",
+ "doc_kind": "article",
+ "doc_year": 1996,
+ "people": [
+  {
+   "name": "松田和信",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "北西弘",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "上山大峻",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "K. W. Eastman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "J. L. Broughton",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "松村恒",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Raghu Vira",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "Lokesh Candra",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "北西弘",
+   "type": "position_at",
+   "object": "佛教大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "北西弘教授古稀記念特集号",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "上山大峻",
+   "type": "collaborated_with",
+   "object": "K. W. Eastman",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1983,
+   "explicit": true,
+   "evidence": "上山大峻, K. W. Eastman & J. L. Broughton, “The Avikalpapraveśa-dhāraṇī: The Dharani of Entering Non-Discrimination”, 『龍谷大学仏教文化研究所紀要』22集(1983)",
+   "quote_ok": true
+  },
+  {
+   "subject": "上山大峻",
+   "type": "collaborated_with",
+   "object": "J. L. Broughton",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1983,
+   "explicit": true,
+   "evidence": "上山大峻, K. W. Eastman & J. L. Broughton, “The Avikalpapraveśa-dhāraṇī: The Dharani of Entering Non-Discrimination”, 『龍谷大学仏教文化研究所紀要』22集(1983)",
+   "quote_ok": true
+  },
+  {
+   "subject": "K. W. Eastman",
+   "type": "collaborated_with",
+   "object": "J. L. Broughton",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1983,
+   "explicit": true,
+   "evidence": "上山大峻, K. W. Eastman & J. L. Broughton, “The Avikalpapraveśa-dhāraṇī: The Dharani of Entering Non-Discrimination”, 『龍谷大学仏教文化研究所紀要』22集(1983)",
+   "quote_ok": true
+  },
+  {
+   "subject": "上山大峻",
+   "type": "position_at",
+   "object": "龍谷大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1983年に龍谷大学の上山大峻教授らによって新たな漢訳が敦煌写本中に発見されたのである",
+   "quote_ok": true
+  },
+  {
+   "subject": "松村恒",
+   "type": "position_at",
+   "object": "親和女子大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "松村恒氏(現在親和女子大学)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Raghu Vira",
+   "type": "collaborated_with",
+   "object": "Lokesh Candra",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ラグ・ヴィーラ (Raghu Vira) とローケーシュ・チャンドラ (Lokesh Candra) 父子によって, 両氏の主催する『シャタピタカ・シリーズ』の第10巻",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lokesh Candra",
+   "type": "other",
+   "object": "Raghu Vira",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ラグ・ヴィーラ (Raghu Vira) とローケーシュ・チャンドラ (Lokesh Candra) 父子",
+   "quote_ok": true
+  }
+ ],
+ "docid": "nirvikalpapravesa",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/nirvikalpapravesa.txt",
+ "meta": {
+  "title": "佛教大学総合研究所紀要",
+  "author": "",
+  "year": 1996,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

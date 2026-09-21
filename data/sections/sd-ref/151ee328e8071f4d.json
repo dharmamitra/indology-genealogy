@@ -1,0 +1,85 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Eugène Burnouf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Donald S. Lopez, Jr.",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Katia Buffetrille",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Vasily P. Vasilyev",
+   "birth_year": 1818,
+   "death_year": 1900,
+   "nationality": "Russian",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "Anton Schiefner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Donald S. Lopez, Jr.",
+   "type": "collaborated_with",
+   "object": "Katia Buffetrille",
+   "role": "co-translators",
+   "place": null,
+   "year_start": null,
+   "year_end": 2010,
+   "explicit": true,
+   "evidence": "Eugène Burnouf, Introduction to the History of Indian Buddhism, trans. Donald S. Lopez, Jr., and Katia Buffetrille (Chicago: University of Chicago Press, 2010).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vasily P. Vasilyev",
+   "type": "position_at",
+   "object": "Russian Orthodox Mission in Peking",
+   "role": null,
+   "place": "Peking",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "his knowledge in this area having been honed during his decade-long residence at the Russian Orthodox Mission in Peking.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anton Schiefner",
+   "type": "collaborated_with",
+   "object": "Vasily P. Vasilyev",
+   "role": "colleague",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Vasilyev's Russian translation appeared in 1865, and a German translation by his colleague Anton Schiefner soon thereafter.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Kapstein_L’oubli des Russes_An (Almost) Forgotten Chapter in the History of 19th-century Orientalism",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Kapstein_L’oubli des Russes_An (Almost) Forgotten Chapter in the History of 19th-century Orientalism.txt#0",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

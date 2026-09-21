@@ -1,0 +1,127 @@
+{
+ "author": "Shunryu Suzuki",
+ "doc_kind": "monograph",
+ "doc_year": 1970,
+ "people": [
+  {
+   "name": "Shunryu Suzuki",
+   "birth_year": null,
+   "death_year": 1971,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gyokujun So-on-daiosho",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Richard Baker",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Huston Smith",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Philosophy"
+  },
+  {
+   "name": "Trudy Dixon",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Shunryu Suzuki",
+   "type": "student_of",
+   "object": "Gyokujun So-on-daiosho",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "TO MY MASTER GYOKUJUN SO-ON-DAIOSHO",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Richard Baker",
+   "type": "student_of",
+   "object": "Shunryu Suzuki",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": 1971,
+   "explicit": true,
+   "evidence": "In the Mountain Seat ceremony, November 21, 1971, he installed Richard Baker as his Dharma heir.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Trudy Dixon",
+   "type": "student_of",
+   "object": "Shunryu Suzuki",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The following tribute from Trudy to her teacher describes very well the relationship between Zen teacher and Zen student",
+   "quote_ok": true
+  },
+  {
+   "subject": "Huston Smith",
+   "type": "position_at",
+   "object": "Massachusetts Institute of Technology",
+   "role": "Professor of Philosophy",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "HUSTON SMITH\nProfessor of Philosophy\nMassachusetts Institute of Technology",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shunryu Suzuki",
+   "type": "founded",
+   "object": "Zen Mountain Center at Tassajara",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His monuments are the first Soto Zen monastery in the West, the Zen Mountain Center at Tassajara; its city adjunct, the Zen Center in San Francisco",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shunryu Suzuki",
+   "type": "founded",
+   "object": "Zen Center in San Francisco",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His monuments are the first Soto Zen monastery in the West, the Zen Mountain Center at Tassajara; its city adjunct, the Zen Center in San Francisco",
+   "quote_ok": true
+  }
+ ],
+ "docid": "[Shunryu_Suzuki]_Zen_Mind,_Beginner's_Mind",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/[Shunryu_Suzuki]_Zen_Mind,_Beginner's_Mind.txt",
+ "meta": {
+  "title": "Zen Mind, Beginner's Mind",
+  "author": "Suzuki, Shunryu",
+  "year": 1970,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

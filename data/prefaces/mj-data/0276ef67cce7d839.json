@@ -1,0 +1,76 @@
+{
+ "author": "Lambert Schmithausen",
+ "doc_kind": "article",
+ "doc_year": 1970,
+ "people": [
+  {
+   "name": "Lambert Schmithausen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Franz Bernhard",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Dieter Schlingloff",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Lambert Schmithausen",
+   "type": "position_at",
+   "object": "Münster",
+   "role": null,
+   "place": "Münster",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Von Lambert Schmithausen, Münster",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Bernhard",
+   "type": "position_at",
+   "object": "Hamburg",
+   "role": "Prof. Dr.",
+   "place": "Hamburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Herr Prof. Dr. F. BERNHARD (Hamburg)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dieter Schlingloff",
+   "type": "position_at",
+   "object": "Kiel",
+   "role": "Prof. Dr.",
+   "place": "Kiel",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Herr Prof. Dr. D. SCHLING- LOFF (Kiel)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Schmithausen_Lambert_1970",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Schmithausen_Lambert_1970.txt",
+ "meta": {
+  "title": "Zu den Rezensionen des Udānavargah",
+  "author": "Schmithausen, Lambert",
+  "year": 1970,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

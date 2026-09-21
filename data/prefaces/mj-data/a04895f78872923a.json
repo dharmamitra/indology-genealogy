@@ -1,0 +1,178 @@
+{
+ "author": "三浦周",
+ "doc_kind": "article",
+ "doc_year": 2013,
+ "people": [
+  {
+   "name": "三浦周",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "荻原雲来",
+   "birth_year": null,
+   "death_year": 1937,
+   "nationality": "Japanese",
+   "field": "Indology"
+  },
+  {
+   "name": "Ernst Leumann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "高楠順次郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "南條文雄",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Friedrich Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "上田恭輔",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Linguistics"
+  },
+  {
+   "name": "渡辺海旭",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "池田澄達",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "三浦周",
+   "type": "position_at",
+   "object": "大正大学綜合仏教研究所",
+   "role": "研究員",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "大正大学綜合仏教研究所 研究員 三浦 周",
+   "quote_ok": false
+  },
+  {
+   "subject": "荻原雲来",
+   "type": "student_of",
+   "object": "Ernst Leumann",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "例えば、荻原の師であるロイマンは",
+   "quote_ok": true
+  },
+  {
+   "subject": "南條文雄",
+   "type": "student_of",
+   "object": "Friedrich Max Müller",
+   "role": null,
+   "place": "Oxford University",
+   "year_start": 1876,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "まず、南條文雄。その留学は明治九年(一八七六)、イギリス・オックスフォード大学においてマックス・ミュラーに師事して梵語を習得。",
+   "quote_ok": true
+  },
+  {
+   "subject": "荻原雲来",
+   "type": "student_of",
+   "object": "高楠順次郎",
+   "role": null,
+   "place": "浄土宗本校",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ここには荻原が浄土宗本校の学生時代に高楠の講義を受けていたとある。",
+   "quote_ok": true
+  },
+  {
+   "subject": "荻原雲来",
+   "type": "position_at",
+   "object": "大正大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "都監 大正大学教授・大学博士・ドクトルフィロソフィー 荻原雲来",
+   "quote_ok": false
+  },
+  {
+   "subject": "渡辺海旭",
+   "type": "position_at",
+   "object": "大正大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "大正大学教授・ドクトルフィロソフィー 渡辺海旭",
+   "quote_ok": false
+  },
+  {
+   "subject": "池田澄達",
+   "type": "position_at",
+   "object": "東京帝国大学",
+   "role": "講師",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "常務委員 東京帝国大学講師・文学士 池田澄達",
+   "quote_ok": false
+  },
+  {
+   "subject": "荻原雲来",
+   "type": "collaborated_with",
+   "object": "渡辺海旭",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "文学博士荻原雲来氏及渡辺海旭氏等相図り漢訳対照梵和大辞典刊行会を組織し",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Miura_三浦周_2013@『漢訳対照梵和大辞典』に関する一考察",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Miura_三浦周_2013@『漢訳対照梵和大辞典』に関する一考察.txt",
+ "meta": {
+  "title": "『漢訳対照梵和大辞典』に関する一考察",
+  "author": "三浦 周",
+  "year": 2013,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

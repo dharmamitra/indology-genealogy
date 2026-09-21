@@ -1,0 +1,102 @@
+{
+ "author": "Edward C. Sachau",
+ "doc_kind": "text_edition",
+ "doc_year": 1888,
+ "people": [
+  {
+   "name": "Edward C. Sachau",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Semitic studies"
+  },
+  {
+   "name": "Robert Gwynne",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Robert Schram",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Austrian",
+   "field": "Astronomy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Edward C. Sachau",
+   "type": "position_at",
+   "object": "Royal University of Berlin",
+   "role": "Professor",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "BY DR. EDWARD C. SACHAU, Professor in the Royal University of Berlin",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Edward C. Sachau",
+   "type": "position_at",
+   "object": "Seminary for Oriental Languages",
+   "role": "Principal",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Principal of the Seminary for Oriental Languages",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Edward C. Sachau",
+   "type": "collaborated_with",
+   "object": "Robert Gwynne",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "greatly assisted by my friend the Rev. Robert Gwynne, Vicar of St. Mary's, Soho, London, whose training in Eastern languages and literature qualified him to co-operate in revising the entire manuscript",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Schram",
+   "type": "position_at",
+   "object": "University of Vienna",
+   "role": null,
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "My friend Dr. Robert Schram, of the University of Vienna",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward C. Sachau",
+   "type": "collaborated_with",
+   "object": "Robert Schram",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "My friend Dr. Robert Schram, of the University of Vienna, has examined all the mathematical details of chronology and astronomy. The results of his studies are presented to the reader in the annotations signed with his name.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "ldpd_5949073_001",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/ldpd_5949073_001.txt",
+ "meta": {
+  "title": "Trübner's Oriental Series",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

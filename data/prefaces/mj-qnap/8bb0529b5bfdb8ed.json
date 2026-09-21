@@ -1,0 +1,102 @@
+{
+ "author": "Jonathan A. Silk",
+ "doc_kind": "edited_volume",
+ "doc_year": 2013,
+ "people": [
+  {
+   "name": "Erik Zürcher",
+   "birth_year": 1928,
+   "death_year": 2008,
+   "nationality": "Dutch",
+   "field": "Sinology"
+  },
+  {
+   "name": "Jonathan A. Silk",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Li Na 李娜",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "F. Vos",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Paul Demiéville",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Erik Zürcher",
+   "type": "position_at",
+   "object": "Leiden",
+   "role": "professor",
+   "place": "Leiden",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "one of the prime movers in this regard having been the Leiden professor Erik Zürcher (13 September 1928–7 February 2008).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Erik Zürcher",
+   "type": "student_of",
+   "object": "Paul Demiéville",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "as do the works of Zürcher’s predecessors and teachers, including Bagchi, Chavannes, and Demiéville",
+   "quote_ok": true
+  },
+  {
+   "subject": "Li Na 李娜",
+   "type": "student_of",
+   "object": "Jonathan A. Silk",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In the production of the volume itself, the single most important person has been my student Li Na 李娜.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Erik Zürcher",
+   "type": "collaborated_with",
+   "object": "F. Vos",
+   "role": null,
+   "place": null,
+   "year_start": 1964,
+   "year_end": 1964,
+   "explicit": true,
+   "evidence": "In F. Vos and E. Zürcher, Spel zonder snaren. Enige beschouwingen over Zen (Deventer: Uitgeverij N. Kluwer).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "9789004263291",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/9789004263291.txt",
+ "meta": {
+  "title": "Buddhism in China",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

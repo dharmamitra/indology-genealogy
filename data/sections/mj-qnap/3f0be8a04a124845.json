@@ -1,0 +1,171 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1894,
+ "people": [
+  {
+   "name": "William Dwight Whitney",
+   "birth_year": 1827,
+   "death_year": 1894,
+   "nationality": "American",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Albrecht Weber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Rudolph von Roth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Otto von Böhtlingk",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "G. A. Jacob",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Bombay University",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Williams College",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Yale",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Dwight Whitney",
+   "type": "collaborated_with",
+   "object": "Otto von Böhtlingk",
+   "role": "assistant on dictionary",
+   "place": "St. Petersburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. Whitney was one of the assistants who worked with Böhtlingk and Roth in the preparation of the great St. Petersburg Dictionary",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Dwight Whitney",
+   "type": "collaborated_with",
+   "object": "Rudolph von Roth",
+   "role": "assistant on dictionary",
+   "place": "St. Petersburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. Whitney was one of the assistants who worked with Böhtlingk and Roth in the preparation of the great St. Petersburg Dictionary",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Dwight Whitney",
+   "type": "studied_at",
+   "object": "Williams College",
+   "role": "degree",
+   "place": null,
+   "year_start": null,
+   "year_end": 1845,
+   "explicit": true,
+   "evidence": "He studied at Williams College, where he took his degree in 1845.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Dwight Whitney",
+   "type": "studied_at",
+   "object": "Yale",
+   "role": null,
+   "place": null,
+   "year_start": 1849,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In the autumn of the same year he went to Yale, where he continued the study of Sanskrit which he had commenced in 1843.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Dwight Whitney",
+   "type": "student_of",
+   "object": "Albrecht Weber",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1850,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1850, he visited Germany, where he spent some years in Berlin and Tübingen at the feet of Profs. Weber and Roth.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Dwight Whitney",
+   "type": "student_of",
+   "object": "Rudolph von Roth",
+   "role": "teacher",
+   "place": "Tübingen",
+   "year_start": 1850,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1850, he visited Germany, where he spent some years in Berlin and Tübingen at the feet of Profs. Weber and Roth.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Dwight Whitney",
+   "type": "position_at",
+   "object": "Yale",
+   "role": "Professor of Sanskrit",
+   "place": null,
+   "year_start": 1854,
+   "year_end": 1894,
+   "explicit": true,
+   "evidence": "in 1854 became Professor of Sanskrit at Yale, a post which he held during the remainder of his life.",
+   "quote_ok": true
+  },
+  {
+   "subject": "G. A. Jacob",
+   "type": "position_at",
+   "object": "Bombay University",
+   "role": "Fellow",
+   "place": "Bombay",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Col. G. A. Jacob, Bombay Staff Corps, Fellow of the Bombay University.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "IA.23.1893",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/IA.23.1893.txt#0",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

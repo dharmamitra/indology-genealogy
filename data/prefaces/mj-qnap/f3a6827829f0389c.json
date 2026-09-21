@@ -1,0 +1,104 @@
+{
+ "author": "Hermann Jacobi",
+ "doc_kind": "text_edition",
+ "doc_year": 1878,
+ "people": [
+  {
+   "name": "Hermann Jacobi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Paul Goldschmidt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Eduard Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "R. Rost",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "K. M. Chatfield",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lepsius",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "R. Rost",
+   "type": "position_at",
+   "object": "India Office Library",
+   "role": "Librarian",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. R. Rost, Librarian of the India Office Library",
+   "quote_ok": true
+  },
+  {
+   "subject": "K. M. Chatfield",
+   "type": "position_at",
+   "object": "Public Instruction, Bombay",
+   "role": "Director",
+   "place": "Bombay",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "K. M. Chatfield Esq., Director of Public Instruction, Bombay",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lepsius",
+   "type": "position_at",
+   "object": "Royal Library at Berlin",
+   "role": "Chief Librarian",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Lepsius, Chief Librarian of the Royal Library at Berlin",
+   "quote_ok": true
+  }
+ ],
+ "docid": "kalpsutra_020431_hr3-OCR",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/kalpsutra_020431_hr3-OCR.txt",
+ "meta": {
+  "title": "Abhandlungen für die Kunde des Morgenlandes",
+  "author": "Loth, Otto",
+  "year": 1878,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

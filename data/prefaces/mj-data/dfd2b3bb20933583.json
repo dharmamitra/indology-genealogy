@@ -1,0 +1,151 @@
+{
+ "people": [
+  {
+   "name": "山口益",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "野澤靜證",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "佐伯旭雅",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "瀨邊惠燈",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "杉原春洞",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Louis de La Vallée Poussin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Belgian",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "佐伯定胤",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "富貴原章信",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "佐々木月樵",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "山口益",
+   "type": "collaborated_with",
+   "object": "野澤靜證",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": 1953,
+   "explicit": true,
+   "evidence": "山口益・野澤靜證 共著",
+   "quote_ok": false
+  },
+  {
+   "subject": "瀨邊惠燈",
+   "type": "student_of",
+   "object": "佐伯旭雅",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "泉涌寺の學匠佐伯旭雅とその門下の眞宗大谷派の學僧瀨邊惠燈並に杉原春洞の三師によつて冠導増補成唯識論といふ講本となり",
+   "quote_ok": true
+  },
+  {
+   "subject": "杉原春洞",
+   "type": "student_of",
+   "object": "佐伯旭雅",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "泉涌寺の學匠佐伯旭雅とその門下の眞宗大谷派の學僧瀨邊惠燈並に杉原春洞の三師によつて冠導増補成唯識論といふ講本となり",
+   "quote_ok": true
+  },
+  {
+   "subject": "Louis de La Vallée Poussin",
+   "type": "position_at",
+   "object": "ガン大學",
+   "role": "教授",
+   "place": "Ghent",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ベルギー國ガン大學の故ルイ・ド・ラ・ブレー・ブーサン敎授",
+   "quote_ok": true
+  },
+  {
+   "subject": "富貴原章信",
+   "type": "student_of",
+   "object": "佐伯定胤",
+   "role": "student",
+   "place": "法隆學問寺勸學院",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "當時、法隆學問寺勸學院にあつて佐伯僧正指導の下に唯識法相宗義の研鑽中であつた富貴原章信氏等",
+   "quote_ok": true
+  },
+  {
+   "subject": "山口益",
+   "type": "collaborated_with",
+   "object": "佐々木月樵",
+   "role": "collaborator",
+   "place": null,
+   "year_start": null,
+   "year_end": 1923,
+   "explicit": true,
+   "evidence": "故佐々木月樵先生が「唯識二十論の對譯研究」を公刊(大正十二年)せられた際に、唯識二十論の漢譯三本と西藏譯本との對照の業を分擔してから",
+   "quote_ok": true
+  }
+ ],
+ "docid": "世親唯識の原典解明　山口益・野澤静証",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/世親唯識の原典解明　山口益・野澤静証.txt",
+ "meta": {
+  "title": "世親唯識の原典解明",
+  "author": "野山澤口 靜證益",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

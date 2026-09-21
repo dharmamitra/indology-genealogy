@@ -1,0 +1,176 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Jin-il Chung",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Takamichi Fukita",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Chanwit Tudkeao",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kei Kawakami",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jens-Uwe Hartmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Klaus Wille",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Simone-Christiane Raschmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Takanori Karai",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Andrew Glass",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Zennō Ishigami",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Chandrabhāl Tripāṭhī",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Ernst Waldschmidt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jin-il Chung",
+   "type": "collaborated_with",
+   "object": "Takamichi Fukita",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A New Edition of the First 25 Sūtras of the Nidānasamyukta 梵文 雜阿含 因緣相應 (第一~二十五經) Jin-il Chung & Takamichi Fukita",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Jens-Uwe Hartmann",
+   "type": "position_at",
+   "object": "Ludwig-Maximilians-Universität München",
+   "role": null,
+   "place": "München",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Jens-Uwe Hartmann of the Ludwig-Maximilians-Universität München",
+   "quote_ok": true
+  },
+  {
+   "subject": "Klaus Wille",
+   "type": "position_at",
+   "object": "Göttingen Academy of Sciences and Humanities",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Klaus Wille of the Göttingen Academy of Sciences and Humanities",
+   "quote_ok": true
+  },
+  {
+   "subject": "Simone-Christiane Raschmann",
+   "type": "position_at",
+   "object": "Berlin-Brandenburg Academy of Sciences and Humanities",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Simone-Christiane Raschmann of the Berlin-Brandenburg Academy of Sciences and Humanities",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chandrabhāl Tripāṭhī",
+   "type": "student_of",
+   "object": "Ernst Waldschmidt",
+   "role": "doctoral supervisor",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": 1962,
+   "explicit": true,
+   "evidence": "As Tripāṭhī describes in the in- troduction to his thesis submitted for the degree of Doctor of Philosophy at the Univer- sity of Göttingen, he benefited significantly from two preliminary studies by his teacher Ernst Waldschmidt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chandrabhāl Tripāṭhī",
+   "type": "studied_at",
+   "object": "University of Göttingen",
+   "role": "Doctor of Philosophy",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": 1962,
+   "explicit": true,
+   "evidence": "his thesis submitted for the degree of Doctor of Philosophy at the Univer- sity of Göttingen",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Chung and Fukita_ 2020_梵文雜阿含因縁相応",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Chung and Fukita_ 2020_梵文雜阿含因縁相応.txt",
+ "meta": {
+  "title": "A New Edition of the First 25 Sūtras of the Nidānasamyukta",
+  "author": "Chung, Jin-il & Fukita, Takamichi",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

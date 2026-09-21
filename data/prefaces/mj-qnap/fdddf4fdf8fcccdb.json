@@ -1,0 +1,83 @@
+{
+ "author": "Max Müller",
+ "doc_kind": "text_edition",
+ "doc_year": 1856,
+ "people": [
+  {
+   "name": "Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ad. Regnier",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Indology"
+  },
+  {
+   "name": "Eugène Burnouf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Indology"
+  },
+  {
+   "name": "Fitz-Edward Hall",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ad. Regnier",
+   "type": "student_of",
+   "object": "Eugène Burnouf",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Tous ceux qui ont eu le bonheur de suivre le cours de M. Eugène Burnouf savent quelle importance il attachait à l'explication des commentaires.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Müller",
+   "type": "other",
+   "object": "Fitz-Edward Hall",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Another communication on the MSS. of Sáyaṇa's Commentary was kindly sent to me by my learned friend Mr. Fitz-Edward Hall, while yet at Benares.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fitz-Edward Hall",
+   "type": "position_at",
+   "object": "College",
+   "role": null,
+   "place": "Benares",
+   "year_start": null,
+   "year_end": 1855,
+   "explicit": true,
+   "evidence": "He wrote to me, Benares, Jan. 15, 1855: \"... We have in the College library but one MS. of Sáyaṇa's Commentary on the R. V.\"",
+   "quote_ok": true
+  }
+ ],
+ "docid": "rigvedasanhitasa03syaauoft",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/rigvedasanhitasa03syaauoft.txt",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": null
+ },
+ "model": "gemini-flash-latest"
+}

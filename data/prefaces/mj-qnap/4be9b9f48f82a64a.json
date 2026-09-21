@@ -1,0 +1,102 @@
+{
+ "author": "Raniero Gnoli",
+ "doc_kind": "text_edition",
+ "doc_year": 1960,
+ "people": [
+  {
+   "name": "Raniero Gnoli",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Italian",
+   "field": "Indology"
+  },
+  {
+   "name": "Muni Jambūvijaya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Munirāja Śrī Bhuvanavijayaji Mahārāja",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Corrado Pensa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Giuseppe Tucci",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indian logics and philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Muni Jambūvijaya",
+   "type": "student_of",
+   "object": "Munirāja Śrī Bhuvanavijayaji Mahārāja",
+   "role": "disciple",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "to the late H. H. Munirāja Śrī Bhuvanavijayaji Mahārāja and to His son and disciple Muni Jambūvijaya",
+   "quote_ok": true
+  },
+  {
+   "subject": "Muni Jambūvijaya",
+   "type": "other",
+   "object": "Munirāja Śrī Bhuvanavijayaji Mahārāja",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "to the late H. H. Munirāja Śrī Bhuvanavijayaji Mahārāja and to His son and disciple Muni Jambūvijaya",
+   "quote_ok": true
+  },
+  {
+   "subject": "Corrado Pensa",
+   "type": "student_of",
+   "object": "Raniero Gnoli",
+   "role": "pupil",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "to my pupil Corrado Pensa, for having patiently revised the proof-sheets and the indexes.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Raniero Gnoli",
+   "type": "collaborated_with",
+   "object": "Giuseppe Tucci",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he has not only managed to find time to read various passages of this work with me, both in Sanskrit and Tibetan",
+   "quote_ok": false
+  }
+ ],
+ "docid": "The Pramana Vartika Of Dharmakirti 1960 - Raniero Gnoli-OCR",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/The Pramana Vartika Of Dharmakirti 1960 - Raniero Gnoli-OCR.txt",
+ "meta": {
+  "title": "The Pramāṇavārttikam of Dharmakīrti: The First Chapter with the Autocommentary",
+  "author": "Gnoli, Raniero",
+  "year": 1960,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

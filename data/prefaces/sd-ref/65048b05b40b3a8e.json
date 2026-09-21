@@ -1,0 +1,40 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 1913,
+ "people": [
+  {
+   "name": "Dines Andersen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Helmer Smith",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Helmer Smith",
+   "type": "collaborated_with",
+   "object": "Dines Andersen",
+   "role": "co-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1913,
+   "explicit": true,
+   "evidence": "although it is, on every single point, the result of a constant collaboration of both of us, Mr. SMITH has taken upon himself alone the collation of Ck and the transcription of Pj.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Suttanipata_PTS_Anderson and Smith,1913",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Suttanipata_PTS_Anderson and Smith,1913.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

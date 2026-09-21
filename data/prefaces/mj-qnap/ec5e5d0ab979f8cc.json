@@ -1,0 +1,109 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 1957,
+ "people": [
+  {
+   "name": "R. C. Majumdar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "A. S. Altekar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Satkari Mookerjee",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Nathmal Tatia",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Dr. Ballantyne",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Pramada Das Mitra",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "R. C. Majumdar",
+   "type": "collaborated_with",
+   "object": "A. S. Altekar",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1954,
+   "explicit": true,
+   "evidence": "Vakataka Gupta Age- (c 200-550 A. D.) by Drs. R. C. Majumdar and A. S. Altekar in collaboration with other scholars 1954",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. S. Altekar",
+   "type": "position_at",
+   "object": "Patna University",
+   "role": null,
+   "place": "Patna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "by Dr. A. S. Altekar, M. A., LL. B. D. Litt Patna University pages 556",
+   "quote_ok": true
+  },
+  {
+   "subject": "Satkari Mookerjee",
+   "type": "collaborated_with",
+   "object": "Nathmal Tatia",
+   "role": "collaborators/translators",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "translated with critical notes by Satkari Mookerjee M. A. Ph D., in Collaboration with Nathmal Tatia M. A.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dr. Ballantyne",
+   "type": "collaborated_with",
+   "object": "Pramada Das Mitra",
+   "role": "translators",
+   "place": null,
+   "year_start": null,
+   "year_end": 1956,
+   "explicit": true,
+   "evidence": "Complete English translation by Dr. Ballantyne and Pramada Das Mitra 1956",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Pischel Grammar",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Pischel Grammar.txt",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,151 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 1989,
+ "people": [
+  {
+   "name": "Alexander Csoma de Körös",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Hungary",
+   "field": "Tibetology"
+  },
+  {
+   "name": "E. Denison Ross",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Satis Chandra Vidyabhusana",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "N. D. Mironov",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Russia",
+   "field": null
+  },
+  {
+   "name": "ミナエフ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Russia",
+   "field": null
+  },
+  {
+   "name": "Stanislas Julien",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "France",
+   "field": "Oriental studies"
+  },
+  {
+   "name": "Ph. Edouard Foucaux",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "France",
+   "field": "Oriental studies"
+  },
+  {
+   "name": "南条文雄",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "荻原雲来",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "栂亮三郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "Yumiko Ishihama",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Yoichi Fukuda",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "E. Denison Ross",
+   "type": "collaborated_with",
+   "object": "Satis Chandra Vidyabhusana",
+   "role": "co-editors",
+   "place": "Calcutta",
+   "year_start": 1910,
+   "year_end": 1944,
+   "explicit": true,
+   "evidence": "Ed. by E. Denison Ross and Mahamaho-padhyaya Satis Chandra Vidyabhusana. Part I (1910), II (1916), III (1944). Calcutta.",
+   "quote_ok": true
+  },
+  {
+   "subject": "ミナエフ",
+   "type": "collaborated_with",
+   "object": "N. D. Mironov",
+   "role": "co-editors",
+   "place": null,
+   "year_start": 1910,
+   "year_end": 1911,
+   "explicit": true,
+   "evidence": "1910年から1911年にかけて出版された、ロシアのミナエフならびにミロノフによる、サンスクリットのみの校訂テキストである。",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stanislas Julien",
+   "type": "collaborated_with",
+   "object": "Ph. Edouard Foucaux",
+   "role": null,
+   "place": null,
+   "year_start": 1850,
+   "year_end": 1859,
+   "explicit": true,
+   "evidence": "1850年代にフランスの著名な東洋学者、スタニラス・ジュリアンおよびエドアール・フーコーは、ペテルスブルグのコワレフスキーからレニングラード写本を借りだし書写を行なった",
+   "quote_ok": true
+  },
+  {
+   "subject": "Yumiko Ishihama",
+   "type": "collaborated_with",
+   "object": "Yoichi Fukuda",
+   "role": "co-editors",
+   "place": "Toyo Bunko",
+   "year_start": 1989,
+   "year_end": 1989,
+   "explicit": true,
+   "evidence": "Yumiko Ishihama & Yoichi Fukuda (Ed.). Materials for the Tibetan-Mongolian Dictionary ---- Vol. 1. Buddhist Terminology (Critical Edition of Mahāvyutpatti). Toyo Bunko (本書)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Ishihama+_1989_Mahavyutpatti-OCR",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Ishihama+_1989_Mahavyutpatti-OCR.txt",
+ "meta": {
+  "title": "A NEW CRITICAL EDITION OF THE MAHĀVYUTPATTI: Sanskrit-Tibetan-Mongolian Dictionary of Buddhist Terminology",
+  "author": "",
+  "year": 1989,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

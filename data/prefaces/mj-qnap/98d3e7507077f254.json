@@ -1,0 +1,76 @@
+{
+ "author": "小川隆",
+ "doc_kind": "article",
+ "doc_year": 2000,
+ "people": [
+  {
+   "name": "小川隆",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "胡適",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": "history of Chinese thought"
+  },
+  {
+   "name": "鈴木大拙",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "小川隆",
+   "type": "position_at",
+   "object": "駒澤大学禅研究所・外国語籍研究班",
+   "role": null,
+   "place": null,
+   "year_start": 1999,
+   "year_end": 2000,
+   "explicit": true,
+   "evidence": "この翻訳は駒澤大学禅研究所・外国語籍研究班の、一九九九年度活動成果の一部として提出するものである。",
+   "quote_ok": true
+  },
+  {
+   "subject": "鈴木大拙",
+   "type": "position_at",
+   "object": "大谷大学",
+   "role": null,
+   "place": "京都",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "わが学識ある友人、大拙・鈴木貞太郎博士（元京都・大谷大学）",
+   "quote_ok": true
+  },
+  {
+   "subject": "胡適",
+   "type": "other",
+   "object": "鈴木大拙",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "わが学識ある友人、大拙・鈴木貞太郎博士（元京都・大谷大学）は、西洋の世界にむけて禅仏教の解説と紹介をおこなってきた。……ひとりの友人として、また一箇の中国思想史家として、私は熱意ある関心を以て、彼の著述を見つづけてきた。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "ogawa_小川隆_200003_胡適『中國における禪―その歴史と方法論―』",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/ogawa_小川隆_200003_胡適『中國における禪―その歴史と方法論―』.txt",
+ "meta": {
+  "title": "中国における禅――その歴史と方法論",
+  "author": "胡適",
+  "year": 2000,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

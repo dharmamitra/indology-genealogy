@@ -1,0 +1,188 @@
+{
+ "author": null,
+ "doc_kind": "monograph",
+ "doc_year": 1992,
+ "people": [
+  {
+   "name": "Albrecht Wezler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Cecil Bendall",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Indology"
+  },
+  {
+   "name": "Wolfgang Voigt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "Dieter George",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "Hara Prasad Śāstri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Reinhold Grünendahl",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "H.-O. Feistel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Klaus Ludwig Janert",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Edward Byles Cowell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Indology"
+  },
+  {
+   "name": "Julius Eggeling",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "William Wright",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Henry Bradshaw",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Wolfgang Voigt",
+   "type": "founded",
+   "object": "Verzeichnis der Orientalischen Handschriften in Deutschland",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "VERZEICHNIS DER ORIENTALISCHEN HANDSCHRIFTEN IN DEUTSCHLAND IM EINVERNEHMEN MIT DER DEUTSCHEN MORGENLÄNDISCHEN GESELLSCHAFT BEGRÜNDET VON WOLFGANG VOIGT",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Cecil Bendall",
+   "type": "collaborated_with",
+   "object": "Hara Prasad Śāstri",
+   "role": "contributor of historical introduction",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The first volume of H. P. Śāstri's work includes a Historical Introduction specifically written for the Catalogue itself by Cecil Bendall",
+   "quote_ok": true
+  },
+  {
+   "subject": "H.-O. Feistel",
+   "type": "position_at",
+   "object": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz",
+   "role": "Oriental Department",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "to Dr. H.-O. Feistel of the Oriental Department, Staatsbibliothek zu Berlin - Preußischer Kulturbesitz",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Byles Cowell",
+   "type": "collaborated_with",
+   "object": "Julius Eggeling",
+   "role": "co-cataloguers",
+   "place": "Royal Asiatic Society",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "chiefly on the lines of the Catalogue prepared by himself and Dr Eggeling for the Royal Asiatic Society",
+   "quote_ok": true
+  },
+  {
+   "subject": "Cecil Bendall",
+   "type": "student_of",
+   "object": "Edward Byles Cowell",
+   "role": "teacher",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "When therefore he suggested that I should endeavour to complete it, I commenced at first on the MSS. that he had left untouched, availing myself however of the material that he kindly made over to me.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Wright",
+   "type": "other",
+   "object": "Daniel Wright",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor William Wright, who has communicated to me many valuable particulars as to the history of these MSS., derived from his brother Dr Daniel Wright",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Bradshaw",
+   "type": "position_at",
+   "object": "Cambridge University Library",
+   "role": "University Librarian",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I have been able to invoke the counsel of Mr Bradshaw, University Librarian",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Cambridge MS Catalogue_1992(1883)",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Cambridge MS Catalogue_1992(1883).txt",
+ "meta": {
+  "title": "Catalogue of the Buddhist Sanskrit manuscripts in the University Library, Cambridge",
+  "author": "Bendall, Cecil",
+  "year": 1992,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

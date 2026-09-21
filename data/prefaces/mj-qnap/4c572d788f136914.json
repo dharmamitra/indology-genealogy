@@ -1,0 +1,71 @@
+{
+ "author": "村上真完",
+ "doc_kind": "article",
+ "doc_year": 1993,
+ "people": [
+  {
+   "name": "村上真完",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "塚本啓祥",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "渡邊文麿",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "前田惠學",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "塚本啓祥",
+   "type": "position_at",
+   "object": "東北大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "塚本啓祥教授還暦記念論文集",
+   "quote_ok": true
+  },
+  {
+   "subject": "前田惠學",
+   "type": "collaborated_with",
+   "object": "渡邊文麿",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1993,
+   "explicit": true,
+   "evidence": "STUDIES IN ORIGINAL BUDDHISM AND MAHĀYĀNA BUDDHISM in Commemoration of late Professor Dr. FUMIMARO WATANABE Edited by Professor Dr. EGAKU MAYEDA",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Murakami_村上真完_1993b_倶舎論破我品訳注2",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Murakami_村上真完_1993b_倶舎論破我品訳注2.txt",
+ "meta": {
+  "title": "人格主体論（霊魂論）",
+  "author": "村上, 真完",
+  "year": 1993,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

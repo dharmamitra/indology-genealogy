@@ -1,0 +1,121 @@
+{
+ "author": "Otto von Böhtlingk",
+ "doc_kind": "text_edition",
+ "doc_year": 1873,
+ "people": [
+  {
+   "name": "Otto von Böhtlingk",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Heinrich Kern",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Joh. Klatt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Albrecht Weber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "W. D. Whitney",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Heinrich Kern",
+   "type": "position_at",
+   "object": "Leiden",
+   "role": "Professor",
+   "place": "Leiden",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "MEINEM LIEBEN FREUNDE PROFESSOR DR. HEINRICH KERN IN LEIDEN",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto von Böhtlingk",
+   "type": "other",
+   "object": "Heinrich Kern",
+   "role": "friendship",
+   "place": "Jena",
+   "year_start": 1868,
+   "year_end": 1871,
+   "explicit": true,
+   "evidence": "MEINEM LIEBEN FREUNDE PROFESSOR DR. HEINRICH KERN IN LEIDEN ALS ERINNERUNG AN DIE IN DEN SOMMERN 1868 UND 1871 IN JENA GEMEINSAM VERLEBTEN TAGE.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joh. Klatt",
+   "type": "collaborated_with",
+   "object": "Otto von Böhtlingk",
+   "role": "contributed manuscript transcripts and conjectures",
+   "place": null,
+   "year_start": null,
+   "year_end": 1873,
+   "explicit": true,
+   "evidence": "Ich verdanke die Mittheilung derselben Dr. JOH. KLATT, der sie für mich abschrieb und mir zu freiem Gebrauch überliess.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto von Böhtlingk",
+   "type": "other",
+   "object": "Albrecht Weber",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "dass nach meiner Ansicht Viele, auch mein Freund WEBER, den geschriebenen Buchstaben bisweilen zu hoch anschlagen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto von Böhtlingk",
+   "type": "other",
+   "object": "W. D. Whitney",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ich möchte meinem scharfsinnigen, jeden falschen Schein unerbittlich verfolgenden Freunde W. D. WHITNEY auch diesen Ausspruch und Anspruch M. MÜLLER'S zu näherer Prüfung empfehlen.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Boe8703__Boehtlingk_IndischeSprueche_Aufl2_3_1873",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Boe8703__Boehtlingk_IndischeSprueche_Aufl2_3_1873.txt",
+ "meta": {
+  "title": "Indische Sprüche, Sanskrit und Deutsch. Zweite vermehrte und verbesserte Auflage. Dritter Theil: Ma - Ha",
+  "author": "Böhtlingk, Otto",
+  "year": 1873,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

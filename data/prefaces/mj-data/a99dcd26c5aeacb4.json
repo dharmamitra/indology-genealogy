@@ -1,0 +1,97 @@
+{
+ "author": "櫻部建",
+ "doc_kind": "article",
+ "doc_year": 1959,
+ "people": [
+  {
+   "name": "櫻部建",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "寺本婉雅",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "山口益",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "スチェルバッキー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "О. ローゼンベルク",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "舟橋一哉",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "寺本婉雅",
+   "type": "collaborated_with",
+   "object": "山口益",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1922,
+   "explicit": true,
+   "evidence": "「西藏文俱舍論破我品譯」寺本婉雅・山口益、(「佛教研究」二ノ一・二、一九二二)",
+   "quote_ok": true
+  },
+  {
+   "subject": "О. ローゼンベルク",
+   "type": "student_of",
+   "object": "スチェルバッキー",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "スチェルバッキー門下の鬼才○・ローゼンベルク",
+   "quote_ok": true
+  },
+  {
+   "subject": "舟橋一哉",
+   "type": "position_at",
+   "object": "大谷大學",
+   "role": "敎授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "破我品の部分については、舟橋一哉敎授によつて作成された訂正表が大谷大學佛敎學研究室刊「西藏譯稱友俱舍論疏破我品」の巻末に附せられている。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Sakurabe_櫻部建_1959@破我品の研究_大谷大學研究年報12_2p",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Sakurabe_櫻部建_1959@破我品の研究_大谷大學研究年報12_2p.txt",
+ "meta": {
+  "title": "破我品の研究",
+  "author": "櫻部 建",
+  "year": 1959,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,118 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 1989,
+ "people": [
+  {
+   "name": "Heinz Bechert",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Klaus Wille",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hartmut-Ortwin Feistel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Wolfgang Voigt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Dieter George",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Heinz Bechert",
+   "type": "collaborated_with",
+   "object": "Klaus Wille",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1989,
+   "explicit": true,
+   "evidence": "HERAUSGEGEBEN VON HEINZ BECHERT BESCHRIEBEN VON KLAUS WILLE",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Hartmut-Ortwin Feistel",
+   "type": "position_at",
+   "object": "KOHD",
+   "role": "Leiter",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "dem Leiter der KOHD, Herrn Bibliotheksdirektor Dr. HARTMUT-ORTWIN FEISTEL",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wolfgang Voigt",
+   "type": "founded",
+   "object": "VERZEICHNIS DER ORIENTALISCHEN HANDSCHRIFTEN IN DEUTSCHLAND",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "VERZEICHNIS DER ORIENTALISCHEN HANDSCHRIFTEN IN DEUTSCHLAND ... BEGRÜNDET VON WOLFGANG VOIGT",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Dieter George",
+   "type": "succeeded",
+   "object": "Wolfgang Voigt",
+   "role": "Herausgeber/Fortführer des VOHD",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "VERZEICHNIS DER ORIENTALISCHEN HANDSCHRIFTEN IN DEUTSCHLAND ... BEGRÜNDET VON WOLFGANG VOIGT FORTGEFÜHRT VON DIETER GEORGE",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Hartmut-Ortwin Feistel",
+   "type": "succeeded",
+   "object": "Dieter George",
+   "role": "Herausgeber des VOHD",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "FORTGEFÜHRT VON DIETER GEORGE HERAUSGEGEBEN VON HARTMUT-ORTWIN FEISTEL",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "Turfan_6",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Turfan_6.txt",
+ "meta": {
+  "title": "Sanskrithandschriften aus den Turfanfunden",
+  "author": "Wille, Klaus",
+  "year": 1989,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

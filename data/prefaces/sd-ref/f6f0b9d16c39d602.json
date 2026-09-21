@@ -1,0 +1,92 @@
+{
+ "people": [
+  {
+   "name": "B. Alan Wallace",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "comparative religion"
+  },
+  {
+   "name": "Daniel Goleman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Dalai Lama",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "B. Alan Wallace",
+   "type": "student_of",
+   "object": "Dalai Lama",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "practicing under the personal tutelage of the Dalai Lama.",
+   "quote_ok": true
+  },
+  {
+   "subject": "B. Alan Wallace",
+   "type": "studied_at",
+   "object": "Amherst College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Alan was studying philosophy of science and quantum physics at Amherst College.",
+   "quote_ok": true
+  },
+  {
+   "subject": "B. Alan Wallace",
+   "type": "studied_at",
+   "object": "Stanford University",
+   "role": "doctorate",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "By the time he got his doctorate in comparative religion at Stanford University",
+   "quote_ok": true
+  },
+  {
+   "subject": "B. Alan Wallace",
+   "type": "position_at",
+   "object": "University of California at Santa Barbara",
+   "role": "academic post",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "since leaving his academic post at the University of California at Santa Barbara",
+   "quote_ok": true
+  },
+  {
+   "subject": "B. Alan Wallace",
+   "type": "position_at",
+   "object": "Santa Barbara Institute for Consciousness Studies",
+   "role": "head",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "to head the Santa Barbara Institute for Consciousness Studies",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Attention Revolution. Unlocking the Power of the Focused Mind_B. Alan Wallace  2006",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Attention Revolution. Unlocking the Power of the Focused Mind_B. Alan Wallace  2006.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

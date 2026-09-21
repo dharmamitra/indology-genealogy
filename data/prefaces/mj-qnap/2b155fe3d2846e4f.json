@@ -1,0 +1,96 @@
+{
+ "author": null,
+ "doc_kind": "edited_volume",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "George Cardona",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Dhanesh Jain",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sarmad Hussain",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Claire M. Lampp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "George Cardona",
+   "type": "collaborated_with",
+   "object": "Dhanesh Jain",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "THE Indo-Aryan LANGUAGES EDITED BY GEORGE CARDONA AND DHANESH JAIN",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "George Cardona",
+   "type": "position_at",
+   "object": "University of Pennsylvania",
+   "role": null,
+   "place": "Philadelphia",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "George Cardona, University of Pennsylvania, Philadelphia",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sarmad Hussain",
+   "type": "studied_at",
+   "object": "Northwestern University",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 1997,
+   "explicit": true,
+   "evidence": "Hussain, Sarmad (1997) Phonetic correlates of lexical stress in Urdu, Ph.D. dissertation, North-western University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Claire M. Lampp",
+   "type": "studied_at",
+   "object": "University of North Carolina at Chapel Hill",
+   "role": "MA",
+   "place": null,
+   "year_start": null,
+   "year_end": 2006,
+   "explicit": true,
+   "evidence": "Lampp, Claire M. (2006) Negation in modern Hindi-Urdu: The development of nahII. M.A. thesis, The University of North Carolina at Chapel Hill.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Cardona, Jain 2003. The Indo-Aryan Languages",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Cardona, Jain 2003. The Indo-Aryan Languages.txt",
+ "meta": {
+  "title": "The Indo-Aryan Languages",
+  "author": "Cardona, George; Jain, Dhanesh",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

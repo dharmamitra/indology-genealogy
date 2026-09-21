@@ -1,0 +1,97 @@
+{
+ "author": "Gyurmé Avertin",
+ "doc_kind": "text_edition",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Tulku Thondup",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Khenpo Chemchok",
+   "birth_year": null,
+   "death_year": 1957,
+   "nationality": "Tibetan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Khangsar Tenpe Wangchuk",
+   "birth_year": 1938,
+   "death_year": 2014,
+   "nationality": "Tibetan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Palyul Choktrul Jampal Gyepe Dorje",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": null
+  },
+  {
+   "name": "Akyong Tokden Rinpoche Lodrö Gyatso",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Tulku Thondup",
+   "type": "student_of",
+   "object": "Khenpo Chemchok",
+   "role": "teacher and tutor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was teacher and tutor of Tulku Thondup, who is the incarnation of his teacher, Khenpo Könme.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Khenpo Chemchok",
+   "type": "position_at",
+   "object": "Dodrupchen Monastery",
+   "role": "one of the four major khenpos",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he reluctantly accepted appointment as one of the four major khenpos at Dodrupchen and at other monasteries to students",
+   "quote_ok": true
+  },
+  {
+   "subject": "Khangsar Tenpe Wangchuk",
+   "type": "student_of",
+   "object": "Palyul Choktrul Jampal Gyepe Dorje",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied with Palyul Choktrul Jampal Gyepe Dorje, Akyong Tokden Rinpoche Lodrö Gyatso, and other masters",
+   "quote_ok": true
+  },
+  {
+   "subject": "Khangsar Tenpe Wangchuk",
+   "type": "student_of",
+   "object": "Akyong Tokden Rinpoche Lodrö Gyatso",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied with Palyul Choktrul Jampal Gyepe Dorje, Akyong Tokden Rinpoche Lodrö Gyatso, and other masters",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Gathering of Vidyadharas  Text and Commentaries on the Rigdzin Düpa_Jigme Lingpa, Patrul Rinpoche, et al , 2017",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Gathering of Vidyadharas  Text and Commentaries on the Rigdzin Düpa_Jigme Lingpa, Patrul Rinpoche, et al , 2017.txt#0",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

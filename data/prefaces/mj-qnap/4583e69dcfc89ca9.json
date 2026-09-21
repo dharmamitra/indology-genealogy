@@ -1,0 +1,70 @@
+{
+ "author": "Priyavrat Sharma",
+ "doc_kind": "text_edition",
+ "doc_year": 1994,
+ "people": [
+  {
+   "name": "Priyavrat Sharma",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Ayurveda"
+  },
+  {
+   "name": "S.D. Dube",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Ayurveda"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Priyavrat Sharma",
+   "type": "position_at",
+   "object": "Postgraduate Institute of Indian Medicine Banaras Hindu University",
+   "role": "Director",
+   "place": "Varanasi",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "By Prof. PRIYAVRAT SHARMA Formerly Director, Postgraduate Institute of Indian Medicine Banaras Hindu University Varanasi",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "S.D. Dube",
+   "type": "position_at",
+   "object": "Department of Dravyaguna, Faculty of Ayurveda, Banaras Hindu University",
+   "role": "Reader",
+   "place": "Varanasi",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. S.D. Dube, Reader, Department of Dravyaguna, Faculty of Ayurveda, Banaras Hindu University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Priyavrat Sharma",
+   "type": "collaborated_with",
+   "object": "S.D. Dube",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. S.D. Dube, Reader, Department of Dravyaguna, Faculty of Ayurveda, Banaras Hindu University has collaborated in preparing the portion on medicinal plants including the Appendix",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Carakasaṃhitā, trl. by P.V. Sharma, vol. IV SVA",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Carakasaṃhitā, trl. by P.V. Sharma, vol. IV SVA.txt",
+ "meta": {
+  "title": "Caraka-Saṃhitā: Critical Notes",
+  "author": "Sharma, Priyavrat",
+  "year": 1994,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

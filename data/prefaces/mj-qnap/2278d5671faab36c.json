@@ -1,0 +1,65 @@
+{
+ "author": null,
+ "doc_kind": "edited_volume",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Stanley Wolpert",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "History"
+  },
+  {
+   "name": "Pramoda Nand Das",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Yuvaraj Deva Prasad",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Stanley Wolpert",
+   "type": "position_at",
+   "object": "University of California, Los Angeles",
+   "role": "distinguished professor emeritus of History",
+   "place": "Los Angeles",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Stanley Wolpert is a distinguished professor emeritus of History at the University of California, Los Angeles.",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Pramoda Nand Das",
+   "type": "collaborated_with",
+   "object": "Yuvaraj Deva Prasad",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pramoda Nand Das\nYuvaraj Deva Prasad",
+   "quote_ok": true
+  }
+ ],
+ "docid": "vol.2_-_E-J",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/vol.2_-_E-J.txt",
+ "meta": {
+  "title": "Encyclopedia of India",
+  "author": "Wolpert, Stanley",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

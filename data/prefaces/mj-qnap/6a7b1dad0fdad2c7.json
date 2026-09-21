@@ -1,0 +1,123 @@
+{
+ "author": "Pe Maung Tin",
+ "doc_kind": "text_edition",
+ "doc_year": 1920,
+ "people": [
+  {
+   "name": "Pe Maung Tin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Burmese",
+   "field": "Pali"
+  },
+  {
+   "name": "Mrs. Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "S. Z. Aung",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Edward Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Saya Pye",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Burmese",
+   "field": null
+  },
+  {
+   "name": "T. W. Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Pe Maung Tin",
+   "type": "position_at",
+   "object": "Rangoon College",
+   "role": "Professor of Pali",
+   "place": "Rangoon",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "TRANSLATED BY PE MAUNG TIN, M.A. PROFESSOR OF PALI AT THE COLLEGE, RANGOON",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Pe Maung Tin",
+   "type": "collaborated_with",
+   "object": "Mrs. Rhys Davids",
+   "role": "translator and editor/reviser",
+   "place": null,
+   "year_start": null,
+   "year_end": 1920,
+   "explicit": true,
+   "evidence": "TRANSLATED BY PE MAUNG TIN, M.A. ... EDITED AND REVISED BY MRS. RHYS DAVIDS, D.Litt., M.A.",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "S. Z. Aung",
+   "type": "collaborated_with",
+   "object": "Mrs. Rhys Davids",
+   "role": "co-translators",
+   "place": null,
+   "year_start": null,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "Compendium of Philosophy. A translation of the Abhidhammatthasaṅgaha. S. Z. Aung and Mrs Rhys Davids. PTS, 1910.",
+   "quote_ok": true
+  },
+  {
+   "subject": "T. W. Rhys Davids",
+   "type": "collaborated_with",
+   "object": "Mrs. Rhys Davids",
+   "role": "co-translators",
+   "place": null,
+   "year_start": null,
+   "year_end": 1899,
+   "explicit": true,
+   "evidence": "Dialogues of the Buddha. A translation of the Dīgha Nikāya (Sacred Books of the Buddhists). T. W. and Mrs. Rhys Davids. London, 1899, etc.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mrs. Rhys Davids",
+   "type": "other",
+   "object": "T. W. Rhys Davids",
+   "role": "spouse",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Dialogues of the Buddha. A translation of the Dīgha Nikāya (Sacred Books of the Buddhists). T. W. and Mrs. Rhys Davids.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "PTS_Expositor",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/PTS_Expositor.txt",
+ "meta": {
+  "title": "The Expositor (Atthasālinī)",
+  "author": "Buddhaghosa",
+  "year": 1976,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

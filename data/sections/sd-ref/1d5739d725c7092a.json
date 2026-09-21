@@ -1,0 +1,78 @@
+{
+ "author": "Achim Bayer",
+ "doc_kind": "monograph",
+ "doc_year": 2019,
+ "people": [
+  {
+   "name": "Achim Bayer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  },
+  {
+   "name": "Chos-rgyam Drung-pa Rin-po-che",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Buddhism"
+  },
+  {
+   "name": "mKhan-po Gang-shar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Kah-thog mKhan-po Nus-ldan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Chos-rgyam Drung-pa Rin-po-che",
+   "type": "student_of",
+   "object": "mKhan-po Gang-shar",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "mKhan-po Gang-shar from Zhe-chen Monastery is probably most widely known as one of the main teachers of Chos-rgyam Drung-pa Rin-po-che",
+   "quote_ok": true
+  },
+  {
+   "subject": "mKhan-po Gang-shar",
+   "type": "student_of",
+   "object": "Kah-thog mKhan-po Nus-ldan",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After studying with his main teacher Kah-thog mKhan-po Nus-ldan, he became the head scholar of the college in Zhe-chen.",
+   "quote_ok": false
+  },
+  {
+   "subject": "mKhan-po Gang-shar",
+   "type": "position_at",
+   "object": "Zhe-chen",
+   "role": "head scholar of the college",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he became the head scholar of the college in Zhe-chen.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Bayer_The Life and Works of mKhan-po gZhan-dga' (1871–1927)",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Bayer_The Life and Works of mKhan-po gZhan-dga' (1871–1927).txt#0",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

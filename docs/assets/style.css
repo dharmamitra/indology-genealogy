@@ -3,6 +3,10 @@
   --ground:#F1F2EF; --surface:#FBFBF9; --ink:#1C2430; --muted:#5E6875; --rule:#D5D9D6;
   --indigo:#2B3A8C; --turmeric:#B87A0C; --madder:#A23246; --teal:#3F7F78; --grey:#8A929B;
   --node:#1C2430; --halo:#F1F2EF; --land:#E2E5DF; --on-bar:#FBFBF9;
+  /* colour = field of study, everywhere */
+  --f-indology:#2B3A8C; --f-buddhist_studies:#B87A0C; --f-tibetology:#A23246; --f-sinology:#3F7F78; --f-japanology:#7A4E9C;
+  --f-iranian_central_asian:#5C7F2B; --f-linguistics:#2F7FA8; --f-religious_studies:#B0582A; --f-philosophy:#6B6F7A;
+  --f-history_archaeology:#8C6D3F; --f-other:#9AA0A6;
   --ui:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
   --serif:"Newsreader",Georgia,"Times New Roman",serif;
 }
@@ -11,6 +15,9 @@
     --ground:#11151B; --surface:#181D25; --ink:#E6E8EA; --muted:#98A2AE; --rule:#2A313B;
     --indigo:#97A3F5; --turmeric:#E3AE45; --madder:#E8889A; --teal:#6FBFB5; --grey:#6B7480;
     --node:#D9DDE2; --halo:#11151B; --land:#1D242D; --on-bar:#11151B;
+    --f-indology:#97A3F5; --f-buddhist_studies:#E3AE45; --f-tibetology:#E8889A; --f-sinology:#6FBFB5; --f-japanology:#B99AE0;
+    --f-iranian_central_asian:#A5C76A; --f-linguistics:#7CC0E6; --f-religious_studies:#E89C6E; --f-philosophy:#A3A8B5;
+    --f-history_archaeology:#C9AE7C; --f-other:#6B7480;
   }
 }
 *{box-sizing:border-box}
@@ -28,7 +35,25 @@ a{color:var(--indigo)}
 .tabs{display:flex;gap:2px}
 .tabs button{background:none;border:0;border-bottom:2px solid transparent;padding:6px 10px;cursor:pointer;color:var(--muted);font-weight:500}
 .tabs button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--indigo)}
-.search{flex:1 1 180px;max-width:300px}
+.search{flex:1 1 180px;max-width:300px;position:relative}
+.suggest{position:absolute;z-index:20;left:0;right:0;top:100%;margin:2px 0 0;padding:4px;list-style:none;background:var(--surface);border:1px solid var(--rule);border-radius:3px;box-shadow:0 6px 20px rgb(0 0 0/.12);max-height:60vh;overflow:auto}
+.suggest button{display:flex;gap:7px;align-items:baseline;width:100%;text-align:left;background:none;border:0;padding:5px 7px;cursor:pointer;border-radius:2px}
+.suggest button:hover,.suggest li:first-child button{background:var(--ground)}
+.suggest .none{padding:5px 7px;color:var(--muted)}
+#lens{font-weight:500}
+.dot{display:inline-block;width:9px;height:9px;border-radius:50%;flex:none;align-self:center}
+.dot.sq{border-radius:1px;background:var(--grey)}
+.dot.ring{background:none;border:2px solid var(--f-buddhist_studies)}
+.legend{position:absolute;left:12px;bottom:10px;display:flex;flex-wrap:wrap;gap:3px 12px;max-width:calc(100% - 70px);font-size:12px;color:var(--muted);pointer-events:none}
+.legend.inline{position:static;margin:4px 0 8px;pointer-events:auto}
+.swatch-l{flex:none}
+.fields-scroll{height:100%;overflow:auto;padding:18px 20px 40px}
+.fields-scroll h2{font-family:var(--serif);font-weight:500;font-size:24px;margin:0 0 6px}
+.fields-scroll h3{font-size:11px;font-weight:600;letter-spacing:.09em;text-transform:uppercase;color:var(--muted);margin:26px 0 8px;padding-bottom:5px;border-bottom:1px solid var(--rule)}
+.fields-scroll h3 .c-sub{text-transform:none;letter-spacing:0;font-weight:400}
+.scrollx{overflow-x:auto}
+.m-num{font-size:11px;fill:var(--ink);font-variant-numeric:tabular-nums;paint-order:stroke;stroke:var(--halo);stroke-width:2.5px}
+.m-lab{font-size:12px;fill:var(--ink)}
 .search input{width:100%;padding:6px 10px;border:1px solid var(--rule);border-radius:3px;background:var(--ground)}
 .bar select{padding:5px 8px;border:1px solid var(--rule);border-radius:3px;background:var(--ground);font-size:13px}
 
@@ -36,6 +61,7 @@ a{color:var(--indigo)}
 .tools{display:flex;flex-wrap:wrap;gap:4px 16px;align-items:center;padding:8px 18px;border-bottom:1px solid var(--rule);font-size:13px;color:var(--muted);min-height:38px}
 .view{position:relative;flex:1 1 0;min-height:0}
 .view>svg{display:block;width:100%;height:100%}
+.view>canvas{display:block;width:100%;height:100%}
 #graph,#map{cursor:grab;touch-action:none}
 #graph:active,#map:active{cursor:grabbing}
 .tg{display:inline-flex;align-items:center;gap:6px;cursor:pointer;user-select:none}
@@ -95,10 +121,8 @@ a{color:var(--indigo)}
 .c-sub{font-size:11.5px;fill:var(--muted);font-weight:400}
 .c-rule{stroke:var(--rule)}
 .bar-r{cursor:pointer}
-.bar-r.text{fill:var(--indigo)}
-.bar-r.wikidata{fill:var(--teal)}
-.bar-r.model{fill:var(--halo);stroke:var(--indigo);stroke-dasharray:3 2;stroke-width:1}
-.bar-r.study{fill:var(--turmeric)}
+.bar-r.model{stroke-dasharray:3 2;stroke-width:1}
+.bar-r.study{opacity:.55}
 .bar-g.dim{opacity:.15}
 .bar-t{font-size:11px;pointer-events:none;fill:var(--ink)}
 .bar-t.in{fill:var(--on-bar)}
@@ -111,7 +135,7 @@ a{color:var(--indigo)}
 
 /* map */
 .land{fill:var(--land);stroke:var(--ground);stroke-width:.5;vector-effect:non-scaling-stroke}
-.place{fill:var(--indigo);fill-opacity:.8;stroke:var(--halo);stroke-width:1.2;cursor:pointer}
+.place{fill-opacity:.8;stroke:var(--halo);stroke-width:1.2;cursor:pointer}
 .place.study{fill:none;stroke:var(--turmeric);stroke-width:1.6}
 .place.idle{fill:var(--grey);fill-opacity:.35;stroke:none}
 .place.sel{stroke:var(--turmeric);stroke-width:3}
@@ -121,7 +145,12 @@ a{color:var(--indigo)}
 .panel{border-left:1px solid var(--rule);background:var(--surface);overflow-y:auto;min-height:0;padding:18px 20px 40px}
 .panel h2{font-family:var(--serif);font-weight:500;font-size:25px;line-height:1.15;margin:0 0 2px;text-wrap:balance}
 .panel .dates{font-variant-numeric:tabular-nums;color:var(--muted);font-size:13px}
-.panel .field{margin-top:6px;font-size:13px}
+.panel .field{margin-top:7px;font-size:12.5px;display:flex;flex-wrap:wrap;gap:4px 6px}
+.chip{display:inline-flex;align-items:center;gap:5px;border:1px solid var(--rule);border-radius:10px;padding:1px 8px}
+.native{font-size:15px;color:var(--muted);margin-bottom:2px}
+.summary{margin-top:14px!important;font-family:var(--serif);font-size:15.5px;line-height:1.45}
+.who{display:inline-flex;gap:6px;align-items:baseline}
+.more{margin-top:8px!important}
 .panel .aka{margin-top:6px;font-size:12px;color:var(--muted)}
 .panel h3{font-size:11px;font-weight:600;letter-spacing:.09em;text-transform:uppercase;color:var(--muted);margin:22px 0 8px;padding-bottom:5px;border-bottom:1px solid var(--rule);display:flex;justify-content:space-between}
 .panel p{margin:0 0 10px;max-width:60ch}

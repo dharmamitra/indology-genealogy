@@ -1,0 +1,130 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Philip Yampolsky",
+   "birth_year": null,
+   "death_year": 1996,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kenneth K. Inada",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Francis H. Cook",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "MAYEDA Sengaku",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "YONEZAWA Yoshiyasu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rolf Giebel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "New Zealand",
+   "field": null
+  },
+  {
+   "name": "Rudy Smet",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Belgium",
+   "field": null
+  },
+  {
+   "name": "Brian Nagata",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Philip Yampolsky",
+   "type": "position_at",
+   "object": "Publication Committee at the Numata Center",
+   "role": "Chairperson",
+   "place": null,
+   "year_start": 1991,
+   "year_end": 1996,
+   "explicit": true,
+   "evidence": "In December 1991, the Publication Committee was organized at the Numata Center, with Professor Philip Yampolsky as the Chairperson. To our sorrow, Professor Yampolsky passed away in July 1996.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kenneth K. Inada",
+   "type": "position_at",
+   "object": "Publication Committee at the Numata Center",
+   "role": "Chairperson",
+   "place": null,
+   "year_start": null,
+   "year_end": 1999,
+   "explicit": true,
+   "evidence": "in that capacity until August 1999. The current Chair, Dr. Francis H. Cook, has been continuing the work since October 1999.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francis H. Cook",
+   "type": "position_at",
+   "object": "Publication Committee at the Numata Center",
+   "role": "Chairperson",
+   "place": null,
+   "year_start": 1999,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In October 1999, I became the third chairperson of the Publication Committee, on the retirement of its very capable former chair, Dr. Kenneth K. Inada.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francis H. Cook",
+   "type": "succeeded",
+   "object": "Kenneth K. Inada",
+   "role": "Chairperson of the Publication Committee",
+   "place": "Numata Center",
+   "year_start": 1999,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In October 1999, I became the third chairperson of the Publication Committee, on the retirement of its very capable former chair, Dr. Kenneth K. Inada.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Brian Nagata",
+   "type": "position_at",
+   "object": "Numata Center for Buddhist Translation and Research",
+   "role": "President",
+   "place": "Berkeley, California",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Brian Nagata, president of the Numata Center for Buddhist Translation and Research, Berkeley, California",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_1884",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_1884.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

@@ -1,59 +1,62 @@
 # Indology Lineages
 
-An academic genealogy of Indology (Sanskrit philology and its neighbours), c. 1650–1920: **who studied under
-whom, who taught where, and when**.
+An academic genealogy of **Indology, Buddhist studies and Tibetology** — including their **Japanese** traditions — from
+the 17th century to scholars working today: **who studied under whom, who taught where, and when**.
 
 **Live site: https://dharmamitra.github.io/indology-genealogy/**
 
-Three views over one graph:
+One graph, six lenses (Indology · Buddhist studies · Tibetology · Japan: Indology · Japan: Buddhist studies · all fields),
+four views. Colour always means field of study.
 
 - **Lineages** – every scholar placed by year of birth, teacher → student lines, plus succession in chairs,
-  influence, collaboration, kinship and feuds. Click a scholar to light up their whole academic ancestry and
-  descent. A year slider shows the field as of a given year.
+  influence, collaboration, kinship and feuds. Click a scholar to light up the whole academic ancestry and descent;
+  the side panel gives a career summary, career stations with dates, and the sentence each link rests on.
 - **Chairs** – one timeline per institution: who held which post, from when to when.
 - **Map** – where posts were held and where people studied, year by year (press ▶).
+- **Fields** – the meta view: growth of the disciplines over time and who taught whom across fields.
 
-Every link taken from the books carries the (German) sentence it rests on.
+Shareable state: `#lens=tibetology&view=chairs&sel=P:Giuseppe Tucci`.
 
 ## Sources
 
-| Source | What it contributes |
-|---|---|
-| Ernst Windisch, *Geschichte der Sanskrit-Philologie und indischen Altertumskunde* (1917–20) | the bulk: ~1,100 extracted relations |
-| Moriz Winternitz, *Geschichte der indischen Litteratur*, vols. 1–3 (1908–20) | ~280 relations, mostly from the introduction (history of Indian studies in Europe) and biographical footnotes |
-| Wikidata | identifiers, life dates, portraits, coordinates; dated *employer* / *educated at* / *student of* statements (~730 additional links) |
+| Source | How it is read | What it contributes |
+|---|---|---|
+| Ernst Windisch, *Geschichte der Sanskrit-Philologie und indischen Altertumskunde* (1917–20); Moriz Winternitz, *Geschichte der indischen Litteratur* (1908–20) | whole books | the 18th–19th century core |
+| Histories of the fields: de Jong, *A Brief History of Buddhist Studies in Europe and America*; Jackson, *A History of Tibetan Studies*; Lopez (ed.), *Curators of the Buddha*; Almond, *The British Discovery of Buddhism*; Rocher & Rocher, *The Making of Western Indology*; Yuyama on Burnouf; Oldenberg, *Vedaforschung*; the Whitney Memorial Meeting (JAOS 19); Cabezón, Dreyfus, Kapstein; obituaries (Stein, Bareau, Hertel …) | whole texts | Buddhist studies, Tibetology, America, France, Russia |
+| Prefaces, acknowledgements, *Lebensläufe*, あとがき, 略歴 and contributor notes of ~6,500 books, dissertations, Festschriften and journal issues (two private research corpora: ~20,000 OCRed documents of Indological/Buddhological literature incl. a large Japanese collection, and ~8,000 works of Buddhist-studies and Tibetological reference literature) | only the front/back matter: located by marker phrases and scored locally, then sent to Gemini | the 20th and 21st centuries: supervisors, degrees, posts, teachers — in the scholars' own words |
+| Biography-dense sections anywhere else (obituary notices in JRAS, JAOS, BEFEO, Indian Antiquary …; biographical sketches) | 8k-character windows with enough career vocabulary, max. 8 per document | obituaries, careers |
+| Wikidata | label lookup via SPARQL, life-date agreement | identifiers, life dates, portraits, coordinates, dated *employer* / *educated at* / *student of* statements |
 
-Current size: 541 scholars, 361 places, 1,773 links.
+The OCR texts themselves are not part of this repository; short evidence quotes are.
 
 ## How the data was made
 
-1. `pipeline/extract_relations.py` – the OCR text of each book is cut into ~14k-character chunks; Gemini extracts
-   relations (`student_of`, `studied_at`, `position_at`, `succeeded`, `collaborated_with`, `influenced_by`,
-   `founded`, `other`) as JSON, **using only what the chunk says**, each with a verbatim evidence quote. A relation
-   is kept only if its quote is actually found in the chunk (`quote_ok`); ~4% were dropped. Results: `data/chunks/`.
-2. `pipeline/resolve_entities.py` – name variants (“R. Roth”, “Rudolph Roth”, “Roth”) and institution names are
-   canonicalised with Gemini, batched by surname. Output: `data/graph_books.json` (+ `.graphml`, `edges_books.tsv`).
-3. `pipeline/wikidata_enrich.py` – people are matched to Wikidata by name search plus agreement of life dates
-   (427 of 541 matched); institutions by name search with Gemini choosing among the candidates. Output: `data/wikidata.json`.
-4. `pipeline/merge_sources.py` – merges everything into `docs/data/graph.json`, which the site loads.
+1. **Worklists (no LLM)** – `pipeline/build_worklist.py` finds prefaces/acknowledgements/afterwords by marker phrases and
+   scores them; `pipeline/build_sections.py` finds biography-dense windows and lists the books that are parsed whole.
+2. **Extraction (Gemini)** – `pipeline/extract_relations.py` (whole books, 14k chunks) and `pipeline/extract_prefaces.py`
+   (windows; first-person statements are resolved to the author). Relation types: `student_of` (with role: doctoral
+   supervisor, teacher, traditional teacher, committee member …), `studied_at`, `position_at`, `succeeded`,
+   `collaborated_with`, `influenced_by`, `founded`, `other`. The model may use **only what the text says** and must quote
+   it verbatim; a relation is kept only if the quote is found in the text (about 13% are dropped).
+3. **Entity resolution (Gemini)** – `pipeline/resolve_all.py`: CJK names are romanised so that 梶山雄一, *Y. Kajiyama* and
+   *Kajiyama Yuichi* meet; names are canonicalised in surname batches; every person gets fields, country and a
+   *japanese* flag; institutions are normalised to university level. Only scholars of the core fields (Indology,
+   Buddhist studies, Tibetology) and people directly tied to them are kept.
+4. **Wikidata** – `pipeline/wikidata_all.py`.
+5. **Merge, harmonise, date, summarise** – `pipeline/merge_all.py`: nodes sharing a Wikidata id are merged; likely
+   duplicates (spelling variants, initials, long vowels, 大学/University) are found by blocking and decided by Gemini —
+   every merge is logged in `data/harmonize_merges.json`; Wikidata statements are added; missing years are filled from
+   the model's own knowledge (marked); short career summaries are written from the collected facts only.
 
-### How far to trust the dates
+### How far to trust it
 
-Each year on a link records where it comes from (`ys_src` / `ye_src`):
-
-| value | meaning | share of dated posts |
-|---|---|---|
-| `text` | stated in Windisch or Winternitz | ~19% |
-| `wikidata` | qualifier on a Wikidata statement | ~13% |
-| `model` | **recalled by the language model** because neither the books nor Wikidata give a year; kept only at self-reported high/medium confidence | ~68% |
-
-The site marks `model` years with “c.” and a dashed tag/bar. They are usually right for well-known scholars and
-should be treated as approximate leads, not as citations. Life dates come from Wikidata where matched, otherwise
-from the books or the model.
-
-Other known limits: coverage follows the two books (strongly German-centred, ends c. 1920); teachers named in
-the books include philosophers and classicists who are not Indologists; evidence is located by chunk, not by page;
-a bar that fades out has no known end.
+Each year on a link records where it comes from (`ys_src` / `ye_src`): `text` (stated in a publication), `wikidata`,
+or `model` (**recalled by the language model**, kept only at self-reported high/medium confidence, shown as "c." with a
+dashed tag/bar — approximate leads, not citations). Open-ended periods are closed with a modelled end (next post,
+death, or a cap) and drawn fading out. Fields, countries and summaries are assigned automatically. Name merging makes
+mistakes in both directions (namesakes merged, variants left apart); acknowledgements also thank people who were not
+teachers, and although the prompt excludes mere thanks, some will have slipped through as `student_of`. Evidence quotes
+let you check every book-derived link.
 
 ## Re-running
 
@@ -61,10 +64,13 @@ a bar that fades out has no known end.
 pip install google-genai requests networkx
 export GEMINI_API_KEY=...            # or put it in ~/code/mitra-evaluation/.secrets.env
 export INDOLOGY_OCR_DIR=/path/to/ocr # <docid>.txt files; the OCR texts are not part of this repo
-python3 pipeline/extract_relations.py --workers 16   # cached per chunk
-python3 pipeline/resolve_entities.py
-python3 pipeline/wikidata_enrich.py                  # ~1 request/s, takes a while the first time
-python3 pipeline/merge_sources.py
+python3 pipeline/extract_relations.py --workers 16            # whole books, cached per chunk
+python3 pipeline/build_worklist.py && python3 pipeline/extract_prefaces.py --workers 40 --thinking 0
+python3 pipeline/build_sections.py && python3 pipeline/extract_prefaces.py --worklist data/worklist_sections.jsonl \
+        --outdir data/sections --min-score 0 --thinking 0
+python3 pipeline/resolve_all.py
+python3 pipeline/wikidata_all.py
+python3 pipeline/merge_all.py
 python3 -m http.server -d docs 8000
 ```
 

@@ -1,0 +1,83 @@
+{
+ "author": null,
+ "doc_kind": "edited_volume",
+ "doc_year": 1978,
+ "people": [
+  {
+   "name": "Martin Brauen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  },
+  {
+   "name": "Per Kvaerne",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  },
+  {
+   "name": "Karl H. Henking",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Martin Brauen",
+   "type": "collaborated_with",
+   "object": "Per Kvaerne",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Edited by Martin Brauen and Per Kvaerne",
+   "quote_ok": true
+  },
+  {
+   "subject": "Per Kvaerne",
+   "type": "position_at",
+   "object": "Religionshistorischen Institut in Oslo",
+   "role": "Professor",
+   "place": "Oslo",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Per Kvaerne, Professor am Religionshistorischen Institut in Oslo",
+   "quote_ok": true
+  },
+  {
+   "subject": "Martin Brauen",
+   "type": "position_at",
+   "object": "Völkerkundemuseum der Universität Zürich",
+   "role": "Konservator",
+   "place": "Zürich",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Martin Brauen, Konservator an unserem Museum",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl H. Henking",
+   "type": "position_at",
+   "object": "Völkerkundemuseum of the University of Zurich",
+   "role": "director",
+   "place": "Zurich",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the Völkerkundemuseum of the University of Zurich and its director, Prof. Dr. Karl H. Henking",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_PIATS-01-Zurich-1977",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_PIATS-01-Zurich-1977.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

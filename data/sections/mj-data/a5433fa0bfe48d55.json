@@ -1,0 +1,71 @@
+{
+ "author": "福原亮厳",
+ "doc_kind": "monograph",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "福原亮厳",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "山田龍城",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "山口益",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "春日井真也",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "福原亮厳",
+   "type": "student_of",
+   "object": "山田龍城",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "これらの論書の取扱い方につき、御指導をいただいた恩師山田龍城博士に対し感謝の意を表したい。",
+   "quote_ok": true
+  },
+  {
+   "subject": "山口益",
+   "type": "collaborated_with",
+   "object": "春日井真也",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "『東洋学論叢』所載、山口益・春日井真也両氏稿、(共同研究)「施設論攷」四四二頁参照",
+   "quote_ok": true
+  }
+ ],
+ "docid": "有部阿毘達磨論書の発達. 福原亮厳",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/有部阿毘達磨論書の発達. 福原亮厳.txt#0",
+ "meta": {
+  "title": "有部阿毘達磨論書の発達",
+  "author": "福原 亮厳",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1997,
+ "people": [
+  {
+   "name": "Hugh E. Richardson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  },
+  {
+   "name": "N. C. Sinha",
+   "birth_year": 1911,
+   "death_year": 1997,
+   "nationality": "Indian",
+   "field": "Tibetology"
+  },
+  {
+   "name": "Triguna Sen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Patel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Economics"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "N. C. Sinha",
+   "type": "studied_at",
+   "object": "Presidency College, Calcutta",
+   "role": "post graduate",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. N. C. Sinha was born in Ranchi and was post graduate of Presidency College, Calcutta.",
+   "quote_ok": true
+  },
+  {
+   "subject": "N. C. Sinha",
+   "type": "position_at",
+   "object": "Berhampore College",
+   "role": "Prof. of History",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was sometime Prof. of History, Behrampur College",
+   "quote_ok": true
+  },
+  {
+   "subject": "N. C. Sinha",
+   "type": "position_at",
+   "object": "Indian Archive, New Delhi",
+   "role": null,
+   "place": "New Delhi",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he has the distinction to work under Dr. Trignna Sen in Indian Archive, New Delhi.",
+   "quote_ok": true
+  },
+  {
+   "subject": "N. C. Sinha",
+   "type": "position_at",
+   "object": "University of Calcutta",
+   "role": "Centenary Professor of Interantional relations",
+   "place": "Calcutta",
+   "year_start": 1971,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After his retirement in 1971-72, he was appointed Centenary Professor of Interantional relations, University of Calcutta.",
+   "quote_ok": true
+  },
+  {
+   "subject": "N. C. Sinha",
+   "type": "collaborated_with",
+   "object": "Patel",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He also contributed in a book along Prof. Patel on 'Indian War Economy'.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "bot_1997_01_full",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/bot_1997_01_full.txt",
+ "meta": {
+  "title": "Bulletin of Tibetology",
+  "author": "",
+  "year": 1997,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

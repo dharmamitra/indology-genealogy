@@ -1,0 +1,140 @@
+{
+ "author": "雲井昭善",
+ "doc_kind": "festschrift",
+ "doc_year": 1993,
+ "people": [
+  {
+   "name": "雲井昭善",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "塚本啓祥",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Yūichi Kajiyama",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Satoshi Hiraoka",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Masami Kojima",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Yoshiyuki Kawazoe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Masayuki Kimura",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "雲井昭善",
+   "type": "position_at",
+   "object": "大谷大学",
+   "role": "名誉教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "(くもい・しょうぜん 大谷大学名誉教授)",
+   "quote_ok": true
+  },
+  {
+   "subject": "塚本啓祥",
+   "type": "position_at",
+   "object": "東北大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "塚本啓祥教授還暦記念論文集",
+   "quote_ok": true
+  },
+  {
+   "subject": "Satoshi Hiraoka",
+   "type": "collaborated_with",
+   "object": "Yūichi Kajiyama",
+   "role": "translator",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Yūichi Kajiyama (translated by Satoshi Hiraoka): Presuppositions of Amitabha Worship in India",
+   "quote_ok": true
+  },
+  {
+   "subject": "Masami Kojima",
+   "type": "collaborated_with",
+   "object": "Yoshiyuki Kawazoe",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Masami Kojima, Yoshiyuki Kawazoe, Masayuki Kimura: Automatic Recognition of Tibetan Texts",
+   "quote_ok": true
+  },
+  {
+   "subject": "Masami Kojima",
+   "type": "collaborated_with",
+   "object": "Masayuki Kimura",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Masami Kojima, Yoshiyuki Kawazoe, Masayuki Kimura: Automatic Recognition of Tibetan Texts",
+   "quote_ok": true
+  },
+  {
+   "subject": "Yoshiyuki Kawazoe",
+   "type": "collaborated_with",
+   "object": "Masayuki Kimura",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Masami Kojima, Yoshiyuki Kawazoe, Masayuki Kimura: Automatic Recognition of Tibetan Texts",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Kumoi_雲井昭善_1993@兜率天考_塚本啓祥教授還暦記念論文集―知の邂逅",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Kumoi_雲井昭善_1993@兜率天考_塚本啓祥教授還暦記念論文集―知の邂逅.txt",
+ "meta": {
+  "title": "兜率天考",
+  "author": "雲井昭善",
+  "year": 1993,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

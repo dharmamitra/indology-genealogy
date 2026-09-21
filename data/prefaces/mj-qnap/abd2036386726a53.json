@@ -1,0 +1,123 @@
+{
+ "author": "G. Jan Meulenbeld",
+ "doc_kind": "monograph",
+ "doc_year": 2000,
+ "people": [
+  {
+   "name": "Heinrich Zimmer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Friedrich-Wilhelms-Universität, Berlin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Leo M. Zimmerman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ilza Veith",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ernst Windisch",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Julius Eggeling",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "M. Winternitz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "A.B. Keith",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Heinrich Zimmer",
+   "type": "studied_at",
+   "object": "Friedrich-Wilhelms-Universität, Berlin",
+   "role": "doctoral degree",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": 1914,
+   "explicit": true,
+   "evidence": "Zimmer, Heinrich (1914) – Studien zur Geschichte der Gotras, Inaugural-Dissertation, Friedrich-Wilhelms-Universität, Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Leo M. Zimmerman",
+   "type": "collaborated_with",
+   "object": "Ilza Veith",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1961,
+   "explicit": true,
+   "evidence": "Zimmerman, Leo M. and Ilza Veith (1961) – Great ideas in the history of surgery, The Williams and Wilkins Company, Baltimore.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Windisch",
+   "type": "collaborated_with",
+   "object": "Julius Eggeling",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1894,
+   "explicit": true,
+   "evidence": "Windisch, Ernst and Julius Eggeling (1894) – Catalogue of the Sanskrit manuscripts in the Library of the India Office, part IV.",
+   "quote_ok": true
+  },
+  {
+   "subject": "M. Winternitz",
+   "type": "collaborated_with",
+   "object": "A.B. Keith",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1905,
+   "explicit": true,
+   "evidence": "Winternitz, M. and A.B. Keith (1905) – Catalogue of Sanskrit Manuscripts in the Bodleian Library, vol. II, begun by M. Winternitz, continued and completed by A.B. Keith",
+   "quote_ok": true
+  }
+ ],
+ "docid": "HIML_IIB",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/HIML_IIB.txt",
+ "meta": {
+  "title": "A History of Indian Medical Literature",
+  "author": "Meulenbeld, G. Jan",
+  "year": 2000,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

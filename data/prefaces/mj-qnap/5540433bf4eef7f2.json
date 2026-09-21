@@ -1,0 +1,126 @@
+{
+ "author": "Giuseppe Tucci",
+ "doc_kind": "text_edition",
+ "doc_year": 1971,
+ "people": [
+  {
+   "name": "Giuseppe Tucci",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Italian",
+   "field": null
+  },
+  {
+   "name": "C. Pensa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Philosophy"
+  },
+  {
+   "name": "T. Venkatacharya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "East Asian Studies"
+  },
+  {
+   "name": "Jampel Sanghe Ati",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": null
+  },
+  {
+   "name": "Lokesh Chandra",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "C. Pensa",
+   "type": "student_of",
+   "object": "Giuseppe Tucci",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "my former pupil C. Pensa, now Professor of Religions and Philosophy of India and the Far East at the University of Rome",
+   "quote_ok": true
+  },
+  {
+   "subject": "C. Pensa",
+   "type": "position_at",
+   "object": "University of Rome",
+   "role": "Professor of Religions and Philosophy of India and the Far East",
+   "place": "Rome",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "now Professor of Religions and Philosophy of India and the Far East at the University of Rome",
+   "quote_ok": true
+  },
+  {
+   "subject": "T. Venkatacharya",
+   "type": "position_at",
+   "object": "IsMEO",
+   "role": null,
+   "place": "Rome",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. T. Venkatacharya who has been working for some time at IsMEO",
+   "quote_ok": true
+  },
+  {
+   "subject": "T. Venkatacharya",
+   "type": "position_at",
+   "object": "University of Toronto",
+   "role": "Professor, Dept. of East Asian Studies",
+   "place": "Toronto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "now Professor, Dept. of East Asian Studies, at the University of Toronto",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jampel Sanghe Ati",
+   "type": "position_at",
+   "object": "IsMEO",
+   "role": null,
+   "place": "Rome",
+   "year_start": 1965,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Geshe Jampel Sanghe Ati, who is working with us at Ismeo since six years",
+   "quote_ok": true
+  },
+  {
+   "subject": "Giuseppe Tucci",
+   "type": "other",
+   "object": "Lokesh Chandra",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I owe this reproduction to the kindness of my friend Lokesh Chandra.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Minor_Buddhist_Texts_P.iii__Tucci_1971",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Minor_Buddhist_Texts_P.iii__Tucci_1971.txt",
+ "meta": {
+  "title": "Minor Buddhist Texts, Part III: Third Bhāvanākrama",
+  "author": "Tucci, Giuseppe",
+  "year": 1971,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

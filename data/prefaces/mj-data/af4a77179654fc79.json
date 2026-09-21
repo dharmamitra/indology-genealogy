@@ -1,0 +1,85 @@
+{
+ "author": "向井亮",
+ "doc_kind": "article",
+ "doc_year": 1979,
+ "people": [
+  {
+   "name": "向井亮",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "松田和信",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "L. Schmithausen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Germany",
+   "field": "Indology / Buddhist studies"
+  },
+  {
+   "name": "百済康義",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "大谷大学",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "龍谷大学",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "松田和信",
+   "type": "studied_at",
+   "object": "大谷大学",
+   "role": "graduate student",
+   "place": null,
+   "year_start": null,
+   "year_end": 1979,
+   "explicit": true,
+   "evidence": "大谷大学大学院の松田和信氏の手を煩わしてそのコピーを入手することができた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "百済康義",
+   "type": "position_at",
+   "object": "龍谷大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "これは竜谷大学の百済康義氏の発見になるのであるが",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Mukai_向井亮_1979",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Mukai_向井亮_1979.txt",
+ "meta": {
+  "title": "『顕揚聖教論』と『瑜伽師地論』",
+  "author": "向井 亮",
+  "year": 1979,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,121 @@
+{
+ "author": "Jonardon Ganeri",
+ "doc_kind": "article",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Saileswar Sen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indian philosophy"
+  },
+  {
+   "name": "B. Faddegon",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Dutch",
+   "field": "Vaiśeṣika"
+  },
+  {
+   "name": "Frits Staal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Dutch",
+   "field": "Indian logic"
+  },
+  {
+   "name": "Cornelis Goekoop",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indian logic"
+  },
+  {
+   "name": "Bimal Krishna Matilal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indian philosophy"
+  },
+  {
+   "name": "Daniel H. H. Ingalls",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Saileswar Sen",
+   "type": "studied_at",
+   "object": "University of Calcutta",
+   "role": "student",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": 1920,
+   "explicit": true,
+   "evidence": "Saileswar Sen states that \"It was in 1920, when I was a student of the University of Calcutta...\"",
+   "quote_ok": true
+  },
+  {
+   "subject": "Saileswar Sen",
+   "type": "student_of",
+   "object": "B. Faddegon",
+   "role": "doctoral supervisor",
+   "place": "Amsterdam",
+   "year_start": null,
+   "year_end": 1924,
+   "explicit": true,
+   "evidence": "a decision that led him eventually to Amsterdam, where he worked under the supervision of the great Vaiśeṣika scholar B. Faddegon.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Cornelis Goekoop",
+   "type": "student_of",
+   "object": "Frits Staal",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Staal supervised the doctoral work of Cornelis Goekoop, which resulted in an important publication, The Logic of Invariable Concomitance in the Tattvacintāmani.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bimal Krishna Matilal",
+   "type": "studied_at",
+   "object": "Harvard",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ingalls's inspirational approach drew Matilal to Harvard",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bimal Krishna Matilal",
+   "type": "student_of",
+   "object": "Daniel H. H. Ingalls",
+   "role": "teacher",
+   "place": "Harvard",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Ingalls's inspirational approach drew Matilal to Harvard, and I do not think it would be very controversial to say that Matilal soon showed himself to have a finer logical acumen than Ingalls himself",
+   "quote_ok": true
+  }
+ ],
+ "docid": "1580-951-1-SP",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/1580-951-1-SP.txt",
+ "meta": {
+  "title": "Asian and Asian-American Philosophers and Philosophies",
+  "author": "",
+  "year": 2017,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,108 @@
+{
+ "author": "酒井眞典",
+ "doc_kind": "article",
+ "doc_year": 1959,
+ "people": [
+  {
+   "name": "酒井眞典",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "白石眞道",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "山口益",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "山田龍城",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "酒井眞典",
+   "type": "position_at",
+   "object": "高野山大學",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "酒井眞典(紫朗) (高野山大學)",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "白石眞道",
+   "type": "position_at",
+   "object": "山梨大學",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "恩師山梨大學の白石眞道教授の指導の下に一読した點を報告して置きたいと思ふ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "酒井眞典",
+   "type": "student_of",
+   "object": "白石眞道",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "恩師山梨大學の白石眞道教授の指導の下に一読した點を報告して置きたいと思ふ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "酒井眞典",
+   "type": "collaborated_with",
+   "object": "白石眞道",
+   "role": "co-translators",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "以下の譯は全て白石・酒井の共譯である。",
+   "quote_ok": true
+  },
+  {
+   "subject": "山口益",
+   "type": "position_at",
+   "object": "大谷大學",
+   "role": "學長",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "(前) 大谷大學々長 山口鑫博士がこれを同大學に於て講ぜられ、その翻譯を完了してゐられると云はれる。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Sakai_酒井真典_1959@龍樹に歸せられる讃歌―特に四讃について―",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Sakai_酒井真典_1959@龍樹に歸せられる讃歌―特に四讃について―.txt",
+ "meta": {
+  "title": "龍樹に歸せられる讃歌―特に四讃について―",
+  "author": "酒井眞典",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,183 @@
+{
+ "author": "Tatsuya Nagashima",
+ "doc_kind": "monograph",
+ "doc_year": 1996,
+ "people": [
+  {
+   "name": "Tatsuya Nagashima",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Daisetsu Teitarô Suzuki",
+   "birth_year": 1870,
+   "death_year": 1966,
+   "nationality": "Japanese",
+   "field": "Buddhist scholar"
+  },
+  {
+   "name": "Imakita Kôsen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Beatrice Lane",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "Buddhist scholar"
+  },
+  {
+   "name": "William James",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "philosophy"
+  },
+  {
+   "name": "Josiah Royce",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "philosophy"
+  },
+  {
+   "name": "George Santayana",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Daisetsu Teitarô Suzuki",
+   "type": "student_of",
+   "object": "Imakita Kôsen",
+   "role": "traditional teacher",
+   "place": "Engakuji Temple",
+   "year_start": 1891,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The following year he studied under the Zen Master Imakita Kôsen at Engakuji Temple",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daisetsu Teitarô Suzuki",
+   "type": "studied_at",
+   "object": "Tokyo University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1895,
+   "explicit": true,
+   "evidence": "Suzuki matriculated at Tokyo University, majoring in philosophy. After leaving Tokyo University in 1895",
+   "quote_ok": false
+  },
+  {
+   "subject": "Beatrice Lane",
+   "type": "studied_at",
+   "object": "Radcliffe College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Beatrice Lane, a Boston native who had studied at both Rad- cliffe College and Columbia University under such teachers as William James, Josiah Royce, and George Santayana.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Beatrice Lane",
+   "type": "studied_at",
+   "object": "Columbia University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Beatrice Lane, a Boston native who had studied at both Rad- cliffe College and Columbia University under such teachers as William James, Josiah Royce, and George Santayana.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Beatrice Lane",
+   "type": "student_of",
+   "object": "William James",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied at both Rad- cliffe College and Columbia University under such teachers as William James, Josiah Royce, and George Santayana.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Beatrice Lane",
+   "type": "student_of",
+   "object": "Josiah Royce",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied at both Rad- cliffe College and Columbia University under such teachers as William James, Josiah Royce, and George Santayana.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Beatrice Lane",
+   "type": "student_of",
+   "object": "George Santayana",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied at both Rad- cliffe College and Columbia University under such teachers as William James, Josiah Royce, and George Santayana.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daisetsu Teitarô Suzuki",
+   "type": "other",
+   "object": "Beatrice Lane",
+   "role": "spouse",
+   "place": "Japan",
+   "year_start": 1911,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Suzuki and Lane married in Japan in 1911.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daisetsu Teitarô Suzuki",
+   "type": "position_at",
+   "object": "Gakushûin",
+   "role": "lecturer in English",
+   "place": "Japan",
+   "year_start": 1909,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Suzuki returned to Japan in 1909, where he became a lec- turer in English at Gakushûin and Tokyo University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daisetsu Teitarô Suzuki",
+   "type": "position_at",
+   "object": "Tokyo University",
+   "role": "lecturer in English",
+   "place": "Japan",
+   "year_start": 1909,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Suzuki returned to Japan in 1909, where he became a lec- turer in English at Gakushûin and Tokyo University",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Swedenborg. Buddha of the North_Daisetz Teitaro Suzuki, 1996",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Swedenborg. Buddha of the North_Daisetz Teitaro Suzuki, 1996.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

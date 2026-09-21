@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1984,
+ "people": [
+  {
+   "name": "氏家覚勝",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "小谷信千代",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "山野俊郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist Studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "氏家覚勝",
+   "type": "position_at",
+   "object": "高野山大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "講師 氏家覚勝 高野山大学教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "小谷信千代",
+   "type": "position_at",
+   "object": "大谷大学",
+   "role": "専任講師",
+   "place": "Kyoto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "ツォンカパの唯識説について 専任講師 小谷信千代",
+   "quote_ok": true
+  },
+  {
+   "subject": "山野俊郎",
+   "type": "studied_at",
+   "object": "大谷大学",
+   "role": "博士課程",
+   "place": "Kyoto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "博士課程三回 山野 俊郎",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Frauwallner_Erich_1984@アビダルマ研究（Abhidharma-studien） I 五蘊論と五事論_translated by Miyashita Seiki",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Frauwallner_Erich_1984@アビダルマ研究（Abhidharma-studien） I 五蘊論と五事論_translated by Miyashita Seiki.txt",
+ "meta": {
+  "title": "五蘊論(Pañcaskandhakam)と五事論 (Pañcavastukam)",
+  "author": "Frauwallner, Erich",
+  "year": 1984,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

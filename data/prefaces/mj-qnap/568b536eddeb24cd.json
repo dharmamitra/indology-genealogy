@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1851,
+ "people": [
+  {
+   "name": "E. Robinson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "E. E. Salisbury",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "F. E. Hall",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "E. Robinson",
+   "type": "position_at",
+   "object": "American Oriental Society",
+   "role": "President",
+   "place": null,
+   "year_start": 1849,
+   "year_end": 1850,
+   "explicit": true,
+   "evidence": "The following persons were elected officers for 1849-50.\nProf. E. ROBINSON, President.",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. E. Salisbury",
+   "type": "position_at",
+   "object": "American Oriental Society",
+   "role": "Corr. Secretary",
+   "place": null,
+   "year_start": 1849,
+   "year_end": 1850,
+   "explicit": true,
+   "evidence": "E. E. SALISBURY, Corr. Secretary.",
+   "quote_ok": true
+  },
+  {
+   "subject": "F. E. Hall",
+   "type": "collaborated_with",
+   "object": "Asiatic Society of Bengal",
+   "role": null,
+   "place": "Calcutta",
+   "year_start": 1849,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and that a liberal grant has been voted to him by the Asiatic Society of Bengal, for the purpose of his making for its library a complete collection of memoirs of the poets of India and Persia.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "JAOS_002_1851=journalamerican24socigoog",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/JAOS_002_1851=journalamerican24socigoog.txt",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

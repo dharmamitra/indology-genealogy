@@ -1,0 +1,95 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 1897,
+ "people": [
+  {
+   "name": "H. T. Francis",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "R. A. Neil",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Cowell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "V. Fausbøll",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "R. A. Neil",
+   "type": "position_at",
+   "object": "Pembroke College",
+   "role": "Fellow",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "R. A. NEIL, M.A., FELLOW OF PEMBROKE COLLEGE.",
+   "quote_ok": true
+  },
+  {
+   "subject": "H. T. Francis",
+   "type": "collaborated_with",
+   "object": "R. A. Neil",
+   "role": "co-translators",
+   "place": null,
+   "year_start": null,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "the translators, Mr H. T. Francis, and Mr R. A. Neil, have endeavoured to keep up an uniformity with the plan adopted in the two former volumes.",
+   "quote_ok": true
+  },
+  {
+   "subject": "H. T. Francis",
+   "type": "collaborated_with",
+   "object": "Cowell",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "The two translators of this volume cannot allow the book to appear without expressing their gratitude to Professor Cowell for his constant help and supervision and for his kindness in compiling the index.",
+   "quote_ok": true
+  },
+  {
+   "subject": "R. A. Neil",
+   "type": "collaborated_with",
+   "object": "Cowell",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "The two translators of this volume cannot allow the book to appear without expressing their gratitude to Professor Cowell for his constant help and supervision and for his kindness in compiling the index.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Cowell 1897 Jataka 3",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Cowell 1897 Jataka 3.txt",
+ "meta": {
+  "title": "Jataka : or stories of the Buddha's former births",
+  "author": "",
+  "year": 1900,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

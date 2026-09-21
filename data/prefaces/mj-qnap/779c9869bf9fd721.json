@@ -1,0 +1,64 @@
+{
+ "author": "Johannes Nobel",
+ "doc_kind": "text_edition",
+ "doc_year": 1937,
+ "people": [
+  {
+   "name": "Johannes Nobel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "W. Printz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "H. Lüders",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "W. Printz",
+   "type": "position_at",
+   "object": "Deutsche Morgenländische Gesellschaft",
+   "role": null,
+   "place": "Halle",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Herrn Professor W. Printz danke ich... vor allem auch für die stets bereitwillige und rasche Übersendung der benötigten Literatur aus der Bibliothek der Deutschen Morgenländischen Gesellschaft in Halle.",
+   "quote_ok": true
+  },
+  {
+   "subject": "H. Lüders",
+   "type": "position_at",
+   "object": "Preußische Akademie der Wissenschaften",
+   "role": "Orientalische Kommission",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Auch Herrn Geheimrat H. Lüders, durch dessen Vermittlung die Orientalische Kommission der Preußischen Akademie der Wissenschaften in Berlin einen größeren Betrag als Druckkostenzuschuß zur Verfügung",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Suvarnaprabhaasottama_Nobel",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Suvarnaprabhaasottama_Nobel.txt",
+ "meta": {
+  "title": "Suvarṇabhāsottamasūtra: Das Goldglanz-Sūtra",
+  "author": "Nobel, Johannes",
+  "year": 1937,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

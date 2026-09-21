@@ -1,0 +1,144 @@
+{
+ "author": "M. A. Stein",
+ "doc_kind": "text_edition",
+ "doc_year": 1900,
+ "people": [
+  {
+   "name": "M. A. Stein"
+  },
+  {
+   "name": "George Bühler",
+   "death_year": 1898
+  },
+  {
+   "name": "Govind Kaul",
+   "death_year": 1899
+  },
+  {
+   "name": "Miss Toulmin-Smith"
+  },
+  {
+   "name": "J. Morison"
+  },
+  {
+   "name": "T. W. Arnold"
+  },
+  {
+   "name": "M. Winternitz"
+  },
+  {
+   "name": "E. Hultzsch"
+  },
+  {
+   "name": "Yogesh Chunder Dutt"
+  },
+  {
+   "name": "O. von Böhtlingk"
+  },
+  {
+   "name": "Kern"
+  },
+  {
+   "name": "Cunningham"
+  },
+  {
+   "name": "J. Jolly"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "George Bühler",
+   "type": "collaborated_with",
+   "object": "M. A. Stein",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1898,
+   "explicit": true,
+   "evidence": "he generously offered his assistance in revising the proofs... and only ceased with Professor Bühler's lamented death, in the spring of 1898.",
+   "quote_ok": true
+  },
+  {
+   "subject": "M. A. Stein",
+   "type": "influenced_by",
+   "object": "George Bühler",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In Kaśmīr it was he who first showed the right way to a critical study of the history of the country, and the very task which I have here endeavoured to solve, had long before been planned by himself.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Govind Kaul",
+   "type": "collaborated_with",
+   "object": "M. A. Stein",
+   "role": "amanuensis and assistant",
+   "place": "S'rīnagar",
+   "year_start": null,
+   "year_end": 1899,
+   "explicit": true,
+   "evidence": "Paṇḍit Govind Kaul, of S'rīnagar... who had already assisted me in collecting some of the critical materials embodied in my edition... continued to act as my amanuensis",
+   "quote_ok": true
+  },
+  {
+   "subject": "Miss Toulmin-Smith",
+   "type": "position_at",
+   "object": "Manchester College, Oxford",
+   "role": "Librarian",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Miss Toulmin-Smith, Librarian of Manchester College, Oxford",
+   "quote_ok": true
+  },
+  {
+   "subject": "T. W. Arnold",
+   "type": "position_at",
+   "object": "Government College, Lahore",
+   "role": "Professor",
+   "place": "Lahore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor T. W. Arnold, of the Government College, Lahore",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kern",
+   "type": "position_at",
+   "object": "Leyden",
+   "role": "Prof.",
+   "place": "Leyden",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. KERN, of Leyden",
+   "quote_ok": true
+  },
+  {
+   "subject": "O. von Böhtlingk",
+   "type": "collaborated_with",
+   "object": "Kern",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The same venerable scholar together with Prof. KERN, of Leyden, has also, in vol. vii. of the Mélanges asiatiques of the St. Petersburg Academy, proposed a considerable number of textual emendations",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Raajataranginii_Stein_vol1",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Raajataranginii_Stein_vol1.txt",
+ "meta": {
+  "title": "Kalhaṇa's Rājatarangiṇī: A Chronicle of the Kings of Kaśmīr",
+  "author": "Stein, M. A.",
+  "year": 1900,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

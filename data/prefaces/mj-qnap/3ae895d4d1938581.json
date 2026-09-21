@@ -1,0 +1,83 @@
+{
+ "author": "Reinhold Grünendahl",
+ "doc_kind": "text_edition",
+ "doc_year": 1983,
+ "people": [
+  {
+   "name": "Reinhold Grünendahl",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "R.C. Hazra",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Wilhelm Rau",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Chandrabhal Tripathi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Reinhold Grünendahl",
+   "type": "position_at",
+   "object": "Freie Universität Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Berlin,\nFreie Universität Reinhold Grünendahl",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Rau",
+   "type": "position_at",
+   "object": "Marburg",
+   "role": "Prof.",
+   "place": "Marburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. Wilhelm Rau of Marburg for his kind mediation",
+   "quote_ok": true
+  },
+  {
+   "subject": "Reinhold Grünendahl",
+   "type": "influenced_by",
+   "object": "Chandrabhal Tripathi",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I want to express my deep-felt gratitude to Prof. Chandrabhal Tripathi for his generous assistance and constant encouragement.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Visnudharmah01(Adhyayas1-43)_Grunendahl_ed_1983",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Visnudharmah01(Adhyayas1-43)_Grunendahl_ed_1983.txt",
+ "meta": {
+  "title": "Viṣṇudharmāḥ: Precepts for the Worship of Viṣṇu, Part 1 Adhyāyas 1–43",
+  "author": "Grünendahl, Reinhold",
+  "year": 1983,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

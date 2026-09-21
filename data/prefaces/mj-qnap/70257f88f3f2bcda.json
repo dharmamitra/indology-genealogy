@@ -1,0 +1,57 @@
+{
+ "author": "Dr. Anukul Chandra Banerjee",
+ "doc_kind": "journal_volume",
+ "doc_year": 1981,
+ "people": [
+  {
+   "name": "Dr. Anukul Chandra Banerjee",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Tibetology"
+  },
+  {
+   "name": "Professor Jahar Sen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "History"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Dr. Anukul Chandra Banerjee",
+   "type": "position_at",
+   "object": "Sikkim Research Institute of Tibetology",
+   "role": "Director",
+   "place": "Gangtok",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Anukul Chandra Banerjee Director, Sikkim Research Institute of Tibetology, Gangtok.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Professor Jahar Sen",
+   "type": "position_at",
+   "object": "University of Calcutta",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Jahar Sen : Department of History, University of Calcutta.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "bot_1981_03_full",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/bot_1981_03_full.txt",
+ "meta": {
+  "title": "Bulletin of Tibetology",
+  "author": "Banerjee, A. C.",
+  "year": 1981,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

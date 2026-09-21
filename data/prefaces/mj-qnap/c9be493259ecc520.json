@@ -1,0 +1,95 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 1904,
+ "people": [
+  {
+   "name": "T. W. Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Thomas Watters",
+   "birth_year": 1840,
+   "death_year": 1901,
+   "nationality": null,
+   "field": "Chinese Buddhism"
+  },
+  {
+   "name": "S. W. Bushell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "E. H. Fraser",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sinology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Thomas Watters",
+   "type": "studied_at",
+   "object": "Queen's College, Belfast",
+   "role": null,
+   "place": "Belfast",
+   "year_start": 1857,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he entered Queen's College, Belfast, in 1857. His college career was most distinguished, and he gained many prizes and scholarships during the three years.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Watters",
+   "type": "studied_at",
+   "object": "Queen's University of Ireland",
+   "role": "B. A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1861,
+   "explicit": true,
+   "evidence": "In 1861 he graduated B. A. in the Queen's University of Ireland, with first-class honours in Logic, English Literature, and Metaphysics",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Watters",
+   "type": "studied_at",
+   "object": "Queen's University of Ireland",
+   "role": "M. A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1862,
+   "explicit": true,
+   "evidence": "and in 1862 took his M. A. degree, with first-class honours, again, in the same subjects and second-class in Classics.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Watters",
+   "type": "other",
+   "object": "E. H. Fraser",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mr. Watters has given his library of Chinese books, I am informed, to his friend Mr. E. H. Fraser, C.M.G., a Sinologue of light and learning",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cu31924071132769",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/cu31924071132769.txt",
+ "meta": {
+  "title": "ASIA",
+  "author": "",
+  "year": 1918,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

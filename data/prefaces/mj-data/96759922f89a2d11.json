@@ -1,0 +1,153 @@
+{
+ "author": "Bart Dessein",
+ "doc_kind": "text_edition",
+ "doc_year": 1999,
+ "people": [
+  {
+   "name": "Bart Dessein",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Alex Wayman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Charles Willemen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sinology"
+  },
+  {
+   "name": "Johannes Bronkhorst",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lambert Schmithausen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Karl Potter",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Collett Cox",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Alex Wayman",
+   "type": "position_at",
+   "object": "Buddhist Tradition series",
+   "role": "editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "BUDDHIST TRADITION SERIES Edited by ALEX WAYMAN",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Bart Dessein",
+   "type": "student_of",
+   "object": "Charles Willemen",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "I am indebted to Prof. dr. Charles Willemen (Ghent National University) to whom I owe everything I know about Buddhism, and almost everything I know about Sinology.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Willemen",
+   "type": "position_at",
+   "object": "Ghent National University",
+   "role": "Prof. dr.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. dr. Charles Willemen (Ghent National University)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Bronkhorst",
+   "type": "position_at",
+   "object": "Université de Lausanne",
+   "role": "Prof. dr.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. dr. Johannes Bronkhorst (Université de Lausanne)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lambert Schmithausen",
+   "type": "position_at",
+   "object": "Universität Hamburg",
+   "role": "Prof. dr.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. dr. Lambert Schmithausen (Universität Hamburg)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Potter",
+   "type": "position_at",
+   "object": "University of Washington",
+   "role": "Prof. dr.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. dr. Karl Potter (University of Washington)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Collett Cox",
+   "type": "position_at",
+   "object": "University of Washington",
+   "role": "Prof. dr.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. dr. Collett Cox (University of Washington)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Samyuktabhidharmahrdaya. Part 1. Translation",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Samyuktabhidharmahrdaya. Part 1. Translation.txt",
+ "meta": {
+  "title": "SAMYUKTĀBHIDHARMAHRDAYA Heart of Scholasticism with Miscellaneous Additions",
+  "author": "Dessein, Bart",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

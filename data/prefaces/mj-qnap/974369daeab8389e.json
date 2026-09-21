@@ -1,0 +1,57 @@
+{
+ "author": "Wilhelm Rau",
+ "doc_kind": "other",
+ "doc_year": 1988,
+ "people": [
+  {
+   "name": "Radhika Herzberger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hans G. Herzberger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Radhika Herzberger",
+   "type": "studied_at",
+   "object": "University of Toronto",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 1982,
+   "explicit": true,
+   "evidence": "HERZBERGER, Radhika: Bhartṛhari and the Buddhists... = Toronto, Univ., Diss., 1982",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hans G. Herzberger",
+   "type": "collaborated_with",
+   "object": "Radhika Herzberger",
+   "role": "co-authors",
+   "place": null,
+   "year_start": 1981,
+   "year_end": 1981,
+   "explicit": true,
+   "evidence": "HERZBERGER, Hans G. and Radhika HERZBERGER 1981* Bhartṛhari's paradox. JIPh 9, 1–7.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Vakyapadiya_Index Rau",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Vakyapadiya_Index Rau.txt",
+ "meta": {
+  "title": "Bhartṛharis Vākyapadīya Vollständiger Wortindex zu den mūlakārikās",
+  "author": "Rau, Wilhelm",
+  "year": 1988,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

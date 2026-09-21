@@ -1,0 +1,66 @@
+{
+ "author": "Michael Hahn",
+ "doc_kind": "text_edition",
+ "doc_year": 1990,
+ "people": [
+  {
+   "name": "Michael Hahn",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Roland Steiner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Gerhard Ehlers",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Johannes Schneider",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Roland Steiner",
+   "type": "student_of",
+   "object": "Michael Hahn",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In erster Linie gilt mein Dank meinem Schüler Roland Steiner, M.A.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Hahn",
+   "type": "position_at",
+   "object": "Universität Bonn",
+   "role": null,
+   "place": "Bonn",
+   "year_start": 1982,
+   "year_end": 1983,
+   "explicit": true,
+   "evidence": "Seminar, mit denen ich eine erste ausgearbeitete Fassung des Textes im Wintersemester 1982/3 an der Universität Bonn las",
+   "quote_ok": false
+  }
+ ],
+ "docid": "cleaned_Hundert Strophen von der Lebensklugheit. Nagarjunas Prajnasataka_Michael Hahn, 1990",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Hundert Strophen von der Lebensklugheit. Nagarjunas Prajnasataka_Michael Hahn, 1990.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

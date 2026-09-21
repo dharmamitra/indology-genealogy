@@ -1,0 +1,126 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 2014,
+ "people": [
+  {
+   "name": "Takakusu Junjirō",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist Studies, Indology"
+  },
+  {
+   "name": "NANJO BUN’YŪ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "Friedrich Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "SYLVAIN LÉVI",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Indology, Buddhist Studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Takakusu Junjirō",
+   "type": "studied_at",
+   "object": "Ryūkoku University",
+   "role": null,
+   "place": null,
+   "year_start": 1885,
+   "year_end": 1889,
+   "explicit": true,
+   "evidence": "After primary school, he studied at the leading Jōdo Shinshū educational institution, today's Ryūkoku University, from 1885 to 1889",
+   "quote_ok": true
+  },
+  {
+   "subject": "Takakusu Junjirō",
+   "type": "student_of",
+   "object": "Friedrich Max Müller",
+   "role": "teacher",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Through the introduction of the Jōdo Shinshū cleric NANJO BUN’YŪ, Takakusu was able to study Indology under FRIEDRICH MAX MÜLLER (1823–1900) at Oxford",
+   "quote_ok": false
+  },
+  {
+   "subject": "Takakusu Junjirō",
+   "type": "collaborated_with",
+   "object": "Friedrich Max Müller",
+   "role": null,
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "While at Oxford, he assisted Müller with the Sacred Books of the East project.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Takakusu Junjirō",
+   "type": "student_of",
+   "object": "SYLVAIN LÉVI",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Takakusu also studied in Paris with SYLVAIN LÉVI",
+   "quote_ok": true
+  },
+  {
+   "subject": "Takakusu Junjirō",
+   "type": "collaborated_with",
+   "object": "SYLVAIN LÉVI",
+   "role": "collaborator on Hōbōgirin",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "SYLVAIN LÉVI, with whom he would later collaborate on the Hōbōgirin Buddhist encyclopedia project.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Takakusu Junjirō",
+   "type": "position_at",
+   "object": "Tokyo Imperial University",
+   "role": "professor",
+   "place": "Tokyo",
+   "year_start": 1897,
+   "year_end": 1927,
+   "explicit": true,
+   "evidence": "He returned to Japan in 1897 to lecture in Indian philosophy at Tokyo Imperial University, where he served as professor from 1899 to 1927, being appointed to the chair of Sanskrit studies in 1901.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Takakusu Junjirō",
+   "type": "founded",
+   "object": "Japanese Esperantists Association",
+   "role": "founding member",
+   "place": null,
+   "year_start": 1906,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1906 was a founding member of the Japanese Esperantists Association.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Princeton Dictionary of Buddhism_Buswell & Lopez 2014_",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Princeton Dictionary of Buddhism_Buswell & Lopez 2014_.txt#1",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

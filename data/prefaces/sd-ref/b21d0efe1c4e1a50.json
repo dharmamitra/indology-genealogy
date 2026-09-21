@@ -1,0 +1,116 @@
+{
+ "author": "Brad Warner",
+ "doc_kind": "monograph",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Brad Warner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gudo Wafu Nishijima",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Mike Cross",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kosen Nishiyama",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "John Stevens",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Yuho Yokoi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Brad Warner",
+   "type": "student_of",
+   "object": "Gudo Wafu Nishijima",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The second complete English translation of Shobogenzo was made by my teacher Gudo Wafu Nishijima",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mike Cross",
+   "type": "student_of",
+   "object": "Gudo Wafu Nishijima",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The second complete English translation of Shobogenzo was made by my teacher Gudo Wafu Nishijima and his student Mike Cross in the 1990s.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gudo Wafu Nishijima",
+   "type": "collaborated_with",
+   "object": "Mike Cross",
+   "role": "co-translators",
+   "place": null,
+   "year_start": 1990,
+   "year_end": 1999,
+   "explicit": true,
+   "evidence": "The second complete English translation of Shobogenzo was made by my teacher Gudo Wafu Nishijima and his student Mike Cross in the 1990s.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kosen Nishiyama",
+   "type": "collaborated_with",
+   "object": "John Stevens",
+   "role": "co-translators",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The first translation of the entire thing was by Kosen Nishiyama and John Stevens.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Yuho Yokoi",
+   "type": "position_at",
+   "object": "Aichigakuin University",
+   "role": null,
+   "place": "Japan",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Yuho Yokoi of Aichigakuin University in Japan apparently also published a complete English translation",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_It Came from Beyond Zen_Brad Warner, 2017",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_It Came from Beyond Zen_Brad Warner, 2017.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

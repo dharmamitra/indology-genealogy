@@ -1,0 +1,71 @@
+{
+ "author": "Carmen Meinert",
+ "doc_kind": "dissertation",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Carmen Meinert",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Wolfgang Kubin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jens-Uwe Hartmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Carmen Meinert",
+   "type": "studied_at",
+   "object": "Rheinische Friedrich-Wilhelms-Universität zu Bonn",
+   "role": "PhD",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Inaugural-Dissertation zur Erlangung der Doktorwürde der Philosophischen Fakultät der Rheinischen Friedrich-Wilhelms-Universität zu Bonn vorleget von Carmen Meinert aus Bad Oeynhausen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carmen Meinert",
+   "type": "student_of",
+   "object": "Wolfgang Kubin",
+   "role": "doctoral supervisor",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1. Berichterstatter: Professor Dr. Wolfgang Kubin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carmen Meinert",
+   "type": "student_of",
+   "object": "Jens-Uwe Hartmann",
+   "role": "doctoral supervisor",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "2. Berichterstatter: Professor Dr. Jens-Uwe Hartmann",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Meinert_dissertation",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Meinert_dissertation.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

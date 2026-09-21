@@ -1,0 +1,91 @@
+{
+ "author": "Maria Heim",
+ "doc_kind": "monograph",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Maria Heim",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jay Garfield",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ben Eggleston",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  },
+  {
+   "name": "Dale E. Miller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Maria Heim",
+   "type": "position_at",
+   "object": "Amherst College",
+   "role": null,
+   "place": "Massachusetts",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Maria Heim Amherst College, Massachusetts",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Maria Heim",
+   "type": "influenced_by",
+   "object": "Jay Garfield",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "This approach to Buddhist ethics by focusing on Buddhaghosa and Śāntideva was inspired by conversations with Jay Garfield",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ben Eggleston",
+   "type": "position_at",
+   "object": "University of Kansas",
+   "role": "professor of philosophy",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ben Eggleston is a professor of philosophy at the University of Kansas.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dale E. Miller",
+   "type": "position_at",
+   "object": "Old Dominion University",
+   "role": "professor of philosophy",
+   "place": "Virginia",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dale E. Miller is a professor of philosophy at Old Dominion University.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Buddhist Ethics_Maria Heim, 2020",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Buddhist Ethics_Maria Heim, 2020.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,124 @@
+{
+ "people": [
+  {
+   "name": "Daniel R. Tuzzeo",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "Jimmy Yu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "Cuevas",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "Hellweg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Daniel R. Tuzzeo",
+   "type": "studied_at",
+   "object": "Florida State University",
+   "role": "thesis",
+   "place": null,
+   "year_start": null,
+   "year_end": 2012,
+   "explicit": true,
+   "evidence": "The Florida State University DigiNole Commons Electronic Theses, Treatises and Dissertations... Tuzzeo, Daniel R., \"Education, Invention Of Orthodoxy, And The Construction Of Modern Buddhism\"",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Daniel R. Tuzzeo",
+   "type": "student_of",
+   "object": "Jimmy Yu",
+   "role": "advisor",
+   "place": "Florida State University",
+   "year_start": null,
+   "year_end": 2012,
+   "explicit": true,
+   "evidence": "I am grateful beyond words to my advisor, Professor Jimmy Yu, without whose guidance, support, and grandmotherly kindness, this thesis and the development over the past three years would not have been possible.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daniel R. Tuzzeo",
+   "type": "student_of",
+   "object": "Cuevas",
+   "role": "advisor",
+   "place": "Florida State University",
+   "year_start": null,
+   "year_end": 2012,
+   "explicit": true,
+   "evidence": "I have been fortunate enough at Florida State to have two more professors whom I consider advisors as well. Thank you, Professor Cuevas, for your tutelage, and for expanding my view and awareness of the field of Buddhist Studies",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daniel R. Tuzzeo",
+   "type": "student_of",
+   "object": "Hellweg",
+   "role": "advisor",
+   "place": "Florida State University",
+   "year_start": null,
+   "year_end": 2012,
+   "explicit": true,
+   "evidence": "I have been fortunate enough at Florida State to have two more professors whom I consider advisors as well... Thank you, Professor Hellweg, for guiding me through my fieldwork from the beginning",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jimmy Yu",
+   "type": "position_at",
+   "object": "Florida State University",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I have been fortunate enough at Florida State to have two more professors whom I consider advisors as well... [referring to advisor Professor Jimmy Yu]",
+   "quote_ok": false
+  },
+  {
+   "subject": "Cuevas",
+   "type": "position_at",
+   "object": "Florida State University",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I have been fortunate enough at Florida State to have two more professors whom I consider advisors as well. Thank you, Professor Cuevas, for your tutelage",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hellweg",
+   "type": "position_at",
+   "object": "Florida State University",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I have been fortunate enough at Florida State to have two more professors whom I consider advisors as well... Thank you, Professor Hellweg",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Education, Invention Of Orthodoxy, and the Construction of Modern Buddhism on Dharma Drum Mountain_Daniel R. Tuzzeo, 2012",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Education, Invention Of Orthodoxy, and the Construction of Modern Buddhism on Dharma Drum Mountain_Daniel R. Tuzzeo, 2012.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

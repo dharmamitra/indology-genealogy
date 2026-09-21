@@ -1,0 +1,64 @@
+{
+ "author": "Richard Thomas",
+ "doc_kind": "festschrift",
+ "doc_year": 2011,
+ "people": [
+  {
+   "name": "Ajahn Brahm",
+   "birth_year": 1951,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Nai Boonman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Thai",
+   "field": "Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ajahn Brahm",
+   "type": "studied_at",
+   "object": "Emmanuel College, Cambridge",
+   "role": null,
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was accepted at Emmanuel College and was additionally granted a full scholarship. He entered Cambridge University and studied theoretical physics for the next three years.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ajahn Brahm",
+   "type": "studied_at",
+   "object": "Cambridge University",
+   "role": null,
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He entered Cambridge University and studied theoretical physics for the next three years.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ajahn Brahm",
+   "type": "student_of",
+   "object": "Nai Boonman",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His next teacher was Nai Boonman, a Thai lay Buddhist who had been one of the founders of the Samatha Society",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Emptiness and Stillness. A tribute to Venerable Ajahn Brahmavamso on the occasion of his 60th birthday(2011)",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Emptiness and Stillness. A tribute to Venerable Ajahn Brahmavamso on the occasion of his 60th birthday(2011).txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

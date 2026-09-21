@@ -1,0 +1,59 @@
+{
+ "author": "Albrecht Frenz",
+ "doc_kind": "article",
+ "doc_year": 1969,
+ "people": [
+  {
+   "name": "Albrecht Frenz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Wilhelm Rau",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Albrecht Frenz",
+   "type": "student_of",
+   "object": "Wilhelm Rau",
+   "role": "teacher",
+   "place": "Marburg",
+   "year_start": 1965,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gegen Ende des Sommersemesters 1965 regte Herr Professor Rau die Teilnehmer seines Oberseminars an... Den größten Dank schulde ich meinem hochverehrten Lehrer Herrn Professor Rau",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Albrecht Frenz",
+   "type": "studied_at",
+   "object": "Philipps-Universität Marburg",
+   "role": null,
+   "place": "Marburg",
+   "year_start": 1965,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "ALBRECHT FRENZ Marburg Gegen Ende des Sommersemesters 1965 regte Herr Professor Rau die Teilnehmer seines Oberseminars an",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "Frenz_1969_Kausitaki_Upanisad_IIJ_11_79-129",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Frenz_1969_Kausitaki_Upanisad_IIJ_11_79-129.txt",
+ "meta": {
+  "title": "KAUŞITAKI UPANIŞAD",
+  "author": "Frenz, Albrecht",
+  "year": 1969,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

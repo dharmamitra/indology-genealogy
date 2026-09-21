@@ -1,0 +1,245 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1864,
+ "people": [
+  {
+   "name": "Lord Ashburton",
+   "birth_year": 1799,
+   "death_year": 1864,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Earl of Ellesmere",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Beriah Botfield",
+   "birth_year": 1807,
+   "death_year": 1863,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "George Edward Russell",
+   "birth_year": 1787,
+   "death_year": 1863,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "James R. Ballantyne",
+   "birth_year": 1813,
+   "death_year": 1864,
+   "nationality": "British",
+   "field": "Indology"
+  },
+  {
+   "name": "Mr. Noble",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Oriental languages"
+  },
+  {
+   "name": "Colonel Michael",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Hindi"
+  },
+  {
+   "name": "Mr. Johnson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Professor Wilson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Daniel John Gogerly",
+   "birth_year": 1792,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Pali studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Lord Ashburton",
+   "type": "position_at",
+   "object": "Royal Asiatic Society",
+   "role": "president",
+   "place": "London",
+   "year_start": 1852,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was elected a member of this Society in the year 1842, and in 1852 succeeded the Earl of Ellesmere as its president.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lord Ashburton",
+   "type": "succeeded",
+   "object": "Earl of Ellesmere",
+   "role": "president",
+   "place": "Royal Asiatic Society",
+   "year_start": 1852,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1852 succeeded the Earl of Ellesmere as its president.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Beriah Botfield",
+   "type": "studied_at",
+   "object": "Christ Church, Oxford",
+   "role": null,
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From Harrow he proceeded to Christ Church, Oxford.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James R. Ballantyne",
+   "type": "studied_at",
+   "object": "Edinburgh College",
+   "role": null,
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "afterwards went to the Edinburgh New Academy and Edinburgh College, where he began the study of oriental languages under Mr. Noble",
+   "quote_ok": true
+  },
+  {
+   "subject": "James R. Ballantyne",
+   "type": "student_of",
+   "object": "Mr. Noble",
+   "role": "teacher",
+   "place": "Edinburgh College",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "where he began the study of oriental languages under Mr. Noble",
+   "quote_ok": true
+  },
+  {
+   "subject": "James R. Ballantyne",
+   "type": "student_of",
+   "object": "Colonel Michael",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "which he further prosecuted under his uncle Colonel Michael, the Professor of Hindi",
+   "quote_ok": true
+  },
+  {
+   "subject": "James R. Ballantyne",
+   "type": "student_of",
+   "object": "Mr. Johnson",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and Mr. Johnson, Sanskrit Professor at Haileybury.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Colonel Michael",
+   "type": "position_at",
+   "object": "Haileybury",
+   "role": "Professor of Hindi",
+   "place": "Haileybury",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Colonel Michael, the Professor of Hindi, and Mr. Johnson, Sanskrit Professor at Haileybury.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mr. Johnson",
+   "type": "position_at",
+   "object": "Haileybury",
+   "role": "Sanskrit Professor",
+   "place": "Haileybury",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mr. Johnson, Sanskrit Professor at Haileybury.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James R. Ballantyne",
+   "type": "position_at",
+   "object": "Naval and Military Academy in Edinburgh",
+   "role": "teacher",
+   "place": "Edinburgh",
+   "year_start": 1839,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he was appointed in 1839 at the Naval and Military Academy in Edinburgh.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James R. Ballantyne",
+   "type": "position_at",
+   "object": "College of Benares",
+   "role": "Principal",
+   "place": "Benares",
+   "year_start": 1845,
+   "year_end": 1861,
+   "explicit": true,
+   "evidence": "In this post Dr. Ballantyne continued till his return to England in 1861",
+   "quote_ok": true
+  },
+  {
+   "subject": "James R. Ballantyne",
+   "type": "position_at",
+   "object": "India Office Library",
+   "role": "librarian",
+   "place": "London",
+   "year_start": 1861,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he was appointed librarian to the India Office Library in Cannon Row.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daniel John Gogerly",
+   "type": "position_at",
+   "object": "Ceylon Branch of the Royal Asiatic Society",
+   "role": "president",
+   "place": "Ceylon",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Journal of the Ceylon Branch of the Royal Asiatic Society, of which he became in succession secretary, vice-president, and president.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "JRASGBINS1",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/JRASGBINS1.txt#0",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

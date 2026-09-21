@@ -1,0 +1,88 @@
+{
+ "author": "S. Krishnaswami Aiyangar",
+ "doc_kind": "text_edition",
+ "doc_year": 1932,
+ "people": [
+  {
+   "name": "S. Krishnaswami Aiyangar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indian History and Archæology"
+  },
+  {
+   "name": "Robert Sewell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "archæology and chronology"
+  },
+  {
+   "name": "C. S. Srinivasachariyar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "S. Krishnaswami Aiyangar",
+   "type": "position_at",
+   "object": "Madras University",
+   "role": "Chair of Indian History and Archæology",
+   "place": "Madras",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "several of my works published during my tenancy of the Chair of Indian History and Archæology at the Madras University",
+   "quote_ok": true
+  },
+  {
+   "subject": "C. S. Srinivasachariyar",
+   "type": "position_at",
+   "object": "Pachaiyappa's College, Madras",
+   "role": "Professor",
+   "place": "Madras",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "my friend, Professor C. S. Srinivasachariyar, till recently of the Pachaiyappa's College, Madras",
+   "quote_ok": true
+  },
+  {
+   "subject": "C. S. Srinivasachariyar",
+   "type": "position_at",
+   "object": "Annamalai University",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "my friend, Professor C. S. Srinivasachariyar, till recently of the Pachaiyappa's College, Madras, and now of the Annamalai University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "S. Krishnaswami Aiyangar",
+   "type": "other",
+   "object": "C. S. Srinivasachariyar",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I acknowledge with pleasure the assistance rendered by my friend, Professor C. S. Srinivasachariyar",
+   "quote_ok": true
+  }
+ ],
+ "docid": "HistInscrSIndia",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/HistInscrSIndia.txt",
+ "meta": {
+  "title": "Historical Inscriptions of Southern India",
+  "author": "Sewell, Robert",
+  "year": 1932,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

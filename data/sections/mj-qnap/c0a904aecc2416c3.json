@@ -1,0 +1,72 @@
+{
+ "author": "藤田宏達",
+ "doc_kind": "monograph",
+ "doc_year": 1970,
+ "people": [
+  {
+   "name": "マックス・ミュラー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "南條文雄",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "マックス・ミュラー",
+   "type": "position_at",
+   "object": "オックスフォード大學",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "一八八三年（明治十六年）に、オックスフォード大學のマックス・ミュラー教授と、當時同教授のもとに留學していたわが南條文雄博士",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "南條文雄",
+   "type": "student_of",
+   "object": "マックス・ミュラー",
+   "role": null,
+   "place": "オックスフォード大學",
+   "year_start": null,
+   "year_end": 1883,
+   "explicit": true,
+   "evidence": "オックスフォード大學のマックス・ミュラー教授と、當時同教授のもとに留學していたわが南條文雄博士",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "マックス・ミュラー",
+   "type": "collaborated_with",
+   "object": "南條文雄",
+   "role": null,
+   "place": null,
+   "year_start": 1883,
+   "year_end": 1883,
+   "explicit": true,
+   "evidence": "一八八三年（明治十六年）に、オックスフォード大學のマックス・ミュラー教授と、當時同教授のもとに留學していたわが南條文雄博士の協力によつて、《無量壽經》と《阿彌陀經》のサンスクリット原典が出版されてから",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "Fujita_藤田宏達_1970",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Fujita_藤田宏達_1970.txt#1",
+ "meta": {
+  "title": "原始浄土思想の研究",
+  "author": "藤田, 宏達",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

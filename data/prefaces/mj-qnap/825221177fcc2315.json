@@ -1,0 +1,104 @@
+{
+ "author": "Jiryo Masuda",
+ "doc_kind": "text_edition",
+ "doc_year": 1930,
+ "people": [
+  {
+   "name": "Jiryo Masuda",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "G. Tucci",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ekai Kawaguchi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "H. Izumi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "K. Watanabe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "R. Kambayashi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Unrai Wogihara",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "H. Izumi",
+   "type": "position_at",
+   "object": "Ōtani Daigaku",
+   "role": "Prof.",
+   "place": "Kyōto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. H. Izumi, of the Ōtani Daigaku at Kyōto.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jiryo Masuda",
+   "type": "collaborated_with",
+   "object": "R. Kambayashi",
+   "role": "colleague",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "It was due to the suggestion of my colleague, Prof. R. Kambayashi, that I began to prepare a new edition",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jiryo Masuda",
+   "type": "student_of",
+   "object": "Unrai Wogihara",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "My thanks are also due to my teacher, Prof. Wogihara, whom I have consulted about some points in the text.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "prajnaparamita_saptasatika_partial_1930",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/prajnaparamita_saptasatika_partial_1930.txt",
+ "meta": {
+  "title": "JOURNAL OF THE TAISHO UNIVERSITY",
+  "author": "",
+  "year": 1930,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

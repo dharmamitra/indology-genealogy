@@ -1,0 +1,123 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "R. Morris",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "E. Hardy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "T.W. Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "J.E. Carpenter",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "V. Trenckner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "R. Chalmers",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "J. Takakusu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "K. Watanabe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "R. Morris",
+   "type": "collaborated_with",
+   "object": "E. Hardy",
+   "role": "co-editors",
+   "place": null,
+   "year_start": 1885,
+   "year_end": 1900,
+   "explicit": true,
+   "evidence": "AN: Aṅguttaranikāya. Edited by R. Morris and E. Hardy. London: Pali Text Society, 1885–1900.",
+   "quote_ok": true
+  },
+  {
+   "subject": "T.W. Rhys Davids",
+   "type": "collaborated_with",
+   "object": "J.E. Carpenter",
+   "role": "co-editors",
+   "place": null,
+   "year_start": 1890,
+   "year_end": 1911,
+   "explicit": true,
+   "evidence": "DN: Dīghanikāya. Edited by T.W. Rhys Davids and J.E. Carpenter. London: Pali Text Society, 1890–1911.",
+   "quote_ok": true
+  },
+  {
+   "subject": "V. Trenckner",
+   "type": "collaborated_with",
+   "object": "R. Chalmers",
+   "role": "co-editors",
+   "place": null,
+   "year_start": 1888,
+   "year_end": 1902,
+   "explicit": true,
+   "evidence": "MN: Majjhimanikāya. Edited by V. Trenckner and R. Chalmers. London: Pali Text Society, 1888–1902.",
+   "quote_ok": true
+  },
+  {
+   "subject": "J. Takakusu",
+   "type": "collaborated_with",
+   "object": "K. Watanabe",
+   "role": "co-editors",
+   "place": null,
+   "year_start": 1924,
+   "year_end": 1934,
+   "explicit": true,
+   "evidence": "T: Taishō Shinshū Daizōkyō. Edited by J. Takakusu and K. Watanabe. Tokyo: Taishō Issaikyō Kankōkai, 1924–1934.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "brhatsamhita",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/brhatsamhita.txt",
+ "meta": {
+  "title": "The Buddhist Doctrine of Momentariness",
+  "author": "Stcherbatsky, Th.",
+  "year": 1930,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

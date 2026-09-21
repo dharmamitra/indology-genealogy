@@ -1,0 +1,55 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "山口益"
+  },
+  {
+   "name": "舟橋一哉"
+  },
+  {
+   "name": "Eugène Burnouf",
+   "nationality": "French",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "南條文雄"
+  },
+  {
+   "name": "宮本正尊"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "山口益",
+   "type": "collaborated_with",
+   "object": "舟橋一哉",
+   "role": "co-authors",
+   "explicit": true,
+   "evidence": "倶舎論の原典解明 世間品 山口益 舟橋一哉 著",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "南條文雄",
+   "type": "studied_at",
+   "object": "イギリス",
+   "role": null,
+   "explicit": true,
+   "evidence": "明治の初期に南條文雄師とともにイギリスに留學した大谷派の學",
+   "quote_ok": false
+  }
+ ],
+ "docid": "AKBh世間品",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/AKBh世間品.txt#0",
+ "meta": {
+  "title": "倶舎論の原典解明 世間品",
+  "author": "山口益, 舟橋一哉",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

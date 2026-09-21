@@ -1,0 +1,200 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1909,
+ "people": [
+  {
+   "name": "James Richard Jewett",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hanns Oertel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "A. V. Williams Jackson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hopkins",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Richard Pischel",
+   "birth_year": null,
+   "death_year": 1908,
+   "nationality": "German",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Eberhard Schrader",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Assyriological research"
+  },
+  {
+   "name": "Daniel Coit Gilman",
+   "birth_year": null,
+   "death_year": 1908,
+   "nationality": "American",
+   "field": null
+  },
+  {
+   "name": "Charles Eliot Norton",
+   "birth_year": null,
+   "death_year": 1908,
+   "nationality": "American",
+   "field": null
+  },
+  {
+   "name": "John Henry Wright",
+   "birth_year": null,
+   "death_year": 1908,
+   "nationality": "American",
+   "field": "Greek"
+  },
+  {
+   "name": "Charles C. Torrey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Richard Jewett",
+   "type": "position_at",
+   "object": "University of Chicago",
+   "role": "Professor",
+   "place": "Chicago, Ill.",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "EDITED BY JAMES RICHARD JEWETT, AND HANNS OERTEL Professor in the University of Chicago, Chicago, Ill.",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Hanns Oertel",
+   "type": "position_at",
+   "object": "Yale University",
+   "role": "Professor",
+   "place": "New Haven, Conn.",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "HANNS OERTEL Professor in the University of Chicago, Chicago, Ill. Professor in Yale University, New Haven, Conn.",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "James Richard Jewett",
+   "type": "collaborated_with",
+   "object": "Hanns Oertel",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "EDITED BY JAMES RICHARD JEWETT, AND HANNS OERTEL",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "A. V. Williams Jackson",
+   "type": "succeeded",
+   "object": "Hopkins",
+   "role": "Corresponding Secretary",
+   "place": "American Oriental Society",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The Corresponding Secretary desires at the outset to express his thanks and appreciation to his predecessor in office, Professor Hopkins, now President of the Society",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eberhard Schrader",
+   "type": "position_at",
+   "object": "University of Berlin",
+   "role": "Professor",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Schrader, of the University of Berlin, was made an honorary member of the Society in 1890",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daniel Coit Gilman",
+   "type": "studied_at",
+   "object": "Yale College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1852,
+   "explicit": true,
+   "evidence": "After his graduation from Yale College in 1852, he continued his studies at Cambridge and at Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daniel Coit Gilman",
+   "type": "position_at",
+   "object": "Johns Hopkins University",
+   "role": "President",
+   "place": null,
+   "year_start": 1875,
+   "year_end": 1901,
+   "explicit": true,
+   "evidence": "He was President of the Johns Hopkins University from 1875 to 1901",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Eliot Norton",
+   "type": "position_at",
+   "object": "Harvard University",
+   "role": "Professor",
+   "place": "Cambridge, Mass.",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Charles Eliot Norton, of Harvard University, art critic and man of letters",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Henry Wright",
+   "type": "position_at",
+   "object": "Harvard University",
+   "role": "Professor",
+   "place": "Cambridge, Mass.",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor John Henry Wright, of Harvard University, a member of the Oriental Society since 1898, died at Cambridge, Mass.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "JAOS_030_1909-10+031_1911=journaloforiental30ameruoft_bw",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/JAOS_030_1909-10+031_1911=journaloforiental30ameruoft_bw.txt#0",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

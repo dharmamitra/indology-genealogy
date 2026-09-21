@@ -1,0 +1,106 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 1899,
+ "people": [
+  {
+   "name": "Konow",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Pischel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lanman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Whitney",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "S. P. Pandit",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Roth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Childers",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Warren",
+   "birth_year": 1854,
+   "death_year": 1899,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Konow",
+   "type": "student_of",
+   "object": "Pischel",
+   "role": "pupil",
+   "place": "Halle",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Konow is a pupil of Professor Pischel of Halle",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pischel",
+   "type": "position_at",
+   "object": "Halle",
+   "role": "Professor",
+   "place": "Halle",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Konow is a pupil of Professor Pischel of Halle",
+   "quote_ok": true
+  },
+  {
+   "subject": "Konow",
+   "type": "collaborated_with",
+   "object": "Lanman",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "critically edited in the original Prakrit, with a glossarial index and an essay on the life and writings of the poet, by [Konow] translated into English with notes by Professor LANMAN.",
+   "quote_ok": false
+  }
+ ],
+ "docid": "cleaned_Buddhism in Translations_Henry Clarke Warren, 1896",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Buddhism in Translations_Henry Clarke Warren, 1896.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

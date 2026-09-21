@@ -1,0 +1,170 @@
+{
+ "author": "M. A. Stein",
+ "doc_kind": "text_edition",
+ "doc_year": 1900,
+ "people": [
+  {
+   "name": "M. A. Stein",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Bühler",
+   "birth_year": null,
+   "death_year": 1898,
+   "nationality": null,
+   "field": "Indologist"
+  },
+  {
+   "name": "Govind Kaul",
+   "birth_year": null,
+   "death_year": 1899,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "TOULMIN-SMITH",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "J. MORISON",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "T. W. ARNOLD",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "M. WINTERNITZ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "E. HULTZSCH",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Yogesh Chunder Dutt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "O. VON BÖHTLINGK",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "KERN",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "CUNNINGHAM",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "J. JOLLY",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "M. A. Stein",
+   "type": "collaborated_with",
+   "object": "Govind Kaul",
+   "role": "amanuensis and assistant",
+   "place": null,
+   "year_start": null,
+   "year_end": 1899,
+   "explicit": true,
+   "evidence": "This accomplished Kaśmīrī scholar, who had already assisted me in collecting some of the critical materials embodied in my edition... continued to render as my amanuensis during the years which I spent",
+   "quote_ok": true
+  },
+  {
+   "subject": "M. A. Stein",
+   "type": "influenced_by",
+   "object": "Bühler",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1898,
+   "explicit": true,
+   "evidence": "Fate has denied me the hoped-for satisfaction of placing the completed work in the hands of the master who would have been its most competent judge... dedicate these volumes to his memory",
+   "quote_ok": true
+  },
+  {
+   "subject": "TOULMIN-SMITH",
+   "type": "position_at",
+   "object": "Manchester College, Oxford",
+   "role": "Librarian",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Miss TOULMIN-SMITH, Librarian of Manchester College, Oxford",
+   "quote_ok": true
+  },
+  {
+   "subject": "T. W. ARNOLD",
+   "type": "position_at",
+   "object": "Government College, Lahore",
+   "role": "Professor",
+   "place": "Lahore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "my friend, Professor T. W. ARNOLD, of the Government College, Lahore",
+   "quote_ok": true
+  },
+  {
+   "subject": "KERN",
+   "type": "position_at",
+   "object": "Leyden",
+   "role": "Prof.",
+   "place": "Leyden",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The same venerable scholar together with Prof. KERN, of Leyden",
+   "quote_ok": true
+  }
+ ],
+ "docid": "rajatarangini3",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/rajatarangini3.txt",
+ "meta": {
+  "title": "Kalhana's Rājataranginī, a chronicle of the kings of Kaśmīr",
+  "author": "Stein, M. A.",
+  "year": 1900,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

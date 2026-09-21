@@ -1,0 +1,147 @@
+{
+ "author": "袴谷憲昭",
+ "doc_kind": "monograph",
+ "doc_year": 2008,
+ "people": [
+  {
+   "name": "袴谷憲昭",
+   "birth_year": 1943,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "平井俊榮",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "山口瑞鳳",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Tibetology"
+  },
+  {
+   "name": "Erich Frauwallner",
+   "birth_year": 1898,
+   "death_year": 1974,
+   "nationality": "Austria",
+   "field": "Indology"
+  },
+  {
+   "name": "Gerhard Oberhammer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Austria",
+   "field": "Indology"
+  },
+  {
+   "name": "Ernst Steinkellner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Austria",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "袴谷憲昭",
+   "type": "student_of",
+   "object": "平井俊榮",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "恩師 平 本書は、拙く恥しきものながら、 平井俊榮先生 山口瑞鳳先生 へ前書に続いて捧げられる",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "袴谷憲昭",
+   "type": "student_of",
+   "object": "山口瑞鳳",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "恩師 平 本書は、拙く恥しきものながら、 平井俊榮先生 山口瑞鳳先生 へ前書に続いて捧げられる",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "袴谷憲昭",
+   "type": "studied_at",
+   "object": "駒沢大学仏教学部仏教学科",
+   "role": "BA",
+   "place": null,
+   "year_start": null,
+   "year_end": 1966,
+   "explicit": true,
+   "evidence": "1966年 駒沢大学仏教学部仏教学科卒業。",
+   "quote_ok": true
+  },
+  {
+   "subject": "袴谷憲昭",
+   "type": "studied_at",
+   "object": "東京大学大学院",
+   "role": "MA",
+   "place": null,
+   "year_start": null,
+   "year_end": 1969,
+   "explicit": true,
+   "evidence": "1969年 東京大学大学院修士課程(印度哲学)修了。",
+   "quote_ok": true
+  },
+  {
+   "subject": "袴谷憲昭",
+   "type": "position_at",
+   "object": "駒沢大学仏教学部",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "現在 駒沢大学仏教学部教授。",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gerhard Oberhammer",
+   "type": "student_of",
+   "object": "Erich Frauwallner",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "フラウワルナー教授の門下を代表するオバーハムマー教授とシュタインケルナー教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Steinkellner",
+   "type": "student_of",
+   "object": "Erich Frauwallner",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "フラウワルナー教授の門下を代表するオバーハムマー教授とシュタインケルナー教授",
+   "quote_ok": true
+  }
+ ],
+ "docid": "唯識文献研究",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/唯識文献研究.txt",
+ "meta": {
+  "title": "唯識文献研究",
+  "author": "袴谷 憲昭",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

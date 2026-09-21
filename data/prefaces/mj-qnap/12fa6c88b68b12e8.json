@@ -1,0 +1,92 @@
+{
+ "author": "谷貞志",
+ "doc_kind": "article",
+ "doc_year": 2000,
+ "people": [
+  {
+   "name": "谷貞志",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "戸崎宏正",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "桂紹隆",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "沖和史",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "小川英世",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "稲見正浩",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "林慶仁",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist Studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "桂紹隆",
+   "type": "position_at",
+   "object": "広島大学",
+   "role": "教授",
+   "place": "広島",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "桂教授, 沖教授をはじめ小川教授, 稲見教授, 林研究員, 広島大学のスタッフによって検討していただき",
+   "quote_ok": true
+  },
+  {
+   "subject": "谷貞志",
+   "type": "collaborated_with",
+   "object": "桂紹隆",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "この訳に関して桂教授, 沖教授をはじめ小川教授, 稲見教授, 林研究員, 広島大学のスタッフによって検討していただき, 試訳の誤りを訂正することができた。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Tani_谷貞志_2000",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Tani_谷貞志_2000.txt",
+ "meta": {
+  "title": "インドの文化と論理",
+  "author": "",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

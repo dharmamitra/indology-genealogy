@@ -1,0 +1,164 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 1978,
+ "people": [
+  {
+   "name": "Lambert Schmithausen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Paul Hacker",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Klaus Rüping",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Horst Brinkhaus",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "S. A. Srinivasan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Albrecht Wezler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Inge Wezler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Lambert Schmithausen",
+   "type": "student_of",
+   "object": "Paul Hacker",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Es ist mir eine große Freude, meinem verehrten Lehrer zu seinem 65. Geburtstag mit dieser Sammlung seiner Kleinen Schriften die Wertschätzung von Schülern und Kollegen zu dokumentieren.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lambert Schmithausen",
+   "type": "position_at",
+   "object": "Universität Hamburg",
+   "role": null,
+   "place": "Hamburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Bei der organisatorischen Vorbereitung des Bandes haben mir meine hiesigen Kollegen Prof. Dr. S. A. Srinivasan und Prof. Dr. Albrecht Wezler... Hamburg, im Mai 1977 Lambert Schmithausen",
+   "quote_ok": true
+  },
+  {
+   "subject": "S. A. Srinivasan",
+   "type": "position_at",
+   "object": "Universität Hamburg",
+   "role": "Prof. Dr.",
+   "place": "Hamburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "meine hiesigen Kollegen Prof. Dr. S. A. Srinivasan und Prof. Dr. Albrecht Wezler... Hamburg, im Mai 1977 Lambert Schmithausen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albrecht Wezler",
+   "type": "position_at",
+   "object": "Universität Hamburg",
+   "role": "Prof. Dr.",
+   "place": "Hamburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "meine hiesigen Kollegen Prof. Dr. S. A. Srinivasan und Prof. Dr. Albrecht Wezler... Hamburg, im Mai 1977 Lambert Schmithausen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Klaus Rüping",
+   "type": "position_at",
+   "object": "Universität Münster",
+   "role": "Doz. Dr.",
+   "place": "Münster",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "meinen Münsteraner Kollegen Doz. Dr. Klaus Rüping und Dr. Horst Brinkhaus",
+   "quote_ok": true
+  },
+  {
+   "subject": "Horst Brinkhaus",
+   "type": "position_at",
+   "object": "Universität Münster",
+   "role": "Dr.",
+   "place": "Münster",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "meinen Münsteraner Kollegen Doz. Dr. Klaus Rüping und Dr. Horst Brinkhaus",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albrecht Wezler",
+   "type": "other",
+   "object": "Inge Wezler",
+   "role": "spouse",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. Dr. Albrecht Wezler sowie dessen Ehefrau, Dr. Inge Wezler",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Hacker",
+   "type": "position_at",
+   "object": "Universität Münster",
+   "role": null,
+   "place": "Münster",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Münster, im Mai 1977 Paul Hacker",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Hacker_Kleine_Schriften_1978",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Hacker_Kleine_Schriften_1978.txt",
+ "meta": {
+  "title": "Kleine Schriften",
+  "author": "Hacker, Paul",
+  "year": 1978,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

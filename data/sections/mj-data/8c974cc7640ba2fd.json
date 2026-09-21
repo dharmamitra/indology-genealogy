@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "obituary",
+ "doc_year": 1991,
+ "people": [
+  {
+   "name": "Jan Gonda",
+   "birth_year": 1905,
+   "death_year": 1991,
+   "nationality": "Dutch",
+   "field": "Indologist"
+  },
+  {
+   "name": "W. Caland",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Johannes Rahder",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Japanologist"
+  },
+  {
+   "name": "Carl Wilhelm Vollgraff",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Grecian"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jan Gonda",
+   "type": "position_at",
+   "object": "Utrecht University",
+   "role": "chair of Sanskrit",
+   "place": "Utrecht",
+   "year_start": 1932,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Born in 1905, he obtained the chair of Sanskrit at Utrecht University in 1932 as the indirect successor of Caland",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Gonda",
+   "type": "succeeded",
+   "object": "Johannes Rahder",
+   "role": "chair of Sanskrit",
+   "place": "Utrecht University",
+   "year_start": 1932,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he obtained the chair of Sanskrit at Utrecht University in 1932 as the indirect successor of Caland (after a short interregnum of Rahder who became a Japanologist).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Gonda",
+   "type": "student_of",
+   "object": "W. Caland",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "during which he attended Caland's classes on Sanskrit and related subjects",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Gonda",
+   "type": "student_of",
+   "object": "Carl Wilhelm Vollgraff",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1929,
+   "explicit": true,
+   "evidence": "he wrote a thesis on the Indo-European root deik-, guided by the Grecian Vollgraff, and obtained his doctorate at the beginning of 1929.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Gonda",
+   "type": "studied_at",
+   "object": "Leiden University",
+   "role": null,
+   "place": "Leiden",
+   "year_start": 1929,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Then he studied Indonesian linguistics and Old Javanese at Leiden University over a number of years.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Gonda",
+   "type": "position_at",
+   "object": "Utrecht University",
+   "role": "chair of Malay and Javanese Linguistics and Literature",
+   "place": "Utrecht",
+   "year_start": 1932,
+   "year_end": 1950,
+   "explicit": true,
+   "evidence": "and he also held the chair of Malay and Javanese Linguistics and Literature from 1932 to 1950.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Gonda",
+   "type": "founded",
+   "object": "Institute of Oriental Languages",
+   "role": null,
+   "place": null,
+   "year_start": 1950,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gonda, now concentrating more on India, established the Institute of Oriental Languages which became famous for its Department of Indology.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Bodewitz (1991) Jan Gonda (14 Appril 1905--28 July 1991)",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Bodewitz (1991) Jan Gonda (14 Appril 1905--28 July 1991).txt#0",
+ "meta": {
+  "title": "Jan Gonda (14 Appril 1905--28 July 1991)",
+  "author": "Bodewitz",
+  "year": 1991,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

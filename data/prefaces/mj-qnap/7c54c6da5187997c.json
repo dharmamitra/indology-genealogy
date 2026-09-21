@@ -1,0 +1,107 @@
+{
+ "author": "John Myrdhin Reynolds",
+ "doc_kind": "monograph",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John Myrdhin Reynolds",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lopon Tenzin Namdak",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Bon"
+  },
+  {
+   "name": "Jongdong Sangye Tenzin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Bon"
+  },
+  {
+   "name": "Tenzin Wangyal Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Bon"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Myrdhin Reynolds",
+   "type": "student_of",
+   "object": "Lopon Tenzin Namdak",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in my exposition I have mainly relied on the oral explanations (khrid) of an accomplished master of this Bonpo tradition, Lopon Tenzin Namdak.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lopon Tenzin Namdak",
+   "type": "student_of",
+   "object": "Jongdong Sangye Tenzin",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "because of the vision that had come to his own teacher, Jongdong Sangye Tenzin, the former Abbot at Dolanji.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tenzin Wangyal Rinpoche",
+   "type": "student_of",
+   "object": "Lopon Tenzin Namdak",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Since that time, a Tibetan student of the Lopon, Tenzin Wangyal Rinpoche, and his Ligmincha Institute of Charlottesville, Virginia",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tenzin Wangyal Rinpoche",
+   "type": "position_at",
+   "object": "Ligmincha Institute",
+   "role": null,
+   "place": "Charlottesville, Virginia",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "a Tibetan student of the Lopon, Tenzin Wangyal Rinpoche, and his Ligmincha Institute of Charlottesville, Virginia",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jongdong Sangye Tenzin",
+   "type": "position_at",
+   "object": "Dolanji",
+   "role": "Abbot",
+   "place": "Dolanji",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Jongdong Sangye Tenzin, the former Abbot at Dolanji.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "The Oral Tradition from Zhang-Zhung",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/The Oral Tradition from Zhang-Zhung.txt",
+ "meta": {
+  "title": "The Oral Tradition from Zhang-Zhung: An Introduction to the Bonpo Dzogchen Teachings of the Oral Tradition from Zhang-zhung known as the Zhang-zhung snyan-rgyud",
+  "author": "Reynolds, John Myrdhin",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

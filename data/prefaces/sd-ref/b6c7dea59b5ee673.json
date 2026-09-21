@@ -1,0 +1,52 @@
+{
+ "author": "Naomi Appleton",
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Alice Collett",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Justin Fifield",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Alice Collett",
+   "type": "studied_at",
+   "object": "Cardiff University",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 2004,
+   "explicit": true,
+   "evidence": "Collett, Alice. 2004. Buddhist N arrative Literature in Context: A study of stories from the Avadānaśataka and Vicitrakarņikāvadāna including editions and translations. PhD thesis, Cardiff University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Justin Fifield",
+   "type": "studied_at",
+   "object": "University of Texas at Austin",
+   "role": "MA",
+   "place": null,
+   "year_start": null,
+   "year_end": 2008,
+   "explicit": true,
+   "evidence": "Fifield, Justin. 2008. Faith, Miracles and Conversion in the Avadānaśataka: A Translation and Analysis of the First Decade of Stories. M.A. Thesis, University of Texas at Austin.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Appleton_The Fourth Decade of the Avadānaśataka",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Appleton_The Fourth Decade of the Avadānaśataka.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

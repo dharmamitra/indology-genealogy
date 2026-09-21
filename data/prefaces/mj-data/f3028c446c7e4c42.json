@@ -1,0 +1,78 @@
+{
+ "author": "長尾史郎",
+ "doc_kind": "text_edition",
+ "doc_year": 2009,
+ "people": [
+  {
+   "name": "長尾史郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "長尾雅人",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "早島理",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "山口益",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "野澤靜證",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "長尾史郎",
+   "type": "other",
+   "object": "長尾雅人",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "仏教ということ、(お経の) 翻訳ということ、それを仕事とした父にあらためて出会っていることに気付いた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "山口益",
+   "type": "collaborated_with",
+   "object": "野澤靜證",
+   "role": "reading group",
+   "place": null,
+   "year_start": 1934,
+   "year_end": 1934,
+   "explicit": true,
+   "evidence": "早島理氏による「山口益先生を中心に野澤靜證先生などと蔵訳安慧釈をガリ版で印刷しながら『大乗荘厳経論』を読み続けたこと(中略)ガリ版印刷ノートの末には「昭和9年11月15日」の日付が記入されている",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Nagao_長尾雅人_2009",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Nagao_長尾雅人_2009.txt",
+ "meta": {
+  "title": "『大乗荘厳経論』和訳と註解 一長尾雅人研究ノートー (3)",
+  "author": "長尾雅人",
+  "year": 2000,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

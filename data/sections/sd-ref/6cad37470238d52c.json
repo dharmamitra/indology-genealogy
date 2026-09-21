@@ -1,0 +1,78 @@
+{
+ "author": "David Paul Jackson",
+ "doc_kind": "monograph",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Gangs dkar Sprul sku",
+   "birth_year": 1891,
+   "death_year": 1957,
+   "nationality": null,
+   "field": "Tibetan Studies"
+  },
+  {
+   "name": "Gzhan dga'",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetan Studies"
+  },
+  {
+   "name": "Brag g.yab Thub bstan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetan Studies"
+  },
+  {
+   "name": "Rin chen bzang po",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetan Studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Gangs dkar Sprul sku",
+   "type": "student_of",
+   "object": "Gzhan dga'",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "According to Dezhung Rinpoche, Gangs dkar Sprul sku was one of the most widely learned students of Gzhan dga'",
+   "quote_ok": true
+  },
+  {
+   "subject": "Brag g.yab Thub bstan",
+   "type": "student_of",
+   "object": "Gzhan dga'",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gzhan dga's student Brag g.yab Thub bstan.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rin chen bzang po",
+   "type": "student_of",
+   "object": "Brag g.yab Thub bstan",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "If this abbot was Rin chen bzang po, he was also a student of Gzhan dga's student Brag g.yab Thub bstan.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Jackson_A_Saint_in_Seattle_The_Life_of_the_Tibetan mystic Dezhung Rinpoche",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Jackson_A_Saint_in_Seattle_The_Life_of_the_Tibetan mystic Dezhung Rinpoche.txt#0",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

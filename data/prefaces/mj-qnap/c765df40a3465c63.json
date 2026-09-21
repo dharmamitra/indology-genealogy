@@ -1,0 +1,103 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 2006,
+ "people": [
+  {
+   "name": "小林道夫",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Western philosophy"
+  },
+  {
+   "name": "氣多雅子",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "philosophy of religion"
+  },
+  {
+   "name": "西谷啓治",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "philosophy"
+  },
+  {
+   "name": "西田幾多郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "philosophy"
+  },
+  {
+   "name": "藤田正勝",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "小林道夫",
+   "type": "position_at",
+   "object": "京都大学大学院文学研究科",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "筆者 こばやし・みちお 京都大学大学院文学研究科教授/西洋近世哲学史",
+   "quote_ok": true
+  },
+  {
+   "subject": "氣多雅子",
+   "type": "position_at",
+   "object": "Universität Kyoto",
+   "role": "Professor für Religionsphilosophie",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Masako KETA Professor für Religionsphilosophie an Graduierten Schule der philosophischen Fakultät, Universität Kyoto",
+   "quote_ok": true
+  },
+  {
+   "subject": "西谷啓治",
+   "type": "influenced_by",
+   "object": "西田幾多郎",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "その西谷の宗教哲学は西田幾多郎の決定的な影響下に形成されたものであった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "藤田正勝",
+   "type": "position_at",
+   "object": "京都哲学会",
+   "role": "代表",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "藤田正勝 (*京都哲学会代表)",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "Kobayashi_小林道夫_2006a_哲学研究",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Kobayashi_小林道夫_2006a_哲学研究.txt",
+ "meta": {
+  "title": "ライプニッツにおける数理と自然の概念と形而上学",
+  "author": "小林, 道夫",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

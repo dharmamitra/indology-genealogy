@@ -1,0 +1,72 @@
+{
+ "author": "梶山雄一",
+ "doc_kind": "article",
+ "doc_year": 1980,
+ "people": [
+  {
+   "name": "梶山雄一",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "石上善應",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "塚本啓祥",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "V. V. Gokhale",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "India",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "石上善應",
+   "type": "collaborated_with",
+   "object": "塚本啓祥",
+   "role": "co-editors",
+   "place": null,
+   "year_start": 1980,
+   "year_end": 1980,
+   "explicit": true,
+   "evidence": "仏教思想史 3 ＜仏教内部における対論＞ インド 編集 石上善應・塚本啓祥",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "V. V. Gokhale",
+   "type": "studied_at",
+   "object": "ボン大学",
+   "role": "doctoral student",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": 1930,
+   "explicit": true,
+   "evidence": "ゴーカレ教授は一九三〇年に『因縁心論』の増広本の一つである、諍拐辺の作、達磨笈多の訳『縁生論』...を独訳し、批判的考察を加えて、学位論文としてボン大学に提出した",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Kajiyama_梶山雄一_1980",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Kajiyama_梶山雄一_1980.txt",
+ "meta": {
+  "title": "仏教思想史 3 ＜仏教内部における対論＞ インド",
+  "author": "石上善應, 塚本啓祥",
+  "year": 1980,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,157 @@
+{
+ "author": "Andreas Doctor",
+ "doc_kind": "dissertation",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Andreas Doctor",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Leslie Kawamura",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Religious Studies"
+  },
+  {
+   "name": "Eva Neumaier",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Religious Studies"
+  },
+  {
+   "name": "John Makransky",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Wayne McCready",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Chökyi Nyima Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Chokling Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Phagchok Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Andreas Doctor",
+   "type": "studied_at",
+   "object": "University of Calgary",
+   "role": "Doctor of Philosophy",
+   "place": "Calgary",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "submitted by Andreas Doctor in partial fulfillment of the requirements for the degree of Doctor of Philosophy. Supervisor, Dr. Leslie Kawamura, Department of Religious Studies",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Andreas Doctor",
+   "type": "student_of",
+   "object": "Leslie Kawamura",
+   "role": "doctoral supervisor",
+   "place": "Calgary",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Supervisor, Dr. Leslie Kawamura, Department of Religious Studies",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Leslie Kawamura",
+   "type": "position_at",
+   "object": "University of Calgary",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Leslie Kawamura, Department of Religious Studies, University of Calgary",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Makransky",
+   "type": "position_at",
+   "object": "Boston College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "External Examiner, Dr. John Makransky, Boston College",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Andreas Doctor",
+   "type": "student_of",
+   "object": "Chökyi Nyima Rinpoche",
+   "role": "traditional teacher",
+   "place": "Nepal",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In Nepal, I am indebted to many lamas and monks at Ka-Nying Shedrub Ling Monastery, in particular the tulkus Chökyi Nyima Rinpoche, Chokling Rinpoche, and Phagchok Rinpoche, who so kindly supported my research by granting transmission and explanation",
+   "quote_ok": true
+  },
+  {
+   "subject": "Andreas Doctor",
+   "type": "student_of",
+   "object": "Chokling Rinpoche",
+   "role": "traditional teacher",
+   "place": "Nepal",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In Nepal, I am indebted to many lamas and monks at Ka-Nying Shedrub Ling Monastery, in particular the tulkus Chökyi Nyima Rinpoche, Chokling Rinpoche, and Phagchok Rinpoche, who so kindly supported my research by granting transmission and explanation",
+   "quote_ok": true
+  },
+  {
+   "subject": "Andreas Doctor",
+   "type": "student_of",
+   "object": "Phagchok Rinpoche",
+   "role": "traditional teacher",
+   "place": "Nepal",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In Nepal, I am indebted to many lamas and monks at Ka-Nying Shedrub Ling Monastery, in particular the tulkus Chökyi Nyima Rinpoche, Chokling Rinpoche, and Phagchok Rinpoche, who so kindly supported my research by granting transmission and explanation",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Doctor_Treasure literature_diss",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Doctor_Treasure literature_diss.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

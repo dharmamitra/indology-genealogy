@@ -1,0 +1,85 @@
+{
+ "author": "湯山明",
+ "doc_kind": "article",
+ "doc_year": 1976,
+ "people": [
+  {
+   "name": "湯山明",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Alexander Csoma",
+   "birth_year": 1784,
+   "death_year": 1842,
+   "nationality": "Hungary",
+   "field": "チベット学"
+  },
+  {
+   "name": "Johann Gottfried Eichhorn",
+   "birth_year": 1752,
+   "death_year": 1828,
+   "nationality": null,
+   "field": "東洋学"
+  },
+  {
+   "name": "A. H. Francke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Aniruddha Jha",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Brian Houghton Hodgson",
+   "birth_year": 1800,
+   "death_year": 1894,
+   "nationality": "United Kingdom",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Alexander Csoma",
+   "type": "studied_at",
+   "object": "ゲッティンゲン大学",
+   "role": null,
+   "place": "ゲッティンゲン",
+   "year_start": 1816,
+   "year_end": 1818,
+   "explicit": true,
+   "evidence": "チョーマ自身の手で記録された、彼のゲッティンゲン大学留学の正確な日付を見つけることができた [...] 一八一六年四月一日から一八一八年七月末までの滞留中",
+   "quote_ok": false
+  },
+  {
+   "subject": "Alexander Csoma",
+   "type": "influenced_by",
+   "object": "Johann Gottfried Eichhorn",
+   "role": null,
+   "place": "ゲッティンゲン",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "有名な東洋学者アイヒホルン (Johann Gottfried Eichhorn 1752-1828) 教授から、とくに強い影響を受けたといわれている。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Yuyama_1976",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Yuyama_1976.txt#0",
+ "meta": {
+  "title": "チベット学者チョーマのゲッティンゲン留学",
+  "author": "湯山, 明",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

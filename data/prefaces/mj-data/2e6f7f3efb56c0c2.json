@@ -1,0 +1,64 @@
+{
+ "author": "中村元",
+ "doc_kind": "article",
+ "doc_year": 1968,
+ "people": [
+  {
+   "name": "中村元",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indology"
+  },
+  {
+   "name": "立花秀孝",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "孝全",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "孝全",
+   "type": "other",
+   "object": "立花秀孝",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "孝全(立花師の令息)",
+   "quote_ok": true
+  },
+  {
+   "subject": "立花秀孝",
+   "type": "collaborated_with",
+   "object": "孝全",
+   "role": "co-translator",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "修習次第はこの夏孝全(立花師の令息)と共に譯して孝全の手元にある筈と存じます。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Nakamura_中村元_1968@初期ヴェーダーンタ哲学研究の発展",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Nakamura_中村元_1968@初期ヴェーダーンタ哲学研究の発展.txt",
+ "meta": {
+  "title": "初期ヴェーダーンタ哲學研究の発展",
+  "author": "中村, 元",
+  "year": 1968,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

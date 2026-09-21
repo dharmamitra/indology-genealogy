@@ -1,0 +1,102 @@
+{
+ "author": "Hermann Beythan",
+ "doc_kind": "monograph",
+ "doc_year": 1943,
+ "people": [
+  {
+   "name": "Hermann Beythan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "Otto Schrader",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Feyer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "phonetics"
+  },
+  {
+   "name": "Ramasami Aiyar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Radscha Pillai",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Otto Schrader",
+   "type": "position_at",
+   "object": "Kiel",
+   "role": "Professor Dr.",
+   "place": "Kiel",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "die Herren Professor Dr. Otto Schrader in Kiel",
+   "quote_ok": true
+  },
+  {
+   "subject": "Feyer",
+   "type": "position_at",
+   "object": "Institut für Lautforschung in Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Fräulein Dr. Feyer vom Institut für Lautforschung in Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Beythan",
+   "type": "student_of",
+   "object": "Ramasami Aiyar",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ich gedenke aber dankbar meiner Munschis Ramasami Aiyar und Radscha Pillai.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Beythan",
+   "type": "student_of",
+   "object": "Radscha Pillai",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ich gedenke aber dankbar meiner Munschis Ramasami Aiyar und Radscha Pillai.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Beythan, Praktische Grammatik der Tamilsprache ",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Beythan, Praktische Grammatik der Tamilsprache .txt",
+ "meta": {
+  "title": "Praktische Grammatik der Tamilsprache",
+  "author": "Beythan, Hermann",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

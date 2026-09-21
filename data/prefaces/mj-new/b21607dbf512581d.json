@@ -1,0 +1,114 @@
+{
+ "author": "金子良太",
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "B. Bendall",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "河口慧海",
+   "birth_year": 1866,
+   "death_year": 1945,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "高楠",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "長谷部",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "池田澄達",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "B. Bendall",
+   "type": "position_at",
+   "object": "ケンブリッジ大学キーズ学寮",
+   "role": "所属フェロー",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "B. Bendall 教授 (ケンブリッジ大学キーズ学寮所属フェロー・ロンドン大学サンスクリット語教授)",
+   "quote_ok": true
+  },
+  {
+   "subject": "B. Bendall",
+   "type": "position_at",
+   "object": "ロンドン大学",
+   "role": "サンスクリット語教授",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "B. Bendall 教授 (ケンブリッジ大学キーズ学寮所属フェロー・ロンドン大学サンスクリット語教授)",
+   "quote_ok": true
+  },
+  {
+   "subject": "河口慧海",
+   "type": "collaborated_with",
+   "object": "高楠",
+   "role": null,
+   "place": "インド",
+   "year_start": 1912,
+   "year_end": 1913,
+   "explicit": true,
+   "evidence": "河口慧海師は一九一二年〜一九一三年にインドで高楠博士及び長谷部師と合流され再度ネパール盆地で四四点の原典蒐集を行い",
+   "quote_ok": true
+  },
+  {
+   "subject": "河口慧海",
+   "type": "collaborated_with",
+   "object": "長谷部",
+   "role": null,
+   "place": "インド",
+   "year_start": 1912,
+   "year_end": 1913,
+   "explicit": true,
+   "evidence": "河口慧海師は一九一二年〜一九一三年にインドで高楠博士及び長谷部師と合流され再度ネパール盆地で四四点の原典蒐集を行い",
+   "quote_ok": true
+  },
+  {
+   "subject": "河口慧海",
+   "type": "collaborated_with",
+   "object": "池田澄達",
+   "role": null,
+   "place": null,
+   "year_start": 1926,
+   "year_end": 1926,
+   "explicit": true,
+   "evidence": "河口慧海師は帰朝後の一九二六年一二月二五日 (元号昭和施行日) に此の貝葉本「法華経」を自筆によりデーヴァ・ナーガリー文字を以って [Saddharmapuṇḍarīkanāma(ma)hāyānasūtram] と題書し池田澄達教授の英文序文を付し写真出版を刊行した。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Kaneko_1976",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Kaneko_1976.txt",
+ "meta": {
+  "title": "Kダッシュ梵文「法華経」余話",
+  "author": "金子, 良太",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

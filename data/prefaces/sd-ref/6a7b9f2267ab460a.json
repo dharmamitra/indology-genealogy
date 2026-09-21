@@ -1,0 +1,66 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Nishida Kitarō",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Philosophy"
+  },
+  {
+   "name": "Nishitani Keiji",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Philosophy"
+  },
+  {
+   "name": "Shūzō Kuki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Philosophy"
+  },
+  {
+   "name": "Jean-Paul Sartre",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Nishitani Keiji",
+   "type": "student_of",
+   "object": "Nishida Kitarō",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "‘Waga shi Nishida Kitarō sensei wo kataru' (‘Speaking of Nishida, my teacher'), in Nishitani",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shūzō Kuki",
+   "type": "student_of",
+   "object": "Jean-Paul Sartre",
+   "role": "tutor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Kuki is credited with introducing the thought of Heidegger to his French tutor, Sartre.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Japanese Philosophy_Companion encyclopedia of asian philosophy",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Japanese Philosophy_Companion encyclopedia of asian philosophy.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

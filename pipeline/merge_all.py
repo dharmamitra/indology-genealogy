@@ -1,0 +1,380 @@
+#!/usr/bin/env python3
+"""data/graph_extracted.json + data/wikidata.json -> docs/data/graph.json (+ docs/data/evidence.json)
+
+ 1. Wikidata attributes (ids, life dates, places, portraits, coordinates)
+ 2. merge nodes that share a Wikidata id
+ 3. add Wikidata's employer / educated-at / student-of statements (fill years, add missing links)
+ 4. HARMONISE: find likely duplicates (spelling variants, initials, long vowels, 大学 vs University ...) by blocking,
+    let Gemini decide which are the same, merge; every merge is logged in data/harmonize_merges.json
+ 5. date fill from the model for relations that still lack a start year (ys_src/ye_src = "model", "c." in the UI)
+ 6. career summaries written by Gemini from the collected facts only
+Every year keeps its provenance: ys_src / ye_src in {"text", "wikidata", "model"}.
+"""
+import argparse, difflib, json, os, re
+from collections import defaultdict, Counter
+from concurrent.futures import ThreadPoolExecutor
+
+from google import genai
+
+from extract_relations import load_key, DATA, ROOT
+from resolve_entities import llm_json, strip_acc, PERSON_OBJ
+from merge_sources import MODEL_PROMPT, MODEL_SCHEMA, QID_ALIAS, DATED_TYPES
+
+SITE_DATA = os.path.join(ROOT, "docs", "data")
+SRC_RANK = {"text": 3, "wikidata": 2, "model": 1, None: 0}
+# hand corrections of canonical names the model got wrong (initials expanded into something else)
+LABEL_FIX = {"Kuala Lumpur Dhammajoti": "K. L. Dhammajoti"}
+
+DUP_PROMPT = """Each group below lists records of {what} from a database built automatically from many publications. \
+Records in a group have similar names and MAY be duplicates (spelling variants, initials vs full names, with/without \
+diacritics, romanisation variants such as Yuichi/Yūichi/Yuuichi, married names, "University of X" vs "X University"). \
+For each group decide which records are the same {what}. Be careful: fathers/sons, siblings and unrelated namesakes \
+with different dates, fields or countries are NOT the same. Use your knowledge of the scholars where you have it.
+Return, for each group that contains duplicates, one entry per set of identical records: \
+{{"ids": [all ids of the same {what}], "canonical": best full name for the merged record}}. \
+Omit records that have no duplicate. Return [] if there are none.
+
+{items}"""
+DUP_SCHEMA = {"type": "ARRAY", "items": {"type": "OBJECT", "properties": {
+    "ids": {"type": "ARRAY", "items": {"type": "STRING"}}, "canonical": {"type": "STRING"}}, "required": ["ids", "canonical"]}}
+
+SUM_PROMPT = """Write a short career summary for each scholar using ONLY the facts listed (they come from a database; \
+years marked ~ are approximate). One or two sentences, at most 45 words, plain English, no praise: field, where and \
+with whom they studied, main posts with years where given. Do not add facts. Echo "id" unchanged.
+
+{items}"""
+SUM_SCHEMA = {"type": "ARRAY", "items": {"type": "OBJECT", "properties": {"id": {"type": "STRING"}, "summary": {"type": "STRING"}},
+                                          "required": ["id", "summary"]}}
+
+
+def fold(s):
+    s = strip_acc(s).lower()
+    return re.sub(r"[^a-z ]", " ", s)
+
+
+def jp_fold(s):
+    return re.sub(r"oh(?![aeiou])|ou|oo", "o", re.sub(r"uu", "u", fold(s))).replace(" ", "")
+
+
+class UF:
+    def __init__(self):
+        self.p = {}
+
+    def find(self, x):
+        while self.p.get(x, x) != x:
+            self.p[x] = self.p.get(self.p[x], self.p[x]); x = self.p[x]
+        return x
+
+    def union(self, keep, drop):
+        a, b = self.find(keep), self.find(drop)
+        if a != b:
+            self.p[b] = a
+
+
+def merge_edges(edges, uf, nodes):
+    out = {}
+    for e in edges:
+        s, t = uf.find(e["source"]), uf.find(e["target"])
+        if s == t or s not in nodes or t not in nodes:
+            continue
+        if e["type"] == "collaborated_with" and t < s:
+            s, t = t, s
+        k = (s, e["type"], t)
+        e["source"], e["target"] = s, t
+        if k not in out:
+            out[k] = e; continue
+        o = out[k]
+        o["evidence"] += e["evidence"]
+        o["roles"] = sorted(set(o["roles"]) | set(e["roles"]))[:4]
+        o["sources"] = sorted(set(o["sources"]) | set(e["sources"]))
+        o["explicit"] = o["explicit"] or e["explicit"]
+        for y, sf, f in (("year_start", "ys_src", min), ("year_end", "ye_src", max)):
+            if e[y] and (not o[y] or SRC_RANK[e[sf]] > SRC_RANK[o[sf]]):
+                o[y], o[sf] = e[y], e[sf]
+            elif e[y] and SRC_RANK[e[sf]] == SRC_RANK[o[sf]]:
+                o[y] = f(o[y], e[y])
+    return list(out.values())
+
+
+def absorb(nodes, keep, drop):
+    k, d = nodes[keep], nodes.pop(drop)
+    k["variants"] = list(dict.fromkeys(k.get("variants", []) + [d["label"]] + d.get("variants", [])))[:14]
+    for f, v in d.items():
+        if f not in ("id", "label", "variants") and not k.get(f) and v:
+            k[f] = v
+    if k["type"] == "person":
+        k["fields"] = list(dict.fromkeys((k.get("fields") or []) + (d.get("fields") or [])))[:3]
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--no-model", action="store_true", help="skip model date fill and summaries")
+    args = ap.parse_args()
+    g = json.load(open(os.path.join(DATA, "graph_extracted.json")))
+    wd = json.load(open(os.path.join(DATA, "wikidata.json")))
+    nodes = {n["id"]: n for n in g["nodes"]}
+    uf, log = UF(), []
+    for n in nodes.values():
+        n["label"] = LABEL_FIX.get(n["label"], n["label"])
+    client = genai.Client(api_key=load_key())
+
+    # ---- 1+2. wikidata attributes, QID merges
+    by_qid = {}
+    for kind in ("people", "institutions"):
+        for nid, w in wd[kind].items():
+            if nid not in nodes:
+                continue
+            n = nodes[nid]
+            if w["qid"] in by_qid:
+                keep = by_qid[w["qid"]]
+                log.append({"keep": keep, "drop": nid, "why": "same Wikidata id " + w["qid"]})
+                uf.union(keep, nid); absorb(nodes, keep, nid)
+                continue
+            by_qid[w["qid"]] = nid
+            if kind == "people":
+                n.update(qid=w["qid"], image=w["image"], enwiki=w["enwiki"], dewiki=w["dewiki"], jawiki=w.get("jawiki"),
+                         birth_place=w["birth_place"], death_place=w["death_place"], description=w["description"])
+                for k, wk in (("birth_year", "birth"), ("death_year", "death")):
+                    if w[wk]:
+                        n[k] = w[wk]
+            else:
+                n.update(qid=w["qid"], lat=w.get("lat"), lon=w.get("lon"), inception=w.get("inception"))
+    for q, nid in QID_ALIAS.items():
+        if nid in nodes:
+            by_qid.setdefault(q, nid)
+
+    # ---- 3. edges: books/prefaces first, then wikidata statements
+    E = g["edges"]
+    for e in E:
+        e["ys_src"] = "text" if e["year_start"] else None
+        e["ye_src"] = "text" if e["year_end"] else None
+    stats = Counter()
+    for nid, w in wd["people"].items():
+        src0 = uf.find(nid)
+        if src0 not in nodes:
+            continue
+        for s in w["statements"]:
+            kind = s["kind"]
+            if kind in ("student_of", "teacher_of"):
+                other = by_qid.get(s["qid"])
+                if not other or not other.startswith("P:") or other == src0:
+                    continue
+                src, tgt, typ = (src0, other, "student_of") if kind == "student_of" else (other, src0, "student_of")
+            else:
+                tgt = by_qid.get(s["qid"])
+                if not tgt:
+                    info = wd["labels"].get(s["qid"])
+                    if not info or not info["label"] or re.fullmatch(r"Q\d+", info["label"]):
+                        continue
+                    tgt = "I:" + info["label"]
+                    if tgt not in nodes:
+                        nodes[tgt] = {"id": tgt, "type": "institution", "label": info["label"], "city": None, "country": None,
+                                      "kind": "other", "variants": [], "qid": s["qid"], "lat": info["lat"], "lon": info["lon"],
+                                      "inception": info.get("inception"), "wikidata_only": True}
+                    by_qid[s["qid"]] = tgt
+                src, typ = src0, kind
+            E.append({"source": src, "type": typ, "target": tgt, "evidence": [], "roles": [], "explicit": True, "sources": ["Wikidata"],
+                      "year_start": s["start"], "year_end": s["end"], "ys_src": "wikidata" if s["start"] else None,
+                      "ye_src": "wikidata" if s["end"] else None})
+            stats[typ] += 1
+    E = merge_edges(E, uf, nodes)
+    print(f"[merge] wikidata statements added: {dict(stats)}; {len(log)} QID merges; {len(E)} edges", flush=True)
+
+    # ---- 4. harmonise
+    nbrs = defaultdict(Counter)
+    for e in E:
+        nbrs[e["source"]][nodes[e["target"]]["label"]] += 1; nbrs[e["target"]][nodes[e["source"]]["label"]] += 1
+
+    def card(n):
+        c = {"id": n["id"], "name": n["label"], "links": [k for k, _ in nbrs[n["id"]].most_common(5)]}
+        for f in ("native", "birth_year", "death_year", "fields", "country", "city", "kind"):
+            if n.get(f):
+                c[f] = n[f]
+        if n.get("variants"):
+            c["also_written"] = n["variants"][:4]
+        return c
+    people = [n for n in nodes.values() if n["type"] == "person"]
+    blocks = defaultdict(list)
+    for n in people:
+        toks = fold(n["label"]).split()
+        if toks:
+            blocks[jp_fold(toks[-1])].append(n)
+            if len(toks) > 1 and n.get("japanese"):
+                blocks[jp_fold(toks[0])].append(n)  # family name first in some records
+    pair = UF(); members = set()
+    for b in blocks.values():
+        if len(b) < 2 or len(b) > 400:
+            continue
+        for i, a in enumerate(b):
+            ta, fa = fold(a["label"]).split(), jp_fold(a["label"])
+            for c in b[i + 1:]:
+                if a.get("birth_year") and c.get("birth_year") and abs(a["birth_year"] - c["birth_year"]) > 2:
+                    continue
+                tc, fc = fold(c["label"]).split(), jp_fold(c["label"])
+                ga, gc = "".join(ta[:-1]), "".join(tc[:-1])
+                same = (fa == fc or "".join(sorted(ta)) == "".join(sorted(tc)) or (a.get("native") and a.get("native") == c.get("native"))
+                        or (ga and gc and (ga.startswith(gc[:1]) and (len(ta[0]) <= 2 or len(tc[0]) <= 2) and ga[0] == gc[0]))
+                        or difflib.SequenceMatcher(None, fa, fc).ratio() >= 0.87)
+                if same:
+                    pair.union(a["id"], c["id"]); members.update((a["id"], c["id"]))
+    groups = defaultdict(list)
+    for m in members:
+        groups[pair.find(m)].append(m)
+    pgroups = [sorted(v) for v in groups.values() if 2 <= len(v) <= 14]
+    # institutions: same city (or no city) and similar names
+    iblocks = defaultdict(list)
+    for n in nodes.values():
+        if n["type"] == "institution":
+            iblocks[(n.get("city") or "?", n.get("country") or "?")].append(n)
+    igroups = []
+    for (city, _), b in iblocks.items():
+        if len(b) < 2:
+            continue
+        if city != "?" and len(b) <= 30:
+            igroups.append(sorted(n["id"] for n in b)); continue
+        ip = UF(); mem = set()
+        for i, a in enumerate(b[:1500]):
+            for c in b[i + 1:1500]:
+                if difflib.SequenceMatcher(None, fold(a["label"]), fold(c["label"])).ratio() >= 0.86:
+                    ip.union(a["id"], c["id"]); mem.update((a["id"], c["id"]))
+        gg = defaultdict(list)
+        for m in mem:
+            gg[ip.find(m)].append(m)
+        igroups += [sorted(v) for v in gg.values() if len(v) <= 30]
+    print(f"[merge] harmonise: {len(pgroups)} person groups, {len(igroups)} institution groups to check", flush=True)
+
+    def ask(what, grs):
+        calls = [grs[i:i + 20] for i in range(0, len(grs), 20)]
+
+        def one(ch):
+            try:
+                return llm_json(client, DUP_PROMPT.format(what=what, items=json.dumps(
+                    [{"group": gi, "records": [card(nodes[i]) for i in gr]} for gi, gr in enumerate(ch)], ensure_ascii=False, indent=0)), DUP_SCHEMA)
+            except Exception as e:
+                print("[merge] harmonise batch failed:", repr(e)[:150]); return []
+        with ThreadPoolExecutor(16) as ex:
+            return [r for rs in ex.map(one, calls) for r in rs]
+    for what, grs in (("person", pgroups), ("institution", igroups)):
+        valid = {i for gr in grs for i in gr}
+        for r in ask(what, grs):
+            ids = [i for i in dict.fromkeys(r["ids"]) if i in valid and i in nodes]
+            if len(ids) < 2 or len({i[0] for i in ids}) > 1:
+                continue
+            keep = max(ids, key=lambda i: (bool(nodes[i].get("qid")), sum(nbrs[i].values())))
+            for d in ids:
+                if d != keep and d in nodes:
+                    log.append({"keep": keep, "drop": d, "why": "harmonise (Gemini)", "canonical": r["canonical"]})
+                    uf.union(keep, d); absorb(nodes, keep, d)
+            if r.get("canonical") and not nodes[keep].get("qid") and what == "person":
+                if r["canonical"] != nodes[keep]["label"]:
+                    nodes[keep]["variants"] = list(dict.fromkeys([nodes[keep]["label"]] + nodes[keep]["variants"]))[:14]
+                    nodes[keep]["label"] = r["canonical"]
+    E = merge_edges(E, uf, nodes)
+    json.dump(log, open(os.path.join(DATA, "harmonize_merges.json"), "w"), ensure_ascii=False, indent=1)
+    print(f"[merge] {len(log)} merges in total; {len(E)} edges", flush=True)
+
+    # ---- 5. model date fill
+    if not args.no_model:
+        todo = defaultdict(list)
+        for i, e in enumerate(E):
+            if e["type"] in DATED_TYPES and not e["year_start"]:
+                todo[e["source"]].append(i)
+        persons = sorted(todo)
+        calls = [persons[b:b + 12] for b in range(0, len(persons), 12)]
+
+        def fill(ch):
+            items = [{"scholar": nodes[pid]["label"], "native_name": nodes[pid].get("native"),
+                      "life": f'{nodes[pid].get("birth_year") or "?"}-{nodes[pid].get("death_year") or "?"}',
+                      "relations": [{"k": i, "type": E[i]["type"], "object": nodes[E[i]["target"]]["label"], "role": "; ".join(E[i]["roles"]) or None,
+                                     "known_end": E[i]["year_end"]} for i in todo[pid][:25]]} for pid in ch]
+            try:
+                return llm_json(client, MODEL_PROMPT.format(items=json.dumps(items, ensure_ascii=False, indent=0)), MODEL_SCHEMA)
+            except Exception as e:
+                print("[merge] date batch failed:", repr(e)[:120]); return []
+        filled = 0
+        with ThreadPoolExecutor(24) as ex:
+            for res in ex.map(fill, calls):
+                for r in res:
+                    if r.get("confidence") == "low" or not (0 <= r["k"] < len(E)):
+                        continue
+                    e = E[r["k"]]; p = nodes[e["source"]]
+                    lo, hi = (p.get("birth_year") or 1500) + 10, (p.get("death_year") or 2026)
+                    for y, sf in (("year_start", "ys_src"), ("year_end", "ye_src")):
+                        v = r.get(y)
+                        if v and not e[y] and lo <= v <= hi:
+                            e[y], e[sf] = v, "model"; filled += 1
+        print(f"[merge] model filled {filled} years on {sum(len(v) for v in todo.values())} undated relations", flush=True)
+    for e in E:
+        if e["year_start"] and e["year_end"] and e["year_end"] < e["year_start"]:
+            e["year_end"], e["ye_src"] = None, None
+
+    # ---- 6. career summaries
+    used = {e["source"] for e in E} | {e["target"] for e in E}
+    if not args.no_model:
+        facts = defaultdict(list)
+        yr = lambda e: "".join([" ", "~" if "model" in (e["ys_src"], e["ye_src"]) else "", str(e["year_start"] or ""), "-" if e["year_end"] else "", str(e["year_end"] or "")]).rstrip() if (e["year_start"] or e["year_end"]) else ""
+        for e in E:
+            t = nodes[e["target"]]["label"]
+            if e["type"] == "student_of":
+                facts[e["source"]].append(f"studied under {t}{yr(e)}" + (f" ({e['roles'][0]})" if e["roles"] else ""))
+                facts[e["target"]].append(f"taught {nodes[e['source']]['label']}")
+            elif e["type"] == "studied_at":
+                facts[e["source"]].append(f"studied at {t}{yr(e)}" + (f" ({e['roles'][0]})" if e["roles"] else ""))
+            elif e["type"] == "position_at":
+                facts[e["source"]].append(f"post at {t}{yr(e)}" + (f": {e['roles'][0]}" if e["roles"] else ""))
+            elif e["type"] == "succeeded":
+                facts[e["source"]].append(f"succeeded {t}{yr(e)}")
+            elif e["type"] == "founded":
+                facts[e["source"]].append(f"founded {t}{yr(e)}")
+        who = sorted(p for p, f in facts.items() if len([x for x in f if not x.startswith("taught ")]) >= 2 and p in nodes)
+        calls = [who[i:i + 20] for i in range(0, len(who), 20)]
+
+        def summ(ch):
+            items = [{"id": p, "name": nodes[p]["label"], "life": f'{nodes[p].get("birth_year") or "?"}-{nodes[p].get("death_year") or ""}',
+                      "fields": nodes[p].get("fields"), "facts": facts[p][:24]} for p in ch]
+            try:
+                return llm_json(client, SUM_PROMPT.format(items=json.dumps(items, ensure_ascii=False, indent=0)), SUM_SCHEMA)
+            except Exception as e:
+                print("[merge] summary batch failed:", repr(e)[:120]); return []
+        ns = 0
+        with ThreadPoolExecutor(24) as ex:
+            for res in ex.map(summ, calls):
+                for r in res:
+                    if r["id"] in nodes and r.get("summary"):
+                        nodes[r["id"]]["summary"] = r["summary"].strip(); ns += 1
+        print(f"[merge] {ns} career summaries", flush=True)
+
+    # ---- output: structure and evidence separately (the evidence file is loaded lazily by the site)
+    N = [n for n in nodes.values() if n["id"] in used]
+    idx = {n["id"]: i for i, n in enumerate(N)}
+    evidence = {}
+    for i, e in enumerate(E):
+        ev = [{k: v for k, v in x.items() if k in ("evidence", "source", "place", "explicit") and v not in (None, True)} for x in e["evidence"][:2]]
+        if ev:
+            evidence[i] = ev
+        e["n_ev"] = len(e["evidence"]); del e["evidence"]
+        e["s"], e["t"] = idx[e.pop("source")], idx[e.pop("target")]
+        e["books"] = any(s != "Wikidata" for s in e["sources"]); e["wd"] = "Wikidata" in e["sources"]
+        e["src"] = [s for s in e.pop("sources") if s != "Wikidata"][:3]
+        for k in [k for k, v in e.items() if v in (None, [], False) and k not in ("s", "t")]:
+            del e[k]
+    for n in N:
+        for k in [k for k, v in n.items() if v in (None, [], "", False)]:
+            del n[k]
+    os.makedirs(SITE_DATA, exist_ok=True)
+    json.dump({"nodes": N, "edges": E}, open(os.path.join(SITE_DATA, "graph.json"), "w"), ensure_ascii=False, separators=(",", ":"))
+    json.dump(evidence, open(os.path.join(SITE_DATA, "evidence.json"), "w"), ensure_ascii=False, separators=(",", ":"))
+    P = [n for n in N if n["type"] == "person"]
+    c = defaultdict(Counter)
+    for e in E:
+        c[e["type"]]["n"] += 1; c[e["type"]][e.get("ys_src") or "undated"] += 1
+    for t, v in c.items():
+        print(f"[merge] {t:18s} {dict(v)}")
+    print(f"[merge] {len(P)} people ({sum(1 for n in P if n.get('japanese'))} japanese), {len(N) - len(P)} institutions, {len(E)} edges; "
+          f"fields {dict(Counter(f for n in P for f in n.get('fields', [])))}")
+    for f in ("graph.json", "evidence.json"):
+        print(f"[merge] {f}: {os.path.getsize(os.path.join(SITE_DATA, f)) / 1e6:.1f} MB")
+
+
+if __name__ == "__main__":
+    main()

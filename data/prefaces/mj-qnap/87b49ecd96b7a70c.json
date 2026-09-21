@@ -1,0 +1,140 @@
+{
+ "author": "H. R. Rangaswami Iyengar",
+ "doc_kind": "text_edition",
+ "doc_year": 1952,
+ "people": [
+  {
+   "name": "H. R. Rangaswami Iyengar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "V. Bhattacharya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Durgacharan Chaterjee",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "M. Hiriyanna",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Subrahmanya Iyer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Embar Krishnamacharya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "G. Tucci",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Italian",
+   "field": "Tibetology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "H. R. Rangaswami Iyengar",
+   "type": "student_of",
+   "object": "V. Bhattacharya",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A transcript of the Tibetan text was obtained from Calcutta through my teacher Mr. V. Bhattacharya, Asutosh Professor of Sanskrit, Calcutta University.",
+   "quote_ok": false
+  },
+  {
+   "subject": "H. R. Rangaswami Iyengar",
+   "type": "position_at",
+   "object": "Oriental Research Institute Mysore",
+   "role": "Superintendent",
+   "place": "Mysore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "H. R. RANGASWAMI IYENGAR, M. A., K. C., T.E., M.T.A. (Italy) Superintendent, Oriental Research Institute Mysore.",
+   "quote_ok": true
+  },
+  {
+   "subject": "V. Bhattacharya",
+   "type": "position_at",
+   "object": "Calcutta University",
+   "role": "Asutosh Prof. of Sanskrit (Rtd.)",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "MAHĀMAHOPĀDHYĀYA VIDHUŚEKHARA BHATTĀCHARYA Asutosh Prof. of Sanskrit, Calcutta University. (Rtd.)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Durgacharan Chaterjee",
+   "type": "student_of",
+   "object": "V. Bhattacharya",
+   "role": "pupil",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hetutattvopadeśa is restored into Sanskrit from its Tibetan version by one of my pupils, Sri Durgacharan Chaterjee",
+   "quote_ok": true
+  },
+  {
+   "subject": "M. Hiriyanna",
+   "type": "position_at",
+   "object": "University of Mysore",
+   "role": "Professor of Sanskrit (Rtd.)",
+   "place": "Mysore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Mysore, M. Hiriyanna, 25-10-1944. Professor of Sanskrit (Rtd.)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Subrahmanya Iyer",
+   "type": "position_at",
+   "object": "University of Mysore",
+   "role": "Registrar (Rtd.)",
+   "place": "Mysore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "(Sd.) Subrahmanya Iyer. Registrar, (Rtd.) University of Mysore.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Tarkabhasa_moksakaragupta",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Tarkabhasa_moksakaragupta.txt",
+ "meta": {
+  "title": "Tarkabhāṣa and Vādasthāna",
+  "author": "Rangaswami Iyengar, H. R.",
+  "year": 1952,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

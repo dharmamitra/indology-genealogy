@@ -1,0 +1,86 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 2010,
+ "people": [
+  {
+   "name": "Pascale Hugon",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Toru Tomabechi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lhagpa Phuntshogs",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ernst Steinkellner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Pascale Hugon",
+   "type": "collaborated_with",
+   "object": "Toru Tomabechi",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": 2010,
+   "explicit": true,
+   "evidence": "CRITICALLY EDITED by PASCALE HUGON and TORU TOMABECHI",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Lhagpa Phuntshogs",
+   "type": "founded",
+   "object": "Sanskrit Texts from the Tibetan Autonomous Region",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sanskrit Texts from the Tibetan Autonomous Region founded and edited in chief by Lhagpa Phuntshogs and Ernst Steinkellner",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Ernst Steinkellner",
+   "type": "founded",
+   "object": "Sanskrit Texts from the Tibetan Autonomous Region",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sanskrit Texts from the Tibetan Autonomous Region founded and edited in chief by Lhagpa Phuntshogs and Ernst Steinkellner",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "Pvin3-b KRA",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Pvin3-b KRA.txt",
+ "meta": {
+  "title": "Dharmakīrti's Pramāṇaviniścaya Chapter 3",
+  "author": "Hugon, Pascale; Tomabechi, Toru",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

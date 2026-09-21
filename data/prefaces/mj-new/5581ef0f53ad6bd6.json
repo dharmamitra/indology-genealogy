@@ -1,0 +1,57 @@
+{
+ "author": "浅野学",
+ "doc_kind": "article",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "浅野学",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "落合俊典",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "浅野学",
+   "type": "studied_at",
+   "object": "国際仏教学大学院大学",
+   "role": "PhD student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "国際仏教学大学院大学 博士課程 浅野 学",
+   "quote_ok": true
+  },
+  {
+   "subject": "落合俊典",
+   "type": "position_at",
+   "object": "日本古写経研究所",
+   "role": "所長",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "日本古写経研究所所長落合俊典先生",
+   "quote_ok": true
+  }
+ ],
+ "docid": "浅野学",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/浅野学.txt",
+ "meta": {
+  "title": "興聖寺一切経本『妙法蓮華経憂波提舎』について",
+  "author": "浅野, 学",
+  "year": 2020,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,102 @@
+{
+ "author": "山口益",
+ "doc_kind": "journal_volume",
+ "doc_year": 1950,
+ "people": [
+  {
+   "name": "中村",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "山口",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "月輪",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "龜川",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "福原亮嚴",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "中村",
+   "type": "position_at",
+   "object": "東京大學",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "東京大學の中村博士の玉稿を頂いて",
+   "quote_ok": true
+  },
+  {
+   "subject": "月輪",
+   "type": "position_at",
+   "object": "龍谷大學佛敎學會",
+   "role": "敎授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "佛敎學會に、月輪敎授、龜川教授の御兩人を御迎へ出來て",
+   "quote_ok": true
+  },
+  {
+   "subject": "龜川",
+   "type": "position_at",
+   "object": "龍谷大學佛敎學會",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "佛敎學會に、月輪敎授、龜川教授の御兩人を御迎へ出來て",
+   "quote_ok": true
+  },
+  {
+   "subject": "福原亮嚴",
+   "type": "position_at",
+   "object": "龍谷大學佛教學研究室",
+   "role": "編輯者",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "編輯所 龍谷大國佛敎學研究室 編輯者 福 原 亮 嚴",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Yamaguchi_山口益_1950b",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Yamaguchi_山口益_1950b.txt",
+ "meta": {
+  "title": "唯識二十論の原典解釋",
+  "author": "山口, 益",
+  "year": 1950,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

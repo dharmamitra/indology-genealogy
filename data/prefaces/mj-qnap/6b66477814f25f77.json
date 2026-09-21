@@ -1,0 +1,64 @@
+{
+ "author": "Agganyani",
+ "doc_kind": "text_edition",
+ "doc_year": 2015,
+ "people": [
+  {
+   "name": "Agganyani",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Nandamālābhivaṃsa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Burmese",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Khin Maung Than",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Burmese",
+   "field": "Physics"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Agganyani",
+   "type": "student_of",
+   "object": "Nandamālābhivaṃsa",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "während und unmittelbar nach einem der Studienkurse bei meinem Lehrer, Sayadaw Dr. Nandamālābhivaṃsa, in Myanmar entstanden.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Khin Maung Than",
+   "type": "position_at",
+   "object": "Mandalay Universität",
+   "role": "Assistant Professor",
+   "place": "Mandalay",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Methode nach Khin Maung Than, Physiker & Assistant Professor an der Mandalay Universität.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Pahana_Bedingungszusammenhange._Paccay",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Pahana_Bedingungszusammenhange._Paccay.txt",
+ "meta": {
+  "title": "Paṭṭhāna: Bedingungszusammenhänge",
+  "author": "Agganyani",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

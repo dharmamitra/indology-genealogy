@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "高島淳",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "手嶋英貴",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "高島淳",
+   "type": "collaborated_with",
+   "object": "手嶋英貴",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2020,
+   "explicit": true,
+   "evidence": "RINDAS ワーキングペーパーシリーズ 30 ヒンドゥー教とはなにか 高島淳・手嶋英貴",
+   "quote_ok": true
+  },
+  {
+   "subject": "高島淳",
+   "type": "position_at",
+   "object": "東京外国語大学アジア・アフリカ言語文化研究所",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": 2020,
+   "explicit": true,
+   "evidence": "高島淳（東京外国語大学アジア・アフリカ言語文化研究所教授）",
+   "quote_ok": true
+  },
+  {
+   "subject": "手嶋英貴",
+   "type": "position_at",
+   "object": "京都文教大学総合社会学部",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": 2020,
+   "explicit": true,
+   "evidence": "手嶋英貴（京都文教大学総合社会学部教授）",
+   "quote_ok": true
+  }
+ ],
+ "docid": "wp_30",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/wp_30.txt",
+ "meta": {
+  "title": "ヒンドゥー教とはなにか",
+  "author": "高島淳, 手嶋英貴",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

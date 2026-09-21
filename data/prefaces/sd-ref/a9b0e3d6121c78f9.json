@@ -1,0 +1,154 @@
+{
+ "author": "Luciano Petech",
+ "doc_kind": "monograph",
+ "doc_year": 1977,
+ "people": [
+  {
+   "name": "Luciano Petech",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Italian",
+   "field": "Tibetology"
+  },
+  {
+   "name": "Giuseppe Tucci",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Italian",
+   "field": "Tibetology"
+  },
+  {
+   "name": "David Snellgrove",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Tibetology"
+  },
+  {
+   "name": "T. Skorupski",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  },
+  {
+   "name": "Z. Yamaguchi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Tibetology"
+  },
+  {
+   "name": "K. Enoki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "H. Sato",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "E. Gene Smith",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Luciano Petech",
+   "type": "student_of",
+   "object": "Giuseppe Tucci",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "To my guru and friend Professor Giuseppe Tucci",
+   "quote_ok": true
+  },
+  {
+   "subject": "Luciano Petech",
+   "type": "other",
+   "object": "Giuseppe Tucci",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "To my guru and friend Professor Giuseppe Tucci",
+   "quote_ok": true
+  },
+  {
+   "subject": "David Snellgrove",
+   "type": "collaborated_with",
+   "object": "T. Skorupski",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1977,
+   "explicit": true,
+   "evidence": "D. L. Snellgrove and T. Skorupski, The cultural heritage of Ladakh, I, Warminster 1977.",
+   "quote_ok": true
+  },
+  {
+   "subject": "David Snellgrove",
+   "type": "position_at",
+   "object": "London",
+   "role": "Professor",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor D. Snellgrove of London supplied me with some items of information",
+   "quote_ok": true
+  },
+  {
+   "subject": "K. Enoki",
+   "type": "position_at",
+   "object": "Tōyō Bunko",
+   "role": "host",
+   "place": "Tokyo",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor K. Enoki, besides sponsoring my invitation to Ja- pan, acted as a friendly and always helpful host at the Tōyō Bunko, Tokyo.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Z. Yamaguchi",
+   "type": "position_at",
+   "object": "University of Tokyo",
+   "role": "Professor",
+   "place": "Tokyo",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Z. Yamaguchi opened to me the facilities of the University of Tokyo",
+   "quote_ok": true
+  },
+  {
+   "subject": "H. Sato",
+   "type": "position_at",
+   "object": "University of Kyoto",
+   "role": "Professor",
+   "place": "Kyoto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and so did Professor H. Sato for the University of Kyoto.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Petech_Ladakh 950-1842",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Petech_Ladakh 950-1842.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,151 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "NUMATA Yehan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rolf Giebel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "New Zealand",
+   "field": null
+  },
+  {
+   "name": "Rudy Smet",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Belgium",
+   "field": null
+  },
+  {
+   "name": "MAYEDA Sengaku",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Philip Yampolsky",
+   "birth_year": null,
+   "death_year": 1996,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kenneth Inada",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Diane Ames",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Eisho Nasu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Charles Niimi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Koh Nishiike",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kiyoshi S. Yamashita",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "NUMATA Yehan",
+   "type": "founded",
+   "object": "English Tripitaka Project",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Founder of the English Tripitaka Project",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philip Yampolsky",
+   "type": "position_at",
+   "object": "Publication Committee at the Numata Center",
+   "role": "Chairperson",
+   "place": "Berkeley, California",
+   "year_start": 1991,
+   "year_end": 1996,
+   "explicit": true,
+   "evidence": "In December 1991, the Publication Committee was organized at the Numata Center, with Professor Philip Yampolsky as the Chairperson. To our sorrow, Professor Yampolsky passed away in July 1996",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kenneth Inada",
+   "type": "succeeded",
+   "object": "Philip Yampolsky",
+   "role": "Chairperson of the Publication Committee",
+   "place": "Numata Center",
+   "year_start": 1997,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In July 1996, the Committee unfortunately lost its valued Chairperson, Dr. Philip Yampolsky... In February 1997, I was appointed to guide the Committee in his place.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kenneth Inada",
+   "type": "position_at",
+   "object": "Publication Committee at the Numata Center",
+   "role": "Chairperson",
+   "place": "Berkeley, California",
+   "year_start": 1997,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In February 1997, I was appointed to guide the Committee in his place. ... Kenneth Inada is continuing the work as Chairperson.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kiyoshi S. Yamashita",
+   "type": "position_at",
+   "object": "Numata Center",
+   "role": "president and director",
+   "place": "Berkeley, California",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the president and director of the Numata Center, Reverend Kiyoshi S. Yamashita.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_1861",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_1861.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

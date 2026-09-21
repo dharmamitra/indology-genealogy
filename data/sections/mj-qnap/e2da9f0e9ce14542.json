@@ -1,0 +1,152 @@
+{
+ "author": "Bruno Schindler",
+ "doc_kind": "other",
+ "doc_year": 1932,
+ "people": [
+  {
+   "name": "Johannes Hertel",
+   "birth_year": 1872,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Ernst Windisch",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Bruno Schindler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Siegfried Behrsing",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Richard Schmidt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "P. Giles",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Comparative Philology"
+  },
+  {
+   "name": "Hermann Oldenberg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johannes Hertel",
+   "type": "position_at",
+   "object": "Universität Leipzig",
+   "role": "Lehrstuhl für indische Philologie",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. Dr. Johannes Hertel, der den Lehrstuhl für indische Philologie an der Universität Leipzig, als Nachfolger von Ernst Windisch, inne hat",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Hertel",
+   "type": "succeeded",
+   "object": "Ernst Windisch",
+   "role": "Lehrstuhl für indische Philologie",
+   "place": "Universität Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. Dr. Johannes Hertel, der den Lehrstuhl für indische Philologie an der Universität Leipzig, als Nachfolger von Ernst Windisch, inne hat",
+   "quote_ok": true
+  },
+  {
+   "subject": "Siegfried Behrsing",
+   "type": "student_of",
+   "object": "Johannes Hertel",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Die nachfolgende Bibliographie ist uns freundlicherweise von einem Schüler Prof. Hertels, Dr. Siegfried Behrsing, zur Verfügung gestellt worden.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Johannes Hertel",
+   "type": "collaborated_with",
+   "object": "Richard Schmidt",
+   "role": "co-editor / co-translator",
+   "place": null,
+   "year_start": 1905,
+   "year_end": 1905,
+   "explicit": true,
+   "evidence": "[mit Richard Schmidt:] Amitagati's Subhāṣitasamḍoha. Sanskrit und deutsch herausgegeben.",
+   "quote_ok": true
+  },
+  {
+   "subject": "P. Giles",
+   "type": "position_at",
+   "object": "Emmanuel College",
+   "role": "Fellow und Lecturer",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "P. Giles, M. A., Fellow und Lecturer am Emmanuel College und Reader in Comparative Philology an der Universität Cambridge",
+   "quote_ok": true
+  },
+  {
+   "subject": "P. Giles",
+   "type": "position_at",
+   "object": "Universität Cambridge",
+   "role": "Reader in Comparative Philology",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "P. Giles, M. A., Fellow und Lecturer am Emmanuel College und Reader in Comparative Philology an der Universität Cambridge",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Oldenberg",
+   "type": "position_at",
+   "object": "Universität Kiel",
+   "role": "ord. Professor des Sanskrit",
+   "place": "Kiel",
+   "year_start": null,
+   "year_end": 1901,
+   "explicit": true,
+   "evidence": "Herrn Dr. Hermann Oldenberg, ord. Professor des Sanskrit a. d. Universität Kiel. [Datiert:] Zwickau, den 17. 2. 1901.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "AM8-1932-1",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/AM8-1932-1.txt#0",
+ "meta": {
+  "title": "Aus den Werken von Professor Johannes Hertel",
+  "author": "Schindler, Bruno",
+  "year": 1932,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,102 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1857,
+ "people": [
+  {
+   "name": "Earl of Ellesmere",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Edward Backhouse Eastwick",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "comparative philology"
+  },
+  {
+   "name": "Thomas Ellis",
+   "birth_year": 1820,
+   "death_year": 1856,
+   "nationality": "British",
+   "field": "Oriental languages"
+  },
+  {
+   "name": "Austen Henry Layard",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Joseph von Hammer",
+   "birth_year": 1774,
+   "death_year": null,
+   "nationality": "Austrian",
+   "field": "Oriental literature"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Earl of Ellesmere",
+   "type": "position_at",
+   "object": "Oriental Translation Committee",
+   "role": "Chairman",
+   "place": null,
+   "year_start": 1852,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He also held the office of Chairman of the Oriental Translation Committee from the year 1852.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Ellis",
+   "type": "position_at",
+   "object": "British Museum",
+   "role": "cataloguing the Syriac MSS. in the Library",
+   "place": "London",
+   "year_start": 1851,
+   "year_end": 1856,
+   "explicit": true,
+   "evidence": "In the year 1851, Mr. Ellis received an appointment at the British Museum, where he remained until his death, chiefly occupied in cataloguing the Syriac MSS. in the Library.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Ellis",
+   "type": "collaborated_with",
+   "object": "Austen Henry Layard",
+   "role": "decipherment and translation of Chaldee inscriptions",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Fac-similes of these inscriptions, with Mr. Ellis's trans- lations, were printed by Mr. Layard in his \"Nineveh and Babylon.\"",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph von Hammer",
+   "type": "founded",
+   "object": "Fundgruben des Orients",
+   "role": "editor",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Soon after his return he projected the publication of a work on Eastern literature and sciences, which resulted in the valuable \"Fundgruben des Orients,\" better known by its French title, \"Mines de l'Orient,\"",
+   "quote_ok": true
+  }
+ ],
+ "docid": "JRASGBI 17",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/JRASGBI 17.txt#0",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,161 @@
+{
+ "author": "Yasuhiro Sueki",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Denis Sinor",
+   "birth_year": 1916,
+   "death_year": 2011,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Igor de Rachewiltz",
+   "birth_year": 1929,
+   "death_year": 2016,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Miyoko Nakano",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "May Wang",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Bruno Petzold",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "花山信勝",
+   "birth_year": 1898,
+   "death_year": 1995,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Shohei Ichimura",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "小野清一郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "富貴原章信",
+   "birth_year": 1907,
+   "death_year": 1975,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "稲垣淳造",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Denis Sinor",
+   "type": "position_at",
+   "object": "Indiana University",
+   "role": null,
+   "place": "Bloomington",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Leo F. Solt: Denis Sinor at Indiana University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Igor de Rachewiltz",
+   "type": "collaborated_with",
+   "object": "Miyoko Nakano",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Index to biographical material in Chin and Yüan literary works, 3 series. Canberra: ANU Press, 1970-1979... Collaboration with Miyoko Nakano (series 1)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Igor de Rachewiltz",
+   "type": "collaborated_with",
+   "object": "May Wang",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Index to biographical material in Chin and Yüan literary works, 3 series. Canberra: ANU Press, 1970-1979... Collaboration with Miyoko Nakano (series 1) and May Wang (series 2-3)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bruno Petzold",
+   "type": "collaborated_with",
+   "object": "花山信勝",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The classification of Buddhism: Bukkyō kyōhan... In collaboration with Shinshō Hanayama",
+   "quote_ok": true
+  },
+  {
+   "subject": "小野清一郎",
+   "type": "collaborated_with",
+   "object": "花山信勝",
+   "role": "co-editors",
+   "place": null,
+   "year_start": 1940,
+   "year_end": 1940,
+   "explicit": true,
+   "evidence": "日本佛敎の歴史と理念 [Nihon bukkyō no rekishi to rinen]. 小野清一郎 花山信勝共編 [Ed. by Seiichirō ONO and Shinshō HANAYAMA]. Tokyo: Meiji Shoin, 1940.",
+   "quote_ok": true
+  },
+  {
+   "subject": "稲垣淳造",
+   "type": "student_of",
+   "object": "富貴原章信",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "稲垣淳造 (Junzo INAGAKI): 先師富貴原章信博士 追憶 [Senshi Fukihara Shōshin Hakushi; tsuioku] (Reminiscences of Dr. Fukihara Shoshin).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "BibliographicalSourcesBuddhistStudies 2.6",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/BibliographicalSourcesBuddhistStudies 2.6.txt#3",
+ "meta": {
+  "title": "Bibliographical Sources for Buddhist Studies from the Viewpoint of Buddhist Philology",
+  "author": "Sueki, Yasuhiro",
+  "year": 2020,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

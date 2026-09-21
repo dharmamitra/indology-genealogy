@@ -1,0 +1,83 @@
+{
+ "author": "Jens-Uwe Hartmann",
+ "doc_kind": "dissertation",
+ "doc_year": 1997,
+ "people": [
+  {
+   "name": "Jens-Uwe Hartmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lambert Schmithausen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Michael Hahn",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Klaus-Dieter Mathes",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jens-Uwe Hartmann",
+   "type": "studied_at",
+   "object": "Universität Hamburg",
+   "role": "doctoral degree",
+   "place": "Hamburg",
+   "year_start": null,
+   "year_end": 1996,
+   "explicit": true,
+   "evidence": "vorliegende Arbeit ist die überarbeitete Fassung meiner Dissertation, die im Sommersemester 1996 von der Philosophischen Fakultät der Universität Hamburg angenommen wurde.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jens-Uwe Hartmann",
+   "type": "student_of",
+   "object": "Lambert Schmithausen",
+   "role": "teacher",
+   "place": "Hamburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mein Dank gilt zuallererst meinem Lehrer, Herrn Professor Dr. Lambert Schmithausen, der mich während meiner Studienzeit in Hamburg stets gefördert",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jens-Uwe Hartmann",
+   "type": "collaborated_with",
+   "object": "Klaus-Dieter Mathes",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Schließlich danke ich meinen Freunden und Kollegen, insbesondere Herrn Dr. Klaus-Dieter Mathes, für die vielen anregenden Diskussionen und die Hilfe bei der Korrektur des Manuskripts.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "THE_LAGHUTANTRATIKA_reduced",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/THE_LAGHUTANTRATIKA_reduced.txt",
+ "meta": {
+  "title": "The Laghutantraṭīkā by Vajrapāṇi",
+  "author": "Cicuzza, Claudio",
+  "year": 2001,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

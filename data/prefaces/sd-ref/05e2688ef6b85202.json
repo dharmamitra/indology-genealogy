@@ -1,0 +1,155 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Pasang Wangdu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  },
+  {
+   "name": "Hildegard Diemberger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  },
+  {
+   "name": "Charles Ramble",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Per Sørensen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Andre Gingrich",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Anthropology"
+  },
+  {
+   "name": "Ernst Steinkellner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  },
+  {
+   "name": "Tshewang Gyurme",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Phuntshog Tshering",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Pasang Wangdu",
+   "type": "collaborated_with",
+   "object": "Hildegard Diemberger",
+   "role": "co-translators / co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Translation and Facsimile Edition of the Tibetan Text by Pasang Wangdu and Hildegard Diemberger",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Pasang Wangdu",
+   "type": "collaborated_with",
+   "object": "Charles Ramble",
+   "role": "collaborator and editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "most notably Charles Ramble, whom we wish to thank for the generosity of his collaboration, for his useful suggestions and for his editing of the English text.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hildegard Diemberger",
+   "type": "collaborated_with",
+   "object": "Charles Ramble",
+   "role": "collaborator and editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "most notably Charles Ramble, whom we wish to thank for the generosity of his collaboration, for his useful suggestions and for his editing of the English text.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Andre Gingrich",
+   "type": "position_at",
+   "object": "Institute for Social and Cultural Anthropology, University of Vienna",
+   "role": "Professor",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professors Andre Gingrich (Institute for Social and Cultural Anthropology, University of Vienna)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Steinkellner",
+   "type": "position_at",
+   "object": "Institute for Tibetan and Buddhist Studies, University of Vienna",
+   "role": "Professor",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ernst Steinkellner (Institute for Tibetan and Buddhist Studies, University of Vienna)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tshewang Gyurme",
+   "type": "position_at",
+   "object": "Tibetan Academy of Social Sciences",
+   "role": "President",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Tshewang Gyurme and Phuntshog Tshering, respectively the current and former Presidents of the Tibetan Academy of Social Sciences",
+   "quote_ok": true
+  },
+  {
+   "subject": "Phuntshog Tshering",
+   "type": "position_at",
+   "object": "Tibetan Academy of Social Sciences",
+   "role": "former President",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Tshewang Gyurme and Phuntshog Tshering, respectively the current and former Presidents of the Tibetan Academy of Social Sciences",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Wangdu and Diemberger_Dba' bzhed",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Wangdu and Diemberger_Dba' bzhed.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

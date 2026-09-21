@@ -1,0 +1,78 @@
+{
+ "author": "Thupten Jinpa",
+ "doc_kind": "monograph",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Thupten Jinpa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Dalai Lama",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Kyapjé Zemey Rinpoché",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Geshe Lobsang Choedar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Thupten Jinpa",
+   "type": "student_of",
+   "object": "Dalai Lama",
+   "role": "traditional teacher",
+   "place": "India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "First of all I would like to express my deepest appreciation and respects to all my teachers, especially His Holiness the Dalai Lama and Kyapjé Zemey Rinpoché.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thupten Jinpa",
+   "type": "student_of",
+   "object": "Kyapjé Zemey Rinpoché",
+   "role": "traditional teacher",
+   "place": "India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "First of all I would like to express my deepest appreciation and respects to all my teachers, especially His Holiness the Dalai Lama and Kyapjé Zemey Rinpoché.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thupten Jinpa",
+   "type": "collaborated_with",
+   "object": "Geshe Lobsang Choedar",
+   "role": "co-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Geshe Lobsang Choedar, my co-editor for the critical edi- tion of the Tibetan volume of the anthology, helped in comparing the dif- ferent editions of the individual texts",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Library of Tibetan Classics_Mind Training_The Great Collection",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Library of Tibetan Classics_Mind Training_The Great Collection.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

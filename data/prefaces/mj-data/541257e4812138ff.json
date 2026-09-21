@@ -1,0 +1,90 @@
+{
+ "author": "向井亮",
+ "doc_kind": "article",
+ "doc_year": 1991,
+ "people": [
+  {
+   "name": "向井亮",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "ツルティム・ケサン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetology"
+  },
+  {
+   "name": "小谷信千代",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "長尾雅人",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "桜部建",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ツルティム・ケサン",
+   "type": "collaborated_with",
+   "object": "小谷信千代",
+   "role": "co-translators",
+   "place": null,
+   "year_start": null,
+   "year_end": 1991,
+   "explicit": true,
+   "evidence": "ツルティム・ケサン 小谷信千代 共訳 ツォンカパ著『仏教瑜伽行思想の研究』",
+   "quote_ok": false
+  },
+  {
+   "subject": "小谷信千代",
+   "type": "influenced_by",
+   "object": "長尾雅人",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "小谷信千代氏は、本訳書の「はしがき」の中で「われわれのこの仕事は〔長尾〕博士の偉業に導かれて歩みを開始したそのささやかな第一歩を記すもの」であり、本研究成果の刊行によって博士の学恩に報いたい旨のことばを記している。",
+   "quote_ok": false
+  },
+  {
+   "subject": "小谷信千代",
+   "type": "influenced_by",
+   "object": "桜部建",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "注記には桜部建博士から寄せられた教示が加えられている",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Mukai_向井亮_1991",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Mukai_向井亮_1991.txt",
+ "meta": {
+  "title": "ツォンカパ著『仏教瑜伽行思想の研究』書評・紹介",
+  "author": "向井, 亮",
+  "year": 1991,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

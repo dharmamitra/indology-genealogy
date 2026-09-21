@@ -1,0 +1,92 @@
+{
+ "people": [
+  {
+   "name": "崔恩英",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "KR",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "山部能宜",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "JP",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "荒牧典俊",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "JP",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "張文良",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "CN",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "崔恩英",
+   "type": "position_at",
+   "object": "金剛大学校",
+   "role": "教授",
+   "place": "韓国",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "崔 恩英** (韓國 金剛大学校) / 崔教授",
+   "quote_ok": false
+  },
+  {
+   "subject": "山部能宜",
+   "type": "student_of",
+   "object": "荒牧典俊",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "私の大学院時代の指導教官であった荒牧典俊教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "山部能宜",
+   "type": "position_at",
+   "object": "早稲田大学",
+   "role": "文学学術院教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "*早稲田大学文学学術院教授。",
+   "quote_ok": true
+  },
+  {
+   "subject": "張文良",
+   "type": "position_at",
+   "object": "中国人民大学",
+   "role": "仏教与宗教学理論研究所教授",
+   "place": "中国",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "張 文 良** (中国 中国人民大学) ... **中国人民大学仏教与宗教学理論研究所教授。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Choi_崔恩英_2018@北朝 かい稠禪師の習禪法_付コメント山部能宜",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Choi_崔恩英_2018@北朝 かい稠禪師の習禪法_付コメント山部能宜.txt",
+ "meta": {
+  "title": "北朝 僧稠禪師の習禪法*",
+  "author": "Choi, Eun-Young",
+  "year": 2018,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

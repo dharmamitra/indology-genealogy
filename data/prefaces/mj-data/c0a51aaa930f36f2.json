@@ -1,0 +1,102 @@
+{
+ "author": "Janice Dean Willis",
+ "doc_kind": "dissertation",
+ "doc_year": 1976,
+ "people": [
+  {
+   "name": "Janice Dean Willis",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Thubten Yeshe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Alex Wayman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Chandradhar Sharma",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indian philosophy"
+  },
+  {
+   "name": "Herman Blake",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Janice Dean Willis",
+   "type": "student_of",
+   "object": "Thubten Yeshe",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "kalyānamitra of six years, Lama Thubten Yeshe. How does one ever thank such a one?",
+   "quote_ok": true
+  },
+  {
+   "subject": "Janice Dean Willis",
+   "type": "student_of",
+   "object": "Alex Wayman",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1976,
+   "explicit": true,
+   "evidence": "No one was more valued as teacher and guide through- out the entire undertaking as my mentor and friend, Prof. Alex Wayman of Columbia University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alex Wayman",
+   "type": "position_at",
+   "object": "Columbia University",
+   "role": "Prof.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. Alex Wayman of Columbia University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Herman Blake",
+   "type": "position_at",
+   "object": "Oakes College, University of California at Santa Cruz",
+   "role": "Provost",
+   "place": "Santa Cruz",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the Provost of Oakes College, University of California at Santa Cruz, Herman Blake.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Jan_Willis_dissert",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Jan_Willis_dissert.txt",
+ "meta": {
+  "title": "A STUDY OF THE CHAPTER ON REALITY, BASED UPON THE TATTVARTHA-PATALAM OF ASANGA'S BODHISATTVABHUMI.",
+  "author": "Willis, Janice Dean",
+  "year": 1976,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

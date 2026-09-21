@@ -1,0 +1,71 @@
+{
+ "author": "Gary Snyder",
+ "doc_kind": "monograph",
+ "doc_year": 2016,
+ "people": [
+  {
+   "name": "Tatewaki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "botany"
+  },
+  {
+   "name": "Miyabe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "botany"
+  },
+  {
+   "name": "Toyama",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "botany"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Tatewaki",
+   "type": "student_of",
+   "object": "Miyabe",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "\"Dr. Miyabe, my teacher",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tatewaki",
+   "type": "position_at",
+   "object": "Hokkaido University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Later I meet Dr. Tatewaki at his office in the dark cement corridors of the building of the Faculty of Agriculture at Hokkaido University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Toyama",
+   "type": "student_of",
+   "object": "Tatewaki",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Toyama, his former student, shows slides",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Great Clod Notes and Memoirs on Nature and History in East Asia_Gary Snyder, 2016_x",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Great Clod Notes and Memoirs on Nature and History in East Asia_Gary Snyder, 2016_x.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

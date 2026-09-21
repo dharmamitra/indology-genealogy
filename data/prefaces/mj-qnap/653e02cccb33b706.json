@@ -1,0 +1,57 @@
+{
+ "author": "Stephan Beyer",
+ "doc_kind": "monograph",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Stephan Beyer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Richard Robinson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indian Studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Stephan Beyer",
+   "type": "student_of",
+   "object": "Richard Robinson",
+   "role": "teacher",
+   "place": "University of Wisconsin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "to my late teacher Richard Robinson, of the Department of Indian Studies, University of Wisconsin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Robinson",
+   "type": "position_at",
+   "object": "University of Wisconsin",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Richard Robinson, of the Department of Indian Studies, University of Wisconsin",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Beyer-Tara-1973",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Beyer-Tara-1973.txt",
+ "meta": {
+  "title": "MAGIC AND RITUAL IN TIBET: The Cult of Tara",
+  "author": "Beyer, Stephan",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

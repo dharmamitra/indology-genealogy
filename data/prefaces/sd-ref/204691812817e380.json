@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "festschrift",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Robert Faurisson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "modern and contemporary French literature"
+  },
+  {
+   "name": "Butz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "Electrical and Computer Engineering"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Robert Faurisson",
+   "type": "studied_at",
+   "object": "Sorbonne",
+   "role": "doctorate in “literature and the social sciences\"",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He pursued his studies in classics in Sorbonne. He holds the agrégation des lettres (French, Latin, Greek) and a doctorate in “literature and the social sciences.\"",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Faurisson",
+   "type": "position_at",
+   "object": "Sorbonne",
+   "role": "taught modern and contemporary French literature",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He taught modern and contemporary French literature at the Sorbonne.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Butz",
+   "type": "position_at",
+   "object": "Northwestern University",
+   "role": "Associate Professor of Electrical and Computer Engineering",
+   "place": "Evanston, Illinois",
+   "year_start": 1966,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1966 he joined the faculty of Northwestern University, Evanston, Illinois, where he is now Associate Professor of Electrical and Computer Engineering.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Exactitude. festschrift for robert faurisson",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Exactitude. festschrift for robert faurisson.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

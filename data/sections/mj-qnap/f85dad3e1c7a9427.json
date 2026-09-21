@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1853,
+ "people": [
+  {
+   "name": "James Atkinson",
+   "birth_year": 1780,
+   "death_year": 1852,
+   "nationality": "British",
+   "field": "Oriental languages"
+  },
+  {
+   "name": "Wilson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Atkinson",
+   "type": "position_at",
+   "object": "College of Fort William",
+   "role": "Assistant Persian Professor",
+   "place": "Calcutta",
+   "year_start": 1818,
+   "year_end": 1818,
+   "explicit": true,
+   "evidence": "with a brief interval in 1818, during which he officiated as Assistant Persian Professor in the College of Fort William",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Atkinson",
+   "type": "collaborated_with",
+   "object": "Wilson",
+   "role": null,
+   "place": "Calcutta",
+   "year_start": 1823,
+   "year_end": 1823,
+   "explicit": true,
+   "evidence": "In the same year appeared the first volume of a work, partly original, partly compiled by Mr. Atkinson, in conjunction with Mr. Wilson, the \"Calcutta Annual",
+   "quote_ok": true
+  }
+ ],
+ "docid": "JRASGBI15a",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/JRASGBI15a.txt#0",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

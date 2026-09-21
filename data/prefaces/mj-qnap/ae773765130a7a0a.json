@@ -1,0 +1,119 @@
+{
+ "author": "井狩 彌介",
+ "doc_kind": "other",
+ "doc_year": 2001,
+ "people": [
+  {
+   "name": "井狩 彌介",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indology"
+  },
+  {
+   "name": "Michael Witzel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Karl Hoffmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Willem Caland",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Dutch",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "井狩 彌介",
+   "type": "position_at",
+   "object": "京都大学・人文科学研究所",
+   "role": "教授",
+   "place": "Kyoto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "研究代表者：井狩 彌介（京都大学・人文科学研究所・教授）",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Witzel",
+   "type": "position_at",
+   "object": "ハーヴァード大学・人文学部",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "国際研究協力者：ミハエル・ヴィツェル （ハーヴァード大学・人文学部・教授）",
+   "quote_ok": true
+  },
+  {
+   "subject": "井狩 彌介",
+   "type": "collaborated_with",
+   "object": "Michael Witzel",
+   "role": "joint research / translation and notes",
+   "place": null,
+   "year_start": 1999,
+   "year_end": 2001,
+   "explicit": true,
+   "evidence": "研究代表者：井狩 彌介 ... 国際研究協力者：ミハエル・ヴィツェル ... その批判テキストに基づいて井狩と研究協力者 Witzel 教授が議論を重ねて訳注を作成した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "井狩 彌介",
+   "type": "position_at",
+   "object": "ハーヴァード大学",
+   "role": "客員研究員",
+   "place": null,
+   "year_start": 1989,
+   "year_end": 1989,
+   "explicit": true,
+   "evidence": "本研究代表者・井狩は、1989年に客員研究員としてハーヴァード大学に滞在中、同大学のWitzel教授から同氏の蒐集した写本資料の提供を受けて",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Hoffmann",
+   "type": "position_at",
+   "object": "エアランゲン大学",
+   "role": "教授",
+   "place": "Germany",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ドイツのエアランゲン大学の故Karl Hoffmann教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Witzel",
+   "type": "collaborated_with",
+   "object": "Karl Hoffmann",
+   "role": "project member",
+   "place": "Erlangen",
+   "year_start": 1965,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "彼はドイツのエアランゲン大学の故Karl Hoffmann教授を中心とした1960年代後半の現存ヴェーダ写本蒐集プロジェクトにおいて広範な現地調査を自ら敢行し",
+   "quote_ok": true
+  }
+ ],
+ "docid": "ikari-kaken-2001",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/ikari-kaken-2001.txt",
+ "meta": {
+  "title": "ヴェーダ・ヴァードゥーラ学派文献の総合研究",
+  "author": "井狩, 彌介",
+  "year": 2001,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,83 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1994,
+ "people": [
+  {
+   "name": "福島光哉",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "鍵主良敬",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "寺川俊昭",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "竺沙雅章",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Sinology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "福島光哉",
+   "type": "student_of",
+   "object": "鍵主良敬",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1994,
+   "explicit": true,
+   "evidence": "論文審査委員 (主査)教授 鍵主良敬",
+   "quote_ok": false
+  },
+  {
+   "subject": "福島光哉",
+   "type": "student_of",
+   "object": "寺川俊昭",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1994,
+   "explicit": true,
+   "evidence": "論文審査委員 ... (副査)教授 寺川俊昭",
+   "quote_ok": false
+  },
+  {
+   "subject": "福島光哉",
+   "type": "student_of",
+   "object": "竺沙雅章",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1994,
+   "explicit": true,
+   "evidence": "論文審査委員 ... (副査)教授 竺沙雅章",
+   "quote_ok": false
+  }
+ ],
+ "docid": "大谷学報74.1_大谷学会",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/大谷学報74.1_大谷学会.txt",
+ "meta": {
+  "title": "大谷学報 第74巻第1号",
+  "author": "大谷学会",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,159 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 1999,
+ "people": [
+  {
+   "name": "NUMATA Yehan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Rolf Giebel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "New Zealander",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Rudy Smet",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Belgian",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "MAYEDA Sengaku",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indology"
+  },
+  {
+   "name": "Philip Yampolsky",
+   "birth_year": null,
+   "death_year": 1996,
+   "nationality": "American",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Kenneth Inada",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Kiyoshi S. Yamashita",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "NUMATA Yehan",
+   "type": "founded",
+   "object": "English Tripitaka Project",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Founder of the English Tripitaka Project [...] as Dr. NUMATA wished",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rolf Giebel",
+   "type": "position_at",
+   "object": "Translation Committee of the English Tripitaka",
+   "role": "Committee member",
+   "place": null,
+   "year_start": 1982,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "By July of the same year, the Translation Committee of the English Tripitaka was officially convened. The initial Committee consisted of the following members: Rolf Giebel of New Zealand",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rudy Smet",
+   "type": "position_at",
+   "object": "Translation Committee of the English Tripitaka",
+   "role": "Committee member",
+   "place": null,
+   "year_start": 1982,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "By July of the same year, the Translation Committee of the English Tripitaka was officially convened. The initial Committee consisted of the following members: [...] and Rudy Smet of Belgium.",
+   "quote_ok": true
+  },
+  {
+   "subject": "MAYEDA Sengaku",
+   "type": "position_at",
+   "object": "Translation Committee of the English Tripitaka",
+   "role": "Committee member",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The present members of the Committee are MAYEDA Sengaku",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philip Yampolsky",
+   "type": "position_at",
+   "object": "Publication Committee at the Numata Center",
+   "role": "Chairperson",
+   "place": "Berkeley, California",
+   "year_start": 1991,
+   "year_end": 1996,
+   "explicit": true,
+   "evidence": "In December 1991, the Publication Committee was organized at the Numata Center, with Professor Philip Yampolsky as the Chairperson. To our sorrow, Professor Yampolsky passed away in July 1996",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kenneth Inada",
+   "type": "position_at",
+   "object": "Publication Committee at the Numata Center",
+   "role": "Chairperson",
+   "place": "Berkeley, California",
+   "year_start": 1997,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In July 1996, the Committee unfortunately lost its valued Chairperson, Dr. Philip Yampolsky [...] In February 1997, I was appointed to guide the Committee in his place. [Kenneth Inada, Chairperson]",
+   "quote_ok": false
+  },
+  {
+   "subject": "Kenneth Inada",
+   "type": "succeeded",
+   "object": "Philip Yampolsky",
+   "role": "Chairperson, Publication Committee",
+   "place": "Numata Center",
+   "year_start": 1997,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Yampolsky passed away in July 1996, but thankfully Dr. Kenneth Inada is continuing the work as Chairperson. [...] In February 1997, I was appointed to guide the Committee in his place.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kiyoshi S. Yamashita",
+   "type": "position_at",
+   "object": "Numata Center for Buddhist Translation and Research",
+   "role": "president and director",
+   "place": "Berkeley, California",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the president and director of the Numata Center, Reverend Kiyoshi S. Yamashita.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Three Texts on Consciousness Only (Ch'eng wei-shih lun)_Hsuan-Tsang, Vasubandhu _Francis H. Cook (Tr), 1999",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Three Texts on Consciousness Only (Ch'eng wei-shih lun)_Hsuan-Tsang, Vasubandhu _Francis H. Cook (Tr), 1999.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

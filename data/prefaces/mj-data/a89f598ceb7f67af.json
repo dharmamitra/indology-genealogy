@@ -1,0 +1,160 @@
+{
+ "author": "Jan Nattier",
+ "doc_kind": "dissertation",
+ "doc_year": 1988,
+ "people": [
+  {
+   "name": "Jan Nattier"
+  },
+  {
+   "name": "Gombojab Hangin"
+  },
+  {
+   "name": "John Krueger"
+  },
+  {
+   "name": "Helmut Hoffmann"
+  },
+  {
+   "name": "Larry Clark"
+  },
+  {
+   "name": "Francis Cleaves"
+  },
+  {
+   "name": "Richard Frye"
+  },
+  {
+   "name": "John McRae"
+  },
+  {
+   "name": "Masatoshi Nagatomi"
+  },
+  {
+   "name": "Calvin Roetzel"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jan Nattier",
+   "type": "studied_at",
+   "object": "Indiana University in Bloomington",
+   "explicit": true,
+   "evidence": "I must begin with my first teachers in the Central Asian field, at Indiana University in Bloomington.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Nattier",
+   "type": "student_of",
+   "object": "Gombojab Hangin",
+   "role": "teacher",
+   "explicit": true,
+   "evidence": "I must begin with my first teachers in the Central Asian field, at Indiana University in Bloomington. Gombojab Hangin and John Krueger, who introduced me to the study of Mongolian",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Nattier",
+   "type": "student_of",
+   "object": "John Krueger",
+   "role": "teacher",
+   "explicit": true,
+   "evidence": "I must begin with my first teachers in the Central Asian field, at Indiana University in Bloomington. Gombojab Hangin and John Krueger, who introduced me to the study of Mongolian",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Nattier",
+   "type": "student_of",
+   "object": "Helmut Hoffmann",
+   "role": "teacher",
+   "explicit": true,
+   "evidence": "I must begin with my first teachers in the Central Asian field, at Indiana University in Bloomington. ... Helmut Hoffmann, who awakened my interest in Classical Tibetan",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Nattier",
+   "type": "student_of",
+   "object": "Larry Clark",
+   "role": "teacher",
+   "explicit": true,
+   "evidence": "I must begin with my first teachers in the Central Asian field, at Indiana University in Bloomington. ... and Larry Clark, who introduced me to the fascinating and perplexing religious literature",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Nattier",
+   "type": "studied_at",
+   "object": "Harvard",
+   "year_end": 1988,
+   "explicit": true,
+   "evidence": "At Harvard it has been a great privilege for me to study the Mongolian language with Francis Cleaves",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Nattier",
+   "type": "student_of",
+   "object": "Francis Cleaves",
+   "role": "doctoral supervisor",
+   "year_end": 1988,
+   "explicit": true,
+   "evidence": "At Harvard it has been a great privilege for me to study the Mongolian language with Francis Cleaves... As thesis advisor for the Mongolian portion of this project",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Nattier",
+   "type": "student_of",
+   "object": "Richard Frye",
+   "role": "committee member",
+   "year_end": 1988,
+   "explicit": true,
+   "evidence": "Richard Frye has been responsible for introducing me to the Iranian language family... In addition to these four members of my thesis committee",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Nattier",
+   "type": "student_of",
+   "object": "John McRae",
+   "role": "committee member",
+   "year_end": 1988,
+   "explicit": true,
+   "evidence": "John McRae has served as a fount of information on Chinese Buddhist topics... In addition to these four members of my thesis committee",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Nattier",
+   "type": "student_of",
+   "object": "Masatoshi Nagatomi",
+   "role": "doctoral supervisor",
+   "year_end": 1988,
+   "explicit": true,
+   "evidence": "Finally, Masatoshi Nagatomi has been my academic advisor and friend throughout my long and sometimes trying years at Harvard... In addition to these four members of my thesis committee",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Nattier",
+   "type": "position_at",
+   "object": "Macalester College",
+   "role": "junior visiting lecturer",
+   "explicit": true,
+   "evidence": "while in Minnesota my depart- ment chairman at Macalester College, Calvin Roetzel, managed to create an atmosphere in which a junior visiting lecturer could manage to teach four new courses",
+   "quote_ok": true
+  },
+  {
+   "subject": "Calvin Roetzel",
+   "type": "position_at",
+   "object": "Macalester College",
+   "role": "department chairman",
+   "explicit": true,
+   "evidence": "while in Minnesota my depart- ment chairman at Macalester College, Calvin Roetzel",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Nattier-Candragarbha",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Nattier-Candragarbha.txt",
+ "meta": {
+  "title": "The \"Candragarbha-sūtra\" in central and east Asia: Studies in a Buddhist prophecy of decline",
+  "author": "Nattier, Jan",
+  "year": 1988,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

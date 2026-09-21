@@ -1,0 +1,89 @@
+{
+ "people": [
+  {
+   "name": "和田壽弘",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indology"
+  },
+  {
+   "name": "丸井浩",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indology"
+  },
+  {
+   "name": "福田洋一",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "MATSUMOTO Shirō",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "KANAZAWA Atsushi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "KIMURA Seiji",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "YOTSUYA Kōdō",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist Studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "丸井浩",
+   "type": "position_at",
+   "object": "東京大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "基盤研究A「インド哲学諸派における〈存在〉をめぐる議論の解明」(研究代表者:丸井浩 東京大学教授)",
+   "quote_ok": true
+  },
+  {
+   "subject": "KANAZAWA Atsushi",
+   "type": "position_at",
+   "object": "Komazawa University",
+   "role": null,
+   "place": "Faculty of Buddhism",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "c/o Kanazawa Atsushi\nFaculty of Buddhism, Komazawa University",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wada (2012) 新ニヤーヤ学派における非存在（abhava)の成立要件：反存在（pratiyogin)の観点から",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Wada (2012) 新ニヤーヤ学派における非存在（abhava)の成立要件：反存在（pratiyogin)の観点から.txt",
+ "meta": {
+  "title": "新ニヤーヤ学派における非存在（abhava)の成立要件：反存在（pratiyogin)の観点から",
+  "author": "和田 壽弘",
+  "year": 2012,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

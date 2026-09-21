@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "元盧",
+   "birth_year": 1717,
+   "death_year": 1789,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "白隱",
+   "birth_year": null,
+   "death_year": 1768,
+   "nationality": "Japanese",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "元盧",
+   "type": "student_of",
+   "object": "白隱",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1750,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "寬延三年冬、播磨龍谷寺に再び白隱に謁す。",
+   "quote_ok": true
+  },
+  {
+   "subject": "元盧",
+   "type": "position_at",
+   "object": "妙心寺",
+   "role": "第一座",
+   "place": null,
+   "year_start": 1764,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "明和元年三月、妙心寺第一座に登り",
+   "quote_ok": true
+  },
+  {
+   "subject": "元盧",
+   "type": "succeeded",
+   "object": "白隱",
+   "role": null,
+   "place": "松蔭寺",
+   "year_start": 1768,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "五年十二月白隱の寂後其の席を繼ぐ。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Vol 1",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Vol 1.txt#1",
+ "meta": {
+  "title": "望月佛教大辭典",
+  "author": "望月信亨",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

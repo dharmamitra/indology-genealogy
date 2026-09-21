@@ -1,0 +1,122 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 1952,
+ "people": [
+  {
+   "name": "山口益",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "春日井眞也",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "前田贖瑞",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "高畠寛我",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "小西存祐",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "木村秀雄",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "山口益",
+   "type": "collaborated_with",
+   "object": "春日井眞也",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1952,
+   "explicit": true,
+   "evidence": "施設論攻(山口益・春日井眞也)",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "前田贖瑞",
+   "type": "position_at",
+   "object": "佛教大學",
+   "role": "本學教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "今回、本學教授前田贖瑞、現學長高畠寛我兩先生の還歴を迎へ",
+   "quote_ok": true
+  },
+  {
+   "subject": "高畠寛我",
+   "type": "position_at",
+   "object": "佛教大學",
+   "role": "現學長",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "今回、本學教授前田贖瑞、現學長高畠寛我兩先生の還歴を迎へ",
+   "quote_ok": true
+  },
+  {
+   "subject": "小西存祐",
+   "type": "position_at",
+   "object": "佛教大學",
+   "role": "前學長",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "本學昇格の爲に献身的な努力を傾倒された前學長小西存祐先生",
+   "quote_ok": true
+  },
+  {
+   "subject": "木村秀雄",
+   "type": "position_at",
+   "object": "佛教大學",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "木村秀雄教授の分は、御寄稿の都合により最後に掲載し",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Yamaguchi-Kasugai_山口益-春日井眞也_1952@施設論攷",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Yamaguchi-Kasugai_山口益-春日井眞也_1952@施設論攷.txt",
+ "meta": {
+  "title": "施設論攷",
+  "author": "山口益・春日井眞也",
+  "year": 1952,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

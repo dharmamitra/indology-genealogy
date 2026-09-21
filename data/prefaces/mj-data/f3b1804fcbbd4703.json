@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "横山剛",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "斎藤明",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "フラウワルナー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Austria",
+   "field": "Indology"
+  },
+  {
+   "name": "石田 尚敬",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "高橋孝信",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indology"
+  },
+  {
+   "name": "梶原三恵子",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indology"
+  },
+  {
+   "name": "下田正弘",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "丸井浩",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indian philosophy"
+  },
+  {
+   "name": "蓑輪顕量",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "横山剛",
+   "type": "studied_at",
+   "object": "京都大学大学院",
+   "role": "博士課程",
+   "place": "Kyoto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "よこやま たけし\n京都大学大学院博士課程",
+   "quote_ok": true
+  },
+  {
+   "subject": "斎藤明",
+   "type": "position_at",
+   "object": "International College for Postgraduate Buddhist Studies",
+   "role": "Professor",
+   "place": "Tokyo",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "斎藤明 さいとう あきら Professor, 横山剛 International College for Postgraduate Buddhist Studies",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "フラウワルナー",
+   "type": "position_at",
+   "object": "ウィーン大学",
+   "role": "教授",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ウィーン大学の碩学フラウワルナー教授により「仏教認識論・論理学派」",
+   "quote_ok": true
+  },
+  {
+   "subject": "高橋孝信",
+   "type": "collaborated_with",
+   "object": "斎藤明",
+   "role": "co-editor",
+   "place": null,
+   "year_start": 2017,
+   "year_end": 2017,
+   "explicit": true,
+   "evidence": "編集委員会:高橋孝信(委員長),梶原三恵子,斎藤明,下田正弘,\n丸井浩,蓑輪顕量",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Yokoyama_横山剛_2017@中観派におけるprajnaの定義的用例 -『中観五蘊論』に基づく訳語の検討-",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Yokoyama_横山剛_2017@中観派におけるprajnaの定義的用例 -『中観五蘊論』に基づく訳語の検討-.txt",
+ "meta": {
+  "title": "中観派における prajñā の定義的用例 ——『中観五蘊論』に基づく訳語の検討——",
+  "author": "横山, 剛",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

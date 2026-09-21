@@ -1,0 +1,71 @@
+{
+ "author": "丘山新",
+ "doc_kind": "article",
+ "doc_year": 1978,
+ "people": [
+  {
+   "name": "丘山新",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "エチエンヌ・ラモット",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "加藤純章",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "玉城康四郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "加藤純章",
+   "type": "collaborated_with",
+   "object": "エチエンヌ・ラモット",
+   "role": "translator",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "特別寄稿 大智度論の引用文献とその価値…………………………………エチエンヌ・ラモット 加 藤 純 章 訳",
+   "quote_ok": true
+  },
+  {
+   "subject": "丘山新",
+   "type": "influenced_by",
+   "object": "玉城康四郎",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "玉城博士はその著作のなかで「たとえば」となし……ひとつの結論として……といわれる。この点に関して筆者もまったく同感である。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Okayama_197804_丘山新",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Okayama_197804_丘山新.txt",
+ "meta": {
+  "title": "『十地経』「三界唯心」の原典解明",
+  "author": "丘山, 新",
+  "year": 1978,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

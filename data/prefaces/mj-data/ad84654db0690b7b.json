@@ -1,0 +1,157 @@
+{
+ "author": "藤井修平",
+ "doc_kind": "article",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "藤井修平",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Religious Studies"
+  },
+  {
+   "name": "Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "Jack Kornfield",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": null
+  },
+  {
+   "name": "Joseph Goldstein",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": null
+  },
+  {
+   "name": "Jon Kabat-Zinn",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "Molecular Biology"
+  },
+  {
+   "name": "Philip Kapleau",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Rhys Davids",
+   "type": "founded",
+   "object": "パーリ聖典協会",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "パーリ聖典協会を設立したイギリス人のリース・デーヴィッズ",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jack Kornfield",
+   "type": "founded",
+   "object": "インサイト・メディテーション協会",
+   "role": "創立者",
+   "place": "マサチューセッツ州",
+   "year_start": 1976,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1976年にインサイト・メディテーション協会が生まれた。創立者のジャック・コーンフィルドとジョゼフ・ゴールドスティーンは",
+   "quote_ok": false
+  },
+  {
+   "subject": "Joseph Goldstein",
+   "type": "founded",
+   "object": "インサイト・メディテーション協会",
+   "role": "創立者",
+   "place": "マサチューセッツ州",
+   "year_start": 1976,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1976年にインサイト・メディテーション協会が生まれた。創立者のジャック・コーンフィルドとジョゼフ・ゴールドスティーンは",
+   "quote_ok": false
+  },
+  {
+   "subject": "Jon Kabat-Zinn",
+   "type": "student_of",
+   "object": "Jack Kornfield",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "後述するマインドフルネス療法の創始者カバットジンもまた、コーンフィルドとゴールドスティーンの下で学んでいる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jon Kabat-Zinn",
+   "type": "student_of",
+   "object": "Joseph Goldstein",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "後述するマインドフルネス療法の創始者カバットジンもまた、コーンフィルドとゴールドスティーンの下で学んでいる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jon Kabat-Zinn",
+   "type": "student_of",
+   "object": "Philip Kapleau",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ティク・ナット・ハンや三宝教団系のフィリップ・カプロー、韓国系の観音禅(Kwan Um)に学んだが",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jon Kabat-Zinn",
+   "type": "studied_at",
+   "object": "マサチューセッツ工科大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "カバットジンは東欧系ユダヤ人の家系で、マサチューセッツ工科大学に通う傍ら",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jon Kabat-Zinn",
+   "type": "position_at",
+   "object": "マサチューセッツ大学医学部",
+   "role": "分子生物学者",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "マサチューセッツ大学医学部の分子生物学者、ジョン・カバットジンに由来している。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Fujii_藤井修平_2017@マインドフルネスの由来と展開―現代における仏教と心理学の結びつきの例として―",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Fujii_藤井修平_2017@マインドフルネスの由来と展開―現代における仏教と心理学の結びつきの例として―.txt",
+ "meta": {
+  "title": "マインドフルネスの由来と展開―現代における仏教と心理学の結びつきの例として―",
+  "author": "藤井, 修平",
+  "year": 2017,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

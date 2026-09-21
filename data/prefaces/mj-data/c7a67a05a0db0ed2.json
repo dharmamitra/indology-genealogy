@@ -1,0 +1,119 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1999,
+ "people": [
+  {
+   "name": "陳来",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "China",
+   "field": "philosophy"
+  },
+  {
+   "name": "エリック・チュルヒャー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sinology"
+  },
+  {
+   "name": "高橋佳典",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "永井弥人",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "陳来",
+   "type": "studied_at",
+   "object": "中南工業大学地質系",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1976,
+   "explicit": true,
+   "evidence": "陳来一九七六年中南工業大学地質系卒業。",
+   "quote_ok": true
+  },
+  {
+   "subject": "陳来",
+   "type": "studied_at",
+   "object": "北京大学哲学系",
+   "role": "哲学碩士",
+   "place": null,
+   "year_start": null,
+   "year_end": 1981,
+   "explicit": true,
+   "evidence": "一九八一年北京大学哲学系研究生卒業、哲学碩士。",
+   "quote_ok": true
+  },
+  {
+   "subject": "陳来",
+   "type": "studied_at",
+   "object": "北京大学",
+   "role": "哲学博士",
+   "place": null,
+   "year_start": null,
+   "year_end": 1985,
+   "explicit": true,
+   "evidence": "一九八五年北京大学哲学博士。",
+   "quote_ok": true
+  },
+  {
+   "subject": "陳来",
+   "type": "position_at",
+   "object": "北京大学哲学系",
+   "role": "副教授",
+   "place": null,
+   "year_start": 1986,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "一九八六年北京大学哲学系副教授。",
+   "quote_ok": true
+  },
+  {
+   "subject": "陳来",
+   "type": "position_at",
+   "object": "北京大学哲学系",
+   "role": "教授",
+   "place": null,
+   "year_start": 1990,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "一九九〇年北京大学哲学系教授。北京大学哲学系中国哲学教研室主任。",
+   "quote_ok": true
+  },
+  {
+   "subject": "高橋佳典",
+   "type": "collaborated_with",
+   "object": "永井弥人",
+   "role": "co-translators",
+   "place": null,
+   "year_start": 1999,
+   "year_end": 1999,
+   "explicit": true,
+   "evidence": "エリック・チュルヒャー (高橋佳典・永井弥人訳)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Zurcher_1999",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Zurcher_1999.txt",
+ "meta": {
+  "title": "HAN BUDDHISM AND THE WESTERN REGION",
+  "author": "Zurcher, E",
+  "year": 1999,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

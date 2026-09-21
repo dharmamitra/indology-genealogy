@@ -1,0 +1,133 @@
+{
+ "author": "Akira Yuyama",
+ "doc_kind": "monograph",
+ "doc_year": 2000,
+ "people": [
+  {
+   "name": "Eugène Burnouf",
+   "birth_year": 1801,
+   "death_year": 1852,
+   "nationality": "French",
+   "field": null
+  },
+  {
+   "name": "Jules Mohl",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Christian Lassen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sir Harold Walter Bailey",
+   "birth_year": 1899,
+   "death_year": 1996,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Carl Friedrich Gauss",
+   "birth_year": 1777,
+   "death_year": 1855,
+   "nationality": null,
+   "field": "mathematics, physics, astronomy and geodetics"
+  },
+  {
+   "name": "Heinrich Georg August Ewald",
+   "birth_year": 1803,
+   "death_year": 1915,
+   "nationality": null,
+   "field": "theologian and Orientalist"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Eugène Burnouf",
+   "type": "position_at",
+   "object": "Imprimerie Royale",
+   "role": "Inspecteur de la typographie orientale",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He held important positions, including among others “Inspecteur de la typographie orientale à l'Imprimerie Royale”",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eugène Burnouf",
+   "type": "position_at",
+   "object": "Société asiatique",
+   "role": "secrétaire",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": 1852,
+   "explicit": true,
+   "evidence": "La Société asiatique vient de faire une perte irréparable dans la personne de son secrétaire, M. Burnouf, décédé à Paris, le 28 mai.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jules Mohl",
+   "type": "succeeded",
+   "object": "Eugène Burnouf",
+   "role": null,
+   "place": "Société asiatique",
+   "year_start": 1852,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Jules Mohl, the respected colleague who succeeded Eugène Burnouf, though a year senior to him, had to conduct the annual session of the Asiatic Society of Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eugène Burnouf",
+   "type": "collaborated_with",
+   "object": "Christian Lassen",
+   "role": null,
+   "place": "Paris",
+   "year_start": 1825,
+   "year_end": 1825,
+   "explicit": true,
+   "evidence": "M. Burnouf s'adjoignit M. Lassen, et les deux amis présentèrent, en 1825, à la Société asiatique, leur Essai sur le pali",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir Harold Walter Bailey",
+   "type": "position_at",
+   "object": "Cambridge",
+   "role": null,
+   "place": null,
+   "year_start": 1938,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I would not hesitate to cite the inaugural lecture given at Cambridge by Sir Harold Walter Bailey (1899-1996) on 2 May 1938",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Friedrich Gauss",
+   "type": "other",
+   "object": "Heinrich Georg August Ewald",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "was an intimate friend of the famed theologian and Orientalist Heinrich Georg August Ewald (1803-1915)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Akira Yuyama 2000 Eugène Burnouf, The Background to his Research into the Lotus Sutra BPPB-03",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Akira Yuyama 2000 Eugène Burnouf, The Background to his Research into the Lotus Sutra BPPB-03.txt#14",
+ "meta": {
+  "title": "Eugène Burnouf: The Background to his Research into the Lotus Sutra",
+  "author": "Yuyama, Akira",
+  "year": 2000,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

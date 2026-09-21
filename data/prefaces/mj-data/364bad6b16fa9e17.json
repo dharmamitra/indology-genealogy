@@ -1,0 +1,57 @@
+{
+ "author": "菅沼晃",
+ "doc_kind": "article",
+ "doc_year": 1995,
+ "people": [
+  {
+   "name": "河村孝照",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "遠藤信一",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist Studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "河村孝照",
+   "type": "position_at",
+   "object": "東洋大学文学部",
+   "role": "教授",
+   "place": "Tokyo",
+   "year_start": null,
+   "year_end": 1994,
+   "explicit": true,
+   "evidence": "河村孝照教授退任記念号 ... 東洋大学文学部紀要第48集 印度哲学科篇",
+   "quote_ok": true
+  },
+  {
+   "subject": "遠藤信一",
+   "type": "studied_at",
+   "object": "東洋大学",
+   "role": "修士",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "有部,なかんずく倶舎論の断惑論については、すでに遠藤信一修士が論じているので",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Suganuma_菅沼晃_1995_SK1",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Suganuma_菅沼晃_1995_SK1.txt",
+ "meta": {
+  "title": "第一格の意味と用法 - Siddhāntakaumudi, Kārakaprakaraņa 訳註",
+  "author": "菅沼 晃",
+  "year": 1995,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

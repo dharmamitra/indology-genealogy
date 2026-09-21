@@ -1,0 +1,83 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1888,
+ "people": [
+  {
+   "name": "P. von Bradke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "T. W. Rhys-Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "J. Estlin Carpenter",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "E. T. Atkinson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "P. von Bradke",
+   "type": "studied_at",
+   "object": "Ludewigs-Universität zu Giessen",
+   "role": "Habilitation",
+   "place": "Giessen",
+   "year_start": null,
+   "year_end": 1884,
+   "explicit": true,
+   "evidence": "Habilitationsschrift der Philosophischen Facultät der Ludewigs-Universität zu Giessen zur Erlangung der venia legendi, vorgelegt von Dr. P. von Bradke. 8vo. Giessen, 1884.",
+   "quote_ok": true
+  },
+  {
+   "subject": "T. W. Rhys-Davids",
+   "type": "collaborated_with",
+   "object": "J. Estlin Carpenter",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1886,
+   "explicit": true,
+   "evidence": "The Sumaṅgala-Vilāsinī, Buddhaghosa's Commentary on the Dīgha Nikāya. Edited by T. W. Rhys-Davids and J. Estlin Carpenter, Part I. 8vo. London, 1886.",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. T. Atkinson",
+   "type": "position_at",
+   "object": "Asiatic Society of Bengal",
+   "role": "President",
+   "place": "Calcutta",
+   "year_start": 1888,
+   "year_end": 1888,
+   "explicit": true,
+   "evidence": "The Annual Meeting of the Asiatic Society of Bengal was held on Wednesday the 1st February 1888, at 9 P. M. E. T. ATKINSON, ESQ., C. S., President, in the chair.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Procedings of Royal Asiatic Society Bengal 1888",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Procedings of Royal Asiatic Society Bengal 1888.txt",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

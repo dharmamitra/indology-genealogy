@@ -1,0 +1,104 @@
+{
+ "author": "Achim Bayer",
+ "doc_kind": "monograph",
+ "doc_year": 2019,
+ "people": [
+  {
+   "name": "Achim Bayer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "David Jackson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "E. Gene Smith",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "sDe-gzhung Rin-po-che",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": null
+  },
+  {
+   "name": "Ri-mgul sPrul-sku",
+   "birth_year": 1952,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": null
+  },
+  {
+   "name": "Dil-mgo mKhyen-brtse",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Achim Bayer",
+   "type": "student_of",
+   "object": "David Jackson",
+   "role": "MA supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1999,
+   "explicit": true,
+   "evidence": "Although my Magister thesis on mKhan-po gZhan-dga', which I submitted to my advisor David Jackson in 1999",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. Gene Smith",
+   "type": "student_of",
+   "object": "sDe-gzhung Rin-po-che",
+   "role": null,
+   "place": null,
+   "year_start": 1960,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "notes taken by E. Gene Smith during his studies with sDe-gzhung Rin-po-che in the early sixties.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ri-mgul sPrul-sku",
+   "type": "student_of",
+   "object": "Dil-mgo mKhyen-brtse",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "received his traditional education from teachers such as Dil-mgo mKhyen-brtse",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ri-mgul sPrul-sku",
+   "type": "studied_at",
+   "object": "Central Institute of Higher Tibetan Studies in Vārāņasī",
+   "role": null,
+   "place": "Vārāņasī",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "after graduating from the Central Institute of Higher Tibetan Studies in Vārāņasī",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Bayer_The Life and Works of mKhan-po gZhan-dga' (1871–1927)",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Bayer_The Life and Works of mKhan-po gZhan-dga' (1871–1927).txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

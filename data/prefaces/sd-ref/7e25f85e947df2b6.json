@@ -1,0 +1,88 @@
+{
+ "people": [
+  {
+   "name": "Mabel Haynes Bode",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Pali and Buddhist Studies"
+  },
+  {
+   "name": "E. Müller-Hess",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Pali and Buddhist Studies"
+  },
+  {
+   "name": "C. Bendall",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit and Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Mabel Haynes Bode",
+   "type": "student_of",
+   "object": "E. Müller-Hess",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1898,
+   "explicit": true,
+   "evidence": "Dissertation Auf Antrag von Herrn Prof. Dr. E. Müller-Hess von der philosophischen Fakultät angenommen.",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Mabel Haynes Bode",
+   "type": "student_of",
+   "object": "Rhys Davids",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "My thanks are due to Professor Rhys Davids, who first led me to Oriental studies, and taught me Pali",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mabel Haynes Bode",
+   "type": "student_of",
+   "object": "C. Bendall",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "to Professor C. Bendall, of London; [...] That my teachers have constantly encouraged me to go forward is my best reward",
+   "quote_ok": true
+  },
+  {
+   "subject": "C. Bendall",
+   "type": "position_at",
+   "object": "London",
+   "role": "Professor",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "to Professor C. Bendall, of London",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_BURMESE HISTORIAN OF BUDDHISM_MABEL HAYNES BODE, 1898",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_BURMESE HISTORIAN OF BUDDHISM_MABEL HAYNES BODE, 1898.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

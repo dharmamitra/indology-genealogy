@@ -63,7 +63,7 @@ def entities(qids, props="claims|labels|descriptions|sitelinks"):
     qids = sorted(set(qids))
     for i in range(0, len(qids), 50):
         out.update(api(dict(action="wbgetentities", ids="|".join(qids[i:i + 50]), props=props,
-                            languages="en|de|fr", sitefilter="enwiki|dewiki")).get("entities", {}))
+                            languages="en|de|fr", sitefilter="enwiki|dewiki|jawiki")).get("entities", {}))
     return out
 
 

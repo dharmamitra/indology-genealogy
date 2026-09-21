@@ -1,0 +1,114 @@
+{
+ "author": "Tom J.F. Tillemans",
+ "doc_kind": "text_edition",
+ "doc_year": 1996,
+ "people": [
+  {
+   "name": "Tom J.F. Tillemans",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Johannes Bronkhorst",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Toru Tomabechi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Jiang Zhongxin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Ji Xianlin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Toru Tomabechi",
+   "type": "studied_at",
+   "object": "University of Lausanne",
+   "role": "graduate student",
+   "place": "Lausanne",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "a graduate student of Lausanne University, Mr. Toru TOMABECHI",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jiang Zhongxin",
+   "type": "position_at",
+   "object": "Institute of Asia-Pacific Studies",
+   "role": "Professor",
+   "place": "Beijing",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. JIANG Zhongxin of the Institute of Asia-Pacific Studies in Beijing",
+   "quote_ok": true
+  },
+  {
+   "subject": "Toru Tomabechi",
+   "type": "collaborated_with",
+   "object": "Jiang Zhongxin",
+   "role": null,
+   "place": "Lausanne",
+   "year_start": 1994,
+   "year_end": 1995,
+   "explicit": true,
+   "evidence": "the actual deciphering and transcription was done jointly by Jiang and Tomabechi in biweekly meetings at the University of Lausanne in the winter of 1994–1995.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jiang Zhongxin",
+   "type": "student_of",
+   "object": "Ji Xianlin",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Firstly, Prof. JI Xianlin, the outstanding Chinese Sanskritist and teacher of Prof. Jiang, played a major role in enabling us to have access to the Pañcakramaṭippaṇī",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Bronkhorst",
+   "type": "collaborated_with",
+   "object": "Tom J.F. Tillemans",
+   "role": "colleague",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "beginning with visits to China by my colleague Prof. Johannes Bronkhorst and myself in order to explore the possibilities concerning joint projects",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Pancakramatippanii_yogimanoharaa",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Pancakramatippanii_yogimanoharaa.txt",
+ "meta": {
+  "title": "The Pañcakramaṭippaṇī of Muniśrībhadra: Introduction and Romanized Sanskrit Text",
+  "author": "Jiang, Zhongxin & Tomabechi, Toru",
+  "year": 1996,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

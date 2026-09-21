@@ -1,0 +1,78 @@
+{
+ "author": null,
+ "doc_kind": "edited_volume",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "長尾雅人",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "梶山雄一",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "荒牧典俊",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "長尾雅人",
+   "type": "collaborated_with",
+   "object": "梶山雄一",
+   "role": "co-supervisor/co-translator",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "大乗仏典 15 世親論集 長尾雅人訳 梶山雄一訳 荒牧典俊訳 / 監修 長尾雅人 梶山雄一",
+   "quote_ok": false
+  },
+  {
+   "subject": "長尾雅人",
+   "type": "collaborated_with",
+   "object": "荒牧典俊",
+   "role": "co-translator",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "大乗仏典 15 世親論集 長尾雅人訳 梶山雄一訳 荒牧典俊訳",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "梶山雄一",
+   "type": "collaborated_with",
+   "object": "荒牧典俊",
+   "role": "co-translator",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "大乗仏典 15 世親論集 長尾雅人訳 梶山雄一訳 荒牧典俊訳",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "大乗仏典15 世親論集",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/大乗仏典15 世親論集.txt#0",
+ "meta": {
+  "title": "大乗仏典15 世親論集",
+  "author": "世親",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

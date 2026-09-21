@@ -1,0 +1,82 @@
+{
+ "people": [
+  {
+   "name": "Hara Prasad Sastri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "Cecil Bendall",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hara Prasad Sastri",
+   "type": "position_at",
+   "object": "Asiatic Society, Bengal",
+   "role": "Joint Philological Secretary",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "BY MAHAMAHOPADHYAYA HARA PRASAD SASTRI, M.A. Joint Philological Secretary, Asiatic Society, Bengal, and Principal, Sanskrit College, Calcutta.",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Hara Prasad Sastri",
+   "type": "position_at",
+   "object": "Sanskrit College, Calcutta",
+   "role": "Principal",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "BY MAHAMAHOPADHYAYA HARA PRASAD SASTRI, M.A. Joint Philological Secretary, Asiatic Society, Bengal, and Principal, Sanskrit College, Calcutta.",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Cecil Bendall",
+   "type": "position_at",
+   "object": "University of Cambridge",
+   "role": "Professor of Sanskrit",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "TO WHICH HAS BEEN ADDED A HISTORICAL INTRODUCTION BY PROFESSOR CECIL BENDALL, M.A. Professor of Sanskrit in the University of Cambridge.",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Hara Prasad Sastri",
+   "type": "collaborated_with",
+   "object": "Cecil Bendall",
+   "role": "co-contributor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1905,
+   "explicit": true,
+   "evidence": "A CATALOGUE OF PALM-LEAF & SELECTED PAPER MSS. BELONGING TO THE DURBAR LIBRARY, NEPAL, BY MAHAMAHOPADHYAYA HARA PRASAD SASTRI... TO WHICH HAS BEEN ADDED A HISTORICAL INTRODUCTION BY PROFESSOR CECIL BENDALL",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "Shastri_nepalV1-ocr_1905",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Shastri_nepalV1-ocr_1905.txt",
+ "meta": {
+  "title": "Catalogue of Palm-Leaf & Selected Paper MSS. Belonging to the Durbar Library, Nepal",
+  "author": "Sastri, Hara Prasad",
+  "year": 1905,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,77 @@
+{
+ "author": "Ralph T. H. Griffith",
+ "doc_kind": "text_edition",
+ "doc_year": 1889,
+ "people": [
+  {
+   "name": "Ralph T. H. Griffith",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "H. H. Wilson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Peterson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ralph T. H. Griffith",
+   "type": "position_at",
+   "object": "Benares College",
+   "role": "Principal",
+   "place": "Benares",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "BY RALPH T. H. GRIFFITH, FORMERLY PRINCIPAL OF BENARES COLLEGE.",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Ralph T. H. Griffith",
+   "type": "student_of",
+   "object": "H. H. Wilson",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "to my revered Master, Professor H. H. Wilson;",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peterson",
+   "type": "position_at",
+   "object": "Bombay",
+   "role": "Professor",
+   "place": "Bombay",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hymns from the Rigveda, by Professor Peterson of Bombay",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Griffith, The Hymns of the Rigveda, vol 1",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Griffith, The Hymns of the Rigveda, vol 1.txt",
+ "meta": {
+  "title": "The Hymns of the Rigveda",
+  "author": "Griffith, Ralph T. H.",
+  "year": 1889,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

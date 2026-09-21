@@ -1,0 +1,133 @@
+{
+ "author": "John Ronald Newman",
+ "doc_kind": "dissertation",
+ "doc_year": 1987,
+ "people": [
+  {
+   "name": "John Ronald Newman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "Geshe Lhundub Sopa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "Tenzin Gyatso",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": null
+  },
+  {
+   "name": "Geshe Wangdrak",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": null
+  },
+  {
+   "name": "Samdhong Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": null
+  },
+  {
+   "name": "Elvin Jones",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Ronald Newman",
+   "type": "studied_at",
+   "object": "University of Wisconsin - Madison",
+   "role": "PhD",
+   "place": "Madison",
+   "year_start": null,
+   "year_end": 1987,
+   "explicit": true,
+   "evidence": "Philosophy (Buddhist Studies) at the UNIVERSITY OF WISCONSIN - MADISON 1987",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Ronald Newman",
+   "type": "student_of",
+   "object": "Geshe Lhundub Sopa",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1987,
+   "explicit": true,
+   "evidence": "Under the supervision of Professor Geshe Sopa",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Ronald Newman",
+   "type": "student_of",
+   "object": "Tenzin Gyatso",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His Holiness Tenzin Gyatso, the Fourteenth Dalai Lama, who arranged a tutorial for me and encouraged my study of the Kalacakra.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Ronald Newman",
+   "type": "student_of",
+   "object": "Geshe Wangdrak",
+   "role": "traditional teacher",
+   "place": "Dharamsala",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "My teacher in Dharamsala, Geshe Wangdrak (Lobsang Tenzin), offered valuable insight into mKhas grub's Ṭīk chen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Samdhong Rinpoche",
+   "type": "position_at",
+   "object": "Varanasi Sanskrit Vishvavidyalaya",
+   "role": "Professor",
+   "place": "Varanasi",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Professor Samdhong Rinpoche facilitated my affiliation with Varanasi Sanskrit Vishvavidyalaya",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Ronald Newman",
+   "type": "influenced_by",
+   "object": "Elvin Jones",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Elvin Jones shared with me his vast knowledge of ancient religions and greatly influenced my approach to the Kālacakra.",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Newman-Kalacakra",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Newman-Kalacakra.txt",
+ "meta": {
+  "title": "The outer Wheel of Time: Vajrayana Buddhist cosmology in the Kālacakra tantra",
+  "author": "Newman, John Ronald",
+  "year": 1987,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

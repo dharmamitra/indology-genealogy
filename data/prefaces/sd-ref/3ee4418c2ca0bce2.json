@@ -1,0 +1,52 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Colin Allen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Philosophy"
+  },
+  {
+   "name": "Uri Nodelman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Computer Science"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Colin Allen",
+   "type": "position_at",
+   "object": "Texas A&M University",
+   "role": "Professor of Philosophy",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Colin Allen* Philosophy Department Texas A&M University ... *Professor of Philosophy at Texas A&M University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Uri Nodelman",
+   "type": "studied_at",
+   "object": "Stanford University",
+   "role": "Graduate Student in Computer Science",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Graduate Student in Computer Science at Stanford University, Associate Pro- grammer and Assistant Editor of the Stanford Encyclopedia of Philosophy",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Stanford Encyclopedia of Philosophy_2007",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Stanford Encyclopedia of Philosophy_2007.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

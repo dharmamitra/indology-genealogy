@@ -1,0 +1,52 @@
+{
+ "author": null,
+ "doc_kind": "dissertation",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Nicolas Adell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Anthropology"
+  },
+  {
+   "name": "Bénédicte Brac de la Perrière",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Anthropology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Nicolas Adell",
+   "type": "position_at",
+   "object": "Université de Toulouse II",
+   "role": "Maître de conférence en anthropologie",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "M. Nicolas Adell, Maître de conférence en anthropologie à l'Université de Toulouse II",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bénédicte Brac de la Perrière",
+   "type": "position_at",
+   "object": "CNRS",
+   "role": "Directrice de recherches",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mme Bénédicte Brac de la Perrière, Directrice de recherches au CNRS",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Dapsance_Dissertation",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Dapsance_Dissertation.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

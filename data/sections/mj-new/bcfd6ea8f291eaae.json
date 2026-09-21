@@ -1,0 +1,315 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "曉烏 敏",
+   "birth_year": 1877,
+   "death_year": 1954,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Hackin, Joseph",
+   "birth_year": 1886,
+   "death_year": 1941,
+   "nationality": "French",
+   "field": "Archaeology"
+  },
+  {
+   "name": "S. Lévi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "A. Foucher",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "姉崎正治",
+   "birth_year": 1873,
+   "death_year": 1949,
+   "nationality": "Japanese",
+   "field": "Religious Studies"
+  },
+  {
+   "name": "Paul Deussen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Arnold, Edwin",
+   "birth_year": 1832,
+   "death_year": null,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Ambedkar, Bhimrao Ramji",
+   "birth_year": 1893,
+   "death_year": 1956,
+   "nationality": "Indian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "曉烏 敏",
+   "type": "studied_at",
+   "object": "眞宗大學",
+   "role": null,
+   "place": null,
+   "year_start": 1896,
+   "year_end": 1900,
+   "explicit": true,
+   "evidence": "二十九年眞宗大學に入り、三十年雜誌慧燈の編輯に當り、三十三年同大學を卒業",
+   "quote_ok": true
+  },
+  {
+   "subject": "曉烏 敏",
+   "type": "studied_at",
+   "object": "外國語學校",
+   "role": null,
+   "place": null,
+   "year_start": 1900,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "本願寺留學生として外國語學校語學科に入り",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hackin, Joseph",
+   "type": "studied_at",
+   "object": "パリ大学",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "パリ大学に入り、S. Lévi, フーシェ A. Foucher",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hackin, Joseph",
+   "type": "student_of",
+   "object": "S. Lévi",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "パリ大学に入り、S. Lévi, フーシェ A. Foucher",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hackin, Joseph",
+   "type": "student_of",
+   "object": "A. Foucher",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "パリ大学に入り、S. Lévi, フーシェ A. Foucher",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hackin, Joseph",
+   "type": "position_at",
+   "object": "Musée Guimet",
+   "role": "館長",
+   "place": null,
+   "year_start": 1923,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Guimet に勤務(一九〇七年)、同館長(二三年)。",
+   "quote_ok": true
+  },
+  {
+   "subject": "姉崎正治",
+   "type": "studied_at",
+   "object": "東京帝国大学",
+   "role": null,
+   "place": "Tokyo",
+   "year_start": 1893,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "二十六年七月、東京帝国大学文科大学哲学科に入り、同大学院で宗教学を専攻した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "姉崎正治",
+   "type": "studied_at",
+   "object": "キール大学",
+   "role": null,
+   "place": "Kiel",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ドイツのキール Kiel 大学に留学、イドゥッセン Paul Deussen に師事し",
+   "quote_ok": true
+  },
+  {
+   "subject": "姉崎正治",
+   "type": "student_of",
+   "object": "Paul Deussen",
+   "role": "teacher",
+   "place": "Kiel",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ドイツのキール Kiel 大学に留学、イドゥッセン Paul Deussen に師事し",
+   "quote_ok": true
+  },
+  {
+   "subject": "姉崎正治",
+   "type": "position_at",
+   "object": "東京帝國大學",
+   "role": "教授",
+   "place": "Tokyo",
+   "year_start": 1904,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "三十七年東京帝國大學教授となり、翌年、同大学宗教学講座初代主任教授となる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "姉崎正治",
+   "type": "position_at",
+   "object": "東京帝國大學附属図書館",
+   "role": "館長",
+   "place": "Tokyo",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "東京帝國大學附属図書館長として同館の復興に盡力",
+   "quote_ok": true
+  },
+  {
+   "subject": "姉崎正治",
+   "type": "position_at",
+   "object": "フランス学院",
+   "role": "出講",
+   "place": "Paris",
+   "year_start": 1914,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "翌年パリのフランス学院 Collège de France に出講",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arnold, Edwin",
+   "type": "studied_at",
+   "object": "オックスフォード大学",
+   "role": null,
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ンドン、オックスフォード両大学に学び",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ambedkar, Bhimrao Ramji",
+   "type": "studied_at",
+   "object": "コロンビア大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "米国のコロンビア大学に留学し、経済学と社会学を専攻した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ambedkar, Bhimrao Ramji",
+   "type": "founded",
+   "object": "被圧迫階級研究所",
+   "role": null,
+   "place": null,
+   "year_start": 1917,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "一九一七年にインドに帰り、被圧迫階級研究所（Depressed Classes Institute）を創立した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ambedkar, Bhimrao Ramji",
+   "type": "position_at",
+   "object": "シデンハム大学",
+   "role": "経済学の教授",
+   "place": "Bombay",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ボンベイのシデンハム大学 Sydenham College の経済学の教授となり",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ambedkar, Bhimrao Ramji",
+   "type": "studied_at",
+   "object": "ボン大学",
+   "role": null,
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ドイツに留学し、ボン大学の一員となり",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ambedkar, Bhimrao Ramji",
+   "type": "studied_at",
+   "object": "ロンドン大学",
+   "role": "Dr. Sc. in Economics and Commerce",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ロンドン大学に移り、ここで経済学商学博士（Dr. Sc. in Economics and Commerce）の学位を得た。",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ambedkar, Bhimrao Ramji",
+   "type": "founded",
+   "object": "ミリンダ大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "郊外に仏教主義のミリンダ大学を創立し",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ambedkar, Bhimrao Ramji",
+   "type": "founded",
+   "object": "シッダールタ女子大学",
+   "role": null,
+   "place": "Bombay",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ボンベイにシッダールタ女子大学を創立し",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Vol 9",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Vol 9.txt#0",
+ "meta": {
+  "title": "望月佛教大辭典 補遺第一卷",
+  "author": "望月信亨",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

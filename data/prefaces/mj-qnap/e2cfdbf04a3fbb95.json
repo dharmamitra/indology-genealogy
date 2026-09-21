@@ -1,0 +1,102 @@
+{
+ "author": "Maurice Walshe",
+ "doc_kind": "text_edition",
+ "doc_year": 1987,
+ "people": [
+  {
+   "name": "Maurice Walshe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Tan Ajahn Chah Subhatto",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Venerable Sumedho Thera",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "W. Rahula",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "H. Saddhātissa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Venerable Sumedho Thera",
+   "type": "student_of",
+   "object": "Tan Ajahn Chah Subhatto",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1977 my venerable teacher, Tan Ajahn Chah Subhatto and I arrived in London",
+   "quote_ok": true
+  },
+  {
+   "subject": "Maurice Walshe",
+   "type": "position_at",
+   "object": "Institute of Germanic Studies in London University",
+   "role": null,
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "his career at the Institute of Germanic Studies in London University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Maurice Walshe",
+   "type": "student_of",
+   "object": "W. Rahula",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the Ven. Dr W. Rahula who guided my early, faltering steps in Pali",
+   "quote_ok": true
+  },
+  {
+   "subject": "Maurice Walshe",
+   "type": "student_of",
+   "object": "H. Saddhātissa",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the Ven. Dr H. Saddhātissa, a friend of many years' standing from whom I learnt so much",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Walshe_Long_Discourses",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Walshe_Long_Discourses.txt",
+ "meta": {
+  "title": "Thus Have I Heard: The Long Discourses of the Buddha",
+  "author": "Walshe, Maurice",
+  "year": 1987,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

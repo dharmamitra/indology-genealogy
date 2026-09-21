@@ -1,0 +1,154 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "E. Frauwallner"
+  },
+  {
+   "name": "L. Schmithausen"
+  },
+  {
+   "name": "袴谷憲昭"
+  },
+  {
+   "name": "荒井祐明"
+  },
+  {
+   "name": "武内紹晃"
+  },
+  {
+   "name": "神子上惠生"
+  },
+  {
+   "name": "早島 理"
+  },
+  {
+   "name": "清水公庸"
+  },
+  {
+   "name": "毛利俊英"
+  },
+  {
+   "name": "藤田祥道"
+  },
+  {
+   "name": "乗山 悟"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "L. Schmithausen",
+   "type": "student_of",
+   "object": "E. Frauwallner",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "無著の弟である古世親と『倶舎論』の著者である新世親とは別人であるとする氏の見解(7)は後に、彼の弟子L. Schmithausenによって補強された。",
+   "quote_ok": true
+  },
+  {
+   "subject": "袴谷憲昭",
+   "type": "collaborated_with",
+   "object": "荒井祐明",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1993,
+   "explicit": true,
+   "evidence": "袴谷憲昭・荒井祐明校注、新国訳大蔵経『大乗荘厳経論』(瑜伽・唯識部12)、大蔵出版、1993.",
+   "quote_ok": true
+  },
+  {
+   "subject": "武内紹晃",
+   "type": "collaborated_with",
+   "object": "神子上惠生",
+   "role": "co-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "編 集 武内紹晃 神子上惠生 早島 理 清水公庸 毛利俊英 藤田祥道 乗山 悟",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "武内紹晃",
+   "type": "collaborated_with",
+   "object": "早島 理",
+   "role": "co-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "編 集 武内紹晃 神子上惠生 早島 理 清水公庸 毛利俊英 藤田祥道 乗山 悟",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "武内紹晃",
+   "type": "collaborated_with",
+   "object": "清水公庸",
+   "role": "co-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "編 集 武内紹晃 神子上惠生 早島 理 清水公庸 毛利俊英 藤田祥道 乗山 悟",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "武内紹晃",
+   "type": "collaborated_with",
+   "object": "毛利俊英",
+   "role": "co-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "編 集 武内紹晃 神子上惠生 早島 理 清水公庸 毛利俊英 藤田祥道 乗山 悟",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "武内紹晃",
+   "type": "collaborated_with",
+   "object": "藤田祥道",
+   "role": "co-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "編 集 武内紹晃 神子上惠生 早島 理 清水公庸 毛利俊英 藤田祥道 乗山 悟",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "武内紹晃",
+   "type": "collaborated_with",
+   "object": "乗山 悟",
+   "role": "co-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "編 集 武内紹晃 神子上惠生 早島 理 清水公庸 毛利俊英 藤田祥道 乗山 悟",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "MSA_Ryukoku",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/MSA_Ryukoku.txt",
+ "meta": {
+  "title": "梵文大乗荘厳経論写本",
+  "author": "武内紹晃",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

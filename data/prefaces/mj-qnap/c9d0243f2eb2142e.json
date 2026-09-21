@@ -1,0 +1,90 @@
+{
+ "author": "Hans Henrich Hock",
+ "doc_kind": "text_edition",
+ "doc_year": 2007,
+ "people": [
+  {
+   "name": "Hans Henrich Hock",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Yasuko Suzuki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sarah Tsiang",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Charles Rockwell Lanman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "William Dwight Whitney",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hans Henrich Hock",
+   "type": "position_at",
+   "object": "University of Illinois",
+   "role": null,
+   "place": "Urbana-Champaign",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "for students who had completed the better part of two years of Classical Sanskrit instruction at the University of Illinois.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sarah Tsiang",
+   "type": "collaborated_with",
+   "object": "Hans Henrich Hock",
+   "role": "teaching associate",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I have also profited from feedback by my teaching associates, Yasuko Suzuki and Sarah Tsiang. [...] In fact, the idea of a self-contained Glossary came from Sarah Tsiang, and she also contributed the large majority of the entries.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Yasuko Suzuki",
+   "type": "collaborated_with",
+   "object": "Hans Henrich Hock",
+   "role": "teaching associate",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I have also profited from feedback by my teaching associates, Yasuko Suzuki and Sarah Tsiang.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Early Upaniṣadic Reader",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Early Upaniṣadic Reader.txt",
+ "meta": {
+  "title": "AN EARLY UPANIṢADIC READER",
+  "author": "Hock, Hans Henrich",
+  "year": 2007,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

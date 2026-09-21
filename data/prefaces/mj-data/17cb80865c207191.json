@@ -1,0 +1,97 @@
+{
+ "author": null,
+ "doc_kind": "festschrift",
+ "doc_year": 1964,
+ "people": [
+  {
+   "name": "結城",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "宇井",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "勝呂信静",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "海野孝憲",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "前田恵学",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "高崎直道",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "結城",
+   "type": "position_at",
+   "object": "東京大学",
+   "role": "教授",
+   "place": "Tokyo",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "結城教授が東京大学を退官されたのを機会に、多年教授から御交誼をえていた東京大学東洋文化研究所や東京大学印度哲学研究室関係の有志があつまり",
+   "quote_ok": true
+  },
+  {
+   "subject": "勝呂信静",
+   "type": "collaborated_with",
+   "object": "海野孝憲",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "(SN は海野孝憲君、MNは前田恵学君の協力による。)",
+   "quote_ok": false
+  },
+  {
+   "subject": "勝呂信静",
+   "type": "collaborated_with",
+   "object": "前田恵学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "(SN は海野孝憲君、MNは前田恵学君の協力による。)",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Suguro_勝呂信静_1964@成唯識論における護法説の特色",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Suguro_勝呂信静_1964@成唯識論における護法説の特色.txt",
+ "meta": {
+  "title": "成唯識論における護法説の特色",
+  "author": "勝呂信静",
+  "year": 1964,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

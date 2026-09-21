@@ -1,0 +1,76 @@
+{
+ "author": "Jonathan A. Silk",
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Jonathan A. Silk",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Lambert Schmithausen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Takayuki Hirosawa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Takayuki Hirosawa",
+   "type": "student_of",
+   "object": "Lambert Schmithausen",
+   "role": null,
+   "place": "Hamburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Takayuki HIROSAWA, the co-compiler of the \"Index\" and \"Dictionary,\" who had been studying in Hamburg under SCHMITHAUSEN.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Takayuki Hirosawa",
+   "type": "studied_at",
+   "object": "Hamburg",
+   "role": null,
+   "place": "Hamburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Takayuki HIROSAWA, the co-compiler of the \"Index\" and \"Dictionary,\" who had been studying in Hamburg under SCHMITHAUSEN.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Takayuki Hirosawa",
+   "type": "position_at",
+   "object": "Taishō University",
+   "role": "member of the group",
+   "place": null,
+   "year_start": null,
+   "year_end": 1991,
+   "explicit": true,
+   "evidence": "In a number of the publications of the team in the Taishō Daigaku Bukkyō Kenkyūjo Nenpō through 1991, HIROSAWA is listed as a member of the group.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "EB-33-1-144",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/EB-33-1-144.txt",
+ "meta": {
+  "title": "Contributions to the Study of the Philosophical Vocabulary of Mahāyāna Buddhism",
+  "author": "Silk, Jonathan A.",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

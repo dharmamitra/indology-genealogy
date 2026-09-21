@@ -1,0 +1,66 @@
+{
+ "author": "Bruno Schindler",
+ "doc_kind": "other",
+ "doc_year": 1932,
+ "people": [
+  {
+   "name": "Johannes Hertel",
+   "birth_year": 1872,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Ernst Windisch",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "L. D. Barnett",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johannes Hertel",
+   "type": "position_at",
+   "object": "Universität Leipzig",
+   "role": "Lehrstuhl für indische Philologie",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. Dr. Johannes Hertel, der den Lehrstuhl für indische Philologie an der Universität Leipzig, als Nachfolger von Ernst Windisch, inne hat",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Johannes Hertel",
+   "type": "succeeded",
+   "object": "Ernst Windisch",
+   "role": null,
+   "place": "Universität Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. Dr. Johannes Hertel, der den Lehrstuhl für indische Philologie an der Universität Leipzig, als Nachfolger von Ernst Windisch, inne hat",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "AM8-1932-1",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/AM8-1932-1.txt",
+ "meta": {
+  "title": "Aus den Werken von Professor Johannes Hertel",
+  "author": "Schindler, Bruno",
+  "year": 1932,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

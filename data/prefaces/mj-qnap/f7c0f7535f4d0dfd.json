@@ -1,0 +1,116 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 1925,
+ "people": [
+  {
+   "name": "Dines Andersen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Helmer Smith",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "V. Trenckner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sten Konow",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Dines Andersen",
+   "type": "collaborated_with",
+   "object": "Helmer Smith",
+   "role": "co-editors",
+   "place": null,
+   "year_start": 1916,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1916, the present editors conceived a plan of editing the dictionary without the aid of foreign co-workers ... Dines Andersen. Helmer Smith.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dines Andersen",
+   "type": "collaborated_with",
+   "object": "V. Trenckner",
+   "role": "reviser and continuer of dictionary",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A CRITICAL PĀLI DICTIONARY BEGUN BY V. TRENCKNER REVISED, CONTINUED, AND EDITED BY DINES ANDERSEN AND HELMER SMITH",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Helmer Smith",
+   "type": "collaborated_with",
+   "object": "V. Trenckner",
+   "role": "reviser and continuer of dictionary",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A CRITICAL PĀLI DICTIONARY BEGUN BY V. TRENCKNER REVISED, CONTINUED, AND EDITED BY DINES ANDERSEN AND HELMER SMITH",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Rhys Davids",
+   "type": "position_at",
+   "object": "Pāli Text Society",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The late Professor RHYS DAVIDS, to whom belongs the great merit of having organized the editorial work ... Pāli Text Society's Dictionary",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sten Konow",
+   "type": "position_at",
+   "object": "Professor",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Professor STEN KONOW'S „Pāli Words beginning with S”",
+   "quote_ok": true
+  }
+ ],
+ "docid": "critic~2",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/critic~2.txt",
+ "meta": {
+  "title": "A Critical Pāli Dictionary",
+  "author": "Trenckner, V.; Andersen, Dines; Smith, Helmer",
+  "year": 1924,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

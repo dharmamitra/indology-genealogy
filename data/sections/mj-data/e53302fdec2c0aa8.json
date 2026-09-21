@@ -1,0 +1,97 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 2014,
+ "people": [
+  {
+   "name": "吉村昇洋",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "仏教学"
+  },
+  {
+   "name": "多田等観",
+   "birth_year": 1890,
+   "death_year": 1967,
+   "nationality": "Japanese",
+   "field": "仏教学"
+  },
+  {
+   "name": "青木文教",
+   "birth_year": 1886,
+   "death_year": 1956,
+   "nationality": "Japanese",
+   "field": "Tibetology"
+  },
+  {
+   "name": "河口慧海",
+   "birth_year": 1866,
+   "death_year": 1945,
+   "nationality": "Japanese",
+   "field": "仏教学"
+  },
+  {
+   "name": "寺本婉雅",
+   "birth_year": 1872,
+   "death_year": 1949,
+   "nationality": "Japanese",
+   "field": "仏教学"
+  },
+  {
+   "name": "奥山直司",
+   "birth_year": 1955,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Tibetology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "多田等観",
+   "type": "studied_at",
+   "object": "セラ寺",
+   "role": null,
+   "place": "チベット",
+   "year_start": 1913,
+   "year_end": 1923,
+   "explicit": true,
+   "evidence": "一九一三年から一九二三年にかけてラッサに留学した多田等観(一八九〇―一九六七)",
+   "quote_ok": true
+  },
+  {
+   "subject": "河口慧海",
+   "type": "studied_at",
+   "object": "セラ寺",
+   "role": null,
+   "place": "チベット",
+   "year_start": 1901,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "河口はその三月にラッサに着いてセラ寺で修学していた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "奥山直司",
+   "type": "position_at",
+   "object": "高野山大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "おくやま・なおじ▼55年生まれ。高野山大学教授。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Shunju_春秋_2014@特集：ダライ・ラマ法王と日本",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Shunju_春秋_2014@特集：ダライ・ラマ法王と日本.txt#0",
+ "meta": {
+  "title": "特集：ダライ・ラマ法王と日本",
+  "author": "よしむら・しょうよう",
+  "year": 2014,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

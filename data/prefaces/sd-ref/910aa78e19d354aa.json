@@ -1,0 +1,91 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Alex Wayman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jared Rhoton",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "David P. Jackson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Matthew Kapstein",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist Studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jared Rhoton",
+   "type": "student_of",
+   "object": "Alex Wayman",
+   "role": "doctoral supervisor",
+   "place": "Columbia University",
+   "year_start": null,
+   "year_end": 1985,
+   "explicit": true,
+   "evidence": "bia University in 1985, under Professor Alex Wayman; his dissertation-in many respects the inspiration for the present volume-was entitled \"A Study of the sDom-gSum of Sapan.\"",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jared Rhoton",
+   "type": "studied_at",
+   "object": "Columbia University",
+   "role": "dissertation",
+   "place": null,
+   "year_start": null,
+   "year_end": 1985,
+   "explicit": true,
+   "evidence": "bia University in 1985, under Professor Alex Wayman; his dissertation-in many respects the inspiration for the present volume-was entitled \"A Study of the sDom-gSum of Sapan.\"",
+   "quote_ok": true
+  },
+  {
+   "subject": "David P. Jackson",
+   "type": "position_at",
+   "object": "University of Hamburg",
+   "role": null,
+   "place": "Hamburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and notes were reviewed and supplemented in places by Dr. David P. Jackson, now at the University of Hamburg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Matthew Kapstein",
+   "type": "position_at",
+   "object": "SUNY series in Buddhist Studies",
+   "role": "editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "SUNY series in Buddhist Studies Matthew Kapstein, editor",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  }
+ ],
+ "docid": "cleaned_Clear differtiation of the three codes_Sakya Pandita Kunga Gyaltshen_Douglas Jared Rhoton tr,Victoria R M Scott ed",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Clear differtiation of the three codes_Sakya Pandita Kunga Gyaltshen_Douglas Jared Rhoton tr,Victoria R M Scott ed.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

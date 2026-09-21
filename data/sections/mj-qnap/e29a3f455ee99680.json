@@ -1,0 +1,162 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1877,
+ "people": [
+  {
+   "name": "Prof. Brockhaus",
+   "birth_year": 1806,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Oriental literature"
+  },
+  {
+   "name": "Prof. Childers",
+   "birth_year": 1838,
+   "death_year": 1876,
+   "nationality": "British",
+   "field": "Pali and Buddhist Literature"
+  },
+  {
+   "name": "Yátrámulle Unnanse",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Sri Lankan",
+   "field": "Buddhist scholar"
+  },
+  {
+   "name": "Mr. Fausböll",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Danish",
+   "field": "Oriental literature"
+  },
+  {
+   "name": "Dr. Martin Haug",
+   "birth_year": 1827,
+   "death_year": 1876,
+   "nationality": "German",
+   "field": "Oriental scholar"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Prof. Brockhaus",
+   "type": "studied_at",
+   "object": "Universities of Leipzig, Göttingen, and Bonn",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studying in the Universities of Leipzig, Göttingen, and Bonn",
+   "quote_ok": true
+  },
+  {
+   "subject": "Prof. Brockhaus",
+   "type": "position_at",
+   "object": "Jena",
+   "role": "Professor Extraordinarius",
+   "place": "Jena",
+   "year_start": 1839,
+   "year_end": 1841,
+   "explicit": true,
+   "evidence": "As a Professor of Oriental Languages, he commenced his career at Jena in 1839, as \"Professor Extraordinarius;\" settling, however, two years later, at Leipzig",
+   "quote_ok": true
+  },
+  {
+   "subject": "Prof. Brockhaus",
+   "type": "position_at",
+   "object": "Leipzig",
+   "role": "Professor Ordinarius",
+   "place": "Leipzig",
+   "year_start": 1848,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "where, in 1848, he was appointed \"Professor Ordinarius\" of Indian Languages and Literature.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Prof. Brockhaus",
+   "type": "founded",
+   "object": "Zeitschrift der Deutschen Morgenlandischen Gesellschaft",
+   "role": "founder",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. Brockhaus was one of the founders of the \"Zeitschrift der Deutschen Morgenlandischen Gesellschaft\"",
+   "quote_ok": true
+  },
+  {
+   "subject": "Prof. Childers",
+   "type": "studied_at",
+   "object": "Wadham College, Oxford",
+   "role": null,
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": 1860,
+   "explicit": true,
+   "evidence": "After having passed a short time at Wadham College, Oxford, where he obtained a Hebrew Scholarship, he proceeded to Ceylon in 1860, before he had taken his degree",
+   "quote_ok": true
+  },
+  {
+   "subject": "Prof. Childers",
+   "type": "student_of",
+   "object": "Yátrámulle Unnanse",
+   "role": "traditional teacher",
+   "place": "Ceylon",
+   "year_start": 1860,
+   "year_end": 1864,
+   "explicit": true,
+   "evidence": "his studies in Pali, in which he had already made great progress under the able guidance of Yátrámulle Unnanse, a Buddhist scholar of the highest character.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Prof. Childers",
+   "type": "position_at",
+   "object": "India Office",
+   "role": "Sub-Librarian",
+   "place": "London",
+   "year_start": 1872,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In the autumn of 1872 Prof. Childers was appointed Sub-Librarian at the India Office.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Prof. Childers",
+   "type": "position_at",
+   "object": "University College, London",
+   "role": "Professor of Pali and Buddhist Literature",
+   "place": "London",
+   "year_start": 1873,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In the same year, he accepted the appointment of Professor of Pali and Buddhist Literature at University College, London",
+   "quote_ok": true
+  },
+  {
+   "subject": "Prof. Childers",
+   "type": "collaborated_with",
+   "object": "Mr. Fausböll",
+   "role": "co-editor",
+   "place": null,
+   "year_start": 1876,
+   "year_end": 1876,
+   "explicit": true,
+   "evidence": "having, at the same time, undertaken, with Mr. Fausböll, of Copenhagen, a complete edition of the Buddhist Jataka stories",
+   "quote_ok": true
+  }
+ ],
+ "docid": "JRASGBINS10",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/JRASGBINS10.txt#0",
+ "meta": {
+  "title": "",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

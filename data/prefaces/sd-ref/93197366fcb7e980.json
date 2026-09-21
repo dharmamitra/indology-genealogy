@@ -1,0 +1,78 @@
+{
+ "author": "Samuel Beal",
+ "doc_kind": "monograph",
+ "doc_year": 1882,
+ "people": [
+  {
+   "name": "James Legge",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Sinology"
+  },
+  {
+   "name": "Julius Jolly",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "V. Fausböll",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Danish",
+   "field": "Indology"
+  },
+  {
+   "name": "T. W. Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Legge",
+   "type": "position_at",
+   "object": "University of Oxford",
+   "role": "Professor of the Chinese Language and Literature",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "By James Legge, D.D. Crown the Chinese Language and Literature in the University of Oxford.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Julius Jolly",
+   "type": "position_at",
+   "object": "University of Würzburg",
+   "role": null,
+   "place": "Würzburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "By Dr. Julius Jolly, University, Wurzburg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "V. Fausböll",
+   "type": "collaborated_with",
+   "object": "T. W. Rhys Davids",
+   "role": "editor and translator",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "edited in the original Pali, by V. Fausböll, and translated by T. W.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Abstract of Four Lectures on Buddhist Literature in China_Beal, 1882",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Abstract of Four Lectures on Buddhist Literature in China_Beal, 1882.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

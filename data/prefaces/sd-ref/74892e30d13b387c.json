@@ -1,0 +1,85 @@
+{
+ "author": null,
+ "doc_kind": "monograph",
+ "doc_year": 1992,
+ "people": [
+  {
+   "name": "Chen-hua",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhism"
+  },
+  {
+   "name": "Chün-fang Yü",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Chinese Buddhism"
+  },
+  {
+   "name": "Nan-ting",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhism"
+  },
+  {
+   "name": "Sheng-yen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhism"
+  },
+  {
+   "name": "Fu-yen Buddhist Seminary",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Chün-fang Yü",
+   "type": "student_of",
+   "object": "Nan-ting",
+   "role": "traditional teacher",
+   "place": "Taiwan",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I took refuge with Master Nan-ting when I was in Taiwan.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chün-fang Yü",
+   "type": "student_of",
+   "object": "Sheng-yen",
+   "role": "traditional teacher",
+   "place": "the States",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Later, after I went to the States, I took refuge again with Master Sheng-yen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chen-hua",
+   "type": "position_at",
+   "object": "Fu-yen Buddhist Seminary",
+   "role": "manager",
+   "place": "Hsin-chu, Taiwan",
+   "year_start": 1988,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After that I have stayed in Taiwan devoting my time to manage the Fu-yen Buddhist Seminary.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_In search of the Dharma.  Memoirs of a modern Chinese Buddhist pilgrim_Chen-hua (Zhenhua), Chün-fang Yü, 1992",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_In search of the Dharma.  Memoirs of a modern Chinese Buddhist pilgrim_Chen-hua (Zhenhua), Chün-fang Yü, 1992.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

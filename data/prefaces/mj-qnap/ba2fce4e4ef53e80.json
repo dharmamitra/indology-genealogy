@@ -1,0 +1,102 @@
+{
+ "author": "T.N. Madan",
+ "doc_kind": "festschrift",
+ "doc_year": 1982,
+ "people": [
+  {
+   "name": "Louis Dumont",
+   "birth_year": 1911,
+   "death_year": null,
+   "nationality": null,
+   "field": "anthropology"
+  },
+  {
+   "name": "David Pocock",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "T.N. Madan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Veena Das",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Satish Saberwal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Louis Dumont",
+   "type": "founded",
+   "object": "Contributions to Indian sociology",
+   "role": null,
+   "place": null,
+   "year_start": 1957,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Contributions to Indian sociology was founded by Dr Dumont (with the collaboration of Dr David Pocock) in 1957.",
+   "quote_ok": true
+  },
+  {
+   "subject": "David Pocock",
+   "type": "collaborated_with",
+   "object": "Louis Dumont",
+   "role": null,
+   "place": null,
+   "year_start": 1957,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Contributions to Indian sociology was founded by Dr Dumont (with the collaboration of Dr David Pocock) in 1957.",
+   "quote_ok": true
+  },
+  {
+   "subject": "T.N. Madan",
+   "type": "collaborated_with",
+   "object": "Veena Das",
+   "role": "colleague",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "My colleagues Veena Das and Satish Saberwal have, as usual, given me their unstinted support and helped me with their advice.",
+   "quote_ok": false
+  },
+  {
+   "subject": "T.N. Madan",
+   "type": "collaborated_with",
+   "object": "Satish Saberwal",
+   "role": "colleague",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "My colleagues Veena Das and Satish Saberwal have, as usual, given me their unstinted support and helped me with their advice.",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Heesterman Householder and Wanderer",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Heesterman Householder and Wanderer.txt",
+ "meta": {
+  "title": "Householder and wanderer",
+  "author": "Heesterman, J.C.",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,72 @@
+{
+ "author": "本庄良文",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "本庄良文",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "小谷信千代",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "岡田行弘",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "M・ハーン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "小谷信千代",
+   "type": "collaborated_with",
+   "object": "本庄良文",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "倶舎論の原典研究 随眠品 小谷信千代 本庄良文 目 次",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "岡田行弘",
+   "type": "student_of",
+   "object": "M・ハーン",
+   "role": null,
+   "place": "Germany",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "岡田はドイツ留学中、M・ハーンのもとでこれらの資料およびチベット訳で残されている注釈書を研究し、同時に真諦訳をドイツ語に翻訳した",
+   "quote_ok": true
+  }
+ ],
+ "docid": "AKBh 倶舎論の原典研究 随眠品 5章",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/AKBh 倶舎論の原典研究 随眠品 5章.txt",
+ "meta": {
+  "title": "倶舎論の原典研究 随眠品",
+  "author": "小谷信千代, 本庄良文",
+  "year": null,
+  "language": "jp"
+ },
+ "model": "gemini-flash-latest"
+}

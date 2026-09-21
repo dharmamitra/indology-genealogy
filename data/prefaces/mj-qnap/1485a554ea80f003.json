@@ -1,0 +1,170 @@
+{
+ "author": "Charles Rockwell Lanman",
+ "doc_kind": "text_edition",
+ "doc_year": 1951,
+ "people": [
+  {
+   "name": "Charles Rockwell Lanman"
+  },
+  {
+   "name": "Karl Friedrich Geldner"
+  },
+  {
+   "name": "Rudolf von Roth"
+  },
+  {
+   "name": "Maurice Bloomfield"
+  },
+  {
+   "name": "Henry Clarke Warren",
+   "birth_year": 1854,
+   "death_year": 1899
+  },
+  {
+   "name": "Johannes Nobel"
+  },
+  {
+   "name": "W. E. Clark"
+  },
+  {
+   "name": "William Dwight Whitney"
+  },
+  {
+   "name": "Alfred Bertholet"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Charles Rockwell Lanman",
+   "type": "studied_at",
+   "object": "Yale",
+   "role": "B. A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1871,
+   "explicit": true,
+   "evidence": "CHARLES ROCKWELL LANMAN B. A., Yale, 1871",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Charles Rockwell Lanman",
+   "type": "position_at",
+   "object": "Harvard University",
+   "role": "Professor of Sanskrit",
+   "place": null,
+   "year_start": 1880,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor of Sanskrit (1880) at Harvard University",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Maurice Bloomfield",
+   "type": "student_of",
+   "object": "Charles Rockwell Lanman",
+   "role": null,
+   "place": "Baltimore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bloomfield, meinem Schüler und Nachfolger zu Baltimore",
+   "quote_ok": true
+  },
+  {
+   "subject": "Maurice Bloomfield",
+   "type": "succeeded",
+   "object": "Charles Rockwell Lanman",
+   "role": null,
+   "place": "Baltimore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bloomfield, meinem Schüler und Nachfolger zu Baltimore",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Dwight Whitney",
+   "type": "collaborated_with",
+   "object": "Rudolf von Roth",
+   "role": null,
+   "place": null,
+   "year_start": 1856,
+   "year_end": 1856,
+   "explicit": true,
+   "evidence": "Whitney, Mitherausgeber (1856) des Textes mit Roth",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Friedrich Geldner",
+   "type": "student_of",
+   "object": "Rudolf von Roth",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Geldner war der Schüler von Roth.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Clarke Warren",
+   "type": "studied_at",
+   "object": "Harvard",
+   "role": "Baccalaureus Artium (B. A.)",
+   "place": null,
+   "year_start": null,
+   "year_end": 1879,
+   "explicit": true,
+   "evidence": "Henry Clarke Warren (1854—1899), Baccalaureus Artium (B. A.) von Harvard in 1879.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Clarke Warren",
+   "type": "student_of",
+   "object": "Charles Rockwell Lanman",
+   "role": null,
+   "place": "The Johns Hopkins University zu Baltimore",
+   "year_start": 1879,
+   "year_end": 1879,
+   "explicit": true,
+   "evidence": "Er war mein Schüler auf The Johns Hopkins University zu Baltimore in 1879",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Nobel",
+   "type": "succeeded",
+   "object": "Karl Friedrich Geldner",
+   "role": "Professor Dr.",
+   "place": "Marburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Geldner's Nachfolger zu Marburg, Professor Dr. Johannes Nobel",
+   "quote_ok": true
+  },
+  {
+   "subject": "W. E. Clark",
+   "type": "position_at",
+   "object": "Harvard University",
+   "role": null,
+   "place": null,
+   "year_start": 1939,
+   "year_end": 1939,
+   "explicit": true,
+   "evidence": "Harvard University, June 25, 1939. W. E. Clark.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Gelder Rig.Veda 1",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/Gelder Rig.Veda 1.txt",
+ "meta": {
+  "title": "Der Rig-Veda",
+  "author": "Geldner, Karl Friedrich",
+  "year": 1951,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

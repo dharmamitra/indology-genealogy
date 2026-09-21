@@ -1,0 +1,64 @@
+{
+ "author": "W. Ahlwardt",
+ "doc_kind": "other",
+ "doc_year": 1887,
+ "people": [
+  {
+   "name": "W. Ahlwardt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Arabic studies"
+  },
+  {
+   "name": "Pertz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Dr. Wilmanns",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Pertz",
+   "type": "position_at",
+   "object": "Königliche Bibliothek zu Berlin",
+   "role": "Vorsteher",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "den Vorstehern der Königlichen Bibliothek, von dem Geheimen Rath Pertz an bis auf den jetzigen General-Director Herrn Dr. Wilmanns",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dr. Wilmanns",
+   "type": "position_at",
+   "object": "Königliche Bibliothek zu Berlin",
+   "role": "General-Director",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "den Vorstehern der Königlichen Bibliothek, von dem Geheimen Rath Pertz an bis auf den jetzigen General-Director Herrn Dr. Wilmanns",
+   "quote_ok": true
+  }
+ ],
+ "docid": "diehandschriften07preu",
+ "corpus": "mj-qnap",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-qnap/out/diehandschriften07preu.txt",
+ "meta": {
+  "title": "Die Handschriften-Verzeichnisse der Königlichen Bibliothek zu Berlin. Siebenter Band. Verzeichnis der arabischen Handschriften",
+  "author": "Ahlwardt, W.",
+  "year": 1887,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

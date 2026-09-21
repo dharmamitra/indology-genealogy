@@ -1,0 +1,85 @@
+{
+ "author": "Seishi KARASHIMA",
+ "doc_kind": "article",
+ "doc_year": 2002,
+ "people": [
+  {
+   "name": "Prabodh Chandra Bagchi",
+   "birth_year": 1898,
+   "death_year": 1956,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kalyan Kumar Sarkar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Seishi KARASHIMA",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Noriyuki Kudo",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Kalyan Kumar Sarkar",
+   "type": "student_of",
+   "object": "Prabodh Chandra Bagchi",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Kalyan Kumar Sarkar at Windsor in Canada, one of the most distinguished among Prabodh Chandra Bagchi's students",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Kalyan Kumar Sarkar",
+   "type": "position_at",
+   "object": "Windsor",
+   "role": "Professor",
+   "place": "Canada",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Kalyan Kumar Sarkar at Windsor in Canada",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Noriyuki Kudo",
+   "type": "collaborated_with",
+   "object": "Seishi KARASHIMA",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I wish to thank my colleague, Noriyuki Kudo, for bringing my attention to this transliteration and its problem.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Karashima_2001",
+ "corpus": "mj-new",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/ocr-new/Karashima_2001.txt",
+ "meta": {
+  "title": "Miscellaneous notes on Middle Indic words",
+  "author": "KARASHIMA, Seishi",
+  "year": 2002,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

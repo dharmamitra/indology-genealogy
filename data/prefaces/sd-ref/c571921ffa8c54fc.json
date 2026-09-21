@@ -1,0 +1,73 @@
+{
+ "author": "Doris Unterthurner",
+ "doc_kind": "dissertation",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Doris Unterthurner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  },
+  {
+   "name": "Klaus-Dieter Mathes",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  },
+  {
+   "name": "Lama Mark",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Doris Unterthurner",
+   "type": "studied_at",
+   "object": "Universität Wien",
+   "role": "MA",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "universität Wien Titel der Masterarbeit / Title of the Master's Thesis verfasst von / submitted by Doris Unterthurner, BA",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Doris Unterthurner",
+   "type": "student_of",
+   "object": "Klaus-Dieter Mathes",
+   "role": "MA supervisor",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Betreut von / Supervisor: Tibetologie und Buddhismuskunde... In particular I would like to thank Univ.-Prof. Dr. Klaus-Dieter Mathes for his generous and val- uable assistance throughout the project.",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Doris Unterthurner",
+   "type": "student_of",
+   "object": "Lama Mark",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Lama Mark for his continuous and most generous support, for his advice and inspiration, and for supporting and challenging my translation skills and studies",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Unterthurner _The Life of the 4th lHo rje drung ‘Bri gung tulku O rgyan nus ldan rdo rje (1849-1902)",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Unterthurner _The Life of the 4th lHo rje drung ‘Bri gung tulku O rgyan nus ldan rdo rje (1849-1902).txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

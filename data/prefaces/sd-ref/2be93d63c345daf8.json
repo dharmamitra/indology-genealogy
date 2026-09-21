@@ -1,0 +1,86 @@
+{
+ "author": null,
+ "doc_kind": "monograph",
+ "doc_year": 2010,
+ "people": [
+  {
+   "name": "Eugène Burnouf",
+   "birth_year": 1801,
+   "death_year": 1852,
+   "nationality": "French",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Katia Buffetrille",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Donald S. Lopez Jr.",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Edward Eldridge Salisbury",
+   "birth_year": 1814,
+   "death_year": 1901,
+   "nationality": "American",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Étienne Lamotte",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Belgian",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Katia Buffetrille",
+   "type": "collaborated_with",
+   "object": "Donald S. Lopez Jr.",
+   "role": "co-translators",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Translated by Katia Buffetrille and Donald S. Lopez Jr.",
+   "quote_ok": true,
+   "quote_where": "elsewhere in document"
+  },
+  {
+   "subject": "Edward Eldridge Salisbury",
+   "type": "student_of",
+   "object": "Eugène Burnouf",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the Sanskrit instructor at Yale, Edward Eldridge Salisbury (1814–1901), a Congregationalist deacon and student of Burnouf",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Eldridge Salisbury",
+   "type": "position_at",
+   "object": "Yale",
+   "role": "Sanskrit instructor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the Sanskrit instructor at Yale, Edward Eldridge Salisbury (1814–1901)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_Introduction to the History of Indian Buddhism_Eugene Burnouf, 1844 (2010)",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_Introduction to the History of Indian Buddhism_Eugene Burnouf, 1844 (2010).txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,190 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 2001,
+ "people": [
+  {
+   "name": "Paul Demiéville",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "W. Rahula",
+   "birth_year": null,
+   "death_year": 1997,
+   "nationality": "Sri Lankan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Étienne Lamotte",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rupert Gethin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Charles Willemen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Anthony Haviland-Nye",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Russell Webb",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sara Boin-Webb",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Peter Ebbatson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "W. Rahula",
+   "type": "student_of",
+   "object": "Paul Demiéville",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I owe a debt of profound gratitude to Professor Paul Demiéville, my teacher in Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "W. Rahula",
+   "type": "collaborated_with",
+   "object": "Étienne Lamotte",
+   "role": null,
+   "place": "Louvain",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mgr. Étienne Lamotte with whom I spent several unforgettable days in Louvain as his guest, working with him on some difficult passages and discussing the many problems of this text.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rupert Gethin",
+   "type": "position_at",
+   "object": "Bristol University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr Rupert Gethin of Bristol University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Willemen",
+   "type": "position_at",
+   "object": "Ghent University",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Charles Willemen of Ghent University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anthony Haviland-Nye",
+   "type": "position_at",
+   "object": "British Buddhist Association",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Anthony Haviland-Nye of the British Buddhist Association",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sara Boin-Webb",
+   "type": "other",
+   "object": "Russell Webb",
+   "role": "spouse",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "my husband, Russell Webb, who read every word with much patience and was an enormous support",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Ebbatson",
+   "type": "student_of",
+   "object": "W. Rahula",
+   "role": "doctoral supervisor",
+   "place": "University of Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr Peter Ebbatson, formerly doctoral student of Venerable Rahula at the University of Oxford",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Ebbatson",
+   "type": "studied_at",
+   "object": "University of Oxford",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr Peter Ebbatson, formerly doctoral student of Venerable Rahula at the University of Oxford",
+   "quote_ok": true
+  },
+  {
+   "subject": "W. Rahula",
+   "type": "position_at",
+   "object": "University of Oxford",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "doctoral student of Venerable Rahula at the University of Oxford",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Abhidharmasamuccaya_The Compendium of the Higher Teaching (Philosophy)@Rahula, Walpola_1971_Boin-Webb, Sara_2001",
+ "corpus": "mj-data",
+ "path": "/home/sebastian/data/dharmanexus-modern-japanese/data/Abhidharmasamuccaya_The Compendium of the Higher Teaching (Philosophy)@Rahula, Walpola_1971_Boin-Webb, Sara_2001.txt",
+ "meta": {
+  "title": "Abhidharmasamuccaya The Compendium of the Higher Teaching (Philosophy)",
+  "author": "Asanga",
+  "year": 1971,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

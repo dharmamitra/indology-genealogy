@@ -1,0 +1,114 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "MAYEDA Sengaku",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Philip Yampolsky",
+   "birth_year": null,
+   "death_year": 1996,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kenneth K. Inada",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kiyoshi Yamashita",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "MAYEDA Sengaku",
+   "type": "position_at",
+   "object": "Musashino Women's College",
+   "role": "Vice President",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After these severe blows, the Committee elected me, Vice President of Musashino Women's College, to be the Chair in October 1995. ... The present members of the Committee are MAYEDA Sengaku (Chairperson)",
+   "quote_ok": false
+  },
+  {
+   "subject": "MAYEDA Sengaku",
+   "type": "position_at",
+   "object": "Translation Committee of the English Tripitaka",
+   "role": "Chairperson",
+   "place": "Tokyo",
+   "year_start": 1995,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After these severe blows, the Committee elected me, Vice President of Musashino Women's College, to be the Chair in October 1995. The Committee has renewed its determination to carry out the noble The present members of the Committee are MAYEDA Sengaku (Chairperson)",
+   "quote_ok": false
+  },
+  {
+   "subject": "Philip Yampolsky",
+   "type": "position_at",
+   "object": "Numata Center for Buddhist Translation and Research",
+   "role": "Chairperson of the Publication Committee",
+   "place": "Berkeley, California",
+   "year_start": null,
+   "year_end": 1996,
+   "explicit": true,
+   "evidence": "The Numata Center for Buddhist Translation and Research was established mittee was organized at the Numata Center, with Professor Philip Yampolsky as the Chairperson. To our sorrow, Professor Yampolsky passed away in July 1996.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kenneth K. Inada",
+   "type": "succeeded",
+   "object": "Philip Yampolsky",
+   "role": "Chair",
+   "place": "Numata Center for Buddhist Translation and Research",
+   "year_start": 1997,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Yampolsky passed away in July 1996. In February 1997, Dr. Kenneth K. Inada became Chair",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kenneth K. Inada",
+   "type": "position_at",
+   "object": "Publication Committee of the Numata Center for Buddhist Translation and Research",
+   "role": "Chair",
+   "place": "Berkeley, California",
+   "year_start": 1997,
+   "year_end": 1999,
+   "explicit": true,
+   "evidence": "In February 1997, Dr. Kenneth K. Inada became Chair and served in that capacity the work since October 1999.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kiyoshi Yamashita",
+   "type": "position_at",
+   "object": "Numata Center for Buddhist Translation and Research",
+   "role": "President",
+   "place": "Berkeley, California",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Reverend Kiyoshi Yamashita, president of the Numata Center for Buddhist Translation and Research, Berkeley, California.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "cleaned_1872",
+ "corpus": "sd-ref",
+ "path": "/home/sebastian/code/sanskrit-dating/reference-literature/cleaned_1872.txt",
+ "meta": {},
+ "model": "gemini-flash-latest"
+}
