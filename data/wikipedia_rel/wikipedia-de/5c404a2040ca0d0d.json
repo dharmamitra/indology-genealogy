@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sam Harris",
+   "birth_year": 1967,
+   "death_year": null,
+   "nationality": "US-amerikanisch",
+   "field": "Philosophie, Neurowissenschaft"
+  },
+  {
+   "name": "Maajid Nawaz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sam Harris",
+   "type": "studied_at",
+   "object": "Stanford University",
+   "role": "Abschluss in Philosophie",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er erlangte einen Abschluss in Philosophie von der Stanford University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sam Harris",
+   "type": "collaborated_with",
+   "object": "Maajid Nawaz",
+   "role": null,
+   "place": null,
+   "year_start": 2015,
+   "year_end": 2015,
+   "explicit": true,
+   "evidence": "2015: Islam and the Future of Tolerance: A Dialogue. (zusammen mit Maajid Nawaz)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Sam Harris",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q296047.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Sam Harris",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

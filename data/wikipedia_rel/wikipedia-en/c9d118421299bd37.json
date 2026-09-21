@@ -1,0 +1,50 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Clare Carlisle",
+   "birth_year": 1977,
+   "death_year": null,
+   "nationality": "British",
+   "field": "philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Clare Carlisle",
+   "type": "studied_at",
+   "object": "Trinity College, Cambridge",
+   "role": null,
+   "place": null,
+   "year_start": 1995,
+   "year_end": 2002,
+   "explicit": true,
+   "evidence": "She studied philosophy at Trinity College, Cambridge between 1995 and 2002.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Clare Carlisle",
+   "type": "position_at",
+   "object": "King's College London",
+   "role": "professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "She is a professor at King's College London.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Clare Carlisle",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q93229757.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Clare Carlisle",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

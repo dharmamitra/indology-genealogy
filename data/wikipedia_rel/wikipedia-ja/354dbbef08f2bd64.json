@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ラスムス・クリスチャン・ラスク",
+   "birth_year": 1787,
+   "death_year": 1832,
+   "nationality": "デンマーク",
+   "field": "言語学者・文献学者"
+  },
+  {
+   "name": "J. E. サー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ラスムス・クリスチャン・ラスク",
+   "type": "position_at",
+   "object": "コペンハーゲン大学",
+   "role": "文学史の教授",
+   "place": null,
+   "year_start": 1823,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1823年からコペンハーゲン大学で文学史の教授を務めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ラスムス・クリスチャン・ラスク",
+   "type": "student_of",
+   "object": "J. E. サー",
+   "role": "teacher",
+   "place": "オーデンセのラテン語学校",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "教師であったJ. E. サー(J. E. Suhr)からスノッリ・ストゥルルソン著『ヘイムスクリングラ』を貸し与え",
+   "quote_ok": true
+  },
+  {
+   "subject": "ラスムス・クリスチャン・ラスク",
+   "type": "studied_at",
+   "object": "オーデンセのラテン語学校",
+   "role": null,
+   "place": null,
+   "year_start": 1801,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "15歳の時(1801年)にオーデンセのラテン語学校に進んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ラスムス・クリスチャン・ラスク",
+   "type": "studied_at",
+   "object": "コペンハーゲン大学",
+   "role": null,
+   "place": null,
+   "year_start": 1808,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1808年、コペンハーゲン大学に入学。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ラスムス・ラスク",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q310958.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ラスムス・ラスク",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

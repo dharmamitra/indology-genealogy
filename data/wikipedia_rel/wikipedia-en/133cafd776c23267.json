@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Lucian Scherman",
+   "birth_year": 1864,
+   "death_year": 1946,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Adolf Friedrich Stenzler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ernst Kuhn",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Lucian Scherman",
+   "type": "position_at",
+   "object": "Ethnology Museum in Munich",
+   "role": "curator",
+   "place": "Munich",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "curator of the Ethnology Museum in Munich",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lucian Scherman",
+   "type": "position_at",
+   "object": "University of Munich",
+   "role": "professor",
+   "place": "Munich",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and also a professor at the University there.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lucian Scherman",
+   "type": "studied_at",
+   "object": "University of Breslau",
+   "role": null,
+   "place": "Breslau",
+   "year_start": 1882,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1882 he took up the study of Sanskrit at the University of Breslau with Adolf Friedrich Stenzler.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lucian Scherman",
+   "type": "student_of",
+   "object": "Adolf Friedrich Stenzler",
+   "role": "teacher",
+   "place": "University of Breslau",
+   "year_start": 1882,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1882 he took up the study of Sanskrit at the University of Breslau with Adolf Friedrich Stenzler.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lucian Scherman",
+   "type": "studied_at",
+   "object": "Ludwig-Maximilians-Universität München",
+   "role": "doctorate",
+   "place": "Munich",
+   "year_start": 1883,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "In 1883, he relocated to Munich, where he continued his studies at the Ludwig-Maximilians-Universität München. Scherman received his doctorate in the summer of 1885.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lucian Scherman",
+   "type": "student_of",
+   "object": "Ernst Kuhn",
+   "role": "doctoral supervisor",
+   "place": "Ludwig-Maximilians-Universität München",
+   "year_start": null,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "The dissertation was, coincidentally, the answer to a prize question that his instructor, Ernst Kuhn, had put to the faculty.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Lucian Scherman",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q214847.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Lucian Scherman",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Hu Shi",
+   "birth_year": 1891,
+   "death_year": 1962,
+   "nationality": "chinesisch",
+   "field": "Philosoph, Philologe und Politiker"
+  },
+  {
+   "name": "John Dewey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Suzuki Daisetsu Teitaro",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "japanisch",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hu Shi",
+   "type": "studied_at",
+   "object": "Cornell University",
+   "role": null,
+   "place": "Ithaca",
+   "year_start": 1910,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hu Shi begann sein Studium an der Cornell University in Ithaca, wo er sich zunächst in der landwirtschaftlichen Fakultät einschrieb.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hu Shi",
+   "type": "studied_at",
+   "object": "Columbia University",
+   "role": "PhD",
+   "place": "New York",
+   "year_start": null,
+   "year_end": 1917,
+   "explicit": true,
+   "evidence": "Für seinen PhD wechselte Hu Shi, angezogen von John Deweys Pragmatismus, nach New York, wo er 1917 an der Columbia University bei Dewey seine Doktorarbeit [...] schrieb.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hu Shi",
+   "type": "student_of",
+   "object": "John Dewey",
+   "role": "doctoral supervisor",
+   "place": "New York",
+   "year_start": null,
+   "year_end": 1917,
+   "explicit": true,
+   "evidence": "wo er 1917 an der Columbia University bei Dewey seine Doktorarbeit über „die Entwicklung der logischen Methode im antiken China“ schrieb.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Suzuki Daisetsu Teitaro",
+   "type": "influenced_by",
+   "object": "Hu Shi",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Die daraus entstandenen Werke beeinflussten japanische Forscher wie Suzuki Daisetsu Teitaro entscheidend.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hu Shi",
+   "type": "position_at",
+   "object": "Academia Sinica",
+   "role": "Vorsitz",
+   "place": "Taiwan",
+   "year_start": 1958,
+   "year_end": 1962,
+   "explicit": true,
+   "evidence": "Im Jahr 1958 ging er nach Taiwan, wo er den Vorsitz der Academia Sinica übernahm. 1962 starb er.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Hu Shi",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q47667.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Hu Shi",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

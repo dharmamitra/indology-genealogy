@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Otto Blau",
+   "birth_year": 1828,
+   "death_year": 1879,
+   "nationality": "German",
+   "field": "Orientalist"
+  },
+  {
+   "name": "Paul Blau",
+   "birth_year": 1861,
+   "death_year": 1944,
+   "nationality": null,
+   "field": "evangelischer Theologe"
+  },
+  {
+   "name": "Otto Franz von Moellendorff",
+   "birth_year": 1848,
+   "death_year": 1903,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Otto Blau",
+   "type": "studied_at",
+   "object": "Halle",
+   "role": null,
+   "place": "Halle",
+   "year_start": 1848,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Frühjahr 1848 begann Blau kurzzeitig Theologie und Philosophie in Halle zu studieren, wandte sich aber schon bald den Orientalischen Sprachen zu.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Blau",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er setzte deren Studium in Leipzig fort.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Blau",
+   "type": "other",
+   "object": "Paul Blau",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sohn Paul Blau (1861–1944), evangelischer Theologe",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Franz von Moellendorff",
+   "type": "other",
+   "object": "Otto Blau",
+   "role": "son-in-law",
+   "place": null,
+   "year_start": 1880,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Tochter Betty Blau (1857–1920), welche 1880 Otto Franz von Moellendorff (1848–1903) heiratete.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Otto Blau (Orientalist)",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q107542.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Otto Blau (Orientalist)",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

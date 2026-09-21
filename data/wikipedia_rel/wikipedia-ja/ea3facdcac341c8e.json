@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "西嶋 和夫",
+   "birth_year": 1919,
+   "death_year": 2014,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "丹羽廉芳",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "西嶋 和夫",
+   "type": "studied_at",
+   "object": "東京帝国大学法学部法律学科",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "東京帝国大学法学部法律学科へ進学。卒業後大蔵省入省。",
+   "quote_ok": true
+  },
+  {
+   "subject": "西嶋 和夫",
+   "type": "student_of",
+   "object": "丹羽廉芳",
+   "role": "traditional teacher",
+   "place": "永平寺東京別院",
+   "year_start": 1973,
+   "year_end": 1977,
+   "explicit": true,
+   "evidence": "1973年に永平寺東京別院にて丹羽廉芳老師（にわれんぽう、1985年に永平寺77世貫主）のもとで出家。法名愚道和夫（ぐどうわふ）。1977年師より嗣法。",
+   "quote_ok": true
+  },
+  {
+   "subject": "西嶋 和夫",
+   "type": "position_at",
+   "object": "東京大学仏教青年会",
+   "role": "lecturer",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "東京大学仏教青年会、東方学院をはじめ各所で日本人ならびに外国人に講義を行い",
+   "quote_ok": true
+  },
+  {
+   "subject": "西嶋 和夫",
+   "type": "position_at",
+   "object": "東方学院",
+   "role": "lecturer",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "東京大学仏教青年会、東方学院をはじめ各所で日本人ならびに外国人に講義を行い",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 西嶋和夫",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q221919.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 西嶋和夫",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

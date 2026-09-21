@@ -1,0 +1,160 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "風間喜代三",
+   "birth_year": 1928,
+   "death_year": null,
+   "nationality": "日本",
+   "field": "言語学"
+  },
+  {
+   "name": "高津春繁",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "風間伸次郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "言語学"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "風間喜代三",
+   "type": "studied_at",
+   "object": "東京大学文学部言語学科",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1952,
+   "explicit": true,
+   "evidence": "1952年東京大学文学部言語学科卒業",
+   "quote_ok": true
+  },
+  {
+   "subject": "風間喜代三",
+   "type": "student_of",
+   "object": "高津春繁",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "高津春繁の指導を受け、比較文法学を研究。",
+   "quote_ok": true
+  },
+  {
+   "subject": "風間喜代三",
+   "type": "studied_at",
+   "object": "ウィーン大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ウィーン大学留学。",
+   "quote_ok": true
+  },
+  {
+   "subject": "風間喜代三",
+   "type": "position_at",
+   "object": "名古屋大学",
+   "role": "助教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "帰国した後、名古屋大学助教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "風間喜代三",
+   "type": "position_at",
+   "object": "東京大学文学部",
+   "role": "助教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "東京大学文学部助教授を経て教授。",
+   "quote_ok": true
+  },
+  {
+   "subject": "風間喜代三",
+   "type": "position_at",
+   "object": "東京大学文学部",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": 1989,
+   "explicit": true,
+   "evidence": "東京大学文学部助教授を経て教授。1978年10月には「印欧語の親族名称の研究」を東大に提出して文学博士号を取得。1989年に東京大学を定年退官し、名誉教授となった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "風間喜代三",
+   "type": "studied_at",
+   "object": "東京大学",
+   "role": "文学博士号",
+   "place": null,
+   "year_start": null,
+   "year_end": 1978,
+   "explicit": true,
+   "evidence": "1978年10月には「印欧語の親族名称の研究」を東大に提出して文学博士号を取得。",
+   "quote_ok": true
+  },
+  {
+   "subject": "風間喜代三",
+   "type": "position_at",
+   "object": "法政大学第一教養部",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": 1999,
+   "explicit": true,
+   "evidence": "法政大学第一教養部教授を1999年まで務めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "風間伸次郎",
+   "type": "position_at",
+   "object": "東京外国語大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "甥：風間伸次郎は言語学者（アルタイ諸言語）であり、東京外国語大学教授。",
+   "quote_ok": true
+  },
+  {
+   "subject": "風間伸次郎",
+   "type": "other",
+   "object": "風間喜代三",
+   "role": "甥",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "甥：風間伸次郎は言語学者（アルタイ諸言語）であり、東京外国語大学教授。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 風間喜代三",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q6419168.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 風間喜代三",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

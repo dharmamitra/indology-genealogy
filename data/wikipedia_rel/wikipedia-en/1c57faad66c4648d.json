@@ -1,0 +1,124 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Nicholas Poppe",
+   "birth_year": 1897,
+   "death_year": 1991,
+   "nationality": "Russian",
+   "field": "linguist"
+  },
+  {
+   "name": "B. Ya. Vladimirtsov",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Owen Lattimore",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Nicholas Poppe",
+   "type": "student_of",
+   "object": "B. Ya. Vladimirtsov",
+   "role": "mentor",
+   "place": "Petrograd University",
+   "year_start": null,
+   "year_end": 1921,
+   "explicit": true,
+   "evidence": "Poppe graduated from the Mongolian Department of the Faculty of Social Sciences of Petrograd University in 1921 where his main mentor was B. Ya. Vladimirtsov.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nicholas Poppe",
+   "type": "studied_at",
+   "object": "Petrograd University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1921,
+   "explicit": true,
+   "evidence": "Poppe graduated from the Mongolian Department of the Faculty of Social Sciences of Petrograd University in 1921",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nicholas Poppe",
+   "type": "position_at",
+   "object": "Institute for Modern Oriental Languages",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1920,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He began teaching at the Institute for Modern Oriental Languages before he had completed his studies in 1920 at the age of 23.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nicholas Poppe",
+   "type": "position_at",
+   "object": "University of Petrograd",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1923,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Three years later, in 1923, he began teaching at the University of Petrograd.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nicholas Poppe",
+   "type": "position_at",
+   "object": "Institute of Oriental Studies at the Soviet Academy of Sciences",
+   "role": "head of the Department of Mongolian Studies",
+   "place": null,
+   "year_start": 1931,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1931, he was appointed head of the Department of Mongolian Studies in the Institute of Oriental Studies at the Soviet Academy of Sciences.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nicholas Poppe",
+   "type": "position_at",
+   "object": "University of Washington",
+   "role": "faculty member",
+   "place": null,
+   "year_start": null,
+   "year_end": 1968,
+   "explicit": true,
+   "evidence": "Poppe joined the faculty of the Far East and Russian Institute at the University of Washington, where he taught until his retirement in 1968.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nicholas Poppe",
+   "type": "other",
+   "object": "Owen Lattimore",
+   "role": "feud",
+   "place": null,
+   "year_start": 1952,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In the 1950s, Poppe aided Senator Joseph McCarthy's campaign against Professor Owen Lattimore, whom McCarthy accused of being a Soviet agent. Poppe claimed during the 1952 hearings that Lattimore's work on Mongolia was \"very superficial\"",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Nicholas Poppe",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q467727.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Nicholas Poppe",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

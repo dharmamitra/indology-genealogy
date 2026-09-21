@@ -1,0 +1,74 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Vladimir Tikhonov",
+   "birth_year": 1973,
+   "death_year": null,
+   "nationality": "Russian",
+   "field": "Koreanist"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Vladimir Tikhonov",
+   "type": "studied_at",
+   "object": "St. Petersburg National University",
+   "role": "bachelor's degree",
+   "place": "Russia",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At the age of sixteen, he entered the Department of Korean Studies at St. Petersburg National University of Russia... After his bachelor's degree",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vladimir Tikhonov",
+   "type": "studied_at",
+   "object": "Moscow State University",
+   "role": "doctorate",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pak continued studying Korean history and was awarded a doctorate from Moscow State University for his thesis on Gaya",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vladimir Tikhonov",
+   "type": "position_at",
+   "object": "Kyunghee University",
+   "role": null,
+   "place": "Korea",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pak has taught Russian at Kyunghee University in Korea",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vladimir Tikhonov",
+   "type": "position_at",
+   "object": "University of Oslo",
+   "role": "professor",
+   "place": "Norway",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "is currently teaching Korean studies as a professor at the Department of Culture Studies and Oriental Languages at the University of Oslo in Norway.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Pak Noja",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q490333.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Pak Noja",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

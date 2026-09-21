@@ -1,0 +1,50 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Charles Masson",
+   "birth_year": 1800,
+   "death_year": 1853,
+   "nationality": "British",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Charles Masson",
+   "type": "position_at",
+   "object": "Ostindien-Kompanie",
+   "role": "Soldat",
+   "place": "Indien",
+   "year_start": null,
+   "year_end": 1827,
+   "explicit": true,
+   "evidence": "trat Masson der Artillerie der Streitkräfte der Ostindien-Kompanie in Indien bei",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Masson",
+   "type": "position_at",
+   "object": "Ostindien-Kompanie",
+   "role": "Agent",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Als Agent der Ostindien-Kompanie besuchte er die Nordwestliche Grenzprovinz sowie Balochistan in Pakistan.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Charles Masson",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1065478.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Charles Masson",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

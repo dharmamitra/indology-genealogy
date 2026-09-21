@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Kirby Flower Smith",
+   "birth_year": 1862,
+   "death_year": 1918,
+   "nationality": "American",
+   "field": "classicist, historian, and translator of classical works"
+  },
+  {
+   "name": "Gildersleeve",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Warren",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Bloomfield",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Kirby Flower Smith",
+   "type": "studied_at",
+   "object": "University of Vermont",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1884,
+   "explicit": true,
+   "evidence": "He graduated from the University of Vermont in 1884.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kirby Flower Smith",
+   "type": "studied_at",
+   "object": "Johns Hopkins University",
+   "role": "Doctor of Philosophy",
+   "place": null,
+   "year_start": 1885,
+   "year_end": 1889,
+   "explicit": true,
+   "evidence": "In 1885, he attended the Johns Hopkins University and studied Greek, Latin, and Sanskrit under Professors Gildersleeve, Warren, and Bloomfield. He received the degree of Doctor of Philosophy in 1889.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kirby Flower Smith",
+   "type": "student_of",
+   "object": "Gildersleeve",
+   "role": "teacher",
+   "place": "Johns Hopkins University",
+   "year_start": 1885,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "attended the Johns Hopkins University and studied Greek, Latin, and Sanskrit under Professors Gildersleeve, Warren, and Bloomfield.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kirby Flower Smith",
+   "type": "student_of",
+   "object": "Warren",
+   "role": "teacher",
+   "place": "Johns Hopkins University",
+   "year_start": 1885,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "attended the Johns Hopkins University and studied Greek, Latin, and Sanskrit under Professors Gildersleeve, Warren, and Bloomfield.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kirby Flower Smith",
+   "type": "student_of",
+   "object": "Bloomfield",
+   "role": "teacher",
+   "place": "Johns Hopkins University",
+   "year_start": 1885,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "attended the Johns Hopkins University and studied Greek, Latin, and Sanskrit under Professors Gildersleeve, Warren, and Bloomfield.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kirby Flower Smith",
+   "type": "position_at",
+   "object": "Johns Hopkins University",
+   "role": "professor",
+   "place": null,
+   "year_start": 1889,
+   "year_end": 1918,
+   "explicit": true,
+   "evidence": "He was immediately made a professor at Johns Hopkins University, and in spite of various offers from other institutions, he remained there until the day of his death.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kirby Flower Smith",
+   "type": "position_at",
+   "object": "School of Classical Studies in the American Academy in Rome",
+   "role": "Director",
+   "place": null,
+   "year_start": 1914,
+   "year_end": 1915,
+   "explicit": true,
+   "evidence": "In 1914–15, he was granted leave of absence to serve as Director of the School of Classical Studies in the American Academy in Rome.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Kirby Flower Smith",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q21524539.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Kirby Flower Smith",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

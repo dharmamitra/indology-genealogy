@@ -1,0 +1,136 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Peter Schreiner",
+   "birth_year": 1945,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Paul Hacker",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Renate Söhnen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Peter Schreiner",
+   "type": "studied_at",
+   "object": "Temple University",
+   "role": "Masterabschluss",
+   "place": "Philadelphia",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er erlangte seinen Masterabschluss am Fachbereich Religion der Temple University in Philadelphia.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Schreiner",
+   "type": "student_of",
+   "object": "Paul Hacker",
+   "role": "doctoral supervisor",
+   "place": "Münster",
+   "year_start": null,
+   "year_end": 1972,
+   "explicit": true,
+   "evidence": "1972 promovierte er in Münster bei Paul Hacker mit einer Schrift über Premchand.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Schreiner",
+   "type": "studied_at",
+   "object": "Universität Münster",
+   "role": "Promotion",
+   "place": "Münster",
+   "year_start": null,
+   "year_end": 1972,
+   "explicit": true,
+   "evidence": "1972 promovierte er in Münster bei Paul Hacker mit einer Schrift über Premchand.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Schreiner",
+   "type": "position_at",
+   "object": "Seminar für Indologie und vergleichende Religionswissenschaft, Tübingen",
+   "role": "wissenschaftlicher Assistent",
+   "place": "Tübingen",
+   "year_start": 1974,
+   "year_end": 1982,
+   "explicit": true,
+   "evidence": "Von 1974 bis 1986 lebte er in Tübingen, wo er zunächst bis 1982 als wissenschaftlicher Assistent am Seminar für Indologie und vergleichende Religionswissenschaft arbeitete",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Schreiner",
+   "type": "studied_at",
+   "object": "Universität Tübingen",
+   "role": "Habilitation",
+   "place": "Tübingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "arbeitete, sich habilitierte und dann als wissenschaftlicher Mitarbeiter am Tübinger Purana-Projekt tätig war.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Schreiner",
+   "type": "position_at",
+   "object": "School of Oriental and African Studies",
+   "role": "Lecturer of Sanskrit",
+   "place": "London",
+   "year_start": 1988,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "und ab 1988 in London, wo er als Lecturer of Sanskrit an der School of Oriental and African Studies lehrte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Schreiner",
+   "type": "position_at",
+   "object": "Universität Zürich",
+   "role": "außerordentlicher Professor für Indologie",
+   "place": "Zürich",
+   "year_start": 1989,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1989 wurde er außerordentlicher Professor für Indologie in Zürich.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Schreiner",
+   "type": "collaborated_with",
+   "object": "Renate Söhnen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1989,
+   "explicit": true,
+   "evidence": "mit Renate Söhnen: Brahmapurāṇa. Summary of contents, with index of names and motifs. Wiesbaden 1989",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Peter Schreiner (Indologe)",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q98167487.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Peter Schreiner (Indologe)",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

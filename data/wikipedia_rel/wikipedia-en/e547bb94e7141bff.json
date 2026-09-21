@@ -1,0 +1,148 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Johann Heinrich Hübschmann",
+   "birth_year": 1848,
+   "death_year": 1908,
+   "nationality": "German",
+   "field": "philologist and comparative linguist"
+  },
+  {
+   "name": "August Schleicher",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Martin Haug",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johann Heinrich Hübschmann",
+   "type": "student_of",
+   "object": "August Schleicher",
+   "role": "teacher",
+   "place": "University of Jena",
+   "year_start": 1868,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Beginning in 1868, he studied philology at the University of Jena (under August Schleicher)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Heinrich Hübschmann",
+   "type": "studied_at",
+   "object": "University of Jena",
+   "role": null,
+   "place": null,
+   "year_start": 1868,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Beginning in 1868, he studied philology at the University of Jena (under August Schleicher)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Heinrich Hübschmann",
+   "type": "studied_at",
+   "object": "University of Tübingen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he studied philology at the University of Jena (under August Schleicher), the University of Tübingen, Leipzig University, and the Ludwig-Maximilians-Universität München",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Heinrich Hübschmann",
+   "type": "studied_at",
+   "object": "Leipzig University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he studied philology at the University of Jena (under August Schleicher), the University of Tübingen, Leipzig University, and the Ludwig-Maximilians-Universität München",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Heinrich Hübschmann",
+   "type": "studied_at",
+   "object": "Ludwig-Maximilians-Universität München",
+   "role": "doctorate",
+   "place": null,
+   "year_start": null,
+   "year_end": 1872,
+   "explicit": true,
+   "evidence": "and the Ludwig-Maximilians-Universität München, receiving his doctorate in February 1872.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Heinrich Hübschmann",
+   "type": "student_of",
+   "object": "Martin Haug",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1872,
+   "explicit": true,
+   "evidence": "His dissertation, supervised by Martin Haug, examined Yasna 30 of the Avesta",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Heinrich Hübschmann",
+   "type": "studied_at",
+   "object": "Leipzig University",
+   "role": "Habilitation",
+   "place": null,
+   "year_start": null,
+   "year_end": 1875,
+   "explicit": true,
+   "evidence": "The following year he published a German translation of Sebeos's History of Armenia, which served as his habilitation thesis and qualified him to lecture in Indo-Iranian languages at Leipzig University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Heinrich Hübschmann",
+   "type": "position_at",
+   "object": "Leipzig University",
+   "role": "associate professor",
+   "place": null,
+   "year_start": 1876,
+   "year_end": 1877,
+   "explicit": true,
+   "evidence": "He was appointed associate professor there in 1876.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Heinrich Hübschmann",
+   "type": "position_at",
+   "object": "University of Strasbourg",
+   "role": "full professor of comparative philology",
+   "place": null,
+   "year_start": 1877,
+   "year_end": 1908,
+   "explicit": true,
+   "evidence": "From 1877 until his death, Hübschmann served as full professor of comparative philology at the University of Strasbourg",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Heinrich Hübschmann",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q77038.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Heinrich Hübschmann",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

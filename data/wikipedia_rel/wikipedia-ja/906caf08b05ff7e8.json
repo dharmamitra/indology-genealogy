@@ -1,0 +1,114 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ジョージ・P・レイコフ",
+   "birth_year": 1941,
+   "death_year": null,
+   "nationality": "アメリカ合衆国",
+   "field": "言語学"
+  },
+  {
+   "name": "ロマーン・ヤーコブソン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "言語学"
+  },
+  {
+   "name": "モリス・ハレ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "言語学"
+  },
+  {
+   "name": "ノーム・チョムスキー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "言語学"
+  },
+  {
+   "name": "マーク・ジョンソン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ジョージ・P・レイコフ",
+   "type": "position_at",
+   "object": "カリフォルニア大学バークレー校",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "カリフォルニア大学バークレー校教授。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジョージ・P・レイコフ",
+   "type": "student_of",
+   "object": "ロマーン・ヤーコブソン",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1963,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "学術的活動は、1963年にロマーン・ヤーコブソンやモリス・ハレ、ノーム・チョムスキーらの言語学研究者に師事したことから始まる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジョージ・P・レイコフ",
+   "type": "student_of",
+   "object": "モリス・ハレ",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1963,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "学術的活動は、1963年にロマーン・ヤーコブソンやモリス・ハレ、ノーム・チョムスキーらの言語学研究者に師事したことから始まる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジョージ・P・レイコフ",
+   "type": "student_of",
+   "object": "ノーム・チョムスキー",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1963,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "学術的活動は、1963年にロマーン・ヤーコブソンやモリス・ハレ、ノーム・チョムスキーらの言語学研究者に師事したことから始まる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジョージ・P・レイコフ",
+   "type": "collaborated_with",
+   "object": "マーク・ジョンソン",
+   "role": "co-author",
+   "place": null,
+   "year_start": 1980,
+   "year_end": 1980,
+   "explicit": true,
+   "evidence": "レイコフは1980年、マーク・ジョンソンとの共著Metaphors We Live Byで",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ジョージ・レイコフ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q313772.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ジョージ・レイコフ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

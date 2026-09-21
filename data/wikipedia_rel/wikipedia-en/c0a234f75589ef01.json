@@ -1,0 +1,138 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Johann Gottfried Jakob Hermann",
+   "birth_year": 1772,
+   "death_year": 1848,
+   "nationality": "German",
+   "field": "classical scholar and philologist"
+  },
+  {
+   "name": "Friedrich Wolfgang Reiz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philology"
+  },
+  {
+   "name": "Leopold von Ranke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "August Böckh",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philology"
+  },
+  {
+   "name": "Karl Otfried Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johann Gottfried Jakob Hermann",
+   "type": "studied_at",
+   "object": "university of Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hermann was born in Leipzig. Entering its university at the age of fourteen, he at first studied law, which he soon abandoned for the classics",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Jakob Hermann",
+   "type": "influenced_by",
+   "object": "Friedrich Wolfgang Reiz",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "(it was Friedrich Wolfgang Reiz who introduced him to philology)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Jakob Hermann",
+   "type": "studied_at",
+   "object": "Jena",
+   "role": null,
+   "place": "Jena",
+   "year_start": 1793,
+   "year_end": 1794,
+   "explicit": true,
+   "evidence": "After a semester at Jena in 1793–1794",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Jakob Hermann",
+   "type": "position_at",
+   "object": "university of Leipzig",
+   "role": "lecturer in classical literature",
+   "place": "Leipzig",
+   "year_start": 1794,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "After a semester at Jena in 1793–1794, he became a lecturer in classical literature in Leipzig",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Jakob Hermann",
+   "type": "position_at",
+   "object": "university of Leipzig",
+   "role": "professor extraordinarius of philosophy",
+   "place": "Leipzig",
+   "year_start": 1798,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1798 professor extraordinarius of philosophy in the university",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Jakob Hermann",
+   "type": "position_at",
+   "object": "university of Leipzig",
+   "role": "professor of eloquence (and poetry, 1809)",
+   "place": "Leipzig",
+   "year_start": 1803,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and in 1803 professor of eloquence (and poetry, 1809)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Leopold von Ranke",
+   "type": "student_of",
+   "object": "Johann Gottfried Jakob Hermann",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His students included Leopold von Ranke.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Johann Gottfried Jakob Hermann",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q77616.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Johann Gottfried Jakob Hermann",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

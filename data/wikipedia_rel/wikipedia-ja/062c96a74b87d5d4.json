@@ -1,0 +1,143 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "大谷光瑞",
+   "birth_year": 1876,
+   "death_year": 1948,
+   "nationality": "日本",
+   "field": null
+  },
+  {
+   "name": "前田慧雲",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "日本",
+   "field": null
+  },
+  {
+   "name": "伊東忠太",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "日本",
+   "field": null
+  },
+  {
+   "name": "スヴェン・ヘディン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "スウェーデン",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "大谷光瑞",
+   "type": "studied_at",
+   "object": "学習院",
+   "role": null,
+   "place": null,
+   "year_start": 1886,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "翌1886年（明治19年）に上京して学習院に進むが中途退学。",
+   "quote_ok": true
+  },
+  {
+   "subject": "大谷光瑞",
+   "type": "studied_at",
+   "object": "共立学舎",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "その後、尺振八の開いた共立学舎（当時受験校で知られていた共立学校とは別）という英学校に入学するもやはり退学。",
+   "quote_ok": true
+  },
+  {
+   "subject": "大谷光瑞",
+   "type": "student_of",
+   "object": "前田慧雲",
+   "role": "teacher",
+   "place": "京都",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "京都に帰り前田慧雲（のち東洋大学学長・龍谷大学学長）に学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "前田慧雲",
+   "type": "position_at",
+   "object": "東洋大学",
+   "role": "学長",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "前田慧雲（のち東洋大学学長・龍谷大学学長）",
+   "quote_ok": true
+  },
+  {
+   "subject": "前田慧雲",
+   "type": "position_at",
+   "object": "龍谷大学",
+   "role": "学長",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "前田慧雲（のち東洋大学学長・龍谷大学学長）",
+   "quote_ok": true
+  },
+  {
+   "subject": "大谷光瑞",
+   "type": "collaborated_with",
+   "object": "伊東忠太",
+   "role": "盟友",
+   "place": null,
+   "year_start": 1908,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1908年（明治41年）、六甲山麓の岡本（現在の神戸市東灘区）に盟友伊東忠太の設計になる二楽荘を建てる",
+   "quote_ok": true
+  },
+  {
+   "subject": "大谷光瑞",
+   "type": "founded",
+   "object": "光寿会",
+   "role": null,
+   "place": null,
+   "year_start": 1919,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1919年（大正8年）には光寿会を設立して仏典原典（梵字で記述）の翻訳にあたる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "大谷光瑞",
+   "type": "collaborated_with",
+   "object": "スヴェン・ヘディン",
+   "role": "交流",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "『大谷光瑞とスヴェン・ヘディン』（白須淨眞編、勉誠出版、2014年9月）-当時の国際政治社会での探検家スヴェン・ヘディン（スウェーデン）との交流を論考。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 大谷光瑞",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q386254.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 大谷光瑞",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

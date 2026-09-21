@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Walter Yeeling Evans-Wentz",
+   "birth_year": 1878,
+   "death_year": 1965,
+   "nationality": "US-amerikanisch",
+   "field": "Anthropologie"
+  },
+  {
+   "name": "Kazi Dawa-Samdup",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Walter Yeeling Evans-Wentz",
+   "type": "studied_at",
+   "object": "Stanford-Universität",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studierte Evans-Wentz an der Stanford-Universität",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Yeeling Evans-Wentz",
+   "type": "collaborated_with",
+   "object": "Kazi Dawa-Samdup",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "The Tibetan Book of the Dead; or, The after-death experiences on the Bardo plane, according to Lāma Kazi Dawa-Samdup’s English rendering [...] London, Oxford University Press, H. Milford, 1927.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Walter Evans-Wentz",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q456451.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Walter Evans-Wentz",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

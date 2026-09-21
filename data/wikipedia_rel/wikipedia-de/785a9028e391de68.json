@@ -1,0 +1,45 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Arthur Schopenhauer",
+   "birth_year": 1788,
+   "death_year": 1860,
+   "nationality": "German",
+   "field": "philosophy"
+  },
+  {
+   "name": "Immanuel Kant",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Arthur Schopenhauer",
+   "type": "influenced_by",
+   "object": "Immanuel Kant",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Unter dem Einfluss Platons und Kants vertrat Schopenhauer in seiner Erkenntnistheorie die Position des Idealismus",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Arthur Schopenhauer",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q38193.txt#1",
+ "meta": {
+  "title": "Wikipedia (de): Arthur Schopenhauer",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

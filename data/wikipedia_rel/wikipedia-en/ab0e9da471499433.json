@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Heinz Bechert",
+   "birth_year": 1932,
+   "death_year": 2005,
+   "nationality": "German",
+   "field": "Indology and Buddhist studies"
+  },
+  {
+   "name": "Ernst Waldschmidt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Heinz Bechert",
+   "type": "position_at",
+   "object": "University of Göttingen",
+   "role": "Chair of Indology",
+   "place": "Göttingen",
+   "year_start": 1965,
+   "year_end": 2000,
+   "explicit": true,
+   "evidence": "from 1965 to 2000, Heinz Bechert held the Chair of Indology at the University of Göttingen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinz Bechert",
+   "type": "collaborated_with",
+   "object": "Ernst Waldschmidt",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Together with Ernst Waldschmidt, he was editor of the Sanskrit-Wörterbuch der buddhistischen Texte aus den Turfan-Funden",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Heinz Bechert",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q110312.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Heinz Bechert",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

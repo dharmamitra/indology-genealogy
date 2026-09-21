@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Stephanie Wroth Jamison",
+   "birth_year": 1948,
+   "death_year": null,
+   "nationality": "American",
+   "field": "linguist"
+  },
+  {
+   "name": "Stanley Insler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Calvert Watkins",
+   "birth_year": null,
+   "death_year": 2013,
+   "nationality": null,
+   "field": "Indo-Europeanist"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Stephanie Wroth Jamison",
+   "type": "position_at",
+   "object": "University of California, Los Angeles",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Stephanie Wroth Jamison (born July 17, 1948) is an American linguist, currently at the University of California, Los Angeles",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stephanie Wroth Jamison",
+   "type": "studied_at",
+   "object": "Yale University",
+   "role": "doctoral work",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "She did her doctoral work at Yale University as a student of Stanley Insler",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stephanie Wroth Jamison",
+   "type": "student_of",
+   "object": "Stanley Insler",
+   "role": "doctoral supervisor",
+   "place": "Yale University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "She did her doctoral work at Yale University as a student of Stanley Insler",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stephanie Wroth Jamison",
+   "type": "other",
+   "object": "Calvert Watkins",
+   "role": "husband",
+   "place": null,
+   "year_start": 1980,
+   "year_end": 2013,
+   "explicit": true,
+   "evidence": "She was married to the Indo-Europeanist Calvert Watkins from 1980 until his death in 2013.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Stephanie W. Jamison",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q29469839.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Stephanie W. Jamison",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

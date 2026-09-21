@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ishwar Chandra Vidyasagar",
+   "birth_year": 1820,
+   "death_year": 1891,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Ram Mohan Roy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ishwar Chandra Vidyasagar",
+   "type": "influenced_by",
+   "object": "Ram Mohan Roy",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "bezüglich seiner Sozialreformen als geistiger Nachfolger Ram Mohan Roys",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ishwar Chandra Vidyasagar",
+   "type": "studied_at",
+   "object": "Sanskrit College",
+   "role": null,
+   "place": "Kolkata",
+   "year_start": 1829,
+   "year_end": 1841,
+   "explicit": true,
+   "evidence": "Während seiner Schulzeit von 1829 bis 1841 am Sanskrit College soll sein Wissensdrang so immens gewesen sein",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ishwar Chandra Vidyasagar",
+   "type": "position_at",
+   "object": "Fort Williams College",
+   "role": "Lehrer",
+   "place": "Kolkata",
+   "year_start": 1841,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1841 trat Vidyasagar seine erste Stelle als Lehrer am Fort Williams College in Kolkata an",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ishwar Chandra Vidyasagar",
+   "type": "position_at",
+   "object": "Sanskrit College",
+   "role": "Direktor",
+   "place": "Kolkata",
+   "year_start": 1851,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Als er 1851 Direktor des Sanskrit Colleges wurde, begann er seine Vorstellungen umzusetzen.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Ishwar Chandra Vidyasagar",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q964111.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Ishwar Chandra Vidyasagar",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

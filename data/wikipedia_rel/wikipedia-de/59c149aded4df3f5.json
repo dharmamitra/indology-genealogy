@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Seung Sahn",
+   "birth_year": 1927,
+   "death_year": 2004,
+   "nationality": "südkoreanisch",
+   "field": null
+  },
+  {
+   "name": "Ko Bong",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Seung Sahn",
+   "type": "studied_at",
+   "object": "Dong-Guk-Universität in Seoul",
+   "role": null,
+   "place": "Seoul",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Als junger Mann studierte er zunächst westliche Philosophie an der Dong-Guk-Universität in Seoul.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Seung Sahn",
+   "type": "student_of",
+   "object": "Ko Bong",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": 1949,
+   "explicit": true,
+   "evidence": "Nach einem 100-tägigen Einzelretreat wurde er von Zen-Meister Ko Bong geprüft und erhielt im Alter von 22 Jahren, am 25. Januar 1949, als einziger Schüler die Dharma-Übertragung zum Zen-Meister.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Seung Sahn",
+   "type": "founded",
+   "object": "Kwan Um Zen Schule",
+   "role": null,
+   "place": "Providence, Rhode Island",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Jahre 1970 siedelte er in die USA über und gründete die Kwan Um Zen Schule in Providence, Rhode Island.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Seung Sahn",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q486681.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Seung Sahn",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

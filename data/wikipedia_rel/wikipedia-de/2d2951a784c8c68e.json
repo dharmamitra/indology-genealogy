@@ -1,0 +1,181 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Alfred Ludwig",
+   "birth_year": 1832,
+   "death_year": 1912,
+   "nationality": "österreichisch",
+   "field": "Indologe"
+  },
+  {
+   "name": "Hermann Bonitz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Klassische Philologie"
+  },
+  {
+   "name": "Anton Boller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Albrecht Weber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "August Boeckh",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Moriz Haupt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Alfred Ludwig",
+   "type": "studied_at",
+   "object": "Universität Wien",
+   "role": null,
+   "place": "Wien",
+   "year_start": 1852,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studierte Alfred Ludwig ab Oktober 1852 an der Universität Wien Klassische Philologie bei Hermann Bonitz und Sanskrit bei Anton Boller.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Ludwig",
+   "type": "student_of",
+   "object": "Hermann Bonitz",
+   "role": "teacher",
+   "place": "Wien",
+   "year_start": 1852,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studierte Alfred Ludwig ab Oktober 1852 an der Universität Wien Klassische Philologie bei Hermann Bonitz",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Ludwig",
+   "type": "student_of",
+   "object": "Anton Boller",
+   "role": "teacher",
+   "place": "Wien",
+   "year_start": 1852,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studierte Alfred Ludwig ab Oktober 1852 an der Universität Wien [...] und Sanskrit bei Anton Boller.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Ludwig",
+   "type": "studied_at",
+   "object": "Friedrich-Wilhelms-Universität zu Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1855,
+   "year_end": 1857,
+   "explicit": true,
+   "evidence": "studierte er 1855–1857 an der Friedrich-Wilhelms-Universität zu Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Ludwig",
+   "type": "student_of",
+   "object": "Albrecht Weber",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1855,
+   "year_end": 1857,
+   "explicit": true,
+   "evidence": "Friedrich-Wilhelms-Universität zu Berlin, wo Albrecht Weber, August Boeckh und Moriz Haupt seine Lehrer waren.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Ludwig",
+   "type": "student_of",
+   "object": "August Boeckh",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1855,
+   "year_end": 1857,
+   "explicit": true,
+   "evidence": "Friedrich-Wilhelms-Universität zu Berlin, wo Albrecht Weber, August Boeckh und Moriz Haupt seine Lehrer waren.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Ludwig",
+   "type": "student_of",
+   "object": "Moriz Haupt",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1855,
+   "year_end": 1857,
+   "explicit": true,
+   "evidence": "Friedrich-Wilhelms-Universität zu Berlin, wo Albrecht Weber, August Boeckh und Moriz Haupt seine Lehrer waren.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Ludwig",
+   "type": "studied_at",
+   "object": "Universität Wien",
+   "role": "Habilitation",
+   "place": "Wien",
+   "year_start": 1858,
+   "year_end": 1858,
+   "explicit": true,
+   "evidence": "Im Oktober 1858 habilitierte er sich für Klassische Philologie in Wien.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Ludwig",
+   "type": "position_at",
+   "object": "Universität Prag",
+   "role": "außerordentlicher Professor der Klassischen Philologie und der Vergleichenden Sprachenkunde",
+   "place": "Prag",
+   "year_start": 1860,
+   "year_end": 1871,
+   "explicit": true,
+   "evidence": "1860 wurde er an der Universität Prag außerordentlicher Professor der Klassischen Philologie und der Vergleichenden Sprachenkunde",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Ludwig",
+   "type": "position_at",
+   "object": "Universität Prag",
+   "role": "ordentlicher Professor",
+   "place": "Prag",
+   "year_start": 1871,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1860 wurde er an der Universität Prag außerordentlicher Professor der Klassischen Philologie und der Vergleichenden Sprachenkunde, 1871 ordentlicher Professor.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Alfred Ludwig (Indologe)",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q5965125.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Alfred Ludwig (Indologe)",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

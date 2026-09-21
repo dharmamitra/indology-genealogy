@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Gudō Wafu Nishijima",
+   "birth_year": 1919,
+   "death_year": 2014,
+   "nationality": "Japanese",
+   "field": "Zen Buddhism"
+  },
+  {
+   "name": "Kōdō Sawaki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Zen Buddhism"
+  },
+  {
+   "name": "Rempo Niwa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Zen Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Gudō Wafu Nishijima",
+   "type": "student_of",
+   "object": "Kōdō Sawaki",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nishijima studierte Zen unter Kōdō Sawaki und Rempo Niwa",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gudō Wafu Nishijima",
+   "type": "student_of",
+   "object": "Rempo Niwa",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nishijima studierte Zen unter Kōdō Sawaki und Rempo Niwa, von dem er die Dharma-Übertragung erhielt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gudō Wafu Nishijima",
+   "type": "founded",
+   "object": "Dōgen-Sangha",
+   "role": null,
+   "place": "Tokio",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er gründete die buddhistische Gruppe Dōgen-Sangha in Tokio",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Gudō Wafu Nishijima",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q221919.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Gudō Wafu Nishijima",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

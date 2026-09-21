@@ -1,0 +1,114 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sir John Hubert Marshall",
+   "birth_year": 1876,
+   "death_year": 1958,
+   "nationality": "English",
+   "field": "archaeology"
+  },
+  {
+   "name": "Sir Arthur Evans",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "archaeology"
+  },
+  {
+   "name": "Daya Ram Sahni",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "archaeology"
+  },
+  {
+   "name": "R. D. Banerji",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "archaeology"
+  },
+  {
+   "name": "Mortimer (R. E. M.) Wheeler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "archaeology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sir John Hubert Marshall",
+   "type": "studied_at",
+   "object": "King's College, Cambridge",
+   "role": null,
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Marshall was at school at Dulwich College before King's College, Cambridge, where in 1898 he won the Porson Prize.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir John Hubert Marshall",
+   "type": "student_of",
+   "object": "Sir Arthur Evans",
+   "role": "teacher",
+   "place": "Knossos",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He then trained in archaeology at Knossos under Sir Arthur Evans, who was rediscovering the Bronze Age Minoan civilization.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir John Hubert Marshall",
+   "type": "studied_at",
+   "object": "British School in Athens",
+   "role": null,
+   "place": "Athens",
+   "year_start": 1898,
+   "year_end": 1901,
+   "explicit": true,
+   "evidence": "Under the sponsorship of the British School in Athens, where he attended from 1898 to 1901, he participated in excavations.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir John Hubert Marshall",
+   "type": "position_at",
+   "object": "Archaeological Survey of India",
+   "role": "Director-General",
+   "place": "India",
+   "year_start": 1902,
+   "year_end": 1928,
+   "explicit": true,
+   "evidence": "Sir John Hubert Marshall (19 March 1876 – 17 August 1958) was an English archaeologist who was Director-General of the Archaeological Survey of India from 1902 to 1928.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir John Hubert Marshall",
+   "type": "collaborated_with",
+   "object": "Daya Ram Sahni",
+   "role": null,
+   "place": "Harappa",
+   "year_start": 1920,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1920, Marshall initiated at the dig at Harappa with Daya Ram Sahni as director.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): John Marshall (archaeologist)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1376456.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): John Marshall (archaeologist)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

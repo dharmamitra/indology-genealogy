@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Giovanni Gentile",
+   "birth_year": 1875,
+   "death_year": 1944,
+   "nationality": "Italian",
+   "field": "philosophy"
+  },
+  {
+   "name": "Armando Carlini",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ugo Spirito",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Armando Carlini",
+   "type": "student_of",
+   "object": "Giovanni Gentile",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "gathering of influence through the work of students like Armando Carlini (leader of the so-called \"right Gentilians\") and Ugo Spirito",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ugo Spirito",
+   "type": "student_of",
+   "object": "Giovanni Gentile",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "gathering of influence through the work of students like Armando Carlini (leader of the so-called \"right Gentilians\") and Ugo Spirito",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Giovanni Gentile",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q312295.txt#1",
+ "meta": {
+  "title": "Wikipedia (en): Giovanni Gentile",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

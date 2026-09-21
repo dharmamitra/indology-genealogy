@@ -1,0 +1,143 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ジョーゼフ・キャンベル",
+   "birth_year": 1904,
+   "death_year": 1987,
+   "nationality": "アメリカ合衆国",
+   "field": "神話学"
+  },
+  {
+   "name": "W.W.ローレンス",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ミルチャ・エリアーデ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "セルジウス・ゴロウィン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ジョーゼフ・キャンベル",
+   "type": "studied_at",
+   "object": "ダートマス大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ダートマス大学に在学中は生物学と数学を学んだが、人文学を得意としていた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジョーゼフ・キャンベル",
+   "type": "studied_at",
+   "object": "コロンビア大学",
+   "role": "学士号",
+   "place": null,
+   "year_start": null,
+   "year_end": 1925,
+   "explicit": true,
+   "evidence": "コロンビア大学に転校し、1925年にイギリス文学の学士号を取得し",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジョーゼフ・キャンベル",
+   "type": "studied_at",
+   "object": "コロンビア大学",
+   "role": "修士号",
+   "place": null,
+   "year_start": null,
+   "year_end": 1927,
+   "explicit": true,
+   "evidence": "1927年には中世文学の修士号を取得した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジョーゼフ・キャンベル",
+   "type": "position_at",
+   "object": "コロンビア大学",
+   "role": "特別研究員",
+   "place": null,
+   "year_start": 1927,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1927年、キャンベルはコロンビア大学の特別研究員としてヨーロッパに留学した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジョーゼフ・キャンベル",
+   "type": "student_of",
+   "object": "W.W.ローレンス",
+   "role": "advisor",
+   "place": "コロンビア大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "（彼の元コロンビアのアドバイザーのW.W.ローレンスの努力による）",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジョーゼフ・キャンベル",
+   "type": "position_at",
+   "object": "サラ・ローレンス大学",
+   "role": "教授",
+   "place": "ニューヨーク州",
+   "year_start": 1934,
+   "year_end": 1972,
+   "explicit": true,
+   "evidence": "1934年、ニューヨーク州の名門女子大学サラ・ローレンス大学の教授になった（彼の元コロンビアのアドバイザーのW.W.ローレンスの努力による）。同大学では1972年に定年となるまで、38年間教えた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジョーゼフ・キャンベル",
+   "type": "collaborated_with",
+   "object": "セルジウス・ゴロウィン",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "共編『世界の神話文化図鑑』上田浩二・渡辺真理訳、東洋書林、2007年\nセルジウス・ゴロウィン／ミルチャ・エリアーデとの大著",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジョーゼフ・キャンベル",
+   "type": "collaborated_with",
+   "object": "ミルチャ・エリアーデ",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "共編『世界の神話文化図鑑』上田浩二・渡辺真理訳、東洋書林、2007年\nセルジウス・ゴロウィン／ミルチャ・エリアーデとの大著",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ジョーゼフ・キャンベル",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q295516.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ジョーゼフ・キャンベル",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

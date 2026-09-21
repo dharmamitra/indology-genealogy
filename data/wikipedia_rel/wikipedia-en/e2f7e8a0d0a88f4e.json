@@ -1,0 +1,193 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Stanislas Aignan Julien",
+   "birth_year": 1797,
+   "death_year": 1873,
+   "nationality": "French",
+   "field": "sinologist"
+  },
+  {
+   "name": "Jean-Pierre Abel-Rémusat",
+   "birth_year": null,
+   "death_year": 1832,
+   "nationality": null,
+   "field": "Chinese"
+  },
+  {
+   "name": "Sebastien Couvreur",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "scholars of China"
+  },
+  {
+   "name": "James Legge",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Scottish",
+   "field": "sinologist"
+  },
+  {
+   "name": "Édouard Chavannes",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "sinologist"
+  },
+  {
+   "name": "Joseph Toussaint Reinaud",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Stanislas Aignan Julien",
+   "type": "student_of",
+   "object": "Jean-Pierre Abel-Rémusat",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1823,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Julien was a student of Jean-Pierre Abel-Rémusat",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stanislas Aignan Julien",
+   "type": "succeeded",
+   "object": "Jean-Pierre Abel-Rémusat",
+   "role": "chair of Chinese",
+   "place": "Collège de France",
+   "year_start": 1832,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "succeeded him as the chair of Chinese at the Collège de France upon Rémusat's death in 1832.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stanislas Aignan Julien",
+   "type": "studied_at",
+   "object": "college in Orléans",
+   "role": null,
+   "place": "Orléans",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied at the college in Orléans before transferring to the Collège de France",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stanislas Aignan Julien",
+   "type": "studied_at",
+   "object": "Collège de France",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "transferring to the Collège de France, where he initially focused on Greek language and literature",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stanislas Aignan Julien",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "assistant professor of Greek",
+   "place": null,
+   "year_start": 1821,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1821 he was appointed assistant professor of Greek.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean-Pierre Abel-Rémusat",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "first-ever professor of Chinese",
+   "place": null,
+   "year_start": null,
+   "year_end": 1832,
+   "explicit": true,
+   "evidence": "Jean-Pierre Abel-Rémusat, the first-ever professor of Chinese at the Collège de France",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stanislas Aignan Julien",
+   "type": "position_at",
+   "object": "Institut de France",
+   "role": "sublibrarian",
+   "place": null,
+   "year_start": 1827,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1827 he was appointed sublibrarian to the Institut de France.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stanislas Aignan Julien",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "Chair of Chinese",
+   "place": null,
+   "year_start": 1832,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "served as the Chair of Chinese at the Collège de France for over 40 years",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stanislas Aignan Julien",
+   "type": "position_at",
+   "object": "Bibliothèque Royale",
+   "role": "joint keeper",
+   "place": null,
+   "year_start": 1839,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1839, he had been appointed joint keeper of the Bibliothèque Royale, with the special superintendence of the Chinese books",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stanislas Aignan Julien",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "administrator",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "shortly afterwards he was made administrator of the Collège de France.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stanislas Aignan Julien",
+   "type": "other",
+   "object": "Joseph Toussaint Reinaud",
+   "role": "feud",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His Indian studies led to a controversy with Joseph Toussaint Reinaud.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Stanislas Julien",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q373633.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Stanislas Julien",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,119 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sangharakshita",
+   "birth_year": 1925,
+   "death_year": 2018,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Bhikkhu Jagdish Kashyap",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Pali"
+  },
+  {
+   "name": "Dhardo Rimpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "C. M. Chen",
+   "birth_year": 1906,
+   "death_year": 1987,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sangharakshita",
+   "type": "student_of",
+   "object": "Bhikkhu Jagdish Kashyap",
+   "role": "teacher",
+   "place": "Benares",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "regten den Kontakt zu Bhikkhu Jagdish Kashyap in Benares an. Kasyap, Professor für Pali an der Benares Hindu Universität, hieß Sangharakshita willkommen, und er blieb, um für acht Monate zu studieren",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bhikkhu Jagdish Kashyap",
+   "type": "position_at",
+   "object": "Benares Hindu Universität",
+   "role": "Professor für Pali",
+   "place": "Benares",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Kasyap, Professor für Pali an der Benares Hindu Universität",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sangharakshita",
+   "type": "student_of",
+   "object": "Dhardo Rimpoche",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dhardo Rimpoche war sowohl Freund als auch Lehrer für Sangharakshita, und er gab ihm die Bodhisattva-Ordination",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sangharakshita",
+   "type": "student_of",
+   "object": "C. M. Chen",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "C. M. Chen hatte ebenso einen starken Einfluss auf Sangharakshita, er lehrte ihn Chan- und Vajrayana-Praktiken.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sangharakshita",
+   "type": "founded",
+   "object": "Friends of the Western Buddhist Order",
+   "role": null,
+   "place": null,
+   "year_start": 1967,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "So gründete er dann 1967 die Friends of the Western Buddhist Order (in Deutschland: Freunde des Westlichen Buddhistischen Ordens).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sangharakshita",
+   "type": "founded",
+   "object": "Western Buddhist Order",
+   "role": null,
+   "place": null,
+   "year_start": 1968,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Der Western Buddhist Order wurde ein Jahr später gegründet, als Sangharakshita die ersten Männer und Frauen ordinierte.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Sangharakshita",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q2164559.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Sangharakshita",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

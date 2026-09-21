@@ -1,0 +1,124 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "James Mallinson",
+   "birth_year": 1970,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Indologist"
+  },
+  {
+   "name": "Alexis Sanderson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Christopher Minkowski",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Mallinson",
+   "type": "studied_at",
+   "object": "University of Oxford",
+   "role": "bachelor's degree",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was educated at Eton College and the University of Oxford, where he read Sanskrit and Old Iranian for his bachelor's degree",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Mallinson",
+   "type": "studied_at",
+   "object": "SOAS University of London",
+   "role": "master's degree",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied the ethnography of South Asia for his master's degree at SOAS University of London.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Mallinson",
+   "type": "studied_at",
+   "object": "University of Oxford",
+   "role": "doctoral thesis",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Supervised by Alexis Sanderson, his doctoral thesis at Oxford was a critical edition and translation of the Khecarīvidyā",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Mallinson",
+   "type": "student_of",
+   "object": "Alexis Sanderson",
+   "role": "doctoral supervisor",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Supervised by Alexis Sanderson, his doctoral thesis at Oxford was a critical edition and translation of the Khecarīvidyā",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Mallinson",
+   "type": "position_at",
+   "object": "SOAS, University of London",
+   "role": "Reader in Sanskrit and Yoga Studies",
+   "place": null,
+   "year_start": 2013,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He became Reader in Sanskrit and Yoga Studies at SOAS, University of London in 2013.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Mallinson",
+   "type": "position_at",
+   "object": "University of Oxford",
+   "role": "Boden Professor of Sanskrit",
+   "place": null,
+   "year_start": 2023,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 2023 he was appointed Boden Professor of Sanskrit at the Faculty of Asian and Middle Eastern Studies, University of Oxford. following the retirement of Christopher Minkowski.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Mallinson",
+   "type": "succeeded",
+   "object": "Christopher Minkowski",
+   "role": "Boden Professor of Sanskrit",
+   "place": "University of Oxford",
+   "year_start": 2023,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 2023 he was appointed Boden Professor of Sanskrit at the Faculty of Asian and Middle Eastern Studies, University of Oxford. following the retirement of Christopher Minkowski.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): James Mallinson (Indologist)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q25189544.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): James Mallinson (Indologist)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

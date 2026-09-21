@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Francis Buchanan-Hamilton",
+   "birth_year": 1762,
+   "death_year": 1829,
+   "nationality": "スコットランド",
+   "field": "外科医・植物学者・動物学者・地理学者"
+  },
+  {
+   "name": "John Hope",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "植物学"
+  },
+  {
+   "name": "William Roxburgh",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Francis Buchanan-Hamilton",
+   "type": "studied_at",
+   "object": "エディンバラ大学医学部",
+   "role": "医学博士号",
+   "place": null,
+   "year_start": 1779,
+   "year_end": 1783,
+   "explicit": true,
+   "evidence": "1779年に文学修士号を取得した後、エディンバラ大学医学部に進んだ。1783年に医学博士号を取得し、学位論文は「間欠熱（マラリア）」をテーマとした。",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francis Buchanan-Hamilton",
+   "type": "student_of",
+   "object": "John Hope",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "在学中はジョン・ホープ（John Hope）のもとで植物学を修めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francis Buchanan-Hamilton",
+   "type": "position_at",
+   "object": "東インド会社ベンガル管区医療部門",
+   "role": null,
+   "place": "カルカッタ",
+   "year_start": 1794,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1794年、ブキャナンは「ローズ号」でポーツマスを出港してカルカッタへ向かい、同年9月にカルカッタに到着して東インド会社ベンガル管区医療部門に入隊した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francis Buchanan-Hamilton",
+   "type": "position_at",
+   "object": "インド博物学振興研究所",
+   "role": "所長",
+   "place": "バラックプール",
+   "year_start": 1803,
+   "year_end": 1804,
+   "explicit": true,
+   "evidence": "またウェルズリーがバラックプールに設立した「インド博物学振興研究所」の所長も務めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francis Buchanan-Hamilton",
+   "type": "position_at",
+   "object": "カルカッタ植物園",
+   "role": "園長",
+   "place": "カルカッタ",
+   "year_start": 1814,
+   "year_end": 1815,
+   "explicit": true,
+   "evidence": "1814年、ウィリアム・ロックスバラの後任としてカルカッタ植物園（現在のアチャリヤ・ジャガディシュ・チャンドラ・ボース・インド植物園）の園長に就任した。しかし健康上の理由から1815年に帰国を余儀なくされた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francis Buchanan-Hamilton",
+   "type": "succeeded",
+   "object": "William Roxburgh",
+   "role": "園長",
+   "place": "カルカッタ植物園",
+   "year_start": 1814,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1814年、ウィリアム・ロックスバラの後任としてカルカッタ植物園（現在のアチャリヤ・ジャガディシュ・チャンドラ・ボース・インド植物園）の園長に就任した。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): フランシス・ブキャナン＝ハミルトン",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q536945.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): フランシス・ブキャナン＝ハミルトン",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

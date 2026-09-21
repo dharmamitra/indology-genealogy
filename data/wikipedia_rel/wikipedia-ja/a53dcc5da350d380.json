@@ -1,0 +1,145 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "アブラアム＝ヤサント・アンクティル＝デュペロン",
+   "birth_year": 1731,
+   "death_year": 1805,
+   "nationality": "フランス",
+   "field": "東洋学者、インド学者"
+  },
+  {
+   "name": "ド・ケリュス",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "シルヴェストル・ド・サシ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "グローテフェント",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ウィリアム・ジョーンズ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ショーペンハウアー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "アブラアム＝ヤサント・アンクティル＝デュペロン",
+   "type": "student_of",
+   "object": "ド・ケリュス",
+   "role": "teacher",
+   "place": "オランダのアメルスフォールト",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "デュペロンは司教のド・ケリュスのもと、オランダのアメルスフォールトの神学校で学んだ",
+   "quote_ok": true
+  },
+  {
+   "subject": "アブラアム＝ヤサント・アンクティル＝デュペロン",
+   "type": "studied_at",
+   "object": "アメルスフォールトの神学校",
+   "role": null,
+   "place": "オランダのアメルスフォールト",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "オランダのアメルスフォールトの神学校で学んだが、神学よりもヘブライ語・アラビア語・ペルシア語などの語学の学習に精を出した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アブラアム＝ヤサント・アンクティル＝デュペロン",
+   "type": "position_at",
+   "object": "王立図書館",
+   "role": null,
+   "place": "パリ",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "サリエ神父の目にとまり、デュペロンは図書館に職を得た。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アブラアム＝ヤサント・アンクティル＝デュペロン",
+   "type": "position_at",
+   "object": "碑文アカデミー",
+   "role": "準会員",
+   "place": null,
+   "year_start": 1763,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1763年にデュペロンは碑文アカデミーの準会員に選ばれ、アカデミーで多くの発表を行った。",
+   "quote_ok": true
+  },
+  {
+   "subject": "シルヴェストル・ド・サシ",
+   "type": "influenced_by",
+   "object": "アブラアム＝ヤサント・アンクティル＝デュペロン",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "デュペロンのもたらしたパフレヴィー語やアヴェスター語の知識は、のちにシルヴェストル・ド・サシによるナクシェ・ロスタム碑文の解読や、グローテフェントによるペルセポリスの古代ペルシア楔形文字の解読に貢献した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "グローテフェント",
+   "type": "influenced_by",
+   "object": "アブラアム＝ヤサント・アンクティル＝デュペロン",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "デュペロンのもたらしたパフレヴィー語やアヴェスター語の知識は、のちにシルヴェストル・ド・サシによるナクシェ・ロスタム碑文の解読や、グローテフェントによるペルセポリスの古代ペルシア楔形文字の解読に貢献した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ショーペンハウアー",
+   "type": "influenced_by",
+   "object": "アブラアム＝ヤサント・アンクティル＝デュペロン",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ショーペンハウアーがデュペロン訳『ウパニシャッド』の強い影響を受けたことはよく知られている。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): アブラアム＝ヤサント・アンクティル＝デュペロン",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q330089.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): アブラアム＝ヤサント・アンクティル＝デュペロン",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,155 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Georg Curtius",
+   "birth_year": 1820,
+   "death_year": 1885,
+   "nationality": "German",
+   "field": "Philology"
+  },
+  {
+   "name": "Ernst Curtius",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "History, Archaeology"
+  },
+  {
+   "name": "Friedrich Ritschl",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "August Schleicher",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Georg Curtius",
+   "type": "other",
+   "object": "Ernst Curtius",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er war der Bruder des Historikers und Archäologen Ernst Curtius.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Curtius",
+   "type": "studied_at",
+   "object": "Bonn",
+   "role": null,
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nach seiner Studienzeit in Bonn und Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Curtius",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nach seiner Studienzeit in Bonn und Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Curtius",
+   "type": "position_at",
+   "object": "Universität Berlin",
+   "role": "Privatdozent",
+   "place": "Berlin",
+   "year_start": 1845,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1845 kam er als Privatdozent zurück an die Universität Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Curtius",
+   "type": "student_of",
+   "object": "Friedrich Ritschl",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "die er 1846 seinem Professor Friedrich Ritschl gewidmet hatte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Curtius",
+   "type": "collaborated_with",
+   "object": "August Schleicher",
+   "role": "colleague / friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "August Schleichers, mit dem er später kollegial befreundet war",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Curtius",
+   "type": "position_at",
+   "object": "Prager Universität",
+   "role": "Professor für klassische Philologie",
+   "place": "Prague",
+   "year_start": 1851,
+   "year_end": 1854,
+   "explicit": true,
+   "evidence": "1849 wurde er Leiter des philologischen Seminars in Prag und zwei Jahre später Professor für klassische Philologie an der Prager Universität. 1854 wechselte er von Prag",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Curtius",
+   "type": "position_at",
+   "object": "Kiel",
+   "role": null,
+   "place": "Kiel",
+   "year_start": 1854,
+   "year_end": 1862,
+   "explicit": true,
+   "evidence": "1854 wechselte er von Prag zu einer ähnlichen Anstellung in Kiel, 1862 ging er von Kiel nach Leipzig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Curtius",
+   "type": "position_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": 1862,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1862 ging er von Kiel nach Leipzig.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Georg Curtius",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q72861.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Georg Curtius",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

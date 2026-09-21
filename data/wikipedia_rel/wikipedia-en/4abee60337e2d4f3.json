@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Brian Houghton Hodgson",
+   "birth_year": 1801,
+   "death_year": 1894,
+   "nationality": "British",
+   "field": "naturalist and ethnologist"
+  },
+  {
+   "name": "Samuel Tickell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "ornithologist"
+  },
+  {
+   "name": "Joseph Hooker",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Brian Houghton Hodgson",
+   "type": "other",
+   "object": "Samuel Tickell",
+   "role": "brother-in-law",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hodgson refers to the ornithologist Samuel Tickell as his brother-in-law.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Brian Houghton Hodgson",
+   "type": "other",
+   "object": "Joseph Hooker",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His friend Joseph Hooker named the genus Hodgsonia (Cucurbitaceae), Magnolia hodgsonii, and a species of rhododendron, Rhododendron hodgsoni, after him.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Brian Houghton Hodgson",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q735026.txt#1",
+ "meta": {
+  "title": "Wikipedia (en): Brian Houghton Hodgson",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

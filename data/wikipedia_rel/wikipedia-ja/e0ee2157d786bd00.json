@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ポール・ケーラス",
+   "birth_year": 1852,
+   "death_year": 1919,
+   "nationality": "ドイツ系アメリカ人",
+   "field": "作家、編集者、比較宗教学者、哲学者"
+  },
+  {
+   "name": "鈴木大拙",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "釈宗演",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ポール・ケーラス",
+   "type": "studied_at",
+   "object": "ストラスブルグ大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ストラスブルグ大学・チュービンゲン大学に進み博士号を取得するが",
+   "quote_ok": true
+  },
+  {
+   "subject": "ポール・ケーラス",
+   "type": "studied_at",
+   "object": "チュービンゲン大学",
+   "role": "博士号",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ストラスブルグ大学・チュービンゲン大学に進み博士号を取得するが",
+   "quote_ok": true
+  },
+  {
+   "subject": "ポール・ケーラス",
+   "type": "collaborated_with",
+   "object": "鈴木大拙",
+   "role": "翻訳",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "万国宗教会議で同席した釈宗演から鈴木大拙を紹介されその著作の翻訳も手掛けた",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ポール・ケーラス",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q729885.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ポール・ケーラス",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

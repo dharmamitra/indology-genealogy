@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Brenda Zara Seligman",
+   "birth_year": 1883,
+   "death_year": 1965,
+   "nationality": "British",
+   "field": "anthropologist"
+  },
+  {
+   "name": "Charles Seligman",
+   "birth_year": null,
+   "death_year": 1940,
+   "nationality": null,
+   "field": "ethnologist"
+  },
+  {
+   "name": "Marian Smith",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "anthropologist"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Brenda Zara Seligman",
+   "type": "other",
+   "object": "Charles Seligman",
+   "role": "spouse",
+   "place": null,
+   "year_start": 1905,
+   "year_end": 1940,
+   "explicit": true,
+   "evidence": "She married fellow ethnologist Charles Seligman. After he died in 1940",
+   "quote_ok": true
+  },
+  {
+   "subject": "Brenda Zara Seligman",
+   "type": "collaborated_with",
+   "object": "Charles Seligman",
+   "role": null,
+   "place": null,
+   "year_start": 1907,
+   "year_end": 1932,
+   "explicit": true,
+   "evidence": "They published a jointly-authored book on this work, The Veddas, in 1911.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Brenda Zara Seligman",
+   "type": "studied_at",
+   "object": "Bedford College",
+   "role": "pre-medical studies",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then she took pre-medical studies at Bedford College.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Brenda Zara Seligman",
+   "type": "position_at",
+   "object": "Royal Anthropological Institute",
+   "role": "vice-president",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "She rose to be vice-president of the Royal Anthropological Institute",
+   "quote_ok": true
+  },
+  {
+   "subject": "Brenda Zara Seligman",
+   "type": "collaborated_with",
+   "object": "Marian Smith",
+   "role": null,
+   "place": null,
+   "year_start": 1958,
+   "year_end": 1958,
+   "explicit": true,
+   "evidence": "In 1958 she worked with the American born anthropologist, Marian Smith, to create the Royal Anthropological Institute's endowment fund.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Brenda Seligman",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q18526674.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Brenda Seligman",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

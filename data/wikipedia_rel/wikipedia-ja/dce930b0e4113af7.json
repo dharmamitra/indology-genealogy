@@ -1,0 +1,174 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "赤沼 智善",
+   "birth_year": 1884,
+   "death_year": 1937,
+   "nationality": "日本",
+   "field": "仏教学"
+  },
+  {
+   "name": "山辺習学",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "清沢満之",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "鈴木大拙",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "佐々木月樵",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "赤沼 智善",
+   "type": "position_at",
+   "object": "大谷大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "日本の仏教学者、専攻は原始仏教。大谷大学教授。",
+   "quote_ok": true
+  },
+  {
+   "subject": "赤沼 智善",
+   "type": "studied_at",
+   "object": "真宗大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "真宗大学に入学し、仏教学を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "赤沼 智善",
+   "type": "student_of",
+   "object": "清沢満之",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1909,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1909年、同郷の山辺習学と共に浩々洞同人となり、清沢満之の下で学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "山辺習学",
+   "type": "student_of",
+   "object": "清沢満之",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1909,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1909年、同郷の山辺習学と共に浩々洞同人となり、清沢満之の下で学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "赤沼 智善",
+   "type": "studied_at",
+   "object": "真宗大学研究科",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "真宗大学研究科を卒業後",
+   "quote_ok": true
+  },
+  {
+   "subject": "赤沼 智善",
+   "type": "position_at",
+   "object": "真宗大学",
+   "role": "教授",
+   "place": null,
+   "year_start": 1919,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "同1919年9月、真宗大学教授に任じられた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "赤沼 智善",
+   "type": "position_at",
+   "object": "真宗大学",
+   "role": "図書館長",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "在職中は、同大学図書館長なども務めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "赤沼 智善",
+   "type": "founded",
+   "object": "東方仏教徒協会",
+   "role": null,
+   "place": null,
+   "year_start": 1921,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1921年、国際的視野をもった鈴木大拙、佐々木月樵らとともに、仏教本来の意義を欧米に伝えることを主な目的として\"東方仏教徒協会\"(The Eastern Buddhist Society)を設立。",
+   "quote_ok": true
+  },
+  {
+   "subject": "鈴木大拙",
+   "type": "founded",
+   "object": "東方仏教徒協会",
+   "role": null,
+   "place": null,
+   "year_start": 1921,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1921年、国際的視野をもった鈴木大拙、佐々木月樵らとともに、仏教本来の意義を欧米に伝えることを主な目的として\"東方仏教徒協会\"(The Eastern Buddhist Society)を設立。",
+   "quote_ok": true
+  },
+  {
+   "subject": "佐々木月樵",
+   "type": "founded",
+   "object": "東方仏教徒協会",
+   "role": null,
+   "place": null,
+   "year_start": 1921,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1921年、国際的視野をもった鈴木大拙、佐々木月樵らとともに、仏教本来の意義を欧米に伝えることを主な目的として\"東方仏教徒協会\"(The Eastern Buddhist Society)を設立。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 赤沼智善",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q6582049.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 赤沼智善",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

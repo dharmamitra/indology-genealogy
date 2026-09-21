@@ -1,0 +1,181 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "François Jacob",
+   "birth_year": 1920,
+   "death_year": 2013,
+   "nationality": "französischer",
+   "field": "Mediziner, Genetiker und Molekularbiologe"
+  },
+  {
+   "name": "Jacques Monod",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "André Lwoff",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Pierre Jacob",
+   "birth_year": 1949,
+   "death_year": null,
+   "nationality": null,
+   "field": "Philosoph"
+  },
+  {
+   "name": "Elie Wollman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sydney Brenner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "François Jacob",
+   "type": "studied_at",
+   "object": "Pariser medizinischen Fakultät der Sorbonne",
+   "role": "Doktorgrad",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": 1947,
+   "explicit": true,
+   "evidence": "nahm er mit der Absicht, Chirurg zu werden, ein Studium an der Pariser medizinischen Fakultät der Sorbonne auf. [...] Nach dem Krieg schloss Jacob sein Medizinstudium 1947 in Paris mit der Erlangung des Doktorgrades ab.",
+   "quote_ok": true
+  },
+  {
+   "subject": "François Jacob",
+   "type": "student_of",
+   "object": "André Lwoff",
+   "role": "teacher",
+   "place": "Institut Pasteur",
+   "year_start": 1950,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "bis er sich 1950 als Schüler von André Lwoff am Institut Pasteur der Biologie zuwandte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "François Jacob",
+   "type": "studied_at",
+   "object": "Sorbonne",
+   "role": "Doktorwürde",
+   "place": null,
+   "year_start": null,
+   "year_end": 1954,
+   "explicit": true,
+   "evidence": "erlangte 1954 die Doktorwürde an der Sorbonne mit einer Arbeit über lysogene Bakterien und das Provirus-Konzept",
+   "quote_ok": true
+  },
+  {
+   "subject": "François Jacob",
+   "type": "position_at",
+   "object": "Institut Pasteur",
+   "role": "Labordirektor",
+   "place": null,
+   "year_start": 1956,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1956 wurde er zum Labordirektor ernannt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "François Jacob",
+   "type": "position_at",
+   "object": "Institut Pasteur",
+   "role": "Leiter der kurz zuvor eingerichteten Abteilung für Zelluläre Genetik",
+   "place": null,
+   "year_start": 1960,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ab 1960 war er Leiter der kurz zuvor eingerichteten Abteilung für Zelluläre Genetik am Institut Pasteur.",
+   "quote_ok": true
+  },
+  {
+   "subject": "François Jacob",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "Professur (Lehrstuhl der Zellgenetik)",
+   "place": null,
+   "year_start": 1964,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1964 erhielt er eine Professur am Collège de France, wo ein Lehrstuhl der Zellgenetik für ihn geschaffen wurde.",
+   "quote_ok": true
+  },
+  {
+   "subject": "François Jacob",
+   "type": "other",
+   "object": "Pierre Jacob",
+   "role": "father",
+   "place": null,
+   "year_start": 1949,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Aus der Ehe gingen vier Kinder hervor: Pierre (* 1949), der Philosoph wurde",
+   "quote_ok": true
+  },
+  {
+   "subject": "François Jacob",
+   "type": "collaborated_with",
+   "object": "Elie Wollman",
+   "role": null,
+   "place": null,
+   "year_start": 1954,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1954 begann eine langjährige und fruchtbare Zusammenarbeit mit Elie Wollman",
+   "quote_ok": true
+  },
+  {
+   "subject": "François Jacob",
+   "type": "collaborated_with",
+   "object": "Jacques Monod",
+   "role": null,
+   "place": null,
+   "year_start": 1958,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "inspirierten 1958 François Jacob, gemeinsam mit Jacques Monod, die genetischen Mechanismen aufzuklären [...] In diesem Zusammenhang entwickelten Jacob und Monod ein Modell (Operon-Modell)",
+   "quote_ok": true
+  },
+  {
+   "subject": "François Jacob",
+   "type": "collaborated_with",
+   "object": "Sydney Brenner",
+   "role": null,
+   "place": null,
+   "year_start": 1963,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1963 trieb Jacob zusammen mit Sydney Brenner die «Replicon»-Hypothese voran",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): François Jacob",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q218311.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): François Jacob",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

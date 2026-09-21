@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Kosho Uchiyama",
+   "birth_year": 1912,
+   "death_year": 1998,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Kōdō Sawaki",
+   "birth_year": null,
+   "death_year": 1965,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Shohaku Okumura",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Kosho Uchiyama",
+   "type": "studied_at",
+   "object": "Waseda University",
+   "role": "master's degree in Western philosophy",
+   "place": null,
+   "year_start": null,
+   "year_end": 1937,
+   "explicit": true,
+   "evidence": "Uchiyama graduated from Waseda University with a master's degree in Western philosophy in 1937",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kosho Uchiyama",
+   "type": "student_of",
+   "object": "Kōdō Sawaki",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": 1941,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "was ordained a priest in 1941 by his teacher Kōdō Sawaki.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kosho Uchiyama",
+   "type": "position_at",
+   "object": "Antai-ji",
+   "role": "abbot",
+   "place": "near Kyoto, Japan",
+   "year_start": 1965,
+   "year_end": 1975,
+   "explicit": true,
+   "evidence": "Uchiyama became abbot of Antai-ji following Sawaki's death in 1965 until he retired in 1975",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kosho Uchiyama",
+   "type": "succeeded",
+   "object": "Kōdō Sawaki",
+   "role": "abbot",
+   "place": "Antai-ji",
+   "year_start": 1965,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Uchiyama became abbot of Antai-ji following Sawaki's death in 1965",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shohaku Okumura",
+   "type": "student_of",
+   "object": "Kosho Uchiyama",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Uchiyama's Dharma heir Shohaku Okumura",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Kōshō Uchiyama",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1621698.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Kōshō Uchiyama",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Emil Rödiger",
+   "birth_year": 1801,
+   "death_year": 1874,
+   "nationality": "German",
+   "field": "orientalist"
+  },
+  {
+   "name": "Wilhelm Gesenius",
+   "birth_year": 1786,
+   "death_year": 1842,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Emil Rödiger",
+   "type": "studied_at",
+   "object": "University of Halle",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied philosophy and theology at the University of Halle",
+   "quote_ok": true
+  },
+  {
+   "subject": "Emil Rödiger",
+   "type": "position_at",
+   "object": "University of Halle",
+   "role": "associate professor of Oriental languages",
+   "place": null,
+   "year_start": 1830,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "at the University of Halle, where in 1830, he became an associate professor of Oriental languages",
+   "quote_ok": true
+  },
+  {
+   "subject": "Emil Rödiger",
+   "type": "position_at",
+   "object": "University of Halle",
+   "role": "full professorship",
+   "place": null,
+   "year_start": 1835,
+   "year_end": 1860,
+   "explicit": true,
+   "evidence": "followed by a full professorship in 1835. He moved to Berlin in 1860",
+   "quote_ok": true
+  },
+  {
+   "subject": "Emil Rödiger",
+   "type": "collaborated_with",
+   "object": "Wilhelm Gesenius",
+   "role": "editor/finisher of works",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "After the death of Wilhelm Gesenius (1786–1842), he finished his Thesaurus Linguae Hebraicae, and edited his Hebrew grammar from the 14th (1845) to the 21st edition (1874).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Emil Rödiger",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q5371426.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Emil Rödiger",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

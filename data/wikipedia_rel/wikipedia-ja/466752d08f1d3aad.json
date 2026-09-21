@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "アルトゥール・ショーペンハウアー",
+   "birth_year": 1788,
+   "death_year": 1860,
+   "nationality": "ドイツ",
+   "field": "哲学"
+  },
+  {
+   "name": "ゴットリープ・シュルツェ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "哲学"
+  },
+  {
+   "name": "フィヒテ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "ドイツ",
+   "field": "哲学"
+  },
+  {
+   "name": "フリードリヒ・マイヤー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "東洋学"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "アルトゥール・ショーペンハウアー",
+   "type": "studied_at",
+   "object": "ゲッティンゲン大学",
+   "role": null,
+   "place": null,
+   "year_start": 1809,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1809年（21歳）、ゲッティンゲン大学に入学し医学部に籍をおきながら、最初の哲学の師となるゴットリープ・シュルツェのもとで哲学を学び、翌1810年（22歳）には哲学部へ移る。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アルトゥール・ショーペンハウアー",
+   "type": "student_of",
+   "object": "ゴットリープ・シュルツェ",
+   "role": "teacher",
+   "place": "ゲッティンゲン大学",
+   "year_start": 1809,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "最初の哲学の師となるゴットリープ・シュルツェのもとで哲学を学び",
+   "quote_ok": true
+  },
+  {
+   "subject": "アルトゥール・ショーペンハウアー",
+   "type": "studied_at",
+   "object": "ベルリン大学",
+   "role": null,
+   "place": null,
+   "year_start": 1811,
+   "year_end": 1813,
+   "explicit": true,
+   "evidence": "秋にベルリン大学に移り、ドイツの国民的哲学者であったフィヒテのもとで本格的な哲学研究を始めると",
+   "quote_ok": true
+  },
+  {
+   "subject": "アルトゥール・ショーペンハウアー",
+   "type": "student_of",
+   "object": "フィヒテ",
+   "role": "teacher",
+   "place": "ベルリン大学",
+   "year_start": 1811,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ドイツの国民的哲学者であったフィヒテのもとで本格的な哲学研究を始めると",
+   "quote_ok": true
+  },
+  {
+   "subject": "アルトゥール・ショーペンハウアー",
+   "type": "studied_at",
+   "object": "イエナ大学",
+   "role": "哲学博士",
+   "place": null,
+   "year_start": null,
+   "year_end": 1813,
+   "explicit": true,
+   "evidence": "博士学位論文『根拠の原理の四つの根について』を完成、イエナ大学に提出し、10月18日に哲学博士の学位を得る。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アルトゥール・ショーペンハウアー",
+   "type": "influenced_by",
+   "object": "フリードリヒ・マイヤー",
+   "role": null,
+   "place": null,
+   "year_start": 1814,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "東洋学者フリードリヒ・マイヤーを通じて古代インド哲学、とくに『ウプネカット』を知るようになり、これによってショーペンハウアーの来るべき全思想が決定づけられることとなる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アルトゥール・ショーペンハウアー",
+   "type": "position_at",
+   "object": "ベルリン大学",
+   "role": "講師",
+   "place": null,
+   "year_start": 1820,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1820年（32歳）3月、ベルリン大学にて「原因の四つの異なった種類について」というタイトルで教職に就くための試験講義を行い、講師の地位を得ると",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): アルトゥル・ショーペンハウアー",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q38193.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): アルトゥル・ショーペンハウアー",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Graham Priest",
+   "birth_year": 1948,
+   "death_year": null,
+   "nationality": null,
+   "field": "Philosoph und Logiker"
+  },
+  {
+   "name": "Markus Gabriel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Graham Priest",
+   "type": "position_at",
+   "object": "Universität Melbourne",
+   "role": "Professor",
+   "place": "Melbourne",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Priest ist Professor an der Universität Melbourne.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Graham Priest",
+   "type": "collaborated_with",
+   "object": "Markus Gabriel",
+   "role": "co-author",
+   "place": null,
+   "year_start": 2022,
+   "year_end": 2022,
+   "explicit": true,
+   "evidence": "Everything and Nothing. (mit Markus Gabriel) Polity Press, Cambridge 2022.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Graham Priest",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1541962.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Graham Priest",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

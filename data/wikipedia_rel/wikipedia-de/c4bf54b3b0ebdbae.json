@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Theodor Goldstücker",
+   "birth_year": 1821,
+   "death_year": 1872,
+   "nationality": "German",
+   "field": "Sanskritforscher"
+  },
+  {
+   "name": "Horace Hayman Wilson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Theodor Goldstücker",
+   "type": "studied_at",
+   "object": "Albertus-Universität Königsberg",
+   "role": null,
+   "place": "Königsberg",
+   "year_start": 1836,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Theodor Goldstücker widmete sich seit 1836 an der Albertus-Universität Königsberg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Theodor Goldstücker",
+   "type": "studied_at",
+   "object": "Universität Bonn",
+   "role": null,
+   "place": "Bonn",
+   "year_start": 1838,
+   "year_end": 1840,
+   "explicit": true,
+   "evidence": "zwischen 1838 und 1840 an der Universität Bonn philologischen und orientalistischen sowie philosophischen Studien.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Theodor Goldstücker",
+   "type": "position_at",
+   "object": "Universität London",
+   "role": "Professor des Sanskrit",
+   "place": "London",
+   "year_start": 1851,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1851 Professor des Sanskrit an der Universität London wurde.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Theodor Goldstücker",
+   "type": "collaborated_with",
+   "object": "Horace Hayman Wilson",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Wilson übertrug ihm gleichzeitig eine Neubearbeitung seines Sanskrit Dictionary.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Theodor Goldstücker",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q92103.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Theodor Goldstücker",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

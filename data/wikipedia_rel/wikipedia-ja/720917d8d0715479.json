@@ -1,0 +1,148 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "アーサー・F・ライト",
+   "birth_year": 1913,
+   "death_year": 1976,
+   "nationality": "アメリカ",
+   "field": "東洋史学者"
+  },
+  {
+   "name": "アーノルド・J・トインビー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "エティエンヌ・バラーシュ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "アーサー・F・ライト",
+   "type": "studied_at",
+   "object": "スタンフォード大学",
+   "role": "学士号",
+   "place": null,
+   "year_start": null,
+   "year_end": 1935,
+   "explicit": true,
+   "evidence": "1935年、スタンフォード大学で学士号を取得。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アーサー・F・ライト",
+   "type": "studied_at",
+   "object": "オックスフォード大学",
+   "role": "文学士号",
+   "place": null,
+   "year_start": null,
+   "year_end": 1937,
+   "explicit": true,
+   "evidence": "1937年、オックスフォード大学で文学士号を取得。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アーサー・F・ライト",
+   "type": "studied_at",
+   "object": "ハーバード大学",
+   "role": "修士号",
+   "place": null,
+   "year_start": null,
+   "year_end": 1940,
+   "explicit": true,
+   "evidence": "ハーバード大学で1940年に修士号を取得。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アーサー・F・ライト",
+   "type": "position_at",
+   "object": "スタンフォード大学",
+   "role": "教職",
+   "place": null,
+   "year_start": 1947,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1947年よりスタンフォード大学で教職に就く。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アーサー・F・ライト",
+   "type": "position_at",
+   "object": "スタンフォード大学",
+   "role": "教授",
+   "place": null,
+   "year_start": 1958,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1958年よりスタンフォード大学教授。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アーサー・F・ライト",
+   "type": "position_at",
+   "object": "イェール大学",
+   "role": "教授",
+   "place": null,
+   "year_start": 1959,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1959年、イェール大学教授。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アーノルド・J・トインビー",
+   "type": "influenced_by",
+   "object": "アーサー・F・ライト",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ライトの仏教史研究の集大成である著書『中国史における仏教』における洞察は、アーノルド・J・トインビーに影響を与える。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アーサー・F・ライト",
+   "type": "influenced_by",
+   "object": "エティエンヌ・バラーシュ",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "バラーシュが中国学における原典解釈を脱皮し、原典の持つ歴史的意義に着目したが、ライトはこの影響を受けている。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アーサー・F・ライト",
+   "type": "other",
+   "object": "エティエンヌ・バラーシュ",
+   "role": "深交",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "エティエンヌ・バラーシュと深交があり、バラーシュの著書『中国文明と官僚制』の編集をライトが担当しており",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): アーサー・F・ライト",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q4798653.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): アーサー・F・ライト",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

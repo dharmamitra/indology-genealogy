@@ -1,0 +1,119 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ヤン・ゴンダ",
+   "birth_year": 1905,
+   "death_year": 1991,
+   "nationality": "オランダ",
+   "field": "インド学"
+  },
+  {
+   "name": "ウィレム・カーランド",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "鎧淳",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "辻直四郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ヤン・ゴンダ",
+   "type": "studied_at",
+   "object": "ユトレヒト大学",
+   "role": "博士",
+   "place": "ユトレヒト",
+   "year_start": null,
+   "year_end": 1929,
+   "explicit": true,
+   "evidence": "ユトレヒト大学で西洋古典学を専攻し、このときウィレム・カーランドにサンスクリットなどを学んだ。1929年に印欧語の語根 *deik- に関する論文で博士の学位を得た",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヤン・ゴンダ",
+   "type": "student_of",
+   "object": "ウィレム・カーランド",
+   "role": "teacher",
+   "place": "ユトレヒト大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ユトレヒト大学で西洋古典学を専攻し、このときウィレム・カーランドにサンスクリットなどを学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヤン・ゴンダ",
+   "type": "studied_at",
+   "object": "ライデン大学",
+   "role": null,
+   "place": "ライデン",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ライデン大学でインドネシアの諸言語について研究した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヤン・ゴンダ",
+   "type": "succeeded",
+   "object": "ウィレム・カーランド",
+   "role": "サンスクリット教授",
+   "place": "ユトレヒト大学",
+   "year_start": 1932,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "カーランドの没後、1932年にユトレヒト大学のサンスクリット教授に就任した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヤン・ゴンダ",
+   "type": "position_at",
+   "object": "ユトレヒト大学",
+   "role": "サンスクリット教授",
+   "place": "ユトレヒト",
+   "year_start": 1932,
+   "year_end": 1976,
+   "explicit": true,
+   "evidence": "1932年にユトレヒト大学のサンスクリット教授に就任した。同年マレー語およびジャワ語学・文学の教授も兼任した（1950年まで）。1976年に退官した",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヤン・ゴンダ",
+   "type": "position_at",
+   "object": "ユトレヒト大学",
+   "role": "マレー語およびジャワ語学・文学の教授",
+   "place": "ユトレヒト",
+   "year_start": 1932,
+   "year_end": 1950,
+   "explicit": true,
+   "evidence": "同年マレー語およびジャワ語学・文学の教授も兼任した（1950年まで）。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ヤン・ゴンダ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q1022375.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ヤン・ゴンダ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

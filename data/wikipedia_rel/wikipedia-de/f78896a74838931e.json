@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Geshe Kelsang Gyatso",
+   "birth_year": 1931,
+   "death_year": 2022,
+   "nationality": "Tibet, United Kingdom",
+   "field": "Buddhismus"
+  },
+  {
+   "name": "Trijang Rinpoche",
+   "birth_year": 1901,
+   "death_year": 1981,
+   "nationality": "Tibet",
+   "field": "Buddhismus"
+  },
+  {
+   "name": "Phabongkha Rinpoche Dechen Nyingpo",
+   "birth_year": 1878,
+   "death_year": 1941,
+   "nationality": "Tibet",
+   "field": "Buddhismus"
+  },
+  {
+   "name": "Lama Thubten Yeshe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Geshe Kelsang Gyatso",
+   "type": "studied_at",
+   "object": "Kloster Jampa Ling",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Seine Studien absolvierte er zuerst am Kloster Jampa Ling",
+   "quote_ok": true
+  },
+  {
+   "subject": "Geshe Kelsang Gyatso",
+   "type": "studied_at",
+   "object": "Tashi-Lhunpo-Kloster",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "später am Tashi-Lhunpo-Kloster, wo er zwei Examen bestand",
+   "quote_ok": true
+  },
+  {
+   "subject": "Geshe Kelsang Gyatso",
+   "type": "studied_at",
+   "object": "Klosteruniversität Sera-je in Lhasa",
+   "role": "Geshe",
+   "place": "Lhasa",
+   "year_start": null,
+   "year_end": 1973,
+   "explicit": true,
+   "evidence": "und dann an der großen Klosteruniversität Sera-je in Lhasa. [...] 1973 nahm er im Kloster Sera-je an einer Zeremonie teil, in deren Rahmen ihm eine Khata zum Zeichen seiner Anerkennung als Geshe überreicht wurde.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Geshe Kelsang Gyatso",
+   "type": "student_of",
+   "object": "Trijang Rinpoche",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Jahre 1977 nahm er auf Wunsch seines spirituellen Lehrers Trijang Rinpoche eine Einladung an",
+   "quote_ok": true
+  },
+  {
+   "subject": "Trijang Rinpoche",
+   "type": "student_of",
+   "object": "Phabongkha Rinpoche Dechen Nyingpo",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in direkter Folge seines eigenen spirituellen Meisters Kyabje Trijang Dorjechang bzw. Yongdzin Trijang Dorjechang bzw. Trijang Rinpoche (1901–1981) und dessen Meister Phabongkha Rinpoche Dechen Nyingpo",
+   "quote_ok": true
+  },
+  {
+   "subject": "Geshe Kelsang Gyatso",
+   "type": "position_at",
+   "object": "Manjushri Institut",
+   "role": "Lehrer",
+   "place": "Ulverston, England",
+   "year_start": 1977,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Jahre 1977 nahm er auf Wunsch seines spirituellen Lehrers Trijang Rinpoche eine Einladung an, in Lama Thubten Yeshes FPMT-Zentrum Manjushri Institut in Ulverston, England, zu lehren.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Geshe Kelsang Gyatso",
+   "type": "founded",
+   "object": "Neue Kadampa-Tradition",
+   "role": null,
+   "place": null,
+   "year_start": 1991,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Jahr 1991 gründete er die Neue Kadampa-Tradition.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Kelsang Gyatso (Neue Kadampa-Tradition)",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1353874.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Kelsang Gyatso (Neue Kadampa-Tradition)",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

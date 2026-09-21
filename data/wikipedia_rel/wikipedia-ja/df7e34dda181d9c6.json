@@ -1,0 +1,172 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "余英時",
+   "birth_year": 1930,
+   "death_year": 2021,
+   "nationality": "中国系アメリカ人",
+   "field": "歴史学者・思想史家"
+  },
+  {
+   "name": "銭穆",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "楊聯陞",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "余英時",
+   "type": "studied_at",
+   "object": "燕京大学",
+   "role": null,
+   "place": null,
+   "year_start": 1949,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1949年、燕京大学に入学するが、国共内戦の動乱を避けて香港に赴き、銭穆が香港で設立した新亜書院に転学する。",
+   "quote_ok": true
+  },
+  {
+   "subject": "銭穆",
+   "type": "founded",
+   "object": "新亜書院",
+   "role": null,
+   "place": "香港",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "銭穆が香港で設立した新亜書院に転学する。",
+   "quote_ok": true
+  },
+  {
+   "subject": "余英時",
+   "type": "studied_at",
+   "object": "新亜書院",
+   "role": null,
+   "place": "香港",
+   "year_start": null,
+   "year_end": 1952,
+   "explicit": true,
+   "evidence": "銭穆が香港で設立した新亜書院に転学する。1952年、新亜書院の第1回卒業生となる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "余英時",
+   "type": "student_of",
+   "object": "楊聯陞",
+   "role": "doctoral supervisor",
+   "place": "ハーバード大学",
+   "year_start": 1955,
+   "year_end": 1962,
+   "explicit": true,
+   "evidence": "1955年、渡米してハーバード大学で楊聯陞の指導を受ける。1962年、博士論文 “Views of Life and Death in Later Han China” によってPh.D.を取得する。",
+   "quote_ok": true
+  },
+  {
+   "subject": "余英時",
+   "type": "studied_at",
+   "object": "ハーバード大学",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": 1955,
+   "year_end": 1962,
+   "explicit": true,
+   "evidence": "1955年、渡米してハーバード大学で楊聯陞の指導を受ける。1962年、博士論文 “Views of Life and Death in Later Han China” によってPh.D.を取得する。",
+   "quote_ok": true
+  },
+  {
+   "subject": "余英時",
+   "type": "position_at",
+   "object": "ハーバード大学",
+   "role": "教授",
+   "place": null,
+   "year_start": 1969,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1969年、ハーバード大学の教授となり",
+   "quote_ok": true
+  },
+  {
+   "subject": "余英時",
+   "type": "position_at",
+   "object": "新亜書院",
+   "role": "校長",
+   "place": "香港",
+   "year_start": 1969,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "香港の新亜書院の校長を一時的に兼任する。",
+   "quote_ok": true
+  },
+  {
+   "subject": "余英時",
+   "type": "position_at",
+   "object": "イエール大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "その後、イエール大学、プリンストン大学の教授を歴任する。",
+   "quote_ok": true
+  },
+  {
+   "subject": "余英時",
+   "type": "position_at",
+   "object": "プリンストン大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "その後、イエール大学、プリンストン大学の教授を歴任する。",
+   "quote_ok": true
+  },
+  {
+   "subject": "余英時",
+   "type": "position_at",
+   "object": "コーネル大学",
+   "role": "特任教授",
+   "place": null,
+   "year_start": 1991,
+   "year_end": 1992,
+   "explicit": true,
+   "evidence": "1991年から1992年にかけては、コーネル大学特任教授となる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "余英時",
+   "type": "position_at",
+   "object": "中央研究院",
+   "role": "院士",
+   "place": "台湾",
+   "year_start": 1974,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1974年、台湾の中央研究院院士に選出される。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 余英時",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q9079071.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 余英時",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

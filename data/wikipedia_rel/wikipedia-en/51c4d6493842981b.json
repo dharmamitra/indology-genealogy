@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Gendün Chöphel",
+   "birth_year": 1903,
+   "death_year": 1951,
+   "nationality": "Tibetan",
+   "field": null
+  },
+  {
+   "name": "Rahul Sankrityayan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Gendün Chöphel",
+   "type": "other",
+   "object": "Rahul Sankrityayan",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Chöphel was a friend of the Indian scholar and independence activist Rahul Sankrityayan.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rahul Sankrityayan",
+   "type": "other",
+   "object": "Gendün Chöphel",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Chöphel was a friend of the Indian scholar and independence activist Rahul Sankrityayan.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Gendün Chöphel",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1501372.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Gendün Chöphel",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

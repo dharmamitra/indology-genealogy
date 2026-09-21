@@ -1,0 +1,145 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Heinrich Wenzel",
+   "birth_year": 1855,
+   "death_year": 1893,
+   "nationality": "German",
+   "field": "Indology and Tibetology"
+  },
+  {
+   "name": "Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Ludwig Noiré",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy of language"
+  },
+  {
+   "name": "Heinrich August Jäschke",
+   "birth_year": null,
+   "death_year": 1883,
+   "nationality": "German",
+   "field": "Tibetology"
+  },
+  {
+   "name": "Kenjiu Kasawara",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Serge d'Oldenburg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Russian",
+   "field": "Indology / Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Heinrich Wenzel",
+   "type": "studied_at",
+   "object": "Jena",
+   "role": null,
+   "place": "Jena",
+   "year_start": 1874,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bis 1874 besuchte er das Gymnasium seiner Heimatstadt. Danach begann er ein Studium der Orientalischen Sprachen in Jena, Leipzig und Tübingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Wenzel",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Danach begann er ein Studium der Orientalischen Sprachen in Jena, Leipzig und Tübingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Wenzel",
+   "type": "studied_at",
+   "object": "Tübingen",
+   "role": "PhD",
+   "place": "Tübingen",
+   "year_start": null,
+   "year_end": 1879,
+   "explicit": true,
+   "evidence": "Tübingen, wo er im Frühjahr 1879 mit einer Arbeit über den Instrumental im Rigveda promovierte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Wenzel",
+   "type": "student_of",
+   "object": "Max Müller",
+   "role": "teacher",
+   "place": "Oxford",
+   "year_start": 1879,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Anschließend ging er nach Oxford, um bei Max Müller, dem er von dem Sprachphilosophen Ludwig Noiré empfohlen worden war, seine indologischen Studien zu vertiefen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Wenzel",
+   "type": "student_of",
+   "object": "Heinrich August Jäschke",
+   "role": "teacher",
+   "place": "Herrnhut",
+   "year_start": 1881,
+   "year_end": 1883,
+   "explicit": true,
+   "evidence": "ging Wenzel 1881 nach Herrnhut zum Sprachforscher und Missionar Heinrich August Jäschke... Wenzel blieb dort zwei Jahre lang",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Wenzel",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": "Habilitation",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": 1886,
+   "explicit": true,
+   "evidence": "1886 habilitierte Wenzel in Leipzig mit einer Übersetzung des „Briefs des Nāgārjuna an König Udayana“ (Suhṛllekha)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Wenzel",
+   "type": "collaborated_with",
+   "object": "Max Müller",
+   "role": "co-editors",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "prepared for publication by Kenjiu Kasawara, a Buddhist priest from Japan, and after his death edited by F. Max Müller and H. W. Oxford 1885",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Heinrich Wenzel",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q100587.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Heinrich Wenzel",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

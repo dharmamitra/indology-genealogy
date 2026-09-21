@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "William Erskine",
+   "birth_year": 1773,
+   "death_year": 1852,
+   "nationality": "Scottish",
+   "field": "orientalist and historian"
+  },
+  {
+   "name": "John Malcolm",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Erskine",
+   "type": "studied_at",
+   "object": "University of Edinburgh",
+   "role": null,
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He attended the High School, then the University of Edinburgh",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Erskine",
+   "type": "collaborated_with",
+   "object": "John Malcolm",
+   "role": "completed biography after Malcolm's death",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he also completed John Malcolm's biography of Clive of India after Malcolm's death",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): William Erskine (historian)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q8008651.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): William Erskine (historian)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

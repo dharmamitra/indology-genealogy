@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Martha Nussbaum",
+   "birth_year": 1947,
+   "death_year": null,
+   "nationality": null,
+   "field": "Philosophin, Autorin und Professorin für Rechtswissenschaften und Ethik"
+  },
+  {
+   "name": "Amartya Sen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Amelie Oksenberg Rorty",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Martha Nussbaum",
+   "type": "position_at",
+   "object": "University of Chicago",
+   "role": "Professorin für Rechtswissenschaften und Ethik",
+   "place": "Chicago",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Martha Nussbaum [...] ist Philosophin, Autorin und Professorin für Rechtswissenschaften und Ethik an der University of Chicago.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Martha Nussbaum",
+   "type": "position_at",
+   "object": "Johann Wolfgang Goethe-Universität Frankfurt am Main",
+   "role": "Dagmar-Westberg-Stiftungsprofessur",
+   "place": "Frankfurt am Main",
+   "year_start": 2013,
+   "year_end": 2013,
+   "explicit": true,
+   "evidence": "2013 nahm sie die zweite Dagmar-Westberg-Stiftungsprofessur an der Johann Wolfgang Goethe-Universität Frankfurt am Main wahr.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Martha Nussbaum",
+   "type": "collaborated_with",
+   "object": "Amartya Sen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sie ist bekannt für den Capability Approach (Fähigkeiten-Ansatz) in der Entwicklungspolitik, den sie zusammen mit Amartya Sen entwickelte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Martha Nussbaum",
+   "type": "collaborated_with",
+   "object": "Amelie Oksenberg Rorty",
+   "role": "co-editors",
+   "place": null,
+   "year_start": 1992,
+   "year_end": 1992,
+   "explicit": true,
+   "evidence": "mit Amelie Oksenberg Rorty: Essays on Aristotle’s De Anima. Clarendon Press, Oxford 1992.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Martha Nussbaum",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q235470.txt#1",
+ "meta": {
+  "title": "Wikipedia (de): Martha Nussbaum",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,138 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Wilhelm Grube",
+   "birth_year": 1855,
+   "death_year": 1908,
+   "nationality": "German",
+   "field": "sinologist and ethnographer"
+  },
+  {
+   "name": "Franz Anton Schiefner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Georg von der Gabelentz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Friedrich Hirth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "S. W. Bushell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Wilhelm Grube",
+   "type": "student_of",
+   "object": "Franz Anton Schiefner",
+   "role": "teacher",
+   "place": "University of Saint Petersburg",
+   "year_start": 1874,
+   "year_end": 1878,
+   "explicit": true,
+   "evidence": "He studied Chinese, Manchu, Mongolian and Tibetan under Franz Anton Schiefner at the University of Saint Petersburg from 1874 to 1878.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Grube",
+   "type": "studied_at",
+   "object": "University of Saint Petersburg",
+   "role": null,
+   "place": "Saint Petersburg",
+   "year_start": 1874,
+   "year_end": 1878,
+   "explicit": true,
+   "evidence": "He studied Chinese, Manchu, Mongolian and Tibetan under Franz Anton Schiefner at the University of Saint Petersburg from 1874 to 1878.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Grube",
+   "type": "student_of",
+   "object": "Georg von der Gabelentz",
+   "role": "doctoral supervisor",
+   "place": "University of Leipzig",
+   "year_start": 1878,
+   "year_end": 1880,
+   "explicit": true,
+   "evidence": "In 1878, Grube moved to Germany to study at the University of Leipzig under Georg von der Gabelentz, and he submitted his doctoral dissertation in 1880.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Grube",
+   "type": "studied_at",
+   "object": "University of Leipzig",
+   "role": "PhD",
+   "place": "Leipzig",
+   "year_start": 1878,
+   "year_end": 1880,
+   "explicit": true,
+   "evidence": "In 1878, Grube moved to Germany to study at the University of Leipzig under Georg von der Gabelentz, and he submitted his doctoral dissertation in 1880.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Grube",
+   "type": "position_at",
+   "object": "University of Leipzig",
+   "role": "taught a course on Tibetan grammar",
+   "place": "Leipzig",
+   "year_start": 1881,
+   "year_end": 1881,
+   "explicit": true,
+   "evidence": "The following year he taught a course on Tibetan grammar at the University of Leipzig",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Grube",
+   "type": "position_at",
+   "object": "Ethnological Museum of Berlin",
+   "role": "assistant",
+   "place": "Berlin",
+   "year_start": 1883,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1883 he took up a position as an assistant at the Ethnological Museum of Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Grube",
+   "type": "position_at",
+   "object": "University of Berlin",
+   "role": "extraordinary professor",
+   "place": "Berlin",
+   "year_start": 1892,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He also had a junior teaching position at the University of Berlin, and in 1892 he was awarded the title of extraordinary professor.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Wilhelm Grube",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q68284.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Wilhelm Grube",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

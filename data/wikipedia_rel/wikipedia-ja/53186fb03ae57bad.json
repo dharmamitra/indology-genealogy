@@ -1,0 +1,93 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ミケール・ヴィゴ・ファウスベル",
+   "birth_year": 1821,
+   "death_year": 1908,
+   "nationality": "デンマーク",
+   "field": "東洋学者、インド学者"
+  },
+  {
+   "name": "ニルス・ルズヴィ・ヴェスタゴー",
+   "birth_year": null,
+   "death_year": 1878,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ミケール・ヴィゴ・ファウスベル",
+   "type": "studied_at",
+   "object": "コペンハーゲン大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "コペンハーゲン大学でニルス・ルズヴィ・ヴェスタゴーに東洋諸言語を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ミケール・ヴィゴ・ファウスベル",
+   "type": "student_of",
+   "object": "ニルス・ルズヴィ・ヴェスタゴー",
+   "role": "teacher",
+   "place": "コペンハーゲン大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "コペンハーゲン大学でニルス・ルズヴィ・ヴェスタゴーに東洋諸言語を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ミケール・ヴィゴ・ファウスベル",
+   "type": "position_at",
+   "object": "コペンハーゲン大学",
+   "role": "副司書",
+   "place": null,
+   "year_start": 1861,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1861年からコペンハーゲン大学の副司書になった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ミケール・ヴィゴ・ファウスベル",
+   "type": "succeeded",
+   "object": "ニルス・ルズヴィ・ヴェスタゴー",
+   "role": "インド文献学とサンスクリットの教授",
+   "place": "コペンハーゲン大学",
+   "year_start": 1878,
+   "year_end": 1902,
+   "explicit": true,
+   "evidence": "1878年にヴェスタゴーが没すると、その後任として同大学のインド文献学とサンスクリットの教授に就任した。1902年に退官した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ミケール・ヴィゴ・ファウスベル",
+   "type": "position_at",
+   "object": "コペンハーゲン大学",
+   "role": "インド文献学とサンスクリットの教授",
+   "place": null,
+   "year_start": 1878,
+   "year_end": 1902,
+   "explicit": true,
+   "evidence": "同大学のインド文献学とサンスクリットの教授に就任した。1902年に退官した。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ヴィゴ・ファウスベル",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q481538.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ヴィゴ・ファウスベル",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

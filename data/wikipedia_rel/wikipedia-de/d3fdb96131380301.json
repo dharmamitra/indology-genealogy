@@ -1,0 +1,50 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Christoph Theodosius Walther",
+   "birth_year": 1699,
+   "death_year": 1741,
+   "nationality": null,
+   "field": "Philologe"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Christoph Theodosius Walther",
+   "type": "studied_at",
+   "object": "Halle",
+   "role": "Theologiestudium",
+   "place": "Halle",
+   "year_start": 1720,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "nahm 1720 in Halle das Theologiestudium auf",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christoph Theodosius Walther",
+   "type": "position_at",
+   "object": "dänisch-englisch-halleschen Mission",
+   "role": "Missionar",
+   "place": "Tranquebar",
+   "year_start": 1724,
+   "year_end": 1740,
+   "explicit": true,
+   "evidence": "Missionar der dänisch-englisch-halleschen Mission im südindischen Tranquebar",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Christoph Theodosius Walther",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1085988.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Christoph Theodosius Walther",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

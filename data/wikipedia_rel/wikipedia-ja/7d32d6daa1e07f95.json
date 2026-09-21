@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "フィリップ・エドゥアール・フーコー",
+   "birth_year": 1811,
+   "death_year": 1894,
+   "nationality": "フランス",
+   "field": "チベット学"
+  },
+  {
+   "name": "ウジェーヌ・ビュルヌフ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "インド学"
+  },
+  {
+   "name": "ケーレシ・チョマ・シャーンドル",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ルイーズ・シャルロット・フィロン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "仏教学"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "フィリップ・エドゥアール・フーコー",
+   "type": "student_of",
+   "object": "ウジェーヌ・ビュルヌフ",
+   "role": "teacher",
+   "place": "パリ",
+   "year_start": 1838,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1838年、27歳のときにパリに出てウジェーヌ・ビュルヌフにインド学を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "フィリップ・エドゥアール・フーコー",
+   "type": "influenced_by",
+   "object": "ケーレシ・チョマ・シャーンドル",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ケーレシ・チョマ・シャーンドルの業績を知ってチベット語を2年間独学で修得した後",
+   "quote_ok": true
+  },
+  {
+   "subject": "フィリップ・エドゥアール・フーコー",
+   "type": "position_at",
+   "object": "東洋言語学校",
+   "role": "教授",
+   "place": null,
+   "year_start": 1842,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "東洋言語学校でチベット語を教えた。1842年1月31日に就任講演を行った。",
+   "quote_ok": true
+  },
+  {
+   "subject": "フィリップ・エドゥアール・フーコー",
+   "type": "position_at",
+   "object": "コレージュ・ド・フランス",
+   "role": "サンスクリット教授",
+   "place": null,
+   "year_start": 1857,
+   "year_end": 1894,
+   "explicit": true,
+   "evidence": "第二帝政時代の1857年にコレージュ・ド・フランスのサンスクリット教授に就任し、没するまでその職にあった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "フィリップ・エドゥアール・フーコー",
+   "type": "other",
+   "object": "ルイーズ・シャルロット・フィロン",
+   "role": "spouse",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "フーコーは51歳のときに作家のルイーズ・シャルロット・フィロン（ペンネームはメアリー・サマー）と結婚した。ルイーズも仏教学者としての著書がある。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): フィリップ・エドゥアール・フーコー",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q962851.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): フィリップ・エドゥアール・フーコー",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

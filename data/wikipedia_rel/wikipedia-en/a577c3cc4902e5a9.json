@@ -1,0 +1,155 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Krishna Mohan Banerjee",
+   "birth_year": 1813,
+   "death_year": 1885,
+   "nationality": "Indian",
+   "field": "Oriental Studies"
+  },
+  {
+   "name": "David Hare",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Alexander Duff",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Scottish",
+   "field": null
+  },
+  {
+   "name": "Iswar Chandra Vidyasagar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "David Hare",
+   "type": "founded",
+   "object": "School Society Institution",
+   "role": null,
+   "place": "colootola",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Krishna Mohan joined the School Society Institution (later renamed as Hare School) founded by David Hare at colootola.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Krishna Mohan Banerjee",
+   "type": "studied_at",
+   "object": "School Society Institution",
+   "role": null,
+   "place": "colootola",
+   "year_start": 1819,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1819, Krishna Mohan joined the School Society Institution (later renamed as Hare School) founded by David Hare at colootola.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Krishna Mohan Banerjee",
+   "type": "studied_at",
+   "object": "Hare School",
+   "role": null,
+   "place": "Pataldanga",
+   "year_start": 1822,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hare took him to his school at Pataldanga, later famous as Hare School in 1822.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Krishna Mohan Banerjee",
+   "type": "studied_at",
+   "object": "Hindu College",
+   "role": "scholarship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Banerjee joined the newly founded Hindu College with a scholarship.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Krishna Mohan Banerjee",
+   "type": "student_of",
+   "object": "Alexander Duff",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "While at college he used to attend the lectures of the Scottish Christian missionary, Alexander Duff",
+   "quote_ok": true
+  },
+  {
+   "subject": "Krishna Mohan Banerjee",
+   "type": "studied_at",
+   "object": "Bishop's College, Kolkata",
+   "role": "student",
+   "place": "Kolkata",
+   "year_start": 1836,
+   "year_end": 1839,
+   "explicit": true,
+   "evidence": "He had studied aspects of Christianity as a student of the same college between 1836 and 1839.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Krishna Mohan Banerjee",
+   "type": "position_at",
+   "object": "Bishop's College, Kolkata",
+   "role": "professor of Oriental Studies",
+   "place": "Kolkata",
+   "year_start": 1852,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1852, Krishna Mohan was appointed a professor of Oriental Studies at Bishop's College, Kolkata.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Krishna Mohan Banerjee",
+   "type": "position_at",
+   "object": "Royal Asiatic Society",
+   "role": "member",
+   "place": null,
+   "year_start": 1864,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1864 he was elected to be a member of the Royal Asiatic Society along with Iswar Chandra Vidyasagar.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Iswar Chandra Vidyasagar",
+   "type": "position_at",
+   "object": "Royal Asiatic Society",
+   "role": "member",
+   "place": null,
+   "year_start": 1864,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1864 he was elected to be a member of the Royal Asiatic Society along with Iswar Chandra Vidyasagar.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Krishna Mohan Banerjee",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q5565188.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Krishna Mohan Banerjee",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Pema Chödrön",
+   "birth_year": 1936,
+   "death_year": null,
+   "nationality": "US-amerikanisch",
+   "field": null
+  },
+  {
+   "name": "Chögyam Trungpa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ayya Khema",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Pema Chödrön",
+   "type": "student_of",
+   "object": "Chögyam Trungpa",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Chödrön war Schülerin von Chögyam Trungpa",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pema Chödrön",
+   "type": "position_at",
+   "object": "Gampo Abbey",
+   "role": "Leiterin",
+   "place": "Kap-Breton-Insel",
+   "year_start": 1984,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "der sie 1984 zur Leiterin von Gampo Abbey, einem tibetischen Kloster der Karma-Kagyü-Linie des Vajrayana auf der kanadischen Kap-Breton-Insel, ernannte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pema Chödrön",
+   "type": "position_at",
+   "object": "Gampo Abbey",
+   "role": "Äbtissin",
+   "place": null,
+   "year_start": 2025,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Seit 2025 ist sie Äbtissin von Gampo Abbey.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pema Chödrön",
+   "type": "collaborated_with",
+   "object": "Ayya Khema",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": 2004,
+   "explicit": true,
+   "evidence": "mit Ayya Khema Offenes Herz – mutiger Geist. Jhana, 2004, ISBN 3-931274-28-4.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Pema Chödrön",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q442384.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Pema Chödrön",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

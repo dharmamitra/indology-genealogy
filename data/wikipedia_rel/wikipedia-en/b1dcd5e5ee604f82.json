@@ -1,0 +1,126 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Samuel Benjamin Harris",
+   "birth_year": 1967,
+   "death_year": null,
+   "nationality": "American",
+   "field": "neuroscience"
+  },
+  {
+   "name": "Dilgo Khyentse",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhism"
+  },
+  {
+   "name": "Mark S. Cohen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "cognitive neuroscience"
+  },
+  {
+   "name": "Maajid Nawaz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Jonathan Matusitz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Samuel Benjamin Harris",
+   "type": "student_of",
+   "object": "Dilgo Khyentse",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he visited India and Nepal, where he studied meditation with teachers of Buddhist and Hindu religions, including Dilgo Khyentse.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Samuel Benjamin Harris",
+   "type": "studied_at",
+   "object": "Stanford University",
+   "role": "B.A.",
+   "place": null,
+   "year_start": 1997,
+   "year_end": 2000,
+   "explicit": true,
+   "evidence": "In 1997, after eleven years overseas, Harris returned to Stanford, completing a B.A. degree in philosophy in 2000.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Samuel Benjamin Harris",
+   "type": "studied_at",
+   "object": "University of California, Los Angeles",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 2009,
+   "explicit": true,
+   "evidence": "He received a Ph.D. in cognitive neuroscience in 2009 from the University of California, Los Angeles",
+   "quote_ok": true
+  },
+  {
+   "subject": "Samuel Benjamin Harris",
+   "type": "student_of",
+   "object": "Mark S. Cohen",
+   "role": "doctoral supervisor",
+   "place": "University of California, Los Angeles",
+   "year_start": null,
+   "year_end": 2009,
+   "explicit": true,
+   "evidence": "His thesis was titled The Moral Landscape: How Science Could Determine Human Values. His advisor was Mark S. Cohen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Samuel Benjamin Harris",
+   "type": "collaborated_with",
+   "object": "Maajid Nawaz",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2015,
+   "explicit": true,
+   "evidence": "and (with British writer Maajid Nawaz) Islam and the Future of Tolerance: A Dialogue (2015).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jonathan Matusitz",
+   "type": "position_at",
+   "object": "University of Central Florida",
+   "role": "Associate Professor",
+   "place": null,
+   "year_start": 2020,
+   "year_end": 2020,
+   "explicit": true,
+   "evidence": "Harris has been described in 2020 by Jonathan Matusitz, Associate Professor at the University of Central Florida",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Sam Harris",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q296047.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Sam Harris",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

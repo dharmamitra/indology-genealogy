@@ -1,0 +1,74 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Edward Delavan Perry",
+   "birth_year": 1854,
+   "death_year": 1938,
+   "nationality": "US-amerikanisch",
+   "field": "Klassischer Philologe"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Edward Delavan Perry",
+   "type": "studied_at",
+   "object": "Columbia University",
+   "role": "A.B.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1875,
+   "explicit": true,
+   "evidence": "Er erwarb 1875 den A.B. an der Columbia University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Delavan Perry",
+   "type": "studied_at",
+   "object": "Tübingen",
+   "role": "Dr. phil.",
+   "place": "Tübingen",
+   "year_start": null,
+   "year_end": 1879,
+   "explicit": true,
+   "evidence": "und 1879 den Dr. phil. in Tübingen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Delavan Perry",
+   "type": "position_at",
+   "object": "Columbia University",
+   "role": "Professor für Sanskrit",
+   "place": null,
+   "year_start": 1891,
+   "year_end": 1895,
+   "explicit": false,
+   "evidence": "Er lehrte als Professor für Sanskrit (1891–1895)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Delavan Perry",
+   "type": "position_at",
+   "object": "Columbia University",
+   "role": "Jay Professor für Griechische und Lateinische Sprache",
+   "place": null,
+   "year_start": 1895,
+   "year_end": 1931,
+   "explicit": false,
+   "evidence": "und Jay Professor für Griechische und Lateinische Sprache (1895–1931).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Edward Delavan Perry",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q21524576.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Edward Delavan Perry",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

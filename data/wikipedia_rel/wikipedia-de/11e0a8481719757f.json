@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Georg Wilhelm Friedrich Freytag",
+   "birth_year": 1788,
+   "death_year": 1861,
+   "nationality": "German",
+   "field": "Orientalist"
+  },
+  {
+   "name": "Silvestre de Sacy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Louis Segond",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Swiss",
+   "field": "Theologie"
+  },
+  {
+   "name": "Abraham Geiger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Georg Wilhelm Friedrich Freytag",
+   "type": "studied_at",
+   "object": "Georg-August-Universität Göttingen",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Freytag studierte an der Georg-August-Universität Göttingen Theologie",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Wilhelm Friedrich Freytag",
+   "type": "position_at",
+   "object": "Georg-August-Universität Göttingen",
+   "role": "Repetent",
+   "place": "Göttingen",
+   "year_start": 1811,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "und erhielt dort 1811 eine Repetentenstelle.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Wilhelm Friedrich Freytag",
+   "type": "student_of",
+   "object": "Silvestre de Sacy",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": 1819,
+   "explicit": true,
+   "evidence": "Hier befreundete er sich mit Silvestre de Sacy und setzte unter dessen Leitung auch nach Napoléon Bonapartes endgültiger Niederlage in der Schlacht bei Waterloo seine Studien",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Wilhelm Friedrich Freytag",
+   "type": "position_at",
+   "object": "Universität Bonn",
+   "role": "Professor der orientalischen Sprachen",
+   "place": "Bonn",
+   "year_start": 1819,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "bis er 1819 als Professor der orientalischen Sprachen an die Universität Bonn berufen wurde.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Wilhelm Friedrich Freytag",
+   "type": "position_at",
+   "object": "Universität Bonn",
+   "role": "Rektor",
+   "place": "Bonn",
+   "year_start": 1835,
+   "year_end": 1836,
+   "explicit": true,
+   "evidence": "1835/36 amtierte er als Rektor der Universität Bonn.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Louis Segond",
+   "type": "student_of",
+   "object": "Georg Wilhelm Friedrich Freytag",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zu Freytags Schülern gehörte u. a. der Schweizer Theologe Louis Segond",
+   "quote_ok": true
+  },
+  {
+   "subject": "Abraham Geiger",
+   "type": "student_of",
+   "object": "Georg Wilhelm Friedrich Freytag",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zu Freytags Schülern gehörte u. a. der Schweizer Theologe Louis Segond sowie Abraham Geiger",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Georg Wilhelm Freytag",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q76316.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Georg Wilhelm Freytag",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

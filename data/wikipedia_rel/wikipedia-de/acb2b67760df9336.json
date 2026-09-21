@@ -1,0 +1,167 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Jean Philippe Vogel",
+   "birth_year": 1871,
+   "death_year": 1958,
+   "nationality": "niederländisch",
+   "field": "Indologe"
+  },
+  {
+   "name": "Christianus Cornelis Uhlenbeck",
+   "birth_year": 1866,
+   "death_year": 1951,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Johan Huizinga",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Johan Hendrik Caspar Kern",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jean Philippe Vogel",
+   "type": "studied_at",
+   "object": "Universität von Amsterdam",
+   "role": "Doktor der Philosophie",
+   "place": "Amsterdam",
+   "year_start": 1890,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "Im Jahr 1890 ging er an die Universität von Amsterdam um sich orientalischen Studien zu widmen. [...] promovierte am 15. Dezember 1897 mit einer niederländischen Übersetzung des altindischen Dramas Mrcchakatika zum Doktor der Philosophie.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean Philippe Vogel",
+   "type": "student_of",
+   "object": "Christianus Cornelis Uhlenbeck",
+   "role": "teacher",
+   "place": "Amsterdam",
+   "year_start": 1890,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hier wurde Christianus Cornelis Uhlenbeck (1866–1951) sein prägender Lehrer, bei dem er sich vor allem mit Sanskrit auseinandersetzte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean Philippe Vogel",
+   "type": "student_of",
+   "object": "Johan Hendrik Caspar Kern",
+   "role": "teacher",
+   "place": "Leiden",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gemeinsam mit Johan Huizinga verfolgte er auch die Vorlesungen von Johan Hendrik Caspar Kern an der Universität Leiden.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johan Huizinga",
+   "type": "student_of",
+   "object": "Johan Hendrik Caspar Kern",
+   "role": "teacher",
+   "place": "Leiden",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gemeinsam mit Johan Huizinga verfolgte er auch die Vorlesungen von Johan Hendrik Caspar Kern an der Universität Leiden.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean Philippe Vogel",
+   "type": "position_at",
+   "object": "Universität von Amsterdam",
+   "role": "Privatdozent",
+   "place": "Amsterdam",
+   "year_start": 1898,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Jahr 1898 habilitierte er sich als Privatdozent an der Universität von Amsterdam",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean Philippe Vogel",
+   "type": "position_at",
+   "object": "Archaeological Survey of India",
+   "role": "Superintendent",
+   "place": "Lahore",
+   "year_start": 1901,
+   "year_end": 1911,
+   "explicit": true,
+   "evidence": "Im Jahr 1901 erhielt er die Stelle eines Superintendenten des Archaeological Survey of India, des nördlichen Teils von Britisch-Indien in Lahore",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean Philippe Vogel",
+   "type": "position_at",
+   "object": "Archaeological Survey of India",
+   "role": "Generaldirektor der Archäologie in Britisch-Indien",
+   "place": null,
+   "year_start": 1911,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1911 wurde er offizieller Generaldirektor der Archäologie in Britisch-Indien.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean Philippe Vogel",
+   "type": "position_at",
+   "object": "Universität Leiden",
+   "role": "Professur für Sanskrit, dessen Literatur und Indische Archäologie",
+   "place": "Leiden",
+   "year_start": 1914,
+   "year_end": 1939,
+   "explicit": true,
+   "evidence": "berief man Vogel am 17. Januar 1914 auf die Professur für Sanskrit, dessen Literatur und Indische Archäologie, welche Aufgabe er am 1. April 1914 [...] übernahm [...] Am 16. September 1939 wurde er aus seiner Professur emeritiert",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean Philippe Vogel",
+   "type": "position_at",
+   "object": "Kern Institut",
+   "role": "Leiter",
+   "place": "Leiden",
+   "year_start": 1914,
+   "year_end": 1939,
+   "explicit": true,
+   "evidence": "und damit verbunden Leiter des Kern Instituts wurde. [...] Am 16. September 1939 wurde er aus seiner Professur emeritiert und wurde Ehrenvorsitzender des Kern Instituts.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean Philippe Vogel",
+   "type": "position_at",
+   "object": "Universität Leiden",
+   "role": "Rektor",
+   "place": "Leiden",
+   "year_start": 1930,
+   "year_end": 1931,
+   "explicit": true,
+   "evidence": "Im Akademiejahr 1930/31 war er Rektor der Leidener Hochschule",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Jean Philippe Vogel",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q19661102.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Jean Philippe Vogel",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

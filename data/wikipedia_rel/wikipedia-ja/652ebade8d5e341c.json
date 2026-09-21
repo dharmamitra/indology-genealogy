@@ -1,0 +1,119 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "クシティモハン・セン",
+   "birth_year": 1880,
+   "death_year": 1960,
+   "nationality": "インド",
+   "field": "サンスクリット語"
+  },
+  {
+   "name": "ラビンドラナート・タゴール",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "アマルティア・セン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "経済学"
+  },
+  {
+   "name": "エマ・ジョージナ・ロスチャイルド",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "クシティモハン・セン",
+   "type": "position_at",
+   "object": "ヴィシュヴァ・バーラティ大学",
+   "role": "副学長、サンスクリット語教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "サンスクリット語教授、ヴィシュヴァ・バーラティ大学（現・タゴール国際大学）の副学長などを務めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ラビンドラナート・タゴール",
+   "type": "founded",
+   "object": "ヴィシュヴァ・バーラティ大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ラビンドラナート・タゴールが設立したヴィシュヴァ・バーラティ大学",
+   "quote_ok": true
+  },
+  {
+   "subject": "クシティモハン・セン",
+   "type": "collaborated_with",
+   "object": "ラビンドラナート・タゴール",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "タゴールと共同で、バウルの膨大な歌集を収集、出版するとともに研究を発表した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アマルティア・セン",
+   "type": "other",
+   "object": "クシティモハン・セン",
+   "role": "孫",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "孫：アマルティア・センは経済学者で、ノーベル経済学賞を受賞した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エマ・ジョージナ・ロスチャイルド",
+   "type": "position_at",
+   "object": "ケンブリッジ大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "アマルティアと結婚したケンブリッジ大学教授のエマ・ジョージナ・ロスチャイルド",
+   "quote_ok": true
+  },
+  {
+   "subject": "エマ・ジョージナ・ロスチャイルド",
+   "type": "other",
+   "object": "クシティモハン・セン",
+   "role": "義理の孫",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "アマルティアと結婚したケンブリッジ大学教授のエマ・ジョージナ・ロスチャイルドとは義理の孫の関係にあたる。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): クシティモハン・セン",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q6440797.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): クシティモハン・セン",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

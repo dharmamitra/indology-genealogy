@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Tulku Urgyen Rinpoche",
+   "birth_year": 1920,
+   "death_year": 1996,
+   "nationality": "Tibetan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Samten Gyatso",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sam Harris",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Tulku Urgyen Rinpoche",
+   "type": "student_of",
+   "object": "Samten Gyatso",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "As he grew older, he studied Dzogchen with Samten Gyatso.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sam Harris",
+   "type": "student_of",
+   "object": "Tulku Urgyen Rinpoche",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Author and neuroscientist Sam Harris was a student of Tulku Urgyen Rinpoche.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Tulku Urgyen Rinpoche",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1364408.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Tulku Urgyen Rinpoche",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

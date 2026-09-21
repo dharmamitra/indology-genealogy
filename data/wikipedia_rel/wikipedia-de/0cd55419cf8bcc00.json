@@ -1,0 +1,143 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Jean Przyluski",
+   "birth_year": 1885,
+   "death_year": 1944,
+   "nationality": "französischer",
+   "field": "Linguist, Religionswissenschaftler und Buddhologe"
+  },
+  {
+   "name": "Henri Hubert",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Soziologe"
+  },
+  {
+   "name": "Marcel Mauss",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Soziologe"
+  },
+  {
+   "name": "Louis Finot",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jean Przyluski",
+   "type": "position_at",
+   "object": "École pratique des hautes études",
+   "role": "directeur d’études (Lehrstuhl für buddhistische Philologie)",
+   "place": "Paris",
+   "year_start": 1926,
+   "year_end": 1944,
+   "explicit": true,
+   "evidence": "Er lehrte buddhistische Philologie an der École pratique des hautes études (1926–1944)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean Przyluski",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "Professor für indochinesische Geschichte und Philologie",
+   "place": "Paris",
+   "year_start": 1930,
+   "year_end": 1944,
+   "explicit": true,
+   "evidence": "sowie indochinesische Geschichte und Philologie am Collège de France (1930–1944).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean Przyluski",
+   "type": "student_of",
+   "object": "Henri Hubert",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wo er Vorlesungen bei den Soziologen Henri Hubert und Marcel Mauss an der École pratique des hautes études besuchte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean Przyluski",
+   "type": "student_of",
+   "object": "Marcel Mauss",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wo er Vorlesungen bei den Soziologen Henri Hubert und Marcel Mauss an der École pratique des hautes études besuchte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean Przyluski",
+   "type": "studied_at",
+   "object": "École pratique des hautes études",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wo er Vorlesungen bei den Soziologen Henri Hubert und Marcel Mauss an der École pratique des hautes études besuchte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean Przyluski",
+   "type": "studied_at",
+   "object": "École coloniale",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1907,
+   "explicit": true,
+   "evidence": "Er schloss 1907 sein Studium an der École coloniale ab",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean Przyluski",
+   "type": "position_at",
+   "object": "École des langues orientales",
+   "role": "Professor (lehrte Vietnamesisch)",
+   "place": "Paris",
+   "year_start": 1913,
+   "year_end": 1930,
+   "explicit": true,
+   "evidence": "Nach seiner Rückkehr nach Paris 1913 lehrte er Vietnamesisch an der École des langues orientales, wo er von 1923 bis 1930 Professor war.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean Przyluski",
+   "type": "succeeded",
+   "object": "Louis Finot",
+   "role": "Professor für indochinesische Geschichte und Philologie",
+   "place": "Collège de France",
+   "year_start": 1930,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Außerdem wurde er 1930 als Nachfolger Louis Finots zum Professor für indochinesische Geschichte und Philologie am Collège de France ernannt.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Jean Przyluski",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q12900505.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Jean Przyluski",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

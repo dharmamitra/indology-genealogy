@@ -1,0 +1,176 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "August Wilhelm von Schlegel",
+   "birth_year": 1767,
+   "death_year": 1845,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Friedrich Schlegel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "Gottfried August Bürger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Christian Gottlob Heyne",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Classical Philology"
+  },
+  {
+   "name": "Christian Lassen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Norwegian",
+   "field": "Indology"
+  },
+  {
+   "name": "Franz Bopp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "comparative linguistics"
+  },
+  {
+   "name": "Wilhelm von Humboldt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "linguistics"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "August Wilhelm von Schlegel",
+   "type": "studied_at",
+   "object": "Universität Göttingen",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": 1786,
+   "year_end": 1791,
+   "explicit": true,
+   "evidence": "Schlegel studierte zunächst (1786) in Göttingen Theologie, entschied sich aber für die Philologie [...] 1791 beendete er sein Studium.",
+   "quote_ok": true
+  },
+  {
+   "subject": "August Wilhelm von Schlegel",
+   "type": "student_of",
+   "object": "Gottfried August Bürger",
+   "role": "teacher",
+   "place": "Göttingen",
+   "year_start": 1786,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "entschied sich aber für die Philologie, als er in Gottfried August Bürger einen Mentor fand, der ihm Einblicke in die Übersetzungspraxis aus klassischen sowie neueren Sprachen vermittelte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "August Wilhelm von Schlegel",
+   "type": "student_of",
+   "object": "Christian Gottlob Heyne",
+   "role": "teacher",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "August Wilhelm Schlegel wurde ein fleißiger Schüler des Altphilologen Christian Gottlob Heyne.",
+   "quote_ok": true
+  },
+  {
+   "subject": "August Wilhelm von Schlegel",
+   "type": "position_at",
+   "object": "Universität Jena",
+   "role": "außerordentlicher Professor",
+   "place": "Jena",
+   "year_start": 1795,
+   "year_end": 1801,
+   "explicit": true,
+   "evidence": "Er lehrte ab 1795 an der Universität Jena, von 1798 bis 1801 als außerordentlicher Professor.",
+   "quote_ok": true
+  },
+  {
+   "subject": "August Wilhelm von Schlegel",
+   "type": "position_at",
+   "object": "Universität Bonn",
+   "role": "Inhaber des ersten Lehrstuhls für Indologie",
+   "place": "Bonn",
+   "year_start": 1818,
+   "year_end": 1845,
+   "explicit": true,
+   "evidence": "1818 wurde er Inhaber des ersten Lehrstuhls für Indologie in Deutschland an der neu gegründeten Universität Bonn.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Lassen",
+   "type": "student_of",
+   "object": "August Wilhelm von Schlegel",
+   "role": "teacher",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Der Norweger Christian Lassen setzte als sein Schüler und Nachfolger diese Arbeit fort.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Lassen",
+   "type": "succeeded",
+   "object": "August Wilhelm von Schlegel",
+   "role": null,
+   "place": "Universität Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Der Norweger Christian Lassen setzte als sein Schüler und Nachfolger diese Arbeit fort.",
+   "quote_ok": true
+  },
+  {
+   "subject": "August Wilhelm von Schlegel",
+   "type": "collaborated_with",
+   "object": "Friedrich Schlegel",
+   "role": "co-editor",
+   "place": null,
+   "year_start": 1798,
+   "year_end": 1800,
+   "explicit": true,
+   "evidence": "Die Brüder entschieden sich im Oktober 1797, selbst eine Zeitschrift Athenaeum herauszugeben, die ab Mai 1798 zweimal pro Jahr bis 1800 erschien.",
+   "quote_ok": true
+  },
+  {
+   "subject": "August Wilhelm von Schlegel",
+   "type": "other",
+   "object": "Friedrich Schlegel",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "seinem Bruder Friedrich",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): August Wilhelm Schlegel",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q57281.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): August Wilhelm Schlegel",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

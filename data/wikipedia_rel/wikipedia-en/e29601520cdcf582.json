@@ -1,0 +1,136 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John Collinson Nesfield",
+   "birth_year": 1836,
+   "death_year": 1919,
+   "nationality": "British",
+   "field": "Education"
+  },
+  {
+   "name": "Manfred Görlach",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ellen Bal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Anthropologist"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Collinson Nesfield",
+   "type": "studied_at",
+   "object": "Highgate Grammar School",
+   "role": null,
+   "place": null,
+   "year_start": 1852,
+   "year_end": 1855,
+   "explicit": true,
+   "evidence": "He attended Highgate Grammar School from 1852 to 1855",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Collinson Nesfield",
+   "type": "position_at",
+   "object": "Highgate Grammar School",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1859,
+   "year_end": 1864,
+   "explicit": true,
+   "evidence": "and later taught there from 1859 to 1864.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Collinson Nesfield",
+   "type": "studied_at",
+   "object": "Merton College, Oxford",
+   "role": "BA",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": 1860,
+   "explicit": true,
+   "evidence": "He became a postmaster (holder of a senior scholarship) at Merton College at the University of Oxford. There he earned a BA degree in 1860",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Collinson Nesfield",
+   "type": "studied_at",
+   "object": "Merton College, Oxford",
+   "role": "MA",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": 1862,
+   "explicit": true,
+   "evidence": "and was later promoted to an MA in 1862.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Collinson Nesfield",
+   "type": "position_at",
+   "object": "Presidency College",
+   "role": "professor",
+   "place": "Bengal Presidency",
+   "year_start": 1867,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "There he served initially as a professor at Presidency College and Krishnagar Government College, both in the Bengal Presidency",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Collinson Nesfield",
+   "type": "position_at",
+   "object": "Krishnagar Government College",
+   "role": "professor",
+   "place": "Bengal Presidency",
+   "year_start": 1867,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "There he served initially as a professor at Presidency College and Krishnagar Government College, both in the Bengal Presidency",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Collinson Nesfield",
+   "type": "position_at",
+   "object": "Benares College",
+   "role": "principal",
+   "place": null,
+   "year_start": 1878,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then in 1878 became principal of Benares College",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Collinson Nesfield",
+   "type": "position_at",
+   "object": "University of Allahabad",
+   "role": "Fellow",
+   "place": "Allahabad",
+   "year_start": 1887,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He had been made a Fellow of the University of Allahabad in 1887, the year of its establishment",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): John Nesfield",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q20764124.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): John Nesfield",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

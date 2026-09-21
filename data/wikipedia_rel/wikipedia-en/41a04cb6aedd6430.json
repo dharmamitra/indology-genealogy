@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Robert Chambers",
+   "birth_year": 1737,
+   "death_year": 1803,
+   "nationality": "English",
+   "field": "English Law"
+  },
+  {
+   "name": "William Blackstone",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Samuel Johnson",
+   "birth_year": null,
+   "death_year": 1784,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Robert Chambers",
+   "type": "studied_at",
+   "object": "Lincoln College, Oxford",
+   "role": "exhibition",
+   "place": "Oxford",
+   "year_start": 1754,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "awarded an exhibition at Lincoln College, Oxford, in May 1754.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Chambers",
+   "type": "position_at",
+   "object": "University College, Oxford",
+   "role": "fellowship",
+   "place": "Oxford",
+   "year_start": 1761,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In that year, he was also appointed to a fellowship at University College, Oxford.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Chambers",
+   "type": "position_at",
+   "object": "University of Oxford",
+   "role": "Vinerian Professor of English Law",
+   "place": "Oxford",
+   "year_start": 1766,
+   "year_end": 1777,
+   "explicit": true,
+   "evidence": "On 7 May 1766 he was appointed Vinerian Professor of English Law at the University of Oxford, in succession to William Blackstone.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Chambers",
+   "type": "succeeded",
+   "object": "William Blackstone",
+   "role": "Vinerian Professor of English Law",
+   "place": "University of Oxford",
+   "year_start": 1766,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "On 7 May 1766 he was appointed Vinerian Professor of English Law at the University of Oxford, in succession to William Blackstone.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Chambers",
+   "type": "position_at",
+   "object": "New Inn Hall",
+   "role": "Principal",
+   "place": null,
+   "year_start": 1766,
+   "year_end": 1803,
+   "explicit": true,
+   "evidence": "He was also appointed Principal of New Inn Hall in 1766, a post which he held until his death, despite continued absence from it.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Chambers",
+   "type": "other",
+   "object": "Samuel Johnson",
+   "role": "friend",
+   "place": null,
+   "year_start": 1754,
+   "year_end": 1784,
+   "explicit": true,
+   "evidence": "A contemporary and friend of Samuel Johnson from at least 1754 and up to Johnson's death in 1784",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Robert Chambers (English judge)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q7342842.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Robert Chambers (English judge)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

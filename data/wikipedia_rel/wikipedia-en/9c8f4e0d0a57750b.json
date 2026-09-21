@@ -1,0 +1,145 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Stephen Wootton Bushell",
+   "birth_year": 1844,
+   "death_year": 1908,
+   "nationality": "English",
+   "field": "Orientalist"
+  },
+  {
+   "name": "William Lockhart",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Thomas G. Grosvenor",
+   "birth_year": 1842,
+   "death_year": 1886,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Alexander Wylie",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "George F. Kunz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Heber R. Bishop",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Stephen Wootton Bushell",
+   "type": "studied_at",
+   "object": "Guy's Hospital Medical School, University of London",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1866,
+   "explicit": true,
+   "evidence": "he studied medicine at Guy's Hospital Medical School), University of London, where he excelled... After graduation in 1866",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stephen Wootton Bushell",
+   "type": "studied_at",
+   "object": "University of London",
+   "role": "Doctor of Medicine (MD)",
+   "place": null,
+   "year_start": null,
+   "year_end": 1868,
+   "explicit": true,
+   "evidence": "He was awarded the degree of Doctor of Medicine (MD) from the University of London on 13 May 1868.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stephen Wootton Bushell",
+   "type": "position_at",
+   "object": "Guy's Hospital",
+   "role": "house surgeon",
+   "place": null,
+   "year_start": 1866,
+   "year_end": 1867,
+   "explicit": true,
+   "evidence": "After graduation in 1866, he worked as a house surgeon at Guy's Hospital",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stephen Wootton Bushell",
+   "type": "position_at",
+   "object": "Bethlem Royal Hospital",
+   "role": "resident medical officer",
+   "place": null,
+   "year_start": 1867,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and then in 1867 he worked as a resident medical officer at Bethlem Royal Hospital.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stephen Wootton Bushell",
+   "type": "position_at",
+   "object": "British Legation in Beijing",
+   "role": "physician",
+   "place": "Beijing",
+   "year_start": 1868,
+   "year_end": 1900,
+   "explicit": true,
+   "evidence": "Bushell was offered a position as physician to the British Legation in Beijing, China... except for a few periods of leave, he remained there for the next thirty-two years. He finally retired and returned to England in 1900",
+   "quote_ok": false
+  },
+  {
+   "subject": "Stephen Wootton Bushell",
+   "type": "collaborated_with",
+   "object": "George F. Kunz",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": 1906,
+   "explicit": true,
+   "evidence": "He also worked with Dr. George F. Kunz and Heber R. Bishop in writing producing the catalog of the Bishop Collection of Jade at the Metropolitan Museum of Art in 1906.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stephen Wootton Bushell",
+   "type": "collaborated_with",
+   "object": "Heber R. Bishop",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": 1906,
+   "explicit": true,
+   "evidence": "He also worked with Dr. George F. Kunz and Heber R. Bishop in writing producing the catalog of the Bishop Collection of Jade at the Metropolitan Museum of Art in 1906.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Stephen Wootton Bushell",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q7610885.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Stephen Wootton Bushell",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

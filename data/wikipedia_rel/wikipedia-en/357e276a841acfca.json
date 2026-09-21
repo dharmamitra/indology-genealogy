@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "James Tod",
+   "birth_year": 1782,
+   "death_year": 1835,
+   "nationality": "British",
+   "field": "Indian history and geography"
+  },
+  {
+   "name": "Yati Gyanchandra",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Tod",
+   "type": "studied_at",
+   "object": "Royal Military Academy, Woolwich",
+   "role": null,
+   "place": "Woolwich",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Tod joined the British East India Company and initially spent some time studying at the Royal Military Academy, Woolwich.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Tod",
+   "type": "student_of",
+   "object": "Yati Gyanchandra",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Charanas were called upon to create a master list of the 'Thirty Six Royal Races of Rajasthan' with Tod's guru Yati Gyanchandra presiding the panel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Tod",
+   "type": "position_at",
+   "object": "Royal Asiatic Society",
+   "role": "librarian",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He also became a member of the newly established Royal Asiatic Society in London, for whom he acted for some time as librarian.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): James Tod",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1200855.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): James Tod",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

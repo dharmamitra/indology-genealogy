@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Étienne Balázs",
+   "birth_year": 1905,
+   "death_year": 1963,
+   "nationality": "ungarisch",
+   "field": "Sinologie"
+  },
+  {
+   "name": "Otto Franke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Paul Demiéville",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Étienne Balázs",
+   "type": "student_of",
+   "object": "Otto Franke",
+   "role": "doctoral supervisor",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": 1930,
+   "explicit": true,
+   "evidence": "1923 setzte er sein in Budapest begonnenes Studium in Berlin fort und promovierte 1930 unter Otto Franke mit magna cum laude.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Étienne Balázs",
+   "type": "collaborated_with",
+   "object": "Paul Demiéville",
+   "role": "editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Eine Sammlung von Artikeln Balazs' ist auf Französisch von Paul Demiéville unter dem Titel „La bureaucratie céleste“ herausgegeben worden.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Étienne Balázs",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q289356.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Étienne Balázs",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

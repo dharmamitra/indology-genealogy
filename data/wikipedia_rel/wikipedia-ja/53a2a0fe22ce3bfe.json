@@ -1,0 +1,155 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "長井真琴",
+   "birth_year": 1881,
+   "death_year": 1970,
+   "nationality": "日本",
+   "field": "仏教学"
+  },
+  {
+   "name": "長井真先",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "仏教学"
+  },
+  {
+   "name": "佐々木閑",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "仏教学"
+  },
+  {
+   "name": "高楠順次郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "長井真琴",
+   "type": "studied_at",
+   "object": "東京帝国大学",
+   "role": "文学博士",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "学位は、文学博士（東京帝国大学）。",
+   "quote_ok": true
+  },
+  {
+   "subject": "長井真琴",
+   "type": "other",
+   "object": "長井真先",
+   "role": "father of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "長男に仏教学者長井真先",
+   "quote_ok": true
+  },
+  {
+   "subject": "長井真琴",
+   "type": "other",
+   "object": "佐々木閑",
+   "role": "great-uncle of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "姪孫に仏教学者佐々木閑。",
+   "quote_ok": true
+  },
+  {
+   "subject": "長井真琴",
+   "type": "collaborated_with",
+   "object": "高楠順次郎",
+   "role": null,
+   "place": null,
+   "year_start": 1924,
+   "year_end": 1954,
+   "explicit": true,
+   "evidence": "1924年（大正13年）、高楠順次郎らとパーリ語仏典の律の注釈書『サマンタパーサーディカー』の校訂に着手し、30年をかけて完成させている。",
+   "quote_ok": true
+  },
+  {
+   "subject": "長井真琴",
+   "type": "position_at",
+   "object": "東京帝国大学",
+   "role": "教授",
+   "place": null,
+   "year_start": 1934,
+   "year_end": 1942,
+   "explicit": true,
+   "evidence": "1934年（昭和9年）には母校東京帝大の教授となる。 […] 1942年東京帝大を定年退官。",
+   "quote_ok": true
+  },
+  {
+   "subject": "長井真琴",
+   "type": "position_at",
+   "object": "日本大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "戦後、日本大学・東洋大学・京浜女子大学教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "長井真琴",
+   "type": "position_at",
+   "object": "東洋大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "戦後、日本大学・東洋大学・京浜女子大学教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "長井真琴",
+   "type": "position_at",
+   "object": "京浜女子大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "戦後、日本大学・東洋大学・京浜女子大学教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "長井真琴",
+   "type": "position_at",
+   "object": "中央商科短期大学",
+   "role": "学長",
+   "place": null,
+   "year_start": 1951,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1951年（昭和26年）中央商科短期大学学長。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 長井真琴",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q11651474.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 長井真琴",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

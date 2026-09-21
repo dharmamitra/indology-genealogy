@@ -1,0 +1,71 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ヘルマン・ギュンター・グラスマン",
+   "birth_year": 1809,
+   "death_year": 1877,
+   "nationality": "ドイツ",
+   "field": "数学者、物理学者、言語学者"
+  },
+  {
+   "name": "ユストゥス",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "物理学・数学"
+  },
+  {
+   "name": "アウグスト・メビウス",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "エルンスト・クンマー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ヘルマン・ギュンター・グラスマン",
+   "type": "other",
+   "object": "ユストゥス",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "父ユストゥスはギムナジウムの教授で、物理学・数学の本も著している。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヘルマン・ギュンター・グラスマン",
+   "type": "studied_at",
+   "object": "テュービンゲン大学",
+   "role": "名誉博士号",
+   "place": null,
+   "year_start": null,
+   "year_end": 1876,
+   "explicit": true,
+   "evidence": "特に『リグ・ヴェーダ』の翻訳および『リグ・ヴェーダ辞典』は文献学者の間で高く評価され、これによって1876年、テュービンゲン大学から名誉博士号を授与された。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ヘルマン・グラスマン",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q77219.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ヘルマン・グラスマン",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

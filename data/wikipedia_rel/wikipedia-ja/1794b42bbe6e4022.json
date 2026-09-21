@@ -1,0 +1,155 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "クリスチャン・ラッセン",
+   "birth_year": 1800,
+   "death_year": 1876,
+   "nationality": "ドイツ",
+   "field": "東洋学者、インド学者"
+  },
+  {
+   "name": "アウグスト・ヴィルヘルム・シュレーゲル",
+   "birth_year": null,
+   "death_year": 1845,
+   "nationality": "ドイツ",
+   "field": "インド学"
+  },
+  {
+   "name": "ウジェーヌ・ビュルヌフ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ローリンソン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "クリスチャン・ラッセン",
+   "type": "studied_at",
+   "object": "クリスチャニア大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "はじめクリスチャニア大学で学び",
+   "quote_ok": true
+  },
+  {
+   "subject": "クリスチャン・ラッセン",
+   "type": "studied_at",
+   "object": "ハイデルベルク大学",
+   "role": null,
+   "place": null,
+   "year_start": 1822,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1822年にハイデルベルク大学、ついでボン大学に移って",
+   "quote_ok": true
+  },
+  {
+   "subject": "クリスチャン・ラッセン",
+   "type": "studied_at",
+   "object": "ボン大学",
+   "role": "博士",
+   "place": null,
+   "year_start": null,
+   "year_end": 1827,
+   "explicit": true,
+   "evidence": "ついでボン大学に移ってアウグスト・ヴィルヘルム・シュレーゲルにインド学を学んだ。[...] 1827年にボン大学の博士の学位を取得した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "クリスチャン・ラッセン",
+   "type": "student_of",
+   "object": "アウグスト・ヴィルヘルム・シュレーゲル",
+   "role": "teacher",
+   "place": "ボン大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ボン大学に移ってアウグスト・ヴィルヘルム・シュレーゲルにインド学を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "クリスチャン・ラッセン",
+   "type": "collaborated_with",
+   "object": "ウジェーヌ・ビュルヌフ",
+   "role": null,
+   "place": "パリ",
+   "year_start": 1826,
+   "year_end": 1836,
+   "explicit": true,
+   "evidence": "パリでウジェーヌ・ビュルヌフと共著で1826年に『パーリ語論考』(Essai sur le Pali)を出版したが",
+   "quote_ok": true
+  },
+  {
+   "subject": "クリスチャン・ラッセン",
+   "type": "collaborated_with",
+   "object": "アウグスト・ヴィルヘルム・シュレーゲル",
+   "role": null,
+   "place": null,
+   "year_start": 1829,
+   "year_end": 1831,
+   "explicit": true,
+   "evidence": "Hitopadesas: id est Institutio Salutaris. 1. Bonnae ad Rhenum. (1829). [...] 2巻(1831)（シュレーゲルと共著、ヒトーパデーシャの校訂本文）",
+   "quote_ok": true
+  },
+  {
+   "subject": "クリスチャン・ラッセン",
+   "type": "position_at",
+   "object": "ボン大学",
+   "role": "古代インド言語文化の員外教授",
+   "place": null,
+   "year_start": 1830,
+   "year_end": 1840,
+   "explicit": true,
+   "evidence": "1830年にボン大学の古代インド言語文化の員外教授、1840年には正教授に就任した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "クリスチャン・ラッセン",
+   "type": "position_at",
+   "object": "ボン大学",
+   "role": "正教授",
+   "place": null,
+   "year_start": 1840,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1840年には正教授に就任した。シュレーゲルとラッセンはドイツ初のインド学教授であり",
+   "quote_ok": true
+  },
+  {
+   "subject": "アウグスト・ヴィルヘルム・シュレーゲル",
+   "type": "position_at",
+   "object": "ボン大学",
+   "role": "インド学教授",
+   "place": null,
+   "year_start": null,
+   "year_end": 1845,
+   "explicit": true,
+   "evidence": "シュレーゲルとラッセンはドイツ初のインド学教授であり、ボン大学は「ライン川のベナレス」と呼ばれた。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): クリスチャン・ラッセン (東洋学者)",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q84861.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): クリスチャン・ラッセン (東洋学者)",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

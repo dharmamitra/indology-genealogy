@@ -1,0 +1,157 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Eido Tai Shimano",
+   "birth_year": 1932,
+   "death_year": 2018,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Kengan Goto",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Shirozou Keizan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Soen Nakagawa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Bernard Phillips",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "Zen scholar"
+  },
+  {
+   "name": "Shinge Roko Sherry Chayat",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Eido Tai Shimano",
+   "type": "student_of",
+   "object": "Kengan Goto",
+   "role": "traditional teacher",
+   "place": "Chichibu",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In his youth Shimano was ordained as a novice monk by Kengan Goto, the priest of Empuku-ji, the Rinzai temple in Chichibu.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eido Tai Shimano",
+   "type": "student_of",
+   "object": "Shirozou Keizan",
+   "role": "traditional teacher",
+   "place": "Heirin-ji",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Later he was trained by Shirozou Keizan Roshi, abbot of Heirin-ji, near Tokyo.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eido Tai Shimano",
+   "type": "studied_at",
+   "object": "Ryutaku-ji",
+   "role": null,
+   "place": null,
+   "year_start": 1954,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1954, Shimano left to study at Ryutaku-ji and practice with Soen Nakagawa Roshi, a relatively young Zen teacher.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eido Tai Shimano",
+   "type": "student_of",
+   "object": "Soen Nakagawa",
+   "role": "traditional teacher",
+   "place": "Ryutaku-ji",
+   "year_start": 1954,
+   "year_end": 1972,
+   "explicit": true,
+   "evidence": "In 1954, Shimano left to study at Ryutaku-ji and practice with Soen Nakagawa Roshi... Shimano received Dharma transmission from Soen Nakagawa in 1972",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eido Tai Shimano",
+   "type": "other",
+   "object": "Bernard Phillips",
+   "role": "friendship",
+   "place": null,
+   "year_start": 1960,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His friend Bernard Phillips, an American Zen scholar, was returning home on the same ship, after doing research in Japan sponsored by the Zen Studies Society.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eido Tai Shimano",
+   "type": "position_at",
+   "object": "Zen Studies Society",
+   "role": "abbot",
+   "place": "New York",
+   "year_start": null,
+   "year_end": 2010,
+   "explicit": true,
+   "evidence": "A few years later he became abbot of the Zen Studies Society... he would retire as abbot of the Zen Studies Society in December. He did so on December 8, 2010.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shinge Roko Sherry Chayat",
+   "type": "succeeded",
+   "object": "Eido Tai Shimano",
+   "role": "Abbot",
+   "place": "Zen Studies Society",
+   "year_start": 2011,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Shinge Roko Sherry Chayat Roshi, who received dharma transmission in 1998, was installed as the new Abbot on January 1, 2011.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shinge Roko Sherry Chayat",
+   "type": "student_of",
+   "object": "Eido Tai Shimano",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": 1998,
+   "explicit": true,
+   "evidence": "Shimano encouraged everyone to accept his successor, Shinge Sherry Chayat, as their teacher... Dharma heirs... Sherry Chayat",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Eido Tai Shimano",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q5348807.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Eido Tai Shimano",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

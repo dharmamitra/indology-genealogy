@@ -1,0 +1,195 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Hu Shih",
+   "birth_year": 1891,
+   "death_year": 1962,
+   "nationality": "Chinese",
+   "field": "philosophy, literature, history"
+  },
+  {
+   "name": "John Dewey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "philosophy"
+  },
+  {
+   "name": "Wen Yuan-ning",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": null
+  },
+  {
+   "name": "Chien-Shiung Wu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": "physics"
+  },
+  {
+   "name": "Cai Yuanpei",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": null
+  },
+  {
+   "name": "Thomas H. Huxley",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Ji Xianlin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": null
+  },
+  {
+   "name": "Feng Youlan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": "philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hu Shih",
+   "type": "studied_at",
+   "object": "Cornell University",
+   "role": "undergraduate",
+   "place": "United States",
+   "year_start": 1910,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "On 16 August 1910, he was sent to study agriculture at Cornell University in the United States. In 1912, he changed his major to philosophy and literature",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hu Shih",
+   "type": "studied_at",
+   "object": "Teachers College, Columbia University",
+   "role": "student",
+   "place": "New York City",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After receiving his undergraduate degree, he went to study philosophy at Teachers College, Columbia University, in New York City",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hu Shih",
+   "type": "student_of",
+   "object": "John Dewey",
+   "role": "teacher",
+   "place": "Teachers College, Columbia University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "where he was influenced by his professor, John Dewey, and started literary experiments.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hu Shih",
+   "type": "position_at",
+   "object": "Peking University",
+   "role": "lecturer",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hu returned to lecture in Peking University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wen Yuan-ning",
+   "type": "position_at",
+   "object": "Peking University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His Peking University colleague Wen Yuan-ning dubbed Hu a Philosophe for his humanistic interests and expertise.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chien-Shiung Wu",
+   "type": "student_of",
+   "object": "Hu Shih",
+   "role": "teacher",
+   "place": "Peking University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At the university Hu became a well-liked professor, whose top students included award-winning physicist Chien-Shiung Wu.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hu Shih",
+   "type": "position_at",
+   "object": "Peking University",
+   "role": "chancellor",
+   "place": null,
+   "year_start": 1946,
+   "year_end": 1948,
+   "explicit": true,
+   "evidence": "Hu then served as chancellor of Peking University, at the time called National Peking University, between 1946 and 1948.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hu Shih",
+   "type": "position_at",
+   "object": "Academia Sinica",
+   "role": "president",
+   "place": "Taipei",
+   "year_start": 1957,
+   "year_end": 1962,
+   "explicit": true,
+   "evidence": "In 1957, he became the third president of the Academia Sinica in Taipei, a post he retained until his death.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hu Shih",
+   "type": "influenced_by",
+   "object": "Thomas H. Huxley",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In his essay \"Introducing My Thoughts\" (介紹我自己的思想), he states that Thomas H. Huxley is the one person who most heavily influenced his thoughts.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Cai Yuanpei",
+   "type": "position_at",
+   "object": "Peking University",
+   "role": "president",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Cai Yuanpei, president of Peking University where Hu was teaching at the time, wrote the preface for Outline",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Hu Shih",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q47667.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Hu Shih",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

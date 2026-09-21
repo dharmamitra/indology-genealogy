@@ -1,0 +1,174 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Gustav Haloun",
+   "birth_year": 1898,
+   "death_year": 1951,
+   "nationality": "Czech",
+   "field": "sinologist"
+  },
+  {
+   "name": "Arthur von Rosthorn",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "August Conrady",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Arthur Christopher Moule",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Edwin G. Pulleyblank",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Gustav Haloun",
+   "type": "student_of",
+   "object": "Arthur von Rosthorn",
+   "role": null,
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied in Vienna under Arthur von Rosthorn",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gustav Haloun",
+   "type": "student_of",
+   "object": "August Conrady",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": 1923,
+   "explicit": true,
+   "evidence": "in Leipzig under August Conrady from where he received his Dr. phil. in 1923",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gustav Haloun",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": "Dr. phil.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1923,
+   "explicit": true,
+   "evidence": "in Leipzig under August Conrady from where he received his Dr. phil. in 1923",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gustav Haloun",
+   "type": "studied_at",
+   "object": "Charles University in Prague",
+   "role": "habilitation",
+   "place": "Prague",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He obtained habilitation at Charles University in Prague",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gustav Haloun",
+   "type": "position_at",
+   "object": "Charles University in Prague",
+   "role": "lecturer",
+   "place": "Prague",
+   "year_start": 1926,
+   "year_end": 1927,
+   "explicit": true,
+   "evidence": "Charles University in Prague where he lectured in 1926-1927",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gustav Haloun",
+   "type": "position_at",
+   "object": "Halle University",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1928,
+   "year_end": 1931,
+   "explicit": true,
+   "evidence": "Afterwards he taught at Halle University (1928-1931)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gustav Haloun",
+   "type": "position_at",
+   "object": "Göttingen University",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1931,
+   "year_end": 1938,
+   "explicit": true,
+   "evidence": "Göttingen University (1931-1938)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gustav Haloun",
+   "type": "position_at",
+   "object": "Cambridge University",
+   "role": "Chair of Chinese Language and History",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "before becoming Chair of Chinese Language and History at Cambridge University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gustav Haloun",
+   "type": "succeeded",
+   "object": "Arthur Christopher Moule",
+   "role": "Chair of Chinese Language and History",
+   "place": "Cambridge University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "succeeding Arthur Christopher Moule and preceding Edwin G. Pulleyblank in that position",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edwin G. Pulleyblank",
+   "type": "succeeded",
+   "object": "Gustav Haloun",
+   "role": "Chair of Chinese Language and History",
+   "place": "Cambridge University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "succeeding Arthur Christopher Moule and preceding Edwin G. Pulleyblank in that position",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Gustav Haloun",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q85562.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Gustav Haloun",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,62 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Thomas Watters",
+   "birth_year": 1840,
+   "death_year": 1901,
+   "nationality": "Irish",
+   "field": "Oriental scholar"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Thomas Watters",
+   "type": "studied_at",
+   "object": "Queen's College, Belfast",
+   "role": null,
+   "place": "Belfast",
+   "year_start": 1857,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He entered Queen's College, Belfast in 1857",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Watters",
+   "type": "studied_at",
+   "object": "Queen's University",
+   "role": "B.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1861,
+   "explicit": true,
+   "evidence": "graduated with a B.A. from Queen's University in 1861",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Watters",
+   "type": "studied_at",
+   "object": "Queen's University",
+   "role": "M.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1861,
+   "explicit": true,
+   "evidence": "and an M.A. in 1861.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Thomas Watters",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q21891778.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Thomas Watters",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

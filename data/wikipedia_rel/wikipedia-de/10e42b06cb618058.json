@@ -1,0 +1,124 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Franciscus Bernardus Jacobus Kuiper",
+   "birth_year": 1907,
+   "death_year": 2003,
+   "nationality": "niederländisch",
+   "field": "Indologe bzw. Indogermanist"
+  },
+  {
+   "name": "Willem Caland",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jan Willem de Jong",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Franciscus Bernardus Jacobus Kuiper",
+   "type": "studied_at",
+   "object": "Universität Leiden",
+   "role": null,
+   "place": "Leiden",
+   "year_start": null,
+   "year_end": 1934,
+   "explicit": true,
+   "evidence": "Kuiper studierte Latein und Griechisch, Sanskrit und indogermanische Sprachwissenschaft an der Universität Leiden. [...] 1934 vollendete er seine Dissertation",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franciscus Bernardus Jacobus Kuiper",
+   "type": "student_of",
+   "object": "Willem Caland",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Einer seiner Lehrer war Willem Caland.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franciscus Bernardus Jacobus Kuiper",
+   "type": "position_at",
+   "object": "Universität Leiden",
+   "role": "Professor für Sanskrit",
+   "place": "Leiden",
+   "year_start": 1939,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1939 wurde er dann als Professor für Sanskrit an die Universität Leiden berufen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Willem de Jong",
+   "type": "student_of",
+   "object": "Franciscus Bernardus Jacobus Kuiper",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Einer seiner Schüler war Jan Willem de Jong.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franciscus Bernardus Jacobus Kuiper",
+   "type": "collaborated_with",
+   "object": "Jan Willem de Jong",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zusammen mit ihm gründete er das renommierte Indo-Iranian Journal.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franciscus Bernardus Jacobus Kuiper",
+   "type": "founded",
+   "object": "Indo-Iranian Journal",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zusammen mit ihm gründete er das renommierte Indo-Iranian Journal.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Willem de Jong",
+   "type": "founded",
+   "object": "Indo-Iranian Journal",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zusammen mit ihm gründete er das renommierte Indo-Iranian Journal.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Franciscus Bernardus Jacobus Kuiper",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1442319.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Franciscus Bernardus Jacobus Kuiper",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

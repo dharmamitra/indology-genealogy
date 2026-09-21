@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Otto Karl Julius Rosenberg",
+   "birth_year": 1888,
+   "death_year": 1919,
+   "nationality": "Russian",
+   "field": null
+  },
+  {
+   "name": "Fyodor Shcherbatskoy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indian philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Otto Karl Julius Rosenberg",
+   "type": "studied_at",
+   "object": "St Petersburg University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "In 1910 he graduated from St Petersburg University, where he studied a host of Oriental languages",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Karl Julius Rosenberg",
+   "type": "student_of",
+   "object": "Fyodor Shcherbatskoy",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Fyodor Shcherbatskoy, his teacher in Indian philosophy, raised his interest in Buddhism.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Otto Rosenberg",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q4396532.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Otto Rosenberg",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

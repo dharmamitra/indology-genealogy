@@ -1,0 +1,119 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Johann Christoph Adelung",
+   "birth_year": 1732,
+   "death_year": 1806,
+   "nationality": "German",
+   "field": "Germanist"
+  },
+  {
+   "name": "Siegmund Jakob Baumgarten",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Evangelische Theologie"
+  },
+  {
+   "name": "Kurt Sprengel",
+   "birth_year": 1766,
+   "death_year": 1833,
+   "nationality": null,
+   "field": "Arzt und Botaniker"
+  },
+  {
+   "name": "Johann Severin Vater",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johann Christoph Adelung",
+   "type": "studied_at",
+   "object": "Universität Halle",
+   "role": null,
+   "place": "Halle",
+   "year_start": 1752,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studierte er ab 1752 Evangelische Theologie an der Universität Halle",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Christoph Adelung",
+   "type": "student_of",
+   "object": "Siegmund Jakob Baumgarten",
+   "role": "teacher",
+   "place": "Halle",
+   "year_start": 1752,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studierte er ab 1752 Evangelische Theologie an der Universität Halle, u. a. als Schüler Siegmund Jakob Baumgartens.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Christoph Adelung",
+   "type": "position_at",
+   "object": "Evangelisches Ratsgymnasium",
+   "role": "Professor (Lehrer)",
+   "place": "Erfurt",
+   "year_start": 1758,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1758 wurde Adelung in Erfurt Professor (Lehrer) am Evangelischen Ratsgymnasium.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Christoph Adelung",
+   "type": "position_at",
+   "object": "Kurfürstliche Bibliothek in Dresden",
+   "role": "Oberbibliothekar",
+   "place": "Dresden",
+   "year_start": 1787,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1787 wurde Adelung zum Oberbibliothekar der Kurfürstlichen Bibliothek in Dresden berufen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Christoph Adelung",
+   "type": "other",
+   "object": "Kurt Sprengel",
+   "role": "uncle",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Christiane Sophie Adelung (* um 1730), die spätere Ehefrau von Johann Friedrich Sprengel (* 1726; † 1808/1810) und Mutter des Hallenser Arztes und Botanikers Kurt Sprengel (* 1766; † 1833).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Severin Vater",
+   "type": "collaborated_with",
+   "object": "Johann Christoph Adelung",
+   "role": "completed Adelung's work",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mithridates, oder allgemeine Sprachenkunde. Berlin 1806, Band 1, von Johann Severin Vater fortgesetzt und vollendet.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Johann Christoph Adelung",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q156413.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Johann Christoph Adelung",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

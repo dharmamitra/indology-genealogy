@@ -1,0 +1,136 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "アーネスト・ソウザ",
+   "birth_year": 1940,
+   "death_year": null,
+   "nationality": "アメリカ",
+   "field": "哲学"
+  },
+  {
+   "name": "ニコラス・レッシャー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "デイヴィッド・ソウザ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "認識論"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "アーネスト・ソウザ",
+   "type": "studied_at",
+   "object": "マイアミ大学",
+   "role": "学士と修士",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "学士と修士をマイアミ大学で取得し",
+   "quote_ok": true
+  },
+  {
+   "subject": "アーネスト・ソウザ",
+   "type": "studied_at",
+   "object": "ピッツバーグ大学",
+   "role": "博士",
+   "place": null,
+   "year_start": null,
+   "year_end": 1969,
+   "explicit": true,
+   "evidence": "1969年にピッツバーグ大学で博士号を取得。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アーネスト・ソウザ",
+   "type": "student_of",
+   "object": "ニコラス・レッシャー",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1969,
+   "explicit": true,
+   "evidence": "1969年にピッツバーグ大学で博士号を取得。主査はニコラス・レッシャー。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アーネスト・ソウザ",
+   "type": "position_at",
+   "object": "ブラウン大学",
+   "role": null,
+   "place": null,
+   "year_start": 1964,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1964年以来ブラウン大学で教鞭を執り",
+   "quote_ok": true
+  },
+  {
+   "subject": "アーネスト・ソウザ",
+   "type": "position_at",
+   "object": "ラトガース大学",
+   "role": "客員教授",
+   "place": null,
+   "year_start": 1998,
+   "year_end": 2006,
+   "explicit": true,
+   "evidence": "1998年から2006年まで毎年春にラトガース大学で客員教授を務めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アーネスト・ソウザ",
+   "type": "position_at",
+   "object": "ラトガース大学",
+   "role": "哲学の理事会特任教授",
+   "place": null,
+   "year_start": 2007,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "2007年からはラトガース大学で哲学の理事会特任教授に任命されている。",
+   "quote_ok": true
+  },
+  {
+   "subject": "デイヴィッド・ソウザ",
+   "type": "position_at",
+   "object": "テキサス大学オースティン校",
+   "role": "哲学科の教授兼学科長",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "彼の息子であるデイヴィッド・ソウザは、テキサス大学オースティン校の哲学科の教授兼学科長であり",
+   "quote_ok": true
+  },
+  {
+   "subject": "デイヴィッド・ソウザ",
+   "type": "other",
+   "object": "アーネスト・ソウザ",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "彼の息子であるデイヴィッド・ソウザ",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): アーネスト・ソウザ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q1356547.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): アーネスト・ソウザ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

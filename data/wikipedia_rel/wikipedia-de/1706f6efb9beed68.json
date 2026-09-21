@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Louis Dumont",
+   "birth_year": 1911,
+   "death_year": 1998,
+   "nationality": "französischer",
+   "field": "Anthropologe und Ethnologe"
+  },
+  {
+   "name": "Marcel Mauss",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Louis Dumont",
+   "type": "student_of",
+   "object": "Marcel Mauss",
+   "role": "Schüler",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dumont war Schüler von Marcel Mauss in Paris.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Louis Dumont",
+   "type": "position_at",
+   "object": "Musée national des arts et des traditions populaires",
+   "role": null,
+   "place": null,
+   "year_start": 1945,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1945 trat er ins Musée national des arts et des traditions populaires ein.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Louis Dumont",
+   "type": "position_at",
+   "object": "University of Oxford",
+   "role": "Hochschullehrer",
+   "place": null,
+   "year_start": 1951,
+   "year_end": 1955,
+   "explicit": true,
+   "evidence": "Zwischen 1951 und 1955 lehrte Dumont an der Oxford University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Louis Dumont",
+   "type": "position_at",
+   "object": "École des hautes études en sciences sociales",
+   "role": "Direktor",
+   "place": "Paris",
+   "year_start": 1955,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1955 wurde er Direktor des École des Hautes Études en Sciences Sociales.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Louis Dumont",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q299863.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Louis Dumont",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

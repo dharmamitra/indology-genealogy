@@ -1,0 +1,167 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "印順",
+   "birth_year": 1906,
+   "death_year": 2005,
+   "nationality": "中華民国",
+   "field": "仏教学"
+  },
+  {
+   "name": "太虚",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "法尊",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "釈証厳",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "印順",
+   "type": "studied_at",
+   "object": "閩南仏学院",
+   "role": null,
+   "place": "福建省廈門の南普陀寺",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "太虚が主導する福建省廈門の南普陀寺にある閩南仏学院で修道し",
+   "quote_ok": true
+  },
+  {
+   "subject": "印順",
+   "type": "position_at",
+   "object": "閩南仏学院",
+   "role": "教鞭を執る",
+   "place": "福建省廈門の南普陀寺",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "後には教鞭を執るまでになった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "印順",
+   "type": "position_at",
+   "object": "武昌仏学院",
+   "role": "教授",
+   "place": "湖北省武漢",
+   "year_start": 1943,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1943年、湖北省武漢の武昌仏学院の教授となる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "印順",
+   "type": "position_at",
+   "object": "漢蔵教理院",
+   "role": null,
+   "place": "四川省重慶",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "四川省重慶の漢蔵教理院に移る。",
+   "quote_ok": true
+  },
+  {
+   "subject": "印順",
+   "type": "collaborated_with",
+   "object": "法尊",
+   "role": null,
+   "place": "四川省重慶の漢蔵教理院",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ここで、やはり太虚の弟子でチベット留学経験のある法尊と交流を持つ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "印順",
+   "type": "position_at",
+   "object": "法王仏学院",
+   "role": "院長",
+   "place": "四川省",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "四川省の法王仏学院の院長などを歴任し",
+   "quote_ok": true
+  },
+  {
+   "subject": "印順",
+   "type": "student_of",
+   "object": "太虚",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "師の太虚の全集の編纂などを行なった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "法尊",
+   "type": "student_of",
+   "object": "太虚",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "やはり太虚の弟子でチベット留学経験のある法尊",
+   "quote_ok": true
+  },
+  {
+   "subject": "印順",
+   "type": "studied_at",
+   "object": "大正大学",
+   "role": "文学博士（乙種）",
+   "place": "日本",
+   "year_start": null,
+   "year_end": 1973,
+   "explicit": true,
+   "evidence": "1973年、日本の大正大学にて『中国禅宗史』で文学博士（乙種）。",
+   "quote_ok": true
+  },
+  {
+   "subject": "釈証厳",
+   "type": "student_of",
+   "object": "印順",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "弟子\n釈証厳（慈済基金会創設者）",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 印順",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q323312.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 印順",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

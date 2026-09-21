@@ -1,0 +1,179 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John Borthwick Gilchrist",
+   "birth_year": 1759,
+   "death_year": 1841,
+   "nationality": "Scottish",
+   "field": "Indologist"
+  },
+  {
+   "name": "Henry Martyn",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jonathan Scott",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "George Birkbeck",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Borthwick Gilchrist",
+   "type": "studied_at",
+   "object": "George Heriot's School",
+   "role": null,
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was educated at George Heriot's School and the Edinburgh High School (1773–1775).",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Borthwick Gilchrist",
+   "type": "studied_at",
+   "object": "Edinburgh High School",
+   "role": null,
+   "place": "Edinburgh",
+   "year_start": 1773,
+   "year_end": 1775,
+   "explicit": true,
+   "evidence": "He was educated at George Heriot's School and the Edinburgh High School (1773–1775).",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Borthwick Gilchrist",
+   "type": "position_at",
+   "object": "Fort William College",
+   "role": "principal",
+   "place": "Calcutta",
+   "year_start": 1800,
+   "year_end": 1804,
+   "explicit": true,
+   "evidence": "Gilchrist served as the first principal of the college until 1804",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Martyn",
+   "type": "student_of",
+   "object": "John Borthwick Gilchrist",
+   "role": "teacher",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "One of Gilchrist's pupils was the missionary Henry Martyn",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Borthwick Gilchrist",
+   "type": "position_at",
+   "object": "East India College",
+   "role": "Oriental Professor",
+   "place": "Haileybury",
+   "year_start": 1806,
+   "year_end": 1806,
+   "explicit": true,
+   "evidence": "In 1806, when the East India College was established at Haileybury... the first appointed Oriental Professor, Jonathan Scott... resigned... Gilchrist succeeded him but held the post only a few months.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Borthwick Gilchrist",
+   "type": "succeeded",
+   "object": "Jonathan Scott",
+   "role": "Oriental Professor",
+   "place": "East India College",
+   "year_start": 1806,
+   "year_end": 1806,
+   "explicit": true,
+   "evidence": "the first appointed Oriental Professor, Jonathan Scott, a scholar of these languages, resigned even before the College opened its doors. Gilchrist succeeded him but held the post only a few months.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Borthwick Gilchrist",
+   "type": "position_at",
+   "object": "East India Company",
+   "role": "lecturer in oriental languages",
+   "place": "London",
+   "year_start": 1818,
+   "year_end": 1825,
+   "explicit": true,
+   "evidence": "He then moved to London in 1817 and the following year was appointed as lecturer in oriental languages for the East India Company, a position he held until 1825.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Borthwick Gilchrist",
+   "type": "position_at",
+   "object": "University College London",
+   "role": "first Professor of Hindustani",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "became a founding shareholder of University College London, serving as its first Professor of Hindustani.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Borthwick Gilchrist",
+   "type": "collaborated_with",
+   "object": "George Birkbeck",
+   "role": null,
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He also worked with George Birkbeck to establish the London Mechanics Institution (later Birkbeck College).",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Borthwick Gilchrist",
+   "type": "founded",
+   "object": "London Mechanics Institution",
+   "role": null,
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He also worked with George Birkbeck to establish the London Mechanics Institution (later Birkbeck College).",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Borthwick Gilchrist",
+   "type": "founded",
+   "object": "London Oriental Institution",
+   "role": null,
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he assisted in the foundation of the London Oriental Institution",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): John Gilchrist (linguist)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q3632356.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): John Gilchrist (linguist)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

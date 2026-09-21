@@ -1,0 +1,126 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Jacques Bacot",
+   "birth_year": 1877,
+   "death_year": 1965,
+   "nationality": "French",
+   "field": "Tibetologist"
+  },
+  {
+   "name": "F. W. Thomas",
+   "birth_year": 1867,
+   "death_year": 1956,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gendün Chöphel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": null
+  },
+  {
+   "name": "Sylvain Lévi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Paul Pelliot",
+   "birth_year": null,
+   "death_year": 1945,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jacques Bacot",
+   "type": "position_at",
+   "object": "École pratique des hautes études",
+   "role": "director of studies (directeur d'études) of Tibetan",
+   "place": null,
+   "year_start": 1936,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Jacques Bacot was named director of studies (directeur d'études) of Tibetan at l'École pratique des hautes études in 1936.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jacques Bacot",
+   "type": "collaborated_with",
+   "object": "Gendün Chöphel",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He acquired aid from Gendün Chöphel in studying Dunhuang manuscripts.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jacques Bacot",
+   "type": "student_of",
+   "object": "Sylvain Lévi",
+   "role": "teacher",
+   "place": "France",
+   "year_start": 1908,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After his return to France in 1908, he devoted himself to the study of Tibetan with Sylvain Lévi.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jacques Bacot",
+   "type": "position_at",
+   "object": "Académie des inscriptions et belles-lettres",
+   "role": "member",
+   "place": null,
+   "year_start": 1947,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He became a member of l'Académie des inscriptions et belles-lettres in 1947",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jacques Bacot",
+   "type": "position_at",
+   "object": "Société Asiatique",
+   "role": "president",
+   "place": null,
+   "year_start": 1945,
+   "year_end": 1954,
+   "explicit": true,
+   "evidence": "entered the Société Asiatique in 1908. He became president after the death of Paul Pelliot, in 1945, and remained so until 1954.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jacques Bacot",
+   "type": "succeeded",
+   "object": "Paul Pelliot",
+   "role": null,
+   "place": "Société Asiatique",
+   "year_start": 1945,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He became president after the death of Paul Pelliot, in 1945",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Jacques Bacot",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q2203892.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Jacques Bacot",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

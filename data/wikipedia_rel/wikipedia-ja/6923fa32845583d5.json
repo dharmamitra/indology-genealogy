@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "アウグスト・シュライヒャー",
+   "birth_year": 1821,
+   "death_year": 1868,
+   "nationality": "ドイツ",
+   "field": "言語学"
+  },
+  {
+   "name": "ゲオルク・ヴィルヘルム・フリードリヒ・ヘーゲル",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "エルンスト・ヘッケル",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "アウグスト・シュライヒャー",
+   "type": "influenced_by",
+   "object": "ゲオルク・ヴィルヘルム・フリードリヒ・ヘーゲル",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "彼はここでゲオルク・ヴィルヘルム・フリードリヒ・ヘーゲルからの強い影響のもとに、言語は段階的に発展・成熟・崩壊する有機体であるという理論を唱えた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アウグスト・シュライヒャー",
+   "type": "position_at",
+   "object": "プラハ大学",
+   "role": "比較言語学の教授",
+   "place": null,
+   "year_start": 1853,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "シュライヒャーは、1853年からプラハ大学で比較言語学の教授を務めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アウグスト・シュライヒャー",
+   "type": "position_at",
+   "object": "イェーナ大学",
+   "role": "哲学の学部の教授",
+   "place": null,
+   "year_start": 1857,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1857年からはイェーナ大学で哲学の学部の教授を務めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エルンスト・ヘッケル",
+   "type": "position_at",
+   "object": "イェーナ大学",
+   "role": "同僚",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "のちにイェーナ大学の同僚となったヘッケルとも議論を交わしている。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アウグスト・シュライヒャー",
+   "type": "collaborated_with",
+   "object": "エルンスト・ヘッケル",
+   "role": "同僚・議論を交わす",
+   "place": "イェーナ大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "のちにイェーナ大学の同僚となったヘッケルとも議論を交わしている。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): アウグスト・シュライヒャー",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q76686.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): アウグスト・シュライヒャー",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,93 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Franz Anton (von) Schiefner",
+   "birth_year": 1817,
+   "death_year": 1879,
+   "nationality": "deutschbaltisch",
+   "field": "Sprachforscher und Ethnologe"
+  },
+  {
+   "name": "Matthias Alexander Castrén",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Franz Anton (von) Schiefner",
+   "type": "studied_at",
+   "object": "Universität St. Petersburg",
+   "role": "Rechtswissenschaft",
+   "place": "Sankt Petersburg",
+   "year_start": 1836,
+   "year_end": 1840,
+   "explicit": true,
+   "evidence": "studierte er von 1836 bis 1840 an der Universität St. Petersburg Rechtswissenschaft",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Anton (von) Schiefner",
+   "type": "studied_at",
+   "object": "Universität Berlin",
+   "role": "Orientalistik",
+   "place": "Berlin",
+   "year_start": 1840,
+   "year_end": 1842,
+   "explicit": true,
+   "evidence": "von 1840 bis 1842 Orientalistik an der Universität Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Anton (von) Schiefner",
+   "type": "position_at",
+   "object": "St. Petersburger Akademie der Wissenschaften",
+   "role": "außerordentliches Mitglied, Bibliothekar und später Bibliotheksdirektor",
+   "place": "Sankt Petersburg",
+   "year_start": 1854,
+   "year_end": 1879,
+   "explicit": true,
+   "evidence": "ab 1863 Bibliothekar und später Bibliotheksdirektor an der St. Petersburger Akademie der Wissenschaften. Ab 1852 vertrat er das Fach Tibetologie an der Akademie, deren außerordentliches Mitglied er von 1854 bis zu seinem Tod war.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Anton (von) Schiefner",
+   "type": "position_at",
+   "object": "Römisch-Katholisches Seminar",
+   "role": "Professur für Latein und Griechisch",
+   "place": null,
+   "year_start": 1860,
+   "year_end": 1873,
+   "explicit": true,
+   "evidence": "Von 1860 bis 1873 hatte er gleichzeitig eine Professur für Latein und Griechisch am Römisch-Katholischen Seminar inne.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Anton (von) Schiefner",
+   "type": "collaborated_with",
+   "object": "Matthias Alexander Castrén",
+   "role": "Herausgeber des Nachlasses",
+   "place": null,
+   "year_start": 1853,
+   "year_end": 1862,
+   "explicit": true,
+   "evidence": "Zwischen 1853 und 1862 gab er in zwölf Bänden die Arbeiten des früh verstorbenen Matthias Alexander Castrén heraus",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Anton Schiefner",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q551620.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Anton Schiefner",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

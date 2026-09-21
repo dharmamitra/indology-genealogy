@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Niels Ludvig Westergaard",
+   "birth_year": 1815,
+   "death_year": 1878,
+   "nationality": "dänisch",
+   "field": "Orientalist"
+  },
+  {
+   "name": "Christian Lassen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rask",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "dänisch",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Niels Ludvig Westergaard",
+   "type": "student_of",
+   "object": "Christian Lassen",
+   "role": "teacher",
+   "place": "Bonn",
+   "year_start": 1838,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "setzte seine Studien 1838 in Bonn (bei Christian Lassen), 1839 in London, Paris und Oxford fort.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Niels Ludvig Westergaard",
+   "type": "succeeded",
+   "object": "Rask",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "die an die Untersuchungen seines berühmten Landsmanns und Vorgängers Rask anknüpfende Abhandlung",
+   "quote_ok": true
+  },
+  {
+   "subject": "Niels Ludvig Westergaard",
+   "type": "position_at",
+   "object": "Universität Kopenhagen",
+   "role": "Lektor",
+   "place": "Kopenhagen",
+   "year_start": 1844,
+   "year_end": 1845,
+   "explicit": true,
+   "evidence": "Nach Dänemark zurückgekehrt, wurde er 1844 zum Lektor, 1845 zum außerordentlichen Professor der indisch-orientalischen Philologie an der Universität Kopenhagen ernannt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Niels Ludvig Westergaard",
+   "type": "position_at",
+   "object": "Universität Kopenhagen",
+   "role": "außerordentlicher Professor der indisch-orientalischen Philologie",
+   "place": "Kopenhagen",
+   "year_start": 1845,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wurde er 1844 zum Lektor, 1845 zum außerordentlichen Professor der indisch-orientalischen Philologie an der Universität Kopenhagen ernannt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Niels Ludvig Westergaard",
+   "type": "position_at",
+   "object": "Universität Kopenhagen",
+   "role": "Rektor",
+   "place": "Kopenhagen",
+   "year_start": 1867,
+   "year_end": 1868,
+   "explicit": true,
+   "evidence": "Im akademischen Jahr 1867/68 amtierte er als Rektor der Universität Kopenhagen.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Niels Ludvig Westergaard",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q326898.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Niels Ludvig Westergaard",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

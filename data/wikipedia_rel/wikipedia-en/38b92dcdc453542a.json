@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Hirose Tanso",
+   "birth_year": 1782,
+   "death_year": 1856,
+   "nationality": "Japanese",
+   "field": "neo-Confucian scholar"
+  },
+  {
+   "name": "Chikuin Matsushita",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Kamei Nanmei",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Shoyo",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hirose Tanso",
+   "type": "student_of",
+   "object": "Chikuin Matsushita",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1792,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At the age of ten, he became a student of Chikuin Matsushita a ronin from Kurume who frequented the Hita magistrate's office.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hirose Tanso",
+   "type": "studied_at",
+   "object": "Kamei Juku",
+   "role": null,
+   "place": "Chikuzen Province",
+   "year_start": 1798,
+   "year_end": 1801,
+   "explicit": true,
+   "evidence": "When he was 16 years old, he went to Kamei Juku in Chikuzen Province and studied under father and son Kamei Nanmei and Shoyo, but he suffered from a serious illness and left the school at age 19 to return home.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hirose Tanso",
+   "type": "student_of",
+   "object": "Kamei Nanmei",
+   "role": "teacher",
+   "place": "Chikuzen Province",
+   "year_start": 1798,
+   "year_end": 1801,
+   "explicit": true,
+   "evidence": "When he was 16 years old, he went to Kamei Juku in Chikuzen Province and studied under father and son Kamei Nanmei and Shoyo",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hirose Tanso",
+   "type": "student_of",
+   "object": "Shoyo",
+   "role": "teacher",
+   "place": "Chikuzen Province",
+   "year_start": 1798,
+   "year_end": 1801,
+   "explicit": true,
+   "evidence": "When he was 16 years old, he went to Kamei Juku in Chikuzen Province and studied under father and son Kamei Nanmei and Shoyo",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hirose Tanso",
+   "type": "founded",
+   "object": "Kangien",
+   "role": null,
+   "place": "Hita",
+   "year_start": 1801,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hirose founded in 1801 the Academy Neo-Confucian Kangien (咸宜園).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Hirose Tansō",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1620267.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Hirose Tansō",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

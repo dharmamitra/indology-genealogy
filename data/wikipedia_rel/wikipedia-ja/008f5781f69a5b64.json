@@ -1,0 +1,148 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "カール・ブルークマン",
+   "birth_year": 1849,
+   "death_year": 1919,
+   "nationality": "ドイツ",
+   "field": "言語学者"
+  },
+  {
+   "name": "ゲオルク・クルツィウス",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ベルトルト・デルブリュック",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "カール・ブルークマン",
+   "type": "studied_at",
+   "object": "ハレ大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ハレ大学とライプツィヒ大学で学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "カール・ブルークマン",
+   "type": "studied_at",
+   "object": "ライプツィヒ大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ハレ大学とライプツィヒ大学で学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "カール・ブルークマン",
+   "type": "position_at",
+   "object": "ロシア古典文献学研究所",
+   "role": "助手",
+   "place": null,
+   "year_start": 1872,
+   "year_end": 1877,
+   "explicit": true,
+   "evidence": "1872年から1877年までロシア古典文献学研究所の助手を務めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "カール・ブルークマン",
+   "type": "position_at",
+   "object": "ライプツィヒ大学",
+   "role": "講師",
+   "place": null,
+   "year_start": 1877,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1877年、ライプツィヒ大学の講師となった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "カール・ブルークマン",
+   "type": "position_at",
+   "object": "ライプツィヒ大学",
+   "role": "比較文献学教授",
+   "place": null,
+   "year_start": 1882,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1882年、同校の比較文献学教授となった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "カール・ブルークマン",
+   "type": "position_at",
+   "object": "フライブルク大学",
+   "role": null,
+   "place": null,
+   "year_start": 1884,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1884年、フライブルク大学での職を得て移籍した",
+   "quote_ok": true
+  },
+  {
+   "subject": "カール・ブルークマン",
+   "type": "succeeded",
+   "object": "ゲオルク・クルツィウス",
+   "role": "後任",
+   "place": "ライプツィヒ大学",
+   "year_start": 1887,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1887年にゲオルク・クルツィウスの後任として再びライプツィヒ大学に戻った。",
+   "quote_ok": true
+  },
+  {
+   "subject": "カール・ブルークマン",
+   "type": "position_at",
+   "object": "ライプツィヒ大学",
+   "role": "サンスクリットと比較言語学の教授",
+   "place": null,
+   "year_start": 1887,
+   "year_end": 1919,
+   "explicit": true,
+   "evidence": "研究生活の大部分（1887年～1919年）をライプツィヒ大学のサンスクリットと比較言語学の教授として過ごした。",
+   "quote_ok": true
+  },
+  {
+   "subject": "カール・ブルークマン",
+   "type": "collaborated_with",
+   "object": "ベルトルト・デルブリュック",
+   "role": "共著",
+   "place": null,
+   "year_start": 1886,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "彼の仕事はベルトルト・デルブリュックとの共著Grundriss der vergleichenden Grammatik der indogermanischen Sprachen（印欧語比較文法の基礎、1886年 - 1893年）に結実した。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): カール・ブルークマン",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q77099.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): カール・ブルークマン",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

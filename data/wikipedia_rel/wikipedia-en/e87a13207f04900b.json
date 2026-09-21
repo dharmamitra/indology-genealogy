@@ -1,0 +1,143 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Mark D. Griffiths",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "English",
+   "field": "Psychology"
+  },
+  {
+   "name": "Paul Webley",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Stephen Lea",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Helena Cole",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Mark D. Griffiths",
+   "type": "studied_at",
+   "object": "University of Bradford",
+   "role": "BSc",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Griffiths graduated with a BSc in Psychology from the University of Bradford.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mark D. Griffiths",
+   "type": "studied_at",
+   "object": "Exeter University",
+   "role": "PhD",
+   "place": null,
+   "year_start": 1988,
+   "year_end": 1990,
+   "explicit": true,
+   "evidence": "He began teaching in 1988 while working on his PhD at University of Exeter... He completed his PhD thesis on fruit machine addiction at Exeter University in 1990",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mark D. Griffiths",
+   "type": "student_of",
+   "object": "Paul Webley",
+   "role": "doctoral supervisor",
+   "place": "Exeter University",
+   "year_start": null,
+   "year_end": 1990,
+   "explicit": true,
+   "evidence": "He completed his PhD thesis on fruit machine addiction at Exeter University in 1990, under the supervision of Paul Webley and Stephen Lea.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mark D. Griffiths",
+   "type": "student_of",
+   "object": "Stephen Lea",
+   "role": "doctoral supervisor",
+   "place": "Exeter University",
+   "year_start": null,
+   "year_end": 1990,
+   "explicit": true,
+   "evidence": "He completed his PhD thesis on fruit machine addiction at Exeter University in 1990, under the supervision of Paul Webley and Stephen Lea.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mark D. Griffiths",
+   "type": "position_at",
+   "object": "Workers' Education Association",
+   "role": "lecturer",
+   "place": null,
+   "year_start": 1988,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He began teaching in 1988 while working on his PhD at University of Exeter. He was a lecturer for the Workers' Education Association",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mark D. Griffiths",
+   "type": "position_at",
+   "object": "University of Plymouth",
+   "role": "lectureship",
+   "place": null,
+   "year_start": 1990,
+   "year_end": 1995,
+   "explicit": true,
+   "evidence": "Having acquired his degree, in 1990 he started his first full-time lectureship at the University of Plymouth... In 1995 he moved to Nottingham Trent University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mark D. Griffiths",
+   "type": "position_at",
+   "object": "Nottingham Trent University",
+   "role": "Professor of Gambling Studies",
+   "place": null,
+   "year_start": 1995,
+   "year_end": 2025,
+   "explicit": true,
+   "evidence": "In 1995 he moved to Nottingham Trent University, where he worked as a Professor of Gambling Studies until his retirement in 2025.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mark D. Griffiths",
+   "type": "collaborated_with",
+   "object": "Helena Cole",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2007,
+   "explicit": true,
+   "evidence": "A 2007 study, co-authored with Helena Cole, explored social interactions that occur both within and outside of MMORPGs.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Mark D. Griffiths",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q6767240.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Mark D. Griffiths",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

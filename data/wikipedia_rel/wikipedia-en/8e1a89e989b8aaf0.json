@@ -1,0 +1,150 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Shin'ichi Hisamatsu",
+   "birth_year": 1889,
+   "death_year": 1980,
+   "nationality": "Japanese",
+   "field": "philosopher, Zen Buddhist scholar"
+  },
+  {
+   "name": "Kitarō Nishida",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "philosophy"
+  },
+  {
+   "name": "Ikegami Shōsan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Zen Buddhism"
+  },
+  {
+   "name": "D. T. Suzuki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Zen Buddhism and philosophy"
+  },
+  {
+   "name": "Masao Abe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Shin'ichi Hisamatsu",
+   "type": "position_at",
+   "object": "Kyoto University",
+   "role": "professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a professor at Kyoto University and received an honorary doctoral degree from Harvard University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shin'ichi Hisamatsu",
+   "type": "studied_at",
+   "object": "Kyoto University",
+   "role": "doctorate degree",
+   "place": null,
+   "year_start": 1912,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He entered Kyoto University in 1912 and studied philosophy with Kitarō Nishida ... Shortly after that, Hisamatsu received a doctorate degree from Kyoto University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shin'ichi Hisamatsu",
+   "type": "student_of",
+   "object": "Kitarō Nishida",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1912,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He entered Kyoto University in 1912 and studied philosophy with Kitarō Nishida",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shin'ichi Hisamatsu",
+   "type": "student_of",
+   "object": "Ikegami Shōsan",
+   "role": "traditional teacher",
+   "place": "Myōshin-ji",
+   "year_start": 1915,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hisamatsu joined the Rinzai Zen monastery of Myōshin-ji in Kyoto in 1915 and studied Zen Buddhism with Zen Master Ikegami Shōsan.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shin'ichi Hisamatsu",
+   "type": "position_at",
+   "object": "Kyoto University",
+   "role": "taught philosophy and religious studies",
+   "place": null,
+   "year_start": 1943,
+   "year_end": 1949,
+   "explicit": true,
+   "evidence": "Between 1943 and 1949, he taught philosophy and religious studies at Kyoto University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shin'ichi Hisamatsu",
+   "type": "collaborated_with",
+   "object": "D. T. Suzuki",
+   "role": null,
+   "place": "Kyoto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "While in Kyoto, Hisamatsu frequently discussed Zen Buddhism and philosophy with D. T. Suzuki at Shunkō-in, where he lived.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Masao Abe",
+   "type": "student_of",
+   "object": "Shin'ichi Hisamatsu",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He also became the teacher of Masao Abe.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shin'ichi Hisamatsu",
+   "type": "founded",
+   "object": "FAS Society",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hisamatsu was a founder of the FAS Society.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Shin'ichi Hisamatsu",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q7497073.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Shin'ichi Hisamatsu",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

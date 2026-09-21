@@ -1,0 +1,126 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Arthur David Waley",
+   "birth_year": 1889,
+   "death_year": 1966,
+   "nationality": "britisch",
+   "field": "Sinologe"
+  },
+  {
+   "name": "David Frederick Schloss",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Wirtschaftswissenschaftler"
+  },
+  {
+   "name": "Campbell Dodgson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Laurence Binyon",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Karl Florenz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Arthur David Waley",
+   "type": "other",
+   "object": "David Frederick Schloss",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Arthur David Schloss war der mittlere der drei Söhne des Wirtschaftswissenschaftlers David Frederick Schloss.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur David Waley",
+   "type": "studied_at",
+   "object": "King’s College der Universität Cambridge",
+   "role": null,
+   "place": "Cambridge",
+   "year_start": 1907,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "Von 1907 bis 1910 studierte er mit einem Stipendium (classical fellowship) am King’s College der Universität Cambridge die klassischen Literaturen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur David Waley",
+   "type": "position_at",
+   "object": "British Museum",
+   "role": "Assistant Keeper in the Department of Prints and Drawings",
+   "place": null,
+   "year_start": 1913,
+   "year_end": 1929,
+   "explicit": true,
+   "evidence": "wurde er im Juni 1913 Laurence Binyons Assistent in der Unterabteilung für Oriental Prints and Drawings... 1929 gab Waley seine Stelle als Assistant Keeper in the Department of Prints and Drawings am British Museum aus gesundheitlichen Gründen auf",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur David Waley",
+   "type": "position_at",
+   "object": "School of Oriental Studies (SOAS)",
+   "role": "Honorary Lectureship in Chinese Poetry",
+   "place": "London",
+   "year_start": 1948,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1948 eine Honorary Lectureship in Chinese Poetry an der School of Oriental Studies in London",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur David Waley",
+   "type": "collaborated_with",
+   "object": "Laurence Binyon",
+   "role": "Assistent",
+   "place": "British Museum",
+   "year_start": 1913,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wurde er im Juni 1913 Laurence Binyons Assistent in der Unterabteilung für Oriental Prints and Drawings (orientalische Kunst).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur David Waley",
+   "type": "influenced_by",
+   "object": "Karl Florenz",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er las die Arbeiten von Karl Florenz über japanische Grammatik und Philologie.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Arthur Waley",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q711869.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Arthur Waley",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

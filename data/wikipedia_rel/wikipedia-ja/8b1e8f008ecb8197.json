@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "釈聖厳",
+   "birth_year": 1931,
+   "death_year": 2009,
+   "nationality": "中華民国（台湾）",
+   "field": "仏教学弘教法師兼教育者"
+  },
+  {
+   "name": "果東",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "釈聖厳",
+   "type": "studied_at",
+   "object": "立正大学",
+   "role": "文学博士号",
+   "place": "日本",
+   "year_start": null,
+   "year_end": 1975,
+   "explicit": true,
+   "evidence": "39歳の時日本に赴き留学し、1975年に立正大学で、台湾の僧として初めてすべての単位を修得して文学博士号を取得",
+   "quote_ok": true
+  },
+  {
+   "subject": "釈聖厳",
+   "type": "founded",
+   "object": "法鼓山",
+   "role": null,
+   "place": "台湾",
+   "year_start": 1989,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1989年に法鼓山を創立し、後に台湾の仏教四大名山の一つとなる",
+   "quote_ok": true
+  },
+  {
+   "subject": "果東",
+   "type": "succeeded",
+   "object": "釈聖厳",
+   "role": "法鼓山住職",
+   "place": "法鼓山",
+   "year_start": 2006,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "2006年9月2日に法鼓山住職を果東法師に譲る",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 釈聖厳",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q712896.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 釈聖厳",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

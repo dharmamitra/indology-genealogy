@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "パウル・ティリッヒ",
+   "birth_year": 1886,
+   "death_year": 1965,
+   "nationality": "ドイツ",
+   "field": "プロテスタント神学"
+  },
+  {
+   "name": "エマヌエル・ヒルシュ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "パウル・ティリッヒ",
+   "type": "studied_at",
+   "object": "ベルリン大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ベルリン大学に進学し、そこで神学や哲学を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "パウル・ティリッヒ",
+   "type": "other",
+   "object": "エマヌエル・ヒルシュ",
+   "role": "friendship and debate",
+   "place": null,
+   "year_start": 1907,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1907年にエマヌエル・ヒルシュと知り合い、交友を始める。しかし、社会主義の深化を目指す宗教社会主義を展開したティリッヒに対し、ヒルシュは、親ナチスの姿勢を鮮明にし、両者は激しい論争を繰り広げた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "パウル・ティリッヒ",
+   "type": "position_at",
+   "object": "ユニオン神学校",
+   "role": "教授",
+   "place": "アメリカ",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1940年アメリカに亡命・帰化した。ユニオン神学校やハーヴァード大学などで教授を務めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "パウル・ティリッヒ",
+   "type": "position_at",
+   "object": "ハーヴァード大学",
+   "role": "教授",
+   "place": "アメリカ",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1940年アメリカに亡命・帰化した。ユニオン神学校やハーヴァード大学などで教授を務めた。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): パウル・ティリッヒ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q60104.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): パウル・ティリッヒ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

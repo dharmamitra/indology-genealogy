@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Johann III Bernoulli",
+   "birth_year": 1744,
+   "death_year": 1807,
+   "nationality": "Schweizer",
+   "field": "Astronom und Mathematiker"
+  },
+  {
+   "name": "Johann II Bernoulli",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Johann I Bernoulli",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johann III Bernoulli",
+   "type": "position_at",
+   "object": "Berliner Akademie",
+   "role": "Mitglied",
+   "place": "Berlin",
+   "year_start": 1764,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1764 wurde er als fünftes Familienmitglied in die Berliner Akademie gewählt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann III Bernoulli",
+   "type": "position_at",
+   "object": "Naturforschende Gesellschaft in Danzig",
+   "role": "Mitglied",
+   "place": "Danzig",
+   "year_start": 1778,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1778 wurde er auch Mitglied der Naturforschenden Gesellschaft in Danzig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann III Bernoulli",
+   "type": "position_at",
+   "object": "Russische Akademie der Wissenschaften",
+   "role": "Ehrenmitglied",
+   "place": "Sankt Petersburg",
+   "year_start": 1776,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Seit Dezember 1776 war er Ehrenmitglied der Russischen Akademie der Wissenschaften in Sankt Petersburg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann III Bernoulli",
+   "type": "other",
+   "object": "Johann II Bernoulli",
+   "role": "älteste Sohn von",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Johann III war der älteste Sohn von Johann II Bernoulli",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann III Bernoulli",
+   "type": "other",
+   "object": "Johann I Bernoulli",
+   "role": "Enkel von",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "und ein Enkel von Johann I Bernoulli aus der Familie Bernoulli.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Johann III Bernoulli",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q123984.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Johann III Bernoulli",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,174 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Jikai Dainin Katagiri",
+   "birth_year": 1928,
+   "death_year": 1990,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Daicho Hayashi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Eko Hashimoto",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Shunryu Suzuki",
+   "birth_year": null,
+   "death_year": 1971,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Zuiko Redding",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jikai Dainin Katagiri",
+   "type": "student_of",
+   "object": "Daicho Hayashi",
+   "role": "traditional teacher",
+   "place": "Taizo-in",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was ordained a monk by and named a Dharma heir of Daicho Hayashi at Taizo-in in Fukui",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jikai Dainin Katagiri",
+   "type": "student_of",
+   "object": "Eko Hashimoto",
+   "role": "traditional teacher",
+   "place": "Eiheiji",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "went on to study under Eko Hashimoto at Eiheiji for three years.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jikai Dainin Katagiri",
+   "type": "studied_at",
+   "object": "Eiheiji",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "went on to study under Eko Hashimoto at Eiheiji for three years.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jikai Dainin Katagiri",
+   "type": "studied_at",
+   "object": "Komazawa University",
+   "role": "major in Buddhist studies",
+   "place": "Tokyo, Japan",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After Eiheiji Katagiri enrolled at Komazawa University—the renowned Sōtō institution in Tokyo, Japan—majoring in Buddhist studies.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jikai Dainin Katagiri",
+   "type": "position_at",
+   "object": "Zenshuji Soto Zen Mission",
+   "role": "priest",
+   "place": "Los Angeles, California",
+   "year_start": 1963,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1963 Katagiri was sent by the Soto Headquarters Office in Japan to Los Angeles, California to serve as a priest at the Zenshuji Soto Zen Mission.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jikai Dainin Katagiri",
+   "type": "collaborated_with",
+   "object": "Shunryu Suzuki",
+   "role": "assistant",
+   "place": "San Francisco, California",
+   "year_start": 1965,
+   "year_end": 1971,
+   "explicit": true,
+   "evidence": "In 1965 he was sent to the Sokoji Soto Zen Mission in San Francisco, California to assist Shunryu Suzuki",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jikai Dainin Katagiri",
+   "type": "founded",
+   "object": "Minnesota Zen Meditation Center",
+   "role": "founding abbot",
+   "place": "Minneapolis, Minnesota",
+   "year_start": 1972,
+   "year_end": 1990,
+   "explicit": true,
+   "evidence": "founding abbot of Minnesota Zen Meditation Center in Minneapolis, Minnesota, where he served from 1972 until his death from cancer in 1990.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jikai Dainin Katagiri",
+   "type": "founded",
+   "object": "Hokyoji Zen Practice Community",
+   "role": null,
+   "place": "Eitzen, Minnesota",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He is also the founder of Hokyoji Zen Practice Community in Eitzen, Minnesota.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jikai Dainin Katagiri",
+   "type": "position_at",
+   "object": "San Francisco Zen Center",
+   "role": "interim abbot",
+   "place": null,
+   "year_start": 1984,
+   "year_end": 1985,
+   "explicit": true,
+   "evidence": "In 1984, in the wake of the Zentatsu Richard Baker controversy resulting in Baker's resignation as abbot of San Francisco Zen Center, Katagiri came at the request of SFZC and served as abbot there on an interim basis until 1985",
+   "quote_ok": true
+  },
+  {
+   "subject": "Zuiko Redding",
+   "type": "student_of",
+   "object": "Jikai Dainin Katagiri",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Soto priest and former student of Katagiri-Roshi, Zuiko Redding, has stated",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Dainin Katagiri",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q5209500.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Dainin Katagiri",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

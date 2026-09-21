@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Wilhelm Brandenstein",
+   "birth_year": 1898,
+   "death_year": 1967,
+   "nationality": "österreichischer",
+   "field": "Sprachwissenschaftler"
+  },
+  {
+   "name": "Massimo Pallottino",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Wilhelm Brandenstein",
+   "type": "position_at",
+   "object": "Universität Graz",
+   "role": "Leiter des Instituts für vergleichende Sprachwissenschaften",
+   "place": "Graz",
+   "year_start": 1941,
+   "year_end": 1967,
+   "explicit": true,
+   "evidence": "Von 1941 bis 1967 war er Leiter des Instituts für vergleichende Sprachwissenschaften an der Universität Graz.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Massimo Pallottino",
+   "type": "influenced_by",
+   "object": "Wilhelm Brandenstein",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mit seinen Überlegungen inspirierte er Massimo Pallottino zu seinem Artikel Atlantide.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Wilhelm Brandenstein",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q87517.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Wilhelm Brandenstein",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

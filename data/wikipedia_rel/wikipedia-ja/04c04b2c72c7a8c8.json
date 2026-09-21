@@ -1,0 +1,150 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ベアトリス・アースキン・レイン・スズキ",
+   "birth_year": 1878,
+   "death_year": 1939,
+   "nationality": "アメリカ合衆国",
+   "field": "神智学"
+  },
+  {
+   "name": "ウィリアム・ジェームズ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ジョサイア・ロイス",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ジョージ・ハーバート・パーマー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "鈴木大拙",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "日本",
+   "field": "仏教学"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ベアトリス・アースキン・レイン・スズキ",
+   "type": "studied_at",
+   "object": "ラドクリフ大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1898,
+   "explicit": true,
+   "evidence": "ラドクリフ大学を1898年に卒業。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ベアトリス・アースキン・レイン・スズキ",
+   "type": "student_of",
+   "object": "ウィリアム・ジェームズ",
+   "role": "teacher",
+   "place": "ラドクリフ大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ラドクリフでは、ウィリアム・ジェームズ、ジョサイア・ロイス、ジョージ・ハーバート・パーマーに学ぶ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ベアトリス・アースキン・レイン・スズキ",
+   "type": "student_of",
+   "object": "ジョサイア・ロイス",
+   "role": "teacher",
+   "place": "ラドクリフ大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ラドクリフでは、ウィリアム・ジェームズ、ジョサイア・ロイス、ジョージ・ハーバート・パーマーに学ぶ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ベアトリス・アースキン・レイン・スズキ",
+   "type": "student_of",
+   "object": "ジョージ・ハーバート・パーマー",
+   "role": "teacher",
+   "place": "ラドクリフ大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ラドクリフでは、ウィリアム・ジェームズ、ジョサイア・ロイス、ジョージ・ハーバート・パーマーに学ぶ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ベアトリス・アースキン・レイン・スズキ",
+   "type": "studied_at",
+   "object": "コロンビア大学大学院",
+   "role": "修士号",
+   "place": "ニューヨーク",
+   "year_start": null,
+   "year_end": 1908,
+   "explicit": true,
+   "evidence": "卒業後は、ニューヨークに移り、コロンビア大学大学院に学ぶ。1908年ソーシャルワークの修士号と証明書を取得。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ベアトリス・アースキン・レイン・スズキ",
+   "type": "other",
+   "object": "鈴木大拙",
+   "role": "spouse",
+   "place": null,
+   "year_start": 1911,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "日本の仏教学者、鈴木大拙の妻。……1911年に日本に旅行し、同年鈴木大拙と結婚。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ベアトリス・アースキン・レイン・スズキ",
+   "type": "position_at",
+   "object": "大谷大学予科",
+   "role": "英語を教えた",
+   "place": null,
+   "year_start": 1921,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1921年より大谷大学予科で英語を教えた",
+   "quote_ok": true
+  },
+  {
+   "subject": "ベアトリス・アースキン・レイン・スズキ",
+   "type": "founded",
+   "object": "東方仏教徒協会",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "東方仏教徒協会（Eastern Buddhist Society）を設立し",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ベアトリス・レイン・スズキ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q108111365.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ベアトリス・レイン・スズキ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

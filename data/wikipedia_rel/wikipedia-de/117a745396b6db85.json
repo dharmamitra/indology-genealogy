@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Jamyang Khyentse Chökyi Lodrö",
+   "birth_year": 1893,
+   "death_year": 1959,
+   "nationality": "Tibet",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Dilgo Khyentse Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Sogyal Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetan Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Dilgo Khyentse Rinpoche",
+   "type": "student_of",
+   "object": "Jamyang Khyentse Chökyi Lodrö",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sein bedeutendster Schüler war Dilgo Khyentse Rinpoche, ein berühmter Meister der Nyingma-Schule des tibetischen Buddhismus.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sogyal Rinpoche",
+   "type": "student_of",
+   "object": "Jamyang Khyentse Chökyi Lodrö",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Auch der im Westen bekannte Lama Sogyal Rinpoche war Schüler von Jamyang Khyentse Chökyi Lodrö.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Jamyang Khyentse Chökyi Lodrö",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q716259.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Jamyang Khyentse Chökyi Lodrö",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

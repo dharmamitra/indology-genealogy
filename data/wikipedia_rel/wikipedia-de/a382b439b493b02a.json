@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Yukio Kotani",
+   "birth_year": 1931,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "vergleichende Literaturwissenschaften"
+  },
+  {
+   "name": "Hanjirō Tominaga",
+   "birth_year": 1883,
+   "death_year": 1965,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Yukio Kotani",
+   "type": "position_at",
+   "object": "Risshō-Universität in Tokio",
+   "role": "emeritierter Professor für vergleichende Literaturwissenschaften",
+   "place": "Tokio",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Yukio Kotani (japanisch 小谷 幸雄, Kotani Yukio; * 18. November 1931) ist japanischer emeritierter Professor für vergleichende Literaturwissenschaften an der Risshō-Universität in Tokio",
+   "quote_ok": true
+  },
+  {
+   "subject": "Yukio Kotani",
+   "type": "student_of",
+   "object": "Hanjirō Tominaga",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Neben der universitären Ausbildung gehörte er zum Schülerkreis des buddhistischen Gelehrten Hanjirō Tominaga (1883–1965)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Yukio Kotani",
+   "type": "influenced_by",
+   "object": "Hanjirō Tominaga",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Kotanis literarisches und wissenschaftliches Werk blieb stark vom Denken Tominagas geprägt.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Yukio Kotani",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q15444523.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Yukio Kotani",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

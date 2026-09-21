@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Antoine-Léonard de Chézy",
+   "birth_year": 1773,
+   "death_year": 1832,
+   "nationality": "French",
+   "field": "orientalist"
+  },
+  {
+   "name": "Alexandre Langlois",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Auguste-Louis-Armand Loiseleur-Deslongchamps",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Eugène Burnouf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Antoine-Léonard de Chézy",
+   "type": "position_at",
+   "object": "oriental manuscripts department of the national library",
+   "role": null,
+   "place": null,
+   "year_start": 1799,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1799 he obtained a post in the oriental manuscripts department of the national library.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Antoine-Léonard de Chézy",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "professor of Sanskrit",
+   "place": null,
+   "year_start": 1815,
+   "year_end": 1832,
+   "explicit": true,
+   "evidence": "He was the first professor of Sanskrit appointed in the Collège de France (1815)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexandre Langlois",
+   "type": "student_of",
+   "object": "Antoine-Léonard de Chézy",
+   "role": "pupil",
+   "place": "Collège de France",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the Collège de France (1815), where his pupils included Alexandre Langlois, Auguste-Louis-Armand Loiseleur-Deslongchamps and especially Eugène Burnouf",
+   "quote_ok": true
+  },
+  {
+   "subject": "Auguste-Louis-Armand Loiseleur-Deslongchamps",
+   "type": "student_of",
+   "object": "Antoine-Léonard de Chézy",
+   "role": "pupil",
+   "place": "Collège de France",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the Collège de France (1815), where his pupils included Alexandre Langlois, Auguste-Louis-Armand Loiseleur-Deslongchamps and especially Eugène Burnouf",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eugène Burnouf",
+   "type": "student_of",
+   "object": "Antoine-Léonard de Chézy",
+   "role": "pupil",
+   "place": "Collège de France",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the Collège de France (1815), where his pupils included Alexandre Langlois, Auguste-Louis-Armand Loiseleur-Deslongchamps and especially Eugène Burnouf",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eugène Burnouf",
+   "type": "succeeded",
+   "object": "Antoine-Léonard de Chézy",
+   "role": "successor",
+   "place": "Collège de France",
+   "year_start": 1832,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Eugène Burnouf, who would become his successor at the Collège on his death in 1832.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Antoine-Léonard de Chézy",
+   "type": "position_at",
+   "object": "Académie des Inscriptions",
+   "role": "member",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and a member of the Académie des Inscriptions.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Antoine-Léonard de Chézy",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q585534.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Antoine-Léonard de Chézy",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

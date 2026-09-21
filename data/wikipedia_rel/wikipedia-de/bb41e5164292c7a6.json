@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Thomas F. Cleary",
+   "birth_year": 1949,
+   "death_year": 2021,
+   "nationality": "US-amerikanisch",
+   "field": null
+  },
+  {
+   "name": "Jonathan Christopher Cleary",
+   "birth_year": 1947,
+   "death_year": 2023,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Richard Wilhelm",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Thomas F. Cleary",
+   "type": "studied_at",
+   "object": "Harvard University",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Cleary erwarb einen Ph.D. in East Asian Languages and Civilizations an der Harvard University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas F. Cleary",
+   "type": "studied_at",
+   "object": "University of California, Berkeley",
+   "role": "JD",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "und einen JD der Boalt Hall School of Law an der University of California, Berkeley.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jonathan Christopher Cleary",
+   "type": "studied_at",
+   "object": "Harvard",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Clearys Bruder Jonathan Christopher Cleary (1947–2023) machte seine universitäre Ausbildung ebenfalls in Harvard.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas F. Cleary",
+   "type": "other",
+   "object": "Jonathan Christopher Cleary",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Clearys Bruder Jonathan Christopher Cleary (1947–2023) machte seine universitäre Ausbildung ebenfalls in Harvard.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas F. Cleary",
+   "type": "collaborated_with",
+   "object": "Jonathan Christopher Cleary",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1977,
+   "explicit": true,
+   "evidence": "Mit ihm zusammen übersetzte er die Kōan-Sammlung Biyan Lu (Aufzeichnungen des blaugrünen Felsens), die 1977 bei Shambhala Publications erschienen.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Thomas Cleary",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q7788463.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Thomas Cleary",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

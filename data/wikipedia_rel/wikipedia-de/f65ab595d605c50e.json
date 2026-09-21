@@ -1,0 +1,174 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Basil Lanneau Gildersleeve",
+   "birth_year": 1831,
+   "death_year": 1924,
+   "nationality": "amerikanisch",
+   "field": "klassischer Philologe"
+  },
+  {
+   "name": "Johannes Franz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Friedrich Ritschl",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Friedrich Wilhelm Schneidewin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Daniel Coit Gilman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Basil Lanneau Gildersleeve",
+   "type": "studied_at",
+   "object": "Universität Princeton",
+   "role": "B.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1849,
+   "explicit": true,
+   "evidence": "Basil Gildersleeve studierte an der Universität Princeton und erhielt schon 1849 im Alter von achtzehn Jahren den B.A.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Basil Lanneau Gildersleeve",
+   "type": "student_of",
+   "object": "Johannes Franz",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wo er bei Johannes Franz in Berlin, Friedrich Ritschl an der Universität Bonn und schließlich Friedrich Wilhelm Schneidewin in Göttingen studierte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Basil Lanneau Gildersleeve",
+   "type": "student_of",
+   "object": "Friedrich Ritschl",
+   "role": "teacher",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Friedrich Ritschl an der Universität Bonn und schließlich Friedrich Wilhelm Schneidewin in Göttingen studierte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Basil Lanneau Gildersleeve",
+   "type": "studied_at",
+   "object": "Universität Bonn",
+   "role": null,
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Friedrich Ritschl an der Universität Bonn und schließlich Friedrich Wilhelm Schneidewin in Göttingen studierte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Basil Lanneau Gildersleeve",
+   "type": "student_of",
+   "object": "Friedrich Wilhelm Schneidewin",
+   "role": "teacher",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "und schließlich Friedrich Wilhelm Schneidewin in Göttingen studierte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Basil Lanneau Gildersleeve",
+   "type": "studied_at",
+   "object": "Universität Göttingen",
+   "role": "Dr. phil.",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": 1853,
+   "explicit": true,
+   "evidence": "1853 wurde er in Göttingen zum Dr. phil. promoviert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Basil Lanneau Gildersleeve",
+   "type": "position_at",
+   "object": "University of Virginia",
+   "role": "Professor für Griechisch",
+   "place": null,
+   "year_start": 1856,
+   "year_end": 1876,
+   "explicit": true,
+   "evidence": "Nach seiner Rückkehr in die USA wurde Gildersleeve 1856 Professor für Griechisch an der University of Virginia. Diesen Lehrstuhl hatte er bis 1876 inne",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daniel Coit Gilman",
+   "type": "position_at",
+   "object": "Johns Hopkins University",
+   "role": "Präsident",
+   "place": null,
+   "year_start": 1875,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1875 trat Daniel Coit Gilman, Präsident der neu gegründeten Johns Hopkins University, an Gildersleeve heran",
+   "quote_ok": true
+  },
+  {
+   "subject": "Basil Lanneau Gildersleeve",
+   "type": "position_at",
+   "object": "Johns Hopkins University",
+   "role": "Professur für die klassischen Sprachen",
+   "place": null,
+   "year_start": 1876,
+   "year_end": 1915,
+   "explicit": true,
+   "evidence": "bot ihm eine besser bezahlte Professur für die klassischen Sprachen an. Gildersleeve nahm das Angebot an [...] Erst 1915 begab er sich nach fast sechzigjähriger Lehrtätigkeit [...] in den Ruhestand.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Basil Lanneau Gildersleeve",
+   "type": "founded",
+   "object": "American Journal of Philology",
+   "role": null,
+   "place": null,
+   "year_start": 1880,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1880 leitete er die Gründung des an der Johns Hopkins University verlegten American Journal of Philology",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Basil Lanneau Gildersleeve",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q810037.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Basil Lanneau Gildersleeve",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Wolfgang Schultz",
+   "birth_year": 1881,
+   "death_year": 1936,
+   "nationality": "Austrian",
+   "field": "philosophy"
+  },
+  {
+   "name": "Richard Hönigswald",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Wolfgang Schultz",
+   "type": "studied_at",
+   "object": "University of Vienna",
+   "role": "Ph.D.",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": 1904,
+   "explicit": true,
+   "evidence": "Schultz studied philosophy and mathematics at the University of Vienna. He also took courses in philology and archaeology. Schultz gained his Ph.D. at Vienna in 1904 with a thesis on Ancient Greece.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wolfgang Schultz",
+   "type": "position_at",
+   "object": "Ludwig-Maximilians-Universität München",
+   "role": "Professor and Chair of Philosophy",
+   "place": "Munich",
+   "year_start": 1934,
+   "year_end": 1936,
+   "explicit": true,
+   "evidence": "Upon the forced retirement of Richard Hönigswald, Schultz was in 1934 appointed Professor and Chair of Philosophy at the Ludwig-Maximilians-Universität München.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wolfgang Schultz",
+   "type": "succeeded",
+   "object": "Richard Hönigswald",
+   "role": "Chair of Philosophy",
+   "place": "Ludwig-Maximilians-Universität München",
+   "year_start": 1934,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Upon the forced retirement of Richard Hönigswald, Schultz was in 1934 appointed Professor and Chair of Philosophy at the Ludwig-Maximilians-Universität München.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wolfgang Schultz",
+   "type": "position_at",
+   "object": "Forschungsinstituts für Osten und Orient",
+   "role": "administrator",
+   "place": null,
+   "year_start": 1918,
+   "year_end": 1921,
+   "explicit": true,
+   "evidence": "From 1918 to 1921 he was the administrator of the \"Forschungsinstituts für Osten und Orient\".",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Wolfgang Schultz",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1459471.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Wolfgang Schultz",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

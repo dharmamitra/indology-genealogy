@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "フランツ・ボップ",
+   "birth_year": 1791,
+   "death_year": 1867,
+   "nationality": "ドイツ",
+   "field": "言語学"
+  },
+  {
+   "name": "カール・ヴィンディシュマン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "フランツ・ボップ",
+   "type": "position_at",
+   "object": "ベルリン大学",
+   "role": "教授",
+   "place": null,
+   "year_start": 1825,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1825年からベルリン大学の教授を務めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "フランツ・ボップ",
+   "type": "influenced_by",
+   "object": "カール・ヴィンディシュマン",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "カール・ヴィンディシュマンの東洋の言語と文学に関する著作に関心を抱いた。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): フランツ・ボップ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q76934.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): フランツ・ボップ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

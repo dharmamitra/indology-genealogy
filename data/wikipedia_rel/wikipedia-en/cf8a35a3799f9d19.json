@@ -1,0 +1,136 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Edward James Rapson",
+   "birth_year": 1861,
+   "death_year": 1937,
+   "nationality": "British",
+   "field": "numismatics, philology, Sanskrit"
+  },
+  {
+   "name": "H.W. Bailey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Aurel Stein",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "archaeology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Edward James Rapson",
+   "type": "studied_at",
+   "object": "St John's College, Cambridge",
+   "role": null,
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He attended the Hereford Cathedral School and then St John's College, Cambridge, where he was elected a classical foundation scholar in 1883.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward James Rapson",
+   "type": "position_at",
+   "object": "Department of Coins and Medals at the British Museum",
+   "role": "assistant",
+   "place": "London",
+   "year_start": 1887,
+   "year_end": 1906,
+   "explicit": true,
+   "evidence": "In 1887 Rapson was appointed assistant in the Department of Coins and Medals at the British Museum... In 1906 he left the British Museum",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward James Rapson",
+   "type": "position_at",
+   "object": "St. John's College",
+   "role": "fellow",
+   "place": "Cambridge",
+   "year_start": 1887,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and also elected a fellow of St. John's College.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward James Rapson",
+   "type": "position_at",
+   "object": "University College, London",
+   "role": "Professor of Sanskrit",
+   "place": "London",
+   "year_start": 1903,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1903 he was Professor of Sanskrit at University College, London.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward James Rapson",
+   "type": "position_at",
+   "object": "University of Cambridge",
+   "role": "Professor of Sanskrit",
+   "place": "Cambridge",
+   "year_start": 1906,
+   "year_end": 1936,
+   "explicit": true,
+   "evidence": "In 1906 he left the British Museum and was appointed Professor of Sanskrit at St. John's... he remained there until his retirement in 1936",
+   "quote_ok": true
+  },
+  {
+   "subject": "H.W. Bailey",
+   "type": "succeeded",
+   "object": "Edward James Rapson",
+   "role": "Professor of Sanskrit",
+   "place": "University of Cambridge",
+   "year_start": 1936,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "until his retirement in 1936 when he was succeeded by H.W. Bailey.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward James Rapson",
+   "type": "collaborated_with",
+   "object": "Aurel Stein",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rapson also deciphered and then edited various documents that his friend the archaeologist Aurel Stein had discovered in his 1900 expedition to Chinese Turkestan.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward James Rapson",
+   "type": "other",
+   "object": "Aurel Stein",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "his friend the archaeologist Aurel Stein",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): E. J. Rapson",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q16929571.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): E. J. Rapson",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

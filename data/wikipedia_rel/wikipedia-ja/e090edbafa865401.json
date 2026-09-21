@@ -1,0 +1,148 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "木村泰賢",
+   "birth_year": 1881,
+   "death_year": 1930,
+   "nationality": "日本",
+   "field": "インド哲学者・仏教学者"
+  },
+  {
+   "name": "高楠順次郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "西義雄",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "木村泰賢",
+   "type": "studied_at",
+   "object": "曹洞宗大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1903,
+   "explicit": true,
+   "evidence": "1903年に曹洞宗大学（現・駒澤大学）を卒業すると",
+   "quote_ok": true
+  },
+  {
+   "subject": "木村泰賢",
+   "type": "student_of",
+   "object": "高楠順次郎",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "東京帝国大学文科大学に選科生として進学し、高楠順次郎に学ぶ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "木村泰賢",
+   "type": "studied_at",
+   "object": "東京帝国大学文科大学",
+   "role": null,
+   "place": null,
+   "year_start": 1906,
+   "year_end": 1909,
+   "explicit": true,
+   "evidence": "1906年9月に帝大に戻ったが、曹洞宗務院からの学資の関係で受験の上再入学となった。本科生に転学、1909年に首席で卒業した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "木村泰賢",
+   "type": "position_at",
+   "object": "曹洞宗大学",
+   "role": "講師",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "卒業後は、曹洞宗大学講師、日本女子大学講師、東京帝国大学講師、同助教授を務めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "木村泰賢",
+   "type": "position_at",
+   "object": "日本女子大学",
+   "role": "講師",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "卒業後は、曹洞宗大学講師、日本女子大学講師、東京帝国大学講師、同助教授を務めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "木村泰賢",
+   "type": "position_at",
+   "object": "東京帝国大学",
+   "role": "講師、助教授、教授",
+   "place": null,
+   "year_start": null,
+   "year_end": 1930,
+   "explicit": true,
+   "evidence": "東京帝国大学講師、同助教授を務めた。1919年から1921年までイギリスに国費留学した後、1923年に『阿毘達磨論の研究』を東京帝国大学に提出して文学博士号を取得、同年教授に昇任した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "木村泰賢",
+   "type": "studied_at",
+   "object": "東京帝国大学",
+   "role": "文学博士",
+   "place": null,
+   "year_start": null,
+   "year_end": 1923,
+   "explicit": true,
+   "evidence": "1923年に『阿毘達磨論の研究』を東京帝国大学に提出して文学博士号を取得",
+   "quote_ok": true
+  },
+  {
+   "subject": "西義雄",
+   "type": "student_of",
+   "object": "木村泰賢",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "弟子\n西義雄（東洋大学教授）",
+   "quote_ok": true
+  },
+  {
+   "subject": "西義雄",
+   "type": "position_at",
+   "object": "東洋大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "西義雄（東洋大学教授）",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 木村泰賢",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q11518985.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 木村泰賢",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

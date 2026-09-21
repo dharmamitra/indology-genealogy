@@ -1,0 +1,181 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ernst Wilhelm Oskar Windisch",
+   "birth_year": 1844,
+   "death_year": 1918,
+   "nationality": "German",
+   "field": "Sanskritist, Keltologe und Indogermanist"
+  },
+  {
+   "name": "Friedrich Ritschl",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Friedrich Nietzsche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Friedrich Delitzsch",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Assyriologe"
+  },
+  {
+   "name": "Anna Leonowens",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Wilhelm Roscher",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Ökonom"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ernst Wilhelm Oskar Windisch",
+   "type": "studied_at",
+   "object": "Universität Leipzig",
+   "role": "Dr. phil.",
+   "place": "Leipzig",
+   "year_start": 1863,
+   "year_end": 1867,
+   "explicit": true,
+   "evidence": "studierte anschließend bis 1867 Klassische Philologie und Sprachwissenschaft an der Universität Leipzig. [...] Im Anschluss promovierte er zum Dr. phil. in Klassischer Philologie",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Wilhelm Oskar Windisch",
+   "type": "student_of",
+   "object": "Friedrich Ritschl",
+   "role": "teacher",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er war ein akademischer Schüler von Friedrich Ritschl",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Wilhelm Oskar Windisch",
+   "type": "other",
+   "object": "Friedrich Nietzsche",
+   "role": "Studienfreund",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ein enger Studienfreund von Friedrich Nietzsche.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Wilhelm Oskar Windisch",
+   "type": "position_at",
+   "object": "Universität Leipzig",
+   "role": "außerordentlicher Professor",
+   "place": "Leipzig",
+   "year_start": 1871,
+   "year_end": 1872,
+   "explicit": true,
+   "evidence": "1871 kehrte er als außerordentlicher Professor nach Leipzig zurück.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Delitzsch",
+   "type": "student_of",
+   "object": "Ernst Wilhelm Oskar Windisch",
+   "role": "student",
+   "place": "Leipzig",
+   "year_start": 1871,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zu seinen Studenten in dieser Zeit gehörte der spätere Assyriologe Friedrich Delitzsch.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Wilhelm Oskar Windisch",
+   "type": "position_at",
+   "object": "Universität Heidelberg",
+   "role": "ordentlicher Professor der vergleichenden Sprachwissenschaft",
+   "place": "Heidelberg",
+   "year_start": 1872,
+   "year_end": 1875,
+   "explicit": true,
+   "evidence": "1872 wurde er ordentlicher Professor der vergleichenden Sprachwissenschaft an der Universität Heidelberg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Wilhelm Oskar Windisch",
+   "type": "position_at",
+   "object": "Universität Straßburg",
+   "role": "Professor der vergleichenden Sprachwissenschaft",
+   "place": "Straßburg",
+   "year_start": 1875,
+   "year_end": 1877,
+   "explicit": true,
+   "evidence": "1875 nahm er einen Ruf auf eine ebensolche Professur an der Universität Straßburg an",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Wilhelm Oskar Windisch",
+   "type": "position_at",
+   "object": "Universität Leipzig",
+   "role": "Professor des Sanskrit",
+   "place": "Leipzig",
+   "year_start": 1877,
+   "year_end": 1918,
+   "explicit": true,
+   "evidence": "bevor er 1877 Professor des Sanskrit in Leipzig wurde, was er bis zu seinem Tode 1918 blieb.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anna Leonowens",
+   "type": "student_of",
+   "object": "Ernst Wilhelm Oskar Windisch",
+   "role": "Gasthörerin",
+   "place": "Leipzig",
+   "year_start": 1897,
+   "year_end": 1901,
+   "explicit": true,
+   "evidence": "Anna Leonowens studierte von 1897 bis 1901 als Gasthörerin bei Windisch.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Wilhelm Oskar Windisch",
+   "type": "other",
+   "object": "Wilhelm Roscher",
+   "role": "Schwiegervater (father-in-law)",
+   "place": null,
+   "year_start": 1873,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Am 18. April 1873 heiratete er Berta Roscher (1851–1927), die Tochter des Ökonomen Wilhelm Roscher.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Ernst Windisch (Sprachwissenschaftler)",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q76535.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Ernst Windisch (Sprachwissenschaftler)",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

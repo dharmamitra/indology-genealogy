@@ -1,0 +1,117 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Otto Franke",
+   "birth_year": 1863,
+   "death_year": 1946,
+   "nationality": "German",
+   "field": "Sinology"
+  },
+  {
+   "name": "Wolfgang Franke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sinology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Otto Franke",
+   "type": "studied_at",
+   "object": "Freiburg",
+   "role": null,
+   "place": "Freiburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Franke studiert zuerst in Freiburg Geschichte und Linguistik.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Franke",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": 1884,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nach seinem Wehrdienst begann er im Jahr 1884 ein weiteres Studium in Göttingen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Franke",
+   "type": "position_at",
+   "object": "Kolonialinstitut der Freien und Hansestadt Hamburg",
+   "role": "Lehrstuhl für „Sprachen und Geschichte Ostasiens“",
+   "place": "Hamburg",
+   "year_start": 1910,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Seit dem 1. Januar 1910 hatte er am Kolonialinstitut der Freien und Hansestadt Hamburg den ersten deutschen Lehrstuhl für „Sprachen und Geschichte Ostasiens“ inne.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Franke",
+   "type": "position_at",
+   "object": "Friedrich-Wilhelms-Universität in Berlin",
+   "role": "Professor für Sinologie",
+   "place": "Berlin",
+   "year_start": 1923,
+   "year_end": 1931,
+   "explicit": true,
+   "evidence": "Von 1923 bis 1931 lehrte er als Professor für Sinologie an der Friedrich-Wilhelms-Universität in Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Franke",
+   "type": "position_at",
+   "object": "Preußische Akademie der Wissenschaften",
+   "role": "ordentliches Mitglied",
+   "place": null,
+   "year_start": 1923,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1923 wurde er als ordentliches Mitglied in die Preußische Akademie der Wissenschaften aufgenommen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Franke",
+   "type": "position_at",
+   "object": "Göttinger Akademie der Wissenschaften",
+   "role": "auswärtiges Mitglied",
+   "place": null,
+   "year_start": 1935,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1935 wurde er zum auswärtigen Mitglied der Göttinger Akademie der Wissenschaften gewählt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wolfgang Franke",
+   "type": "other",
+   "object": "Otto Franke",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sein Sohn war der Sinologe Wolfgang Franke.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Otto Franke (Sinologe)",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q69394.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Otto Franke (Sinologe)",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

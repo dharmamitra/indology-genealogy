@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Johann Gottfried von Herder",
+   "birth_year": 1744,
+   "death_year": 1803,
+   "nationality": "German",
+   "field": "philosophy"
+  },
+  {
+   "name": "Franz Boas",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "comparative linguistics"
+  },
+  {
+   "name": "Dell Hymes",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "anthropology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Franz Boas",
+   "type": "influenced_by",
+   "object": "Johann Gottfried von Herder",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Herderian ideas continue to influence thinkers, linguists and anthropologists, and they have often been considered central to the Sapir–Whorf hypothesis and Franz Boas' coalescence",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dell Hymes",
+   "type": "influenced_by",
+   "object": "Johann Gottfried von Herder",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Herderian ideas continue to influence thinkers, linguists and anthropologists, and they have often been considered central to [...] anthropological studies by Dell Hymes.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Johann Gottfried Herder",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q155547.txt#1",
+ "meta": {
+  "title": "Wikipedia (en): Johann Gottfried Herder",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

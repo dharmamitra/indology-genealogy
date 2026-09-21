@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "サム・ハリス",
+   "birth_year": 1967,
+   "death_year": null,
+   "nationality": "アメリカ合衆国",
+   "field": "神経科学者、哲学者"
+  },
+  {
+   "name": "ディルゴ・キェンツェ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "チベット仏教"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "サム・ハリス",
+   "type": "student_of",
+   "object": "ディルゴ・キェンツェ",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "チベット仏教の高僧ディルゴ・キェンツェに師事。",
+   "quote_ok": true
+  },
+  {
+   "subject": "サム・ハリス",
+   "type": "studied_at",
+   "object": "スタンフォード大学",
+   "role": "哲学の学位",
+   "place": null,
+   "year_start": 1997,
+   "year_end": 2000,
+   "explicit": true,
+   "evidence": "それから11年後の1997年にスタンフォード大学に復学、2000年に哲学の学位を取得。",
+   "quote_ok": true
+  },
+  {
+   "subject": "サム・ハリス",
+   "type": "studied_at",
+   "object": "カリフォルニア大学ロサンゼルス校",
+   "role": "認知神経科学の博士号",
+   "place": null,
+   "year_start": null,
+   "year_end": 2009,
+   "explicit": true,
+   "evidence": "2009年にカリフォルニア大学ロサンゼルス校で認知神経科学の博士号を取得した。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): サム・ハリス",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q296047.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): サム・ハリス",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

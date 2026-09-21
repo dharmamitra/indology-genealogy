@@ -1,0 +1,136 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Paul Fredericq",
+   "birth_year": 1850,
+   "death_year": 1920,
+   "nationality": "Belgian",
+   "field": "History"
+  },
+  {
+   "name": "Jacob Heremans",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Henri Pirenne",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Paul Fredericq",
+   "type": "studied_at",
+   "object": "Universität Lüttich",
+   "role": "Lehramtsexamen",
+   "place": "Lüttich",
+   "year_start": null,
+   "year_end": 1871,
+   "explicit": true,
+   "evidence": "studierte an der Universität Lüttich, wo er 1871 sein Lehramtsexamen ablegte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Fredericq",
+   "type": "studied_at",
+   "object": "Universität Lüttich",
+   "role": "Doktorat",
+   "place": "Lüttich",
+   "year_start": null,
+   "year_end": 1875,
+   "explicit": true,
+   "evidence": "1875 wurde er in Lüttich im Fach Geschichte promoviert",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Fredericq",
+   "type": "position_at",
+   "object": "Universität Lüttich",
+   "role": "Professor",
+   "place": "Lüttich",
+   "year_start": 1875,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1875 wurde er in Lüttich im Fach Geschichte promoviert (...) und wurde dort Professor.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Fredericq",
+   "type": "succeeded",
+   "object": "Jacob Heremans",
+   "role": "Professor",
+   "place": "Gent",
+   "year_start": 1883,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1883 wurde er Nachfolger von Jacob Heremans als Professor in Gent.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Fredericq",
+   "type": "position_at",
+   "object": "Universität Gent",
+   "role": "Professor",
+   "place": "Gent",
+   "year_start": 1883,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1883 wurde er Nachfolger von Jacob Heremans als Professor in Gent.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Fredericq",
+   "type": "position_at",
+   "object": "Universität Gent",
+   "role": "Rektor",
+   "place": "Gent",
+   "year_start": 1919,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1919 wurde er Rektor der Universität Gent",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Fredericq",
+   "type": "collaborated_with",
+   "object": "Henri Pirenne",
+   "role": "colleague",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "zusammen mit seinem Kollegen Henri Pirenne deportiert",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Fredericq",
+   "type": "founded",
+   "object": "Hooger Onderwijs voor het Volk",
+   "role": null,
+   "place": null,
+   "year_start": 1894,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Außerdem gründete er 1894 die Volkshochschulbewegung Hooger Onderwijs voor het Volk.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Paul Fredericq",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q2659663.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Paul Fredericq",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

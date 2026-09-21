@@ -1,0 +1,114 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ivan Pavlovich Minayev",
+   "birth_year": 1840,
+   "death_year": 1890,
+   "nationality": "Russian",
+   "field": "Indologist"
+  },
+  {
+   "name": "Serge Oldenburg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "F. Th. Stcherbatsky",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Dmitry Kudryavsky",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Vasily Vasiliev",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Serge Oldenburg",
+   "type": "student_of",
+   "object": "Ivan Pavlovich Minayev",
+   "role": "disciple",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ivan Pavlovich Minayev... was the first Russian Indologist whose disciples included Serge Oldenburg",
+   "quote_ok": true
+  },
+  {
+   "subject": "F. Th. Stcherbatsky",
+   "type": "student_of",
+   "object": "Ivan Pavlovich Minayev",
+   "role": "disciple",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ivan Pavlovich Minayev... was the first Russian Indologist whose disciples included Serge Oldenburg, F. Th. Stcherbatsky",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dmitry Kudryavsky",
+   "type": "student_of",
+   "object": "Ivan Pavlovich Minayev",
+   "role": "disciple",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ivan Pavlovich Minayev... was the first Russian Indologist whose disciples included Serge Oldenburg, F. Th. Stcherbatsky, and Dmitry Kudryavsky.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ivan Pavlovich Minayev",
+   "type": "student_of",
+   "object": "Vasily Vasiliev",
+   "role": "student",
+   "place": "University of Saint Petersburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "As a student of Vasily Vasiliev at the University of Saint Petersburg he developed an interest in Pali literature",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ivan Pavlovich Minayev",
+   "type": "studied_at",
+   "object": "University of Saint Petersburg",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "As a student of Vasily Vasiliev at the University of Saint Petersburg",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Ivan Minayev",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q171275.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Ivan Minayev",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

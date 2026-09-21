@@ -1,0 +1,126 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Brad Warner",
+   "birth_year": 1964,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gudō Wafu Nishijima",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Tim McCarthy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kōdō Sawaki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rempo Niwa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Brad Warner",
+   "type": "student_of",
+   "object": "Gudō Wafu Nishijima",
+   "role": "traditional teacher",
+   "place": "Japan",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In Japan begann er, Zen bei Gudō Wafu Nishijima zu studieren.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Brad Warner",
+   "type": "student_of",
+   "object": "Tim McCarthy",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Anfang der 80er Jahre begann er, Zazen zu praktizieren. Sein damaliger Zen-Lehrer war Tim McCarthy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gudō Wafu Nishijima",
+   "type": "student_of",
+   "object": "Kōdō Sawaki",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nishijima studierte Zen unter Kōdō Sawaki und Rempo Niwa",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gudō Wafu Nishijima",
+   "type": "student_of",
+   "object": "Rempo Niwa",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nishijima studierte Zen unter Kōdō Sawaki und Rempo Niwa",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gudō Wafu Nishijima",
+   "type": "founded",
+   "object": "Dogen-Sangha",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "und gründete die buddhistische Gruppe Dogen-Sangha.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Brad Warner",
+   "type": "position_at",
+   "object": "Dogen-Sangha",
+   "role": "Leiter",
+   "place": null,
+   "year_start": 2007,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "2007 wurde er von Gudō Wafu Nishijima zum Leiter der Dogen-Sangha ernannt.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Brad Warner",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q329026.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Brad Warner",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

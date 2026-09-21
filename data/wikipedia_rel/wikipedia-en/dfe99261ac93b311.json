@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Nathaniel Brassey Halhed",
+   "birth_year": 1751,
+   "death_year": 1830,
+   "nationality": "English",
+   "field": "Orientalist and philologist"
+  },
+  {
+   "name": "William Jones",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Nathaniel Brassey Halhed",
+   "type": "studied_at",
+   "object": "Harrow School",
+   "role": null,
+   "place": null,
+   "year_start": 1758,
+   "year_end": 1768,
+   "explicit": true,
+   "evidence": "He went to Harrow School from the age of seven to seventeen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nathaniel Brassey Halhed",
+   "type": "studied_at",
+   "object": "Christ Church, Oxford",
+   "role": null,
+   "place": null,
+   "year_start": 1768,
+   "year_end": 1771,
+   "explicit": true,
+   "evidence": "Halhed entered Christ Church, Oxford on 13 July 1768, at the age of 17. He remained there for three years but did not take a degree.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nathaniel Brassey Halhed",
+   "type": "influenced_by",
+   "object": "William Jones",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "While at Christ Church, Oxford he undertook oriental studies under the influence of William Jones, who induced him to study Arabic.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Nathaniel Brassey Halhed",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q4495159.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Nathaniel Brassey Halhed",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

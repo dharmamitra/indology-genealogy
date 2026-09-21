@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Hermann Oldenberg",
+   "birth_year": 1854,
+   "death_year": 1920,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "T. W. Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hermann Oldenberg",
+   "type": "position_at",
+   "object": "Kiel",
+   "role": "Professor",
+   "place": null,
+   "year_start": 1898,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor at Kiel (1898)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Oldenberg",
+   "type": "position_at",
+   "object": "Göttingen",
+   "role": "Professor",
+   "place": null,
+   "year_start": 1908,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor at Kiel (1898) and Göttingen (1908)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Oldenberg",
+   "type": "collaborated_with",
+   "object": "T. W. Rhys Davids",
+   "role": null,
+   "place": null,
+   "year_start": 1881,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "With T. W. Rhys Davids, he edited and translated into English three volumes of Theravada Vinaya texts",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Oldenberg",
+   "type": "collaborated_with",
+   "object": "Max Müller",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in the monumental Sacred Books of the East series edited by Max Müller",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Hermann Oldenberg",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q76678.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Hermann Oldenberg",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

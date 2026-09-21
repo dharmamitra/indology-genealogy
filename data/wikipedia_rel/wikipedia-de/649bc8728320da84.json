@@ -1,0 +1,116 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Eberhard Fischer",
+   "birth_year": 1941,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Kunstethnologe"
+  },
+  {
+   "name": "Ulrike Himmelheber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hans Himmelheber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Völkerkunde"
+  },
+  {
+   "name": "Anjali",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Ethnologie"
+  },
+  {
+   "name": "Susanne Himmelheber",
+   "birth_year": 1946,
+   "death_year": null,
+   "nationality": null,
+   "field": "Kunsthistorikerin"
+  },
+  {
+   "name": "Clara Mayer-Himmelheber",
+   "birth_year": 1970,
+   "death_year": null,
+   "nationality": null,
+   "field": "Ethnologie"
+  },
+  {
+   "name": "Barbara",
+   "birth_year": 1950,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ulrike Himmelheber",
+   "type": "collaborated_with",
+   "object": "Hans Himmelheber",
+   "role": null,
+   "place": "Afrika",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Seine Mutter, Ulrike Himmelheber, heiratete 1944 den Völkerkundler Hans Himmelheber. Die beiden reisten und forschten gemeinsam in Afrika.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eberhard Fischer",
+   "type": "studied_at",
+   "object": "Universität Basel",
+   "role": "PhD",
+   "place": "Basel",
+   "year_start": null,
+   "year_end": 1965,
+   "explicit": true,
+   "evidence": "Eberhard Fischer wurde 1965 an der Universität Basel mit einer Arbeit über den Wandel ökonomischer Rollen bei den westlichen Dan in Liberia in Ethnologie promoviert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eberhard Fischer",
+   "type": "position_at",
+   "object": "Museum Rietberg",
+   "role": "Leiter",
+   "place": "Zürich",
+   "year_start": 1972,
+   "year_end": 1998,
+   "explicit": true,
+   "evidence": "Von 1972 bis 1998 leitete er das Museum Rietberg in Zürich.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eberhard Fischer",
+   "type": "collaborated_with",
+   "object": "Clara Mayer-Himmelheber",
+   "role": null,
+   "place": "Zürich",
+   "year_start": 1993,
+   "year_end": 1997,
+   "explicit": true,
+   "evidence": "Mit seiner Nichte Clara Mayer-Himmelheber organisierte er 1993 und 1997 in Zürich die Ausstellungen „Zaire 1938/39“ und „Die Kultur der Baule“ [...] Sie verfassten auch die Ausstellungskataloge gemeinsam.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Eberhard Fischer (Ethnologe)",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q18686133.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Eberhard Fischer (Ethnologe)",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

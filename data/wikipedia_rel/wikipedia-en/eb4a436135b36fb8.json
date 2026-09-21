@@ -1,0 +1,83 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Khenpo Shenga",
+   "birth_year": 1871,
+   "death_year": 1927,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Önpo Tenzin Norbu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": null
+  },
+  {
+   "name": "Thubten Chökyi Dorje",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jamyang Khyentse Chökyi Lodrö",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Khenpo Shenga",
+   "type": "student_of",
+   "object": "Önpo Tenzin Norbu",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Khenpo Shenga he undertook religious study at a relatively young age under the tutelage of Önpo Tenzin Norbu.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Khenpo Shenga",
+   "type": "position_at",
+   "object": "Shri Singha Shedra at Dzogchen Monastery",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1902,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "until 1902 when he was invited by the fifth Dzogchen Rinpoche, Thubten Chökyi Dorje, to teach at the Shri Singha Shedra at Dzogchen Monastery.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Khenpo Shenga",
+   "type": "position_at",
+   "object": "Dzongsar Monastery",
+   "role": "first khenpo of the new shedra",
+   "place": null,
+   "year_start": 1918,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A few years later he was invited by Jamyang Khyentse Chökyi Lodrö to become the first khenpo of the new shedra at Dzongsar Monastery, inaugurated in 1918.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Khenpo Shenga",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q2278091.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Khenpo Shenga",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

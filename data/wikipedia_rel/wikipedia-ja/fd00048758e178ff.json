@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ウィリアム・ウィルソン・ハンター",
+   "birth_year": 1840,
+   "death_year": 1900,
+   "nationality": "スコットランド",
+   "field": "歴史学者"
+  },
+  {
+   "name": "ブライアン・ホートン・ホジソン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ウィリアム・ウィルソン・ハンター",
+   "type": "studied_at",
+   "object": "グラスゴー大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1860,
+   "explicit": true,
+   "evidence": "1860年にグラスゴー大学を卒業した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ウィリアム・ウィルソン・ハンター",
+   "type": "position_at",
+   "object": "カルカッタ大学",
+   "role": "副総長",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ハンターは1881年から6年間インド議会のメンバーをつとめ、またカルカッタ大学の副総長をつとめた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ウィリアム・ウィルソン・ハンター",
+   "type": "position_at",
+   "object": "王立アジア協会",
+   "role": "副会長",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ハンターは王立アジア協会の副会長であったほか、国内外の多数の学術団体の会員だった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ウィリアム・ウィルソン・ハンター",
+   "type": "influenced_by",
+   "object": "ブライアン・ホートン・ホジソン",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1868,
+   "explicit": true,
+   "evidence": "1868年に非アーリア諸言語の分類単語集を出版した。ブライアン・ホートン・ホジソンが主になって収集した語彙集などをもとにしている。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ウィリアム・ウィルソン・ハンター",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q724677.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ウィリアム・ウィルソン・ハンター",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

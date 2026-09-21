@@ -1,0 +1,83 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "釈能海",
+   "birth_year": 1886,
+   "death_year": 1967,
+   "nationality": "中国",
+   "field": "仏教"
+  },
+  {
+   "name": "佛源",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "釈貫一",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "康薩仁波切",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "釈能海",
+   "type": "student_of",
+   "object": "佛源",
+   "role": "traditional teacher",
+   "place": "涪陵天宝寺",
+   "year_start": 1924,
+   "year_end": 1924,
+   "explicit": true,
+   "evidence": "1924年（民国13年）、39歳で涪陵天宝寺にて出家得度、佛源に師事",
+   "quote_ok": true
+  },
+  {
+   "subject": "釈能海",
+   "type": "student_of",
+   "object": "釈貫一",
+   "role": "traditional teacher",
+   "place": "成都市新都区の宝光寺",
+   "year_start": 1925,
+   "year_end": 1925,
+   "explicit": true,
+   "evidence": "1925年（民国13年）、成都市新都区の宝光寺の釈貫一のもとで具足戒を受ける",
+   "quote_ok": true
+  },
+  {
+   "subject": "釈能海",
+   "type": "student_of",
+   "object": "康薩仁波切",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": 1928,
+   "year_end": 1940,
+   "explicit": true,
+   "evidence": "1928年から1940年まで、西藏宗喀巴大師28代継承者の康薩仁波切に師事する",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 釈能海",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q15909583.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 釈能海",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

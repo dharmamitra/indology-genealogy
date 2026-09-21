@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Raniero Gnoli",
+   "birth_year": 1930,
+   "death_year": 2025,
+   "nationality": "Italian",
+   "field": "orientalist, indologist and historian of religion"
+  },
+  {
+   "name": "Giuseppe Tucci",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Mario Praz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gherardo Gnoli",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Raniero Gnoli",
+   "type": "student_of",
+   "object": "Giuseppe Tucci",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A student of Giuseppe Tucci and Mario Praz",
+   "quote_ok": true
+  },
+  {
+   "subject": "Raniero Gnoli",
+   "type": "student_of",
+   "object": "Mario Praz",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A student of Giuseppe Tucci and Mario Praz",
+   "quote_ok": true
+  },
+  {
+   "subject": "Raniero Gnoli",
+   "type": "position_at",
+   "object": "University of Rome La Sapienza",
+   "role": "Professor of Indology",
+   "place": null,
+   "year_start": 1964,
+   "year_end": 2000,
+   "explicit": true,
+   "evidence": "Raniero Gnoli was a Professor of Indology at the University of Rome La Sapienza from 1964 to 2000, as well as dean of the School of Oriental Studies at the same university.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Raniero Gnoli",
+   "type": "other",
+   "object": "Gherardo Gnoli",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Raniero Gnoli was the brother of Gherardo Gnoli who was the president of the Italian Institute for Africa and the East.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gherardo Gnoli",
+   "type": "position_at",
+   "object": "Italian Institute for Africa and the East",
+   "role": "president",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gherardo Gnoli who was the president of the Italian Institute for Africa and the East.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Raniero Gnoli",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q3930107.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Raniero Gnoli",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

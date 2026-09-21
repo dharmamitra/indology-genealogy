@@ -1,0 +1,148 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Johann Heinrich August Leskien",
+   "birth_year": 1840,
+   "death_year": 1916,
+   "nationality": "German",
+   "field": "Indogermanist und Slawist"
+  },
+  {
+   "name": "August Schleicher",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Aleksander Brückner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johann Heinrich August Leskien",
+   "type": "studied_at",
+   "object": "Kiel",
+   "role": null,
+   "place": "Kiel",
+   "year_start": 1860,
+   "year_end": 1864,
+   "explicit": true,
+   "evidence": "Leskien studierte von 1860 bis 1864 Klassische Philologie in Kiel und Leipzig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Heinrich August Leskien",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": "Dr. phil.",
+   "place": "Leipzig",
+   "year_start": 1860,
+   "year_end": 1864,
+   "explicit": true,
+   "evidence": "Leskien studierte von 1860 bis 1864 Klassische Philologie in Kiel und Leipzig. Die Promotion zum Dr. phil. erfolgte 1864 ebenda.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Heinrich August Leskien",
+   "type": "position_at",
+   "object": "Leipziger Thomasschule",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": 1864,
+   "year_end": 1866,
+   "explicit": true,
+   "evidence": "Von 1864 bis 1866 unterrichtete er Latein und Griechisch an der Leipziger Thomasschule.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Heinrich August Leskien",
+   "type": "student_of",
+   "object": "August Schleicher",
+   "role": "teacher",
+   "place": "Jena",
+   "year_start": 1866,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1866 begann er Studien der vergleichenden indogermanischen, baltischen und slawischen Sprachwissenschaft bei August Schleicher in Jena.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Heinrich August Leskien",
+   "type": "studied_at",
+   "object": "Jena",
+   "role": "Habilitation",
+   "place": "Jena",
+   "year_start": 1866,
+   "year_end": 1867,
+   "explicit": true,
+   "evidence": "1866 begann er Studien der vergleichenden indogermanischen, baltischen und slawischen Sprachwissenschaft bei August Schleicher in Jena. 1867 erfolgte die Habilitation",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Heinrich August Leskien",
+   "type": "position_at",
+   "object": "Universität Göttingen",
+   "role": "Privatdozent",
+   "place": "Göttingen",
+   "year_start": 1867,
+   "year_end": 1868,
+   "explicit": true,
+   "evidence": "1867 erfolgte die Habilitation und der Wechsel an die Universität Göttingen als Privatdozent.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Heinrich August Leskien",
+   "type": "position_at",
+   "object": "Jena",
+   "role": "außerordentlichen Professor der vergleichenden Sprachkunde und des Sanskrit",
+   "place": "Jena",
+   "year_start": 1868,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bereits ein Jahr später, 1868, wurde er zum außerordentlichen Professor der vergleichenden Sprachkunde und des Sanskrit in Jena ernannt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Heinrich August Leskien",
+   "type": "position_at",
+   "object": "Leipzig",
+   "role": "außerordentlicher Professor für Slawistik / Ordinarius",
+   "place": "Leipzig",
+   "year_start": 1870,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ab 1870 lehrte er als außerordentlicher Professor für Slawistik in Leipzig ... Seine Ernennung zum Ordinarius erfolgte 1876.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Aleksander Brückner",
+   "type": "student_of",
+   "object": "Johann Heinrich August Leskien",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": 1877,
+   "explicit": true,
+   "evidence": "1877 widmete Aleksander Brückner sein Buch Die slavischen Lehnwörter im Litauischen seinem „hochvererten lerer August Leskien“.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): August Leskien",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q65314.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): August Leskien",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

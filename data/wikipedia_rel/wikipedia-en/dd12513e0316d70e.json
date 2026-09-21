@@ -1,0 +1,160 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Heinrich Blochmann",
+   "birth_year": 1838,
+   "death_year": 1878,
+   "nationality": "German",
+   "field": "orientalist and scholar of Persian language and literature"
+  },
+  {
+   "name": "Heinrich Leberecht Fleischer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "William Nassau Lees",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Heinrich Blochmann",
+   "type": "studied_at",
+   "object": "Kreuzschule",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was educated at the Kreuzschule and the University of Leipzig (1855)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Blochmann",
+   "type": "studied_at",
+   "object": "University of Leipzig",
+   "role": null,
+   "place": null,
+   "year_start": 1855,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was educated at the Kreuzschule and the University of Leipzig (1855), where he studied oriental languages under Heinrich Leberecht Fleischer",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Blochmann",
+   "type": "student_of",
+   "object": "Heinrich Leberecht Fleischer",
+   "role": "teacher",
+   "place": "University of Leipzig",
+   "year_start": 1855,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "where he studied oriental languages under Heinrich Leberecht Fleischer",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Nassau Lees",
+   "type": "position_at",
+   "object": "Calcutta Madrasa",
+   "role": "principal",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "William Nassau Lees, the principal of the Calcutta Madrasa (now Aliah University)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Blochmann",
+   "type": "other",
+   "object": "William Nassau Lees",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was befriended by William Nassau Lees, the principal of the Calcutta Madrasa",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Blochmann",
+   "type": "position_at",
+   "object": "Calcutta Madrasa",
+   "role": "assistant professor of Arabic and Persian",
+   "place": "Calcutta",
+   "year_start": 1860,
+   "year_end": 1862,
+   "explicit": true,
+   "evidence": "his first government appointment (1860) as assistant professor of Arabic and Persian there. In 1861 he graduated M.A. and LL.D. at the University of Calcutta... In the following year he left the Madrasa",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Blochmann",
+   "type": "studied_at",
+   "object": "University of Calcutta",
+   "role": "M.A. and LL.D.",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": 1861,
+   "explicit": true,
+   "evidence": "In 1861 he graduated M.A. and LL.D. at the University of Calcutta, choosing Hebrew for the subject of his examination.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Blochmann",
+   "type": "position_at",
+   "object": "Doveton College",
+   "role": "pro-rector and professor of mathematics",
+   "place": null,
+   "year_start": 1862,
+   "year_end": 1865,
+   "explicit": true,
+   "evidence": "In the following year he left the Madrasa to become pro-rector and professor of mathematics, at Doveton College; but returning to the Madrasa in 1865",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Blochmann",
+   "type": "position_at",
+   "object": "Calcutta Madrasa",
+   "role": "principal",
+   "place": "Calcutta",
+   "year_start": 1865,
+   "year_end": 1878,
+   "explicit": true,
+   "evidence": "returning to the Madrasa in 1865, he remained there for the rest of his life, and was principal when he died.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Blochmann",
+   "type": "position_at",
+   "object": "Asiatic Society of Bengal",
+   "role": "philological secretary",
+   "place": "Calcutta",
+   "year_start": 1868,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1868 he became philological secretary to the Asiatic Society of Bengal.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Heinrich Blochmann",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1596766.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Heinrich Blochmann",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

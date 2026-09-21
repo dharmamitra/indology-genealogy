@@ -1,0 +1,145 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Chögyam Trungpa",
+   "birth_year": 1939,
+   "death_year": 1987,
+   "nationality": "Tibetan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Jamgon Kongtrul of Sechen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": null
+  },
+  {
+   "name": "Dilgo Khyentse Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": null
+  },
+  {
+   "name": "Khenpo Gangshar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": null
+  },
+  {
+   "name": "Francisco Varela",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Francesca Fremantle",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Chögyam Trungpa",
+   "type": "student_of",
+   "object": "Jamgon Kongtrul of Sechen",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among his three main teachers were Jamgon Kongtrul of Sechen, HH Dilgo Khyentse Rinpoche, and Khenpo Gangshar.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chögyam Trungpa",
+   "type": "student_of",
+   "object": "Dilgo Khyentse Rinpoche",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among his three main teachers were Jamgon Kongtrul of Sechen, HH Dilgo Khyentse Rinpoche, and Khenpo Gangshar.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chögyam Trungpa",
+   "type": "student_of",
+   "object": "Khenpo Gangshar",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among his three main teachers were Jamgon Kongtrul of Sechen, HH Dilgo Khyentse Rinpoche, and Khenpo Gangshar.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chögyam Trungpa",
+   "type": "studied_at",
+   "object": "St Antony's College, at Oxford University",
+   "role": null,
+   "place": "Oxford",
+   "year_start": 1963,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1963, with the assistance of Bedi and other sympathetic Westerners, Trungpa received a grant from the Spalding Trust to spend time at Oxford, and was granted \"common room\" access to St Antony's College, at Oxford University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chögyam Trungpa",
+   "type": "founded",
+   "object": "Naropa Institute",
+   "role": null,
+   "place": "Boulder, Colorado",
+   "year_start": 1974,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1974, Trungpa founded the Naropa Institute, which later became Naropa University, in Boulder, Colorado.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francisco Varela",
+   "type": "student_of",
+   "object": "Chögyam Trungpa",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Trungpa had a number of notable students, among whom were Pema Chödrön, Allen Ginsberg, Peter Orlovsky, Anne Waldman, Diane di Prima, Peter Lieberson, John Steinbeck IV, José Argüelles, David Nichtern, Ken Wilber, David Deida, Francisco Varela",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francesca Fremantle",
+   "type": "student_of",
+   "object": "Chögyam Trungpa",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Lesser-known students Trungpa taught in England and the US include Alf Vial, Rigdzin Shikpo (né Michael Hookham), Jigme Rinzen (né P. Howard Useche), Karma Tendzin Dorje (né Mike Crowley), Ezequiel Hernandez Urdaneta (known as Keun-Tshen Goba after setting up his first meditation center in Venezuela), Miguel Otaola (aka Dorje Khandro), Francisco Salas Roche, German financier Burkhard Brauch (aka Chugai Keisho), and Francesca Fremantle.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Chögyam Trungpa",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q548323.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Chögyam Trungpa",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Shenphen Nangwa",
+   "birth_year": 1871,
+   "death_year": 1927,
+   "nationality": "tibetisch",
+   "field": "tibetischer Buddhismus"
+  },
+  {
+   "name": "Patrul Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Shenphen Nangwa",
+   "type": "student_of",
+   "object": "Patrul Rinpoche",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er war ein Schüler von Patrul Rinpoche.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shenphen Nangwa",
+   "type": "position_at",
+   "object": "monastische Kolleg Shri Singha des Dzogchen-Klosters",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Eine seiner Wirkungsstätten war das monastische Kolleg Shri Singha des Dzogchen-Klosters.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Shenphen Nangwa",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q2278091.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Shenphen Nangwa",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

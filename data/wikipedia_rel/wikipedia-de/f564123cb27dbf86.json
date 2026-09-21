@@ -1,0 +1,74 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Friedrich Hirth",
+   "birth_year": 1845,
+   "death_year": 1927,
+   "nationality": "deutsch-amerikanisch",
+   "field": "Sinologe und Historiker"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Friedrich Hirth",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er studierte in Leipzig, Berlin und Greifswald (Dissertation 1869).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Hirth",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er studierte in Leipzig, Berlin und Greifswald (Dissertation 1869).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Hirth",
+   "type": "studied_at",
+   "object": "Greifswald",
+   "role": "Dissertation",
+   "place": null,
+   "year_start": null,
+   "year_end": 1869,
+   "explicit": true,
+   "evidence": "Er studierte in Leipzig, Berlin und Greifswald (Dissertation 1869).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Hirth",
+   "type": "position_at",
+   "object": "Columbia University",
+   "role": "Lehrstuhl für Chinesisch",
+   "place": "New York City",
+   "year_start": 1902,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1902 wurde er auf den neu gegründeten Lehrstuhl für Chinesisch der Columbia University in New York City berufen",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Friedrich Hirth (Sinologe)",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q252527.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Friedrich Hirth (Sinologe)",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

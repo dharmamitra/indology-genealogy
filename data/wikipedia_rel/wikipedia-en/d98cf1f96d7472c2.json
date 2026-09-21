@@ -1,0 +1,145 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Walter Nowick",
+   "birth_year": 1926,
+   "death_year": 2013,
+   "nationality": "American",
+   "field": "Rinzai Zen"
+  },
+  {
+   "name": "Henriette Michaelson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Zuigan Gotō",
+   "birth_year": null,
+   "death_year": 1965,
+   "nationality": "Japanese",
+   "field": "Rinzai Zen"
+  },
+  {
+   "name": "Janwillem van de Wetering",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sōkō Morinaga",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Rinzai Zen"
+  },
+  {
+   "name": "Oda Sessō",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Rinzai Zen"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Walter Nowick",
+   "type": "studied_at",
+   "object": "Juilliard School",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He showed an early talent for music and studied piano at Juilliard School with Henriette Michaelson.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Nowick",
+   "type": "student_of",
+   "object": "Henriette Michaelson",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied piano at Juilliard School with Henriette Michaelson.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Nowick",
+   "type": "student_of",
+   "object": "Zuigan Gotō",
+   "role": "traditional teacher",
+   "place": "Daitoku-ji",
+   "year_start": 1950,
+   "year_end": 1965,
+   "explicit": true,
+   "evidence": "Nowick went to Japan in 1950 to study Zen with Zuigan Gotō of Daitoku-ji. Nowick stayed in Japan for around 16 years until Zuigan Gotō's death in 1965.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Nowick",
+   "type": "position_at",
+   "object": "Kyoto Women's University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "During Nowick's years in Japan he supported himself teaching piano and voice at the Kyoto Women's University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sōkō Morinaga",
+   "type": "student_of",
+   "object": "Zuigan Gotō",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Three students of Zuigan Gotō are listed: Oda Sessō, Sōkō Morinaga and Walter Nowick.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Oda Sessō",
+   "type": "student_of",
+   "object": "Zuigan Gotō",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Three students of Zuigan Gotō are listed: Oda Sessō, Sōkō Morinaga and Walter Nowick.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Nowick",
+   "type": "founded",
+   "object": "Moonspring Hermitage",
+   "role": null,
+   "place": "Surry, Maine",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then returned to the United States to teach music and Zen in Surry, Maine, where he founded Moonspring Hermitage.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Walter Nowick",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q7965732.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Walter Nowick",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

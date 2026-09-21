@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ゲーリー・スナイダー",
+   "birth_year": 1930,
+   "death_year": null,
+   "nationality": "アメリカ合衆国",
+   "field": null
+  },
+  {
+   "name": "ミウラ・イッシュウ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "日本",
+   "field": null
+  },
+  {
+   "name": "織田節叟",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "日本",
+   "field": null
+  },
+  {
+   "name": "フィリップ・ヤンポルスキー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "英文学"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ゲーリー・スナイダー",
+   "type": "studied_at",
+   "object": "リード大学",
+   "role": "学士号",
+   "place": "ポートランド",
+   "year_start": 1947,
+   "year_end": 1951,
+   "explicit": true,
+   "evidence": "1947年、奨学金を得てオレゴン州ポートランドのリード大学に入学したスナイダーは、... 1951年に文学と人類学の学士号を取得して卒業した後",
+   "quote_ok": true
+  },
+  {
+   "subject": "ゲーリー・スナイダー",
+   "type": "studied_at",
+   "object": "インディアナ大学",
+   "role": null,
+   "place": null,
+   "year_start": 1951,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "インディアナ大学で人類学の大学院研究を試みたが、一学期で退学し詩人として立つ決意を固めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ゲーリー・スナイダー",
+   "type": "studied_at",
+   "object": "カリフォルニア大学バークレー校",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "その後、カリフォルニア大学バークレー校の東洋語・東洋文明プログラムで日本語と中国語を修学し、詩の発表を続けた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ゲーリー・スナイダー",
+   "type": "student_of",
+   "object": "ミウラ・イッシュウ",
+   "role": "traditional teacher",
+   "place": "京都の相国寺・臨光院",
+   "year_start": 1956,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "京都の相国寺・臨光院でミウラ・イッシュウ禅師のもとに入門した後",
+   "quote_ok": true
+  },
+  {
+   "subject": "ゲーリー・スナイダー",
+   "type": "student_of",
+   "object": "織田節叟",
+   "role": "traditional teacher",
+   "place": "大徳寺",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "大徳寺の織田節叟老師（大徳寺住職）の最初の外国人弟子となった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ゲーリー・スナイダー",
+   "type": "collaborated_with",
+   "object": "フィリップ・ヤンポルスキー",
+   "role": null,
+   "place": "京都",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "京都を拠点に禅修行に励む傍ら、英文学者フィリップ・ヤンポルスキーとの交流を通じて禅の学術的側面も深めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ゲーリー・スナイダー",
+   "type": "position_at",
+   "object": "カリフォルニア大学デービス校",
+   "role": "名誉教授",
+   "place": null,
+   "year_start": 1986,
+   "year_end": 2002,
+   "explicit": true,
+   "evidence": "1986年にカリフォルニア大学デービス校英語学部に着任し、創作詩、ウィルダネス文学、エスノポエティクス（民族詩学）などの科目を担当した。2002年に名誉教授として退職した。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ゲーリー・スナイダー",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q315963.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ゲーリー・スナイダー",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

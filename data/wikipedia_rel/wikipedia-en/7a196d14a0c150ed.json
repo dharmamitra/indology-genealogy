@@ -1,0 +1,136 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ernest Sosa",
+   "birth_year": 1940,
+   "death_year": null,
+   "nationality": "American",
+   "field": "philosophy"
+  },
+  {
+   "name": "Nicholas Rescher",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  },
+  {
+   "name": "David Sosa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ernest Sosa",
+   "type": "studied_at",
+   "object": "University of Miami",
+   "role": "BA and MA",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sosa earned his BA and MA from the University of Miami",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernest Sosa",
+   "type": "studied_at",
+   "object": "University of Pittsburgh",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 1964,
+   "explicit": true,
+   "evidence": "and his PhD from the University of Pittsburgh in 1964.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernest Sosa",
+   "type": "student_of",
+   "object": "Nicholas Rescher",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1964,
+   "explicit": true,
+   "evidence": "His dissertation was supervised by Nicholas Rescher.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernest Sosa",
+   "type": "position_at",
+   "object": "Brown University",
+   "role": "faculty",
+   "place": null,
+   "year_start": 1964,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "having taught at Brown University since 1964.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernest Sosa",
+   "type": "position_at",
+   "object": "Rutgers University",
+   "role": "distinguished visiting professor",
+   "place": null,
+   "year_start": 1998,
+   "year_end": 2006,
+   "explicit": true,
+   "evidence": "While full-time at Brown, he was also a distinguished visiting professor at Rutgers every spring from 1998 to 2006.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernest Sosa",
+   "type": "position_at",
+   "object": "Rutgers University",
+   "role": "Board of Governors Professor of Philosophy",
+   "place": null,
+   "year_start": 2007,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "since 2007 he has been Board of Governors Professor of Philosophy at Rutgers University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "David Sosa",
+   "type": "other",
+   "object": "Ernest Sosa",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His son, David Sosa, is a professor and chair of the philosophy department at the University of Texas, Austin",
+   "quote_ok": true
+  },
+  {
+   "subject": "David Sosa",
+   "type": "position_at",
+   "object": "University of Texas, Austin",
+   "role": "professor and chair of the philosophy department",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His son, David Sosa, is a professor and chair of the philosophy department at the University of Texas, Austin",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Ernest Sosa",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1356547.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Ernest Sosa",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

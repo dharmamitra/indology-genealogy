@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John Muir",
+   "birth_year": 1810,
+   "death_year": 1882,
+   "nationality": "schottisch",
+   "field": "Sanskrit-Forscher und Indologe"
+  },
+  {
+   "name": "William Muir",
+   "birth_year": 1819,
+   "death_year": 1905,
+   "nationality": null,
+   "field": "Orientalist und Islamwissenschaftler"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Muir",
+   "type": "other",
+   "object": "William Muir",
+   "role": "older brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "John Muir war der ältere Bruder des Orientalisten und Islamwissenschaftlers William Muir (1819–1905).",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Muir",
+   "type": "studied_at",
+   "object": "Universität Glasgow",
+   "role": null,
+   "place": "Glasgow",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Seine Ausbildung erhielt John Muir an der Universität Glasgow und am East India College zu Haileybury bei Hertford.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Muir",
+   "type": "studied_at",
+   "object": "East India College zu Haileybury",
+   "role": null,
+   "place": "Haileybury bei Hertford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Seine Ausbildung erhielt John Muir an der Universität Glasgow und am East India College zu Haileybury bei Hertford.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Muir",
+   "type": "founded",
+   "object": "Professur für Sanskrit und vergleichende Sprachwissenschaft an der Universität zu Edinburg",
+   "role": null,
+   "place": "Edinburg",
+   "year_start": 1862,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Großes Verdienst erwarb er sich 1862 um die Gründung einer Professur für Sanskrit und vergleichende Sprachwissenschaft an der Universität zu Edinburg",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): John Muir (Indologe)",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q2075814.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): John Muir (Indologe)",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

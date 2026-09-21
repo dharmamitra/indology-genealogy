@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "トーマス・スタンフォード・ラッフルズ",
+   "birth_year": 1781,
+   "death_year": 1826,
+   "nationality": "イギリス",
+   "field": "東南アジアの歴史・文化研究"
+  },
+  {
+   "name": "ジョセフ・アーノルド",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "博物学"
+  },
+  {
+   "name": "ウィリアム・ジャック",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "植物学"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "トーマス・スタンフォード・ラッフルズ",
+   "type": "position_at",
+   "object": "東インド会社",
+   "role": "職員",
+   "place": "ロンドン",
+   "year_start": 1795,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1795年、14歳よりロンドンの東インド会社で職員として働き始めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "トーマス・スタンフォード・ラッフルズ",
+   "type": "position_at",
+   "object": "ジャワ",
+   "role": "Lieutenant-governor（副総督、準知事）",
+   "place": null,
+   "year_start": 1811,
+   "year_end": 1816,
+   "explicit": true,
+   "evidence": "ジャワの Lieutenant-governor（副総督、準知事）に任命され、統治に当たった。...1816年にジャワ島がオランダに返還され、ラッフルズはイギリスに帰国した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "トーマス・スタンフォード・ラッフルズ",
+   "type": "position_at",
+   "object": "ベンクーレン",
+   "role": "Lieutenant-governor（準知事）",
+   "place": null,
+   "year_start": 1818,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1818年、スマトラにあったイギリス東インド会社の植民地ベンクーレン（ブンクル）に、ベンクーレンの Lieutenant-governor（準知事）として赴任した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "トーマス・スタンフォード・ラッフルズ",
+   "type": "collaborated_with",
+   "object": "ジョセフ・アーノルド",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "発見した調査隊の隊長であったラッフルズの名にちなんでつけられたものである。また、種の学名「ラフレシア・アルノルディイ」 (Rafflesia arnoldii R.Br.) は、ラッフルズと同調査隊に同行した博物学者ジョセフ・アーノルドにちなんで名づけられている。",
+   "quote_ok": true
+  },
+  {
+   "subject": "トーマス・スタンフォード・ラッフルズ",
+   "type": "collaborated_with",
+   "object": "ウィリアム・ジャック",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ラッフルズの植物学研究の協力者ウィリアム・ジャックによれば",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): トーマス・ラッフルズ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q130327.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): トーマス・ラッフルズ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

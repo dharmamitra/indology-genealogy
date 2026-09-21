@@ -1,0 +1,143 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Keiji Nishitani",
+   "birth_year": 1900,
+   "death_year": 1990,
+   "nationality": "Japanese",
+   "field": "philosopher"
+  },
+  {
+   "name": "Kitarō Nishida",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  },
+  {
+   "name": "Tanabe Hajime",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  },
+  {
+   "name": "Martin Heidegger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Keiji Nishitani",
+   "type": "student_of",
+   "object": "Kitarō Nishida",
+   "role": null,
+   "place": "Kyoto Imperial University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a scholar of the Kyoto School and a disciple of Kitarō Nishida.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Keiji Nishitani",
+   "type": "studied_at",
+   "object": "Kyoto Imperial University",
+   "role": "doctorate",
+   "place": null,
+   "year_start": null,
+   "year_end": 1924,
+   "explicit": true,
+   "evidence": "In 1924, Nishitani received his doctorate from Kyoto Imperial University for his dissertation \"Das Ideale und das Reale bei Schelling und Bergson\".",
+   "quote_ok": true
+  },
+  {
+   "subject": "Keiji Nishitani",
+   "type": "student_of",
+   "object": "Martin Heidegger",
+   "role": null,
+   "place": "Freiburg",
+   "year_start": 1937,
+   "year_end": 1939,
+   "explicit": true,
+   "evidence": "He studied under Martin Heidegger in Freiburg from 1937 to 1939.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Keiji Nishitani",
+   "type": "student_of",
+   "object": "Tanabe Hajime",
+   "role": null,
+   "place": "Kyoto Imperial University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he enrolled into the philosophy department of the Kyoto Imperial University, where he studied under Nishida Kitarō and Tanabe Hajime",
+   "quote_ok": true
+  },
+  {
+   "subject": "Keiji Nishitani",
+   "type": "position_at",
+   "object": "Ôtani University",
+   "role": "lectureship",
+   "place": null,
+   "year_start": null,
+   "year_end": 1935,
+   "explicit": true,
+   "evidence": "After his graduation in 1924 he taught philosophy at local highschools for eight years and assumed a lectureship in the Ôtani University until 1935.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Keiji Nishitani",
+   "type": "studied_at",
+   "object": "University of Freiburg",
+   "role": null,
+   "place": "Freiburg",
+   "year_start": 1937,
+   "year_end": 1939,
+   "explicit": true,
+   "evidence": "appointed to go to the University of Freiburg, where he spent two years studying under Heidegger.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Keiji Nishitani",
+   "type": "position_at",
+   "object": "Kyoto University",
+   "role": "principal Chair of Philosophy and Religion",
+   "place": null,
+   "year_start": 1943,
+   "year_end": 1964,
+   "explicit": true,
+   "evidence": "Nishitani held the principal Chair of Philosophy and Religion at Kyoto University from 1943 until becoming emeritus in 1964.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Keiji Nishitani",
+   "type": "position_at",
+   "object": "Ōtani University",
+   "role": null,
+   "place": null,
+   "year_start": 1964,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He then taught philosophy and religion at Ōtani University.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Keiji Nishitani",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1993564.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Keiji Nishitani",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

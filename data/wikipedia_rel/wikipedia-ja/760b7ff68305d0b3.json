@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "モーリッツ・アブラハム・シュテルン",
+   "birth_year": 1807,
+   "death_year": 1894,
+   "nationality": "ドイツ",
+   "field": "数学"
+  },
+  {
+   "name": "カール・フリードリヒ・ガウス",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ベルンハルト・リーマン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "フェルディナント・アイゼンシュタイン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "モーリッツ・アブラハム・シュテルン",
+   "type": "position_at",
+   "object": "ゲッティンゲン大学",
+   "role": "正教授",
+   "place": null,
+   "year_start": 1858,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1858年にゲッティンゲン大学でカール・フリードリヒ・ガウスの後任として正教授となった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "モーリッツ・アブラハム・シュテルン",
+   "type": "succeeded",
+   "object": "カール・フリードリヒ・ガウス",
+   "role": "正教授",
+   "place": "ゲッティンゲン大学",
+   "year_start": 1858,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1858年にゲッティンゲン大学でカール・フリードリヒ・ガウスの後任として正教授となった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ベルンハルト・リーマン",
+   "type": "student_of",
+   "object": "モーリッツ・アブラハム・シュテルン",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "大学教授として、シュテルンはガウスの生徒でもあったベルンハルト・リーマンを教えた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ベルンハルト・リーマン",
+   "type": "student_of",
+   "object": "カール・フリードリヒ・ガウス",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ガウスの生徒でもあったベルンハルト・リーマン",
+   "quote_ok": true
+  },
+  {
+   "subject": "モーリッツ・アブラハム・シュテルン",
+   "type": "collaborated_with",
+   "object": "フェルディナント・アイゼンシュタイン",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "また、フェルディナント・アイゼンシュタインの平方剰余の相互法則の証明の定式化に協力した。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): モーリッツ・アブラハム・シュテルン",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q77510.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): モーリッツ・アブラハム・シュテルン",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

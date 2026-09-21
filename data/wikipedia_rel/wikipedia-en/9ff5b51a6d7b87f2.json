@@ -1,0 +1,93 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Vincent Arthur Smith",
+   "birth_year": 1843,
+   "death_year": 1920,
+   "nationality": "Irish",
+   "field": "Indology"
+  },
+  {
+   "name": "Alois Anton Führer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Vincent Arthur Smith",
+   "type": "studied_at",
+   "object": "Trinity College Dublin",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After graduating from Trinity College Dublin, he passed the final examination for the Indian Civil Service in 1871",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vincent Arthur Smith",
+   "type": "studied_at",
+   "object": "Trinity College Dublin",
+   "role": "doctorate",
+   "place": null,
+   "year_start": null,
+   "year_end": 1919,
+   "explicit": true,
+   "evidence": "Smith was honoured with the award of Companion of the Order of the Indian Empire and awarded a doctorate by Trinity College Dublin in 1919.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vincent Arthur Smith",
+   "type": "position_at",
+   "object": "St John's College",
+   "role": null,
+   "place": "Oxford",
+   "year_start": 1910,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "by 1910 Smith was settled in Oxford where he joined St John's College",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vincent Arthur Smith",
+   "type": "position_at",
+   "object": "Indian Institute",
+   "role": "Curator",
+   "place": "Oxford",
+   "year_start": 1910,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "by 1910 Smith was settled in Oxford where he joined St John's College and was appointed a Curator of the Indian Institute.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alois Anton Führer",
+   "type": "position_at",
+   "object": "Archaeological Survey of India",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "exposing the forgeries of Alois Anton Führer, then working for the Archaeological Survey of India",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Vincent Arthur Smith",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q2526510.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Vincent Arthur Smith",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "康有為",
+   "birth_year": 1858,
+   "death_year": 1927,
+   "nationality": "中国",
+   "field": "思想・政治・書道"
+  },
+  {
+   "name": "朱次琦",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "中国",
+   "field": "儒学"
+  },
+  {
+   "name": "梁啓超",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "中国",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "康有為",
+   "type": "student_of",
+   "object": "朱次琦",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "広東の名儒朱次琦につき漢宋兼採の儒学を学ぶも飽きたらず",
+   "quote_ok": true
+  },
+  {
+   "subject": "梁啓超",
+   "type": "student_of",
+   "object": "康有為",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "その日本で同じく亡命してきた愛弟子梁啓超と邂逅を果たすのである。",
+   "quote_ok": true
+  },
+  {
+   "subject": "康有為",
+   "type": "founded",
+   "object": "万木草堂",
+   "role": null,
+   "place": "広州",
+   "year_start": 1890,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1890年、郷里にほど近い広州に私塾万木草堂を開いて自分の教えを子弟に授け始め",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 康有為",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q360135.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 康有為",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

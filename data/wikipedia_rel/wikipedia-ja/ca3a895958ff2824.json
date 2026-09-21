@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "アンリ・ピレンヌ",
+   "birth_year": 1862,
+   "death_year": 1935,
+   "nationality": "ベルギー",
+   "field": "歴史家"
+  },
+  {
+   "name": "カール・ゴットハルト・ランプレヒト",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ゾンバルト",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "アンリ・ピレンヌ",
+   "type": "studied_at",
+   "object": "リエージュ大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "リエージュ大学で学ぶ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アンリ・ピレンヌ",
+   "type": "influenced_by",
+   "object": "カール・ゴットハルト・ランプレヒト",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "カール・ゴットハルト・ランプレヒトのドイツ中世経済史研究に刺激を受ける。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アンリ・ピレンヌ",
+   "type": "position_at",
+   "object": "ヘント大学",
+   "role": "教授",
+   "place": null,
+   "year_start": 1886,
+   "year_end": 1931,
+   "explicit": true,
+   "evidence": "1886年に24歳の若さでヘント大学教授に就任し、それ以来1931年までこの大学を離れることがなかった。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): アンリ・ピレンヌ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q312501.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): アンリ・ピレンヌ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

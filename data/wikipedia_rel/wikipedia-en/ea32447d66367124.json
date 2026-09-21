@@ -1,0 +1,150 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sylvain Lévi",
+   "birth_year": 1863,
+   "death_year": 1935,
+   "nationality": "French",
+   "field": "oriental studies and India"
+  },
+  {
+   "name": "Paul Pelliot",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Marcel Mauss",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Suzanne Karpelès",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "René Guénon",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sylvain Lévi",
+   "type": "position_at",
+   "object": "École pratique des hautes études",
+   "role": "taught Sanskrit and Indian religions",
+   "place": "Paris, France",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He taught Sanskrit and Indian religions at the École pratique des hautes études in Paris, France.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Pelliot",
+   "type": "student_of",
+   "object": "Sylvain Lévi",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "One of his notable students was Paul Pelliot.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Marcel Mauss",
+   "type": "influenced_by",
+   "object": "Sylvain Lévi",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Lévi exerted a significant influence on the life and thought of Marcel Mauss",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sylvain Lévi",
+   "type": "founded",
+   "object": "École française d'Extrême-Orient",
+   "role": "co-founder",
+   "place": "Hanoi",
+   "year_start": 1902,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sylvain Lévi was a co-founder of the École française d'Extrême-Orient in Hanoi.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Suzanne Karpelès",
+   "type": "student_of",
+   "object": "Sylvain Lévi",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "One of his students, Suzanne Karpelès, the first female member of EFEO, joined him there in 1922",
+   "quote_ok": true
+  },
+  {
+   "subject": "Suzanne Karpelès",
+   "type": "position_at",
+   "object": "École française d'Extrême-Orient",
+   "role": "member",
+   "place": "French Indochina",
+   "year_start": 1922,
+   "year_end": 1941,
+   "explicit": true,
+   "evidence": "Suzanne Karpelès, the first female member of EFEO, joined him there in 1922 and remained in French Indochina until 1941.",
+   "quote_ok": true
+  },
+  {
+   "subject": "René Guénon",
+   "type": "student_of",
+   "object": "Sylvain Lévi",
+   "role": "thesis delivered to Lévi and rejected",
+   "place": "Sorbonne",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "That was a thesis delivered to Lévi at the Sorbonne and rejected.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sylvain Lévi",
+   "type": "position_at",
+   "object": "Sorbonne",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "That was a thesis delivered to Lévi at the Sorbonne and rejected.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Sylvain Lévi",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q725444.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Sylvain Lévi",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Arthur Coke Burnell",
+   "birth_year": 1840,
+   "death_year": 1882,
+   "nationality": "English",
+   "field": "Sanskrit and Dravidian languages"
+  },
+  {
+   "name": "Henry Yule",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Viggo Fausböll",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Theodor Goldstücker",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Arthur Coke Burnell",
+   "type": "collaborated_with",
+   "object": "Henry Yule",
+   "role": "co-compiler",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was, with Henry Yule, a co-compiler of the Hobson-Jobson, a compendium of Anglo-Indian terms.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Coke Burnell",
+   "type": "studied_at",
+   "object": "Bedford School",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was educated at Bedford School",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Coke Burnell",
+   "type": "studied_at",
+   "object": "King's College, London",
+   "role": null,
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and then went to King's College, London",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Coke Burnell",
+   "type": "influenced_by",
+   "object": "Viggo Fausböll",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "a meeting with Professor Viggo Fausböll of Copenhagen led him to an early interest in Indology.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Coke Burnell",
+   "type": "student_of",
+   "object": "Theodor Goldstücker",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": 1860,
+   "explicit": true,
+   "evidence": "after studies in Sanskrit and Telugu with Theodor Goldstücker went to take up a post in the Madras Presidency in 1860.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Arthur Coke Burnell",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q4798305.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Arthur Coke Burnell",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

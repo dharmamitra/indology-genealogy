@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ajahn Brahm",
+   "birth_year": 1951,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ajahn Chah Bodhinyana Mahathera",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ajahn Brahm",
+   "type": "studied_at",
+   "object": "Universität Cambridge",
+   "role": null,
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "bekam er ein Stipendium für Theoretische Physik an der Universität Cambridge und studierte dort in den frühen 1970er Jahren",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ajahn Brahm",
+   "type": "student_of",
+   "object": "Ajahn Chah Bodhinyana Mahathera",
+   "role": "traditional teacher",
+   "place": "Thailand",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studierte anschließend neun Jahre bei einem legendären Meditationsmeister, Ajahn Chah Bodhinyana Mahathera.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Ajahn Brahm",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q411903.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Ajahn Brahm",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

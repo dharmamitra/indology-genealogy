@@ -1,0 +1,150 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "熊十力",
+   "birth_year": 1885,
+   "death_year": 1968,
+   "nationality": "中国",
+   "field": "哲学"
+  },
+  {
+   "name": "欧陽竟無",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "仏教学"
+  },
+  {
+   "name": "牟宗三",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "唐君毅",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "徐復観",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "熊十力",
+   "type": "studied_at",
+   "object": "支那内学院",
+   "role": null,
+   "place": "南京",
+   "year_start": 1920,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1920年、南京の支那内学院に入り、欧陽竟無大師について仏教学を研習した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "熊十力",
+   "type": "student_of",
+   "object": "欧陽竟無",
+   "role": "teacher",
+   "place": "南京",
+   "year_start": 1920,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1920年、南京の支那内学院に入り、欧陽竟無大師について仏教学を研習した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "熊十力",
+   "type": "position_at",
+   "object": "文華大学",
+   "role": null,
+   "place": "武昌",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "その後、武昌の文華大学、天津の南開中学、北京大学、浙江大学で教鞭を執った。",
+   "quote_ok": true
+  },
+  {
+   "subject": "熊十力",
+   "type": "position_at",
+   "object": "北京大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "その後、武昌の文華大学、天津の南開中学、北京大学、浙江大学で教鞭を執った。",
+   "quote_ok": true
+  },
+  {
+   "subject": "熊十力",
+   "type": "position_at",
+   "object": "浙江大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "その後、武昌の文華大学、天津の南開中学、北京大学、浙江大学で教鞭を執った。",
+   "quote_ok": true
+  },
+  {
+   "subject": "牟宗三",
+   "type": "student_of",
+   "object": "熊十力",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "熊十力の三大弟子といわれる牟宗三・唐君毅・徐復観は、熊十力と異なり大陸を逃れ、香港や台湾で活躍した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "唐君毅",
+   "type": "student_of",
+   "object": "熊十力",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "熊十力の三大弟子といわれる牟宗三・唐君毅・徐復観は、熊十力と異なり大陸を逃れ、香港や台湾で活躍した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "徐復観",
+   "type": "student_of",
+   "object": "熊十力",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "熊十力の三大弟子といわれる牟宗三・唐君毅・徐復観は、熊十力と異なり大陸を逃れ、香港や台湾で活躍した。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 熊十力",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q699536.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 熊十力",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

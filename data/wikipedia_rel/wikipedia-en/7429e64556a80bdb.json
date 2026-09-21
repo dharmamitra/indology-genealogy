@@ -1,0 +1,126 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Heinrich Kiepert",
+   "birth_year": 1818,
+   "death_year": 1899,
+   "nationality": "German",
+   "field": "geographer"
+  },
+  {
+   "name": "Leopold von Ranke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "August Meineke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Carl Ritter",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Richard Kiepert",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "cartographer"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Heinrich Kiepert",
+   "type": "influenced_by",
+   "object": "Leopold von Ranke",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His family was friends with Leopold von Ranke, who inspired Kiepert's creative endeavors.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Kiepert",
+   "type": "student_of",
+   "object": "August Meineke",
+   "role": "teacher",
+   "place": "school",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Kiepert was taught by August Meineke in school. Meineke influenced Kiepert's interest in classical antiquity.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Kiepert",
+   "type": "studied_at",
+   "object": "Humboldt University of Berlin",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He attended Humboldt University of Berlin. He studied history, philology, and geography.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Kiepert",
+   "type": "collaborated_with",
+   "object": "Carl Ritter",
+   "role": null,
+   "place": null,
+   "year_start": 1840,
+   "year_end": 1840,
+   "explicit": true,
+   "evidence": "He published his first geographical work, with Carl Ritter, in 1840, titled Atlas von Hellas und den hellenischen Kolonien.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Kiepert",
+   "type": "position_at",
+   "object": "University of Humboldt-Berlin",
+   "role": null,
+   "place": null,
+   "year_start": 1854,
+   "year_end": 1899,
+   "explicit": true,
+   "evidence": "Kiepert taught geography at the University of Humboldt-Berlin starting in 1854. He taught at the university until his death.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Kiepert",
+   "type": "other",
+   "object": "Heinrich Kiepert",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His son, cartographer Richard Kiepert published remaining works by Kiepert after his death",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Heinrich Kiepert",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q65958.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Heinrich Kiepert",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

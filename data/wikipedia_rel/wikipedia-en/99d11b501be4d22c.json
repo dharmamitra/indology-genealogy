@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Armand-Pierre Caussin de Perceval",
+   "birth_year": 1795,
+   "death_year": 1871,
+   "nationality": "French",
+   "field": "orientalist"
+  },
+  {
+   "name": "Jean-Jacques-Antoine Caussin de Perceval",
+   "birth_year": 1759,
+   "death_year": 1835,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ellious Bocthor",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jean-Jacques-Antoine Caussin de Perceval",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "professor of Arabic",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His father, Jean-Jacques-Antoine Caussin de Perceval (1759–1835), was professor of Arabic in the Collège de France.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Armand-Pierre Caussin de Perceval",
+   "type": "other",
+   "object": "Jean-Jacques-Antoine Caussin de Perceval",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His father, Jean-Jacques-Antoine Caussin de Perceval (1759–1835), was professor of Arabic in the Collège de France.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Armand-Pierre Caussin de Perceval",
+   "type": "position_at",
+   "object": "School of Living Oriental Languages",
+   "role": "professor of modern Arabic",
+   "place": "Paris",
+   "year_start": 1821,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Returning to Paris, he became professor of modern Arabic in the School of Living Oriental Languages in 1821",
+   "quote_ok": true
+  },
+  {
+   "subject": "Armand-Pierre Caussin de Perceval",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "professor of Arabic",
+   "place": null,
+   "year_start": 1833,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and also professor of Arabic in the Collège de France in 1833.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Armand-Pierre Caussin de Perceval",
+   "type": "position_at",
+   "object": "Academy of Inscriptions",
+   "role": null,
+   "place": null,
+   "year_start": 1849,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1849 he was elected to the Academy of Inscriptions.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Armand-Pierre Caussin de Perceval",
+   "type": "collaborated_with",
+   "object": "Ellious Bocthor",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "edited and enlarged Ellious Bocthor's Dictionnaire français-arabe",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Armand-Pierre Caussin de Perceval",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q2401030.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Armand-Pierre Caussin de Perceval",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

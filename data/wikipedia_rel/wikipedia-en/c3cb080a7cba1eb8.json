@@ -1,0 +1,95 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Jean-Pierre Abel-Rémusat",
+   "birth_year": 1788,
+   "death_year": 1832,
+   "nationality": "French",
+   "field": "sinologist"
+  },
+  {
+   "name": "Silvestre de Sacy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Henri Maspero",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Wilhelm von Humboldt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jean-Pierre Abel-Rémusat",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "Chair of Sinology",
+   "place": null,
+   "year_start": 1814,
+   "year_end": 1832,
+   "explicit": true,
+   "evidence": "a chair in Chinese was created at the Collège de France in 1814 and Rémusat was placed in it.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean-Pierre Abel-Rémusat",
+   "type": "position_at",
+   "object": "Journal des savants",
+   "role": "editor",
+   "place": null,
+   "year_start": 1818,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rémusat became an editor of the Journal des savants in 1818.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean-Pierre Abel-Rémusat",
+   "type": "founded",
+   "object": "Société asiatique",
+   "role": "founder and first secretary",
+   "place": "Paris",
+   "year_start": 1822,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was the founder and first secretary of the Société asiatique at Paris in 1822",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean-Pierre Abel-Rémusat",
+   "type": "collaborated_with",
+   "object": "Wilhelm von Humboldt",
+   "role": "correspondence",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His letters to Wilhelm von Humboldt are also of interest.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Jean-Pierre Abel-Rémusat",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q716743.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Jean-Pierre Abel-Rémusat",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

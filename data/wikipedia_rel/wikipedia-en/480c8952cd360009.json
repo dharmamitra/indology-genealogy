@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Mark Leonard Johnson",
+   "birth_year": 1949,
+   "death_year": null,
+   "nationality": "American",
+   "field": "philosophy"
+  },
+  {
+   "name": "George Lakoff",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Mark Leonard Johnson",
+   "type": "position_at",
+   "object": "University of Oregon",
+   "role": "Knight Professor of Liberal Arts and Sciences in the Department of Philosophy",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mark Leonard Johnson (born 24 May 1949) is an American philosopher who is Knight Professor of Liberal Arts and Sciences in the Department of Philosophy at the University of Oregon.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mark Leonard Johnson",
+   "type": "collaborated_with",
+   "object": "George Lakoff",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He is known for contributions to embodied philosophy, cognitive science, and cognitive linguistics, some of which he has coauthored with George Lakoff, such as Metaphors We Live By.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Mark Johnson (philosopher)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q6768264.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Mark Johnson (philosopher)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

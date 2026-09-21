@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Matthias Lexer",
+   "birth_year": 1830,
+   "death_year": 1892,
+   "nationality": "German",
+   "field": "lexicographer"
+  },
+  {
+   "name": "Karl von Hegel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "historian"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Matthias Lexer",
+   "type": "studied_at",
+   "object": "University of Erlangen",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 1860,
+   "explicit": true,
+   "evidence": "Matthias Lexer received a PhD in a lexicological subject at age 30 in 1860 at the University of Erlangen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Matthias Lexer",
+   "type": "student_of",
+   "object": "Karl von Hegel",
+   "role": "teacher",
+   "place": "University of Erlangen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "at the University of Erlangen, where one of his teachers was the historian Karl von Hegel",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Matthias Lexer",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q90394.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Matthias Lexer",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

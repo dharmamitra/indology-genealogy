@@ -1,0 +1,200 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "梁啓超",
+   "birth_year": 1873,
+   "death_year": 1929,
+   "nationality": "中国",
+   "field": "歴史学"
+  },
+  {
+   "name": "梁思成",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "建築史学"
+  },
+  {
+   "name": "梁思永",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "考古学"
+  },
+  {
+   "name": "康有為",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "蔡鍔",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "島田虔次",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "日本",
+   "field": null
+  },
+  {
+   "name": "狭間直樹",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "日本",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "梁思成",
+   "type": "other",
+   "object": "梁啓超",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "建築家・建築史学者の梁思成は長男",
+   "quote_ok": true
+  },
+  {
+   "subject": "梁思永",
+   "type": "other",
+   "object": "梁啓超",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "考古学者の梁思永は次男。",
+   "quote_ok": true
+  },
+  {
+   "subject": "梁啓超",
+   "type": "studied_at",
+   "object": "学海堂",
+   "role": null,
+   "place": "広東",
+   "year_start": 1888,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "15歳の時、阮元によって建設された広東屈指の書院「学海堂」に入学し、戴震・段玉裁・王念孫に由来する考証学（訓詁・名物・制度の学）を修める。",
+   "quote_ok": true
+  },
+  {
+   "subject": "梁啓超",
+   "type": "student_of",
+   "object": "康有為",
+   "role": "teacher",
+   "place": "万木草堂",
+   "year_start": 1891,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "それから数ヶ月間、万木草堂で康有為から公羊学を学ぶと同時に、彼の説く大同思想に感銘を受け",
+   "quote_ok": true
+  },
+  {
+   "subject": "梁啓超",
+   "type": "position_at",
+   "object": "時務学堂",
+   "role": "主講",
+   "place": "長沙",
+   "year_start": 1897,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "翌年の秋には、譚嗣同・黄遵憲・熊希齢らが湖南の長沙に設立した時務学堂の主講となる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "蔡鍔",
+   "type": "student_of",
+   "object": "梁啓超",
+   "role": "teacher",
+   "place": "時務学堂",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "かつて時務学堂の学生であった蔡鍔とともに討袁軍を組織し",
+   "quote_ok": true
+  },
+  {
+   "subject": "梁啓超",
+   "type": "position_at",
+   "object": "清華大学",
+   "role": "教授",
+   "place": null,
+   "year_start": 1923,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1923年には清華大学教授、ついで北京図書館の館長となっている。",
+   "quote_ok": true
+  },
+  {
+   "subject": "梁啓超",
+   "type": "position_at",
+   "object": "北京図書館",
+   "role": "館長",
+   "place": null,
+   "year_start": 1923,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1923年には清華大学教授、ついで北京図書館の館長となっている。",
+   "quote_ok": true
+  },
+  {
+   "subject": "島田虔次",
+   "type": "position_at",
+   "object": "京都大学",
+   "role": "研究者",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "島田虔次・狭間直樹ら京都大学の研究者が中心となって『梁啓超年譜長編』全5巻の翻訳を完成させており",
+   "quote_ok": true
+  },
+  {
+   "subject": "狭間直樹",
+   "type": "position_at",
+   "object": "京都大学",
+   "role": "研究者",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "島田虔次・狭間直樹ら京都大学の研究者が中心となって『梁啓超年譜長編』全5巻の翻訳を完成させており",
+   "quote_ok": true
+  },
+  {
+   "subject": "島田虔次",
+   "type": "collaborated_with",
+   "object": "狭間直樹",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2004,
+   "explicit": true,
+   "evidence": "2004年には島田虔次・狭間直樹ら京都大学の研究者が中心となって『梁啓超年譜長編』全5巻の翻訳を完成させており",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 梁啓超",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q379836.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 梁啓超",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

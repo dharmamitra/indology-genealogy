@@ -1,0 +1,119 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "アーサー・デイヴィッド・ウェイリー",
+   "birth_year": 1889,
+   "death_year": 1966,
+   "nationality": "イギリス",
+   "field": "東洋学者"
+  },
+  {
+   "name": "ローレンス・ビニョン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "八木秀次",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "日本",
+   "field": null
+  },
+  {
+   "name": "ドナルド・キーン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "日本学者"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "アーサー・デイヴィッド・ウェイリー",
+   "type": "studied_at",
+   "object": "ケンブリッジ大学キングズコレッジ",
+   "role": null,
+   "place": null,
+   "year_start": 1907,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "1907年にケンブリッジ大学キングズコレッジに入学し、古典学を専攻した。優秀な成績を収めたが、目の病気で勉強に支障をきたしたため1910年に退学した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アーサー・デイヴィッド・ウェイリー",
+   "type": "position_at",
+   "object": "大英博物館",
+   "role": "学芸員",
+   "place": null,
+   "year_start": 1913,
+   "year_end": 1929,
+   "explicit": true,
+   "evidence": "1913年より大英博物館に東洋版画・写本部門の学芸員として勤務した。……1929年に大英博物館を退職した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アーサー・デイヴィッド・ウェイリー",
+   "type": "student_of",
+   "object": "ローレンス・ビニョン",
+   "role": "teacher",
+   "place": "大英博物館",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "大英博物館での上司は詩人・学者のローレンス・ビニョンだった。ビニョンの指導のもとで、古典中国語と古典日本語を独学で学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アーサー・デイヴィッド・ウェイリー",
+   "type": "student_of",
+   "object": "八木秀次",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "また、語学交換教師として、当時ロンドン大学に留学していた八木秀次にも日本語を習っている。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アーサー・デイヴィッド・ウェイリー",
+   "type": "position_at",
+   "object": "ケンブリッジ大学キングズ・カレッジ",
+   "role": "名誉フェロー",
+   "place": null,
+   "year_start": 1945,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1945年 - ケンブリッジ大学キングズ・カレッジ名誉フェロー",
+   "quote_ok": true
+  },
+  {
+   "subject": "ドナルド・キーン",
+   "type": "influenced_by",
+   "object": "アーサー・デイヴィッド・ウェイリー",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "また同書に触発され、日本研究を志し大成したドナルド・キーンなどの日本学者も多い。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): アーサー・ウェイリー",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q711869.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): アーサー・ウェイリー",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

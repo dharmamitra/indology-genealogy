@@ -1,0 +1,45 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Thích Nhất Hạnh",
+   "birth_year": 1926,
+   "death_year": 2022,
+   "nationality": "Vietnam",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Daniel Berrigan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Thích Nhất Hạnh",
+   "type": "collaborated_with",
+   "object": "Daniel Berrigan",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": 2001,
+   "explicit": true,
+   "evidence": "Das Boot ist nicht das Ufer, Gespräche über buddhistisch-christliches Bewußtsein. Goldmann 2001, ISBN 3-442-21600-1 (Thich Nhat Hanh/Daniel Berrigan)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Thích Nhất Hạnh",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q310913.txt#1",
+ "meta": {
+  "title": "Wikipedia (de): Thích Nhất Hạnh",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

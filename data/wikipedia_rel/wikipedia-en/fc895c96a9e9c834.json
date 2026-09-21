@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Gombojab Tsybikov",
+   "birth_year": 1873,
+   "death_year": 1930,
+   "nationality": "Russian",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "Peter Badmayev",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Nicholas Poppe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Gombojab Tsybikov",
+   "type": "studied_at",
+   "object": "Tomsk University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In mid-1890s in Tomsk University, while studying medicine, Gombojab Tsybikov met Dr Peter Badmayev",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gombojab Tsybikov",
+   "type": "studied_at",
+   "object": "Oriental Faculty of St Petersburg University",
+   "role": null,
+   "place": null,
+   "year_start": 1895,
+   "year_end": 1899,
+   "explicit": true,
+   "evidence": "In 1895 he enrolled at the Oriental Faculty of St Petersburg University with a grant from P. Badmaev... and graduated summa cum laude in 1899.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gombojab Tsybikov",
+   "type": "position_at",
+   "object": "Vladivostok University",
+   "role": "taught Mongolian and Tibetan",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He also taught Mongolian and Tibetan in Vladivostok University.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Gombojab Tsybikov",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1255243.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Gombojab Tsybikov",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

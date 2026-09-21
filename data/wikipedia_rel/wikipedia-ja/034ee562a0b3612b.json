@@ -1,0 +1,138 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "エドゥアール・シャヴァンヌ",
+   "birth_year": 1865,
+   "death_year": 1918,
+   "nationality": "フランス",
+   "field": "歴史学者・東洋学者"
+  },
+  {
+   "name": "ジョルジュ・ペロー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "考古学"
+  },
+  {
+   "name": "アンリ・コルディエ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "エルヴェ・ド・サン・ドニ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "オーレル・スタイン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "エドゥアール・シャヴァンヌ",
+   "type": "studied_at",
+   "object": "高等師範学校",
+   "role": null,
+   "place": null,
+   "year_start": 1885,
+   "year_end": 1888,
+   "explicit": true,
+   "evidence": "1885に高等師範学校に進学した。哲学を学び、1888年に卒業。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジョルジュ・ペロー",
+   "type": "position_at",
+   "object": "高等師範学校",
+   "role": "校長",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "高等師範学校校長の考古学者・ジョルジュ・ペローは、師範学校を卒業したら中国研究をするようにシャヴァンヌに勧めていた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エドゥアール・シャヴァンヌ",
+   "type": "influenced_by",
+   "object": "アンリ・コルディエ",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "アンリ・コルディエの助言を受けて当時研究の少なかった中国史を研究テーマに選んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エドゥアール・シャヴァンヌ",
+   "type": "student_of",
+   "object": "エルヴェ・ド・サン・ドニ",
+   "role": "teacher",
+   "place": "コレージュ・ド・フランス",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "コレージュ・ド・フランスのエルヴェ・ド・サン・ドニ侯爵の中国語コースとフランス国立東洋言語文化学院の中国語クラスで中国語を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エドゥアール・シャヴァンヌ",
+   "type": "studied_at",
+   "object": "フランス国立東洋言語文化学院",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "フランス国立東洋言語文化学院の中国語クラスで中国語を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エドゥアール・シャヴァンヌ",
+   "type": "position_at",
+   "object": "コレージュ・ド・フランス",
+   "role": "教授",
+   "place": null,
+   "year_start": 1893,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1893年、コレージュ・ド・フランスの教授となった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エドゥアール・シャヴァンヌ",
+   "type": "position_at",
+   "object": "フランスのアジア協会",
+   "role": "副会長",
+   "place": null,
+   "year_start": 1910,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1910年にフランスのアジア協会副会長、1916年にイギリスのアジア協会の名誉会員となった。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): エドゥアール・シャヴァンヌ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q274266.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): エドゥアール・シャヴァンヌ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

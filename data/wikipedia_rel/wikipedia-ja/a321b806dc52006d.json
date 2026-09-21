@@ -1,0 +1,95 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ジョージ・エイブラハム・グリアソン",
+   "birth_year": 1851,
+   "death_year": 1941,
+   "nationality": "アイルランド",
+   "field": "言語学者"
+  },
+  {
+   "name": "Lionel D. Barnett",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "F・W・トーマス",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "R・L・ターナー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ジョージ・エイブラハム・グリアソン",
+   "type": "studied_at",
+   "object": "セント・ビーズ学校",
+   "role": null,
+   "place": "カンバーランド",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "カンバーランドのセント・ビーズ学校で、ついでダブリン大学トリニティ・カレッジで数学を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジョージ・エイブラハム・グリアソン",
+   "type": "studied_at",
+   "object": "ダブリン大学トリニティ・カレッジ",
+   "role": null,
+   "place": "ダブリン",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "カンバーランドのセント・ビーズ学校で、ついでダブリン大学トリニティ・カレッジで数学を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジョージ・エイブラハム・グリアソン",
+   "type": "position_at",
+   "object": "インド言語調査",
+   "role": "指揮者",
+   "place": null,
+   "year_start": 1898,
+   "year_end": 1928,
+   "explicit": true,
+   "evidence": "1898年から1928年にかけて行われたインド言語調査の指揮者として、364の言語・方言の情報を収集した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジョージ・エイブラハム・グリアソン",
+   "type": "collaborated_with",
+   "object": "Lionel D. Barnett",
+   "role": "co-authors",
+   "place": null,
+   "year_start": 1920,
+   "year_end": 1920,
+   "explicit": true,
+   "evidence": "Sir George Grierson; Dr. Lionel D. Barnett Litt. D., M. R. A. S. (1920). Lallā-Vākyāni. London: The Royal Asiatic Society.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ジョージ・エイブラハム・グリアソン",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q2095378.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ジョージ・エイブラハム・グリアソン",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

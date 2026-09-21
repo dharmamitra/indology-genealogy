@@ -1,0 +1,119 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Eva Tichy",
+   "birth_year": 1951,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indogermanistik"
+  },
+  {
+   "name": "Karl Hoffmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Helmut Rix",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Nils Berg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Norwegian",
+   "field": "Klassische Philologie"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Eva Tichy",
+   "type": "student_of",
+   "object": "Karl Hoffmann",
+   "role": "doctoral supervisor",
+   "place": "Universität Erlangen",
+   "year_start": null,
+   "year_end": 1981,
+   "explicit": true,
+   "evidence": "Mit einer Arbeit über Onomatopoetische Verbalbildungen des Griechischen wurde Tichy 1981 bei Karl Hoffmann an der Universität Erlangen zum Dr. phil. promoviert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eva Tichy",
+   "type": "studied_at",
+   "object": "Universität Erlangen",
+   "role": "Dr. phil.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1981,
+   "explicit": true,
+   "evidence": "Mit einer Arbeit über Onomatopoetische Verbalbildungen des Griechischen wurde Tichy 1981 bei Karl Hoffmann an der Universität Erlangen zum Dr. phil. promoviert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eva Tichy",
+   "type": "studied_at",
+   "object": "Philipps-Universität Marburg",
+   "role": "Habilitation",
+   "place": null,
+   "year_start": null,
+   "year_end": 1989,
+   "explicit": true,
+   "evidence": "An der Philipps-Universität Marburg habilitierte sie sich 1989 mit der Schrift Die Nomina agentis auf -tar- im Vedischen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eva Tichy",
+   "type": "succeeded",
+   "object": "Helmut Rix",
+   "role": null,
+   "place": "Albert-Ludwigs-Universität Freiburg im Breisgau",
+   "year_start": 1993,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Als Nachfolgerin von Helmut Rix wurde sie 1993 auf den Lehrstuhl für Indogermanistik der Albert-Ludwigs-Universität Freiburg im Breisgau berufen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eva Tichy",
+   "type": "position_at",
+   "object": "Albert-Ludwigs-Universität Freiburg im Breisgau",
+   "role": "Lehrstuhl für Indogermanistik",
+   "place": null,
+   "year_start": 1993,
+   "year_end": 2017,
+   "explicit": true,
+   "evidence": "Als Nachfolgerin von Helmut Rix wurde sie 1993 auf den Lehrstuhl für Indogermanistik der Albert-Ludwigs-Universität Freiburg im Breisgau berufen. [...] Im März 2017 wurde sie emeritiert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eva Tichy",
+   "type": "influenced_by",
+   "object": "Nils Berg",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In ihrem Projekt zur Ilias diachronica geht Tichy im Anschluss an den norwegischen Klassischen Philologen Nils Berg von der These aus",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Eva Tichy",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q90649384.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Eva Tichy",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

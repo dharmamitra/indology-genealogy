@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Tatsuo Nishida",
+   "birth_year": 1928,
+   "death_year": 2012,
+   "nationality": "Japanese",
+   "field": "Tibeto-Burman languages"
+  },
+  {
+   "name": "Ishihama Juntarō",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Izui Hisanosuke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Shōgaito Masahiro",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Tatsuo Nishida",
+   "type": "studied_at",
+   "object": "Kyoto University Faculty of Letters",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1951,
+   "explicit": true,
+   "evidence": "Nishida graduated from the Kyoto University Faculty of Letters in 1951.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tatsuo Nishida",
+   "type": "position_at",
+   "object": "Kyoto University",
+   "role": "assistant professor",
+   "place": null,
+   "year_start": 1958,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1958 he became assistant professor at Kyoto University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tatsuo Nishida",
+   "type": "position_at",
+   "object": "Kyoto University",
+   "role": "professor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1992,
+   "explicit": true,
+   "evidence": "Tatsuo Nishida (西田 龍雄, Nishida Tatsuo; 26 November 1928 – 26 September 2012) was a professor at Kyoto University. [...] In 1992 he retired as a professor.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tatsuo Nishida",
+   "type": "influenced_by",
+   "object": "Ishihama Juntarō",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "During his studies Ishihama Juntarō and Izui Hisanosuke had a formative impact on him.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tatsuo Nishida",
+   "type": "influenced_by",
+   "object": "Izui Hisanosuke",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "During his studies Ishihama Juntarō and Izui Hisanosuke had a formative impact on him.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Tatsuo Nishida",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q3031963.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Tatsuo Nishida",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

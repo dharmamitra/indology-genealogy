@@ -1,0 +1,124 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Richard Friedrich Fick",
+   "birth_year": 1867,
+   "death_year": 1944,
+   "nationality": "deutsch",
+   "field": "Bibliothekar und Indologe"
+  },
+  {
+   "name": "Richard Pischel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hermann Jacobi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Richard Friedrich Fick",
+   "type": "studied_at",
+   "object": "Universität Kiel",
+   "role": "Promotion",
+   "place": "Kiel",
+   "year_start": 1885,
+   "year_end": 1888,
+   "explicit": true,
+   "evidence": "studierte nach dem Abitur (1885) in Kiel Indologie, Germanistik, Anglistik und Philosophie... erreichte er 1888 seine Promotion... (Dissertation, Universität Kiel, 1888)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Friedrich Fick",
+   "type": "student_of",
+   "object": "Richard Pischel",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1888,
+   "explicit": false,
+   "evidence": "Gefördert von Richard Pischel und Hermann Jacobi erreichte er 1888 seine Promotion.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Friedrich Fick",
+   "type": "student_of",
+   "object": "Hermann Jacobi",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1888,
+   "explicit": false,
+   "evidence": "Gefördert von Richard Pischel und Hermann Jacobi erreichte er 1888 seine Promotion.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Friedrich Fick",
+   "type": "position_at",
+   "object": "Kieler Universitätsbibliothek",
+   "role": "Dienst der Universitätsbibliothek",
+   "place": "Kiel",
+   "year_start": 1886,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "Bereits 1886 trat er in den Dienst der Universitätsbibliothek ein. ... Nach elf Jahren im Dienst der Kieler Universitätsbibliothek wechselte er 1897",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Friedrich Fick",
+   "type": "position_at",
+   "object": "Königliche Bibliothek zu Berlin",
+   "role": "Abteilungsdirektor",
+   "place": "Berlin",
+   "year_start": 1897,
+   "year_end": 1921,
+   "explicit": true,
+   "evidence": "wechselte er 1897 an die Königliche Bibliothek zu Berlin... 1916 wurde er Abteilungsdirektor der Königlichen Bibliothek.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Friedrich Fick",
+   "type": "position_at",
+   "object": "Universitätsbibliothek Göttingen",
+   "role": "Leiter",
+   "place": "Göttingen",
+   "year_start": 1921,
+   "year_end": 1932,
+   "explicit": true,
+   "evidence": "Von 1921 bis zu seiner Pensionierung 1932 leitete Fick die Universitätsbibliothek Göttingen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Friedrich Fick",
+   "type": "position_at",
+   "object": "Universität Göttingen",
+   "role": "Honorarprofessor",
+   "place": "Göttingen",
+   "year_start": 1923,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hier wurde er 1923 zum Honorarprofessor ernannt",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Richard Fick",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q2149460.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Richard Fick",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

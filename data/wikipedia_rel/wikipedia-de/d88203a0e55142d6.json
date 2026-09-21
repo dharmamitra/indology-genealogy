@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ferdinand von Eckstein",
+   "birth_year": 1790,
+   "death_year": 1861,
+   "nationality": "dänisch",
+   "field": null
+  },
+  {
+   "name": "Friedrich Creuzer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Philosophie"
+  },
+  {
+   "name": "Friedrich Schlegel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ferdinand von Eckstein",
+   "type": "student_of",
+   "object": "Friedrich Creuzer",
+   "role": "teacher",
+   "place": "Heidelberg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er studierte Philosophie bei Friedrich Creuzer in Heidelberg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ferdinand von Eckstein",
+   "type": "influenced_by",
+   "object": "Friedrich Schlegel",
+   "role": null,
+   "place": "Rom",
+   "year_start": 1809,
+   "year_end": 1809,
+   "explicit": true,
+   "evidence": "Ferdinand von Eckstein konvertierte 1809 unter dem Einfluss von Friedrich Schlegel, während eines Aufenthaltes in Rom, zum katholischen Glauben.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ferdinand von Eckstein",
+   "type": "founded",
+   "object": "Le Catholique",
+   "role": null,
+   "place": null,
+   "year_start": 1826,
+   "year_end": 1826,
+   "explicit": true,
+   "evidence": "1826 gründete er die katholische Zeitschrift Le Catholique, die von 1826 bis 1829 erschien",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Ferdinand von Eckstein",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q3068554.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Ferdinand von Eckstein",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

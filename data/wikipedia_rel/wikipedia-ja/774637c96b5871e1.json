@@ -1,0 +1,105 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "チャールズ・ウィルキンズ",
+   "birth_year": 1749,
+   "death_year": 1836,
+   "nationality": "イギリス",
+   "field": "東洋学"
+  },
+  {
+   "name": "ウィリアム・ジョーンズ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "インド学"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ウィリアム・ジョーンズ",
+   "type": "founded",
+   "object": "ベンガル・アジア協会",
+   "role": null,
+   "place": null,
+   "year_start": 1784,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ウィルキンズは1784年のウィリアム・ジョーンズによるベンガル・アジア協会の創立を助けた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "チャールズ・ウィルキンズ",
+   "type": "collaborated_with",
+   "object": "ウィリアム・ジョーンズ",
+   "role": "創立を助けた",
+   "place": null,
+   "year_start": 1784,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ウィルキンズは1784年のウィリアム・ジョーンズによるベンガル・アジア協会の創立を助けた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "チャールズ・ウィルキンズ",
+   "type": "position_at",
+   "object": "イギリス東インド会社",
+   "role": "書記官",
+   "place": "インド",
+   "year_start": 1770,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1770年にイギリス東インド会社の書記官(writer)としてインドに赴任し",
+   "quote_ok": true
+  },
+  {
+   "subject": "チャールズ・ウィルキンズ",
+   "type": "position_at",
+   "object": "東インド会社の図書館",
+   "role": "司書",
+   "place": null,
+   "year_start": 1800,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1800年に東インド会社の図書館の司書の職につき",
+   "quote_ok": true
+  },
+  {
+   "subject": "チャールズ・ウィルキンズ",
+   "type": "position_at",
+   "object": "東インド会社カレッジ",
+   "role": "試験官および視学官",
+   "place": null,
+   "year_start": 1805,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1805年に東インド会社カレッジが設立されると試験官および視学官(visitor)の職についた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "チャールズ・ウィルキンズ",
+   "type": "position_at",
+   "object": "王立協会",
+   "role": "フェロー",
+   "place": null,
+   "year_start": 1788,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1788年に王立協会のフェロー(FRS)に選ばれ",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): チャールズ・ウィルキンズ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q938060.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): チャールズ・ウィルキンズ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

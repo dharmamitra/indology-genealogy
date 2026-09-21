@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Mumon Yamada (山田 無文, Yamada Mumon)",
+   "birth_year": 1900,
+   "death_year": 1988,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Shodo Harada",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Seisetsu Roshi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hisamatsu Shin'ichi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Mumon Yamada (山田 無文, Yamada Mumon)",
+   "type": "position_at",
+   "object": "Shōfuku-ji in Kobe, Japan",
+   "role": "abbot",
+   "place": "Kobe, Japan",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mumon Yamada (山田 無文, Yamada Mumon; July 16, 1900 – December 24, 1988) was a Rinzai roshi, calligrapher, and former abbot of Shōfuku-ji in Kobe, Japan.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shodo Harada",
+   "type": "student_of",
+   "object": "Mumon Yamada (山田 無文, Yamada Mumon)",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His most prominent student (and Dharma heir) is Shodo Harada of Sōgen-ji",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shodo Harada",
+   "type": "position_at",
+   "object": "Sōgen-ji",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His most prominent student (and Dharma heir) is Shodo Harada of Sōgen-ji",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mumon Yamada (山田 無文, Yamada Mumon)",
+   "type": "student_of",
+   "object": "Seisetsu Roshi",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "During the Second World War, while with Seisetsu Roshi, he visited many places of war",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mumon Yamada (山田 無文, Yamada Mumon)",
+   "type": "collaborated_with",
+   "object": "Hisamatsu Shin'ichi",
+   "role": "planning committee member",
+   "place": null,
+   "year_start": 1967,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mumon, together with Rinzai priest Hisamatsu Shin'ichi, was on the original planning committee for the first Zen-Christian Colloquium started by the Quakers in 1967.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Mumon Yamada",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q4022416.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Mumon Yamada",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

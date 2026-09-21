@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "S. M. Natesa Sastri",
+   "birth_year": 1859,
+   "death_year": 1906,
+   "nationality": "Indian",
+   "field": "folklore, Tamil and Sanskrit"
+  },
+  {
+   "name": "Robert Sewell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Chembai Vaidyanatha Bhagavatar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Richard Carnac Temple",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "folklorist"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "S. M. Natesa Sastri",
+   "type": "studied_at",
+   "object": "Kumbakonam College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "And he was educated at Kumbakonam College and the Madras University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "S. M. Natesa Sastri",
+   "type": "studied_at",
+   "object": "Madras University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "And he was educated at Kumbakonam College and the Madras University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "S. M. Natesa Sastri",
+   "type": "position_at",
+   "object": "Archaeological Survey of India",
+   "role": "assistant to Robert Sewell",
+   "place": null,
+   "year_start": 1881,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At 22, he joined the Archaeological Survey of India as an assistant to Robert Sewell.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chembai Vaidyanatha Bhagavatar",
+   "type": "student_of",
+   "object": "S. M. Natesa Sastri",
+   "role": "disciple",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Chembai Vaidyanatha Bhagavatar was one of his prominent disciples.",
+   "quote_ok": true
+  },
+  {
+   "subject": "S. M. Natesa Sastri",
+   "type": "influenced_by",
+   "object": "Richard Carnac Temple",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "It was Richard Carnac Temple, a British folklorist in India who served as the President of the Folklore Society, who inspired Sastri's work and encouraged him to publish his first book on the tales.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Natesa Sastri",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q16210815.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Natesa Sastri",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

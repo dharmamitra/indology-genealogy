@@ -1,0 +1,150 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Jules Michelet",
+   "birth_year": 1798,
+   "death_year": 1874,
+   "nationality": "French",
+   "field": "history"
+  },
+  {
+   "name": "François Guizot",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "history"
+  },
+  {
+   "name": "Edgar Quinet",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Athénaïs Michelet",
+   "birth_year": null,
+   "death_year": 1899,
+   "nationality": null,
+   "field": "natural history"
+  },
+  {
+   "name": "Gabriel Monod",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "history"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jules Michelet",
+   "type": "studied_at",
+   "object": "Lycée Charlemagne",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "chose instead to study at the Lycée Charlemagne, a prestigious secondary school in Paris.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jules Michelet",
+   "type": "position_at",
+   "object": "Collège Rollin",
+   "role": "professorship of history",
+   "place": null,
+   "year_start": 1821,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He passed the university examination in 1821 and was soon appointed to a professorship of history at the Collège Rollin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jules Michelet",
+   "type": "position_at",
+   "object": "École normale supérieure",
+   "role": "maître de conférences",
+   "place": null,
+   "year_start": 1827,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "That same year, he was appointed as a maître de conférences at the École normale supérieure.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jules Michelet",
+   "type": "position_at",
+   "object": "Record Office",
+   "role": null,
+   "place": null,
+   "year_start": 1830,
+   "year_end": 1852,
+   "explicit": true,
+   "evidence": "He secured a position at the Record Office ... After Napoleon III’s rise to power in 1852, Jules Michelet lost his position at the Record Office",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jules Michelet",
+   "type": "position_at",
+   "object": "University of France",
+   "role": "deputy professor",
+   "place": null,
+   "year_start": 1830,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "served as deputy professor under historian François Guizot in the literary faculty of the University of France.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jules Michelet",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "chair of history",
+   "place": null,
+   "year_start": 1838,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1838, Michelet's studies reinforced his natural aversion to the principles of authority and ecclesiasticism. During the revival of Jesuit activity in France, he was appointed to the chair of history at the Collège de France.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jules Michelet",
+   "type": "collaborated_with",
+   "object": "Athénaïs Michelet",
+   "role": null,
+   "place": null,
+   "year_start": 1849,
+   "year_end": 1874,
+   "explicit": true,
+   "evidence": "They entered into a shared literary life and she would assist him significantly in his endeavors. He openly acknowledged this, although she was never given credit in his works.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gabriel Monod",
+   "type": "founded",
+   "object": "Revue historique",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gabriel Monod, a historian who founded the Revue historique journal.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Jules Michelet",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q310791.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Jules Michelet",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

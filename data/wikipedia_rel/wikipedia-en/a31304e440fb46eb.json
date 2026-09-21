@@ -1,0 +1,38 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "William Jones",
+   "birth_year": 1746,
+   "death_year": 1794,
+   "nationality": "British",
+   "field": "philologist, scholar and judge"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Jones",
+   "type": "position_at",
+   "object": "Supreme Court of Judicature at Fort William",
+   "role": "puisne judge",
+   "place": "Bengal Presidency",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Jones served as a puisne judge on the Supreme Court of Judicature at Fort William and also became a scholar of ancient Indian history.",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Wikipedia (en): William Jones (philologist)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q273969.txt#1",
+ "meta": {
+  "title": "Wikipedia (en): William Jones (philologist)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

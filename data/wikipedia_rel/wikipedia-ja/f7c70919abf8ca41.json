@@ -1,0 +1,83 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "サヤジ・ウ・バ・キン",
+   "birth_year": 1899,
+   "death_year": 1971,
+   "nationality": "ミャンマー",
+   "field": "ヴィパッサナー瞑想"
+  },
+  {
+   "name": "テッ・ジ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "瞑想法"
+  },
+  {
+   "name": "レディ・サヤド",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "サティア・ナラヤン・ゴエンカ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "テッ・ジ",
+   "type": "student_of",
+   "object": "レディ・サヤド",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "レディ・サヤド系の瞑想法を、その在家の弟子であるテッ・ジから受け継ぎ",
+   "quote_ok": true
+  },
+  {
+   "subject": "サヤジ・ウ・バ・キン",
+   "type": "student_of",
+   "object": "テッ・ジ",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "レディ・サヤド系の瞑想法を、その在家の弟子であるテッ・ジから受け継ぎ",
+   "quote_ok": true
+  },
+  {
+   "subject": "サティア・ナラヤン・ゴエンカ",
+   "type": "student_of",
+   "object": "サヤジ・ウ・バ・キン",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "テッ・ジから受け継ぎ、サティア・ナラヤン・ゴエンカへと継承した",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ウ・バ・キン",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q352360.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ウ・バ・キン",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

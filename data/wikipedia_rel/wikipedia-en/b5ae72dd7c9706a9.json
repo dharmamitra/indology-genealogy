@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Adolphe Regnier",
+   "birth_year": 1804,
+   "death_year": 1884,
+   "nationality": "French",
+   "field": "philologist"
+  },
+  {
+   "name": "Gustave Lanson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Adolphe Regnier (1834-1875)",
+   "birth_year": 1834,
+   "death_year": 1875,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Adolphe Regnier",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "professor of rhetoric",
+   "place": null,
+   "year_start": 1838,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1838 as a professor of rhetoric at the Collège de France",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolphe Regnier",
+   "type": "position_at",
+   "object": "École normal supérieure",
+   "role": "teacher of German language and literature",
+   "place": "Paris",
+   "year_start": 1841,
+   "year_end": 1843,
+   "explicit": true,
+   "evidence": "teacher of German language and literature at the École normal supérieure in Paris (1841-43)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gustave Lanson",
+   "type": "succeeded",
+   "object": "Adolphe Regnier",
+   "role": "director of the \"Collection des grands écrivains de la France\"",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "became the director of the \"Collection des grands écrivains de la France\" (being succeeded after his death in that position by Gustave Lanson)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolphe Regnier",
+   "type": "position_at",
+   "object": "Palace of Fontainebleau",
+   "role": "librarian",
+   "place": "Fontainebleau",
+   "year_start": 1873,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1873 he was appointed librarian of the Palace of Fontainebleau",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolphe Regnier (1834-1875)",
+   "type": "other",
+   "object": "Adolphe Regnier",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His son Adolphe Regnier (1834-1875) was also a librarian and scholar.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Adolphe Regnier",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q18115762.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Adolphe Regnier",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

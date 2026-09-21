@@ -1,0 +1,195 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Richard Wilhelm",
+   "birth_year": 1873,
+   "death_year": 1930,
+   "nationality": "German",
+   "field": "Sinology"
+  },
+  {
+   "name": "Hellmut Wilhelm",
+   "birth_year": 1905,
+   "death_year": 1990,
+   "nationality": "German",
+   "field": "Sinology"
+  },
+  {
+   "name": "Otto Franke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sinology"
+  },
+  {
+   "name": "Ferdinand Lessing",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lau Nai Süan",
+   "birth_year": 1843,
+   "death_year": 1921,
+   "nationality": "Chinese",
+   "field": null
+  },
+  {
+   "name": "Wilhelm Schüler",
+   "birth_year": 1869,
+   "death_year": 1935,
+   "nationality": null,
+   "field": "Sinology"
+  },
+  {
+   "name": "Wilhelm Seufert",
+   "birth_year": 1885,
+   "death_year": 1974,
+   "nationality": null,
+   "field": "Sinology"
+  },
+  {
+   "name": "Hermann Bohner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Richard Wilhelm",
+   "type": "founded",
+   "object": "China-Institut der Universität Frankfurt",
+   "role": null,
+   "place": "Frankfurt",
+   "year_start": 1925,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er gründete 1925 das China-Institut der Universität Frankfurt, das er bis zu seinem Tod leitete.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Wilhelm",
+   "type": "position_at",
+   "object": "China-Institut der Universität Frankfurt",
+   "role": "Leiter",
+   "place": "Frankfurt",
+   "year_start": 1925,
+   "year_end": 1930,
+   "explicit": true,
+   "evidence": "Er gründete 1925 das China-Institut der Universität Frankfurt, das er bis zu seinem Tod leitete.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Wilhelm",
+   "type": "studied_at",
+   "object": "Universität Tübingen",
+   "role": null,
+   "place": "Tübingen",
+   "year_start": 1891,
+   "year_end": 1895,
+   "explicit": true,
+   "evidence": "Während seines Theologie-Studiums im Stift und an der Universität Tübingen war er seit 1891 Mitglied der Studentenverbindung AG Rothenburg Tübingen. Nach seiner Ordination in der Stuttgarter Stiftskirche 1895",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hellmut Wilhelm",
+   "type": "other",
+   "object": "Richard Wilhelm",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Aus dieser Ehe gingen vier Söhne hervor, die alle in Tsingtau geboren wurden: Siegfried, Manfred, Hellmut und Walt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hellmut Wilhelm",
+   "type": "student_of",
+   "object": "Otto Franke",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1932,
+   "explicit": true,
+   "evidence": "Hellmut Wilhelm (Wèi Démíng, 衛德明, 1905–1990) legte 1928 sein Jura-Staatsexamen ab, wechselte danach zur Sinologie und absolvierte 1932 seine Promotion bei Otto Franke.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hellmut Wilhelm",
+   "type": "position_at",
+   "object": "University of Washington",
+   "role": "Lehrstuhl für Sinologie",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Anschluss an seine Exilzeit in Peking während des Dritten Reiches erhielt er einen Lehrstuhl für Sinologie an der University of Washington.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Wilhelm",
+   "type": "collaborated_with",
+   "object": "Ferdinand Lessing",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": 1911,
+   "explicit": true,
+   "evidence": "einschließlich eines zusammen mit Ferdinand Lessing 1911 erstellten Deutsch-Englisch-Chinesisch-Fachwörterbuches.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Wilhelm",
+   "type": "influenced_by",
+   "object": "Lau Nai Süan",
+   "role": "mentor",
+   "place": "Tsingtau",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Unter den „Alten von Tsingtau“ wurde insbesondere der ehemalige Rektor der Pekinger Reichsuniversität und stellvertretende kaiserliche Bildungsminister Lau Nai Süan (Láo Nǎixuān, 勞乃宣, 1843–1921) für Richard Wilhelm zu einem wichtigen Mentor.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Bohner",
+   "type": "succeeded",
+   "object": "Richard Wilhelm",
+   "role": "kommissarischer Nachfolger",
+   "place": "Tsingtau",
+   "year_start": 1920,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Sommer 1920 beendete Wilhelm seine zwanzigjährige Tätigkeit in Tsingtau... Sein kommissarischer Nachfolger wurde Hermann Bohner",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Seufert",
+   "type": "succeeded",
+   "object": "Hermann Bohner",
+   "role": "Leiter",
+   "place": "Tsingtau",
+   "year_start": 1922,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sein kommissarischer Nachfolger wurde Hermann Bohner, 1922 seitens des AEPM abgelöst durch den inzwischen promovierten Sinologen Wilhelm Seufert als neuem Leiter.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Richard Wilhelm",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q62126.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Richard Wilhelm",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Hermann Schlagintweit",
+   "birth_year": 1826,
+   "death_year": 1882,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "Adolph Schlagintweit",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Robert Schlagintweit",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Alexander von Humboldt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hermann Schlagintweit",
+   "type": "collaborated_with",
+   "object": "Adolph Schlagintweit",
+   "role": null,
+   "place": null,
+   "year_start": 1846,
+   "year_end": 1854,
+   "explicit": true,
+   "evidence": "along with his brother Adolph, he published a scientific study of the Alps in 1846–1848. They established their reputation with the Untersuchungen über die physikalische Geographie der Alpen (1850)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Schlagintweit",
+   "type": "collaborated_with",
+   "object": "Robert Schlagintweit",
+   "role": null,
+   "place": null,
+   "year_start": 1854,
+   "year_end": 1866,
+   "explicit": true,
+   "evidence": "were afterwards joined by brother Robert, and jointly published Neue Untersuchungen über die physikalische Geographie und Geologie der Alpen in 1854.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolph Schlagintweit",
+   "type": "collaborated_with",
+   "object": "Robert Schlagintweit",
+   "role": null,
+   "place": null,
+   "year_start": 1854,
+   "year_end": 1854,
+   "explicit": true,
+   "evidence": "were afterwards joined by brother Robert, and jointly published Neue Untersuchungen über die physikalische Geographie und Geologie der Alpen in 1854.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Schlagintweit",
+   "type": "other",
+   "object": "Adolph Schlagintweit",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Brothers Hermann,  Adolph and Robert Schlagintweit",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Schlagintweit",
+   "type": "other",
+   "object": "Robert Schlagintweit",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Brothers Hermann,  Adolph and Robert Schlagintweit",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolph Schlagintweit",
+   "type": "other",
+   "object": "Robert Schlagintweit",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Brothers Hermann,  Adolph and Robert Schlagintweit",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Schlagintweit",
+   "type": "influenced_by",
+   "object": "Alexander von Humboldt",
+   "role": null,
+   "place": null,
+   "year_start": 1854,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1854, acting on the recommendation of Alexander von Humboldt, the East India Company commissioned Hermann, Adolph, and Robert to make scientific investigations in their territory",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Hermann von Schlagintweit",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q86003.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Hermann von Schlagintweit",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

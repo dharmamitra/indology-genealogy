@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Agvan Dorzhiev",
+   "birth_year": 1854,
+   "death_year": 1938,
+   "nationality": "Russian",
+   "field": "Buddhist Philosophy"
+  },
+  {
+   "name": "13th Dalai Lama",
+   "birth_year": 1876,
+   "death_year": 1933,
+   "nationality": "Tibetan",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Agvan Dorzhiev",
+   "type": "studied_at",
+   "object": "Drepung",
+   "role": "Geshey Lharampa",
+   "place": "near Lhasa",
+   "year_start": 1873,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He left home in 1873 at age 19 to study at the Gelugpa monastery, Drepung, near Lhasa, the largest monastery in Tibet. Having successfully completed the traditional course of religious studies, he began the academic Buddhist degree of Geshey Lharampa",
+   "quote_ok": true
+  },
+  {
+   "subject": "13th Dalai Lama",
+   "type": "student_of",
+   "object": "Agvan Dorzhiev",
+   "role": "tutor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He became a tutor and \"debating partner\" of the teenage Dalai Lama, who became very friendly with him and later used him as an envoy to Russia and other countries.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): 13th Dalai Lama",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q25238.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): 13th Dalai Lama",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

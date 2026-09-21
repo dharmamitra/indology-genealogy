@@ -1,0 +1,124 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ヨハン・ゲオルク・ビューラー",
+   "birth_year": 1837,
+   "death_year": 1898,
+   "nationality": "ドイツ",
+   "field": "インド学"
+  },
+  {
+   "name": "フリードリヒ・マックス・ミュラー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "レイモンド・ウェスト",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ヨハン・ゲオルク・ビューラー",
+   "type": "studied_at",
+   "object": "ゲッティンゲン大学",
+   "role": "博士",
+   "place": null,
+   "year_start": null,
+   "year_end": 1858,
+   "explicit": true,
+   "evidence": "ゲッティンゲン大学で古典と東洋学を学び、ギリシア語の文法の論文で1858年に博士の学位を取得した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヨハン・ゲオルク・ビューラー",
+   "type": "position_at",
+   "object": "エルフィンストーン・カレッジ",
+   "role": "東洋語教授",
+   "place": "ボンベイ（ムンバイ）",
+   "year_start": 1863,
+   "year_end": 1880,
+   "explicit": true,
+   "evidence": "フリードリヒ・マックス・ミュラーの推薦によって1863年からインドにわたり、ボンベイ（ムンバイ）のエルフィンストーン・カレッジの東洋語教授に就任した。...健康を害したために翌1880年にインドでの仕事を辞任した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヨハン・ゲオルク・ビューラー",
+   "type": "position_at",
+   "object": "ウィーン大学",
+   "role": "インド文献学・考古学教授",
+   "place": null,
+   "year_start": 1881,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ウィーン大学に招聘されて1881年にインド文献学・考古学教授に就任した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヨハン・ゲオルク・ビューラー",
+   "type": "founded",
+   "object": "東洋研究センター",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ビューラーはそこで東洋研究センターを創立し",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヨハン・ゲオルク・ビューラー",
+   "type": "founded",
+   "object": "ウィーン東洋学報",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "『ウィーン東洋学報』(Wiener Zeitschrift für die Kunde des Morgenlandes、略称 WZKM)を創刊した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヨハン・ゲオルク・ビューラー",
+   "type": "founded",
+   "object": "インド・アーリア文献学・考古学概要",
+   "role": null,
+   "place": null,
+   "year_start": 1895,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1895年には『インド・アーリア文献学・考古学概要』(Grundriß der Indo-arischen Philologie und Altertumskunde)シリーズを創始し、その監修を行った。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヨハン・ゲオルク・ビューラー",
+   "type": "collaborated_with",
+   "object": "レイモンド・ウェスト",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ビューラーはレイモンド・ウェスト(英語版)と共著でヒンドゥー法の翻訳を行った。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ゲオルク・ビューラー",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q67706.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ゲオルク・ビューラー",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,157 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sawaki Kōdō",
+   "birth_year": 1880,
+   "death_year": 1965,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Koho Sawada",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Zenko Sawada",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Join Saeki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Oka Sotan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Kosho Uchiyama",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sawaki Kōdō",
+   "type": "student_of",
+   "object": "Koho Sawada",
+   "role": "traditional teacher",
+   "place": "Soshin-ji",
+   "year_start": 1899,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sawaki was ordained in 1899 by Koho Sawada.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sawaki Kōdō",
+   "type": "student_of",
+   "object": "Zenko Sawada",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": 1906,
+   "year_end": 1906,
+   "explicit": true,
+   "evidence": "He received dharma transmission later that year from Zenko Sawada.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sawaki Kōdō",
+   "type": "studied_at",
+   "object": "Senju-ji",
+   "role": null,
+   "place": "Takada district of Tsu",
+   "year_start": 1906,
+   "year_end": 1908,
+   "explicit": true,
+   "evidence": "He then studied for two years at the priests training school of Senju-ji, a Jōdo Shinshū temple in the Takada district of Tsu.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sawaki Kōdō",
+   "type": "student_of",
+   "object": "Join Saeki",
+   "role": "teacher",
+   "place": "Hōryū-ji",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From there, Sawaki traveled to Hōryū-ji to study Yogacara with Join Saeki.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sawaki Kōdō",
+   "type": "student_of",
+   "object": "Oka Sotan",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sawaki then spent a three-month practice period studying Dōgen with Oka Sotan.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sawaki Kōdō",
+   "type": "position_at",
+   "object": "Komazawa University",
+   "role": "professor",
+   "place": null,
+   "year_start": 1930,
+   "year_end": 1939,
+   "explicit": true,
+   "evidence": "and during the 1930s he served as a professor at Komazawa University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kosho Uchiyama",
+   "type": "succeeded",
+   "object": "Sawaki Kōdō",
+   "role": null,
+   "place": "Antaiji",
+   "year_start": 1965,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sawaki died on December 21, 1965, at Antaiji. ... He was succeeded by a senior disciple, Kosho Uchiyama.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kosho Uchiyama",
+   "type": "student_of",
+   "object": "Sawaki Kōdō",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": 1965,
+   "explicit": true,
+   "evidence": "He was succeeded by a senior disciple, Kosho Uchiyama.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Kōdō Sawaki",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q503891.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Kōdō Sawaki",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

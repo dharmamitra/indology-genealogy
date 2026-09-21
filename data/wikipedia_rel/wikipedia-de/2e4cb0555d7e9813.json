@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Nicholas Roerich",
+   "birth_year": 1874,
+   "death_year": 1947,
+   "nationality": "russisch",
+   "field": "Archäologe, Wissenschaftler, Reisender und Philosoph"
+  },
+  {
+   "name": "Juri Nikolajewitsch Roerich",
+   "birth_year": 1902,
+   "death_year": 1960,
+   "nationality": null,
+   "field": "Asienwissenschaftler"
+  },
+  {
+   "name": "Svetoslav Roerich",
+   "birth_year": 1904,
+   "death_year": 1993,
+   "nationality": null,
+   "field": "Maler"
+  },
+  {
+   "name": "Helena Petrovna Blavatsky",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Nicholas Roerich",
+   "type": "studied_at",
+   "object": "St. Petersburger Universität",
+   "role": null,
+   "place": "Sankt Petersburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studierte Nicholas Roerich Rechtswissenschaft und Kunst an der St. Petersburger Universität",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nicholas Roerich",
+   "type": "founded",
+   "object": "New Yorker Master Institute of United Arts",
+   "role": null,
+   "place": "New York",
+   "year_start": 1921,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1921 gründete Roerich das New Yorker Master Institute of United Arts",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nicholas Roerich",
+   "type": "founded",
+   "object": "Urusvati-Institut",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "im vom Vater gegründeten Urusvati-Institut zur Erforschung der Geschichte sowie der Flora und Fauna der Himalaya-Region",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nicholas Roerich",
+   "type": "influenced_by",
+   "object": "Helena Petrovna Blavatsky",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "insbesondere von Helena Petrovna Blavatsky war Roerich stark beeinflusst",
+   "quote_ok": true
+  },
+  {
+   "subject": "Juri Nikolajewitsch Roerich",
+   "type": "other",
+   "object": "Nicholas Roerich",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Roerich hatte zwei Söhne. Der ältere Sohn Juri Nikolajewitsch Roerich (1902–1960) wurde ein bekannter Asienwissenschaftler.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Svetoslav Roerich",
+   "type": "other",
+   "object": "Nicholas Roerich",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Der jüngere Svetoslav Roerich (1904–1993) war Maler [...] Er wirkte im vom Vater gegründeten Urusvati-Institut",
+   "quote_ok": true
+  },
+  {
+   "subject": "Svetoslav Roerich",
+   "type": "position_at",
+   "object": "Urusvati-Institut",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er wirkte im vom Vater gegründeten Urusvati-Institut zur Erforschung der Geschichte sowie der Flora und Fauna der Himalaya-Region mit.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Nicholas Roerich",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q208993.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Nicholas Roerich",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

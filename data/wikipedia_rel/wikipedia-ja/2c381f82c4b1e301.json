@@ -1,0 +1,171 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "公田連太郎",
+   "birth_year": 1874,
+   "death_year": 1963,
+   "nationality": "日本",
+   "field": "漢文学"
+  },
+  {
+   "name": "根本通明",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "箭内亙",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "加藤繁",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "笹川種郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "鈴木貞太郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "小杉放庵",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "大場弥平",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "公田連太郎",
+   "type": "student_of",
+   "object": "根本通明",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1895,
+   "year_end": 1905,
+   "explicit": true,
+   "evidence": "21歳で上京し、根本通明に約十年師事。",
+   "quote_ok": true
+  },
+  {
+   "subject": "公田連太郎",
+   "type": "collaborated_with",
+   "object": "箭内亙",
+   "role": "co-translator",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "司馬遷『史記』箭内亙共訳",
+   "quote_ok": true
+  },
+  {
+   "subject": "公田連太郎",
+   "type": "collaborated_with",
+   "object": "加藤繁",
+   "role": "co-translator",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "司馬光編『國訳資治通鑑』加藤繁共訳註",
+   "quote_ok": true
+  },
+  {
+   "subject": "公田連太郎",
+   "type": "collaborated_with",
+   "object": "笹川種郎",
+   "role": "co-translator",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "趙翼『國訳廿二史箚記』笹川種郎共訳註",
+   "quote_ok": true
+  },
+  {
+   "subject": "公田連太郎",
+   "type": "collaborated_with",
+   "object": "鈴木貞太郎",
+   "role": "co-editor",
+   "place": null,
+   "year_start": 1934,
+   "year_end": 1934,
+   "explicit": true,
+   "evidence": "『燉煌（敦煌）出土荷沢神会禅師語録・燉煌出土六祖壇経・興聖寺本六祖壇経』鈴木貞太郎共校 森江書店 1934",
+   "quote_ok": true
+  },
+  {
+   "subject": "公田連太郎",
+   "type": "collaborated_with",
+   "object": "大場弥平",
+   "role": "collaborator",
+   "place": null,
+   "year_start": 1935,
+   "year_end": 1936,
+   "explicit": true,
+   "evidence": "『兵法全集』全7巻 訳 大場弥平講 中央公論社 1935-36",
+   "quote_ok": true
+  },
+  {
+   "subject": "公田連太郎",
+   "type": "collaborated_with",
+   "object": "小杉放庵",
+   "role": "collaborator",
+   "place": null,
+   "year_start": 1935,
+   "year_end": 1936,
+   "explicit": true,
+   "evidence": "『芥子園画伝 全訳』第1-13冊 小杉放庵註解 アトリヱ社 1935-36",
+   "quote_ok": true
+  },
+  {
+   "subject": "公田連太郎",
+   "type": "collaborated_with",
+   "object": "加藤繁",
+   "role": "co-translator",
+   "place": null,
+   "year_start": 1935,
+   "year_end": 1937,
+   "explicit": true,
+   "evidence": "『史記列伝』全3巻 加藤繁共訳註 冨山房 1935-37",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 公田連太郎",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q29410781.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 公田連太郎",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

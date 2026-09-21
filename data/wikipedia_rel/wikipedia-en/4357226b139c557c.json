@@ -1,0 +1,119 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Chin Kung",
+   "birth_year": 1927,
+   "death_year": 2022,
+   "nationality": "Chinese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Fang Tung-mei",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Philosophy"
+  },
+  {
+   "name": "Changkya Khutukhtu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhism"
+  },
+  {
+   "name": "Lee Ping-nan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Chin Kung",
+   "type": "student_of",
+   "object": "Fang Tung-mei",
+   "role": "teacher",
+   "place": "Taiwan",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studying Buddhism and Philosophy in his spare time under the guidance of Professor Fang Tung-mei (方東美)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chin Kung",
+   "type": "student_of",
+   "object": "Changkya Khutukhtu",
+   "role": "traditional teacher",
+   "place": "Taiwan",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studying Buddhism and Philosophy in his spare time under the guidance of Professor Fang Tung-mei (方東美), Changkya Khutukhtu (章嘉呼圖克圖 a master in Mongolian Buddhism)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chin Kung",
+   "type": "student_of",
+   "object": "Lee Ping-nan",
+   "role": "teacher",
+   "place": "Taichung",
+   "year_start": 1958,
+   "year_end": 1968,
+   "explicit": true,
+   "evidence": "He started studying under Lee Ping-nan in Taichung in 1958 and trained under him for ten years.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chin Kung",
+   "type": "position_at",
+   "object": "Chinese Culture University",
+   "role": null,
+   "place": null,
+   "year_start": 1975,
+   "year_end": 1980,
+   "explicit": true,
+   "evidence": "Chin Kung also taught at the Chinese Culture University from 1975 to 1980.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chin Kung",
+   "type": "founded",
+   "object": "Corporate Body of the Buddha Educational Foundation",
+   "role": null,
+   "place": null,
+   "year_start": 1984,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Chin Kung founded and led the Hwa Dzan Society of Propagating Teachings, Hwa Dzan Monastery, Hwa Dzan Buddhist Library, Hwa Dzan Lecture Hall, and The Corporate Body of the Buddha Educational Foundation (1984).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chin Kung",
+   "type": "founded",
+   "object": "Hwa Dzan Buddhist Library",
+   "role": null,
+   "place": "Taipei",
+   "year_start": 1979,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1979, with the help of Han, Chin Kung set up the Hwa Dzan Buddhist Library in Taipei, allowing him a stable physical base for his activities.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Chin Kung",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q3179220.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Chin Kung",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

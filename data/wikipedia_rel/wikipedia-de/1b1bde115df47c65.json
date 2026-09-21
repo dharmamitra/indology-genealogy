@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "James Hadley",
+   "birth_year": 1821,
+   "death_year": 1872,
+   "nationality": "US-amerikanisch",
+   "field": "Altphilologe"
+  },
+  {
+   "name": "William Dwight Whitney",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Hadley",
+   "type": "studied_at",
+   "object": "Yale University",
+   "role": null,
+   "place": "New Haven",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studierte er an der Yale University in New Haven",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Hadley",
+   "type": "position_at",
+   "object": "Yale University",
+   "role": "Professor der griechischen Sprache",
+   "place": "New Haven",
+   "year_start": 1851,
+   "year_end": 1872,
+   "explicit": true,
+   "evidence": "wurde 1851 zum Professor der griechischen Sprache an derselben ernannt und starb am 14. November 1872.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Hadley",
+   "type": "position_at",
+   "object": "American Oriental Society",
+   "role": "leitendes Mitglied",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hadley war ein gründlicher Kenner der klassischen und orientalischen Sprachen und ein leitendes Mitglied der American Oriental Society.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Dwight Whitney",
+   "type": "collaborated_with",
+   "object": "James Hadley",
+   "role": "Herausgeber",
+   "place": null,
+   "year_start": 1873,
+   "year_end": 1873,
+   "explicit": true,
+   "evidence": "Seine Essays philological and critical gab William Dwight Whitney heraus (New York 1873).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): James Hadley",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1680507.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): James Hadley",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

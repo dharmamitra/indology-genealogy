@@ -1,0 +1,83 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sister Vajirā",
+   "birth_year": null,
+   "death_year": 1991,
+   "nationality": "German",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Debes",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ven. Nārada",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Sinhalese",
+   "field": null
+  },
+  {
+   "name": "Ven. Ñānavīra Thera",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "English",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sister Vajirā",
+   "type": "student_of",
+   "object": "Debes",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1949,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "she came to the seminary group of Debes, one of the most prominent lay Theravada teachers at that time",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sister Vajirā",
+   "type": "student_of",
+   "object": "Ven. Nārada",
+   "role": "traditional teacher",
+   "place": "Vihāra Mahā Devi Hermitage at Biyagāma near Colombo",
+   "year_start": 1955,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "She took on the 10 training rules and was ordained as Sister Vajirā by Ven. Nārada on the full moon of July in 1955 at the Vihāra Mahā Devi Hermitage at Biyagāma near Colombo",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sister Vajirā",
+   "type": "collaborated_with",
+   "object": "Ven. Ñānavīra Thera",
+   "role": "correspondent",
+   "place": null,
+   "year_start": 1961,
+   "year_end": 1962,
+   "explicit": true,
+   "evidence": "Thereupon an intensive exchange of letters followed. The early letters show a woman who, in her own thinking and discussion with Ven. Ñānavīra, earnestly searches a way to approach the essence",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Sister Vajirā",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q7531206.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Sister Vajirā",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

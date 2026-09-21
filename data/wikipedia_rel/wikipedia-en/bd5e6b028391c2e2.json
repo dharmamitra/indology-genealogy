@@ -1,0 +1,62 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "William Edward Soothill",
+   "birth_year": 1861,
+   "death_year": 1935,
+   "nationality": "British",
+   "field": "sinologist"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Edward Soothill",
+   "type": "studied_at",
+   "object": "London University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Soothill matriculated at London University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Edward Soothill",
+   "type": "position_at",
+   "object": "Imperial University at Shanxi",
+   "role": "President",
+   "place": "Shanxi",
+   "year_start": 1911,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1911 Soothill became President of the Imperial University at Shanxi.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Edward Soothill",
+   "type": "position_at",
+   "object": "University of Oxford",
+   "role": "Professor of Chinese",
+   "place": "Oxford",
+   "year_start": 1920,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Upon his return to England in 1920 he was appointed Professor of Chinese at Oxford University.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): William Edward Soothill",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q449695.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): William Edward Soothill",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

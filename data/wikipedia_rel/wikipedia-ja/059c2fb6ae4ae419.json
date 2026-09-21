@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "盛永宗興",
+   "birth_year": 1925,
+   "death_year": 1995,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "後藤瑞巌",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "小田雪窓",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "盛永宗興",
+   "type": "student_of",
+   "object": "後藤瑞巌",
+   "role": "traditional teacher",
+   "place": "大珠院",
+   "year_start": 1949,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1949年(昭和24年)に、龍安寺の塔頭である大珠院の後藤瑞巌老師(当時は臨済宗大徳寺派管長)について出家得度。",
+   "quote_ok": true
+  },
+  {
+   "subject": "盛永宗興",
+   "type": "student_of",
+   "object": "小田雪窓",
+   "role": "traditional teacher",
+   "place": "大徳僧堂",
+   "year_start": null,
+   "year_end": 1963,
+   "explicit": true,
+   "evidence": "後藤瑞巖の弟子であり法嗣である小田雪窓が僧堂師家を務める大徳僧堂に掛搭した。1963年(昭和38年)まで大徳僧堂で修行し、遂に雪窓老師の印可を受ける。",
+   "quote_ok": true
+  },
+  {
+   "subject": "小田雪窓",
+   "type": "student_of",
+   "object": "後藤瑞巌",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "後藤瑞巖の弟子であり法嗣である小田雪窓",
+   "quote_ok": true
+  },
+  {
+   "subject": "盛永宗興",
+   "type": "position_at",
+   "object": "花園大学",
+   "role": "学長",
+   "place": null,
+   "year_start": 1986,
+   "year_end": 1994,
+   "explicit": true,
+   "evidence": "昭和61年（1986年）4月から平成6年（1994年）3月まで、花園大学学長。",
+   "quote_ok": true
+  },
+  {
+   "subject": "盛永宗興",
+   "type": "position_at",
+   "object": "大珠院",
+   "role": "住職",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "妙心寺派龍安寺塔頭の大珠院住職となる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "盛永宗興",
+   "type": "studied_at",
+   "object": "富山高等学校",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1947,
+   "explicit": true,
+   "evidence": "戦後は富山高等学校の文科に復学し、1947年(昭和22年)に卒業後",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 盛永宗興",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q7667599.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 盛永宗興",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Henry George Keene",
+   "birth_year": 1781,
+   "death_year": 1864,
+   "nationality": "English",
+   "field": "orientalist"
+  },
+  {
+   "name": "Jacques-François Menou",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Joseph von Hammer-Purgstall",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Henry George Keene",
+   "type": "student_of",
+   "object": "Jacques-François Menou",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was educated privately, partly by Jacques-François Menou.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry George Keene",
+   "type": "studied_at",
+   "object": "Fort William College in Calcutta",
+   "role": null,
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": 1804,
+   "explicit": true,
+   "evidence": "he entered Fort William College in Calcutta, then newly established, for the training of young civil officers. In January 1804 Keene passed out at Fort William in the first class.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry George Keene",
+   "type": "studied_at",
+   "object": "Sidney Sussex College, Cambridge",
+   "role": null,
+   "place": "Cambridge",
+   "year_start": 1811,
+   "year_end": 1815,
+   "explicit": true,
+   "evidence": "On 13 November 1811 Keene matriculated at Sidney Sussex College, Cambridge, where he graduated in 1815.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry George Keene",
+   "type": "position_at",
+   "object": "Sidney Sussex College, Cambridge",
+   "role": "fellow",
+   "place": "Cambridge",
+   "year_start": 1817,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was admitted fellow of his college on 13 November 1817",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry George Keene",
+   "type": "collaborated_with",
+   "object": "Joseph von Hammer-Purgstall",
+   "role": "correspondent",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "met Archduke John of Austria and Joseph von Hammer-Purgstall, with both of whom he kept up a correspondence.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry George Keene",
+   "type": "position_at",
+   "object": "East India College, Haileybury",
+   "role": "professor of Arabic and Persian",
+   "place": "Haileybury",
+   "year_start": 1824,
+   "year_end": 1834,
+   "explicit": true,
+   "evidence": "In 1824 Keene became professor of Arabic and Persian at the East India College, Haileybury, where he was later appointed registrar. [...] In 1834 he resigned his posts at Haileybury",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Henry George Keene (orientalist)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q15990098.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Henry George Keene (orientalist)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,105 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Alfred Gell",
+   "birth_year": 1945,
+   "death_year": 1997,
+   "nationality": "britisch",
+   "field": "Sozialanthropologe"
+  },
+  {
+   "name": "Claude Lévi-Strauss",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Alfred Gell",
+   "type": "studied_at",
+   "object": "University of Cambridge",
+   "role": "Bachelorgrad",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": 1967,
+   "explicit": true,
+   "evidence": "Alfred Gell [...] studierte an der University of Cambridge (Trinity College) Archäologie und Ethnologie und erwarb dort 1967 den Bachelorgrad.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Gell",
+   "type": "studied_at",
+   "object": "London School of Economics",
+   "role": "Ph.D.",
+   "place": "London",
+   "year_start": null,
+   "year_end": 1972,
+   "explicit": true,
+   "evidence": "Er setzte anschließend sein Studium an der London School of Economics fort. Nach der Magisterprüfung promovierte er an dieser Hochschule im Jahre 1972 zum Ph.D.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Gell",
+   "type": "position_at",
+   "object": "University of Sussex",
+   "role": "Dozentur",
+   "place": null,
+   "year_start": null,
+   "year_end": 1974,
+   "explicit": true,
+   "evidence": "Nach einer Dozentur an der University of Sussex wechselte er 1974 als Dozent an die Australian National University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Gell",
+   "type": "position_at",
+   "object": "Australian National University",
+   "role": "Dozent",
+   "place": null,
+   "year_start": 1974,
+   "year_end": 1979,
+   "explicit": true,
+   "evidence": "wechselte er 1974 als Dozent an die Australian National University und führte 1977 Feldforschungen in Indien durch. 1979 kehrte er als Dozent an die London School of Economics zurück",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Gell",
+   "type": "position_at",
+   "object": "London School of Economics",
+   "role": "Dozent",
+   "place": "London",
+   "year_start": 1979,
+   "year_end": 1997,
+   "explicit": true,
+   "evidence": "1979 kehrte er als Dozent an die London School of Economics zurück und lehrte dort als Dozent bis zu seinem frühen Tod",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Gell",
+   "type": "influenced_by",
+   "object": "Claude Lévi-Strauss",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In Lehre, Forschung und seinen Veröffentlichungen aus dem Bereich der Sozialanthropologie war er stark vom Denken Claude Lévi-Strauss’ bestimmt.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Alfred Gell",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q4722715.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Alfred Gell",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

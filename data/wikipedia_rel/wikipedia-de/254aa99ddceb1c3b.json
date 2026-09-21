@@ -1,0 +1,93 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Takakusu Junjirō",
+   "birth_year": 1866,
+   "death_year": 1945,
+   "nationality": "Japanese",
+   "field": "Buddhology"
+  },
+  {
+   "name": "Friedrich Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Takakusu Junjirō",
+   "type": "studied_at",
+   "object": "Ryūkoku-Universität",
+   "role": "Abschluss",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Takakusu Junjirō machte seinen Abschluss an der Ryūkoku-Universität.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Takakusu Junjirō",
+   "type": "student_of",
+   "object": "Friedrich Max Müller",
+   "role": "teacher",
+   "place": "Oxford",
+   "year_start": 1890,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1890 ging er nach England und studierte in Oxford Indische Religion und Philosophie sowie Sanskrit unter dem deutschen Gelehrten Friedrich Max Müller.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Takakusu Junjirō",
+   "type": "position_at",
+   "object": "Kaiserliche Universität Tokio",
+   "role": "unterrichtete Sanskrit-Literatur",
+   "place": "Tōkyō",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zurück in Tōkyō unterrichtete er an der Kaiserlichen Universität Tokio Sanskrit-Literatur.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Takakusu Junjirō",
+   "type": "position_at",
+   "object": "Fremdsprachenschule Tokio",
+   "role": "Leiter",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Takakusu war Leiter der Fremdsprachenschule Tokio (heute Fremdsprachen-Universität Tokyo)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Takakusu Junjirō",
+   "type": "position_at",
+   "object": "Tōyō-Universität",
+   "role": "Rektor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "und Rektor der Tōyō-Universität.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Takakusu Junjirō",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q288947.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Takakusu Junjirō",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

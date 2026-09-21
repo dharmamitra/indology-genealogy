@@ -1,0 +1,167 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "久保勉",
+   "birth_year": 1883,
+   "death_year": 1972,
+   "nationality": "日本",
+   "field": "ギリシア哲学"
+  },
+  {
+   "name": "ラファエル・ケーベル",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "阿部次郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "深田康算",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "久保勉",
+   "type": "studied_at",
+   "object": "東京帝国大学哲学科選科",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1912,
+   "explicit": true,
+   "evidence": "東京帝国大学哲学科選科に入学した。大学ではラファエル・ケーベルの教えを受け、その後助手を務めた。1912年、東京帝国大学を卒業。",
+   "quote_ok": true
+  },
+  {
+   "subject": "久保勉",
+   "type": "student_of",
+   "object": "ラファエル・ケーベル",
+   "role": "teacher",
+   "place": "東京帝国大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "大学ではラファエル・ケーベルの教えを受け",
+   "quote_ok": true
+  },
+  {
+   "subject": "久保勉",
+   "type": "position_at",
+   "object": "東京帝国大学",
+   "role": "助手",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "その後助手を務めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "久保勉",
+   "type": "studied_at",
+   "object": "東京帝国大学大学院",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "同大学大学院に進んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "久保勉",
+   "type": "position_at",
+   "object": "東北帝国大学法文学部",
+   "role": "助教授",
+   "place": null,
+   "year_start": 1929,
+   "year_end": 1940,
+   "explicit": true,
+   "evidence": "翌1929年、東北帝国大学法文学部助教授となった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "久保勉",
+   "type": "collaborated_with",
+   "object": "阿部次郎",
+   "role": null,
+   "place": "東北帝国大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "大学では阿部次郎と同僚であり、『ソクラテスの弁明・クリトン』などの刊行を共に進めていった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "久保勉",
+   "type": "position_at",
+   "object": "東北帝国大学",
+   "role": "教授",
+   "place": null,
+   "year_start": 1940,
+   "year_end": 1946,
+   "explicit": true,
+   "evidence": "1940年に教授昇進。1946年に東北帝国大学を定年退職し",
+   "quote_ok": true
+  },
+  {
+   "subject": "久保勉",
+   "type": "position_at",
+   "object": "東洋大学",
+   "role": "教授",
+   "place": null,
+   "year_start": 1946,
+   "year_end": 1954,
+   "explicit": true,
+   "evidence": "その後は東洋大学教授として教鞭をとった。1953年、学位論文『プラトンの僭王政治論』を東北大学に提出して文学博士号を取得。1954年に東洋大学を定年退職し、名誉教授となった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "久保勉",
+   "type": "studied_at",
+   "object": "東北大学",
+   "role": "文学博士",
+   "place": null,
+   "year_start": null,
+   "year_end": 1953,
+   "explicit": true,
+   "evidence": "1953年、学位論文『プラトンの僭王政治論』を東北大学に提出して文学博士号を取得。",
+   "quote_ok": true
+  },
+  {
+   "subject": "久保勉",
+   "type": "collaborated_with",
+   "object": "深田康算",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "師のケーベルの随筆を深田康算と共に翻訳している。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 久保勉",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q57733849.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 久保勉",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

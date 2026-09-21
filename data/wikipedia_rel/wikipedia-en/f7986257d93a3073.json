@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ken McLeod",
+   "birth_year": 1948,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Kalu Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ken McLeod",
+   "type": "student_of",
+   "object": "Kalu Rinpoche",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": 1970,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He received traditional training mainly in the Shangpa Kagyu lineage through a long association with his principal teacher, Kalu Rinpoche, whom he met in 1970.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Ken McLeod",
+   "type": "founded",
+   "object": "Unfettered Mind",
+   "role": null,
+   "place": "Los Angeles",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "McLeod resided in Los Angeles for many years, where he founded Unfettered Mind.",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Wikipedia (en): Ken McLeod",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q11738699.txt#1",
+ "meta": {
+  "title": "Wikipedia (en): Ken McLeod",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

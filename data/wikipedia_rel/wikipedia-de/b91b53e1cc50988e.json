@@ -1,0 +1,136 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Stephen Addiss",
+   "birth_year": 1935,
+   "death_year": 2022,
+   "nationality": "US-amerikanisch",
+   "field": "Kunstwissenschaft"
+  },
+  {
+   "name": "Walter Piston",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "John Cage",
+   "birth_year": null,
+   "death_year": 1992,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Stephen Addiss",
+   "type": "studied_at",
+   "object": "Harvard University",
+   "role": "Bachelor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1957,
+   "explicit": true,
+   "evidence": "Addiss studierte zunächst Komposition bei Walter Piston an der Harvard University (Bachelor 1957)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stephen Addiss",
+   "type": "student_of",
+   "object": "Walter Piston",
+   "role": "teacher",
+   "place": "Harvard University",
+   "year_start": null,
+   "year_end": 1957,
+   "explicit": true,
+   "evidence": "Addiss studierte zunächst Komposition bei Walter Piston an der Harvard University (Bachelor 1957)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stephen Addiss",
+   "type": "student_of",
+   "object": "John Cage",
+   "role": "teacher",
+   "place": "New School in New York",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "und bei John Cage, mit dem er bis zu dessen Tod 1992 befreundet war, an der New School in New York.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stephen Addiss",
+   "type": "studied_at",
+   "object": "New School in New York",
+   "role": null,
+   "place": "New York",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "und bei John Cage, mit dem er bis zu dessen Tod 1992 befreundet war, an der New School in New York.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stephen Addiss",
+   "type": "other",
+   "object": "John Cage",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": 1992,
+   "explicit": true,
+   "evidence": "mit dem er bis zu dessen Tod 1992 befreundet war",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stephen Addiss",
+   "type": "studied_at",
+   "object": "University of Michigan",
+   "role": "Master- und Doktorgrad",
+   "place": null,
+   "year_start": 1971,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ab 1971 nahm Addiss am Graduiertenprogramm der University of Michigan teil und erwarb den Master- und Doktorgrad in asiatischer Kunstgeschichte und Musikwissenschaft.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stephen Addiss",
+   "type": "position_at",
+   "object": "University of Kansas",
+   "role": null,
+   "place": null,
+   "year_start": 1977,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1977 begann er an der University of Kansas zu unterrichten",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stephen Addiss",
+   "type": "position_at",
+   "object": "University of Richmond",
+   "role": "Tucker-Boatwright-Professur für Kunst",
+   "place": null,
+   "year_start": 1992,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "von 1992 bis zu seiner Emeritierung hatte er die Tucker-Boatwright-Professur für Kunst an der University of Richmond inne.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Stephen Addiss",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q55940071.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Stephen Addiss",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

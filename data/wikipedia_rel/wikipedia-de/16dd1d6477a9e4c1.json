@@ -1,0 +1,171 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Masao Abe",
+   "birth_year": 1915,
+   "death_year": 2006,
+   "nationality": "japanisch",
+   "field": "Philosoph und Religionswissenschaftler"
+  },
+  {
+   "name": "D.T. Suzuki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Paul Tillich",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Reinhold Niebuhr",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hajime Tanabe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Shin’ichi Hisamatsu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kitaro Nishida",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Keiji Nishitani",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Masao Abe",
+   "type": "position_at",
+   "object": "Universität Kyōto",
+   "role": null,
+   "place": "Kyōto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "lehrte an der Universität Kyōto, der Ōtani-Universität und im nah gelegenen Nara.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Masao Abe",
+   "type": "position_at",
+   "object": "Ōtani-Universität",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "lehrte an der Universität Kyōto, der Ōtani-Universität und im nah gelegenen Nara.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Masao Abe",
+   "type": "student_of",
+   "object": "Hajime Tanabe",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er studierte westliche Philosophie bei Hajime Tanabe",
+   "quote_ok": true
+  },
+  {
+   "subject": "Masao Abe",
+   "type": "student_of",
+   "object": "Shin’ichi Hisamatsu",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "und zur gleichen Zeit Zen bei Shin’ichi Hisamatsu",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shin’ichi Hisamatsu",
+   "type": "student_of",
+   "object": "Kitaro Nishida",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Shin’ichi Hisamatsu, der in der Tradition des Rinzai stand und dessen Lehrer Kitaro Nishida war.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Masao Abe",
+   "type": "influenced_by",
+   "object": "Kitaro Nishida",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nishida, Keiji Nishitani und Tanabe zählten zu Abes Haupteinflüssen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Masao Abe",
+   "type": "influenced_by",
+   "object": "Keiji Nishitani",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nishida, Keiji Nishitani und Tanabe zählten zu Abes Haupteinflüssen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Masao Abe",
+   "type": "influenced_by",
+   "object": "Hajime Tanabe",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nishida, Keiji Nishitani und Tanabe zählten zu Abes Haupteinflüssen.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Masao Abe (buddhistischer Philosoph)",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1975693.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Masao Abe (buddhistischer Philosoph)",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

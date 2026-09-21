@@ -1,0 +1,117 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ernst Georg Wilhelm Deecke",
+   "birth_year": 1831,
+   "death_year": 1897,
+   "nationality": "German",
+   "field": "Sprachwissenschaftler"
+  },
+  {
+   "name": "Albert Schweitzer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ernst Georg Wilhelm Deecke",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": "Dr. phil.",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nach dem Studium der Philologie in Leipzig und Berlin... Er wurde in Leipzig zum Dr. phil. promoviert",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Georg Wilhelm Deecke",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nach dem Studium der Philologie in Leipzig und Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Georg Wilhelm Deecke",
+   "type": "position_at",
+   "object": "Ernestinenschule",
+   "role": "Direktor",
+   "place": "Lübeck",
+   "year_start": 1855,
+   "year_end": 1870,
+   "explicit": true,
+   "evidence": "war er von 1855 bis 1870 Direktor der Ernestinenschule, einer höheren Mädchenschule in Lübeck.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Georg Wilhelm Deecke",
+   "type": "position_at",
+   "object": "Lyzeum in Straßburg",
+   "role": "Konrektor",
+   "place": "Straßburg",
+   "year_start": 1871,
+   "year_end": 1879,
+   "explicit": true,
+   "evidence": "1871 wurde Deecke Konrektor des Lyzeums in Straßburg und übernahm dessen Leitung 1879.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Georg Wilhelm Deecke",
+   "type": "position_at",
+   "object": "Gymnasium in Buchsweiler",
+   "role": "Schulleiter",
+   "place": "Buchsweiler",
+   "year_start": 1884,
+   "year_end": 1889,
+   "explicit": true,
+   "evidence": "wurde er 1884 als Schulleiter an das Gymnasium in Buchsweiler zwangsversetzt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Georg Wilhelm Deecke",
+   "type": "position_at",
+   "object": "Gymnasium in Mülhausen",
+   "role": "Direktor",
+   "place": "Mülhausen",
+   "year_start": 1889,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Weihnachten 1889 wurde Deecke vom Statthalter Chlodwig zu Hohenlohe-Schillingsfürst als Direktor an das Gymnasium in Mülhausen versetzt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albert Schweitzer",
+   "type": "student_of",
+   "object": "Ernst Georg Wilhelm Deecke",
+   "role": "teacher",
+   "place": "Mülhausen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hier war der zu Lebzeiten als „Urwalddoktor von Lambarene“ bekannte Albert Schweitzer in der Prima sein Schüler.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Wilhelm Deecke (Sprachforscher)",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q141722.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Wilhelm Deecke (Sprachforscher)",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

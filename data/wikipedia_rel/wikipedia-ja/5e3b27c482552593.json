@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "藤田宏達",
+   "birth_year": 1928,
+   "death_year": 2023,
+   "nationality": "日本",
+   "field": "仏教学"
+  },
+  {
+   "name": "中村元",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "桜部建",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ツルティム・ケサン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "藤田宏達",
+   "type": "studied_at",
+   "object": "東京大学文学部哲学科",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1950,
+   "explicit": true,
+   "evidence": "1950年、東京大学文学部哲学科（印度哲学専修）を卒業",
+   "quote_ok": true
+  },
+  {
+   "subject": "藤田宏達",
+   "type": "studied_at",
+   "object": "東京大学大学院",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "同大学院で中村元に師事した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "藤田宏達",
+   "type": "student_of",
+   "object": "中村元",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "同大学院で中村元に師事した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "藤田宏達",
+   "type": "position_at",
+   "object": "北海道大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "卒業後は北海道大学教授。",
+   "quote_ok": true
+  },
+  {
+   "subject": "藤田宏達",
+   "type": "position_at",
+   "object": "札幌大谷短期大学",
+   "role": "学長",
+   "place": null,
+   "year_start": 1992,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1992年に札幌大谷短期大学長に就いた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "藤田宏達",
+   "type": "collaborated_with",
+   "object": "桜部建",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "『浄土仏教の思想 第1巻　無量寿経・阿弥陀経』 講談社、1994年。後者は桜部建が担当",
+   "quote_ok": true
+  },
+  {
+   "subject": "藤田宏達",
+   "type": "collaborated_with",
+   "object": "ツルティム・ケサン",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "『浄土仏教の思想 第3巻　龍樹・世親、チベットの浄土教、慧遠』 講談社 1993年。チベットはツルティム・ケサン。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 藤田宏達",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q6608122.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 藤田宏達",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

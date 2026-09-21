@@ -1,0 +1,138 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Jean-Baptiste Biot",
+   "birth_year": 1774,
+   "death_year": 1862,
+   "nationality": "French",
+   "field": "physics, astronomy, and mathematics"
+  },
+  {
+   "name": "Édouard Constant Biot",
+   "birth_year": 1803,
+   "death_year": 1850,
+   "nationality": "French",
+   "field": "Sinologist"
+  },
+  {
+   "name": "Stanislas Julien",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Sinologist"
+  },
+  {
+   "name": "Félix Savart",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Alexander von Humboldt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Prussian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jean-Baptiste Biot",
+   "type": "studied_at",
+   "object": "Lyceum Louis-le-Grand",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was educated at Lyceum Louis-le-Grand and École Polytechnique in 1794.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean-Baptiste Biot",
+   "type": "studied_at",
+   "object": "École Polytechnique",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1794,
+   "explicit": true,
+   "evidence": "He was educated at Lyceum Louis-le-Grand and École Polytechnique in 1794.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean-Baptiste Biot",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "professor of physics",
+   "place": null,
+   "year_start": 1800,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He later went on to become a professor of physics at the Collège de France around 1800",
+   "quote_ok": true
+  },
+  {
+   "subject": "Édouard Constant Biot",
+   "type": "other",
+   "object": "Jean-Baptiste Biot",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Jean-Baptiste Biot had a single son, Édouard Constant Biot, an engineer and Sinologist, born in 1803.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean-Baptiste Biot",
+   "type": "collaborated_with",
+   "object": "Stanislas Julien",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "To publish it in correct form, Jean-Baptiste Biot wrote, he had to consult Stanislas Julien, the famous Sinologist",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean-Baptiste Biot",
+   "type": "collaborated_with",
+   "object": "Alexander von Humboldt",
+   "role": null,
+   "place": null,
+   "year_start": 1804,
+   "year_end": 1804,
+   "explicit": true,
+   "evidence": "In 1804, he used lines of equal magnetic field intensity in an article authored together with the Prussian naturalist Alexander von Humboldt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean-Baptiste Biot",
+   "type": "collaborated_with",
+   "object": "Félix Savart",
+   "role": null,
+   "place": null,
+   "year_start": 1820,
+   "year_end": 1820,
+   "explicit": true,
+   "evidence": "The Biot–Savart law in magnetism is named after Biot and his colleague Félix Savart for their work in 1820.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Jean-Baptiste Biot",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q58328.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Jean-Baptiste Biot",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

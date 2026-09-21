@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Wilhelm Ludwig Geiger",
+   "birth_year": 1856,
+   "death_year": 1943,
+   "nationality": "German",
+   "field": "Indo-Iranian languages and the history of Iran and Sri Lanka"
+  },
+  {
+   "name": "Friedrich von Spiegel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Wilhelm Ludwig Geiger",
+   "type": "studied_at",
+   "object": "University of Erlangen-Nuremberg",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1878,
+   "explicit": true,
+   "evidence": "was educated especially at the University of Erlangen-Nuremberg under the scholar Friedrich von Spiegel. During his studies, he joined the fraternity Uttenruthia. After completing his Ph.D. thesis in 1878",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Ludwig Geiger",
+   "type": "student_of",
+   "object": "Friedrich von Spiegel",
+   "role": "teacher",
+   "place": "University of Erlangen-Nuremberg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "was educated especially at the University of Erlangen-Nuremberg under the scholar Friedrich von Spiegel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Ludwig Geiger",
+   "type": "position_at",
+   "object": "University of Erlangen",
+   "role": "chair in Indo-European Comparative Philology",
+   "place": null,
+   "year_start": 1891,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1891 he was offered a chair in Indo-European Comparative Philology at the University of Erlangen, succeeding Spiegel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Ludwig Geiger",
+   "type": "succeeded",
+   "object": "Friedrich von Spiegel",
+   "role": "chair in Indo-European Comparative Philology",
+   "place": "University of Erlangen",
+   "year_start": 1891,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1891 he was offered a chair in Indo-European Comparative Philology at the University of Erlangen, succeeding Spiegel.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Wilhelm Geiger",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q76695.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Wilhelm Geiger",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

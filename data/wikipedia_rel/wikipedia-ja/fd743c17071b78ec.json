@@ -1,0 +1,83 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ルートヴィヒ・ノワレ",
+   "birth_year": 1829,
+   "death_year": 1889,
+   "nationality": "ドイツ",
+   "field": "言語哲学"
+  },
+  {
+   "name": "エルンスト・カッシーラー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "アレクサンドル・ボグダーノフ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "フリードリヒ・マックス・ミュラー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ルートヴィヒ・ノワレ",
+   "type": "studied_at",
+   "object": "ギーセン大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "彼はギーセン大学で学び",
+   "quote_ok": true
+  },
+  {
+   "subject": "アレクサンドル・ボグダーノフ",
+   "type": "influenced_by",
+   "object": "ルートヴィヒ・ノワレ",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "アレクサンドル・ボグダーノフは、ノワレの思想をもとにテクトロジーと呼ばれるすべてのシステムの根底にある組織原理を探求することで統合する新しい普遍的な科学理論を構築した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ルートヴィヒ・ノワレ",
+   "type": "collaborated_with",
+   "object": "フリードリヒ・マックス・ミュラー",
+   "role": null,
+   "place": null,
+   "year_start": 1881,
+   "year_end": 1881,
+   "explicit": true,
+   "evidence": "ノワレは、1881年にフリードリヒ・マックス・ミュラーが英訳したカントの『純粋理性批判』に歴史的に著名な序文を寄稿した。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ルートヴィヒ・ノワレ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q119589.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ルートヴィヒ・ノワレ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

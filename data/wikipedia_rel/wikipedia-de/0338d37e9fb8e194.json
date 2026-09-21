@@ -1,0 +1,105 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Hanns Oertel",
+   "birth_year": 1868,
+   "death_year": 1952,
+   "nationality": "deutscher",
+   "field": "Indologe"
+  },
+  {
+   "name": "William Dwight Whitney",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hanns Oertel",
+   "type": "studied_at",
+   "object": "Yale University",
+   "role": "Promotion",
+   "place": null,
+   "year_start": null,
+   "year_end": 1890,
+   "explicit": true,
+   "evidence": "studierte an der Yale University, wo er 1890 mit einer Arbeit über Horaz (De cottidiani sermonis in Q. Horatii Flacci sermonibus vestigiis) promovierte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hanns Oertel",
+   "type": "student_of",
+   "object": "William Dwight Whitney",
+   "role": "teacher",
+   "place": "Yale University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studierte an der Yale University [...] Sprachwissenschaft und Sanskrit bei William Dwight Whitney.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hanns Oertel",
+   "type": "position_at",
+   "object": "Yale University",
+   "role": "Professor of Linguistics and Comparative Philology",
+   "place": null,
+   "year_start": 1896,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1896 zum Professor of Linguistics and Comparative Philology ernannt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hanns Oertel",
+   "type": "position_at",
+   "object": "Basel",
+   "role": "Privatdozent",
+   "place": "Basel",
+   "year_start": 1920,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1920 wurde er Privatdozent in Basel",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hanns Oertel",
+   "type": "position_at",
+   "object": "Marburg",
+   "role": "Professor",
+   "place": "Marburg",
+   "year_start": 1922,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "und 1922 Professor in Marburg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hanns Oertel",
+   "type": "position_at",
+   "object": "Universität München",
+   "role": "Professor für arische Philologie",
+   "place": "München",
+   "year_start": 1925,
+   "year_end": 1935,
+   "explicit": true,
+   "evidence": "Von 1925 bis 1935 lehrte er als Professor für arische Philologie an der Universität München.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Hanns Oertel",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q55847973.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Hanns Oertel",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

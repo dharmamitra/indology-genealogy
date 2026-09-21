@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Johann III Bernoulli",
+   "birth_year": 1744,
+   "death_year": 1807,
+   "nationality": "Swiss",
+   "field": "mathematics, philosophy, astronomy and geography"
+  },
+  {
+   "name": "Johann II Bernoulli",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Johann Bernoulli",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johann III Bernoulli",
+   "type": "other",
+   "object": "Johann II Bernoulli",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "son of Johann II Bernoulli",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann III Bernoulli",
+   "type": "other",
+   "object": "Johann Bernoulli",
+   "role": "grandson",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "grandson of Johann Bernoulli",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann III Bernoulli",
+   "type": "studied_at",
+   "object": "Basel",
+   "role": "doctor in philosophy",
+   "place": "Basel",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied at Basel and at Neuchâtel, and when thirteen years of age took the degree of doctor in philosophy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann III Bernoulli",
+   "type": "studied_at",
+   "object": "Neuchâtel",
+   "role": null,
+   "place": "Neuchâtel",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied at Basel and at Neuchâtel",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann III Bernoulli",
+   "type": "position_at",
+   "object": "Berlin Academy",
+   "role": "director of the mathematical department",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "On his return to Berlin he was appointed director of the mathematical department of the academy.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Johann III Bernoulli",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q123984.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Johann III Bernoulli",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

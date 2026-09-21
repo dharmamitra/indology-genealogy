@@ -1,0 +1,114 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Iwan Pawlowitsch Minajew",
+   "birth_year": 1840,
+   "death_year": 1890,
+   "nationality": "russisch",
+   "field": "Orientalist und Linguist, der als der erste russische Indologe gilt"
+  },
+  {
+   "name": "Sergei Oldenburg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Fjodor Schtscherbatskoi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Dmitri Kudrjawskij",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Wassili Wassiljew",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sinologe"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sergei Oldenburg",
+   "type": "student_of",
+   "object": "Iwan Pawlowitsch Minajew",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zu seinen Schülern gehörten Sergei Oldenburg, Fjodor Schtscherbatskoi und Dmitri Kudrjawskij",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fjodor Schtscherbatskoi",
+   "type": "student_of",
+   "object": "Iwan Pawlowitsch Minajew",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zu seinen Schülern gehörten Sergei Oldenburg, Fjodor Schtscherbatskoi und Dmitri Kudrjawskij",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dmitri Kudrjawskij",
+   "type": "student_of",
+   "object": "Iwan Pawlowitsch Minajew",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zu seinen Schülern gehörten Sergei Oldenburg, Fjodor Schtscherbatskoi und Dmitri Kudrjawskij",
+   "quote_ok": true
+  },
+  {
+   "subject": "Iwan Pawlowitsch Minajew",
+   "type": "student_of",
+   "object": "Wassili Wassiljew",
+   "role": "teacher",
+   "place": "Universität von Sankt Petersburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Als Student des Sinologen Wassili Wassiljew an der Universität von Sankt Petersburg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Iwan Pawlowitsch Minajew",
+   "type": "studied_at",
+   "object": "Universität von Sankt Petersburg",
+   "role": null,
+   "place": "Sankt Petersburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Als Student des Sinologen Wassili Wassiljew an der Universität von Sankt Petersburg",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Iwan Pawlowitsch Minajew",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q171275.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Iwan Pawlowitsch Minajew",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

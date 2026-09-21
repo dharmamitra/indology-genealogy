@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Wilhelm Wackernagel",
+   "birth_year": 1806,
+   "death_year": 1869,
+   "nationality": "German-Swiss",
+   "field": "philologist specializing in Germanic studies"
+  },
+  {
+   "name": "Jacob Wackernagel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indo-Europeanist"
+  },
+  {
+   "name": "August Boeckh",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Karl Lachmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jacob Wackernagel",
+   "type": "other",
+   "object": "Wilhelm Wackernagel",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was the father of Indo-Europeanist Jacob Wackernagel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Wackernagel",
+   "type": "studied_at",
+   "object": "University of Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Wackernagel studied Classical and Germanic literature at the University of Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Wackernagel",
+   "type": "student_of",
+   "object": "August Boeckh",
+   "role": "pupil",
+   "place": "University of Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Wackernagel studied Classical and Germanic literature at the University of Berlin as a pupil of August Boeckh and Karl Lachmann.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Wackernagel",
+   "type": "student_of",
+   "object": "Karl Lachmann",
+   "role": "pupil",
+   "place": "University of Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Wackernagel studied Classical and Germanic literature at the University of Berlin as a pupil of August Boeckh and Karl Lachmann.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Wackernagel",
+   "type": "position_at",
+   "object": "University of Basel",
+   "role": "professor of German language and literature",
+   "place": "Basel",
+   "year_start": 1835,
+   "year_end": 1869,
+   "explicit": true,
+   "evidence": "from 1835 to 1869, he was a professor of German language and literature at the university.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Wilhelm Wackernagel",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q215353.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Wilhelm Wackernagel",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

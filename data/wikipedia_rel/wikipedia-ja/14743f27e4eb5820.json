@@ -1,0 +1,124 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "太虚",
+   "birth_year": 1890,
+   "death_year": 1947,
+   "nationality": "中国",
+   "field": null
+  },
+  {
+   "name": "敬安",
+   "birth_year": null,
+   "death_year": 1912,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "印順",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "太虚",
+   "type": "student_of",
+   "object": "敬安",
+   "role": "師",
+   "place": "天童寺",
+   "year_start": null,
+   "year_end": 1912,
+   "explicit": true,
+   "evidence": "師である天童寺の敬安が",
+   "quote_ok": true
+  },
+  {
+   "subject": "太虚",
+   "type": "position_at",
+   "object": "毘盧寺",
+   "role": "僧",
+   "place": "南京",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "南京の毘盧寺の僧である",
+   "quote_ok": true
+  },
+  {
+   "subject": "太虚",
+   "type": "founded",
+   "object": "武昌仏学院",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "武昌仏学院を設立して人材育成のための青年僧教育機関の経営に乗り出した",
+   "quote_ok": true
+  },
+  {
+   "subject": "印順",
+   "type": "student_of",
+   "object": "太虚",
+   "role": "後継者",
+   "place": "武昌仏学院",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "武昌仏学院を設立して人材育成のための青年僧教育機関の経営に乗り出した。そこからは、印順らの優秀な後継者が出た。",
+   "quote_ok": true
+  },
+  {
+   "subject": "印順",
+   "type": "studied_at",
+   "object": "武昌仏学院",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "武昌仏学院を設立して人材育成のための青年僧教育機関の経営に乗り出した。そこからは、印順らの優秀な後継者が出た。",
+   "quote_ok": true
+  },
+  {
+   "subject": "太虚",
+   "type": "founded",
+   "object": "世界仏教連合会",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "世界仏教連合会を組織",
+   "quote_ok": true
+  },
+  {
+   "subject": "太虚",
+   "type": "founded",
+   "object": "海潮音",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "月刊『海潮音』を創刊した",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 釈太虚",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q795292.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 釈太虚",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

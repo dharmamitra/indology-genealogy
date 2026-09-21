@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Tsenzhab Serkong Rinpoche",
+   "birth_year": 1914,
+   "death_year": 1983,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "14th Dalai Lama",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "14th Dalai Lama",
+   "type": "student_of",
+   "object": "Tsenzhab Serkong Rinpoche",
+   "role": "traditional teacher",
+   "place": "Dharamsala",
+   "year_start": 1948,
+   "year_end": 1983,
+   "explicit": true,
+   "evidence": "In 1948 he was appointed from Ganden Jangtsey Monastery near Lhasa as one of seven teachers for the Dalai Lama... Rinpoche taught the Dalai Lama through debates about Buddhist teachings until Rinpoche's death in August 1983.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tsenzhab Serkong Rinpoche",
+   "type": "position_at",
+   "object": "Ganden Jangtsey Monastery",
+   "role": null,
+   "place": "Lhasa",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he was appointed from Ganden Jangtsey Monastery near Lhasa as one of seven teachers for the Dalai Lama.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Tsenzhab Serkong Rinpoche",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q2458255.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Tsenzhab Serkong Rinpoche",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

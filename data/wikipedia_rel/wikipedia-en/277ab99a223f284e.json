@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "François Jacob",
+   "birth_year": 1920,
+   "death_year": 2013,
+   "nationality": "French",
+   "field": "biology"
+  },
+  {
+   "name": "Jacques Monod",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "biology"
+  },
+  {
+   "name": "André Lwoff",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "François Jacob",
+   "type": "collaborated_with",
+   "object": "Jacques Monod",
+   "role": "co-researcher",
+   "place": null,
+   "year_start": 1961,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1961 Jacob and Monod explored the idea that the control of enzyme expression levels in cells is a result of regulation of transcription of DNA sequences.",
+   "quote_ok": true
+  },
+  {
+   "subject": "François Jacob",
+   "type": "position_at",
+   "object": "Cabanel Center",
+   "role": null,
+   "place": null,
+   "year_start": 1947,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Instead, he took a position at the Cabanel Center, where he had done his thesis research; his new work entailed the manufacture of an antibiotic, tyrothricin.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): François Jacob",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q218311.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): François Jacob",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

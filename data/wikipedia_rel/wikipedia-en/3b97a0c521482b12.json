@@ -1,0 +1,119 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ernest Renan",
+   "birth_year": 1823,
+   "death_year": 1892,
+   "nationality": "French",
+   "field": "Semitic scholar, historian of religion, philologist, philosopher, biblical scholar"
+  },
+  {
+   "name": "Arthur-Marie Le Hir",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Marcellin Berthelot",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "chemist"
+  },
+  {
+   "name": "Yannis Psycharis",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philologist"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ernest Renan",
+   "type": "studied_at",
+   "object": "college of St Sulpice",
+   "role": null,
+   "place": null,
+   "year_start": 1844,
+   "year_end": 1845,
+   "explicit": true,
+   "evidence": "in 1844 he entered the college of St Sulpice in order to take his degree in philology prior to entering the church",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernest Renan",
+   "type": "student_of",
+   "object": "Arthur-Marie Le Hir",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "by day, he studied Hebrew and Syriac under Arthur-Marie Le Hir.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernest Renan",
+   "type": "position_at",
+   "object": "M. Crouzet's school for boys",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1845,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In October 1845, Renan left Saint Sulpice for Stanislas... and entered M. Crouzet's school for boys as a teacher.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Marcellin Berthelot",
+   "type": "student_of",
+   "object": "Ernest Renan",
+   "role": "pupil",
+   "place": "M. Crouzet's school",
+   "year_start": 1846,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "revealed to Renan in 1846 by the chemist Marcellin Berthelot, then a young man of eighteen, his pupil at M. Crouzet's school.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernest Renan",
+   "type": "collaborated_with",
+   "object": "Marcellin Berthelot",
+   "role": "friendship",
+   "place": null,
+   "year_start": 1846,
+   "year_end": 1892,
+   "explicit": true,
+   "evidence": "To the day of Renan's death, their friendship continued.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Yannis Psycharis",
+   "type": "other",
+   "object": "Ernest Renan",
+   "role": "son-in-law",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and Noémi, born in 1862, who eventually married philologist Yannis Psycharis.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Ernest Renan",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q157155.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Ernest Renan",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

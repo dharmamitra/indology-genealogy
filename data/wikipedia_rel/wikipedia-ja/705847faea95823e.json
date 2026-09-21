@@ -1,0 +1,95 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "横超慧日",
+   "birth_year": 1906,
+   "death_year": 1996,
+   "nationality": "日本",
+   "field": "仏教学"
+  },
+  {
+   "name": "常盤大定",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "仁井田陞",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "青山定雄",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "横超慧日",
+   "type": "studied_at",
+   "object": "東京帝國大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1931,
+   "explicit": true,
+   "evidence": "第八高等学校卒業後、東京帝國大学（印度哲学科）に入学。常盤大定に師事した。1928年（昭和3年）に大学院に進学。1931年（昭和6年）に卒業。",
+   "quote_ok": true
+  },
+  {
+   "subject": "横超慧日",
+   "type": "student_of",
+   "object": "常盤大定",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "東京帝國大学（印度哲学科）に入学。常盤大定に師事した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "横超慧日",
+   "type": "position_at",
+   "object": "東方文化学院",
+   "role": "研究員",
+   "place": null,
+   "year_start": 1931,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1931年（昭和6年）に卒業。東方文化学院（終戦後の昭和23年に東京大学東洋文化研究所に改組）の研究員となる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "横超慧日",
+   "type": "position_at",
+   "object": "大谷大学",
+   "role": "教授",
+   "place": null,
+   "year_start": 1949,
+   "year_end": 1976,
+   "explicit": true,
+   "evidence": "1949年（昭和24年）に招きを受けて大谷大学に赴任。その後学生部長や文学部長などを歴任。1976年、70歳になるまで教授として尽力し、名誉教授の称号が授与された。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 横超慧日",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q6582158.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 横超慧日",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

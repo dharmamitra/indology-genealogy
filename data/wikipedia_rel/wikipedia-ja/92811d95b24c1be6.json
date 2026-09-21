@@ -1,0 +1,105 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "オットー・フォン・ベートリンク",
+   "birth_year": 1815,
+   "death_year": 1904,
+   "nationality": "ロシア",
+   "field": "インド学者、サンスクリット研究者"
+  },
+  {
+   "name": "ルドルフ・フォン・ロート",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "ヴェーダ"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "オットー・フォン・ベートリンク",
+   "type": "studied_at",
+   "object": "ペトルシューレ",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "大学入学までの全教育をペトルシューレ(Saint Peter's School)で受け",
+   "quote_ok": true
+  },
+  {
+   "subject": "オットー・フォン・ベートリンク",
+   "type": "studied_at",
+   "object": "サンクトペテルブルク大学",
+   "role": null,
+   "place": null,
+   "year_start": 1833,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1833年にサンクトペテルブルク大学に入学して東洋諸言語を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "オットー・フォン・ベートリンク",
+   "type": "studied_at",
+   "object": "ベルリン大学",
+   "role": null,
+   "place": null,
+   "year_start": 1835,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1835年にベルリン大学",
+   "quote_ok": true
+  },
+  {
+   "subject": "オットー・フォン・ベートリンク",
+   "type": "studied_at",
+   "object": "ボン大学",
+   "role": null,
+   "place": null,
+   "year_start": 1839,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1839年からボン大学で学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "オットー・フォン・ベートリンク",
+   "type": "position_at",
+   "object": "帝国科学アカデミー",
+   "role": "会員",
+   "place": "サンクトペテルブルク",
+   "year_start": 1842,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1842年にサンクトペテルブルクに戻り、帝国科学アカデミーの会員に選ばれた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "オットー・フォン・ベートリンク",
+   "type": "collaborated_with",
+   "object": "ルドルフ・フォン・ロート",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "主著のサンスクリット大辞典は、ヴェーダを専門とするルドルフ・フォン・ロートの協力を得て、サンクトペテルブルクで出版された。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): オットー・フォン・ベートリンク",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q76423.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): オットー・フォン・ベートリンク",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

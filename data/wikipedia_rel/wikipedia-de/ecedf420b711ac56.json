@@ -1,0 +1,145 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Fazun",
+   "birth_year": 1902,
+   "death_year": 1980,
+   "nationality": "Chinese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Dayong",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": null
+  },
+  {
+   "name": "Xuanyi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": null
+  },
+  {
+   "name": "Taixu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": null
+  },
+  {
+   "name": "Marcus Bingenheimer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Xianyue Wang",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Fazun",
+   "type": "student_of",
+   "object": "Dayong",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studierte nacheinander bei den Meistern Dayong, Xuanyi und Taixu",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fazun",
+   "type": "student_of",
+   "object": "Xuanyi",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studierte nacheinander bei den Meistern Dayong, Xuanyi und Taixu",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fazun",
+   "type": "student_of",
+   "object": "Taixu",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studierte nacheinander bei den Meistern Dayong, Xuanyi und Taixu",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fazun",
+   "type": "studied_at",
+   "object": "Buddhistisches Institut Wuchang",
+   "role": null,
+   "place": "Wuchang",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wurde zum Studium der buddhistischen Lehre in das Buddhistische Institut Wuchang (武昌佛学院), dem Huijulü-Kloster (慧居律寺) des Baohua Shan 宝华山, Nanjing, dem (buddhistischen) Kolleg für tibetische Literatur",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fazun",
+   "type": "studied_at",
+   "object": "Kolleg für tibetische Literatur (Zangwen xueyuan)",
+   "role": null,
+   "place": "Peking",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "dem (buddhistischen) Kolleg für tibetische Literatur (Zangwen xueyuan 藏文学院) in Peking und dem Wuju-Kloster 乌尤寺 in Jiading aufgenommen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fazun",
+   "type": "position_at",
+   "object": "Sino-Tibetisches Institut (Han-Zang lixueyuan)",
+   "role": null,
+   "place": "Chongqing",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "kehrte über Indien und Birma nach Jiangnan zurück, um am Sino-Tibetischen Institut (Han-Zang lixueyuan 汉藏理学院) [in Chongqing] zu arbeiten.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fazun",
+   "type": "position_at",
+   "object": "Chinesische Buddhistische Akademie",
+   "role": "Vizepräsident und Präsident",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nach der Befreiung Chinas wurde er Vizepräsident und Präsident der Chinesische Buddhistische Akademie.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Fazun",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q24680656.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Fazun",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Walter Simon",
+   "birth_year": 1893,
+   "death_year": 1981,
+   "nationality": "deutsch-britischer",
+   "field": "Sinologe"
+  },
+  {
+   "name": "Heinrich Simon",
+   "birth_year": 1859,
+   "death_year": 1930,
+   "nationality": null,
+   "field": "Mathematikers"
+  },
+  {
+   "name": "Harry Simon",
+   "birth_year": 1923,
+   "death_year": 2013,
+   "nationality": null,
+   "field": "Sinologe"
+  },
+  {
+   "name": "Gustav Haloun",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sinologe"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Walter Simon",
+   "type": "other",
+   "object": "Heinrich Simon",
+   "role": "son of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Walter Simon war ein Sohn des Mathematikers Heinrich Simon (1859–1930)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Harry Simon",
+   "type": "other",
+   "object": "Walter Simon",
+   "role": "son of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "der 1923 geborene Sohn Harry Simon (1923–2013) wurde Sinologe in Melbourne",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Simon",
+   "type": "studied_at",
+   "object": "Universität Berlin",
+   "role": "student",
+   "place": "Berlin",
+   "year_start": 1911,
+   "year_end": 1914,
+   "explicit": true,
+   "evidence": "Simon studierte an der Universität Berlin von 1911 bis 1914 romanische und klassische Sprachen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Simon",
+   "type": "studied_at",
+   "object": "Universität Berlin",
+   "role": "promoviert",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": 1922,
+   "explicit": true,
+   "evidence": "1922 machte er ein Bibliothekarsexamen und wurde mit einer Dissertation über den Dialekt des Juden-Spanischen von Saloniki promoviert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Simon",
+   "type": "position_at",
+   "object": "Universität Berlin",
+   "role": "Lektor",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": 1937,
+   "explicit": true,
+   "evidence": "Er war an der Universität Berlin als Lektor beschäftigt und wurde 1937 als Jude entlassen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Simon",
+   "type": "position_at",
+   "object": "School of Oriental and African Studies der University of London",
+   "role": "Lehre (Sinologie)",
+   "place": "London",
+   "year_start": 1947,
+   "year_end": 1960,
+   "explicit": true,
+   "evidence": "lehrte er von 1947 bis 1960 Sinologie an der School of Oriental and African Studies der University of London.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Simon",
+   "type": "collaborated_with",
+   "object": "Gustav Haloun",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er veröffentlichte zahlreiche beachtete Werke zu seinen Arbeiten, u. a. mit Gustav Haloun im Bereich der akademischen Sinologe.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Walter Simon (Sinologe)",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q74336.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Walter Simon (Sinologe)",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,105 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Daniel Coit Gilman",
+   "birth_year": 1831,
+   "death_year": 1908,
+   "nationality": "amerikanisch",
+   "field": null
+  },
+  {
+   "name": "Andrew Dickson White",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Daniel Coit Gilman",
+   "type": "studied_at",
+   "object": "Yale University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "erhielt seine akademische Ausbildung an der Yale University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daniel Coit Gilman",
+   "type": "position_at",
+   "object": "Yale",
+   "role": "Bibliothekar",
+   "place": null,
+   "year_start": 1856,
+   "year_end": 1865,
+   "explicit": true,
+   "evidence": "Von 1856 bis 1865 war er Bibliothekar in Yale",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daniel Coit Gilman",
+   "type": "position_at",
+   "object": "Sheffield Scientific School",
+   "role": "Professor für Geographie",
+   "place": null,
+   "year_start": 1863,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wurde 1863 zum Professor für Geographie an der Sheffield Scientific School ernannt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daniel Coit Gilman",
+   "type": "position_at",
+   "object": "University of California",
+   "role": "Präsident",
+   "place": null,
+   "year_start": 1872,
+   "year_end": 1875,
+   "explicit": true,
+   "evidence": "wurde dritter Präsident der University of California.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daniel Coit Gilman",
+   "type": "position_at",
+   "object": "Johns Hopkins University",
+   "role": "Gründungspräsident",
+   "place": null,
+   "year_start": 1875,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "akzeptierte Gilman 1875 die Einladung, Gründungspräsident der Johns Hopkins University zu werden.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Andrew Dickson White",
+   "type": "position_at",
+   "object": "Cornell University",
+   "role": "Gründungspräsident",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Andrew Dickson White, der später Gründungspräsident der Cornell University wurde.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Daniel Coit Gilman",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q129598.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Daniel Coit Gilman",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

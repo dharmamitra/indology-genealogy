@@ -1,0 +1,133 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ajahn Brahm",
+   "birth_year": 1951,
+   "death_year": null,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Ajahn Chah",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Thai",
+   "field": null
+  },
+  {
+   "name": "Somdet Kiaw",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Thai",
+   "field": null
+  },
+  {
+   "name": "Ajahn Jagaro",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Bhikkhu Bodhi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Theravada scholar–monk"
+  },
+  {
+   "name": "Bhante Sujato",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ajahn Brahm",
+   "type": "student_of",
+   "object": "Ajahn Chah",
+   "role": "teacher",
+   "place": "Thailand",
+   "year_start": 1974,
+   "year_end": 1983,
+   "explicit": true,
+   "evidence": "Ordained in 1974, he trained in the Thai Forest Tradition of Theravada Buddhism under his teacher Ajahn Chah.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ajahn Brahm",
+   "type": "studied_at",
+   "object": "Emmanuel College, University of Cambridge",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He won a scholarship to study theoretical physics at Emmanuel College, University of Cambridge in the late 1960s.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ajahn Brahm",
+   "type": "collaborated_with",
+   "object": "Ajahn Jagaro",
+   "role": null,
+   "place": "Perth",
+   "year_start": 1983,
+   "year_end": 1994,
+   "explicit": true,
+   "evidence": "Ajahn Brahm was sent to Perth by Ajahn Chah in 1983 to assist Ajahn Jagaro in teaching duties.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ajahn Brahm",
+   "type": "position_at",
+   "object": "Bodhinyana Monastery",
+   "role": "abbot",
+   "place": "Serpentine, Western Australia",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Currently, Ajahn Brahm is the abbot of Bodhinyana Monastery in Serpentine, Western Australia",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ajahn Brahm",
+   "type": "collaborated_with",
+   "object": "Bhante Sujato",
+   "role": null,
+   "place": "Serpentine, Australia",
+   "year_start": 2009,
+   "year_end": 2009,
+   "explicit": true,
+   "evidence": "On 22 October 2009, Ajahn Brahm, along with Bhante Sujato, facilitated an ordination ceremony for bhikkhunis",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ajahn Brahm",
+   "type": "influenced_by",
+   "object": "Bhikkhu Bodhi",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Someone like Bhikkhu Bodhi [a respected Theravada scholar–monk] has researched the Pali Vinaya and his paper is one of the most eloquent I've seen—fair, balanced",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Ajahn Brahm",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q411903.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Ajahn Brahm",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

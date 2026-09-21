@@ -1,0 +1,169 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "原坦山",
+   "birth_year": 1819,
+   "death_year": 1892,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "実山栄禅",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "風外本高",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "大中京璨",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "加藤弘之",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "釈雲照",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "原坦山",
+   "type": "studied_at",
+   "object": "昌平坂学問所",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "15歳で昌平坂学問所に入って儒学・医術を学んだ",
+   "quote_ok": true
+  },
+  {
+   "subject": "原坦山",
+   "type": "student_of",
+   "object": "実山栄禅",
+   "role": "traditional teacher",
+   "place": "江戸浅草橋場・總泉寺",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "大中京璨の師の実山栄禅（江戸浅草橋場・總泉寺住持）に就いて出家。",
+   "quote_ok": true
+  },
+  {
+   "subject": "原坦山",
+   "type": "student_of",
+   "object": "風外本高",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "風外本高の下で悟りを開き",
+   "quote_ok": true
+  },
+  {
+   "subject": "原坦山",
+   "type": "succeeded",
+   "object": "大中京璨",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "帰京後、すでに遷化していた栄禅に代わって、大中京璨の法を嗣いだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "原坦山",
+   "type": "position_at",
+   "object": "教部省",
+   "role": "教導職の大講義",
+   "place": null,
+   "year_start": 1872,
+   "year_end": 1874,
+   "explicit": true,
+   "evidence": "1872年に教部省から教導職の大講義に任命される。1874年に出版条例違反により免職となり",
+   "quote_ok": true
+  },
+  {
+   "subject": "原坦山",
+   "type": "founded",
+   "object": "仏仙社",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "仏仙社（仏教と仙道の普及団体）を設立している。",
+   "quote_ok": true
+  },
+  {
+   "subject": "原坦山",
+   "type": "position_at",
+   "object": "東京帝国大学",
+   "role": "講師",
+   "place": null,
+   "year_start": 1879,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1879年に東京帝国大学綜理（総長に相当）の加藤弘之の求めに応じて、同大学印度哲学科【当時は和漢文学科のちに「印度及ビ支那哲学」講座】の最初の科外科目「仏書講義」講師となる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "原坦山",
+   "type": "position_at",
+   "object": "東京学士会院",
+   "role": "会員",
+   "place": null,
+   "year_start": 1885,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1885年に僧侶で初めての東京学士会院の会員となる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "原坦山",
+   "type": "position_at",
+   "object": "曹洞宗大学林",
+   "role": "総監",
+   "place": null,
+   "year_start": 1891,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1891年に曹洞宗大学林（現駒澤大学）総監となる。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 原坦山",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q7684103.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 原坦山",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

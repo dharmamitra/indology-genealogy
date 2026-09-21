@@ -1,0 +1,138 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "グラツィアディオ・イザイア・アスコリ",
+   "birth_year": 1829,
+   "death_year": 1907,
+   "nationality": "イタリア",
+   "field": "言語学"
+  },
+  {
+   "name": "サムエル・ダヴィド・ルッツァット",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "ヘブライ学"
+  },
+  {
+   "name": "フィロッセノ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "セム語とサンスクリット"
+  },
+  {
+   "name": "ボップ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "ドイツ",
+   "field": "言語学"
+  },
+  {
+   "name": "ディーツ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "ドイツ",
+   "field": "言語学"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "グラツィアディオ・イザイア・アスコリ",
+   "type": "influenced_by",
+   "object": "サムエル・ダヴィド・ルッツァット",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "学校教育を受けなかったが、ヘブライ学者サムエル・ダヴィド・ルッツァットおよびその子でセム語とサンスクリットの学者であるフィロッセノの影響下、言語学の研究を行った。",
+   "quote_ok": true
+  },
+  {
+   "subject": "グラツィアディオ・イザイア・アスコリ",
+   "type": "influenced_by",
+   "object": "フィロッセノ",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ヘブライ学者サムエル・ダヴィド・ルッツァットおよびその子でセム語とサンスクリットの学者であるフィロッセノの影響下、言語学の研究を行った。",
+   "quote_ok": true
+  },
+  {
+   "subject": "フィロッセノ",
+   "type": "other",
+   "object": "サムエル・ダヴィド・ルッツァット",
+   "role": "子",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ヘブライ学者サムエル・ダヴィド・ルッツァットおよびその子でセム語とサンスクリットの学者であるフィロッセノ",
+   "quote_ok": true
+  },
+  {
+   "subject": "グラツィアディオ・イザイア・アスコリ",
+   "type": "influenced_by",
+   "object": "ボップ",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "アスコリは直接ドイツの言語学者に学んだわけではないが、特にボップやディーツの影響を受けていた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "グラツィアディオ・イザイア・アスコリ",
+   "type": "influenced_by",
+   "object": "ディーツ",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "アスコリは直接ドイツの言語学者に学んだわけではないが、特にボップやディーツの影響を受けていた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "グラツィアディオ・イザイア・アスコリ",
+   "type": "position_at",
+   "object": "ミラノ科学・文学アカデミー",
+   "role": "初代主任教授",
+   "place": "ミラノ",
+   "year_start": 1861,
+   "year_end": 1902,
+   "explicit": true,
+   "evidence": "翌1861年、ミラノ科学・文学アカデミー（Accademia scientifico-letteraria di Milano、ミラノ大学の前身のひとつ）に比較文法および東洋諸言語の講座が新設され、アスコリはその初代主任教授に就任した。……1902年に教授を退官し",
+   "quote_ok": true
+  },
+  {
+   "subject": "グラツィアディオ・イザイア・アスコリ",
+   "type": "founded",
+   "object": "イタリア語学紀要",
+   "role": null,
+   "place": null,
+   "year_start": 1873,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1873年に学術誌『イタリア語学紀要』(Archivo Glottologico Italiano)を創刊した。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): グラツィアディオ・イザイア・アスコリ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q472212.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): グラツィアディオ・イザイア・アスコリ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

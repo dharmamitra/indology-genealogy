@@ -1,0 +1,162 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Hans Julius Eggeling",
+   "birth_year": 1842,
+   "death_year": 1918,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Friedrich Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hermann Brunnhofer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Theodor Aufrecht",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Arthur Berriedale Keith",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hans Julius Eggeling",
+   "type": "studied_at",
+   "object": "Breslau",
+   "role": null,
+   "place": null,
+   "year_start": 1862,
+   "year_end": 1866,
+   "explicit": true,
+   "evidence": "Von 1862 bis 1866 studierte Eggeling in Breslau und Berlin indische Philologie",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hans Julius Eggeling",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": null,
+   "year_start": 1862,
+   "year_end": 1866,
+   "explicit": true,
+   "evidence": "Von 1862 bis 1866 studierte Eggeling in Breslau und Berlin indische Philologie",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hans Julius Eggeling",
+   "type": "collaborated_with",
+   "object": "Friedrich Max Müller",
+   "role": "Assistent",
+   "place": "London",
+   "year_start": 1867,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dort warb ihn Friedrich Max Müller in der Nachfolge von Hermann Brunnhofer als Assistenten an.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hans Julius Eggeling",
+   "type": "position_at",
+   "object": "Royal Asiatic Society",
+   "role": "Sekretär und Bibliothekar",
+   "place": "London",
+   "year_start": 1869,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im gleichen Jahr nahm er seine Arbeit als Sekretär und Bibliothekar bei der Royal Asiatic Society in London auf",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hans Julius Eggeling",
+   "type": "position_at",
+   "object": "University College London",
+   "role": "Lehrer für Sanskrit",
+   "place": "London",
+   "year_start": 1872,
+   "year_end": 1875,
+   "explicit": true,
+   "evidence": "und lehrte zusätzlich von 1872 bis 75 am University College London Sanskrit.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hans Julius Eggeling",
+   "type": "succeeded",
+   "object": "Theodor Aufrecht",
+   "role": "Regius Professor of Sanskrit and Comparativ Philology",
+   "place": "University of Edinburgh",
+   "year_start": 1875,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1875 wurde Eggeling in der Nachfolge von Theodor Aufrecht zum Regius Professor of Sanskrit and Comparativ Philology an die University of Edinburgh berufen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hans Julius Eggeling",
+   "type": "position_at",
+   "object": "University of Edinburgh",
+   "role": "Regius Professor of Sanskrit and Comparativ Philology",
+   "place": "Edinburgh",
+   "year_start": 1875,
+   "year_end": 1914,
+   "explicit": true,
+   "evidence": "1875 wurde Eggeling in der Nachfolge von Theodor Aufrecht zum Regius Professor of Sanskrit and Comparativ Philology an die University of Edinburgh berufen. ... Eggeling blieb in Edinburgh bis ihn der Anfang des Ersten Weltkriegs aus England vertrieb",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Berriedale Keith",
+   "type": "student_of",
+   "object": "Hans Julius Eggeling",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "schon 1914 wurde mit Arthur Berriedale Keith sein ehemaliger Schüler Nachfolger auf dem Lehrstuhl.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Berriedale Keith",
+   "type": "succeeded",
+   "object": "Hans Julius Eggeling",
+   "role": null,
+   "place": "University of Edinburgh",
+   "year_start": 1914,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "schon 1914 wurde mit Arthur Berriedale Keith sein ehemaliger Schüler Nachfolger auf dem Lehrstuhl.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Julius Eggeling",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q5627765.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Julius Eggeling",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

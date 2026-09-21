@@ -1,0 +1,114 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Liang Qichao",
+   "birth_year": 1873,
+   "death_year": 1929,
+   "nationality": "chinesisch",
+   "field": null
+  },
+  {
+   "name": "Zhang Junmai",
+   "birth_year": 1887,
+   "death_year": 1969,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ding Wenjiang",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kang Youwei",
+   "birth_year": null,
+   "death_year": 1927,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Yan Fu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Liang Qichao",
+   "type": "position_at",
+   "object": "Nankai-Universität",
+   "role": "lehrt",
+   "place": "Tianjin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nach seiner Rückkehr aus Europa geht Liang fast ausschließlich akademischen Beschäftigungen nach. Er lehrt u. a. an der Nankai-Universität in Tianjin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Zhang Junmai",
+   "type": "student_of",
+   "object": "Liang Qichao",
+   "role": "Schüler",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Diese wurde geprägt von zwei seiner Schüler, die drei Jahre zuvor gemeinsam mit ihm nach Europa gereist waren: Zhang Junmai (alias Zhang Jiasen, alias Carsun Chang, 1887–1969) und Ding Wenjiang.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ding Wenjiang",
+   "type": "student_of",
+   "object": "Liang Qichao",
+   "role": "Schüler",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Diese wurde geprägt von zwei seiner Schüler, die drei Jahre zuvor gemeinsam mit ihm nach Europa gereist waren: Zhang Junmai (alias Zhang Jiasen, alias Carsun Chang, 1887–1969) und Ding Wenjiang.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Liang Qichao",
+   "type": "student_of",
+   "object": "Kang Youwei",
+   "role": "Lehrer",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1927 musste er Kang Youwei, von dem er sich geistig längst getrennt, den er aber immer als seinen Lehrer verstanden hatte, das letzte Geleit geben.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Liang Qichao",
+   "type": "other",
+   "object": "Yan Fu",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Damit steht er in der Tradition Yan Fus (mit dem Liang befreundet war)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Liang Qichao",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q379836.txt#1",
+ "meta": {
+  "title": "Wikipedia (de): Liang Qichao",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Susan Neiman",
+   "birth_year": 1955,
+   "death_year": null,
+   "nationality": "US-amerikanisch-deutsch-israelische",
+   "field": "Philosophin"
+  },
+  {
+   "name": "John Rawls",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Stanley Cavell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Susan Neiman",
+   "type": "position_at",
+   "object": "Einstein Forum in Potsdam",
+   "role": "Direktorin",
+   "place": "Potsdam",
+   "year_start": 2000,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "seit dem Jahr 2000 Direktorin des Einstein Forums in Potsdam.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Susan Neiman",
+   "type": "studied_at",
+   "object": "Harvard-Universität",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1986,
+   "explicit": true,
+   "evidence": "studierte Philosophie an der Harvard-Universität, wo sie Assistentin von John Rawls wurde. Von ihm und Stanley Cavell wurde sie 1986 promoviert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Susan Neiman",
+   "type": "student_of",
+   "object": "John Rawls",
+   "role": "doctoral supervisor",
+   "place": "Harvard-Universität",
+   "year_start": null,
+   "year_end": 1986,
+   "explicit": true,
+   "evidence": "studierte Philosophie an der Harvard-Universität, wo sie Assistentin von John Rawls wurde. Von ihm und Stanley Cavell wurde sie 1986 promoviert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Susan Neiman",
+   "type": "student_of",
+   "object": "Stanley Cavell",
+   "role": "doctoral supervisor",
+   "place": "Harvard-Universität",
+   "year_start": null,
+   "year_end": 1986,
+   "explicit": true,
+   "evidence": "Von ihm und Stanley Cavell wurde sie 1986 promoviert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Susan Neiman",
+   "type": "position_at",
+   "object": "Yale University",
+   "role": "Professorin",
+   "place": null,
+   "year_start": 1989,
+   "year_end": 1996,
+   "explicit": true,
+   "evidence": "Von 1989 bis 1996 war Neiman Professorin an der Yale University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Susan Neiman",
+   "type": "position_at",
+   "object": "Universität Tel Aviv",
+   "role": "Professorin",
+   "place": null,
+   "year_start": 1996,
+   "year_end": 2001,
+   "explicit": false,
+   "evidence": "Von 1989 bis 1996 war Neiman Professorin an der Yale University, danach für fünf Jahre an der Universität Tel Aviv.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Susan Neiman",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q291699.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Susan Neiman",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

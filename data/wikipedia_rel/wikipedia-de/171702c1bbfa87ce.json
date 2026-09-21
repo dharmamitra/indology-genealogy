@@ -1,0 +1,188 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sharon Salzberg",
+   "birth_year": 1952,
+   "death_year": null,
+   "nationality": "US-amerikanisch",
+   "field": null
+  },
+  {
+   "name": "Anagarika Munindra",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Dipa Ma",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sayadaw U Pandita",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Joseph Goldstein",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jack Kornfield",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Robert Thurman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sharon Salzberg",
+   "type": "studied_at",
+   "object": "State University of New York, Buffalo",
+   "role": null,
+   "place": null,
+   "year_start": 1969,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sharon Salzberg kam erstmals 1969 während eines Philosophiekurses an der State University of New York, Buffalo, mit dem Buddhismus in Kontakt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sharon Salzberg",
+   "type": "student_of",
+   "object": "Anagarika Munindra",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ihre wichtigsten buddhistischen Lehrer aus der Theravada-Tradition waren Anagarika Munindra, Dipa Ma und Sayadaw U Pandita.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sharon Salzberg",
+   "type": "student_of",
+   "object": "Dipa Ma",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ihre wichtigsten buddhistischen Lehrer aus der Theravada-Tradition waren Anagarika Munindra, Dipa Ma und Sayadaw U Pandita.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sharon Salzberg",
+   "type": "student_of",
+   "object": "Sayadaw U Pandita",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ihre wichtigsten buddhistischen Lehrer aus der Theravada-Tradition waren Anagarika Munindra, Dipa Ma und Sayadaw U Pandita.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sharon Salzberg",
+   "type": "founded",
+   "object": "Insight Meditation Society (IMS)",
+   "role": null,
+   "place": "Barre, Massachusetts",
+   "year_start": 1976,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zusammen mit Joseph Goldstein und Jack Kornfield gründete sie 1976 die Insight Meditation Society (IMS) in Barre, Massachusetts.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Goldstein",
+   "type": "founded",
+   "object": "Insight Meditation Society (IMS)",
+   "role": null,
+   "place": "Barre, Massachusetts",
+   "year_start": 1976,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zusammen mit Joseph Goldstein und Jack Kornfield gründete sie 1976 die Insight Meditation Society (IMS) in Barre, Massachusetts.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jack Kornfield",
+   "type": "founded",
+   "object": "Insight Meditation Society (IMS)",
+   "role": null,
+   "place": "Barre, Massachusetts",
+   "year_start": 1976,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zusammen mit Joseph Goldstein und Jack Kornfield gründete sie 1976 die Insight Meditation Society (IMS) in Barre, Massachusetts.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sharon Salzberg",
+   "type": "founded",
+   "object": "Barre Center for Buddhist Studies (BCBS)",
+   "role": null,
+   "place": null,
+   "year_start": 1989,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1989 gründeten Joseph Goldstein und Sharon Salzberg zusätzlich das Barre Center for Buddhist Studies (BCBS).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Goldstein",
+   "type": "founded",
+   "object": "Barre Center for Buddhist Studies (BCBS)",
+   "role": null,
+   "place": null,
+   "year_start": 1989,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1989 gründeten Joseph Goldstein und Sharon Salzberg zusätzlich das Barre Center for Buddhist Studies (BCBS).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sharon Salzberg",
+   "type": "collaborated_with",
+   "object": "Robert Thurman",
+   "role": null,
+   "place": null,
+   "year_start": 2014,
+   "year_end": 2014,
+   "explicit": true,
+   "evidence": "Love Your Enemies: How to Break the Anger Habit & Be a Whole Lot Happier, mit Robert Thurman (2014)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Sharon Salzberg",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1775790.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Sharon Salzberg",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

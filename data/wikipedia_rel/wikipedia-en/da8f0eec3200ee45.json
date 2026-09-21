@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Johann Gottfried Eichhorn",
+   "birth_year": 1752,
+   "death_year": 1827,
+   "nationality": "German",
+   "field": "Protestant theologian, orientalist"
+  },
+  {
+   "name": "Johann David Michaelis",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Johann Jacob Reiske",
+   "birth_year": null,
+   "death_year": 1774,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Karl Friedrich Eichhorn",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "jurist"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johann Gottfried Eichhorn",
+   "type": "studied_at",
+   "object": "University of Göttingen",
+   "role": null,
+   "place": null,
+   "year_start": 1770,
+   "year_end": 1774,
+   "explicit": true,
+   "evidence": "at the University of Göttingen (1770–1774), studying under Johann David Michaelis.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Eichhorn",
+   "type": "student_of",
+   "object": "Johann David Michaelis",
+   "role": "teacher",
+   "place": "University of Göttingen",
+   "year_start": 1770,
+   "year_end": 1774,
+   "explicit": true,
+   "evidence": "at the University of Göttingen (1770–1774), studying under Johann David Michaelis.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Eichhorn",
+   "type": "position_at",
+   "object": "Jena University",
+   "role": "professor of Oriental languages at the Faculty of Theology",
+   "place": null,
+   "year_start": 1775,
+   "year_end": 1788,
+   "explicit": true,
+   "evidence": "In 1775 he was made professor of Oriental languages at the Faculty of Theology at Jena University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Eichhorn",
+   "type": "founded",
+   "object": "Repertorium für biblische und morgenländische Litteratur",
+   "role": null,
+   "place": null,
+   "year_start": 1776,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1776 he founded the first important journal for Oriental studies, the Repertorium für biblische und morgenländische Litteratur",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Eichhorn",
+   "type": "position_at",
+   "object": "University of Göttingen",
+   "role": "professor ordinarius",
+   "place": null,
+   "year_start": 1788,
+   "year_end": 1827,
+   "explicit": true,
+   "evidence": "In 1788 he was elected professor ordinarius at Göttingen, where he lectured not only on Oriental languages and on the exegesis of the Old and New Testaments, but also on political history.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Eichhorn",
+   "type": "other",
+   "object": "Johann Jacob Reiske",
+   "role": "acquaintance",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Eichhorn was acquainted with him from time of his study in Göttingen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Friedrich",
+   "type": "other",
+   "object": "Johann Gottfried Eichhorn",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His son, Karl Friedrich, became a famous jurist.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Johann Gottfried Eichhorn",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q66355.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Johann Gottfried Eichhorn",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

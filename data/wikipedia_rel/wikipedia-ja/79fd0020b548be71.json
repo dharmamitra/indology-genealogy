@@ -1,0 +1,117 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "湯田 豊",
+   "birth_year": 1931,
+   "death_year": 2009,
+   "nationality": "日本",
+   "field": "インド哲学"
+  },
+  {
+   "name": "中村元",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "湯田 豊",
+   "type": "studied_at",
+   "object": "東京大学大学院人文科学研究科印度哲学博士課程",
+   "role": "博士課程満期退学",
+   "place": null,
+   "year_start": null,
+   "year_end": 1969,
+   "explicit": true,
+   "evidence": "1969年に東京大学大学院人文科学研究科印度哲学博士課程満期退学",
+   "quote_ok": true
+  },
+  {
+   "subject": "湯田 豊",
+   "type": "studied_at",
+   "object": "立正大学",
+   "role": "文学博士",
+   "place": null,
+   "year_start": null,
+   "year_end": 1990,
+   "explicit": true,
+   "evidence": "1990年「ウパニシャッドの哲学」で立正大学文学博士",
+   "quote_ok": true
+  },
+  {
+   "subject": "湯田 豊",
+   "type": "position_at",
+   "object": "共立薬科大学",
+   "role": "助教授",
+   "place": null,
+   "year_start": 1969,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1969年共立薬科大学助教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "湯田 豊",
+   "type": "position_at",
+   "object": "神奈川大学外国語学部",
+   "role": "助教授",
+   "place": null,
+   "year_start": 1975,
+   "year_end": 1979,
+   "explicit": true,
+   "evidence": "1975年神奈川大学外国語学部助教授、1979年教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "湯田 豊",
+   "type": "position_at",
+   "object": "神奈川大学外国語学部",
+   "role": "教授",
+   "place": null,
+   "year_start": 1979,
+   "year_end": 2003,
+   "explicit": true,
+   "evidence": "1979年教授、2003年定年退任、名誉教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "湯田 豊",
+   "type": "position_at",
+   "object": "神奈川大学",
+   "role": "名誉教授",
+   "place": null,
+   "year_start": 2003,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "2003年定年退任、名誉教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "湯田 豊",
+   "type": "student_of",
+   "object": "中村元",
+   "role": "師事",
+   "place": "東大",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "東大では中村元に師事したが、のちに中村を厳しく批判するようになった。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 湯田豊",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q11563766.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 湯田豊",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,105 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Joseph Toussaint Reinaud",
+   "birth_year": 1795,
+   "death_year": 1867,
+   "nationality": "französischer",
+   "field": "Wissenschaftshistoriker und Orientalist"
+  },
+  {
+   "name": "Antoine-Isaac Silvestre de Sacy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Joseph Toussaint Reinaud",
+   "type": "student_of",
+   "object": "Antoine-Isaac Silvestre de Sacy",
+   "role": "Schüler",
+   "place": "Paris",
+   "year_start": 1815,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Reinaud kam 1815 nach Paris und war ein Schüler von Antoine-Isaac Silvestre de Sacy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Toussaint Reinaud",
+   "type": "position_at",
+   "object": "Bibliothèque Royale",
+   "role": null,
+   "place": "Paris",
+   "year_start": 1824,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ab 1824 war er in der Abteilung orientalische Manuskripte der Bibliothèque Royale in Paris.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Toussaint Reinaud",
+   "type": "succeeded",
+   "object": "Antoine-Isaac Silvestre de Sacy",
+   "role": "Lehrstuhl",
+   "place": "Schule für lebende orientalische Sprachen",
+   "year_start": 1838,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1838 wurde er nach dessen Tod Nachfolger von de Sacy auf dem Lehrstuhl in der Schule für lebende orientalische Sprachen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Toussaint Reinaud",
+   "type": "position_at",
+   "object": "Schule für lebende orientalische Sprachen",
+   "role": "Lehrstuhl",
+   "place": null,
+   "year_start": 1838,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1838 wurde er nach dessen Tod Nachfolger von de Sacy auf dem Lehrstuhl in der Schule für lebende orientalische Sprachen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Toussaint Reinaud",
+   "type": "position_at",
+   "object": "Société Asiatique",
+   "role": "Präsident",
+   "place": null,
+   "year_start": 1847,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1847 wurde er Präsident der Société Asiatique",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Toussaint Reinaud",
+   "type": "position_at",
+   "object": "kaiserlichen Bibliothek",
+   "role": "Konservator für orientalische Manuskripte",
+   "place": null,
+   "year_start": 1858,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1858 Konservator für orientalische Manuskripte in der kaiserlichen Bibliothek.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Joseph Toussaint Reinaud",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1123408.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Joseph Toussaint Reinaud",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

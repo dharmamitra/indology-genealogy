@@ -1,0 +1,93 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Georg Wilhelm Friedrich Freytag",
+   "birth_year": 1788,
+   "death_year": 1861,
+   "nationality": "German",
+   "field": "philology"
+  },
+  {
+   "name": "Silvestre de Sacy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Georg Wilhelm Friedrich Freytag",
+   "type": "studied_at",
+   "object": "University of Göttingen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied philology and theology at the University of Göttingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Wilhelm Friedrich Freytag",
+   "type": "position_at",
+   "object": "University of Göttingen",
+   "role": "theological tutor",
+   "place": null,
+   "year_start": 1811,
+   "year_end": 1813,
+   "explicit": true,
+   "evidence": "where from 1811 to 1813 he worked as a theological tutor.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Wilhelm Friedrich Freytag",
+   "type": "position_at",
+   "object": "Königsberg",
+   "role": "sub-librarian",
+   "place": "Königsberg",
+   "year_start": 1813,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In the latter year he accepted an appointment as a sub-librarian at Königsberg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Wilhelm Friedrich Freytag",
+   "type": "student_of",
+   "object": "Silvestre de Sacy",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": 1815,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "returned to his investigations of Arabic, Persian, and Turkish languages, studying at Paris under Silvestre de Sacy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Wilhelm Friedrich Freytag",
+   "type": "position_at",
+   "object": "University of Bonn",
+   "role": "professorship of oriental languages",
+   "place": null,
+   "year_start": 1819,
+   "year_end": 1861,
+   "explicit": true,
+   "evidence": "In 1819 he was appointed to the professorship of oriental languages at the recently founded University of Bonn, a post he maintained up until his death in 1861.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Georg Freytag",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q76316.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Georg Freytag",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

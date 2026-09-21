@@ -1,0 +1,143 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Johann Karl Friedrich Rosenkranz",
+   "birth_year": 1805,
+   "death_year": 1879,
+   "nationality": "deutsch",
+   "field": "Philosoph"
+  },
+  {
+   "name": "Georg Wilhelm Friedrich Hegel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Johann Friedrich Herbart",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sören Kierkegaard",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johann Karl Friedrich Rosenkranz",
+   "type": "student_of",
+   "object": "Georg Wilhelm Friedrich Hegel",
+   "role": "Schüler",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er war Schüler von Georg Wilhelm Friedrich Hegel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Karl Friedrich Rosenkranz",
+   "type": "studied_at",
+   "object": "Friedrich-Wilhelms-Universität zu Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rosenkranz studierte an der Friedrich-Wilhelms-Universität zu Berlin, der Friedrichs-Universität Halle und der Ruprecht-Karls-Universität Heidelberg Evangelische Theologie und Philosophie.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Karl Friedrich Rosenkranz",
+   "type": "studied_at",
+   "object": "Friedrichs-Universität Halle",
+   "role": "promoviert und habilitiert",
+   "place": "Halle",
+   "year_start": null,
+   "year_end": 1828,
+   "explicit": true,
+   "evidence": "In Halle wurde er 1828 promoviert und dort habilitierte er sich noch im selben Jahr mit einer Arbeit über Baruch de Spinoza.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Karl Friedrich Rosenkranz",
+   "type": "studied_at",
+   "object": "Ruprecht-Karls-Universität Heidelberg",
+   "role": null,
+   "place": "Heidelberg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rosenkranz studierte an der Friedrich-Wilhelms-Universität zu Berlin, der Friedrichs-Universität Halle und der Ruprecht-Karls-Universität Heidelberg Evangelische Theologie und Philosophie.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Karl Friedrich Rosenkranz",
+   "type": "position_at",
+   "object": "Friedrichs-Universität Halle",
+   "role": "Extraordinariat",
+   "place": "Halle",
+   "year_start": 1831,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1831 erhielt er in Halle ein Extraordinariat.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Karl Friedrich Rosenkranz",
+   "type": "succeeded",
+   "object": "Johann Friedrich Herbart",
+   "role": "Lehrstuhl",
+   "place": "Albertus-Universität Königsberg",
+   "year_start": 1833,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zwei Jahre später folgte er Johann Friedrich Herbart auf den Lehrstuhl der Albertus-Universität Königsberg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Karl Friedrich Rosenkranz",
+   "type": "position_at",
+   "object": "Albertus-Universität Königsberg",
+   "role": "Lehrstuhl / Rektor",
+   "place": "Königsberg",
+   "year_start": 1833,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zwei Jahre später folgte er Johann Friedrich Herbart auf den Lehrstuhl der Albertus-Universität Königsberg. Zwischen 1845 und 1863 war er mehrfach Rektor.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Karl Friedrich Rosenkranz",
+   "type": "influenced_by",
+   "object": "Sören Kierkegaard",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mit seinem Werk Psychologie oder die Wissenschaft vom subjectiven Geist von 1837 beeinflusste er Sören Kierkegaard (Der Begriff Angst).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Karl Rosenkranz",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q62315.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Karl Rosenkranz",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

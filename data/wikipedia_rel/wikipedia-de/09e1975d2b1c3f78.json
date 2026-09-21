@@ -1,0 +1,83 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Edmund Ronald Leach",
+   "birth_year": 1910,
+   "death_year": 1989,
+   "nationality": "britisch",
+   "field": "Ethnosoziologe"
+  },
+  {
+   "name": "Raymond Firth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "neuseeländisch",
+   "field": "Ethnologe"
+  },
+  {
+   "name": "Bronislaw Malinowski",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Noel Stevenson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Edmund Ronald Leach",
+   "type": "studied_at",
+   "object": "London School of Economics",
+   "role": null,
+   "place": "London",
+   "year_start": 1937,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Über den neuseeländischen Ethnologen Raymond Firth gelangte er zum anthropologischen Seminar der London School of Economics (LSE), das zum damaligen Zeitpunkt von Bronislaw Malinowski geführt wurde.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bronislaw Malinowski",
+   "type": "position_at",
+   "object": "London School of Economics",
+   "role": "Leiter des anthropologischen Seminars",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "anthropologischen Seminar der London School of Economics (LSE), das zum damaligen Zeitpunkt von Bronislaw Malinowski geführt wurde.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edmund Ronald Leach",
+   "type": "position_at",
+   "object": "University of Cambridge",
+   "role": "Professor",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": 1978,
+   "explicit": true,
+   "evidence": "Leach war bis 1978 Professor an der University of Cambridge.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Edmund Leach",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q550729.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Edmund Leach",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

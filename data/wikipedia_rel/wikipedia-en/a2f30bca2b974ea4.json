@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Edward Albert Gait",
+   "birth_year": 1863,
+   "death_year": 1950,
+   "nationality": null,
+   "field": "Indology and anthropology"
+  },
+  {
+   "name": "Herbert Hope Risley",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Edward Albert Gait",
+   "type": "studied_at",
+   "object": "University College, London",
+   "role": null,
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gait graduated from University College, London.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Albert Gait",
+   "type": "collaborated_with",
+   "object": "Herbert Hope Risley",
+   "role": null,
+   "place": null,
+   "year_start": 1900,
+   "year_end": 1901,
+   "explicit": true,
+   "evidence": "In April 1900 he became superintendent of census operations in Bengal, where he worked with Herbert Hope Risley, the Census Commissioner, to produce the official report of the 1901 Census of India.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Albert Gait",
+   "type": "founded",
+   "object": "Bihar and Orissa Research Society",
+   "role": null,
+   "place": null,
+   "year_start": 1915,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He also founded Bihar and Orissa Research Society in 1915 which was devoted to explore more about Indology and anthropology.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Albert Gait",
+   "type": "position_at",
+   "object": "Bihar and Orissa Research Society",
+   "role": "president",
+   "place": "Patna",
+   "year_start": 1915,
+   "year_end": 1920,
+   "explicit": true,
+   "evidence": "Lt. Gait acted as president of the society from 1915 to 1920 while he was taking his office in Patna.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Edward Gait",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q5341525.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Edward Gait",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

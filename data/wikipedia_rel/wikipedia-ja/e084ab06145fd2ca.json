@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "アレキサンダー・カニンガム",
+   "birth_year": 1814,
+   "death_year": 1893,
+   "nationality": "イギリス",
+   "field": "考古学"
+  },
+  {
+   "name": "ジョセフ・カニンガム",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "歴史学"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "アレキサンダー・カニンガム",
+   "type": "founded",
+   "object": "インド考古調査局",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "インド考古調査局 (Archaeological Survey of India)の設立に大きく関わり",
+   "quote_ok": true
+  },
+  {
+   "subject": "アレキサンダー・カニンガム",
+   "type": "studied_at",
+   "object": "アディスコム軍事神学校",
+   "role": "士官候補生",
+   "place": null,
+   "year_start": 1829,
+   "year_end": 1831,
+   "explicit": true,
+   "evidence": "イギリス東インド会社のアディスコム軍事神学校で士官候補生になり(1829年から1831年)",
+   "quote_ok": true
+  },
+  {
+   "subject": "アレキサンダー・カニンガム",
+   "type": "other",
+   "object": "ジョセフ・カニンガム",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "兄のジョセフと共にイギリス東インド会社のアディスコム軍事神学校で士官候補生になり",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): アレキサンダー・カニンガム",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q455430.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): アレキサンダー・カニンガム",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

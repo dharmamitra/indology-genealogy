@@ -1,0 +1,114 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Mircea Eliade",
+   "birth_year": 1907,
+   "death_year": 1986,
+   "nationality": "Romanian",
+   "field": "historian of religion"
+  },
+  {
+   "name": "Nae Ionescu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Romanian",
+   "field": null
+  },
+  {
+   "name": "Georges Dumézil",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": null
+  },
+  {
+   "name": "Carl Jung",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Eugenio d'Ors",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Spanish",
+   "field": "philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Mircea Eliade",
+   "type": "position_at",
+   "object": "University of Chicago",
+   "role": "professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mircea Eliade ... was a Romanian historian of religion, fiction writer, philosopher, and professor at the University of Chicago.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Mircea Eliade",
+   "type": "student_of",
+   "object": "Nae Ionescu",
+   "role": "assistant",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He won the trial, and regained his position as Nae Ionescu's assistant.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mircea Eliade",
+   "type": "position_at",
+   "object": "École Pratique des Hautes Études",
+   "role": "taught",
+   "place": "Paris",
+   "year_start": 1945,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "On Dumézil's recommendation, he taught at the École Pratique des Hautes Études in Paris.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mircea Eliade",
+   "type": "collaborated_with",
+   "object": "Carl Jung",
+   "role": null,
+   "place": null,
+   "year_start": 1949,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He collaborated with Carl Jung and the Eranos circle after Henry Corbin recommended him in 1949",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mircea Eliade",
+   "type": "other",
+   "object": "Eugenio d'Ors",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "It was during his trips to Spain that Eliade met philosophers José Ortega y Gasset and Eugenio d'Ors. He maintained a friendship with d'Ors",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Mircea Eliade",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q41590.txt#1",
+ "meta": {
+  "title": "Wikipedia (en): Mircea Eliade",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

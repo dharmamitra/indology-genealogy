@@ -1,0 +1,114 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Akegarasu Haya",
+   "birth_year": 1877,
+   "death_year": 1954,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Kiyozawa Manshi",
+   "birth_year": null,
+   "death_year": 1903,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Gyomay Kubose",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gyoko Saito",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Shuichi Maida",
+   "birth_year": 1906,
+   "death_year": 1967,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Akegarasu Haya",
+   "type": "student_of",
+   "object": "Kiyozawa Manshi",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1893,
+   "year_end": 1903,
+   "explicit": true,
+   "evidence": "Rev. Kiyozawa Manshi, a great Japanese Shin reformer who taught Buddhism through life experience, met him on September 11, 1893, and became his teacher.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gyomay Kubose",
+   "type": "student_of",
+   "object": "Akegarasu Haya",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "two ministers of the Buddhist Temple of Chicago who were his direct students published their translations: The Fundamental Spirit of Buddhism translated by Gyomay Kubose",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gyoko Saito",
+   "type": "student_of",
+   "object": "Akegarasu Haya",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "two ministers of the Buddhist Temple of Chicago who were his direct students published their translations: ... Shout of Buddha: Writings of Haya Akegarasu translated by Gyoko Saito",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shuichi Maida",
+   "type": "student_of",
+   "object": "Akegarasu Haya",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "One of Akegarasu's main students was Shuichi Maida (1906-1967).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Akegarasu Haya",
+   "type": "position_at",
+   "object": "Higashi Hongan-ji",
+   "role": "head of administration",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Akegarasu was also a former head of administration of the Higashi Hongan-ji",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Akegarasu Haya",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q4700582.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Akegarasu Haya",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "サティエンドラ・ナート・ボース",
+   "birth_year": 1894,
+   "death_year": 1974,
+   "nationality": "インド",
+   "field": "物理学"
+  },
+  {
+   "name": "アインシュタイン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "サティエンドラ・ナート・ボース",
+   "type": "studied_at",
+   "object": "プレジデンシー大学",
+   "role": null,
+   "place": "カルカッタ",
+   "year_start": 1909,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1909年からカルカッタのプレジデンシー大学に入学した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "サティエンドラ・ナート・ボース",
+   "type": "position_at",
+   "object": "ダッカ大学",
+   "role": "教職",
+   "place": null,
+   "year_start": 1921,
+   "year_end": 1945,
+   "explicit": true,
+   "evidence": "1916年から教職に就き、ダッカ大学（1921年 - 1945年）を経てカルカッタ大学（1945年 - 1956年）の教授となった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "サティエンドラ・ナート・ボース",
+   "type": "position_at",
+   "object": "カルカッタ大学",
+   "role": "教授",
+   "place": null,
+   "year_start": 1945,
+   "year_end": 1956,
+   "explicit": true,
+   "evidence": "ダッカ大学（1921年 - 1945年）を経てカルカッタ大学（1945年 - 1956年）の教授となった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "サティエンドラ・ナート・ボース",
+   "type": "collaborated_with",
+   "object": "アインシュタイン",
+   "role": null,
+   "place": null,
+   "year_start": 1924,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ボースはダッカ大学時代の1924年、アインシュタインのもとに「プランクの放射法則と光量子仮説」と題する論文を送った。それを読んだアインシュタインは非常に高く評価し、ドイツ語に翻訳して物理学雑誌に掲載させた。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): サティエンドラ・ボース",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q45789.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): サティエンドラ・ボース",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

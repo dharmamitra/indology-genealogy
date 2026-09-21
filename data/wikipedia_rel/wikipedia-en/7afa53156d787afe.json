@@ -1,0 +1,62 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Alexandre Langlois",
+   "birth_year": 1788,
+   "death_year": 1854,
+   "nationality": "French",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Alexandre Langlois",
+   "type": "position_at",
+   "object": "Lycée Charlemagne",
+   "role": "taught classes",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He taught classes at the Lycée Charlemagne",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexandre Langlois",
+   "type": "position_at",
+   "object": "Académie de Paris",
+   "role": "inspecteur",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then worked as inspecteur at the Académie de Paris.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexandre Langlois",
+   "type": "position_at",
+   "object": "Académie des Inscriptions et Belles-Lettres",
+   "role": "member",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a member of the Académie des Inscriptions et Belles-Lettres.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Alexandre Langlois",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q2362727.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Alexandre Langlois",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

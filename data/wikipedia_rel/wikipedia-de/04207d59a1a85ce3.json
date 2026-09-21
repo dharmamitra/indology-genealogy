@@ -1,0 +1,162 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Marc Aurel Stein",
+   "birth_year": 1862,
+   "death_year": 1943,
+   "nationality": "ungarisch-britischer",
+   "field": "Archäologe, Indologe und Forschungsreisender"
+  },
+  {
+   "name": "Rudolf von Roth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indologie"
+  },
+  {
+   "name": "John Marshall",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Direktor"
+  },
+  {
+   "name": "Huang Wenbi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sven Hedin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Marc Aurel Stein",
+   "type": "studied_at",
+   "object": "Wien",
+   "role": null,
+   "place": "Wien",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er studierte in Wien, Leipzig und ab 1881 in Tübingen orientalische Sprachen und Archäologie",
+   "quote_ok": true
+  },
+  {
+   "subject": "Marc Aurel Stein",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er studierte in Wien, Leipzig und ab 1881 in Tübingen orientalische Sprachen und Archäologie",
+   "quote_ok": true
+  },
+  {
+   "subject": "Marc Aurel Stein",
+   "type": "studied_at",
+   "object": "Universität Tübingen",
+   "role": "doctoral degree",
+   "place": "Tübingen",
+   "year_start": 1881,
+   "year_end": 1883,
+   "explicit": true,
+   "evidence": "ab 1881 in Tübingen orientalische Sprachen und Archäologie und wurde 1883 in Indologie bei Rudolf von Roth an der Universität Tübingen promoviert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Marc Aurel Stein",
+   "type": "student_of",
+   "object": "Rudolf von Roth",
+   "role": "doctoral supervisor",
+   "place": "Universität Tübingen",
+   "year_start": null,
+   "year_end": 1883,
+   "explicit": true,
+   "evidence": "wurde 1883 in Indologie bei Rudolf von Roth an der Universität Tübingen promoviert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Marc Aurel Stein",
+   "type": "position_at",
+   "object": "Britisches Museum",
+   "role": null,
+   "place": null,
+   "year_start": 1884,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1884 ging er nach Großbritannien, wo er in Oxford und für das Britische Museum arbeitete.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Marc Aurel Stein",
+   "type": "position_at",
+   "object": "Oriental College der University of the Punjab in Lahore",
+   "role": "Leiter",
+   "place": "Lahore",
+   "year_start": 1888,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1888 erhielt er die Stelle als Leiter des Oriental College der University of the Punjab in Lahore.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Marc Aurel Stein",
+   "type": "position_at",
+   "object": "Archaeological Survey of India",
+   "role": null,
+   "place": null,
+   "year_start": 1904,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1904 erhielt er eine Stelle beim Archaeological Survey of India unter dessen Direktor John Marshall.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Marshall",
+   "type": "position_at",
+   "object": "Archaeological Survey of India",
+   "role": "Direktor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "beim Archaeological Survey of India unter dessen Direktor John Marshall.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Marc Aurel Stein",
+   "type": "influenced_by",
+   "object": "Sven Hedin",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Stein wurde von Sven Hedins 1899 erschienenem Werk Durch Asiens Wüsten beeinflusst.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Aurel Stein",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q313061.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Aurel Stein",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

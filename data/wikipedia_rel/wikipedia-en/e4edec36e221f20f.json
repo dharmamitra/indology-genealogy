@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Julius von Mohl",
+   "birth_year": 1800,
+   "death_year": 1876,
+   "nationality": "German",
+   "field": "Orientalist"
+  },
+  {
+   "name": "Silvestre de Sacy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Julius von Mohl",
+   "type": "student_of",
+   "object": "Silvestre de Sacy",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": 1823,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "in 1823 went to Paris, at that time, under Silvestre de Sacy, the major European school of Eastern letters.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Julius von Mohl",
+   "type": "position_at",
+   "object": "Tübingen",
+   "role": "professor",
+   "place": null,
+   "year_start": 1826,
+   "year_end": 1834,
+   "explicit": true,
+   "evidence": "From 1826 to 1833 he was nominally professor at Tübingen ... He resigned his chair at Tübingen in 1834",
+   "quote_ok": true
+  },
+  {
+   "subject": "Julius von Mohl",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "professor of Persian",
+   "place": "Paris",
+   "year_start": 1847,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1847 he became professor of Persian at the Collège de France.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Julius von Mohl",
+   "type": "position_at",
+   "object": "Société Asiatique",
+   "role": "secretary, and then as president",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He served for many years as secretary, and then as president of the Société Asiatique.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Julius von Mohl",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q71602.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Julius von Mohl",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

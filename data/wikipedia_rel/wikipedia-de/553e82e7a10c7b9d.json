@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Johann Gottfried Herder",
+   "birth_year": 1744,
+   "death_year": 1803,
+   "nationality": "German",
+   "field": "Dichter, Schriftsteller, Übersetzer, Theologe und Philosoph"
+  },
+  {
+   "name": "Immanuel Kant",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Philosophie"
+  },
+  {
+   "name": "Johann Wolfgang Goethe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johann Gottfried Herder",
+   "type": "studied_at",
+   "object": "Universität Königsberg",
+   "role": "Student der Theologie",
+   "place": "Königsberg",
+   "year_start": 1762,
+   "year_end": 1764,
+   "explicit": true,
+   "evidence": "In Königsberg erkannte Herder bald, dass er für den Beruf des Chirurgen ungeeignet war, und schrieb sich als Student der Theologie an der Universität Königsberg ein.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Herder",
+   "type": "student_of",
+   "object": "Immanuel Kant",
+   "role": "teacher",
+   "place": "Königsberg",
+   "year_start": 1762,
+   "year_end": 1764,
+   "explicit": true,
+   "evidence": "Herder, der 1762–1764 bei Kant Vorlesungen über Astronomie, Logik, Metaphysik, Moralphilosophie, Mathematik und Physische Geographie gehört hatte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Herder",
+   "type": "position_at",
+   "object": "Collegium Fridericianum",
+   "role": "Hilfslehrer an der Elementarschule",
+   "place": "Königsberg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "besorgte Herder eine Stellung als Hilfslehrer an der Elementarschule des Collegium Fridericianum.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Herder",
+   "type": "position_at",
+   "object": "Domschule nach Riga",
+   "role": "Collaborator",
+   "place": "Riga",
+   "year_start": 1764,
+   "year_end": 1769,
+   "explicit": true,
+   "evidence": "Dass Herder im Herbst 1764 an die Domschule nach Riga berufen wurde [...] Bis 1769 war er in Riga als Collaborator tätig",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Herder",
+   "type": "collaborated_with",
+   "object": "Johann Wolfgang Goethe",
+   "role": "co-authors",
+   "place": null,
+   "year_start": 1772,
+   "year_end": 1772,
+   "explicit": true,
+   "evidence": "Gemeinsam mit Goethe schrieb er 1772 für die von Merck redigierten Frankfurter Gelehrten Anzeigen",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Johann Gottfried Herder",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q155547.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Johann Gottfried Herder",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

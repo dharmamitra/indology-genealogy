@@ -1,0 +1,143 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Giovanni Enrico Eugenio Vacca",
+   "birth_year": 1872,
+   "death_year": 1953,
+   "nationality": "Italian",
+   "field": "Sinologist"
+  },
+  {
+   "name": "G. B. Negri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Giuseppe Peano",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Carlo Puini",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Giovanni Enrico Eugenio Vacca",
+   "type": "studied_at",
+   "object": "University of Genoa",
+   "role": null,
+   "place": "Genoa",
+   "year_start": null,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "Vacca studied mathematics and graduated from the University of Genoa in 1897 under the guidance of G. B. Negri.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Giovanni Enrico Eugenio Vacca",
+   "type": "student_of",
+   "object": "G. B. Negri",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "Vacca studied mathematics and graduated from the University of Genoa in 1897 under the guidance of G. B. Negri.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Giovanni Enrico Eugenio Vacca",
+   "type": "position_at",
+   "object": "Giuseppe Peano",
+   "role": "assistant",
+   "place": "Turin",
+   "year_start": 1897,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He moved to Turin and became an assistant to Giuseppe Peano.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Giovanni Enrico Eugenio Vacca",
+   "type": "studied_at",
+   "object": "University of Florence",
+   "role": null,
+   "place": "Florence",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He took private lessons of Chinese and continued to study it at the University of Florence.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Giovanni Enrico Eugenio Vacca",
+   "type": "position_at",
+   "object": "Istituto di studi superiori di Firenze",
+   "role": "lecturer of Chinese language and literature",
+   "place": null,
+   "year_start": 1910,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "as a lecturer of Chinese language and literature at the Istituto di studi superiori di Firenze in 1910",
+   "quote_ok": true
+  },
+  {
+   "subject": "Giovanni Enrico Eugenio Vacca",
+   "type": "position_at",
+   "object": "University of Rome",
+   "role": "in charge of teaching language and literature of the Far East",
+   "place": null,
+   "year_start": 1911,
+   "year_end": 1921,
+   "explicit": true,
+   "evidence": "in charge of teaching language and literature of the Far East at the University of Rome from 1911 until 1921",
+   "quote_ok": true
+  },
+  {
+   "subject": "Giovanni Enrico Eugenio Vacca",
+   "type": "succeeded",
+   "object": "Carlo Puini",
+   "role": "ordinario for History and Geography of East Asia",
+   "place": "Florence",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "transferred to Florence in succession of Carlo Puini as ordinario for History and Geography of East Asia",
+   "quote_ok": true
+  },
+  {
+   "subject": "Giovanni Enrico Eugenio Vacca",
+   "type": "position_at",
+   "object": "University of Rome",
+   "role": "chair for History and Geography of East Asia",
+   "place": null,
+   "year_start": 1923,
+   "year_end": 1948,
+   "explicit": true,
+   "evidence": "and finally at the University of Rome, where he held the chair for History and Geography of East Asia from 1923 to his retirement in 1948",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Giovanni Vacca (mathematician)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1394744.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Giovanni Vacca (mathematician)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

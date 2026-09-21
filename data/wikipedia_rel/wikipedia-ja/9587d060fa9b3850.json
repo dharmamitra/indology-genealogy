@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "エルンスト・ヴィルヘルム・フェルステマン",
+   "birth_year": 1822,
+   "death_year": 1906,
+   "nationality": "ドイツ",
+   "field": "言語学"
+  },
+  {
+   "name": "カール・ラハマン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "フランツ・ボップ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "アウグスト・フリードリヒ・ポット",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "エルンスト・ヴィルヘルム・フェルステマン",
+   "type": "studied_at",
+   "object": "ベルリン大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ベルリン大学とハレ大学でカール・ラハマン、フランツ・ボップ、アウグスト・フリードリヒ・ポットらに比較言語学を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エルンスト・ヴィルヘルム・フェルステマン",
+   "type": "studied_at",
+   "object": "ハレ大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ベルリン大学とハレ大学でカール・ラハマン、フランツ・ボップ、アウグスト・フリードリヒ・ポットらに比較言語学を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エルンスト・ヴィルヘルム・フェルステマン",
+   "type": "student_of",
+   "object": "カール・ラハマン",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ベルリン大学とハレ大学でカール・ラハマン、フランツ・ボップ、アウグスト・フリードリヒ・ポットらに比較言語学を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エルンスト・ヴィルヘルム・フェルステマン",
+   "type": "student_of",
+   "object": "フランツ・ボップ",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ベルリン大学とハレ大学でカール・ラハマン、フランツ・ボップ、アウグスト・フリードリヒ・ポットらに比較言語学を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エルンスト・ヴィルヘルム・フェルステマン",
+   "type": "student_of",
+   "object": "アウグスト・フリードリヒ・ポット",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ベルリン大学とハレ大学でカール・ラハマン、フランツ・ボップ、アウグスト・フリードリヒ・ポットらに比較言語学を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エルンスト・ヴィルヘルム・フェルステマン",
+   "type": "position_at",
+   "object": "シュトルベルク図書館",
+   "role": "館員",
+   "place": "ヴェルニゲローデ",
+   "year_start": 1851,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1851年にヴェルニゲローデに移り、リュツェーウムの教師およびシュトルベルク図書館の館員をつとめた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エルンスト・ヴィルヘルム・フェルステマン",
+   "type": "position_at",
+   "object": "王立公共図書館",
+   "role": "上級図書館員",
+   "place": "ドレスデン",
+   "year_start": 1865,
+   "year_end": 1887,
+   "explicit": true,
+   "evidence": "1865年にドレスデンの王立公共図書館の上級図書館員に就任した。...1887年に退官し",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): エルンスト・フェルステマン",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q71501.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): エルンスト・フェルステマン",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

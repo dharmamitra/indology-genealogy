@@ -1,0 +1,45 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Zuicho Tachibana",
+   "birth_year": 1890,
+   "death_year": 1968,
+   "nationality": "Japanese",
+   "field": "Central Asia"
+  },
+  {
+   "name": "Count Otani",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Zuicho Tachibana",
+   "type": "collaborated_with",
+   "object": "Count Otani",
+   "role": null,
+   "place": null,
+   "year_start": 1902,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "He made three trips to Central Asia between 1902 and 1910, all financed by Count Otani.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Zuicho Tachibana",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q355941.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Zuicho Tachibana",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

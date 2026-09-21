@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Pentti Aalto",
+   "birth_year": 1917,
+   "death_year": 1998,
+   "nationality": "Finnish",
+   "field": "linguist"
+  },
+  {
+   "name": "G. J. Ramstedt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Asko Parpola",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Finnish",
+   "field": "Indologist"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Pentti Aalto",
+   "type": "position_at",
+   "object": "University of Helsinki",
+   "role": "Docent of Comparative Linguistics",
+   "place": null,
+   "year_start": 1958,
+   "year_end": 1980,
+   "explicit": true,
+   "evidence": "University of Helsinki Docent of Comparative Linguistics 1958–1980",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pentti Aalto",
+   "type": "student_of",
+   "object": "G. J. Ramstedt",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Aalto was a student of G. J. Ramstedt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Asko Parpola",
+   "type": "student_of",
+   "object": "Pentti Aalto",
+   "role": "pupil",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Aalto has mentored several Finnish Indologists, including Asko Parpola. In 1969, his team led by his pupil and successor Parpola",
+   "quote_ok": true
+  },
+  {
+   "subject": "Asko Parpola",
+   "type": "succeeded",
+   "object": "Pentti Aalto",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "his pupil and successor Parpola",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Pentti Aalto",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q2503649.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Pentti Aalto",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,167 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Richard Karl Garbe",
+   "birth_year": 1857,
+   "death_year": 1927,
+   "nationality": "deutsch",
+   "field": "Indologe"
+  },
+  {
+   "name": "Hermann Graßmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Mathematiker und spätere Indologe"
+  },
+  {
+   "name": "Rudolf von Roth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Moriz Winternitz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indologe"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Richard Karl Garbe",
+   "type": "student_of",
+   "object": "Hermann Graßmann",
+   "role": "teacher",
+   "place": "Marienstiftsgymnasium in Stettin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Auf dem Marienstiftsgymnasium in Stettin war der bekannte Mathematiker und spätere Indologe Hermann Graßmann einer seiner Lehrer.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Karl Garbe",
+   "type": "studied_at",
+   "object": "Universität Tübingen",
+   "role": null,
+   "place": "Tübingen",
+   "year_start": 1873,
+   "year_end": 1877,
+   "explicit": true,
+   "evidence": "Garbe studierte von 1873 bis 1877 an der Universität Tübingen zunächst Mathematik, anschließend Indologie.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Karl Garbe",
+   "type": "studied_at",
+   "object": "Universität Königsberg",
+   "role": "Habilitation",
+   "place": "Königsberg",
+   "year_start": 1878,
+   "year_end": 1878,
+   "explicit": true,
+   "evidence": "1878 habilitierte er sich und wirkte an der Universität Königsberg zunächst als Privatdozent",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Karl Garbe",
+   "type": "position_at",
+   "object": "Universität Königsberg",
+   "role": "Privatdozent",
+   "place": "Königsberg",
+   "year_start": 1878,
+   "year_end": 1880,
+   "explicit": true,
+   "evidence": "1878 habilitierte er sich und wirkte an der Universität Königsberg zunächst als Privatdozent, ab 1880 als Extraordinarius.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Karl Garbe",
+   "type": "position_at",
+   "object": "Universität Königsberg",
+   "role": "Extraordinarius",
+   "place": "Königsberg",
+   "year_start": 1880,
+   "year_end": 1894,
+   "explicit": true,
+   "evidence": "ab 1880 als Extraordinarius. [...] 1894 wurde er in Königsberg ordentlicher Professor der Indologie.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Karl Garbe",
+   "type": "position_at",
+   "object": "Universität Königsberg",
+   "role": "ordentlicher Professor der Indologie",
+   "place": "Königsberg",
+   "year_start": 1894,
+   "year_end": 1895,
+   "explicit": true,
+   "evidence": "1894 wurde er in Königsberg ordentlicher Professor der Indologie. Doch bereits im folgenden Jahr wurde er an die Universität Tübingen als Nachfolger seines verstorbenen Lehrers Rudolf von Roth berufen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Karl Garbe",
+   "type": "student_of",
+   "object": "Rudolf von Roth",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nachfolger seines verstorbenen Lehrers Rudolf von Roth",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Karl Garbe",
+   "type": "succeeded",
+   "object": "Rudolf von Roth",
+   "role": null,
+   "place": "Universität Tübingen",
+   "year_start": 1895,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "bereits im folgenden Jahr wurde er an die Universität Tübingen als Nachfolger seines verstorbenen Lehrers Rudolf von Roth berufen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Karl Garbe",
+   "type": "position_at",
+   "object": "Universität Tübingen",
+   "role": "Professor",
+   "place": "Tübingen",
+   "year_start": 1895,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "bereits im folgenden Jahr wurde er an die Universität Tübingen als Nachfolger seines verstorbenen Lehrers Rudolf von Roth berufen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Karl Garbe",
+   "type": "position_at",
+   "object": "Universität Tübingen",
+   "role": "Rektor",
+   "place": "Tübingen",
+   "year_start": 1908,
+   "year_end": 1909,
+   "explicit": true,
+   "evidence": "1908/1909 war er Rektor der Universität.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Richard von Garbe",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q107323.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Richard von Garbe",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

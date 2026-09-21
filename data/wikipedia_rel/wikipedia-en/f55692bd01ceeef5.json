@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Trevor Pryce Leggett",
+   "birth_year": 1914,
+   "death_year": 2000,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Hari Prasad Shastri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  },
+  {
+   "name": "Arthur Waley",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Trevor Pryce Leggett",
+   "type": "studied_at",
+   "object": "University of London",
+   "role": "degree",
+   "place": null,
+   "year_start": null,
+   "year_end": 1934,
+   "explicit": true,
+   "evidence": "He also studied law at university, graduating with a degree from the University of London in 1934.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Trevor Pryce Leggett",
+   "type": "student_of",
+   "object": "Hari Prasad Shastri",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1936,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1936, he met Hari Prasad Shastri, a teacher of Adhyatma Yoga who, like Tani, would have a significant impact on him. Shastri became his teacher of yoga and its philosophy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Trevor Pryce Leggett",
+   "type": "studied_at",
+   "object": "School of Oriental and African Studies",
+   "role": null,
+   "place": null,
+   "year_start": 1942,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Leggett joined the Ministry of Information and attended a Japanese language refresher course at the School of Oriental and African Studies.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Trevor Pryce Leggett",
+   "type": "student_of",
+   "object": "Arthur Waley",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1942,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Given his degree of fluency, he received private classes with renowned academic Arthur Waley.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Trevor Pryce Leggett",
+   "type": "position_at",
+   "object": "Buddhist Society",
+   "role": "regular lecturer",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In his later years, Leggett lectured on philosophy at the Buddhist Society (where he was a regular lecturer)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Trevor Leggett",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q7839278.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Trevor Leggett",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

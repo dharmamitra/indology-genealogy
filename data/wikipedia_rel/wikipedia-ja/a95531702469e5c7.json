@@ -1,0 +1,74 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ヨーハン・ミヒャエル・フリードリヒ・リュッケルト",
+   "birth_year": 1788,
+   "death_year": 1866,
+   "nationality": "ドイツ",
+   "field": "東洋学"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ヨーハン・ミヒャエル・フリードリヒ・リュッケルト",
+   "type": "studied_at",
+   "object": "ヴュルツブルク大学",
+   "role": null,
+   "place": null,
+   "year_start": 1805,
+   "year_end": 1809,
+   "explicit": true,
+   "evidence": "法律を学ぶべく1805年にヴュルツブルク大学に入る。1809年までこの地に留まった",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヨーハン・ミヒャエル・フリードリヒ・リュッケルト",
+   "type": "position_at",
+   "object": "イェーナ",
+   "role": "大学講師",
+   "place": "イェーナ",
+   "year_start": 1811,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1811年から短期間イェーナで大学講師を務め",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヨーハン・ミヒャエル・フリードリヒ・リュッケルト",
+   "type": "position_at",
+   "object": "エルランゲン大学",
+   "role": "東洋言語、文学の教授",
+   "place": null,
+   "year_start": 1826,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1826年にエルランゲン大学の東洋言語、文学の教授として招聘される。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヨーハン・ミヒャエル・フリードリヒ・リュッケルト",
+   "type": "position_at",
+   "object": "ベルリン大学",
+   "role": "東洋学の教授",
+   "place": "ベルリン",
+   "year_start": null,
+   "year_end": 1848,
+   "explicit": true,
+   "evidence": "エルランゲン大学とベルリン大学の東洋学の教授でもあり",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): フリードリヒ・リュッケルト",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q60644.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): フリードリヒ・リュッケルト",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

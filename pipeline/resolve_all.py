@@ -155,6 +155,9 @@ def stints(evs):
             loose.append(x); continue
         p = next((p for p in P if (p["a"] or p["b"] - 15) - 1 <= y <= (p["b"] or 9999) + 1
                   and not (not p["b"] and any(q["a"] and p["a"] < q["a"] <= y for q in P))), None)
+        if not p:  # listed under the institution for some years after a post ended (emeriti): still the same stint
+            late = [q for q in P if q["b"] and q["b"] < y <= q["b"] + 12 and not any(r is not q and (r["a"] or 0) > q["b"] for r in P)]
+            p = late[-1] if late else None
         if p and (p["a"] or p["b"]):
             p["att"].append(y); p["ev"].append(x)
         else:
@@ -175,17 +178,22 @@ def stints(evs):
 def main():
     rels, seen, people_info, dropped = [], set(), defaultdict(list), 0
     files = sorted(glob.glob(os.path.join(DATA, "chunks", "*", "*.json")) + glob.glob(os.path.join(DATA, "prefaces", "*", "*.json"))
-                   + glob.glob(os.path.join(DATA, "sections", "*", "*.json")))
+                   + glob.glob(os.path.join(DATA, "sections", "*", "*.json"))
+                   + glob.glob(os.path.join(DATA, "wikipedia_rel", "*", "*.json")))
     vpath = os.path.join(DATA, "verdicts.json")
     verdicts = json.load(open(vpath)) if os.path.exists(vpath) else {}
+    ppath = os.path.join(DATA, "page_verdicts.json")  # quotes checked against the page images (verify_pages.py)
+    pages = json.load(open(ppath)) if os.path.exists(ppath) else {}
     for p in files:
         d = json.load(open(p))
         src = cite(d)
         vs = verdicts.get(os.path.relpath(p, DATA)) or []
+        pv = pages.get(os.path.relpath(p, DATA)) or []
         for pe in d.get("people", []):
             people_info[pe["name"]].append(pe)
         for j, r in enumerate(d["relations"]):
             r["v"] = (vs[j] if j < len(vs) else None) or {}
+            r["page"] = pv[j] if j < len(pv) else None
             if not r.get("quote_ok"):
                 dropped += 1; continue
             k = (r["subject"], r["type"], r["object"], re.sub(r"\W+", "", r["evidence"])[:60])
@@ -305,6 +313,8 @@ def main():
     skipped, raw = Counter(), defaultdict(list)
     for r in rels:
         v, typ, sub, obj = r["v"], r["type"], r["subject"], r["object"]
+        if r.get("page") in ("blank_page", "not_printed"):  # the OCR text is not on the scanned page: invented by the OCR model
+            skipped["page check: quote not on the scanned page"] += 1; continue
         if v.get("verdict") == "not_supported":
             skipped["verifier: quote does not support it"] += 1; continue
         if v.get("verdict") == "wrong_type" and v.get("type") and v["type"] != typ:

@@ -1,0 +1,102 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sangye Pema Shepa",
+   "birth_year": 1990,
+   "death_year": 2022,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Chatral Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Dudjom Rinpoche II",
+   "birth_year": 1904,
+   "death_year": 1987,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Garab Dorje Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Thinley Norbu Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetan Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sangye Pema Shepa",
+   "type": "student_of",
+   "object": "Chatral Rinpoche",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Chatral Rinpoche was the main teacher of Sangye Pema Shepa, as he promised to the previous Dudjom Rinpoche",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chatral Rinpoche",
+   "type": "succeeded",
+   "object": "Dudjom Rinpoche II",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dudjom Rinpoche II had named Chatral Rinpoche as his successor in a letter to take over all his spiritual matters and sit in the middle of his mandala after his death.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Garab Dorje Rinpoche",
+   "type": "student_of",
+   "object": "Dudjom Rinpoche II",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Apart from his root gurus Dudjom Rinpoche and Thinley Norbu Rinpoche (his own father), he studied under many masters",
+   "quote_ok": true
+  },
+  {
+   "subject": "Garab Dorje Rinpoche",
+   "type": "student_of",
+   "object": "Thinley Norbu Rinpoche",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Apart from his root gurus Dudjom Rinpoche and Thinley Norbu Rinpoche (his own father), he studied under many masters",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Dudjom Jigdral Yeshe Dorje",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1688950.txt#1",
+ "meta": {
+  "title": "Wikipedia (en): Dudjom Jigdral Yeshe Dorje",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

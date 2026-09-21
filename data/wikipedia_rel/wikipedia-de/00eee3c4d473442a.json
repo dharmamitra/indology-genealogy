@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ono Seiichirō",
+   "birth_year": 1891,
+   "death_year": 1986,
+   "nationality": "Japanese",
+   "field": "Strafrecht"
+  },
+  {
+   "name": "Makino Eiichi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Dandō Shigemitsu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ono Seiichirō",
+   "type": "studied_at",
+   "object": "Universität Tōkyō",
+   "role": "Abschluss",
+   "place": "Tōkyō",
+   "year_start": null,
+   "year_end": 1917,
+   "explicit": true,
+   "evidence": "Ono Seiichirō machte 1917 seinen Abschluss an der juristischen Fakultät der Universität Tōkyō.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ono Seiichirō",
+   "type": "position_at",
+   "object": "Universität Tōkyō",
+   "role": "Professor",
+   "place": "Tōkyō",
+   "year_start": null,
+   "year_end": 1951,
+   "explicit": true,
+   "evidence": "wurde dann Professor an seiner Alma Mater... 1938 folgte er seinem Mentor Makino Eiichi nach dessen Eintritt in den Ruhestand auf dessen Lehrstuhl an der Universität Tōkyō. Er wurde 1951 als „Meiyo Kyōju“ verabschiedet.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ono Seiichirō",
+   "type": "student_of",
+   "object": "Makino Eiichi",
+   "role": "mentor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1938 folgte er seinem Mentor Makino Eiichi nach dessen Eintritt in den Ruhestand auf dessen Lehrstuhl an der Universität Tōkyō.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ono Seiichirō",
+   "type": "succeeded",
+   "object": "Makino Eiichi",
+   "role": null,
+   "place": "Universität Tōkyō",
+   "year_start": 1938,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1938 folgte er seinem Mentor Makino Eiichi nach dessen Eintritt in den Ruhestand auf dessen Lehrstuhl an der Universität Tōkyō.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dandō Shigemitsu",
+   "type": "student_of",
+   "object": "Ono Seiichirō",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Einer seiner Schüler war Dandō Shigemitsu.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Ono Seiichirō",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q11464158.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Ono Seiichirō",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

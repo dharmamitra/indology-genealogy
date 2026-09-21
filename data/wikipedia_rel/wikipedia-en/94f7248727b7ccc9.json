@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Michele Kerbaker",
+   "birth_year": 1835,
+   "death_year": 1914,
+   "nationality": "Italian",
+   "field": "linguist and translator"
+  },
+  {
+   "name": "Giacomo Lignana",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Gaspare Gorresio",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Carlo Formichi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Michele Kerbaker",
+   "type": "position_at",
+   "object": "University of Naples",
+   "role": "professor of philology and literature",
+   "place": "Naples",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "before becoming a professor of philology and literature in the University of Naples.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michele Kerbaker",
+   "type": "studied_at",
+   "object": "University of Turin",
+   "role": null,
+   "place": "Turin",
+   "year_start": null,
+   "year_end": 1857,
+   "explicit": true,
+   "evidence": "joining the University of Turin where he received a degree in 1857.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michele Kerbaker",
+   "type": "student_of",
+   "object": "Giacomo Lignana",
+   "role": "teacher",
+   "place": "Naples",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "While in Naples he studied Sanskrit under Giacomo Lignana.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michele Kerbaker",
+   "type": "position_at",
+   "object": "Collegio Asiatico",
+   "role": "teacher of Sanskrit",
+   "place": null,
+   "year_start": 1870,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "When Lignana moved to Rome in 1870 he moved to the Collegio Asiatico and began to teach Sanskrit.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carlo Formichi",
+   "type": "student_of",
+   "object": "Michele Kerbaker",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Kerbaker's students included Carlo Formichi.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Michele Kerbaker",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q3856649.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Michele Kerbaker",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

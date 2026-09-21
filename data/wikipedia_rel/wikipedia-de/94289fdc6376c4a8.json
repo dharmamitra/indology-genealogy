@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Frank Lee Woodward",
+   "birth_year": 1871,
+   "death_year": 1952,
+   "nationality": "British",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Henry Steel Olcott",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Frank Lee Woodward",
+   "type": "studied_at",
+   "object": "Sidney Sussex College in Cambridge",
+   "role": "Master of Arts",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": 1902,
+   "explicit": true,
+   "evidence": "Am Sidney Sussex College in Cambridge studierte er Klassische Altertumswissenschaft (Classics), Abschluss 1902 als Master of Arts (M.A.).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Frank Lee Woodward",
+   "type": "position_at",
+   "object": "Mahinda College",
+   "role": "Dekan",
+   "place": "Galle auf Sri Lanka",
+   "year_start": 1903,
+   "year_end": 1919,
+   "explicit": true,
+   "evidence": "übernahm 1903 den Posten des Dekans an dem von Henry Steel Olcott in Galle auf Sri Lanka gegründeten Mahinda College. Bis 1919 war er daneben als Übersetzer buddhistischer Texte für die Pali Text Society tätig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Frank Lee Woodward",
+   "type": "position_at",
+   "object": "Pali Text Society",
+   "role": "Übersetzer buddhistischer Texte",
+   "place": null,
+   "year_start": null,
+   "year_end": 1919,
+   "explicit": true,
+   "evidence": "Bis 1919 war er daneben als Übersetzer buddhistischer Texte für die Pali Text Society tätig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Steel Olcott",
+   "type": "founded",
+   "object": "Mahinda College",
+   "role": null,
+   "place": "Galle auf Sri Lanka",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "an dem von Henry Steel Olcott in Galle auf Sri Lanka gegründeten Mahinda College",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Frank Lee Woodward",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q530671.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Frank Lee Woodward",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

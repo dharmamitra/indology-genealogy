@@ -1,0 +1,126 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Bal Gangadhar Tilak",
+   "birth_year": 1856,
+   "death_year": 1920,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Gangadhar Tilak",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Vishnushastri Chiplunkar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Gopal Ganesh Agarkar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Mahadev Ballal Namjoshi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Bal Gangadhar Tilak",
+   "type": "other",
+   "object": "Gangadhar Tilak",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His father, Gangadhar Tilak was a school teacher and a Sanskrit scholar who died when Tilak was sixteen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bal Gangadhar Tilak",
+   "type": "studied_at",
+   "object": "Deccan College of Poona",
+   "role": "B.A. in Mathematics",
+   "place": "Poona",
+   "year_start": null,
+   "year_end": 1877,
+   "explicit": true,
+   "evidence": "Tilak obtained his B.A. in Mathematics from the Deccan College of Poona in 1877.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bal Gangadhar Tilak",
+   "type": "studied_at",
+   "object": "Government Law College",
+   "role": "L.L.B",
+   "place": null,
+   "year_start": null,
+   "year_end": 1879,
+   "explicit": true,
+   "evidence": "In 1879, he obtained his L.L.B degree from Government Law College.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bal Gangadhar Tilak",
+   "type": "founded",
+   "object": "New English school",
+   "role": null,
+   "place": null,
+   "year_start": 1880,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Inspired by Vishnushastri Chiplunkar, he co-founded the New English school for secondary education in 1880 with a few of his college friends, including Gopal Ganesh Agarkar, Mahadev Ballal Namjoshi and Vishnushastri Chiplunkar.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bal Gangadhar Tilak",
+   "type": "founded",
+   "object": "Deccan Education Society",
+   "role": null,
+   "place": null,
+   "year_start": 1884,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The success of the school led them to set up the Deccan Education Society in 1884",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bal Gangadhar Tilak",
+   "type": "position_at",
+   "object": "Fergusson College",
+   "role": "mathematics teacher",
+   "place": null,
+   "year_start": 1885,
+   "year_end": 1890,
+   "explicit": true,
+   "evidence": "The Society established the Fergusson College in 1885 for post-secondary studies. Tilak taught mathematics at Fergusson College. In 1890, Tilak left the Deccan Education Society for more openly political work.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Bal Gangadhar Tilak",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q312555.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Bal Gangadhar Tilak",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

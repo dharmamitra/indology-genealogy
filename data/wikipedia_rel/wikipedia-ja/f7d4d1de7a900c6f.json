@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "フリードリヒ・コンラート・アウグスト・フィック",
+   "birth_year": 1833,
+   "death_year": 1916,
+   "nationality": "ドイツ",
+   "field": "文献学者"
+  },
+  {
+   "name": "テーオドール・ベンファイ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "フリードリヒ・コンラート・アウグスト・フィック",
+   "type": "studied_at",
+   "object": "ゲッティンゲン大学",
+   "role": null,
+   "place": "ゲッティンゲン",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ゲッティンゲン大学でテーオドール・ベンファイらに学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "フリードリヒ・コンラート・アウグスト・フィック",
+   "type": "student_of",
+   "object": "テーオドール・ベンファイ",
+   "role": "teacher",
+   "place": "ゲッティンゲン大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ゲッティンゲン大学でテーオドール・ベンファイらに学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "フリードリヒ・コンラート・アウグスト・フィック",
+   "type": "position_at",
+   "object": "ゲッティンゲン大学",
+   "role": "員外教授",
+   "place": "ゲッティンゲン",
+   "year_start": 1876,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1876年にゲッティンゲン大学の員外教授に就任した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "フリードリヒ・コンラート・アウグスト・フィック",
+   "type": "position_at",
+   "object": "ブレスラウ大学",
+   "role": "正教授",
+   "place": null,
+   "year_start": 1888,
+   "year_end": 1891,
+   "explicit": true,
+   "evidence": "1888年にはブレスラウ大学の正教授に移ったが、健康上の理由で1891年に退官した。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): アウグスト・フィック",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q72713.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): アウグスト・フィック",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

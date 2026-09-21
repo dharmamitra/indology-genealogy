@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Mou Zongsan",
+   "birth_year": 1909,
+   "death_year": 1995,
+   "nationality": "Chinese",
+   "field": "philosopher and translator"
+  },
+  {
+   "name": "Xiong Shili",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": "philosopher"
+  },
+  {
+   "name": "Tu Weiming",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Mou Zongsan",
+   "type": "studied_at",
+   "object": "Peking University",
+   "role": "undergraduate",
+   "place": null,
+   "year_start": 1927,
+   "year_end": 1933,
+   "explicit": true,
+   "evidence": "He went to Peking University for college prep (1927) and undergraduate courses (1929)... After graduating in 1933",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mou Zongsan",
+   "type": "student_of",
+   "object": "Xiong Shili",
+   "role": "follower",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "During that time he became a follower of Xiong Shili, author of the New Treatise on Consciousness-only",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tu Weiming",
+   "type": "student_of",
+   "object": "Mou Zongsan",
+   "role": "student",
+   "place": "Tunghai University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His student at Tunghai University was Tu Weiming.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mou Zongsan",
+   "type": "position_at",
+   "object": "New Asia College in Hong Kong",
+   "role": null,
+   "place": "Hong Kong",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1960 he moved to Hong Kong and eventually took up a post at New Asia College in Hong Kong (now part of the Chinese University of Hong Kong)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mou Zongsan",
+   "type": "founded",
+   "object": "New Asia Middle School",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "helped found New Asia Middle School",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Mou Tsung-san",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q6918843.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Mou Tsung-san",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

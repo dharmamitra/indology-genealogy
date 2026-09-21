@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ṭhānissaro Bhikkhu",
+   "birth_year": 1949,
+   "death_year": null,
+   "nationality": "US-amerikanisch",
+   "field": "Theravada"
+  },
+  {
+   "name": "Ajaan Fuang Jotiko",
+   "birth_year": null,
+   "death_year": 1986,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ajaan Lee Dhammadaro",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ajaan Suwat Suvaco",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ṭhānissaro Bhikkhu",
+   "type": "studied_at",
+   "object": "Oberlin College",
+   "role": "Abschluss in Europäischer Geistesgeschichte",
+   "place": null,
+   "year_start": null,
+   "year_end": 1971,
+   "explicit": true,
+   "evidence": "Nachdem Geoffrey DeGraff 1971 am Oberlin College seinen Abschluss in Europäischer Geistesgeschichte gemacht hatte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ṭhānissaro Bhikkhu",
+   "type": "student_of",
+   "object": "Ajaan Fuang Jotiko",
+   "role": "traditional teacher",
+   "place": "Thailand",
+   "year_start": null,
+   "year_end": 1986,
+   "explicit": true,
+   "evidence": "reiste er nach Thailand, wo er unter Ajaan Fuang Jotiko, einem Schüler Ajaan Lee Dhammadaros, Meditation lernte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ajaan Fuang Jotiko",
+   "type": "student_of",
+   "object": "Ajaan Lee Dhammadaro",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ajaan Fuang Jotiko, einem Schüler Ajaan Lee Dhammadaros",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ṭhānissaro Bhikkhu",
+   "type": "succeeded",
+   "object": "Ajaan Fuang Jotiko",
+   "role": "Abt",
+   "place": "Wat Dhammasathit",
+   "year_start": 1986,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ajaan Fuang hatte vor seinem Tod Ajaan Geoff gebeten, ihm als Abt des Klosters nachzufolgen. Ajaan Geoff wurde auch zum Abt erhoben",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ṭhānissaro Bhikkhu",
+   "type": "position_at",
+   "object": "Wat Mettavanaram",
+   "role": "Abt",
+   "place": "San Diego County",
+   "year_start": 1993,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Jahr 1993 wurde er Abt dieses isoliert gelegenen und als streng konservativ geltenden Klosters.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Thanissaro",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q7710407.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Thanissaro",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

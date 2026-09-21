@@ -1,0 +1,93 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "David Edward Cooper",
+   "birth_year": 1942,
+   "death_year": null,
+   "nationality": "British",
+   "field": "philosopher"
+  },
+  {
+   "name": "Simon P. James",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "David Edward Cooper",
+   "type": "studied_at",
+   "object": "St Edmund Hall, Oxford",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "educated at Highgate School and then St Edmund Hall, Oxford",
+   "quote_ok": true
+  },
+  {
+   "subject": "David Edward Cooper",
+   "type": "position_at",
+   "object": "University of Oxford",
+   "role": "Lecturer in Philosophy",
+   "place": null,
+   "year_start": 1967,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Oxford, the University at which he was given his first job in 1967, as a Lecturer in Philosophy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "David Edward Cooper",
+   "type": "position_at",
+   "object": "Durham University",
+   "role": "Professor of Philosophy",
+   "place": null,
+   "year_start": 1986,
+   "year_end": 2008,
+   "explicit": true,
+   "evidence": "being appointed, in 1986, as Professor of Philosophy at Durham University – where he remained until retiring in 2008.",
+   "quote_ok": true
+  },
+  {
+   "subject": "David Edward Cooper",
+   "type": "position_at",
+   "object": "Peking University",
+   "role": "Distinguished International Visiting Professor",
+   "place": null,
+   "year_start": 2022,
+   "year_end": 2022,
+   "explicit": true,
+   "evidence": "In 2022 he was Distinguished International Visiting Professor at Peking University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "David Edward Cooper",
+   "type": "collaborated_with",
+   "object": "Simon P. James",
+   "role": null,
+   "place": null,
+   "year_start": 2005,
+   "year_end": 2005,
+   "explicit": true,
+   "evidence": "Buddhism, Virtue and Environment (with Simon P. James) (Aldershot: Ashgate 2005).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): David E. Cooper",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q5233163.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): David E. Cooper",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

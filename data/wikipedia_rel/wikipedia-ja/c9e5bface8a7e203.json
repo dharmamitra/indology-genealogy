@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "季羨林",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "中華人民共和国",
+   "field": "言語学、文化学、歴史学、仏教学、インド学、比較文学"
+  },
+  {
+   "name": "依田憙家",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "季羨林",
+   "type": "studied_at",
+   "object": "清華大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1934,
+   "explicit": true,
+   "evidence": "1934年（民国23年）、清華大学を卒業。",
+   "quote_ok": true
+  },
+  {
+   "subject": "季羨林",
+   "type": "studied_at",
+   "object": "ゲッティンゲン大学",
+   "role": "哲学博士",
+   "place": null,
+   "year_start": 1936,
+   "year_end": 1945,
+   "explicit": true,
+   "evidence": "1936年（民国25年）から1945年（民国34年）まで、ゲッティンゲン大学でインド古代言語(サンスクリット、パーリ語など)、トカラ語を学ぶ。1941年（民国30年）、同大学で哲学博士学位を取得。",
+   "quote_ok": true
+  },
+  {
+   "subject": "季羨林",
+   "type": "position_at",
+   "object": "北京大学",
+   "role": "東方言語文学部教授、学部長",
+   "place": null,
+   "year_start": 1946,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1946年（民国35年）に中国に帰国し、北京大学東方言語文学部教授、学部長。",
+   "quote_ok": true
+  },
+  {
+   "subject": "季羨林",
+   "type": "position_at",
+   "object": "北京大学",
+   "role": "副学長",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "北京大学副学長、中国科学院哲学社会科学学部委員、中国人民政治協商会議全国委員会委員、全国人民代表大会常務委員会委員、中国言語学会会長、中国比較文学学会会長などを歴任。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 季羨林",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q714228.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 季羨林",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

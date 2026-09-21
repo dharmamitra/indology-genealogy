@@ -1,0 +1,124 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Johann Wilhelm Adolf Kirchhoff",
+   "birth_year": 1826,
+   "death_year": 1908,
+   "nationality": "German",
+   "field": "Klassische Philologie, Epigraphik, Altertumsforscher"
+  },
+  {
+   "name": "Karl Lachmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "August Böckh",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johann Wilhelm Adolf Kirchhoff",
+   "type": "studied_at",
+   "object": "Friedrich-Wilhelms-Universität",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1842,
+   "year_end": 1846,
+   "explicit": true,
+   "evidence": "Nach der Reifeprüfung besuchte er 1842 dort auch die Friedrich-Wilhelms-Universität, wo er bei Karl Lachmann und August Böckh Klassische Philologie studierte. Nach seiner Promotion 1846",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Wilhelm Adolf Kirchhoff",
+   "type": "student_of",
+   "object": "Karl Lachmann",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1842,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "besuchte er 1842 dort auch die Friedrich-Wilhelms-Universität, wo er bei Karl Lachmann und August Böckh Klassische Philologie studierte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Wilhelm Adolf Kirchhoff",
+   "type": "student_of",
+   "object": "August Böckh",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1842,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "besuchte er 1842 dort auch die Friedrich-Wilhelms-Universität, wo er bei Karl Lachmann und August Böckh Klassische Philologie studierte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Wilhelm Adolf Kirchhoff",
+   "type": "position_at",
+   "object": "Joachimsthalsches Gymnasium",
+   "role": "Adjunkt, dann Oberlehrer und Professor",
+   "place": "Berlin",
+   "year_start": 1846,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nach seiner Promotion 1846 wurde er Adjunkt, dann Oberlehrer und Professor am Joachimsthalschen Gymnasium in Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Wilhelm Adolf Kirchhoff",
+   "type": "position_at",
+   "object": "Königlich-Preußische Akademie der Wissenschaften",
+   "role": "ordentliches Mitglied",
+   "place": null,
+   "year_start": 1860,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1860 wurde er zum ordentlichen Mitglied der Königlich-Preußischen Akademie der Wissenschaften gewählt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Wilhelm Adolf Kirchhoff",
+   "type": "position_at",
+   "object": "Friedrich-Wilhelms-Universität",
+   "role": "ordentlicher Professor",
+   "place": "Berlin",
+   "year_start": 1865,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1865 folgte er einem Ruf auf den Lehrstuhl für griechische Philologie als Nachfolger Böckhs und wurde zum ordentlichen Professor ernannt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Wilhelm Adolf Kirchhoff",
+   "type": "succeeded",
+   "object": "August Böckh",
+   "role": "Lehrstuhl für griechische Philologie",
+   "place": "Berlin",
+   "year_start": 1865,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1865 folgte er einem Ruf auf den Lehrstuhl für griechische Philologie als Nachfolger Böckhs",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Adolf Kirchhoff",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q77629.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Adolf Kirchhoff",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

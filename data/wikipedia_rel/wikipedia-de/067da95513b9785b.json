@@ -1,0 +1,105 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Thomas Jülch",
+   "birth_year": 1975,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Sinology"
+  },
+  {
+   "name": "Chen Jinhua",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Thomas Jülch",
+   "type": "studied_at",
+   "object": "Johann Wolfgang Goethe-Universität Frankfurt am Main",
+   "role": null,
+   "place": "Frankfurt am Main",
+   "year_start": 1996,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Jülch studierte ab 1996 Geschichte und Englisch an der Johann Wolfgang Goethe-Universität Frankfurt am Main",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Jülch",
+   "type": "studied_at",
+   "object": "University of Hull",
+   "role": "Master of Arts",
+   "place": "Hull",
+   "year_start": null,
+   "year_end": 2000,
+   "explicit": true,
+   "evidence": "erwarb 2000 an der University of Hull den Master of Arts in Geschichte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Jülch",
+   "type": "studied_at",
+   "object": "Ruprecht-Karls-Universität Heidelberg",
+   "role": null,
+   "place": "Heidelberg",
+   "year_start": null,
+   "year_end": 2005,
+   "explicit": true,
+   "evidence": "Anschließend studierte er bis 2005 Sinologie an der Ruprecht-Karls-Universität Heidelberg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Jülch",
+   "type": "studied_at",
+   "object": "Ludwig-Maximilians-Universität München",
+   "role": "PhD",
+   "place": "München",
+   "year_start": null,
+   "year_end": 2011,
+   "explicit": true,
+   "evidence": "erwarb 2011 an der Ludwig-Maximilians-Universität München durch grundständige Promotion den Doktorgrad im Fach Sinologie.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Jülch",
+   "type": "position_at",
+   "object": "Universität Gent",
+   "role": "postdoktoraler wissenschaftlicher Mitarbeiter",
+   "place": "Gent, Belgien",
+   "year_start": 2013,
+   "year_end": 2019,
+   "explicit": true,
+   "evidence": "Von 2013 bis 2019 war er postdoktoraler wissenschaftlicher Mitarbeiter an der Universität Gent (Belgien).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Jülch",
+   "type": "collaborated_with",
+   "object": "Chen Jinhua",
+   "role": null,
+   "place": null,
+   "year_start": 2019,
+   "year_end": 2023,
+   "explicit": true,
+   "evidence": "Zhipan’s Account of the History of Buddhism in China. Drei Bände. Brill, Leiden/Boston 2019–2023 (mit einem Vorwort von Chen Jinhua).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Thomas Jülch",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q113782517.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Thomas Jülch",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

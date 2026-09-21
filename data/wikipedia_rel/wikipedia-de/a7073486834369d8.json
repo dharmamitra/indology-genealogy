@@ -1,0 +1,45 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Henry Miers Elliot",
+   "birth_year": 1808,
+   "death_year": 1853,
+   "nationality": "britisch",
+   "field": "Historiker"
+  },
+  {
+   "name": "John Dowson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Dowson",
+   "type": "collaborated_with",
+   "object": "Henry Miers Elliot",
+   "role": "postumer Herausgeber",
+   "place": null,
+   "year_start": 1867,
+   "year_end": 1877,
+   "explicit": true,
+   "evidence": "Die erste Auflage dieses vielbeachteten Werkes wurde zwischen 1867 und 1877 postum in acht Bänden von John Dowson herausgegeben.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Henry Miers Elliot",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q347064.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Henry Miers Elliot",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

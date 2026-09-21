@@ -1,0 +1,121 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Xiong Shili",
+   "birth_year": 1885,
+   "death_year": 1968,
+   "nationality": "Chinese",
+   "field": "philosopher"
+  },
+  {
+   "name": "Ouyang Jingwu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": "Buddhist thinker"
+  },
+  {
+   "name": "Cai Yuanpei",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": null
+  },
+  {
+   "name": "Liang Shuming",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": null
+  },
+  {
+   "name": "Mou Zongsan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Tu Wei-Ming",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Xiong Shili",
+   "type": "studied_at",
+   "object": "China Institute for Inner Learning",
+   "role": null,
+   "place": "Nanjing",
+   "year_start": 1920,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he began to study Buddhism in 1920 at the China Institute for Inner Learning (支那內學院) in Nanjing headed by Ouyang Jingwu (欧阳竟无)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Xiong Shili",
+   "type": "student_of",
+   "object": "Ouyang Jingwu",
+   "role": "teacher",
+   "place": "Nanjing",
+   "year_start": 1920,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he began to study Buddhism in 1920 at the China Institute for Inner Learning (支那內學院) in Nanjing headed by Ouyang Jingwu (欧阳竟无)... ask Ouyang Jingwu to recommend one of his students",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ouyang Jingwu",
+   "type": "position_at",
+   "object": "China Institute for Inner Learning",
+   "role": "head",
+   "place": "Nanjing",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "China Institute for Inner Learning (支那內學院) in Nanjing headed by Ouyang Jingwu (欧阳竟无)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Cai Yuanpei",
+   "type": "position_at",
+   "object": "Peking University",
+   "role": "chancellor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the chancellor of Peking University, Cai Yuanpei, sent Liang Shuming to Nanjing",
+   "quote_ok": true
+  },
+  {
+   "subject": "Xiong Shili",
+   "type": "position_at",
+   "object": "Peking University",
+   "role": "lecturer",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Cai Yuanpei, on Liang's recommendation, invited Xiong to Peking University ... continued to lecture at Peking University.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Xiong Shili",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q699536.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Xiong Shili",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

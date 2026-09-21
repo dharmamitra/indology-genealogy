@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Kurt Huber",
+   "birth_year": 1893,
+   "death_year": 1943,
+   "nationality": "German",
+   "field": "Musikwissenschaft"
+  },
+  {
+   "name": "Walther Wüst",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "Walther Wünsch",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Adolf Sandberger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Kurt Huber",
+   "type": "studied_at",
+   "object": "Münchner Ludwig-Maximilians-Universität",
+   "role": "PhD",
+   "place": "München",
+   "year_start": null,
+   "year_end": 1917,
+   "explicit": true,
+   "evidence": "An der Münchner Ludwig-Maximilians-Universität studierte er Musikwissenschaft mit Philosophie als Nebenfach. 1917 wurde er promoviert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kurt Huber",
+   "type": "studied_at",
+   "object": "Münchner Universität",
+   "role": "Habilitation",
+   "place": "München",
+   "year_start": null,
+   "year_end": 1920,
+   "explicit": true,
+   "evidence": "1920 wurde Huber in Psychologie habilitiert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kurt Huber",
+   "type": "position_at",
+   "object": "Münchner Universität",
+   "role": "außerordentlicher Professor",
+   "place": "München",
+   "year_start": 1926,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1926 wurde er außerordentlicher Professor an der Münchner Universität.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kurt Huber",
+   "type": "position_at",
+   "object": "Münchner Universität",
+   "role": "Professur",
+   "place": "München",
+   "year_start": 1938,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wo er 1938 eine Professur an der Universität übernahm.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walther Wüst",
+   "type": "position_at",
+   "object": "Münchner Ludwig-Maximilians-Universität",
+   "role": "Rektor",
+   "place": "München",
+   "year_start": 1943,
+   "year_end": 1943,
+   "explicit": true,
+   "evidence": "Im März entzog ihm der Rektor der Universität Walther Wüst die Doktorwürde.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kurt Huber",
+   "type": "student_of",
+   "object": "Adolf Sandberger",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": 1918,
+   "explicit": true,
+   "evidence": "Festschrift zum 50. Geburtstag. Adolf Sandberger überreicht von seinen Schülern.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kurt Huber",
+   "type": "collaborated_with",
+   "object": "Walther Wünsch",
+   "role": null,
+   "place": null,
+   "year_start": 1938,
+   "year_end": 1938,
+   "explicit": true,
+   "evidence": "mit Walther Wünsch: Bosnienfahrt. In: Deutsche Musikkultur. Zweimonatshefte für Musikleben und Musikforschung. 3. Jg., Heft 1, 1938, S. 19–26.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Kurt Huber",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q57812.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Kurt Huber",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

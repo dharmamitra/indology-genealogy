@@ -1,0 +1,93 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Raghu Vira",
+   "birth_year": 1902,
+   "death_year": 1963,
+   "nationality": "indisch",
+   "field": "Indologe"
+  },
+  {
+   "name": "Lokesh Chandra",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Raghu Vira",
+   "type": "founded",
+   "object": "International Academy of Indian Culture",
+   "role": "Gründungsdirektor",
+   "place": "Lahore",
+   "year_start": 1934,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Raghu Vira war ab 1934 Gründungsdirektor der International Academy of Indian Culture in Lahore.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Raghu Vira",
+   "type": "position_at",
+   "object": "International Academy of Indian Culture",
+   "role": "Gründungsdirektor",
+   "place": "Lahore",
+   "year_start": 1934,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Raghu Vira war ab 1934 Gründungsdirektor der International Academy of Indian Culture in Lahore.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Raghu Vira",
+   "type": "founded",
+   "object": "Satapitaka-Buchreihe (Śata-piṭaka Series)",
+   "role": "Herausgeber",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Herausgeber der Satapitaka-Buchreihe (Śata-piṭaka Series), die von seinem Sohn Lokesh Chandra fortgesetzt wird.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lokesh Chandra",
+   "type": "other",
+   "object": "Raghu Vira",
+   "role": "Sohn",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Satapitaka-Buchreihe (Śata-piṭaka Series), die von seinem Sohn Lokesh Chandra fortgesetzt wird.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lokesh Chandra",
+   "type": "succeeded",
+   "object": "Raghu Vira",
+   "role": "Herausgeber der Satapitaka-Buchreihe",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Herausgeber der Satapitaka-Buchreihe (Śata-piṭaka Series), die von seinem Sohn Lokesh Chandra fortgesetzt wird.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Raghu Vira",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q557177.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Raghu Vira",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

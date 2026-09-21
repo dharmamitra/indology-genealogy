@@ -1,0 +1,150 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ludwig Josef Johann Wittgenstein",
+   "birth_year": 1889,
+   "death_year": 1951,
+   "nationality": "Austro-British",
+   "field": "philosophy"
+  },
+  {
+   "name": "Otto Weininger",
+   "birth_year": null,
+   "death_year": 1903,
+   "nationality": "Austrian",
+   "field": "philosopher"
+  },
+  {
+   "name": "G. E. Moore",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sir Arthur Schuster",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Physics"
+  },
+  {
+   "name": "Gottlob Frege",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "logic and mathematics"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ludwig Josef Johann Wittgenstein",
+   "type": "studied_at",
+   "object": "University of Cambridge",
+   "role": null,
+   "place": null,
+   "year_start": 1911,
+   "year_end": 1913,
+   "explicit": true,
+   "evidence": "From 1911 to 1913, he studied at the University of Cambri",
+   "quote_ok": false
+  },
+  {
+   "subject": "Ludwig Josef Johann Wittgenstein",
+   "type": "influenced_by",
+   "object": "Otto Weininger",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "While a student at the Realschule, Wittgenstein was influenced by Austrian philosopher Otto Weininger's 1903 book Geschlecht und Charakter (Sex and Character).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ludwig Josef Johann Wittgenstein",
+   "type": "position_at",
+   "object": "University of Cambridge",
+   "role": "professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Many years later, as a professor at the University of Cambridge, Wittgenstein distributed copies of Weininger's book to his bemused academic colleagues.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ludwig Josef Johann Wittgenstein",
+   "type": "studied_at",
+   "object": "Technische Hochschule Berlin",
+   "role": "diploma (Abgangzeugnis)",
+   "place": "Charlottenburg, Berlin",
+   "year_start": 1906,
+   "year_end": 1908,
+   "explicit": true,
+   "evidence": "Wittgenstein began his studies in mechanical engineering at the Technische Hochschule Berlin in Charlottenburg, Berlin, on 23 October 1906... and was awarded a diploma (Abgangzeugnis) on 5 May 1908.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ludwig Josef Johann Wittgenstein",
+   "type": "studied_at",
+   "object": "Victoria University of Manchester",
+   "role": "doctorate",
+   "place": null,
+   "year_start": 1908,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He arrived at the Victoria University of Manchester in the spring of 1908 to study for a doctorate",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ludwig Josef Johann Wittgenstein",
+   "type": "student_of",
+   "object": "Sir Arthur Schuster",
+   "role": null,
+   "place": "Glossop",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At Glossop, Wittgenstein worked under Professor of Physics Sir Arthur Schuster.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir Arthur Schuster",
+   "type": "position_at",
+   "object": "Victoria University of Manchester",
+   "role": "Professor of Physics",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "At Glossop, Wittgenstein worked under Professor of Physics Sir Arthur Schuster.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gottlob Frege",
+   "type": "position_at",
+   "object": "University of Jena",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In the summer of 1911 he visited Frege at the University of Jena",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Ludwig Wittgenstein",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q9391.txt#1",
+ "meta": {
+  "title": "Wikipedia (en): Ludwig Wittgenstein",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

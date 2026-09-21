@@ -1,0 +1,150 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sudhakara Dvivedi",
+   "birth_year": 1855,
+   "death_year": 1910,
+   "nationality": "Indian",
+   "field": "Sanskrit and mathematics"
+  },
+  {
+   "name": "Pandit Devakrsna",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "mathematics"
+  },
+  {
+   "name": "Bapudeva Sastri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "mathematics and astronomy"
+  },
+  {
+   "name": "Ganesh Prasad",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "mathematics"
+  },
+  {
+   "name": "George Thibaut",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sudhakara Dvivedi",
+   "type": "student_of",
+   "object": "Pandit Devakrsna",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In childhood he studied mathematics under Pandit Devakrsna.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sudhakara Dvivedi",
+   "type": "position_at",
+   "object": "Government Sanskrit College, Varanasi",
+   "role": "librarian",
+   "place": "Varanasi",
+   "year_start": 1883,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1883 he was appointed a librarian in the Government Sanskrit College, Varanasi",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sudhakara Dvivedi",
+   "type": "position_at",
+   "object": "Government Sanskrit College, Varanasi",
+   "role": "teacher of mathematics and astronomy",
+   "place": "Varanasi",
+   "year_start": 1898,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "where in 1898 he was appointed the teacher of mathematics and astronomy after Bapudeva Sastri retired in 1889.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sudhakara Dvivedi",
+   "type": "succeeded",
+   "object": "Bapudeva Sastri",
+   "role": "teacher of mathematics and astronomy",
+   "place": "Government Sanskrit College, Varanasi",
+   "year_start": 1898,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "where in 1898 he was appointed the teacher of mathematics and astronomy after Bapudeva Sastri retired in 1889.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sudhakara Dvivedi",
+   "type": "position_at",
+   "object": "Queen's college Benaras",
+   "role": "head of mathematics department",
+   "place": "Benaras",
+   "year_start": null,
+   "year_end": 1905,
+   "explicit": true,
+   "evidence": "He was the head of mathematics department in Queen's college Benaras from where he retired in 1905",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ganesh Prasad",
+   "type": "succeeded",
+   "object": "Sudhakara Dvivedi",
+   "role": "head of department",
+   "place": "Queen's college Benaras",
+   "year_start": 1905,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from where he retired in 1905 and mathematician Ganesh Prasad became the new head of department.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ganesh Prasad",
+   "type": "position_at",
+   "object": "Queen's college Benaras",
+   "role": "head of department",
+   "place": "Benaras",
+   "year_start": 1905,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from where he retired in 1905 and mathematician Ganesh Prasad became the new head of department.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sudhakara Dvivedi",
+   "type": "collaborated_with",
+   "object": "George Thibaut",
+   "role": null,
+   "place": null,
+   "year_start": 1889,
+   "year_end": 1889,
+   "explicit": true,
+   "evidence": "Pañcasiddhāntikā of Varāhamihira (1889): Co-edited with George Thibaut",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Sudhakara Dvivedi",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q7633752.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Sudhakara Dvivedi",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

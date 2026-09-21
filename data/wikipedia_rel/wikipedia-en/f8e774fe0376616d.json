@@ -1,0 +1,50 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Johannes Hertel",
+   "birth_year": 1872,
+   "death_year": 1955,
+   "nationality": "German",
+   "field": "Indologist"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johannes Hertel",
+   "type": "studied_at",
+   "object": "University of Leipzig",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "Hertel obtained his Ph.D. from the University of Leipzig in 1897 with a thesis on the Hitopadesha.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Hertel",
+   "type": "position_at",
+   "object": "University of Leipzig",
+   "role": "full professor and Chair of Indian Studies",
+   "place": null,
+   "year_start": 1919,
+   "year_end": 1937,
+   "explicit": true,
+   "evidence": "From 1919 to 1937 he was full professor and Chair of Indian Studies at the University of Leipzig",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Johannes Hertel",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q102541.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Johannes Hertel",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

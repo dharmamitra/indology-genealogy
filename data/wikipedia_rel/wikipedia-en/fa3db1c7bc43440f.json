@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Théodore Pavie",
+   "birth_year": 1811,
+   "death_year": 1896,
+   "nationality": "French",
+   "field": null
+  },
+  {
+   "name": "Eugène Burnouf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Théodore Pavie",
+   "type": "student_of",
+   "object": "Eugène Burnouf",
+   "role": "teacher",
+   "place": "College Royal d'Angers",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a student of Eugène Burnouf at the College Royal d'Angers.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Théodore Pavie",
+   "type": "succeeded",
+   "object": "Eugène Burnouf",
+   "role": "Sanskrit teaching position",
+   "place": null,
+   "year_start": 1852,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After his teacher's death, he took over the Sanskrit teaching position in 1852.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Théodore Pavie",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "teaching Sanskrit",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He later resigned from teaching Sanskrit at the Collège de France",
+   "quote_ok": true
+  },
+  {
+   "subject": "Théodore Pavie",
+   "type": "position_at",
+   "object": "Catholic Faculties in Angers",
+   "role": "Hebrew lessons and lectures",
+   "place": "Angers",
+   "year_start": 1862,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1862, Théodore retired and gave Hebrew lessons and lectures at Catholic Faculties in Angers.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Théodore Pavie",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q3526479.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Théodore Pavie",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Charles Gabriel Seligman",
+   "birth_year": 1873,
+   "death_year": 1940,
+   "nationality": "britisch",
+   "field": "Ethnologe"
+  },
+  {
+   "name": "Brenda Zara Seligman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Charles Gabriel Seligman",
+   "type": "studied_at",
+   "object": "St Thomas’ Hospital",
+   "role": "Medizin",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Seligman, geboren als Seligmann, studierte Medizin am St Thomas’ Hospital.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Gabriel Seligman",
+   "type": "position_at",
+   "object": "University of London",
+   "role": "Lehrstuhl für Ethnologie",
+   "place": null,
+   "year_start": 1913,
+   "year_end": 1934,
+   "explicit": true,
+   "evidence": "Er hatte von 1913 bis 1934 den Lehrstuhl für Ethnologie an der University of London inne.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Gabriel Seligman",
+   "type": "collaborated_with",
+   "object": "Brenda Zara Seligman",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "zusammen mit Brenda Zara Seligman: The Veddas. (1911",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Gabriel Seligman",
+   "type": "other",
+   "object": "Brenda Zara Seligman",
+   "role": "marriage",
+   "place": null,
+   "year_start": 1905,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1905 heiratete er Brenda Zara Seligman",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Charles Gabriel Seligman",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q185664.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Charles Gabriel Seligman",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

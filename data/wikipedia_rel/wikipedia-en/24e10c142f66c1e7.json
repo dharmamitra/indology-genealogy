@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Richard Polenberg",
+   "birth_year": 1937,
+   "death_year": 2020,
+   "nationality": "American",
+   "field": "history"
+  },
+  {
+   "name": "William E. Leuchtenburg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Tom Allen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Richard Polenberg",
+   "type": "studied_at",
+   "object": "Brooklyn College",
+   "role": "Bachelor of Arts",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He received his Bachelor of Arts degree from Brooklyn College",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Polenberg",
+   "type": "studied_at",
+   "object": "Columbia University",
+   "role": "Doctor of Philosophy",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and his Doctor of Philosophy degree from Columbia University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Polenberg",
+   "type": "student_of",
+   "object": "William E. Leuchtenburg",
+   "role": "doctoral supervisor",
+   "place": "Columbia University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the latter supervised by William E. Leuchtenburg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Polenberg",
+   "type": "position_at",
+   "object": "Cornell University",
+   "role": "Professor of American History",
+   "place": null,
+   "year_start": 1966,
+   "year_end": 2011,
+   "explicit": true,
+   "evidence": "Polenberg taught history at Cornell University for 45 years, from 1966 to 2011; In 1986, he became Goldwin Smith Professor of American History.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Polenberg",
+   "type": "position_at",
+   "object": "Hebrew University in Jerusalem",
+   "role": "Fulbright Visiting Professor",
+   "place": "Jerusalem",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Fulbright Visiting Professor at Hebrew University in Jerusalem",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tom Allen",
+   "type": "student_of",
+   "object": "Richard Polenberg",
+   "role": "teacher",
+   "place": "Cornell University",
+   "year_start": 1981,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Former student Tom Allen wrote of Polenberg: In 1981, sitting in the fourth row at cavernous Bailey Hall, I watched the masterful Professor Polenberg pace the stage",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Richard Polenberg",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q15406965.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Richard Polenberg",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

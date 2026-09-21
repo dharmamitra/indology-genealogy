@@ -1,0 +1,174 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Adolf Kaegi",
+   "birth_year": 1849,
+   "death_year": 1923,
+   "nationality": "Schweizer",
+   "field": "Indologe und Gräzist"
+  },
+  {
+   "name": "Rudolf von Roth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Karl Geldner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Heinrich Schweizer-Sidler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Eduard Schwyzer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Adolf Kaegi",
+   "type": "studied_at",
+   "object": "Universität Zürich",
+   "role": null,
+   "place": "Zürich",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Adolf Kaegi studierte an den Universitäten Zürich, Tübingen und Leipzig alte Sprachen und Indologie",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Kaegi",
+   "type": "studied_at",
+   "object": "Universität Tübingen",
+   "role": null,
+   "place": "Tübingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Adolf Kaegi studierte an den Universitäten Zürich, Tübingen und Leipzig alte Sprachen und Indologie",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Kaegi",
+   "type": "studied_at",
+   "object": "Universität Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Adolf Kaegi studierte an den Universitäten Zürich, Tübingen und Leipzig alte Sprachen und Indologie",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Kaegi",
+   "type": "student_of",
+   "object": "Rudolf von Roth",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zu seinen akademischen Lehrern zählten Rudolf von Roth und Karl Geldner.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Kaegi",
+   "type": "student_of",
+   "object": "Karl Geldner",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zu seinen akademischen Lehrern zählten Rudolf von Roth und Karl Geldner.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Kaegi",
+   "type": "position_at",
+   "object": "Universität Zürich",
+   "role": "Privatdozent für Altindisch",
+   "place": "Zürich",
+   "year_start": 1875,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1875 wurde Kaegi nach Promotion und Habilitation zum Privatdozenten für Altindisch",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Kaegi",
+   "type": "position_at",
+   "object": "Universität Zürich",
+   "role": "ausserordentlicher Professor für «Sprachvergleichung, unter besonderer Rücksicht auf Altindisch und Griechisch»",
+   "place": "Zürich",
+   "year_start": 1883,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "1883 wurde er zum ausserordentlichen Professor für «Sprachvergleichung, unter besonderer Rücksicht auf Altindisch und Griechisch» am 1856 neu eingerichteten Lehrstuhl für Vergleichende Sprachforschung der Universität Zürich",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Kaegi",
+   "type": "position_at",
+   "object": "Universität Zürich",
+   "role": "Ordinarius für Sanskrit, Indogermanische und Klassische Philologie",
+   "place": "Zürich",
+   "year_start": 1893,
+   "year_end": 1914,
+   "explicit": true,
+   "evidence": "1893 wurde Kaegi der Nachfolger Schweizer-Sidlers als Ordinarius für Sanskrit, Indogermanische und Klassische Philologie. Infolge einer schweren Krankheit musste Kaegi ab 1912 die Lehrtätigkeit einschränken, ehe ihm 1914 Eduard Schwyzer als Ordinarius nachfolgte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Kaegi",
+   "type": "succeeded",
+   "object": "Heinrich Schweizer-Sidler",
+   "role": "Ordinarius für Sanskrit, Indogermanische und Klassische Philologie",
+   "place": "Universität Zürich",
+   "year_start": 1893,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1893 wurde Kaegi der Nachfolger Schweizer-Sidlers als Ordinarius für Sanskrit, Indogermanische und Klassische Philologie.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eduard Schwyzer",
+   "type": "succeeded",
+   "object": "Adolf Kaegi",
+   "role": "Ordinarius",
+   "place": "Universität Zürich",
+   "year_start": 1914,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ehe ihm 1914 Eduard Schwyzer als Ordinarius nachfolgte.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Adolf Kaegi",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q124671.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Adolf Kaegi",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

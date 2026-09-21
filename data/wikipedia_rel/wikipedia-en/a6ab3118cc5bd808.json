@@ -1,0 +1,45 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Emil Schlagintweit",
+   "birth_year": 1835,
+   "death_year": 1904,
+   "nationality": "German",
+   "field": "Buddhism in Tibet"
+  },
+  {
+   "name": "Franz Joseph Lauth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Egyptology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Emil Schlagintweit",
+   "type": "student_of",
+   "object": "Franz Joseph Lauth",
+   "role": "tutor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he was tutored by Franz Joseph Lauth, later a noted Egyptologist.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Emil Schlagintweit",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q89299.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Emil Schlagintweit",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,83 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "カール・アドルフ・ヴェルナー",
+   "birth_year": 1846,
+   "death_year": 1896,
+   "nationality": "デンマーク",
+   "field": "言語学"
+  },
+  {
+   "name": "ラスムス・ラスク",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ヴィルヘルム・トムセン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "オストホフ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "カール・アドルフ・ヴェルナー",
+   "type": "influenced_by",
+   "object": "ラスムス・ラスク",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "言語学に対するヴェルナーの興味はラスムス・ラスクの著作を読むことによって培われた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "カール・アドルフ・ヴェルナー",
+   "type": "position_at",
+   "object": "ハレ大学",
+   "role": "図書館員",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "教授職への招きを断って、ハレ大学の図書館員としての仕事に満足していた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "カール・アドルフ・ヴェルナー",
+   "type": "position_at",
+   "object": "デンマーク王立科学文学アカデミー",
+   "role": "会員",
+   "place": null,
+   "year_start": 1888,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "同年デンマーク王立科学文学アカデミーの会員に選出された。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): カール・ヴェルナー",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q961355.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): カール・ヴェルナー",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

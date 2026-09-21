@@ -1,0 +1,124 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Johann Wilhelm Richard Schmidt",
+   "birth_year": 1866,
+   "death_year": 1939,
+   "nationality": "German",
+   "field": "Indologist"
+  },
+  {
+   "name": "Richard Pischel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Karl Friedrich Geldner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johann Wilhelm Richard Schmidt",
+   "type": "studied_at",
+   "object": "University of Halle",
+   "role": "doctorate",
+   "place": "Halle",
+   "year_start": null,
+   "year_end": 1890,
+   "explicit": true,
+   "evidence": "went to the University of Halle where he received a doctorate in 1890",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Wilhelm Richard Schmidt",
+   "type": "student_of",
+   "object": "Richard Pischel",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1890,
+   "explicit": true,
+   "evidence": "he received a doctorate in 1890 for a study of Sukasaptati under Richard Pischel and Karl Friedrich Geldner.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Wilhelm Richard Schmidt",
+   "type": "student_of",
+   "object": "Karl Friedrich Geldner",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1890,
+   "explicit": true,
+   "evidence": "he received a doctorate in 1890 for a study of Sukasaptati under Richard Pischel and Karl Friedrich Geldner.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Wilhelm Richard Schmidt",
+   "type": "studied_at",
+   "object": "University of Halle",
+   "role": "habilitation",
+   "place": "Halle",
+   "year_start": null,
+   "year_end": 1898,
+   "explicit": true,
+   "evidence": "His habilitation was in 1898 at Halle",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Wilhelm Richard Schmidt",
+   "type": "position_at",
+   "object": "University of Halle",
+   "role": "private lecturer",
+   "place": "Halle",
+   "year_start": 1898,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "where he taught alongside Pischel and others as a private lecturer. He taught Sanskrit and lexicography at Halle.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Wilhelm Richard Schmidt",
+   "type": "position_at",
+   "object": "Deutsche Morgenländische Gesellschaft",
+   "role": "librarian",
+   "place": null,
+   "year_start": 1904,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "He worked as a librarian at the Deutsche Morgenländische Gesellschaft from 1904 to 1910.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Wilhelm Richard Schmidt",
+   "type": "position_at",
+   "object": "University of Münster",
+   "role": "ordinary professor",
+   "place": "Münster",
+   "year_start": 1910,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1910 he moved to the University of Münster, becoming an ordinary professor in 1919.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Richard Schmidt (Indologist)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1696606.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Richard Schmidt (Indologist)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

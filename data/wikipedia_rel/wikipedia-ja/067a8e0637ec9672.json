@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ヘンリー・トーマス・コールブルック",
+   "birth_year": 1765,
+   "death_year": 1837,
+   "nationality": "イギリス",
+   "field": "東洋学者"
+  },
+  {
+   "name": "ウィリアム・ジョーンズ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "チャールズ・ウィルキンズ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ウィルソン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ヘンリー・トーマス・コールブルック",
+   "type": "succeeded",
+   "object": "ウィリアム・ジョーンズ",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ウィリアム・ジョーンズやチャールズ・ウィルキンズをついでインド学の基盤を固めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヘンリー・トーマス・コールブルック",
+   "type": "succeeded",
+   "object": "チャールズ・ウィルキンズ",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ウィリアム・ジョーンズやチャールズ・ウィルキンズをついでインド学の基盤を固めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヘンリー・トーマス・コールブルック",
+   "type": "position_at",
+   "object": "フォート・ウィリアム大学",
+   "role": "ヒンドゥー法とサンスクリットの教授",
+   "place": null,
+   "year_start": 1805,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "同年フォート・ウィリアム大学のヒンドゥー法とサンスクリットの教授に就任した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヘンリー・トーマス・コールブルック",
+   "type": "position_at",
+   "object": "ベンガル・アジア協会",
+   "role": "会長",
+   "place": null,
+   "year_start": 1807,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1807年にベンガル・アジア協会の会長に選出された。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヘンリー・トーマス・コールブルック",
+   "type": "founded",
+   "object": "王立天文学会",
+   "role": "創立メンバー",
+   "place": null,
+   "year_start": 1820,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "イギリスでは王立天文学会(1820)や王立アジア協会(1823)の創立メンバーだった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヘンリー・トーマス・コールブルック",
+   "type": "founded",
+   "object": "王立アジア協会",
+   "role": "創立メンバー",
+   "place": null,
+   "year_start": 1823,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "イギリスでは王立天文学会(1820)や王立アジア協会(1823)の創立メンバーだった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ウィルソン",
+   "type": "collaborated_with",
+   "object": "ヘンリー・トーマス・コールブルック",
+   "role": "没後出版",
+   "place": null,
+   "year_start": 1837,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sánkhya Káriká. Oxford. (1837). ... （サーンキヤ・カーリカーの翻訳、没後にウィルソンにより出版）",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ヘンリー・トーマス・コールブルック",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q237271.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ヘンリー・トーマス・コールブルック",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

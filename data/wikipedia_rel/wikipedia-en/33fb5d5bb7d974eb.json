@@ -1,0 +1,138 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Zenkei Blanche Hartman",
+   "birth_year": 1926,
+   "death_year": 2016,
+   "nationality": "American",
+   "field": null
+  },
+  {
+   "name": "Kasai Joshin Sensei",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Zentatsu Richard Baker",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sojun Mel Weitsman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Tenshin Reb Anderson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Zenkei Blanche Hartman",
+   "type": "studied_at",
+   "object": "University of California",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After taking up biochemistry and chemistry at the University of California she married Lou Hartman in 1947",
+   "quote_ok": true
+  },
+  {
+   "subject": "Zenkei Blanche Hartman",
+   "type": "student_of",
+   "object": "Kasai Joshin Sensei",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": 1970,
+   "year_end": 1979,
+   "explicit": true,
+   "evidence": "During the 1970s, Blanche received training in Nyoho-e – a traditional method for sewing Buddha's robe—in the lineage of Sawaki Kodo Roshi from Kasai Joshin Sensei, formerly of Antaiji.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Zenkei Blanche Hartman",
+   "type": "student_of",
+   "object": "Zentatsu Richard Baker",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": 1977,
+   "year_end": 1977,
+   "explicit": true,
+   "evidence": "She and Lou were both ordained as priests by Zentatsu Richard Baker in 1977",
+   "quote_ok": true
+  },
+  {
+   "subject": "Zenkei Blanche Hartman",
+   "type": "student_of",
+   "object": "Sojun Mel Weitsman",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": 1988,
+   "year_end": 1988,
+   "explicit": true,
+   "evidence": "In 1988 she received shiho from Sojun Mel Weitsman",
+   "quote_ok": true
+  },
+  {
+   "subject": "Zenkei Blanche Hartman",
+   "type": "position_at",
+   "object": "San Francisco Zen Center",
+   "role": "co-abbess",
+   "place": null,
+   "year_start": 1996,
+   "year_end": 2002,
+   "explicit": true,
+   "evidence": "From 1996 to 2002 she served two terms as co-abbess of the San Francisco Zen Center.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Zenkei Blanche Hartman",
+   "type": "succeeded",
+   "object": "Sojun Mel Weitsman",
+   "role": "co-abbess",
+   "place": "San Francisco Zen Center",
+   "year_start": 1996,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "This was the first female abbess of the City Center, having served just after Tenshin Reb Anderson and Sojun Mel Weitsman.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Zenkei Blanche Hartman",
+   "type": "succeeded",
+   "object": "Tenshin Reb Anderson",
+   "role": "co-abbess",
+   "place": "San Francisco Zen Center",
+   "year_start": 1996,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "This was the first female abbess of the City Center, having served just after Tenshin Reb Anderson and Sojun Mel Weitsman.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Blanche Hartman",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q4924853.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Blanche Hartman",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

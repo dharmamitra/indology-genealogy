@@ -1,0 +1,95 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ignazio Guidi",
+   "birth_year": 1844,
+   "death_year": 1935,
+   "nationality": "Italian",
+   "field": "philology of Semitic and Eastern Christian literatures"
+  },
+  {
+   "name": "Pius Zingerle",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Father Vincenti",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Däbtära Keflä-Giorgis",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Ethiopian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ignazio Guidi",
+   "type": "position_at",
+   "object": "University of Rome",
+   "role": "professor",
+   "place": null,
+   "year_start": 1876,
+   "year_end": 1919,
+   "explicit": true,
+   "evidence": "He became professor at the University of Rome, teaching from 1876 to 1919.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ignazio Guidi",
+   "type": "student_of",
+   "object": "Pius Zingerle",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He learned semitic languages from Pius Zingerle and Father Vincenti",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ignazio Guidi",
+   "type": "student_of",
+   "object": "Father Vincenti",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He learned semitic languages from Pius Zingerle and Father Vincenti",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ignazio Guidi",
+   "type": "student_of",
+   "object": "Däbtära Keflä-Giorgis",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was the student of the Ethiopian scholar Däbtära Keflä-Giorgis, who played a \"crucial role as teacher of the person who could be described as the father of Ethiopian studies in Italy, Ignazio Guidi.\"",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Ignazio Guidi",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q942415.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Ignazio Guidi",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

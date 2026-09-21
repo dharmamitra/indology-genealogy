@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Friedrich Conrad August Fick",
+   "birth_year": 1833,
+   "death_year": 1916,
+   "nationality": "German",
+   "field": "Germanist und Sprachforscher"
+  },
+  {
+   "name": "Theodor Benfey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Friedrich Conrad August Fick",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": null,
+   "place": null,
+   "year_start": 1852,
+   "year_end": 1856,
+   "explicit": true,
+   "evidence": "August Fick studierte 1852–56 in Göttingen hauptsächlich unter Theodor Benfey Philologie.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Conrad August Fick",
+   "type": "student_of",
+   "object": "Theodor Benfey",
+   "role": "teacher",
+   "place": "Göttingen",
+   "year_start": 1852,
+   "year_end": 1856,
+   "explicit": true,
+   "evidence": "August Fick studierte 1852–56 in Göttingen hauptsächlich unter Theodor Benfey Philologie.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Conrad August Fick",
+   "type": "position_at",
+   "object": "Göttinger Universität",
+   "role": "außerordentlichen Professor der Sprachvergleichung",
+   "place": null,
+   "year_start": 1876,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1876 zum außerordentlichen Professor der Sprachvergleichung an der Göttinger Universität ernannt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Conrad August Fick",
+   "type": "position_at",
+   "object": "Universität Breslau",
+   "role": "ordentlichen Professor",
+   "place": null,
+   "year_start": 1888,
+   "year_end": 1891,
+   "explicit": true,
+   "evidence": "1888 wurde er zum ordentlichen Professor an der Universität Breslau berufen. Dort wurde er bereits nach drei Jahren (1891) aus Gesundheitsgründen emeritiert",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): August Fick",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q72713.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): August Fick",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

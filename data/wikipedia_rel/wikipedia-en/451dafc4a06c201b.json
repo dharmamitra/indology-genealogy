@@ -1,0 +1,93 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ram Chandra Kak",
+   "birth_year": 1893,
+   "death_year": 1983,
+   "nationality": "Indian",
+   "field": "archaeology"
+  },
+  {
+   "name": "John Marshall",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "archaeology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ram Chandra Kak",
+   "type": "studied_at",
+   "object": "Sri Pratap College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1913,
+   "explicit": true,
+   "evidence": "Kak graduated from Sri Pratap College in 1913 and enrolled for a M. A., before being selected for training in archaeology.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ram Chandra Kak",
+   "type": "student_of",
+   "object": "John Marshall",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1914,
+   "year_end": 1919,
+   "explicit": true,
+   "evidence": "From 1914 to 1919, Kak trained under John Marshall.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ram Chandra Kak",
+   "type": "position_at",
+   "object": "Department of Archaeology",
+   "role": "superintendent",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After training, Kak was appointed as the superintendent of the newly established Department of Archaeology, before being promoted to the Director.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ram Chandra Kak",
+   "type": "position_at",
+   "object": "Department of Archaeology",
+   "role": "Director",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After training, Kak was appointed as the superintendent of the newly established Department of Archaeology, before being promoted to the Director.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ram Chandra Kak",
+   "type": "position_at",
+   "object": "SPS Museum",
+   "role": "curator",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He also served as the curator of SPS Museum, and Librarian of Maharaja Hari Singh's private library.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Ram Chandra Kak",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q3634407.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Ram Chandra Kak",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

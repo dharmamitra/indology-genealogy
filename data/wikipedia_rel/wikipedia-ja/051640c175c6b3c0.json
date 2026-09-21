@@ -1,0 +1,124 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "沼田恵範",
+   "birth_year": 1897,
+   "death_year": 1994,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "色川誠一",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "島田蕃根",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "沼田恵範",
+   "type": "studied_at",
+   "object": "京都平安中学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "京都平安中学（現・平安高等学校）に学ぶ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "沼田恵範",
+   "type": "studied_at",
+   "object": "カリフォルニア大学バークレー校",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1928,
+   "explicit": true,
+   "evidence": "カリフォルニア大学バークレー校（UCB）で数学を4年、さらに同校大学院で経済学（統計経済、景気変動学）を学ぶ。 […] 1928年、31歳でUCB大学院を修了",
+   "quote_ok": true
+  },
+  {
+   "subject": "沼田恵範",
+   "type": "founded",
+   "object": "ザ・パシフイック・ワールド",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "学業と平行して米国人に仏教文化を伝えたいと英文雑誌「ザ・パシフイック・ワールド」を創刊。",
+   "quote_ok": true
+  },
+  {
+   "subject": "沼田恵範",
+   "type": "position_at",
+   "object": "内閣資源局",
+   "role": "統計官",
+   "place": null,
+   "year_start": 1930,
+   "year_end": 1936,
+   "explicit": true,
+   "evidence": "新設まもない内閣資源局に統計官として処遇された。しかし1936年、39歳の時、高級官僚の地位を捨て起業。",
+   "quote_ok": true
+  },
+  {
+   "subject": "沼田恵範",
+   "type": "founded",
+   "object": "三豊製作所",
+   "role": null,
+   "place": "大田区蒲田",
+   "year_start": 1936,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1936年、39歳の時、高級官僚の地位を捨て起業。 […] 大田区蒲田に創業した三豊製作所（現・ミツトヨ）",
+   "quote_ok": true
+  },
+  {
+   "subject": "沼田恵範",
+   "type": "founded",
+   "object": "仏教伝道協会",
+   "role": null,
+   "place": null,
+   "year_start": 1965,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1965年、仏教伝道協会を創設。",
+   "quote_ok": true
+  },
+  {
+   "subject": "色川誠一",
+   "type": "collaborated_with",
+   "object": "島田蕃根",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "誠一は島田蕃根を助けて『大蔵経』の活版印刷による出版に尽力した人物でもあった。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 沼田恵範",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q6607676.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 沼田恵範",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

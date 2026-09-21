@@ -1,0 +1,83 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ダライ・ラマ14世",
+   "birth_year": 1935,
+   "death_year": null,
+   "nationality": "チベット",
+   "field": "チベット仏教"
+  },
+  {
+   "name": "フランシスコ・バレーラ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "神経科学"
+  },
+  {
+   "name": "ジャムヤン・ケンツェ・チューキ・ロドゥー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ソギャル・リンポチェ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "チベット",
+   "field": "チベット仏教"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ダライ・ラマ14世",
+   "type": "collaborated_with",
+   "object": "フランシスコ・バレーラ",
+   "role": null,
+   "place": null,
+   "year_start": 1986,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ダライ・ラマ14世は1983年の国際会議で神経科学者フランシスコ・バレーラと出会い、“科学と宗教の対話”という共通の関心事に基づいて1986年から「精神と生命会議」を共同で始めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ソギャル・リンポチェ",
+   "type": "student_of",
+   "object": "ジャムヤン・ケンツェ・チューキ・ロドゥー",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ジャムヤン・ケンツェ・チューキ・ロドゥーの弟子であるソギャル・リンポチェ",
+   "quote_ok": true
+  },
+  {
+   "subject": "ダライ・ラマ14世",
+   "type": "position_at",
+   "object": "Emory University",
+   "role": "Presidential Distinguished Professorship",
+   "place": null,
+   "year_start": 2007,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Presidential Distinguished Professorship from Emory University in February 2007.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ダライ・ラマ14世",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q17293.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ダライ・ラマ14世",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

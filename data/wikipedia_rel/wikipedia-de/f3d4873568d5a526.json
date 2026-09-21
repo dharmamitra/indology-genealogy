@@ -1,0 +1,176 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Josiah Royce",
+   "birth_year": 1855,
+   "death_year": 1916,
+   "nationality": "amerikanisch",
+   "field": "Philosophie"
+  },
+  {
+   "name": "William James",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Charles Sanders Peirce",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Henry Maurice Sheffer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "George H. Mead",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Clarence Irving Lewis",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Edward Vermilye Huntington",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Josiah Royce",
+   "type": "studied_at",
+   "object": "University of California",
+   "role": "Bachelor of Arts",
+   "place": null,
+   "year_start": null,
+   "year_end": 1875,
+   "explicit": true,
+   "evidence": "erhielt sein Bachelor of Arts Degree 1875 von der University of California.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Josiah Royce",
+   "type": "studied_at",
+   "object": "Johns Hopkins University, Baltimore",
+   "role": "Doktorat",
+   "place": "Baltimore",
+   "year_start": null,
+   "year_end": 1878,
+   "explicit": true,
+   "evidence": "Sein Doktorat erhielt Royce 1878 von der Johns Hopkins University, Baltimore",
+   "quote_ok": true
+  },
+  {
+   "subject": "Josiah Royce",
+   "type": "position_at",
+   "object": "Harvard Faculty",
+   "role": "Mitglied der Harvard Faculty",
+   "place": null,
+   "year_start": 1882,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1882 wurde er Mitglied der Harvard Faculty",
+   "quote_ok": true
+  },
+  {
+   "subject": "Josiah Royce",
+   "type": "position_at",
+   "object": "Harvard University",
+   "role": "Professor of the History of Philosophy",
+   "place": null,
+   "year_start": 1892,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1892 bestellte ihn die Harvard University zum „Professor of the History of Philosophy“.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Josiah Royce",
+   "type": "other",
+   "object": "William James",
+   "role": "Freund und (streitbarer) Kollege",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Royce war Freund und (streitbarer) Kollege von William James",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Maurice Sheffer",
+   "type": "student_of",
+   "object": "Josiah Royce",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zu seinen bekanntesten Studenten gehörten Henry Maurice Sheffer, George H. Mead, Clarence Irving Lewis, ein Pionier der Modallogik, und Edward Vermilye Huntington",
+   "quote_ok": true
+  },
+  {
+   "subject": "George H. Mead",
+   "type": "student_of",
+   "object": "Josiah Royce",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zu seinen bekanntesten Studenten gehörten Henry Maurice Sheffer, George H. Mead, Clarence Irving Lewis, ein Pionier der Modallogik, und Edward Vermilye Huntington",
+   "quote_ok": true
+  },
+  {
+   "subject": "Clarence Irving Lewis",
+   "type": "student_of",
+   "object": "Josiah Royce",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zu seinen bekanntesten Studenten gehörten Henry Maurice Sheffer, George H. Mead, Clarence Irving Lewis, ein Pionier der Modallogik, und Edward Vermilye Huntington",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Vermilye Huntington",
+   "type": "student_of",
+   "object": "Josiah Royce",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zu seinen bekanntesten Studenten gehörten Henry Maurice Sheffer, George H. Mead, Clarence Irving Lewis, ein Pionier der Modallogik, und Edward Vermilye Huntington",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Josiah Royce",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q471260.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Josiah Royce",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Shaku Sōen",
+   "birth_year": 1860,
+   "death_year": 1919,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Ekkei Shuken",
+   "birth_year": 1810,
+   "death_year": 1884,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Imakita Kōsen",
+   "birth_year": 1816,
+   "death_year": 1892,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Suzuki Daisetsu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Shaku Sōen",
+   "type": "student_of",
+   "object": "Ekkei Shuken",
+   "role": "teacher",
+   "place": "Kyōto",
+   "year_start": null,
+   "year_end": 1870,
+   "explicit": true,
+   "evidence": "nach Kyōto, wo er 1870 seine Ausbildung zum Priester unter Ekkei Shuken (越渓 守謙; 1810–1884) am zum Tempel Myōshin-ji gehörenden Tempel Tenjuin (天授院) abschloss",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shaku Sōen",
+   "type": "student_of",
+   "object": "Imakita Kōsen",
+   "role": "traditional teacher",
+   "place": "Kamakura",
+   "year_start": 1878,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1878 besuchte er Priester Imakita Kōsen (1816–1892) im Engaku-ji in Kamakura und schloss sich ihm später an.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shaku Sōen",
+   "type": "studied_at",
+   "object": "Keiō Gijuku",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nach seinem Abschluss in „Keiō Gijuku“, der Vorläufereinrichtung der Keiō-Universität, ging er zum Studium nach Ceylon",
+   "quote_ok": true
+  },
+  {
+   "subject": "Suzuki Daisetsu",
+   "type": "student_of",
+   "object": "Shaku Sōen",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dort hielt er einen Vortrag über Zen, der von einem seiner Schüler, Suzuki Daisetsu, ins Englische übersetzt wurde.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shaku Sōen",
+   "type": "position_at",
+   "object": "Rinzai-Universität",
+   "role": "Präsident",
+   "place": "Kyōto",
+   "year_start": 1914,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1914 wurde er Präsident der „Rinzai-Universität“ – heute „Hanazono-Universität“ (花園大学) – in Kyōto.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Shaku Sōen",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q3481283.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Shaku Sōen",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

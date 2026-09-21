@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Friedrich Schlegel",
+   "birth_year": 1772,
+   "death_year": 1829,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "August Wilhelm Schlegel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Antoine-Léonard de Chézy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Alexander Hamilton",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "linguistics"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Friedrich Schlegel",
+   "type": "other",
+   "object": "August Wilhelm Schlegel",
+   "role": "older brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "With his older brother, August Wilhelm Schlegel, he was one of the main figures of Jena Romanticism.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Schlegel",
+   "type": "founded",
+   "object": "Athenaeum",
+   "role": null,
+   "place": "Jena",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In Jena, he and his brother founded the journal Athenaeum",
+   "quote_ok": true
+  },
+  {
+   "subject": "August Wilhelm Schlegel",
+   "type": "founded",
+   "object": "Athenaeum",
+   "role": null,
+   "place": "Jena",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In Jena, he and his brother founded the journal Athenaeum",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Schlegel",
+   "type": "position_at",
+   "object": "University of Jena",
+   "role": "Privatdozent",
+   "place": "Jena",
+   "year_start": 1801,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "failure of his academic career in Jena where he completed his studies in 1801 and lectured as a Privatdozent on transcendental philosophy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Schlegel",
+   "type": "student_of",
+   "object": "Antoine-Léonard de Chézy",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": 1802,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "under the tutelage of Antoine-Léonard de Chézy and linguist Alexander Hamilton he continued to study Sanskrit and the Persian language.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Schlegel",
+   "type": "student_of",
+   "object": "Alexander Hamilton",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": 1802,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "under the tutelage of Antoine-Léonard de Chézy and linguist Alexander Hamilton he continued to study Sanskrit and the Persian language.",
+   "quote_ok": true
+  },
+  {
+   "subject": "August Wilhelm Schlegel",
+   "type": "position_at",
+   "object": "Bonn",
+   "role": "professor of Indology",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "his brother August Wilhelm, then professor of Indology in Bonn and busy publishing the Bhagavad Gita.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Friedrich Schlegel",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q157271.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Friedrich Schlegel",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

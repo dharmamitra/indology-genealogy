@@ -1,0 +1,145 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Christian Gottlob Heyne",
+   "birth_year": 1729,
+   "death_year": 1812,
+   "nationality": "German",
+   "field": "classical scholar and archaeologist"
+  },
+  {
+   "name": "Johann Friedrich Christ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "classicist"
+  },
+  {
+   "name": "Johann August Bach",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "law"
+  },
+  {
+   "name": "Johann Matthias Gesner",
+   "birth_year": null,
+   "death_year": 1761,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Wilhelm Humboldt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "classical philology"
+  },
+  {
+   "name": "Alexander Humboldt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "classical philology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Christian Gottlob Heyne",
+   "type": "studied_at",
+   "object": "University of Leipzig",
+   "role": "master's degree",
+   "place": "Leipzig",
+   "year_start": 1748,
+   "year_end": 1752,
+   "explicit": true,
+   "evidence": "In 1748 he entered the University of Leipzig... In 1752 law professor Johann August Bach awarded Heyne a master's degree",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Gottlob Heyne",
+   "type": "student_of",
+   "object": "Johann August Bach",
+   "role": "master's degree",
+   "place": null,
+   "year_start": null,
+   "year_end": 1752,
+   "explicit": true,
+   "evidence": "In 1752 law professor Johann August Bach awarded Heyne a master's degree",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Gottlob Heyne",
+   "type": "position_at",
+   "object": "University of Göttingen",
+   "role": "chair",
+   "place": "Göttingen",
+   "year_start": 1763,
+   "year_end": 1812,
+   "explicit": true,
+   "evidence": "On the death of Johann Matthias Gesner at the University of Göttingen in 1761, the vacant chair was refused first by Ernesti and then by Ruhnken, who persuaded Münchhausen... to bestow it on Heyne (1763).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Gottlob Heyne",
+   "type": "succeeded",
+   "object": "Johann Matthias Gesner",
+   "role": "chair",
+   "place": "University of Göttingen",
+   "year_start": 1763,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "On the death of Johann Matthias Gesner at the University of Göttingen in 1761, the vacant chair was refused first by Ernesti and then by Ruhnken, who persuaded Münchhausen... to bestow it on Heyne (1763).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Gottlob Heyne",
+   "type": "position_at",
+   "object": "Göttingen State and University Library",
+   "role": "director",
+   "place": "Göttingen",
+   "year_start": 1763,
+   "year_end": 1812,
+   "explicit": true,
+   "evidence": "Heyne was simultaneously given the post of director of the university library, a position he held until his death in 1812. Under his directorship, the library, today known as the Göttingen State and University Library",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Humboldt",
+   "type": "student_of",
+   "object": "Christian Gottlob Heyne",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He taught both Wilhelm and Alexander Humboldt in classical philology and managed to harness both brothers' interest in linguistic questions.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander Humboldt",
+   "type": "student_of",
+   "object": "Christian Gottlob Heyne",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He taught both Wilhelm and Alexander Humboldt in classical philology and managed to harness both brothers' interest in linguistic questions.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Christian Gottlob Heyne",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q63182.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Christian Gottlob Heyne",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

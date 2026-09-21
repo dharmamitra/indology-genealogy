@@ -1,0 +1,200 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Lorenz Franz Kielhorn",
+   "birth_year": 1840,
+   "death_year": 1908,
+   "nationality": "German",
+   "field": "Indologist"
+  },
+  {
+   "name": "Theodor Benfey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Adolf Friedrich Stenzler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Albrecht Weber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Monier Williams",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Friedrich Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Georg Bühler",
+   "birth_year": 1837,
+   "death_year": 1898,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Lorenz Franz Kielhorn",
+   "type": "student_of",
+   "object": "Theodor Benfey",
+   "role": "teacher",
+   "place": "University of Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied under Theodor Benfey at the University of Göttingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lorenz Franz Kielhorn",
+   "type": "studied_at",
+   "object": "University of Göttingen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied under Theodor Benfey at the University of Göttingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lorenz Franz Kielhorn",
+   "type": "student_of",
+   "object": "Adolf Friedrich Stenzler",
+   "role": "teacher",
+   "place": "Breslau",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and under Adolf Friedrich Stenzler at Breslau",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lorenz Franz Kielhorn",
+   "type": "student_of",
+   "object": "Albrecht Weber",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and with Albrecht Weber in Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lorenz Franz Kielhorn",
+   "type": "collaborated_with",
+   "object": "Monier Williams",
+   "role": null,
+   "place": "Oxford",
+   "year_start": 1862,
+   "year_end": 1865,
+   "explicit": true,
+   "evidence": "In 1862-65 he worked in Oxford, where he assisted Monier Williams in the production of a Sanskrit dictionary.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lorenz Franz Kielhorn",
+   "type": "collaborated_with",
+   "object": "Friedrich Max Müller",
+   "role": null,
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "While here, he also consulted with Friedrich Max Müller, when the latter was working on his first edition of Rigveda.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lorenz Franz Kielhorn",
+   "type": "position_at",
+   "object": "Deccan College in Pune",
+   "role": "professor of Sanskrit",
+   "place": "Pune",
+   "year_start": 1866,
+   "year_end": 1881,
+   "explicit": true,
+   "evidence": "From 1866 to 1881 he was a professor of Sanskrit at Deccan College in Pune",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lorenz Franz Kielhorn",
+   "type": "position_at",
+   "object": "University of Göttingen",
+   "role": "professor",
+   "place": "Göttingen",
+   "year_start": 1882,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and after 1882, a professor at the University of Göttingen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lorenz Franz Kielhorn",
+   "type": "collaborated_with",
+   "object": "Georg Bühler",
+   "role": "co-founders",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Together with Bühler, Kielhorn had initiated the series Bombay Sanskrit Series.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lorenz Franz Kielhorn",
+   "type": "founded",
+   "object": "Bombay Sanskrit Series",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Together with Bühler, Kielhorn had initiated the series Bombay Sanskrit Series.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Bühler",
+   "type": "founded",
+   "object": "Bombay Sanskrit Series",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Together with Bühler, Kielhorn had initiated the series Bombay Sanskrit Series.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Lorenz Franz Kielhorn",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q84463.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Lorenz Franz Kielhorn",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

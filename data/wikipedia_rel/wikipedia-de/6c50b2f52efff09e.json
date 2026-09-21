@@ -1,0 +1,74 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Kawaguchi Ekai",
+   "birth_year": 1866,
+   "death_year": 1945,
+   "nationality": "japanisch",
+   "field": "Tibet-Forscher"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Kawaguchi Ekai",
+   "type": "studied_at",
+   "object": "Tetsugakukan",
+   "role": "Studienabschluss",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Kawaguchi Ekai machte seinen Studienabschluss am „Tetsugakukan“ (哲学館), der Vorgängereinrichtung der privaten Tōyō-Universität",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kawaguchi Ekai",
+   "type": "studied_at",
+   "object": "Sera",
+   "role": null,
+   "place": "Tibet",
+   "year_start": null,
+   "year_end": 1903,
+   "explicit": true,
+   "evidence": "So gelangte er als erster Japaner von dort in das politisch unzugängliche Tibet und konnte an der Ausbildungsstätte für Buddhismus „Sera“ studieren. Man entdeckte jedoch seine wahre Nationalität, und 1903 musste er nach Japan zurückkehren.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kawaguchi Ekai",
+   "type": "position_at",
+   "object": "Tōyō-Universität",
+   "role": "Professor",
+   "place": "Japan",
+   "year_start": 1915,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nach seiner Rückkehr nach Japan im Jahr 1915 wurde er Professor an der Tōyō-Universität",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kawaguchi Ekai",
+   "type": "position_at",
+   "object": "Tōyō Bunko",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1945,
+   "explicit": true,
+   "evidence": "Kawaguchi arbeitete auch an einem tibetisch-japanischen Wörterbuch, „Zōwa Lexikon“ (蔵和辞典) am Tōyō Bunko, starb jedoch am 24. Februar 1945",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Kawaguchi Ekai",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q2645886.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Kawaguchi Ekai",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

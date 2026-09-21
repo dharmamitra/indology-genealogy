@@ -1,0 +1,150 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Karl Albert Agathon Benary",
+   "birth_year": 1807,
+   "death_year": 1860,
+   "nationality": "German",
+   "field": "classical philologist"
+  },
+  {
+   "name": "Franz Ferdinand Benary",
+   "birth_year": 1805,
+   "death_year": 1880,
+   "nationality": null,
+   "field": "orientalist"
+  },
+  {
+   "name": "Franz Ernst Heinrich Spitzner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Christian Karl Reisig",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Franz Bopp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Karl Albert Agathon Benary",
+   "type": "other",
+   "object": "Franz Ferdinand Benary",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was the brother of orientalist Franz Ferdinand Benary (1805–1880).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Albert Agathon Benary",
+   "type": "student_of",
+   "object": "Franz Ernst Heinrich Spitzner",
+   "role": "teacher",
+   "place": "Erfurt",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He received his education at the gymnasiums in Göttingen and Erfurt, where he was a student of Franz Ernst Heinrich Spitzner.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Albert Agathon Benary",
+   "type": "studied_at",
+   "object": "University of Göttingen",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": 1824,
+   "year_end": 1827,
+   "explicit": true,
+   "evidence": "From 1824 to 1827 he studied classical philology at the universities of Göttingen and Halle",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Albert Agathon Benary",
+   "type": "studied_at",
+   "object": "University of Halle",
+   "role": "doctorate",
+   "place": "Halle",
+   "year_start": 1824,
+   "year_end": 1827,
+   "explicit": true,
+   "evidence": "From 1824 to 1827 he studied classical philology at the universities of Göttingen and Halle, obtaining his doctorate with the dissertation \"De Aeschyli Prometheo soluto\".",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Albert Agathon Benary",
+   "type": "influenced_by",
+   "object": "Christian Karl Reisig",
+   "role": null,
+   "place": "Halle",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At Halle he was especially influenced by the teachings of Christian Karl Reisig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Albert Agathon Benary",
+   "type": "student_of",
+   "object": "Franz Bopp",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "continued his philological studies as a pupil of Franz Bopp",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Albert Agathon Benary",
+   "type": "position_at",
+   "object": "Cölnischen Realgymnasium",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1833,
+   "year_end": 1860,
+   "explicit": true,
+   "evidence": "From 1833 up until his death in 1860, he was associated with the Cölnischen Realgymnasium in Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Albert Agathon Benary",
+   "type": "position_at",
+   "object": "University of Berlin",
+   "role": "lecturer",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "During this time period, he also gave lectures at the University of Berlin.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Agathon Benary",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q391501.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Agathon Benary",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

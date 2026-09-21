@@ -1,0 +1,138 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Henri Pirenne",
+   "birth_year": 1862,
+   "death_year": 1935,
+   "nationality": "Belgian",
+   "field": "historian"
+  },
+  {
+   "name": "Marc Bloch",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Godefroid Kurth",
+   "birth_year": 1847,
+   "death_year": 1916,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Karl Lamprecht",
+   "birth_year": 1856,
+   "death_year": 1915,
+   "nationality": "German",
+   "field": "historian"
+  },
+  {
+   "name": "Jacques Pirenne",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "historian"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Marc Bloch",
+   "type": "influenced_by",
+   "object": "Henri Pirenne",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pirenne argued that profound social, economic, cultural, and religious movements in the long term resulted from equally profound underlying causes, and this attitude influenced Marc Bloch",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henri Pirenne",
+   "type": "studied_at",
+   "object": "University of Liège",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied at the University of Liège where he was a student of Godefroid Kurth (1847–1916).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henri Pirenne",
+   "type": "student_of",
+   "object": "Godefroid Kurth",
+   "role": "teacher",
+   "place": "University of Liège",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied at the University of Liège where he was a student of Godefroid Kurth (1847–1916).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henri Pirenne",
+   "type": "position_at",
+   "object": "University of Ghent",
+   "role": "Professor of History",
+   "place": null,
+   "year_start": 1886,
+   "year_end": 1930,
+   "explicit": true,
+   "evidence": "He became Professor of History at the University of Ghent in 1886, a post he held until the end of his teaching career in 1930.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henri Pirenne",
+   "type": "position_at",
+   "object": "University of Ghent",
+   "role": "Rector",
+   "place": null,
+   "year_start": 1918,
+   "year_end": 1921,
+   "explicit": true,
+   "evidence": "He was Rector of the University of Ghent from 1918 to 1921.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henri Pirenne",
+   "type": "other",
+   "object": "Karl Lamprecht",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pirenne was a close friend of German historian Karl Lamprecht (1856–1915), until they broke during the war",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jacques Pirenne",
+   "type": "other",
+   "object": "Henri Pirenne",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His son Jacques Pirenne, who had survived the war to become a historian in his own right, discovered the manuscript.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Henri Pirenne",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q312501.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Henri Pirenne",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

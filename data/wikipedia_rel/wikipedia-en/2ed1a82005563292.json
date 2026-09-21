@@ -1,0 +1,95 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Liang Shuming",
+   "birth_year": 1893,
+   "death_year": 1988,
+   "nationality": "Chinese",
+   "field": "philosopher, politician, and writer"
+  },
+  {
+   "name": "Cai Yuanpei",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Henri Bergson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Guy Alitto",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Liang Shuming",
+   "type": "position_at",
+   "object": "Beijing University",
+   "role": "philosophy department",
+   "place": "Beijing",
+   "year_start": 1917,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1917 he was recruited by Cai Yuanpei to the philosophy department of Beijing University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Liang Shuming",
+   "type": "influenced_by",
+   "object": "Henri Bergson",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He also displayed the influence of Henri Bergson, then popular in China, as well as Buddhist Yogachara philosophy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Liang Shuming",
+   "type": "founded",
+   "object": "Shandong Rural Reconstruction Institute",
+   "role": null,
+   "place": "Shandong",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "To this end, he founded the Shandong Rural Reconstruction Institute and helped to found the China Democratic League.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Liang Shuming",
+   "type": "founded",
+   "object": "China Democratic League",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he founded the Shandong Rural Reconstruction Institute and helped to found the China Democratic League.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Liang Shuming",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1167488.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Liang Shuming",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

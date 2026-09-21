@@ -1,0 +1,62 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Johann Wilhelm Richard Schmidt",
+   "birth_year": 1866,
+   "death_year": 1939,
+   "nationality": "German",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johann Wilhelm Richard Schmidt",
+   "type": "studied_at",
+   "object": "Halle (Saale)",
+   "role": "Dr. phil. und Habilitation",
+   "place": "Halle (Saale)",
+   "year_start": null,
+   "year_end": 1890,
+   "explicit": true,
+   "evidence": "Der Lehrerssohn wurde 1890 in Halle (Saale) zum Dr. phil. promoviert und habilitiert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Wilhelm Richard Schmidt",
+   "type": "position_at",
+   "object": "Universität Halle",
+   "role": "Privatdozent",
+   "place": "Halle",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Als Privatdozent der Universität Halle richtete sich sein Interesse vor allem auf das Erstellen zuverlässiger Textausgaben",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Wilhelm Richard Schmidt",
+   "type": "position_at",
+   "object": "Münster/Westfalen",
+   "role": "Professor",
+   "place": "Münster/Westfalen",
+   "year_start": 1910,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ab 1910 war er Professor in Münster/Westfalen.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Richard Schmidt (Indologe)",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1696606.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Richard Schmidt (Indologe)",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,50 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ケーレシ・チョマ・シャーンドル",
+   "birth_year": 1784,
+   "death_year": 1842,
+   "nationality": "ハンガリー",
+   "field": "東洋学"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ケーレシ・チョマ・シャーンドル",
+   "type": "studied_at",
+   "object": "ゲッティンゲン大学",
+   "role": null,
+   "place": null,
+   "year_start": 1816,
+   "year_end": 1818,
+   "explicit": true,
+   "evidence": "1816年から1818年までゲッティンゲン大学で学んだ",
+   "quote_ok": true
+  },
+  {
+   "subject": "ケーレシ・チョマ・シャーンドル",
+   "type": "position_at",
+   "object": "ベンガル・アジア協会",
+   "role": "図書館員",
+   "place": "カルカッタ",
+   "year_start": 1831,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1831年以降、カルカッタのベンガル・アジア協会で図書館員として働きながら",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ケーレシ・チョマ・シャーンドル",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q355291.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ケーレシ・チョマ・シャーンドル",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

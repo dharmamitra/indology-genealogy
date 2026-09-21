@@ -1,0 +1,105 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ヴァシーリー・ヴァシーリエヴィチ・ラドロフ",
+   "birth_year": 1837,
+   "death_year": 1918,
+   "nationality": "ロシア",
+   "field": "東洋学者、考古学者、人類学者"
+  },
+  {
+   "name": "ヴィルヘルム・トムセン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ヴァシーリー・ヴァシーリエヴィチ・ラドロフ",
+   "type": "studied_at",
+   "object": "ベルリン大学",
+   "role": null,
+   "place": "ベルリン",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ベルリン大学で哲学、古典学、オリエント学を学び",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヴァシーリー・ヴァシーリエヴィチ・ラドロフ",
+   "type": "studied_at",
+   "object": "イェーナ大学",
+   "role": "博士号",
+   "place": null,
+   "year_start": null,
+   "year_end": 1858,
+   "explicit": true,
+   "evidence": "1858年にイェーナ大学で博士号を取得した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヴァシーリー・ヴァシーリエヴィチ・ラドロフ",
+   "type": "position_at",
+   "object": "バルナウルのギムナジウム",
+   "role": "ドイツ語とラテン語の教師",
+   "place": "バルナウル",
+   "year_start": 1858,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "バルナウルのギムナジウムでドイツ語とラテン語の教師を務める",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヴァシーリー・ヴァシーリエヴィチ・ラドロフ",
+   "type": "position_at",
+   "object": "ロシア科学アカデミー",
+   "role": "会員",
+   "place": "サンクトペテルブルク",
+   "year_start": 1884,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1884年にロシア科学アカデミーの会員に選出され、サンクトペテルブルクへ移住。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヴァシーリー・ヴァシーリエヴィチ・ラドロフ",
+   "type": "position_at",
+   "object": "科学アカデミー付属人類学・民族学博物館（クンストカメラ）",
+   "role": "館長",
+   "place": null,
+   "year_start": 1894,
+   "year_end": 1918,
+   "explicit": true,
+   "evidence": "1894年から1918年に没するまで、科学アカデミー付属人類学・民族学博物館（クンストカメラ）の館長を務めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヴァシーリー・ヴァシーリエヴィチ・ラドロフ",
+   "type": "collaborated_with",
+   "object": "ヴィルヘルム・トムセン",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "また、ヴィルヘルム・トムセンによるオルホン碑文（突厥文字）の解読作業にも協力し、碑文の翻訳と公刊をいち早く行った。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ヴァシーリー・ラドロフ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q302970.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ヴァシーリー・ラドロフ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

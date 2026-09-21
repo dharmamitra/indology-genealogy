@@ -1,0 +1,243 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Christian Lassen",
+   "birth_year": 1800,
+   "death_year": 1876,
+   "nationality": "norwegischer",
+   "field": "Indologe"
+  },
+  {
+   "name": "August Wilhelm von Schlegel",
+   "birth_year": 1767,
+   "death_year": 1845,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Antoine-Léonard de Chézy",
+   "birth_year": 1773,
+   "death_year": 1832,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Eugène Burnouf",
+   "birth_year": 1801,
+   "death_year": 1851,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jean-Pierre Abel-Rémusat",
+   "birth_year": 1788,
+   "death_year": 1832,
+   "nationality": null,
+   "field": "Sinologen"
+  },
+  {
+   "name": "Johannes Gildemeister",
+   "birth_year": 1812,
+   "death_year": 1890,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Theodor Aufrecht",
+   "birth_year": 1822,
+   "death_year": 1907,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Heinrich Ewald",
+   "birth_year": 1803,
+   "death_year": 1875,
+   "nationality": null,
+   "field": "Orientalisten"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Christian Lassen",
+   "type": "studied_at",
+   "object": "Universität Heidelberg",
+   "role": null,
+   "place": "Heidelberg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Lassen studierte in Heidelberg und Bonn",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Lassen",
+   "type": "studied_at",
+   "object": "Universität Bonn",
+   "role": "Promotion",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": 1827,
+   "explicit": true,
+   "evidence": "Lassen studierte in Heidelberg und Bonn, wo er bei August Wilhelm von Schlegel (1767–1845) Sanskrit lernte. [...] kehrte er nach Bonn zurück, wo er 1827 mit seiner Dissertation [...] promoviert wurde",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Lassen",
+   "type": "student_of",
+   "object": "August Wilhelm von Schlegel",
+   "role": "teacher",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wo er bei August Wilhelm von Schlegel (1767–1845) Sanskrit lernte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Antoine-Léonard de Chézy",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "Professor für Sanskrit",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "dem ersten Professor für Sanskrit am Collège de France, Antoine-Léonard de Chézy (1773–1832)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eugène Burnouf",
+   "type": "succeeded",
+   "object": "Antoine-Léonard de Chézy",
+   "role": null,
+   "place": "Collège de France",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "seinem Altersgenossen und späteren Nachfolger Chézys, Eugène Burnouf (1801–1851)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Lassen",
+   "type": "collaborated_with",
+   "object": "Eugène Burnouf",
+   "role": null,
+   "place": "Paris",
+   "year_start": 1825,
+   "year_end": 1826,
+   "explicit": true,
+   "evidence": "mit dem er auf Anregung des Sinologen und damaligen Verantwortlichen Jean-Pierre Abel-Rémusat (1788–1832) die indischen Handschriften der Pariser Sammlung ordnete. [...] das von Lassen und Burnouf ausgearbeitete Essai sur le Pali von 1826",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Lassen",
+   "type": "position_at",
+   "object": "Universität Bonn",
+   "role": "Privatdozent",
+   "place": "Bonn",
+   "year_start": 1827,
+   "year_end": 1830,
+   "explicit": true,
+   "evidence": "als Privatdozent an der Universität Bonn eingestellt wurde. [...] 1830 wurde Lassen zum außerordentlichen Professor (Extraordinarius) berufen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Lassen",
+   "type": "position_at",
+   "object": "Universität Bonn",
+   "role": "außerordentlicher Professor",
+   "place": "Bonn",
+   "year_start": 1830,
+   "year_end": 1840,
+   "explicit": true,
+   "evidence": "1830 wurde Lassen zum außerordentlichen Professor (Extraordinarius) berufen und 1840 zum ordentlichen Professor für „altindische Sprache und Literatur“ befördert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Lassen",
+   "type": "position_at",
+   "object": "Universität Bonn",
+   "role": "ordentlicher Professor für altindische Sprache und Literatur",
+   "place": "Bonn",
+   "year_start": 1840,
+   "year_end": 1876,
+   "explicit": true,
+   "evidence": "1840 zum ordentlichen Professor für „altindische Sprache und Literatur“ befördert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Gildemeister",
+   "type": "student_of",
+   "object": "Christian Lassen",
+   "role": "teacher",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zu seinen Studenten gehörte Johannes Gildemeister (1812–1890), der ihm später assistieren sollte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Gildemeister",
+   "type": "collaborated_with",
+   "object": "Christian Lassen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "der ihm später assistieren sollte und auch die im Jahr 1865 erschienene Neuausgabe von Lassens Sanskritchrestomatie bearbeitete.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Theodor Aufrecht",
+   "type": "succeeded",
+   "object": "Christian Lassen",
+   "role": null,
+   "place": "Universität Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Lassens Nachfolger auf dem Bonner Lehrstuhl wurde Theodor Aufrecht (1822–1907).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Lassen",
+   "type": "collaborated_with",
+   "object": "August Wilhelm von Schlegel",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Lassen hat im Laufe seines Lebens einige Sanskrittexte herausgegeben, so unter anderem zusammen mit Schlegel den Hitopadeśa",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Lassen",
+   "type": "collaborated_with",
+   "object": "Heinrich Ewald",
+   "role": "co-editors",
+   "place": null,
+   "year_start": 1837,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "die von dem Göttinger Orientalisten Heinrich Ewald (1803–1875) angeregt worden war und zunächst von diesem und anderen Gelehrten, unter anderem auch Lassen, herausgegeben wurden.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Christian Lassen",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q84861.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Christian Lassen",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

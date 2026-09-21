@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ポール・ユジェーヌ・ペリオ",
+   "birth_year": 1878,
+   "death_year": 1945,
+   "nationality": "フランス",
+   "field": "東洋学者、中央アジアの探検家"
+  },
+  {
+   "name": "シルヴァン・レヴィ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "東洋学者"
+  },
+  {
+   "name": "エドゥアール・シャヴァンヌ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ポール・ユジェーヌ・ペリオ",
+   "type": "student_of",
+   "object": "シルヴァン・レヴィ",
+   "role": "teacher",
+   "place": "コレージュ・ド・フランス",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "コレージュ・ド・フランスの東洋学者シルヴァン・レヴィに学び",
+   "quote_ok": true
+  },
+  {
+   "subject": "ポール・ユジェーヌ・ペリオ",
+   "type": "position_at",
+   "object": "フランス極東学院",
+   "role": "中国語教授",
+   "place": "ハノイ",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "仏領インドシナのハノイにあるフランス極東学院に就職する。...その後、ハノイに戻り、22歳で極東学院の中国語教授となった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エドゥアール・シャヴァンヌ",
+   "type": "position_at",
+   "object": "フランス極東学院",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "エドゥアール・シャヴァンヌら極東学院の同僚たち",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ポール・ペリオ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q368821.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ポール・ペリオ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

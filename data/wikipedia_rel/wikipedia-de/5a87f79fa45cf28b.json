@@ -1,0 +1,143 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Albert Lutz",
+   "birth_year": 1954,
+   "death_year": null,
+   "nationality": "Swiss",
+   "field": "Kunsthistoriker"
+  },
+  {
+   "name": "Eberhard Fischer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Kunstethnologe"
+  },
+  {
+   "name": "Helmut Brinker",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Ostasien-Kunsthistoriker"
+  },
+  {
+   "name": "Annette Bhagwati",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Albert Lutz",
+   "type": "studied_at",
+   "object": "Universität Zürich",
+   "role": null,
+   "place": "Zürich",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Später zog nach Zürich, wo er sein Studium der Kunstgeschichte, der Kunstgeschichte Ostasiens und der Deutschen Literatur an der Universität Zürich absolvierte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albert Lutz",
+   "type": "position_at",
+   "object": "Museum Rietberg",
+   "role": "Kurator für chinesische Kunst",
+   "place": "Zürich",
+   "year_start": 1982,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Jahr 1982 begann seine Tätigkeit am Museum Rietberg, als Kurator für chinesische Kunst.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albert Lutz",
+   "type": "student_of",
+   "object": "Eberhard Fischer",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Den Kunstethnologen Eberhard Fischer, bis 1998 Direktor des Museums Rietberg, sowie den Ostasien-Kunsthistoriker Helmut Brinker betrachtet er als seine Mentoren.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albert Lutz",
+   "type": "student_of",
+   "object": "Helmut Brinker",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Den Kunstethnologen Eberhard Fischer, bis 1998 Direktor des Museums Rietberg, sowie den Ostasien-Kunsthistoriker Helmut Brinker betrachtet er als seine Mentoren.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eberhard Fischer",
+   "type": "position_at",
+   "object": "Museum Rietberg",
+   "role": "Direktor",
+   "place": "Zürich",
+   "year_start": null,
+   "year_end": 1998,
+   "explicit": true,
+   "evidence": "Den Kunstethnologen Eberhard Fischer, bis 1998 Direktor des Museums Rietberg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albert Lutz",
+   "type": "position_at",
+   "object": "Museum Rietberg",
+   "role": "Direktor",
+   "place": "Zürich",
+   "year_start": 1998,
+   "year_end": 2019,
+   "explicit": true,
+   "evidence": "Albert Lutz wurde 1998 zum Direktor des Museums Rietberg ernannt und leitete das Haus bis zum Antritt seines Ruhestands Anfang Dezember 2019.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Annette Bhagwati",
+   "type": "succeeded",
+   "object": "Albert Lutz",
+   "role": "Direktorin",
+   "place": "Museum Rietberg",
+   "year_start": 2019,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er übergab die Direktion seiner Nachfolgerin Annette Bhagwati.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albert Lutz",
+   "type": "collaborated_with",
+   "object": "Helmut Brinker",
+   "role": null,
+   "place": null,
+   "year_start": 1985,
+   "year_end": 1985,
+   "explicit": true,
+   "evidence": "mit Helmut Brinker: Chinesisches Cloisonné / Chinese Cloisonné. The Pierre Uldry Collection. Museum Rietberg Zürich 1985.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Albert Lutz",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q62258021.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Albert Lutz",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

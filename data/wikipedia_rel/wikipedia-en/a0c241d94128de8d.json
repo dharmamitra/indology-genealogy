@@ -1,0 +1,95 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Satya Narayana Goenka",
+   "birth_year": 1924,
+   "death_year": 2013,
+   "nationality": "Indian",
+   "field": "vipassanā meditation"
+  },
+  {
+   "name": "Sayagyi U Ba Khin",
+   "birth_year": null,
+   "death_year": 1971,
+   "nationality": "Burmese",
+   "field": "Vipassana"
+  },
+  {
+   "name": "Joseph Goldstein",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sharon Salzberg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Satya Narayana Goenka",
+   "type": "student_of",
+   "object": "Sayagyi U Ba Khin",
+   "role": "teacher",
+   "place": "Burma",
+   "year_start": 1955,
+   "year_end": 1969,
+   "explicit": true,
+   "evidence": "he met with the Vipassana teacher Sayagyi U Ba Khin. Though initially reluctant, Ba Khin took him on as a student. Goenka subsequently trained under him for 14 years.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Satya Narayana Goenka",
+   "type": "founded",
+   "object": "Vipassana Research Institute",
+   "role": null,
+   "place": "Dhamma Giri",
+   "year_start": 1985,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He established the Vipassana Research Institute at Dhamma Giri in 1985.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Goldstein",
+   "type": "student_of",
+   "object": "Satya Narayana Goenka",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "[He] was an inspiration and teacher for Joseph Goldstein and Sharon Salzberg, Ram Dass, Daniel Goleman, Yuval Noah Harari, and many other western thinkers and spiritual leaders.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sharon Salzberg",
+   "type": "student_of",
+   "object": "Satya Narayana Goenka",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "[He] was an inspiration and teacher for Joseph Goldstein and Sharon Salzberg, Ram Dass, Daniel Goleman, Yuval Noah Harari, and many other western thinkers and spiritual leaders.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): S. N. Goenka",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q539048.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): S. N. Goenka",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

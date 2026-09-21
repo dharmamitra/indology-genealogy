@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Robert Edmond Gauthiot",
+   "birth_year": 1876,
+   "death_year": 1916,
+   "nationality": "French",
+   "field": "Orientalist, linguist and explorer"
+  },
+  {
+   "name": "Paul Pelliot",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Robert Edmond Gauthiot",
+   "type": "collaborated_with",
+   "object": "Paul Pelliot",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Together, they translated the Sogdian manuscript Vessantara Jataka",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Edmond Gauthiot",
+   "type": "position_at",
+   "object": "Société Asiatique",
+   "role": "member",
+   "place": null,
+   "year_start": 1909,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he became, in 1909, a member of the Société Asiatique",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Robert Gauthiot",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q3435205.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Robert Gauthiot",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "寺本婉雅",
+   "birth_year": 1872,
+   "death_year": 1940,
+   "nationality": "日本",
+   "field": "仏教学"
+  },
+  {
+   "name": "能海寛",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "日本",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "寺本婉雅",
+   "type": "collaborated_with",
+   "object": "能海寛",
+   "role": null,
+   "place": null,
+   "year_start": 1899,
+   "year_end": 1899,
+   "explicit": true,
+   "evidence": "能海寛とともに日本人として初めてチベットに入り",
+   "quote_ok": true
+  },
+  {
+   "subject": "寺本婉雅",
+   "type": "studied_at",
+   "object": "クンブム・チャンパーリン寺",
+   "role": null,
+   "place": null,
+   "year_start": 1903,
+   "year_end": 1905,
+   "explicit": true,
+   "evidence": "1903年2月から2年間クンブム・チャンパーリン寺でチベット語とモンゴル語を学び",
+   "quote_ok": true
+  },
+  {
+   "subject": "寺本婉雅",
+   "type": "position_at",
+   "object": "真宗大谷大学",
+   "role": "教授",
+   "place": null,
+   "year_start": 1915,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1915年 - 真宗大谷大学教授に就任。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 寺本婉雅",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q6607504.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 寺本婉雅",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

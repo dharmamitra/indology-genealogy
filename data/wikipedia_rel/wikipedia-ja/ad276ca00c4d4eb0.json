@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "エドワード・グランヴィル・ブラウン",
+   "birth_year": 1862,
+   "death_year": 1926,
+   "nationality": "イギリス",
+   "field": "東洋学者、イラン学者"
+  },
+  {
+   "name": "エドワード・ヘンリー・パルマー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ウィリアム・ライト",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "エドワード・バイルズ・コウェル",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "エドワード・グランヴィル・ブラウン",
+   "type": "studied_at",
+   "object": "ケンブリッジの大学",
+   "role": null,
+   "place": "ケンブリッジ",
+   "year_start": null,
+   "year_end": 1882,
+   "explicit": true,
+   "evidence": "ケンブリッジに進学させた。[...] 入学したケンブリッジの大学（the Cambridge Natural Sciences Tripos）で[...]「トライポス」と呼ばれる修士課程修了の年、1882年に",
+   "quote_ok": true
+  },
+  {
+   "subject": "エドワード・グランヴィル・ブラウン",
+   "type": "student_of",
+   "object": "エドワード・ヘンリー・パルマー",
+   "role": "teacher",
+   "place": "ケンブリッジ",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ケンブリッジの大学（the Cambridge Natural Sciences Tripos）で、E. G. ブラウンはエドワード・ヘンリー・パルマーとウィリアム・ライトにアラビア語を[...]学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エドワード・グランヴィル・ブラウン",
+   "type": "student_of",
+   "object": "ウィリアム・ライト",
+   "role": "teacher",
+   "place": "ケンブリッジ",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ケンブリッジの大学（the Cambridge Natural Sciences Tripos）で、E. G. ブラウンはエドワード・ヘンリー・パルマーとウィリアム・ライトにアラビア語を[...]学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エドワード・グランヴィル・ブラウン",
+   "type": "student_of",
+   "object": "エドワード・バイルズ・コウェル",
+   "role": "teacher",
+   "place": "ケンブリッジ",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "エドワード・バイルズ・コウェルにペルシア語を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エドワード・グランヴィル・ブラウン",
+   "type": "position_at",
+   "object": "ケンブリッジ大学",
+   "role": "Sir Thomas Adams Professor of Arabic",
+   "place": "ケンブリッジ",
+   "year_start": 1902,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1902年4月、ケンブリッジ大学のアラビア語講座の教授に選ばれた。なお、ケンブリッジ大学のアラビア語講座の教授には、初代教授の名前をとって \"Sir Thomas Adams Professor of Arabic\" という名がついている。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): エドワード・グランヴィル・ブラウン",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q982047.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): エドワード・グランヴィル・ブラウン",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

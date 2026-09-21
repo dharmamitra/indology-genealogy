@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ernest John Henry Mackay",
+   "birth_year": 1880,
+   "death_year": 1943,
+   "nationality": "British",
+   "field": "archeologist"
+  },
+  {
+   "name": "Dorothy Mackay",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "W.Norman Brown",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "W.M.Flinders Petrie",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ernest John Henry Mackay",
+   "type": "studied_at",
+   "object": "Bristol University",
+   "role": "BA, MA and DLitt",
+   "place": "Bristol",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He had attended Bristol Grammar School and Bristol University securing BA, MA and DLitt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernest John Henry Mackay",
+   "type": "other",
+   "object": "Dorothy Mackay",
+   "role": "husband",
+   "place": null,
+   "year_start": 1912,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He married Dorothy Mackay (née Simmons), a UCL graduate with a BA degree and a BSc degree in Zoology, in 1912.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dorothy Mackay",
+   "type": "studied_at",
+   "object": "UCL",
+   "role": "BA degree and a BSc degree in Zoology",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dorothy Mackay (née Simmons), a UCL graduate with a BA degree and a BSc degree in Zoology",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernest John Henry Mackay",
+   "type": "collaborated_with",
+   "object": "Dorothy Mackay",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dorothy frequently took part in her husband's excavations and published extensively on her own.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernest John Henry Mackay",
+   "type": "position_at",
+   "object": "Palestine government",
+   "role": "Custodian of Antiquities",
+   "place": "Palestine",
+   "year_start": 1919,
+   "year_end": 1922,
+   "explicit": true,
+   "evidence": "From 1919 to 1922, he was Custodian of Antiquities for the Palestine government.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernest John Henry Mackay",
+   "type": "collaborated_with",
+   "object": "W.Norman Brown",
+   "role": null,
+   "place": "Chanhudaro",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He also did planning of excavation of Chanhudaro, along with W.Norman Brown",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernest John Henry Mackay",
+   "type": "collaborated_with",
+   "object": "W.M.Flinders Petrie",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "City of Shepherd Kings and Ancient Gaza V (British School Archaeology in Egypt). With W.M.Flinders Petrie",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Ernest J. H. Mackay",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q18715911.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Ernest J. H. Mackay",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

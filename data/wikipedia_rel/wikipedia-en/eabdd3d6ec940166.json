@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "David Brown",
+   "birth_year": 1763,
+   "death_year": 1812,
+   "nationality": "English",
+   "field": null
+  },
+  {
+   "name": "Joseph Milner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Charles Philip Brown",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "David Brown",
+   "type": "student_of",
+   "object": "Joseph Milner",
+   "role": "teacher",
+   "place": "Hull",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and then at a grammar school at Hull under Joseph Milner.",
+   "quote_ok": true
+  },
+  {
+   "subject": "David Brown",
+   "type": "studied_at",
+   "object": "Magdalene College, Cambridge",
+   "role": "sizar",
+   "place": null,
+   "year_start": 1782,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He entered Magdalene College, Cambridge in 1782 as a sizar.",
+   "quote_ok": true
+  },
+  {
+   "subject": "David Brown",
+   "type": "founded",
+   "object": "Calcutta Bible Society",
+   "role": null,
+   "place": null,
+   "year_start": 1811,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "David Brown (1763–1812) was an English chaplain in Bengal and founder of the Calcutta Bible Society.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Philip Brown",
+   "type": "other",
+   "object": "David Brown",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Brown's children were: ... Charles Philip Brown",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): David Brown (East India Company chaplain)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q18527476.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): David Brown (East India Company chaplain)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

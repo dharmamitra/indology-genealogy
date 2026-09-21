@@ -1,0 +1,117 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Johannes Friedrich Heinrich Schmidt",
+   "birth_year": 1843,
+   "death_year": 1901,
+   "nationality": "German",
+   "field": "linguist"
+  },
+  {
+   "name": "August Schleicher",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johannes Friedrich Heinrich Schmidt",
+   "type": "studied_at",
+   "object": "Bonn",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was educated at Bonn",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Friedrich Heinrich Schmidt",
+   "type": "studied_at",
+   "object": "Jena",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and at Jena where he studied philology (historical linguistics) with August Schleicher",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Friedrich Heinrich Schmidt",
+   "type": "student_of",
+   "object": "August Schleicher",
+   "role": "teacher",
+   "place": "Jena",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "at Jena where he studied philology (historical linguistics) with August Schleicher",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Friedrich Heinrich Schmidt",
+   "type": "position_at",
+   "object": "gymnasium in Berlin",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1866,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "worked from 1866 as a teacher at a gymnasium in Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Friedrich Heinrich Schmidt",
+   "type": "position_at",
+   "object": "University of Bonn",
+   "role": "professorship of German and Slavic languages",
+   "place": "Bonn",
+   "year_start": 1868,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1868 Schmidt was invited by the University of Bonn to accept a professorship of German and Slavic languages.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Friedrich Heinrich Schmidt",
+   "type": "position_at",
+   "object": "University of Graz",
+   "role": "professor of philology",
+   "place": "Austria",
+   "year_start": 1873,
+   "year_end": 1876,
+   "explicit": true,
+   "evidence": "From 1873 to 1876 Schmidt was a professor of philology at the University of Graz in Austria.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Friedrich Heinrich Schmidt",
+   "type": "position_at",
+   "object": "Humboldt University",
+   "role": "professor",
+   "place": "Berlin",
+   "year_start": 1876,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1876 he returned to Berlin, where he worked as a professor at Humboldt University.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Johannes Schmidt (linguist)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q65323.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Johannes Schmidt (linguist)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

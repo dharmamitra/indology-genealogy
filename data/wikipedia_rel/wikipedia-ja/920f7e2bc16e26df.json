@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "乙川弘文",
+   "birth_year": 1938,
+   "death_year": 2002,
+   "nationality": "Japan",
+   "field": "仏教学"
+  },
+  {
+   "name": "長尾雅人",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "仏教学"
+  },
+  {
+   "name": "チョギャム・トゥルンパ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "乙川弘文",
+   "type": "studied_at",
+   "object": "駒澤大学仏教学部",
+   "role": "卒業",
+   "place": null,
+   "year_start": null,
+   "year_end": 1960,
+   "explicit": true,
+   "evidence": "1960年、駒澤大学仏教学部卒業。",
+   "quote_ok": true
+  },
+  {
+   "subject": "乙川弘文",
+   "type": "studied_at",
+   "object": "京都大学大学院文学研究科",
+   "role": "修士号（大乗仏教）",
+   "place": null,
+   "year_start": null,
+   "year_end": 1964,
+   "explicit": true,
+   "evidence": "1964年に京都大学大学院文学研究科で長尾雅人に師事して修士号（大乗仏教）を取得した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "乙川弘文",
+   "type": "student_of",
+   "object": "長尾雅人",
+   "role": "MA supervisor",
+   "place": "京都大学大学院文学研究科",
+   "year_start": null,
+   "year_end": 1964,
+   "explicit": true,
+   "evidence": "1964年に京都大学大学院文学研究科で長尾雅人に師事して修士号（大乗仏教）を取得した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "乙川弘文",
+   "type": "position_at",
+   "object": "ナーローパ大学",
+   "role": "禅学・書道の教授",
+   "place": null,
+   "year_start": 2001,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "2001年には友人のチョギャム・トゥルンパの遺嘱によりナーローパ大学（en:Naropa_University）の禅学・書道の教授に就任したが",
+   "quote_ok": true
+  },
+  {
+   "subject": "乙川弘文",
+   "type": "other",
+   "object": "チョギャム・トゥルンパ",
+   "role": "友人",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "2001年には友人のチョギャム・トゥルンパの遺嘱によりナーローパ大学（en:Naropa_University）の禅学・書道の教授に就任したが",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 乙川弘文",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q5964204.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 乙川弘文",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

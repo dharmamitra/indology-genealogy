@@ -1,0 +1,86 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John Hubert Marshall",
+   "birth_year": 1876,
+   "death_year": 1958,
+   "nationality": "britisch",
+   "field": "Archäologe"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Hubert Marshall",
+   "type": "studied_at",
+   "object": "Dulwich College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Marshall besuchte das Dulwich College",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Hubert Marshall",
+   "type": "studied_at",
+   "object": "King’s College in Cambridge",
+   "role": null,
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studierte am King’s College in Cambridge.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Hubert Marshall",
+   "type": "position_at",
+   "object": "Archaeological Survey of India",
+   "role": "Direktor",
+   "place": null,
+   "year_start": 1902,
+   "year_end": 1931,
+   "explicit": true,
+   "evidence": "wurde er im Jahr 1902 zum Direktor des Archaeological Survey of India ernannt; diese Position hatte er bis zu seiner altersbedingten Abberufung 1931 inne.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Hubert Marshall",
+   "type": "position_at",
+   "object": "Deutsches Archäologisches Institut",
+   "role": "ordentliches Mitglied",
+   "place": null,
+   "year_start": 1928,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Seit 1928 war er ordentliches Mitglied des Deutschen Archäologischen Instituts",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Hubert Marshall",
+   "type": "position_at",
+   "object": "British Academy",
+   "role": "Mitglied",
+   "place": null,
+   "year_start": 1936,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "seit 1936 Mitglied der British Academy.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): John Marshall (Archäologe)",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1376456.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): John Marshall (Archäologe)",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

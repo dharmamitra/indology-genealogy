@@ -1,0 +1,86 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Inoue Tetsujirō",
+   "birth_year": 1855,
+   "death_year": 1944,
+   "nationality": "Japanese",
+   "field": "philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Inoue Tetsujirō",
+   "type": "studied_at",
+   "object": "Kōunkan",
+   "role": null,
+   "place": "Nagasaki",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he studied Western studies at Kōunkan in Nagasaki.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Inoue Tetsujirō",
+   "type": "studied_at",
+   "object": "Kaisei Academy",
+   "role": null,
+   "place": "Tokyo",
+   "year_start": 1875,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he was sent to Kaisei Academy in Tokyo in 1875",
+   "quote_ok": true
+  },
+  {
+   "subject": "Inoue Tetsujirō",
+   "type": "studied_at",
+   "object": "Tokyo Imperial University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1880,
+   "explicit": true,
+   "evidence": "after which he proceeded to Tokyo Imperial University to study philosophy... After graduating from Tokyo Imperial University in 1880",
+   "quote_ok": true
+  },
+  {
+   "subject": "Inoue Tetsujirō",
+   "type": "position_at",
+   "object": "Tokyo Imperial University",
+   "role": "professor of philosophy",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He became the first Japanese professor of philosophy at Tokyo Imperial University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Inoue Tetsujirō",
+   "type": "position_at",
+   "object": "Daito Bunka Academy",
+   "role": "2nd President",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and also served as the 2nd President of Daito Bunka Academy.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Inoue Tetsujirō",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q382335.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Inoue Tetsujirō",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

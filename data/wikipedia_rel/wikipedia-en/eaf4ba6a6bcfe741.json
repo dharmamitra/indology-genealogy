@@ -1,0 +1,155 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "André Bareau",
+   "birth_year": 1921,
+   "death_year": 1993,
+   "nationality": "French",
+   "field": "Buddhology"
+  },
+  {
+   "name": "Jean Filliozat",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gérard Fussman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Walpola Rahula Thero",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "André Bareau",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "professor",
+   "place": null,
+   "year_start": 1971,
+   "year_end": 1991,
+   "explicit": true,
+   "evidence": "He was a professor at the Collège de France from 1971 to 1991",
+   "quote_ok": true
+  },
+  {
+   "subject": "André Bareau",
+   "type": "position_at",
+   "object": "L'École Pratique des Hautes Études",
+   "role": "Director of the Study of Buddhist Philosophy",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Director of the Study of Buddhist Philosophy at L'École Pratique des Hautes Études.",
+   "quote_ok": true
+  },
+  {
+   "subject": "André Bareau",
+   "type": "studied_at",
+   "object": "École normale d'instituteurs de Paris",
+   "role": null,
+   "place": null,
+   "year_start": 1938,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At the age of seventeen, in 1938, he was admitted to the École normale d'instituteurs de Paris (Teacher Training College).",
+   "quote_ok": true
+  },
+  {
+   "subject": "André Bareau",
+   "type": "studied_at",
+   "object": "Sorbonne University",
+   "role": "Postgraduate education",
+   "place": null,
+   "year_start": 1941,
+   "year_end": 1946,
+   "explicit": true,
+   "evidence": "That same year, he began Postgraduate education at the Sorbonne University, which he completed in 1946",
+   "quote_ok": true
+  },
+  {
+   "subject": "André Bareau",
+   "type": "student_of",
+   "object": "Jean Filliozat",
+   "role": "supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1947,
+   "explicit": true,
+   "evidence": "In 1947, he defended a mémoire under the supervision of Jean Filliozat",
+   "quote_ok": true
+  },
+  {
+   "subject": "André Bareau",
+   "type": "position_at",
+   "object": "French National Centre for Scientific Research (CNRS)",
+   "role": null,
+   "place": null,
+   "year_start": 1947,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and joined the French National Centre for Scientific Research (CNRS).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gérard Fussman",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "his friend and colleague Gérard Fussman, professor  at the Collège de France",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gérard Fussman",
+   "type": "collaborated_with",
+   "object": "André Bareau",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "his friend and colleague Gérard Fussman, professor  at the Collège de France [...] Having travelled with him, I know that he was a man of the land",
+   "quote_ok": true
+  },
+  {
+   "subject": "André Bareau",
+   "type": "collaborated_with",
+   "object": "Walpola Rahula Thero",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He had interviewed many Sinhalese monks visiting Paris, the venerable Walpola Rahula Thero in particular",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): André Bareau",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q2847212.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): André Bareau",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

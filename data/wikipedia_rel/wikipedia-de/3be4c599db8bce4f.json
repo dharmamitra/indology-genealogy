@@ -1,0 +1,83 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Joseph Tiefenthaler",
+   "birth_year": 1710,
+   "death_year": 1785,
+   "nationality": "Tiroler",
+   "field": "Geographie"
+  },
+  {
+   "name": "Christian Gottlieb Kratzenstein",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "deutsch",
+   "field": "Naturforschung"
+  },
+  {
+   "name": "Abraham Hyacinthe Anquetil-Duperron",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "französisch",
+   "field": "Orientalistik"
+  },
+  {
+   "name": "Johann Bernoulli",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Joseph Tiefenthaler",
+   "type": "position_at",
+   "object": "Jesuitenorden",
+   "role": "jesuitischer Missionar",
+   "place": "Ostindien",
+   "year_start": 1729,
+   "year_end": 1773,
+   "explicit": true,
+   "evidence": "Er trat als Neunjähriger am 9. Oktober 1729 in den Jesuitenorden ein und wurde 1740 durch den Orden im Missionsauftrag nach Ostindien gesandt. [...] Nach der Aufhebung des Jesuitenordens im Jahr 1773",
+   "quote_ok": true
+  },
+  {
+   "subject": "Abraham Hyacinthe Anquetil-Duperron",
+   "type": "collaborated_with",
+   "object": "Joseph Tiefenthaler",
+   "role": null,
+   "place": "Paris",
+   "year_start": 1776,
+   "year_end": 1786,
+   "explicit": false,
+   "evidence": "Tiefenthaler sandte seine Manuskripte zum Teil an den deutschen Naturforscher Christian Gottlieb Kratzenstein in Kopenhagen und zum anderen an den französischen Orientalisten und Geographen Abraham Hyacinthe Anquetil-Duperron.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Bernoulli",
+   "type": "collaborated_with",
+   "object": "Joseph Tiefenthaler",
+   "role": "Herausgeber",
+   "place": "Berlin",
+   "year_start": 1785,
+   "year_end": 1791,
+   "explicit": true,
+   "evidence": "Ein Teil der Manuskripte in Kopenhagen gelangten an Johann Bernoulli in Berlin, der sie von 1785 bis 1787 auf Deutsch und von 1786 bis 1791 auf Französisch publizieren ließ.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Joseph Tiefenthaler",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1227236.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Joseph Tiefenthaler",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

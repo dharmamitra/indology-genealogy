@@ -1,0 +1,162 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sris Chandra Basu",
+   "birth_year": 1861,
+   "death_year": 1918,
+   "nationality": "Indian",
+   "field": "Sanskrit scholar, judge, writer and translator"
+  },
+  {
+   "name": "Baman Das Basu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gottlieb Wilhelm Leitner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ramananda Chatterjee",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Annie Besant",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sris Chandra Basu",
+   "type": "other",
+   "object": "Baman Das Basu",
+   "role": "sibling",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Basu's father died leaving his mother to bring him up along with three other siblings including Baman Das Basu.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sris Chandra Basu",
+   "type": "studied_at",
+   "object": "Lahore Mission School",
+   "role": null,
+   "place": "Lahore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was educated at the Lahore Mission School where his father had served as headmaster.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sris Chandra Basu",
+   "type": "studied_at",
+   "object": "Lahore Government College",
+   "role": "BA",
+   "place": "Lahore",
+   "year_start": null,
+   "year_end": 1881,
+   "explicit": true,
+   "evidence": "He received a scholarship to study at the Lahore Government College and passed the First Arts Examination with Arabic as his second language. He then continued studies for a BA degree... He passed his BA in 1881",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gottlieb Wilhelm Leitner",
+   "type": "position_at",
+   "object": "Lahore Government College",
+   "role": "principal",
+   "place": "Lahore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "While in college, Sris Chandra took part in a Student's Rebellion, organizing a strike in protest against the principal Dr Gottlieb Wilhelm Leitner for kicking a student.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sris Chandra Basu",
+   "type": "founded",
+   "object": "Panini Office",
+   "role": null,
+   "place": "Allahabad",
+   "year_start": 1891,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Basu founded the Panini Office in November 1891 so as to publish his and other works.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ramananda Chatterjee",
+   "type": "position_at",
+   "object": "Panini Office",
+   "role": "editor",
+   "place": "Allahabad",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ramananda Chatterjee, principal of the Kayastha Pathshala served as an editor.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ramananda Chatterjee",
+   "type": "position_at",
+   "object": "Kayastha Pathshala",
+   "role": "principal",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ramananda Chatterjee, principal of the Kayastha Pathshala served as an editor.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sris Chandra Basu",
+   "type": "collaborated_with",
+   "object": "Annie Besant",
+   "role": "correspondent and translator",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a correspondent of Annie Besant and supported her cause for birth-control and translated some of her works.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sris Chandra Basu",
+   "type": "position_at",
+   "object": "Allahabad University",
+   "role": "Fellow",
+   "place": "Allahabad",
+   "year_start": 1900,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Basu was titled Rai Bahadur in 1900 and nominated as a Fellow of the Allahabad University.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Sris Chandra Basu",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q15279878.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Sris Chandra Basu",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,133 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Richard Wilhelm",
+   "birth_year": 1873,
+   "death_year": 1930,
+   "nationality": "German",
+   "field": "sinologist, theologian and missionary"
+  },
+  {
+   "name": "Carl Jung",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Swiss",
+   "field": "psychiatrist"
+  },
+  {
+   "name": "Lau Nui Suan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hellmut Wilhelm",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "sinologist"
+  },
+  {
+   "name": "Li Linsi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": "educator and diplomat"
+  },
+  {
+   "name": "Helmut Martin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Richard Wilhelm",
+   "type": "other",
+   "object": "Carl Jung",
+   "role": "personal friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "both were provided with introductions by the Swiss psychiatrist Carl Jung, who was a personal friend.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Wilhelm",
+   "type": "influenced_by",
+   "object": "Lau Nui Suan",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Lau Nui Suan introduced Wilhelm to Chinese yoga philosophy and the psychology of the I Ching.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hellmut Wilhelm",
+   "type": "other",
+   "object": "Richard Wilhelm",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His son Hellmut Wilhelm was also a sinologist and was professor of Chinese at the University of Washington.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hellmut Wilhelm",
+   "type": "position_at",
+   "object": "University of Washington",
+   "role": "professor of Chinese",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His son Hellmut Wilhelm was also a sinologist and was professor of Chinese at the University of Washington.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Wilhelm",
+   "type": "other",
+   "object": "Li Linsi",
+   "role": "close friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Wilhelm was a close friend of the renowned Chinese educator and diplomat Dr. Li Linsi.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Helmut Martin",
+   "type": "founded",
+   "object": "Richard Wilhelm Translation Centre at Ruhr-Universität Bochum",
+   "role": null,
+   "place": "Ruhr-Universität Bochum",
+   "year_start": 1993,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The Richard Wilhelm Translation Centre at Ruhr-Universität Bochum was founded in 1993 by Helmut Martin.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Richard Wilhelm (sinologist)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q62126.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Richard Wilhelm (sinologist)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

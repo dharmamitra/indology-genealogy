@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "アントワーヌ＝レオナール・ド・シェジー",
+   "birth_year": 1773,
+   "death_year": 1832,
+   "nationality": "フランス",
+   "field": "東洋学"
+  },
+  {
+   "name": "シルヴェストル・ド・サシ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ラングレス",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ヴィルヘルミネ・フォン・クレンケ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "ドイツ",
+   "field": "文学"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "アントワーヌ＝レオナール・ド・シェジー",
+   "type": "student_of",
+   "object": "シルヴェストル・ド・サシ",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "シルヴェストル・ド・サシやラングレスからアラビア語やペルシア語を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アントワーヌ＝レオナール・ド・シェジー",
+   "type": "student_of",
+   "object": "ラングレス",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "シルヴェストル・ド・サシやラングレスからアラビア語やペルシア語を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アントワーヌ＝レオナール・ド・シェジー",
+   "type": "position_at",
+   "object": "国立図書館の写本部門",
+   "role": null,
+   "place": null,
+   "year_start": 1799,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1799年から国立図書館の写本部門で仕事をしていた",
+   "quote_ok": true
+  },
+  {
+   "subject": "アントワーヌ＝レオナール・ド・シェジー",
+   "type": "position_at",
+   "object": "コレージュ・ド・フランス",
+   "role": "初代サンスクリット教授",
+   "place": null,
+   "year_start": 1815,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1815年にコレージュ・ド・フランスにサンスクリットの講座が設けられ、シェジーはその初代教授に就任した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アントワーヌ＝レオナール・ド・シェジー",
+   "type": "position_at",
+   "object": "碑文アカデミー",
+   "role": "会員",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "シェジーは碑文アカデミーの会員で",
+   "quote_ok": true
+  },
+  {
+   "subject": "アントワーヌ＝レオナール・ド・シェジー",
+   "type": "founded",
+   "object": "アジア協会",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "アジア協会の創立者のひとりだった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アントワーヌ＝レオナール・ド・シェジー",
+   "type": "other",
+   "object": "ヴィルヘルミネ・フォン・クレンケ",
+   "role": "spouse",
+   "place": null,
+   "year_start": 1805,
+   "year_end": 1810,
+   "explicit": true,
+   "evidence": "1805年にドイツ人の文学者ヴィルヘルミネ・フォン・クレンケ（ヘルミーナ・フォン・シェジー）と結婚したが、5年後に離婚した。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): アントワーヌ＝レオナール・ド・シェジー",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q585534.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): アントワーヌ＝レオナール・ド・シェジー",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

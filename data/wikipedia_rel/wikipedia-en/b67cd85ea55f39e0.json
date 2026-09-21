@@ -1,0 +1,102 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Dezhung Rinpoche Kunga Tenpai Nyima",
+   "birth_year": 1906,
+   "death_year": 1987,
+   "nationality": "Tibetan",
+   "field": null
+  },
+  {
+   "name": "Turrell V. Wylie",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  },
+  {
+   "name": "E. Gene Smith",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  },
+  {
+   "name": "Jeff Watt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Christopher Wilkinson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Turrell V. Wylie",
+   "type": "student_of",
+   "object": "Dezhung Rinpoche Kunga Tenpai Nyima",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rinpoche was the teacher of a number of renowned Tibetologists, including Turrell V. Wylie",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. Gene Smith",
+   "type": "student_of",
+   "object": "Dezhung Rinpoche Kunga Tenpai Nyima",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rinpoche was the teacher of a number of renowned Tibetologists, including Turrell V. Wylie and E. Gene Smith",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jeff Watt",
+   "type": "student_of",
+   "object": "Dezhung Rinpoche Kunga Tenpai Nyima",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rinpoche was the teacher of a number of renowned Tibetologists, including Turrell V. Wylie and E. Gene Smith, Tibetan Art expert Jeff Watt",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christopher Wilkinson",
+   "type": "student_of",
+   "object": "Dezhung Rinpoche Kunga Tenpai Nyima",
+   "role": "root teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the root teacher of leading translator Christopher Wilkinson",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Dezhung Rinpoche",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q2565196.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Dezhung Rinpoche",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Thomas Stamford Bingley Raffles",
+   "birth_year": 1781,
+   "death_year": 1826,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Colin Mackenzie",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "H. C. Cornelius",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Colin Mackenzie",
+   "type": "collaborated_with",
+   "object": "Thomas Stamford Bingley Raffles",
+   "role": null,
+   "place": "Java",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Under Raffles's aegis, a large number of ancient monuments in Java were systematically catalogued for the first time. The first detailed English-language account of Prambanan was prepared by Colin Mackenzie",
+   "quote_ok": true
+  },
+  {
+   "subject": "H. C. Cornelius",
+   "type": "collaborated_with",
+   "object": "Thomas Stamford Bingley Raffles",
+   "role": null,
+   "place": "Java",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Under Raffles's aegis, a large number of ancient monuments in Java were systematically catalogued for the first time... while the Buddhist temple of Borobudur was surveyed and cleared of vegetation by H. C. Cornelius.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Stamford Raffles",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q130327.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Stamford Raffles",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

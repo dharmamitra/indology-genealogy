@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Keiji Nishitani",
+   "birth_year": 1900,
+   "death_year": 1990,
+   "nationality": "Japanese",
+   "field": "philosopher"
+  },
+  {
+   "name": "Kitarō Nishida",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Martin Heidegger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Keiji Nishitani",
+   "type": "student_of",
+   "object": "Kitarō Nishida",
+   "role": "disciple",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a scholar of the Kyoto School and a disciple of Kitarō Nishida.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Keiji Nishitani",
+   "type": "studied_at",
+   "object": "Kyoto Imperial University",
+   "role": "doctorate",
+   "place": null,
+   "year_start": null,
+   "year_end": 1924,
+   "explicit": true,
+   "evidence": "In 1924, Nishitani received his doctorate from Kyoto Imperial University for his dissertation \"Das Ideale und das Reale bei Schelling und Bergson\".",
+   "quote_ok": false
+  },
+  {
+   "subject": "Keiji Nishitani",
+   "type": "student_of",
+   "object": "Martin Heidegger",
+   "role": "teacher",
+   "place": "Freiburg",
+   "year_start": 1937,
+   "year_end": 1939,
+   "explicit": true,
+   "evidence": "He studied under Martin Heidegger in Freiburg from 1937 to 1939.",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Wikipedia (en): Keiji Nishitani",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1993564.txt#1",
+ "meta": {
+  "title": "Wikipedia (en): Keiji Nishitani",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

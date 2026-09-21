@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Giovanni Enrico Eugenio Vacca",
+   "birth_year": 1872,
+   "death_year": 1953,
+   "nationality": "italienisch",
+   "field": "Mathematik"
+  },
+  {
+   "name": "G.B. Negri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Giuseppe Peano",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Giovanni Enrico Eugenio Vacca",
+   "type": "studied_at",
+   "object": "Universität Genua",
+   "role": "Doktorat",
+   "place": "Genua",
+   "year_start": null,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "Er studierte an der Universität Genua Mathematik und promovierte 1897 bei G.B. Negri.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Giovanni Enrico Eugenio Vacca",
+   "type": "student_of",
+   "object": "G.B. Negri",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "promovierte 1897 bei G.B. Negri.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Giovanni Enrico Eugenio Vacca",
+   "type": "collaborated_with",
+   "object": "Giuseppe Peano",
+   "role": "Assistent",
+   "place": null,
+   "year_start": 1897,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im November 1897 wurde er Assistent bei Giuseppe Peano, den er beim Verfassen seiner Formulario unterstützte.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Giovanni Enrico Eugenio Vacca",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1394744.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Giovanni Enrico Eugenio Vacca",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

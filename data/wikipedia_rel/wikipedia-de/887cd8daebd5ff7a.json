@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Karl Adolf Verner",
+   "birth_year": 1846,
+   "death_year": 1896,
+   "nationality": "dänisch",
+   "field": "Sprachwissenschaftler"
+  },
+  {
+   "name": "August Leskien",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Karl Brugmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Karl Adolf Verner",
+   "type": "studied_at",
+   "object": "Kopenhagen",
+   "role": null,
+   "place": "Kopenhagen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "obwohl er nach seinem Studium in Kopenhagen als Bibliothekar an der Universitätsbibliothek in Halle an der Saale arbeitete.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Adolf Verner",
+   "type": "position_at",
+   "object": "Universitätsbibliothek in Halle an der Saale",
+   "role": "Bibliothekar",
+   "place": "Halle an der Saale",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "als Bibliothekar an der Universitätsbibliothek in Halle an der Saale arbeitete.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Adolf Verner",
+   "type": "collaborated_with",
+   "object": "August Leskien",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Von dort aus reiste er oft nach Leipzig, um sich mit den Junggrammatikern um August Leskien und Karl Brugmann zu treffen. Er nahm aktiv an den sprachwissenschaftlichen Diskussionen teil",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Adolf Verner",
+   "type": "collaborated_with",
+   "object": "Karl Brugmann",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Von dort aus reiste er oft nach Leipzig, um sich mit den Junggrammatikern um August Leskien und Karl Brugmann zu treffen. Er nahm aktiv an den sprachwissenschaftlichen Diskussionen teil",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Adolf Verner",
+   "type": "position_at",
+   "object": "Kopenhagen",
+   "role": "Dozent für Slawistik",
+   "place": "Kopenhagen",
+   "year_start": 1882,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Verner kehrte im Jahre 1882 nach Kopenhagen zurück, wo er als Dozent für Slawistik arbeitete.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Karl Verner",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q961355.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Karl Verner",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

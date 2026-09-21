@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Xiong Shili",
+   "birth_year": 1885,
+   "death_year": 1968,
+   "nationality": "chinesisch",
+   "field": "Philosoph"
+  },
+  {
+   "name": "Ouyang Jingwu 歐陽竟無",
+   "birth_year": 1871,
+   "death_year": 1943,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Xiong Shili",
+   "type": "student_of",
+   "object": "Ouyang Jingwu 歐陽竟無",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Einige Jahre studierte er den Buddhismus unter Ouyang Jingwu 歐陽竟無 (1871–1943)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Xiong Shili",
+   "type": "position_at",
+   "object": "Peking-Universität",
+   "role": null,
+   "place": null,
+   "year_start": 1923,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Seit 1923 lehrte er seine neue Lehre des Nur-Bewusstseins an der Peking-Universität.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Xiong Shili",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q699536.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Xiong Shili",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

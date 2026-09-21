@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Thubten Zopa Rinpoche",
+   "birth_year": 1946,
+   "death_year": 2023,
+   "nationality": "Nepal",
+   "field": "tibetan buddhism"
+  },
+  {
+   "name": "Geshe Rabten",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lama Thubten Yeshe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Thubten Zopa Rinpoche",
+   "type": "student_of",
+   "object": "Geshe Rabten",
+   "role": "traditional teacher",
+   "place": "Buxa Duar, Bhutan",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In einem Flüchtlingslager in Buxa Duar, Bhutan, wurde er Schüler von Geshe Rabten.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thubten Zopa Rinpoche",
+   "type": "collaborated_with",
+   "object": "Lama Thubten Yeshe",
+   "role": null,
+   "place": "Nepal",
+   "year_start": 1965,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1965 traf Lama Zopa auf Lama Thubten Yeshe. Gemeinsam reisten sie nach Nepal und lebten in Bodnath, einem Vorort von Kathmandu, wo sie das Kloster Kopan gründeten.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thubten Zopa Rinpoche",
+   "type": "founded",
+   "object": "Kloster Kopan",
+   "role": null,
+   "place": "Bodnath, Kathmandu",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gemeinsam reisten sie nach Nepal und lebten in Bodnath, einem Vorort von Kathmandu, wo sie das Kloster Kopan gründeten.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lama Thubten Yeshe",
+   "type": "founded",
+   "object": "Kloster Kopan",
+   "role": null,
+   "place": "Bodnath, Kathmandu",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gemeinsam reisten sie nach Nepal und lebten in Bodnath, einem Vorort von Kathmandu, wo sie das Kloster Kopan gründeten.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thubten Zopa Rinpoche",
+   "type": "founded",
+   "object": "Foundation for the Preservation of the Mahayana Tradition",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gründung der Foundation for the Preservation of the Mahayana Tradition (FPMT)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Thubten Zopa",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1320529.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Thubten Zopa",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

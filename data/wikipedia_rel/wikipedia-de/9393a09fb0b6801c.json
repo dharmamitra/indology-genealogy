@@ -1,0 +1,62 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Gary Snyder",
+   "birth_year": 1930,
+   "death_year": null,
+   "nationality": "US-amerikanisch",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Gary Snyder",
+   "type": "studied_at",
+   "object": "Reed College in Portland",
+   "role": "Bachelor",
+   "place": "Portland",
+   "year_start": null,
+   "year_end": 1951,
+   "explicit": true,
+   "evidence": "Er studierte zunächst Anthropologie am Reed  College in Portland und schloss dieses Studium 1951 mit dem Grad eines Bachelor ab.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gary Snyder",
+   "type": "studied_at",
+   "object": "University of California, Berkeley",
+   "role": null,
+   "place": "Berkeley",
+   "year_start": 1953,
+   "year_end": 1956,
+   "explicit": true,
+   "evidence": "studierte er von 1953 bis 1956 orientalische Sprachen an der University of California, Berkeley.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gary Snyder",
+   "type": "position_at",
+   "object": "UC Davis",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Schließlich unterrichtete er an der UC Davis.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Gary Snyder",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q315963.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Gary Snyder",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

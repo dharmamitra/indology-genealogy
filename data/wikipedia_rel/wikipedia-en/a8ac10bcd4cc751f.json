@@ -1,0 +1,62 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Yehan Numata",
+   "birth_year": 1897,
+   "death_year": 1994,
+   "nationality": "Japanese",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Yehan Numata",
+   "type": "studied_at",
+   "object": "University of California, Berkeley",
+   "role": "degree in economics",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "obtained a degree in economics from the University of California, Berkeley.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Yehan Numata",
+   "type": "founded",
+   "object": "Pacific World",
+   "role": null,
+   "place": "United States",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "During his time in the United States, he established Pacific World, a publication dedicated to propagating Buddhist teachings",
+   "quote_ok": true
+  },
+  {
+   "subject": "Yehan Numata",
+   "type": "founded",
+   "object": "Society for the Promotion of Buddhism",
+   "role": null,
+   "place": null,
+   "year_start": 1965,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1965, Numata founded the Society for the Promotion of Buddhism (Ja: Bukkyo Dendo Kyokai, generally known in English by its initials BDK)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Yehan Numata",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q6607676.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Yehan Numata",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

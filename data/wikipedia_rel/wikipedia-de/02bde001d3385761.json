@@ -1,0 +1,50 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Franz Bernhard",
+   "birth_year": 1931,
+   "death_year": 1971,
+   "nationality": "German",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Franz Bernhard",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": "Promotion",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": 1959,
+   "explicit": true,
+   "evidence": "Nach der Promotion am 7. Dezember 1959 in Göttingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Bernhard",
+   "type": "position_at",
+   "object": "Universität Hamburg",
+   "role": "Professor für Indologie",
+   "place": "Hamburg",
+   "year_start": 1966,
+   "year_end": 1971,
+   "explicit": true,
+   "evidence": "war er von 1966 bis 1971 Professor für Indologie an der Universität Hamburg",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Franz Bernhard (Indologe)",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q20680161.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Franz Bernhard (Indologe)",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

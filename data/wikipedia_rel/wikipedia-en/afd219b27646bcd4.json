@@ -1,0 +1,93 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Edward Byles Cowell",
+   "birth_year": 1826,
+   "death_year": 1903,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Edward Fitzgerald",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Edward Byles Cowell",
+   "type": "studied_at",
+   "object": "Magdalen College, Oxford",
+   "role": null,
+   "place": "Oxford",
+   "year_start": 1850,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1850 entered Magdalen College, Oxford, where he studied and catalogued Persian manuscripts",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Byles Cowell",
+   "type": "position_at",
+   "object": "Presidency College",
+   "role": "professor of English history",
+   "place": "Calcutta",
+   "year_start": 1856,
+   "year_end": 1867,
+   "explicit": true,
+   "evidence": "From 1856 to 1867 he lived in Calcutta as professor of English history at Presidency College.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Byles Cowell",
+   "type": "position_at",
+   "object": "Sanskrit College",
+   "role": "principal",
+   "place": null,
+   "year_start": 1858,
+   "year_end": 1864,
+   "explicit": true,
+   "evidence": "He was also as principal of Sanskrit College from 1858 to 1864.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Fitzgerald",
+   "type": "student_of",
+   "object": "Edward Byles Cowell",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "sent a copy to London for his friend and student, Edward Fitzgerald",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Byles Cowell",
+   "type": "position_at",
+   "object": "Cambridge University",
+   "role": "professor of Sanskrit",
+   "place": "Cambridge",
+   "year_start": 1867,
+   "year_end": 1903,
+   "explicit": true,
+   "evidence": "first professor of Sanskrit at Cambridge. He was professor from 1867 until his death in 1903.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Edward Byles Cowell",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q4217668.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Edward Byles Cowell",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

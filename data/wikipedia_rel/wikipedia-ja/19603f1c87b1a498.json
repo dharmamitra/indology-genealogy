@@ -1,0 +1,93 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ジョン・チャドウィック",
+   "birth_year": 1920,
+   "death_year": 1998,
+   "nationality": "イギリス",
+   "field": "言語学"
+  },
+  {
+   "name": "マイケル・ヴェントリス",
+   "birth_year": null,
+   "death_year": 1956,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ジョン・チャドウィック",
+   "type": "studied_at",
+   "object": "ケンブリッジ大学コーパス・クリスティ・カレッジ",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ケンブリッジ大学コーパス・クリスティ・カレッジで言語学を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジョン・チャドウィック",
+   "type": "position_at",
+   "object": "オックスフォード大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "戦後、オックスフォード大学でラテン語辞典の編纂に携わり",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジョン・チャドウィック",
+   "type": "position_at",
+   "object": "ケンブリッジ大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ケンブリッジ大学で古典文献学を研究した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジョン・チャドウィック",
+   "type": "position_at",
+   "object": "ケンブリッジ大学ダーウィンカレッジ",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ケンブリッジ大学ダーウィンカレッジに所属。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジョン・チャドウィック",
+   "type": "collaborated_with",
+   "object": "マイケル・ヴェントリス",
+   "role": null,
+   "place": null,
+   "year_start": 1952,
+   "year_end": 1956,
+   "explicit": true,
+   "evidence": "1952年から建築家のマイケル・ヴェントリスとともに線文字Bの解読に取り組み、1953年に解読成果を発表した。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ジョン・チャドウィック",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q51515.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ジョン・チャドウィック",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

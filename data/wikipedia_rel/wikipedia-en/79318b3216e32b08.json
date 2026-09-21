@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Gil Fronsdal",
+   "birth_year": 1954,
+   "death_year": null,
+   "nationality": "American",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "Jack Kornfield",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Mel Weitsman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Gil Fronsdal",
+   "type": "student_of",
+   "object": "Jack Kornfield",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Having been taught by the Vipassanā practitioner Jack Kornfield, Fronsdal is part of the Vipassanā teachers' collective at Spirit Rock Meditation Center.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gil Fronsdal",
+   "type": "student_of",
+   "object": "Mel Weitsman",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": 1995,
+   "explicit": true,
+   "evidence": "In 1995, he received Dharma transmission from Mel Weitsman, the abbot of the Berkeley Zen Center.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gil Fronsdal",
+   "type": "studied_at",
+   "object": "Stanford University",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He has a PhD in Buddhist Studies from Stanford University.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Gil Fronsdal",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q5560513.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Gil Fronsdal",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

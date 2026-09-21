@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Theodor Benfey",
+   "birth_year": 1809,
+   "death_year": 1881,
+   "nationality": "ドイツ",
+   "field": "言語学"
+  },
+  {
+   "name": "シェリング",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "哲学"
+  },
+  {
+   "name": "ティアシュ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Theodor Benfey",
+   "type": "studied_at",
+   "object": "ゲッティンゲン大学",
+   "role": "博士",
+   "place": "ゲッティンゲン",
+   "year_start": null,
+   "year_end": 1828,
+   "explicit": true,
+   "evidence": "ゲッティンゲン大学で1828年に博士の学位を取得した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "Theodor Benfey",
+   "type": "student_of",
+   "object": "シェリング",
+   "role": "teacher",
+   "place": "ミュンヘン",
+   "year_start": 1827,
+   "year_end": 1827,
+   "explicit": true,
+   "evidence": "1827年に1年間ミュンヘンで過ごし、哲学で有名なシェリングやティアシュの講義に感銘を受けている。",
+   "quote_ok": true
+  },
+  {
+   "subject": "Theodor Benfey",
+   "type": "student_of",
+   "object": "ティアシュ",
+   "role": "teacher",
+   "place": "ミュンヘン",
+   "year_start": 1827,
+   "year_end": 1827,
+   "explicit": true,
+   "evidence": "1827年に1年間ミュンヘンで過ごし、哲学で有名なシェリングやティアシュの講義に感銘を受けている。",
+   "quote_ok": true
+  },
+  {
+   "subject": "Theodor Benfey",
+   "type": "position_at",
+   "object": "ゲッティンゲン大学",
+   "role": "私講師",
+   "place": "ゲッティンゲン",
+   "year_start": 1834,
+   "year_end": 1848,
+   "explicit": true,
+   "evidence": "1834年にゲッティンゲン大学の私講師の職についた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "Theodor Benfey",
+   "type": "position_at",
+   "object": "ゲッティンゲン大学",
+   "role": "員外教授",
+   "place": "ゲッティンゲン",
+   "year_start": 1848,
+   "year_end": 1862,
+   "explicit": true,
+   "evidence": "1848年にキリスト教に改宗し、員外教授に就任したが無給だった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "Theodor Benfey",
+   "type": "position_at",
+   "object": "ゲッティンゲン大学",
+   "role": "教授",
+   "place": "ゲッティンゲン",
+   "year_start": 1862,
+   "year_end": 1881,
+   "explicit": true,
+   "evidence": "1862年にようやく正規の教授に就任した。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): テーオドール・ベンファイ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q76162.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): テーオドール・ベンファイ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

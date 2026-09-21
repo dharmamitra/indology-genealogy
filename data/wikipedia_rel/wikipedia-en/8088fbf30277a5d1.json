@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Friedrich August Rosen",
+   "birth_year": 1805,
+   "death_year": 1837,
+   "nationality": "German",
+   "field": "Orientalist"
+  },
+  {
+   "name": "Franz Bopp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Georg Rosen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Friedrich August Rosen",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied in Leipzig",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich August Rosen",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1824,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and from 1824 in Berlin under Franz Bopp.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich August Rosen",
+   "type": "student_of",
+   "object": "Franz Bopp",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1824,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1824 in Berlin under Franz Bopp.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich August Rosen",
+   "type": "position_at",
+   "object": "University of London",
+   "role": "professor of oriental literature",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was briefly professor of oriental literature at the University of London",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich August Rosen",
+   "type": "position_at",
+   "object": "Royal Asiatic Society",
+   "role": "secretary",
+   "place": null,
+   "year_start": 1831,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "became secretary of the Royal Asiatic Society in 1831.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich August Rosen",
+   "type": "other",
+   "object": "Georg Rosen",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "brother of Georg Rosen",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Friedrich August Rosen",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q71340.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Friedrich August Rosen",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

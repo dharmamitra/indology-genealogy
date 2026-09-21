@@ -1,0 +1,169 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sudhakara Dvivedi",
+   "birth_year": 1855,
+   "death_year": 1910,
+   "nationality": "indisch",
+   "field": "Sanskrit-Gelehrter, Mathematiker und Mathematikhistoriker"
+  },
+  {
+   "name": "Devakrsna",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Bapu Deva Sastri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "indisch",
+   "field": "Mathematiker"
+  },
+  {
+   "name": "Ganesh Prasad",
+   "birth_year": 1876,
+   "death_year": 1935,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Wilkinson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "George Thibaut",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sudhakara Dvivedi",
+   "type": "student_of",
+   "object": "Devakrsna",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er studierte bei dem Gelehrten Devakrsna",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sudhakara Dvivedi",
+   "type": "position_at",
+   "object": "Government Sanskrit College in Varanasi",
+   "role": "Bibliothekar",
+   "place": "Varanasi",
+   "year_start": 1883,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wurde 1883 Bibliothekar am Government Sanskrit College in Varanasi.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sudhakara Dvivedi",
+   "type": "position_at",
+   "object": "Government Sanskrit College in Varanasi",
+   "role": "Lehrer (Professor) für Mathematik und Astrologie",
+   "place": "Varanasi",
+   "year_start": 1890,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1890 wurde er dort Lehrer (Professor) für Mathematik und Astrologie als Nachfolger von Bapu Deva Sastri.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sudhakara Dvivedi",
+   "type": "succeeded",
+   "object": "Bapu Deva Sastri",
+   "role": "Lehrer (Professor) für Mathematik und Astrologie",
+   "place": "Government Sanskrit College in Varanasi",
+   "year_start": 1890,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1890 wurde er dort Lehrer (Professor) für Mathematik und Astrologie als Nachfolger von Bapu Deva Sastri.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sudhakara Dvivedi",
+   "type": "position_at",
+   "object": "Queen’s College in Benares (Varasani)",
+   "role": "Professor und Leiter der mathematischen Fakultät",
+   "place": "Benares (Varasani)",
+   "year_start": null,
+   "year_end": 1905,
+   "explicit": true,
+   "evidence": "Später war er Professor und Leiter der mathematischen Fakultät am Queen’s College in Benares (Varasani). 1905 ging er in den Ruhestand.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ganesh Prasad",
+   "type": "succeeded",
+   "object": "Sudhakara Dvivedi",
+   "role": null,
+   "place": "Queen’s College in Benares (Varasani)",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sein Nachfolger wurde der in Allahabad, Cambridge und Göttingen ausgebildete Ganesh Prasad (1876–1935)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ganesh Prasad",
+   "type": "position_at",
+   "object": "Universität Kalkutta",
+   "role": "Professor",
+   "place": "Kalkutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "bevor er Professor an der Universität Kalkutta wurde.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bapu Deva Sastri",
+   "type": "collaborated_with",
+   "object": "Wilkinson",
+   "role": null,
+   "place": null,
+   "year_start": 1861,
+   "year_end": 1861,
+   "explicit": true,
+   "evidence": "Deva Shastri publizierte 1861 mit Wilkinson Übersetzungen der astronomischen Sanskrit-Texte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sudhakara Dvivedi",
+   "type": "collaborated_with",
+   "object": "George Thibaut",
+   "role": null,
+   "place": null,
+   "year_start": 1889,
+   "year_end": 1889,
+   "explicit": true,
+   "evidence": "Mit George Thibaut gab er 1889 die astronomische Sammlung Pancasiddhantika von Varahamihira heraus.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Sudhakara Dvivedi",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q7633752.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Sudhakara Dvivedi",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

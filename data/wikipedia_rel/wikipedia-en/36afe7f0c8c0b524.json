@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John Crawfurd",
+   "birth_year": 1783,
+   "death_year": 1868,
+   "nationality": "Scottish",
+   "field": "orientalist"
+  },
+  {
+   "name": "Horace Hayman Wilson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Crawfurd",
+   "type": "studied_at",
+   "object": "University of Edinburgh",
+   "role": "medical course",
+   "place": null,
+   "year_start": null,
+   "year_end": 1803,
+   "explicit": true,
+   "evidence": "He followed his father's footsteps in the study of medicine and completed his medical course at the University of Edinburgh in 1803, at the age of 20.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Crawfurd",
+   "type": "influenced_by",
+   "object": "Horace Hayman Wilson",
+   "role": null,
+   "place": null,
+   "year_start": 1821,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Crawfurd travelled with notes from Horace Hayman Wilson on Buddhism, as it was understood at the time.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): John Crawfurd",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1352013.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): John Crawfurd",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

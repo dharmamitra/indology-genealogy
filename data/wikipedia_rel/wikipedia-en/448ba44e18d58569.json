@@ -1,0 +1,148 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Walter Eugene Clark",
+   "birth_year": 1881,
+   "death_year": 1960,
+   "nationality": "American",
+   "field": "philologist"
+  },
+  {
+   "name": "Richard Pischel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indologist"
+  },
+  {
+   "name": "Charles Lanman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Walter Eugene Clark",
+   "type": "studied_at",
+   "object": "Harvard",
+   "role": "A.B.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1903,
+   "explicit": true,
+   "evidence": "Clark received his A.B. in 1903, A.M. in 1904 from Harvard.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Eugene Clark",
+   "type": "studied_at",
+   "object": "Harvard",
+   "role": "A.M.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1904,
+   "explicit": true,
+   "evidence": "Clark received his A.B. in 1903, A.M. in 1904 from Harvard.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Eugene Clark",
+   "type": "studied_at",
+   "object": "Harvard",
+   "role": "Doctorate",
+   "place": null,
+   "year_start": null,
+   "year_end": 1906,
+   "explicit": true,
+   "evidence": "After receiving his Doctorate from Harvard in 1906, with the dissertation titled \"Quid de rebus Indicis scirent Graeci prisci quaeritur\"",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Eugene Clark",
+   "type": "student_of",
+   "object": "Richard Pischel",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he went to Germany to Berlin to receive further training under the Indologist Richard Pischel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Eugene Clark",
+   "type": "position_at",
+   "object": "University of Chicago",
+   "role": "Instructor in Sanskrit",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He joined the \"Department of Comparative Philology\" at University of Chicago as the \"Instructor in Sanskrit\".",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Eugene Clark",
+   "type": "position_at",
+   "object": "University of Chicago",
+   "role": "Assistant Professor",
+   "place": null,
+   "year_start": 1915,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1915, he was promoted to Assistant Professor of the \"Department of Comparative Philology, General Linguistics, and Indo-Iranian Philology\"",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Eugene Clark",
+   "type": "position_at",
+   "object": "University of Chicago",
+   "role": "Associate Professor of Sanskrit",
+   "place": null,
+   "year_start": 1923,
+   "year_end": 1927,
+   "explicit": true,
+   "evidence": "from 1923 to 1927 as Associate Professor of Sanskrit.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Eugene Clark",
+   "type": "position_at",
+   "object": "Harvard University",
+   "role": "Wales Professor of Sanskrit",
+   "place": null,
+   "year_start": 1927,
+   "year_end": 1950,
+   "explicit": true,
+   "evidence": "In 1927 he became the Wales Professor of Sanskrit at Harvard. He held the position until his retirement in 1950.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Eugene Clark",
+   "type": "succeeded",
+   "object": "Charles Lanman",
+   "role": "editor of the Harvard Oriental Series",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was the editor of the volumes 38-44 of the Harvard Oriental Series after Charles Lanman.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Walter Eugene Clark",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q15278737.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Walter Eugene Clark",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

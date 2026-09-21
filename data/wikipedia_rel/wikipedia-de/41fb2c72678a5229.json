@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Fulgence Fresnel",
+   "birth_year": 1795,
+   "death_year": 1855,
+   "nationality": "französischer",
+   "field": "Orientalist"
+  },
+  {
+   "name": "Silvestre de Sacy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jules Oppert",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Assyriologen"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Fulgence Fresnel",
+   "type": "student_of",
+   "object": "Silvestre de Sacy",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In Paris studierte er bei Silvestre de Sacy",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fulgence Fresnel",
+   "type": "studied_at",
+   "object": "Kollegium der Maroniten in Rom",
+   "role": null,
+   "place": "Rom",
+   "year_start": 1826,
+   "year_end": 1826,
+   "explicit": true,
+   "evidence": "1826 erlernte er am Kollegium der Maroniten in Rom die arabische Sprache.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fulgence Fresnel",
+   "type": "collaborated_with",
+   "object": "Jules Oppert",
+   "role": null,
+   "place": "Mesopotamien",
+   "year_start": 1851,
+   "year_end": 1854,
+   "explicit": true,
+   "evidence": "1851 wurde er zum Leiter einer wissenschaftlichen Expedition nach Mesopotamien ernannt, auf welcher er von dem Assyriologen Jules Oppert begleitet wurde.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Fulgence Fresnel",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q703951.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Fulgence Fresnel",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

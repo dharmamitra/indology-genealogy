@@ -1,0 +1,62 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sir John Woodroffe",
+   "birth_year": 1865,
+   "death_year": 1936,
+   "nationality": "britisch",
+   "field": "Rechtswissenschaften"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sir John Woodroffe",
+   "type": "studied_at",
+   "object": "University College in Oxford",
+   "role": null,
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er studierte am University College in Oxford Rechtswissenschaften.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir John Woodroffe",
+   "type": "position_at",
+   "object": "University of Calcutta",
+   "role": "Rechtsprofessor",
+   "place": "Kalkutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rechtsprofessor an der University of Calcutta. [...] Man berief ihn als Professor an die University of Calcutta.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir John Woodroffe",
+   "type": "position_at",
+   "object": "University of Oxford",
+   "role": null,
+   "place": "England",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nach seiner Rückkehr nach England lehrte er indisches Recht an der University of Oxford.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): John Woodroffe",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1702223.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): John Woodroffe",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

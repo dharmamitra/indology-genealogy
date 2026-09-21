@@ -1,0 +1,74 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ジョン・ボースウィック・ギルクリスト",
+   "birth_year": 1759,
+   "death_year": 1841,
+   "nationality": "スコットランド",
+   "field": "言語学"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ジョン・ボースウィック・ギルクリスト",
+   "type": "position_at",
+   "object": "イギリス東インド会社",
+   "role": "軍医輔佐",
+   "place": "カルカッタ",
+   "year_start": 1783,
+   "year_end": 1794,
+   "explicit": true,
+   "evidence": "1783年にイギリス東インド会社の軍医輔佐の職を得てカルカッタに赴任した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジョン・ボースウィック・ギルクリスト",
+   "type": "position_at",
+   "object": "イギリス東インド会社",
+   "role": "軍医",
+   "place": "カルカッタ",
+   "year_start": 1794,
+   "year_end": 1809,
+   "explicit": true,
+   "evidence": "1794年には軍医に昇任した。……1809年には東インド会社を退職した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジョン・ボースウィック・ギルクリスト",
+   "type": "position_at",
+   "object": "フォート・ウィリアム大学",
+   "role": "ヒンドゥスターニー語教授",
+   "place": "カルカッタ",
+   "year_start": 1800,
+   "year_end": 1804,
+   "explicit": true,
+   "evidence": "1800年カルカッタにフォート・ウィリアム大学が創立されるとギルクリストをヒンドゥスターニー語教授に任命した。……1804年にギルクリストは健康上の理由で大学を辞職し、イギリスに帰国した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジョン・ボースウィック・ギルクリスト",
+   "type": "studied_at",
+   "object": "エディンバラ大学",
+   "role": "法学博士",
+   "place": "エディンバラ",
+   "year_start": null,
+   "year_end": 1804,
+   "explicit": true,
+   "evidence": "1804年にエディンバラ大学の法学博士の学位を授与された。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ジョン・ギルクリスト",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q3632356.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ジョン・ギルクリスト",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

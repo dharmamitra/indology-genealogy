@@ -1,0 +1,74 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Johann Michael Friedrich Rückert",
+   "birth_year": 1788,
+   "death_year": 1866,
+   "nationality": "German",
+   "field": "Oriental languages"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johann Michael Friedrich Rückert",
+   "type": "studied_at",
+   "object": "University of Würzburg",
+   "role": null,
+   "place": "Würzburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was educated at the local Gymnasium and at the universities of Würzburg and Heidelberg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Michael Friedrich Rückert",
+   "type": "studied_at",
+   "object": "University of Heidelberg",
+   "role": null,
+   "place": "Heidelberg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was educated at the local Gymnasium and at the universities of Würzburg and Heidelberg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Michael Friedrich Rückert",
+   "type": "position_at",
+   "object": "University of Erlangen",
+   "role": "professor of Oriental languages",
+   "place": "Erlangen",
+   "year_start": 1826,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was appointed a professor of Oriental languages at the University of Erlangen in 1826",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Michael Friedrich Rückert",
+   "type": "position_at",
+   "object": "University of Berlin",
+   "role": "professor of Oriental languages",
+   "place": "Berlin",
+   "year_start": 1841,
+   "year_end": 1849,
+   "explicit": true,
+   "evidence": "in 1841, he was called to a similar position in Berlin, where he was also made a privy councillor. In 1849 he resigned his professorship at Berlin",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Friedrich Rückert",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q60644.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Friedrich Rückert",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

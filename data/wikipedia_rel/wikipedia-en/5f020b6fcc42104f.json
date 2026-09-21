@@ -1,0 +1,93 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Émile Charles Marie Senart",
+   "birth_year": 1847,
+   "death_year": 1928,
+   "nationality": "French",
+   "field": "Indologist"
+  },
+  {
+   "name": "Paul Pelliot",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Paul Pelliot",
+   "type": "student_of",
+   "object": "Émile Charles Marie Senart",
+   "role": "teacher",
+   "place": "Collège de France",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was Paul Pelliot's professor at the Collège de France.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Émile Charles Marie Senart",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was Paul Pelliot's professor at the Collège de France.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Émile Charles Marie Senart",
+   "type": "position_at",
+   "object": "Académie des inscriptions et belles-lettres",
+   "role": "member",
+   "place": null,
+   "year_start": 1882,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was elected a member of the Académie des inscriptions et belles-lettres in 1882",
+   "quote_ok": true
+  },
+  {
+   "subject": "Émile Charles Marie Senart",
+   "type": "position_at",
+   "object": "Société asiatique",
+   "role": "president",
+   "place": null,
+   "year_start": 1908,
+   "year_end": 1928,
+   "explicit": true,
+   "evidence": "president of the Société asiatique from 1908 to 1928",
+   "quote_ok": true
+  },
+  {
+   "subject": "Émile Charles Marie Senart",
+   "type": "founded",
+   "object": "Association française des amis de l'Orient",
+   "role": null,
+   "place": null,
+   "year_start": 1920,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "founder of the \"Association française des amis de l'Orient\" in 1920.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Émile Senart",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q286459.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Émile Senart",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

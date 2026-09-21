@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Josef Budenz",
+   "birth_year": 1836,
+   "death_year": 1892,
+   "nationality": "German",
+   "field": "comparative linguistics"
+  },
+  {
+   "name": "Theodor Benfey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indo-European comparative linguistics"
+  },
+  {
+   "name": "Pál Hunfalvy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Arminius Vambery",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Josef Budenz",
+   "type": "studied_at",
+   "object": "Marburg",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied in Marburg and from 1855 for three years in Göttingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Josef Budenz",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": "doctorate",
+   "place": null,
+   "year_start": 1855,
+   "year_end": 1858,
+   "explicit": true,
+   "evidence": "from 1855 for three years in Göttingen, among others with Theodor Benfey with a focus on Indo-European comparative linguistics. He received his doctorate in 1858.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Josef Budenz",
+   "type": "student_of",
+   "object": "Theodor Benfey",
+   "role": "teacher",
+   "place": "Göttingen",
+   "year_start": 1855,
+   "year_end": 1858,
+   "explicit": true,
+   "evidence": "from 1855 for three years in Göttingen, among others with Theodor Benfey with a focus on Indo-European comparative linguistics.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Josef Budenz",
+   "type": "position_at",
+   "object": "Hungarian Academy of Sciences",
+   "role": "librarian",
+   "place": null,
+   "year_start": 1861,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1861 he was appointed librarian of the Hungarian Academy of Sciences.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Josef Budenz",
+   "type": "student_of",
+   "object": "Pál Hunfalvy",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He deepened his knowledge of Uralic and Altaic languages under the guidance of Pál Hunfalvy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Josef Budenz",
+   "type": "position_at",
+   "object": "University of Budapest",
+   "role": "full professor of Altaic comparative linguistics",
+   "place": "Budapest",
+   "year_start": 1868,
+   "year_end": 1892,
+   "explicit": true,
+   "evidence": "From 1868 he was a full professor of Altaic comparative linguistics, the chair having been established especially for him... He was a professor at the University of Budapest from 1868 until his death on 15 April 1892",
+   "quote_ok": true
+  },
+  {
+   "subject": "Josef Budenz",
+   "type": "other",
+   "object": "Arminius Vambery",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Arminius Vambery who wrote a book on the topic and was a friend of Budenz.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Josef Budenz",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q76637.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Josef Budenz",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

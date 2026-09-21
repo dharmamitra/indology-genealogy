@@ -1,0 +1,148 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "モニエル・モニエル＝ウィリアムズ",
+   "birth_year": 1819,
+   "death_year": 1899,
+   "nationality": "イギリス",
+   "field": "東洋学者、インド学者"
+  },
+  {
+   "name": "ウィルソン",
+   "birth_year": null,
+   "death_year": 1860,
+   "nationality": null,
+   "field": "サンスクリット"
+  },
+  {
+   "name": "フリードリヒ・マックス・ミュラー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "モニエル・モニエル＝ウィリアムズ",
+   "type": "studied_at",
+   "object": "オックスフォード大学ベリオール・カレッジ",
+   "role": null,
+   "place": null,
+   "year_start": 1837,
+   "year_end": 1839,
+   "explicit": true,
+   "evidence": "1837年にオックスフォード大学ベリオール・カレッジに入学を許されたが、1839年にインドで文官として働くことになったため、いったんオックスフォードを去って",
+   "quote_ok": true
+  },
+  {
+   "subject": "モニエル・モニエル＝ウィリアムズ",
+   "type": "studied_at",
+   "object": "東インド会社カレッジ",
+   "role": null,
+   "place": null,
+   "year_start": 1839,
+   "year_end": 1840,
+   "explicit": true,
+   "evidence": "東インド会社カレッジに入り、翌年卒業した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "モニエル・モニエル＝ウィリアムズ",
+   "type": "studied_at",
+   "object": "ユニバーシティ・カレッジ",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1844,
+   "explicit": true,
+   "evidence": "ベリオール・カレッジが定員に達していたため、ユニバーシティ・カレッジに入った。……1844年にオックスフォードを卒業して",
+   "quote_ok": true
+  },
+  {
+   "subject": "モニエル・モニエル＝ウィリアムズ",
+   "type": "student_of",
+   "object": "ウィルソン",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "初代サンスクリット教授(Boden Professor of Sanskrit)のウィルソンにサンスクリットを学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "モニエル・モニエル＝ウィリアムズ",
+   "type": "position_at",
+   "object": "東インド会社カレッジ",
+   "role": null,
+   "place": null,
+   "year_start": 1844,
+   "year_end": 1858,
+   "explicit": true,
+   "evidence": "1844年にオックスフォードを卒業して、東インド会社カレッジでサンスクリット・ペルシア語・ヒンドゥスターニー語を教えた。1858年にインドの統治がイギリス国王の手に移って東インド会社カレッジが閉校になると",
+   "quote_ok": true
+  },
+  {
+   "subject": "モニエル・モニエル＝ウィリアムズ",
+   "type": "position_at",
+   "object": "チェルトナム大学",
+   "role": null,
+   "place": null,
+   "year_start": 1858,
+   "year_end": 1860,
+   "explicit": true,
+   "evidence": "東インド会社カレッジが閉校になるとチェルトナム大学に移った。",
+   "quote_ok": true
+  },
+  {
+   "subject": "モニエル・モニエル＝ウィリアムズ",
+   "type": "succeeded",
+   "object": "ウィルソン",
+   "role": "サンスクリット教授",
+   "place": "オックスフォード大学",
+   "year_start": 1860,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1860年にウィルソンが没すると、後任の座をフリードリヒ・マックス・ミュラーと争って勝ち取り、オックスフォードの第2代サンスクリット教授に就任した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "モニエル・モニエル＝ウィリアムズ",
+   "type": "position_at",
+   "object": "オックスフォード大学",
+   "role": "第2代サンスクリット教授",
+   "place": null,
+   "year_start": 1860,
+   "year_end": 1887,
+   "explicit": true,
+   "evidence": "オックスフォードの第2代サンスクリット教授に就任した。……健康を害して1887年に大学の仕事から離れ",
+   "quote_ok": true
+  },
+  {
+   "subject": "ウィルソン",
+   "type": "position_at",
+   "object": "オックスフォード大学",
+   "role": "初代サンスクリット教授",
+   "place": null,
+   "year_start": null,
+   "year_end": 1860,
+   "explicit": true,
+   "evidence": "オックスフォードの初代サンスクリット教授(Boden Professor of Sanskrit)のウィルソン",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): モニエル・モニエル＝ウィリアムズ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q713510.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): モニエル・モニエル＝ウィリアムズ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

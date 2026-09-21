@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "カル・リンポチェ",
+   "birth_year": 1905,
+   "death_year": 1989,
+   "nationality": null,
+   "field": "チベット仏教"
+  },
+  {
+   "name": "Drupon Norbu Dondrup",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ジューン・キャンベル",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "カル・リンポチェ",
+   "type": "studied_at",
+   "object": "ペルプン僧院",
+   "role": null,
+   "place": null,
+   "year_start": 1920,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "15歳のとき、より高度な学究のために、カギュ派のペルプン僧院(寺)に送られた。この地に10年以上とどまり",
+   "quote_ok": true
+  },
+  {
+   "subject": "カル・リンポチェ",
+   "type": "student_of",
+   "object": "Drupon Norbu Dondrup",
+   "role": "traditional teacher",
+   "place": "ペルプン寺",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "カル・リンポチェは、Drupon Norbu Dondrupからカギュ派の最後の教えを受けるためにペルプン寺に戻った。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジューン・キャンベル",
+   "type": "collaborated_with",
+   "object": "カル・リンポチェ",
+   "role": "通訳",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "彼の通訳であったジューン・キャンベル（June Campbell）",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): カル・リンポチェ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q770945.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): カル・リンポチェ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

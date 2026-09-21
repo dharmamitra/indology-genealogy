@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "William Carey",
+   "birth_year": 1761,
+   "death_year": 1834,
+   "nationality": "British",
+   "field": "Indology, linguistics, botany"
+  },
+  {
+   "name": "Ram Basu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Bengali"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Carey",
+   "type": "position_at",
+   "object": "College Fort William in Kalkutta",
+   "role": "Professur für Bengali",
+   "place": "Kalkutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Carey erhielt als Nichtakademiker eine Professur für Bengali am College Fort William in Kalkutta",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Carey",
+   "type": "collaborated_with",
+   "object": "Ram Basu",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Erwähnenswert ist sein erster, jahrelanger Mitarbeiter mit dem Namen Ram Basu, der ihn bei der Übersetzung in die Bengalische Sprache unterstützte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Carey",
+   "type": "founded",
+   "object": "Baptist Missionary Society",
+   "role": null,
+   "place": "Northampton",
+   "year_start": 1792,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gründer der Baptist Missionary Society ... Gründung der Missionsgesellschaft, die am 2. Oktober 1792 in Northampton vollzogen wurde.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Carey",
+   "type": "founded",
+   "object": "Sirampur Theological Seminary",
+   "role": null,
+   "place": "Sirampur",
+   "year_start": 1818,
+   "year_end": 1821,
+   "explicit": true,
+   "evidence": "Zwischen 1818 und 1821 baute Carey mit seinen Mitarbeitern das Sirampur Theological Seminary auf",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): William Carey",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q312948.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): William Carey",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,148 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "水野 清一",
+   "birth_year": 1905,
+   "death_year": 1971,
+   "nationality": "日本",
+   "field": "考古学"
+  },
+  {
+   "name": "濱田耕作",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "長廣敏雄",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "水野 清一",
+   "type": "studied_at",
+   "object": "京都帝国大学文学部史学科",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1928,
+   "explicit": true,
+   "evidence": "京都帝国大学文学部史学科に入学し、濱田耕作の下で学んだ。1928年に同大学を卒業。",
+   "quote_ok": true
+  },
+  {
+   "subject": "水野 清一",
+   "type": "student_of",
+   "object": "濱田耕作",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "京都帝国大学文学部史学科に入学し、濱田耕作の下で学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "水野 清一",
+   "type": "studied_at",
+   "object": "京都大学",
+   "role": "文学博士",
+   "place": null,
+   "year_start": null,
+   "year_end": 1962,
+   "explicit": true,
+   "evidence": "学位は、文学博士（京都大学・1962年）（学位論文「雲岡石窟系譜」）。",
+   "quote_ok": true
+  },
+  {
+   "subject": "水野 清一",
+   "type": "position_at",
+   "object": "東方文化学院京都研究所",
+   "role": "研究員",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1961年に帰国し、同年1月より東方文化学院京都研究所に研究員として勤務した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "水野 清一",
+   "type": "position_at",
+   "object": "東方文化研究所",
+   "role": "助教授",
+   "place": null,
+   "year_start": 1938,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1938年に学院が改組されると、東方文化研究所助教授。",
+   "quote_ok": true
+  },
+  {
+   "subject": "水野 清一",
+   "type": "student_of",
+   "object": "濱田耕作",
+   "role": null,
+   "place": "東方文化研究所",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "研究所では、中国彫塑芸術の研究をテーマとして、引き続き濱田耕作の指導を受けた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "水野 清一",
+   "type": "collaborated_with",
+   "object": "長廣敏雄",
+   "role": null,
+   "place": null,
+   "year_start": 1936,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "同僚の長廣敏雄らと共に研究所が1936年から終戦まで華北で進めた龍門石窟、山西省大同市での雲崗の発掘調査などに従事した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "水野 清一",
+   "type": "position_at",
+   "object": "京都大学人文科学研究所",
+   "role": "教授",
+   "place": null,
+   "year_start": 1949,
+   "year_end": 1968,
+   "explicit": true,
+   "evidence": "1949年に京都大学人文科学研究所が設立されると同研究所の教授となった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "水野 清一",
+   "type": "position_at",
+   "object": "京都大学",
+   "role": "名誉教授",
+   "place": null,
+   "year_start": 1968,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1968年に京都大学を定年退官し、名誉教授となった。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 水野清一",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q11549425.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 水野清一",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,93 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Hla Pe",
+   "birth_year": 1913,
+   "death_year": 2007,
+   "nationality": "Burmese",
+   "field": "linguist"
+  },
+  {
+   "name": "John Okell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hla Pe",
+   "type": "studied_at",
+   "object": "Rangoon University",
+   "role": "MA",
+   "place": null,
+   "year_start": null,
+   "year_end": 1938,
+   "explicit": true,
+   "evidence": "After high school, he went to Rangoon University and earned an MA in Burmese in 1938.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hla Pe",
+   "type": "studied_at",
+   "object": "Institute of Education, University of London",
+   "role": "Diploma in Education",
+   "place": null,
+   "year_start": null,
+   "year_end": 1939,
+   "explicit": true,
+   "evidence": "In 1939, he got a Diploma in Education from the Institute of Education, University of London.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hla Pe",
+   "type": "studied_at",
+   "object": "University of London's School of Oriental Studies",
+   "role": "doctorate",
+   "place": null,
+   "year_start": null,
+   "year_end": 1944,
+   "explicit": true,
+   "evidence": "In 1944 he obtained his doctorate in Burmese at the University of London's School of Oriental Studies (later renamed the School of Oriental and African Studies).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hla Pe",
+   "type": "position_at",
+   "object": "SOAS",
+   "role": "taught Burmese language and culture",
+   "place": null,
+   "year_start": 1948,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Hla Pe taught Burmese language and culture at SOAS from 1948",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hla Pe",
+   "type": "position_at",
+   "object": "SOAS",
+   "role": "Professor of Burmese",
+   "place": null,
+   "year_start": 1966,
+   "year_end": 1980,
+   "explicit": true,
+   "evidence": "was Professor of Burmese at SOAS from 1966 until his retirement in 1980.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Hla Pe",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q5873458.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Hla Pe",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

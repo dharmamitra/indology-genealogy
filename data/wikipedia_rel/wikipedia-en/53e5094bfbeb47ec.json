@@ -1,0 +1,162 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Joshua Marshman",
+   "birth_year": 1768,
+   "death_year": 1837,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "William Carey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "William Ward",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hovhannes Ghazarian",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Armenian",
+   "field": null
+  },
+  {
+   "name": "John Clark Marshman",
+   "birth_year": 1794,
+   "death_year": 1877,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Joshua Marshman",
+   "type": "studied_at",
+   "object": "Bristol Baptist College",
+   "role": null,
+   "place": "Bristol",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He also studied at the Bristol Baptist College.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joshua Marshman",
+   "type": "student_of",
+   "object": "Hovhannes Ghazarian",
+   "role": "teacher",
+   "place": "Serampore",
+   "year_start": 1806,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "moved to Serampore to begin training in Chinese under the instruction of Prof. Hovhannes Ghazarian (Johannes Lassar)... Marshman studied for at least five years under Ghazarian",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joshua Marshman",
+   "type": "collaborated_with",
+   "object": "William Carey",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Marshman and Carey together translated the Bible into many Indian Languages as well as translating much classical Indian literature into English",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joshua Marshman",
+   "type": "collaborated_with",
+   "object": "Hovhannes Ghazarian",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1822,
+   "explicit": true,
+   "evidence": "In 1822, the first translation of the Bible into Chinese, credited to Lassar and Marshman, was published.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joshua Marshman",
+   "type": "founded",
+   "object": "Serampore College",
+   "role": null,
+   "place": "Serampore",
+   "year_start": 1818,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "On 5 July 1818, William Carey, Joshua Marshman and William Ward (another member of their missionary team) issued a prospectus... Thus was born Serampore College",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Carey",
+   "type": "founded",
+   "object": "Serampore College",
+   "role": null,
+   "place": "Serampore",
+   "year_start": 1818,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "On 5 July 1818, William Carey, Joshua Marshman and William Ward (another member of their missionary team) issued a prospectus... Thus was born Serampore College",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Ward",
+   "type": "founded",
+   "object": "Serampore College",
+   "role": null,
+   "place": "Serampore",
+   "year_start": 1818,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "On 5 July 1818, William Carey, Joshua Marshman and William Ward (another member of their missionary team) issued a prospectus... Thus was born Serampore College",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Carey",
+   "type": "position_at",
+   "object": "Fort William College",
+   "role": null,
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "journeyed into Calcutta to teach at Fort William College.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Clark Marshman",
+   "type": "other",
+   "object": "Joshua Marshman",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Marsman's son, John Clark Marshman (1794–1877), was also to become an important part of the missionary work at the college",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Joshua Marshman",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q6290051.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Joshua Marshman",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

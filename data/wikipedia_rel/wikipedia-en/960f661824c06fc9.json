@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Frank-Richard Hamm",
+   "birth_year": 1920,
+   "death_year": 1973,
+   "nationality": null,
+   "field": "Indology and Tibetology"
+  },
+  {
+   "name": "Walther Schubring",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Frank-Richard Hamm",
+   "type": "student_of",
+   "object": "Walther Schubring",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a student of Walther Schubring.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Frank-Richard Hamm",
+   "type": "position_at",
+   "object": "Hamburg",
+   "role": "tutor of Indology",
+   "place": "Hamburg",
+   "year_start": 1948,
+   "year_end": 1952,
+   "explicit": true,
+   "evidence": "From 1948 to 1952 he was a tutor of Indology at Hamburg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Frank-Richard Hamm",
+   "type": "position_at",
+   "object": "International Academy of Indian Culture",
+   "role": "member",
+   "place": "Nagpur, India",
+   "year_start": 1952,
+   "year_end": 1954,
+   "explicit": true,
+   "evidence": "from 1952 to 1954 he was a member of the International Academy of Indian Culture in Nagpur, India.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Frank-Richard Hamm",
+   "type": "position_at",
+   "object": "Bonn",
+   "role": "professor",
+   "place": "Bonn",
+   "year_start": 1965,
+   "year_end": 1973,
+   "explicit": true,
+   "evidence": "Bonn, where he remained as a professor from 1965 until his death.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Frank-Richard Hamm",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q2450558.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Frank-Richard Hamm",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

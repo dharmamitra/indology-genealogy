@@ -1,0 +1,160 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Alexander von Staël-Holstein",
+   "birth_year": 1877,
+   "death_year": 1937,
+   "nationality": "estnisch",
+   "field": "Orientalist, Indologe, Sinologe und Ostasienwissenschaftler"
+  },
+  {
+   "name": "Richard Pischel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Prakrit"
+  },
+  {
+   "name": "Friedrich Schrader",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Alexander von Staël-Holstein",
+   "type": "studied_at",
+   "object": "Kaiserliche Universität Dorpat",
+   "role": null,
+   "place": "Dorpat",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "einem Philologiestudium an der Kaiserlichen Universität Dorpat",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander von Staël-Holstein",
+   "type": "studied_at",
+   "object": "Universität Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nach einem dreijährigen Studium an der Universität Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander von Staël-Holstein",
+   "type": "studied_at",
+   "object": "Universität Halle",
+   "role": "Dissertation",
+   "place": "Halle",
+   "year_start": null,
+   "year_end": 1900,
+   "explicit": true,
+   "evidence": "fertigte er seine Dissertation an der Universität Halle bei Richard Pischel an, die er 1900 abschloss.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander von Staël-Holstein",
+   "type": "student_of",
+   "object": "Richard Pischel",
+   "role": "doctoral supervisor",
+   "place": "Halle",
+   "year_start": null,
+   "year_end": 1900,
+   "explicit": true,
+   "evidence": "fertigte er seine Dissertation an der Universität Halle bei Richard Pischel an, die er 1900 abschloss.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Schrader",
+   "type": "student_of",
+   "object": "Richard Pischel",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1889,
+   "explicit": true,
+   "evidence": "Der erste Teil war 1889 ebenfalls bei Pischel im Rahmen einer Dissertation von Friedrich Schrader übersetzt worden.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander von Staël-Holstein",
+   "type": "position_at",
+   "object": "Universität Sankt Petersburg",
+   "role": "Assistenzprofessur",
+   "place": "Sankt Petersburg",
+   "year_start": 1909,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Jahre 1909 erhielt er einen Ruf an die Universität Sankt Petersburg für eine Assistenzprofessur",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander von Staël-Holstein",
+   "type": "studied_at",
+   "object": "Harvard University",
+   "role": "Studienaufenthalt",
+   "place": null,
+   "year_start": 1912,
+   "year_end": 1912,
+   "explicit": true,
+   "evidence": "1912 folgte ein Studienaufenthalt an der Harvard University zum Studium des Sanskrit.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander von Staël-Holstein",
+   "type": "position_at",
+   "object": "Peking-Universität",
+   "role": "Lehrstuhl für Sanskrit, Tibetisch und indische Religionsgeschichte",
+   "place": "Peking",
+   "year_start": 1922,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1922 erhielt Staël-Holstein einen Ruf an die Peking-Universität für einen Lehrstuhl für Sanskrit, Tibetisch und indische Religionsgeschichte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander von Staël-Holstein",
+   "type": "founded",
+   "object": "Sino-Indisches Institut in Peking",
+   "role": "Gründungsmitglied",
+   "place": "Peking",
+   "year_start": 1927,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1927 war er Gründungsmitglied des Sino-Indischen Institut in Peking",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander von Staël-Holstein",
+   "type": "studied_at",
+   "object": "Harvard University",
+   "role": "Studienaufenthalt",
+   "place": null,
+   "year_start": 1928,
+   "year_end": 1928,
+   "explicit": true,
+   "evidence": "1928 folgte ein weiterer Studienaufenthalt in Harvard.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Alexander von Staël-Holstein",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q565707.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Alexander von Staël-Holstein",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

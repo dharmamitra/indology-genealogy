@@ -1,0 +1,169 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Walter Yeeling Evans-Wentz",
+   "birth_year": 1878,
+   "death_year": 1965,
+   "nationality": "American",
+   "field": "anthropologist"
+  },
+  {
+   "name": "William James",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "W. B. Yeats",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kazi Dawa-Samdup",
+   "birth_year": 1868,
+   "death_year": 1922,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Alexandra David-Néel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Belgian-French",
+   "field": null
+  },
+  {
+   "name": "John Woodroffe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Orientalist"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Walter Yeeling Evans-Wentz",
+   "type": "studied_at",
+   "object": "Stanford University",
+   "role": "B.A. and M.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At age 24 Evans-Wentz went to Stanford University, where he studied religion, philosophy, and history and was deeply influenced by visitors William James and W. B. Yeats. He went on to receive B.A. and M.A degrees.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Yeeling Evans-Wentz",
+   "type": "influenced_by",
+   "object": "William James",
+   "role": null,
+   "place": "Stanford University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Stanford University, where he studied religion, philosophy, and history and was deeply influenced by visitors William James and W. B. Yeats.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Yeeling Evans-Wentz",
+   "type": "influenced_by",
+   "object": "W. B. Yeats",
+   "role": null,
+   "place": "Stanford University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Stanford University, where he studied religion, philosophy, and history and was deeply influenced by visitors William James and W. B. Yeats.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Yeeling Evans-Wentz",
+   "type": "studied_at",
+   "object": "Jesus College, Oxford",
+   "role": null,
+   "place": null,
+   "year_start": 1907,
+   "year_end": 1911,
+   "explicit": true,
+   "evidence": "He then studied Celtic mythology and folklore at Jesus College, Oxford (1907). ... In 1911 Evans-Wentz published his degree thesis as a book, The Fairy-Faith in Celtic Countries.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kazi Dawa-Samdup",
+   "type": "collaborated_with",
+   "object": "Alexandra David-Néel",
+   "role": "translator",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he had already worked as a translator with Alexandra David-Néel, the Belgian-French explorer, travel writer, and Buddhist convert",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kazi Dawa-Samdup",
+   "type": "collaborated_with",
+   "object": "Sir John Woodroffe",
+   "role": "translator",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he had already worked as a translator with Alexandra David-Néel, the Belgian-French explorer, travel writer, and Buddhist convert, and Sir John Woodroffe, noted British Orientalist.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Yeeling Evans-Wentz",
+   "type": "collaborated_with",
+   "object": "Kazi Dawa-Samdup",
+   "role": "compiler and editor with translator",
+   "place": "Gangtok, Sikkim",
+   "year_start": 1919,
+   "year_end": 1919,
+   "explicit": true,
+   "evidence": "For the next two months, Evans-Wentz spent morning hours before the opening of the school with Samdup working on the text. During this period, they worked out the origins of what was to become The Tibetan Book of the Dead.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Yeeling Evans-Wentz",
+   "type": "student_of",
+   "object": "Kazi Dawa-Samdup",
+   "role": "disciple",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He became Dawa-Samdup's \"disciple\" (E-W's term), wore robes, and ate a simple vegetarian diet.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kazi Dawa-Samdup",
+   "type": "position_at",
+   "object": "University of Calcutta",
+   "role": "lecturer",
+   "place": "Calcutta",
+   "year_start": 1919,
+   "year_end": 1922,
+   "explicit": true,
+   "evidence": "Samdup meanwhile was appointed as a lecturer at the University of Calcutta, in the same year, and died in Calcutta three years later",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Walter Evans-Wentz",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q456451.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Walter Evans-Wentz",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

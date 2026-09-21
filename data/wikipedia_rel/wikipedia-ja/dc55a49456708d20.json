@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "アウグスト・コンラーディ",
+   "birth_year": 1864,
+   "death_year": 1925,
+   "nationality": "ドイツ",
+   "field": "言語学、中国学"
+  },
+  {
+   "name": "ブルーノ・シンドラー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "林語堂",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "アウグスト・コンラーディ",
+   "type": "studied_at",
+   "object": "ヴュルツブルク大学",
+   "role": "博士",
+   "place": null,
+   "year_start": null,
+   "year_end": 1886,
+   "explicit": true,
+   "evidence": "1886年にヴュルツブルク大学の博士の学位を取得した後",
+   "quote_ok": true
+  },
+  {
+   "subject": "アウグスト・コンラーディ",
+   "type": "position_at",
+   "object": "ライプツィヒ大学",
+   "role": "私講師",
+   "place": null,
+   "year_start": 1891,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1891年以降ライプツィヒ大学でインド・東アジアの言語の私講師として働き",
+   "quote_ok": true
+  },
+  {
+   "subject": "アウグスト・コンラーディ",
+   "type": "position_at",
+   "object": "ライプツィヒ大学",
+   "role": "準教授",
+   "place": null,
+   "year_start": 1897,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1897年に準教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "アウグスト・コンラーディ",
+   "type": "position_at",
+   "object": "ライプツィヒ大学",
+   "role": "教授",
+   "place": null,
+   "year_start": 1920,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1920年に教授に昇進した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ブルーノ・シンドラー",
+   "type": "student_of",
+   "object": "アウグスト・コンラーディ",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "教え子のブルーノ・シンドラーが1926年の『Asia Major』誌にその一覧を載せている。",
+   "quote_ok": true
+  },
+  {
+   "subject": "林語堂",
+   "type": "student_of",
+   "object": "アウグスト・コンラーディ",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "林語堂が博士論文を書いたときの指導教官はコンラーディだった。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): アウグスト・コンラーディ (中国学者)",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q70421.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): アウグスト・コンラーディ (中国学者)",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

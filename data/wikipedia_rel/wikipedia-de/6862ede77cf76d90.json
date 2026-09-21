@@ -1,0 +1,105 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Wassili Pawlowitsch Wassiljew",
+   "birth_year": 1818,
+   "death_year": 1900,
+   "nationality": "russisch",
+   "field": "Sinologe und Buddhologe"
+  },
+  {
+   "name": "Wilhelm Grube",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Wassili Pawlowitsch Wassiljew",
+   "type": "studied_at",
+   "object": "Universität Kasan",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1837,
+   "explicit": true,
+   "evidence": "1837 schloss Wassiljew sein Studium an der Abteilung für orientalische Sprachen an der historisch-philologischen Fakultät der Universität Kasan ab.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wassili Pawlowitsch Wassiljew",
+   "type": "position_at",
+   "object": "Universität von Kasan",
+   "role": "Professor",
+   "place": null,
+   "year_start": 1851,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1851 wurde er Professor an der Universität von Kasan.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wassili Pawlowitsch Wassiljew",
+   "type": "position_at",
+   "object": "Universität von Sankt Petersburg",
+   "role": "Professor",
+   "place": null,
+   "year_start": 1855,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1855 wurde er Professor an der Universität von Sankt Petersburg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wassili Pawlowitsch Wassiljew",
+   "type": "position_at",
+   "object": "Petersburger Akademie der Wissenschaften",
+   "role": "korrespondierendes Mitglied",
+   "place": null,
+   "year_start": 1866,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1866 wurde Wassiljew korrespondierendes Mitglied und 1886 Vollmitglied der Petersburger Akademie der Wissenschaften.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wassili Pawlowitsch Wassiljew",
+   "type": "position_at",
+   "object": "Petersburger Akademie der Wissenschaften",
+   "role": "Vollmitglied",
+   "place": null,
+   "year_start": 1886,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1866 wurde Wassiljew korrespondierendes Mitglied und 1886 Vollmitglied der Petersburger Akademie der Wissenschaften.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Grube",
+   "type": "student_of",
+   "object": "Wassili Pawlowitsch Wassiljew",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Wilhelm Grube war einer seiner Schüler.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Wassili Pawlowitsch Wassiljew",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q721077.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Wassili Pawlowitsch Wassiljew",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

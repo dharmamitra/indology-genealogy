@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Walter Elliot",
+   "birth_year": 1803,
+   "death_year": 1887,
+   "nationality": "British",
+   "field": "orientalist, linguist, archaeologist, naturalist and ethnologist"
+  },
+  {
+   "name": "Ferdinand Kittel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "oriental researchers"
+  },
+  {
+   "name": "Robert Caldwell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "oriental researchers"
+  },
+  {
+   "name": "George Pope",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Walter Elliot",
+   "type": "studied_at",
+   "object": "East India Company College at Haileybury",
+   "role": null,
+   "place": "Haileybury",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he studied at the East India Company College at Haileybury",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Elliot",
+   "type": "studied_at",
+   "object": "college at Fort St George",
+   "role": null,
+   "place": "Madras",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Elliot's training continued at the college at Fort St George in Madras, where he excelled in languages",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ferdinand Kittel",
+   "type": "influenced_by",
+   "object": "Walter Elliot",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He encouraged many other oriental researchers including Ferdinand Kittel and Robert Caldwell.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Caldwell",
+   "type": "influenced_by",
+   "object": "Walter Elliot",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He encouraged many other oriental researchers including Ferdinand Kittel and Robert Caldwell.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Elliot",
+   "type": "collaborated_with",
+   "object": "George Pope",
+   "role": null,
+   "place": null,
+   "year_start": 1887,
+   "year_end": 1887,
+   "explicit": true,
+   "evidence": "On 1 March 1887 he dictated and signed a letter to George Pope, expressing his enthusiasm for a new edition of Pope's translation of the Tamil Kural.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Walter Elliot (naturalist)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q3565753.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Walter Elliot (naturalist)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

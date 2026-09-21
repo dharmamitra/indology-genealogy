@@ -1,0 +1,90 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Franz Felix Adalbert Kuhn",
+   "birth_year": 1812,
+   "death_year": 1881,
+   "nationality": "German",
+   "field": "philology, folklore"
+  },
+  {
+   "name": "Jakob Grimm",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ernst Kuhn",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "C. F. H. Bruchmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "J. Schmidt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Franz Felix Adalbert Kuhn",
+   "type": "position_at",
+   "object": "Köllnisches Gymnasium",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1841,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1841, he was connected with the Köllnisches Gymnasium at Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Felix Adalbert Kuhn",
+   "type": "position_at",
+   "object": "Köllnisches Gymnasium",
+   "role": "director",
+   "place": "Berlin",
+   "year_start": 1870,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "of which he was appointed director in 1870.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Felix Adalbert Kuhn",
+   "type": "influenced_by",
+   "object": "Jakob Grimm",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Inspired by Jakob Grimm's Deutsche Mythologie, he first devoted himself to German stories and legends",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Franz Felix Adalbert Kuhn",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q76174.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Franz Felix Adalbert Kuhn",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

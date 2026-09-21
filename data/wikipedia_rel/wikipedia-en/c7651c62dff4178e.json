@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Karl Adolph Verner",
+   "birth_year": 1846,
+   "death_year": 1896,
+   "nationality": "Danish",
+   "field": "linguist"
+  },
+  {
+   "name": "Rasmus Christian Rask",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "August Leskien",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Karl Adolph Verner",
+   "type": "influenced_by",
+   "object": "Rasmus Christian Rask",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Verner's interest in languages was stimulated by reading about the work of Rasmus Christian Rask.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Adolph Verner",
+   "type": "student_of",
+   "object": "August Leskien",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was taught by August Leskien, a pioneer of research into principles of sound changes",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Adolph Verner",
+   "type": "position_at",
+   "object": "Halle",
+   "role": "librarian",
+   "place": "Halle",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He long refused offers of professorship, contenting himself to be a librarian in Halle.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Karl Verner",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q961355.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Karl Verner",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

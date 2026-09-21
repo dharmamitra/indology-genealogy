@@ -1,0 +1,136 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Chang Shuhong",
+   "birth_year": 1904,
+   "death_year": 1994,
+   "nationality": "chinesisch",
+   "field": "Maler und Kunsthistoriker"
+  },
+  {
+   "name": "Paul Pelliot",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Li Chengxian",
+   "birth_year": null,
+   "death_year": 2003,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Chang Shuhong",
+   "type": "studied_at",
+   "object": "Industrieschule der Provinz Zhejiang",
+   "role": "Diplom in Färben und Weben",
+   "place": "Hangzhou",
+   "year_start": null,
+   "year_end": 1923,
+   "explicit": true,
+   "evidence": "1923 erhielt er sein Diplom in Färben und Weben von der Industrieschule der Provinz Zhejiang in Hangzhou",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chang Shuhong",
+   "type": "studied_at",
+   "object": "École municipale de tissage de Lyon",
+   "role": null,
+   "place": "Lyon",
+   "year_start": 1928,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1928 ging er auf eigene Kosten nach Lyon... Er studierte an der École municipale de tissage de Lyon",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chang Shuhong",
+   "type": "studied_at",
+   "object": "École des beaux-arts de Lyon",
+   "role": null,
+   "place": "Lyon",
+   "year_start": 1928,
+   "year_end": 1932,
+   "explicit": true,
+   "evidence": "Er studierte an der École municipale de tissage de Lyon und an der École des beaux-arts de Lyon. Nach drei Jahren konzentrierte er sich ausschließlich auf das Studium der Ölmalerei. ... ging 1932 nach Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chang Shuhong",
+   "type": "studied_at",
+   "object": "École des Beaux Arts",
+   "role": null,
+   "place": "Paris",
+   "year_start": 1932,
+   "year_end": 1936,
+   "explicit": true,
+   "evidence": "ging 1932 nach Paris an die École des Beaux Arts, wo er zahlreiche Porträts und Stillleben malte. ... 1936 kehrte er nach China zurück",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chang Shuhong",
+   "type": "position_at",
+   "object": "National Art School",
+   "role": "Lehrer",
+   "place": null,
+   "year_start": 1937,
+   "year_end": 1937,
+   "explicit": true,
+   "evidence": "unter anderem arbeitete er 1937 als Lehrer an der National Art School",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chang Shuhong",
+   "type": "influenced_by",
+   "object": "Paul Pelliot",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In Paris hatte er Paul Pelliots Les Grottos de Touen-houang gelesen, und sich entschlossen, auf eine Karriere als Maler zu verzichten, um sich der Rettung des kulturellen Erbes von Dunhuang zu widmen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chang Shuhong",
+   "type": "position_at",
+   "object": "Dunhuang Relics Research Institute",
+   "role": "Leiter",
+   "place": "Dunhuang",
+   "year_start": 1942,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1942 übernahm er die Leitung des Dunhuang Relics Research Institute.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chang Shuhong",
+   "type": "collaborated_with",
+   "object": "Li Chengxian",
+   "role": null,
+   "place": "Dunhuang",
+   "year_start": null,
+   "year_end": 1994,
+   "explicit": true,
+   "evidence": "Chang heiratete später Li Chengxian, die ihn bis zum Ende seines Lebens bei der Arbeit in Dunhuang begleitete.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Chang Shuhong",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q5071667.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Chang Shuhong",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

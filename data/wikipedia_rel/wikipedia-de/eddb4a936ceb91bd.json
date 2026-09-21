@@ -1,0 +1,150 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Franz Simon Ferdinand Benary",
+   "birth_year": 1805,
+   "death_year": 1880,
+   "nationality": "German",
+   "field": "Orientalist und Exeget"
+  },
+  {
+   "name": "Ernst Benary",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Agathon Benary",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Heinrich Gustav Hotho",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Wilhelm Vatke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Franz Simon Ferdinand Benary",
+   "type": "other",
+   "object": "Ernst Benary",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ferdinand Benary war der Bruder von Ernst und Agathon Benary.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Simon Ferdinand Benary",
+   "type": "other",
+   "object": "Agathon Benary",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ferdinand Benary war der Bruder von Ernst und Agathon Benary.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Simon Ferdinand Benary",
+   "type": "studied_at",
+   "object": "Bonn",
+   "role": null,
+   "place": "Bonn",
+   "year_start": 1824,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er studierte seit 1824 in Bonn und Halle, seit 1827 in Berlin Theologie und morgenländische Sprachen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Simon Ferdinand Benary",
+   "type": "studied_at",
+   "object": "Halle",
+   "role": null,
+   "place": "Halle",
+   "year_start": 1824,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er studierte seit 1824 in Bonn und Halle, seit 1827 in Berlin Theologie und morgenländische Sprachen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Simon Ferdinand Benary",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": "habilitation",
+   "place": "Berlin",
+   "year_start": 1827,
+   "year_end": 1829,
+   "explicit": true,
+   "evidence": "seit 1827 in Berlin Theologie und morgenländische Sprachen und habilitierte sich 1829 in Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Simon Ferdinand Benary",
+   "type": "position_at",
+   "object": "Berlin",
+   "role": "außerordentlicher Professor für alttestamentliche Exegese",
+   "place": "Berlin",
+   "year_start": 1831,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In Berlin wurde er 1831 zum außerordentlichen Professor für alttestamentliche Exegese ernannt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Simon Ferdinand Benary",
+   "type": "collaborated_with",
+   "object": "Heinrich Gustav Hotho",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in Gemeinschaft mit den Professoren Heinrich Gustav Hotho und Wilhelm Vatke beabsichtigten Herausgabe einer kritischen Zeitschrift",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Simon Ferdinand Benary",
+   "type": "collaborated_with",
+   "object": "Wilhelm Vatke",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in Gemeinschaft mit den Professoren Heinrich Gustav Hotho und Wilhelm Vatke beabsichtigten Herausgabe einer kritischen Zeitschrift",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Franz Ferdinand Benary",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q108830.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Franz Ferdinand Benary",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

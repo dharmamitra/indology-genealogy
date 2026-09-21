@@ -1,0 +1,143 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Carmen Blacker",
+   "birth_year": 1924,
+   "death_year": 2009,
+   "nationality": "British",
+   "field": "Japanologist"
+  },
+  {
+   "name": "Arthur Waley",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "sinologist"
+  },
+  {
+   "name": "Francis S. G. Piggott",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Michael Loewe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Chinese scholar"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Carmen Blacker",
+   "type": "position_at",
+   "object": "University of Cambridge",
+   "role": "lecturer in Japanese",
+   "place": "Cambridge",
+   "year_start": 1955,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "She was a lecturer in Japanese at the University of Cambridge.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carmen Blacker",
+   "type": "studied_at",
+   "object": "School of Oriental and African Studies (SOAS)",
+   "role": null,
+   "place": "London",
+   "year_start": 1942,
+   "year_end": 1947,
+   "explicit": true,
+   "evidence": "In 1942 she began attending the School of Oriental and African Studies (SOAS) in London",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carmen Blacker",
+   "type": "influenced_by",
+   "object": "Arthur Waley",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "She met the Orientalist and sinologist Arthur Waley at Bletchley Park, and he inspired her to study Chinese in her spare time.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carmen Blacker",
+   "type": "student_of",
+   "object": "Francis S. G. Piggott",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1944,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1944 she arranged to receive lessons in Japanese from Major General Francis S. G. Piggott.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carmen Blacker",
+   "type": "studied_at",
+   "object": "Somerville College, Oxford",
+   "role": null,
+   "place": "Oxford",
+   "year_start": 1947,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After graduating from SOAS in 1947 she began her studies at Somerville College, Oxford.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carmen Blacker",
+   "type": "position_at",
+   "object": "University of Cambridge",
+   "role": "assistant lecturer",
+   "place": "Cambridge",
+   "year_start": 1955,
+   "year_end": 1958,
+   "explicit": true,
+   "evidence": "In 1955 she was appointed an assistant lecturer at the University of Cambridge",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carmen Blacker",
+   "type": "position_at",
+   "object": "University of Cambridge",
+   "role": "University Lecturer in Japanese Studies",
+   "place": "Cambridge",
+   "year_start": 1958,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1958 she became University Lecturer in Japanese Studies.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carmen Blacker",
+   "type": "other",
+   "object": "Michael Loewe",
+   "role": "spouse",
+   "place": null,
+   "year_start": 2002,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "She married her longtime partner, the Chinese scholar Michael Loewe, in 2002.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Carmen Blacker",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q11295738.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Carmen Blacker",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

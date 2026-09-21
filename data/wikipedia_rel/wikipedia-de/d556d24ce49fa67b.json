@@ -1,0 +1,93 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Susan Naquin",
+   "birth_year": 1944,
+   "death_year": null,
+   "nationality": "US-amerikanische",
+   "field": "Historikerin"
+  },
+  {
+   "name": "Evelyn S. Rawski",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Susan Naquin",
+   "type": "studied_at",
+   "object": "Stanford University",
+   "role": "BA",
+   "place": null,
+   "year_start": null,
+   "year_end": 1966,
+   "explicit": true,
+   "evidence": "Sie erwarb 1966 den BA an der Stanford University in Geschichte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Susan Naquin",
+   "type": "studied_at",
+   "object": "Yale University",
+   "role": "MA",
+   "place": null,
+   "year_start": null,
+   "year_end": 1968,
+   "explicit": true,
+   "evidence": "1968 den MA an der Yale University in Ostasienkunde",
+   "quote_ok": true
+  },
+  {
+   "subject": "Susan Naquin",
+   "type": "studied_at",
+   "object": "Yale University",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1974,
+   "explicit": true,
+   "evidence": "1974 den Ph.D. an der Yale University in Geschichte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Susan Naquin",
+   "type": "position_at",
+   "object": "Princeton University",
+   "role": "Professorin",
+   "place": null,
+   "year_start": 1993,
+   "year_end": 2013,
+   "explicit": true,
+   "evidence": "Sie lehrte von 1993 bis 2013 als Professorin am Institut für Geschichte und Institut für Ostasienwissenschaften der Princeton University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Susan Naquin",
+   "type": "collaborated_with",
+   "object": "Evelyn S. Rawski",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1987,
+   "explicit": true,
+   "evidence": "mit Evelyn S. Rawski: Chinese society in the eighteenth century. New Haven 1987",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Susan Naquin",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q55619878.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Susan Naquin",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Kyozan Joshu Sasaki",
+   "birth_year": 1907,
+   "death_year": 2014,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Joten Soko Miura",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Eshin Godfrey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Kyozan Joshu Sasaki",
+   "type": "student_of",
+   "object": "Joten Soko Miura",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Joshu Sasaki became an ordained monk at age thirteen under his teacher, Joten Soko Miura.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kyozan Joshu Sasaki",
+   "type": "position_at",
+   "object": "Yotoku-in",
+   "role": "abbot",
+   "place": null,
+   "year_start": 1947,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Having been awarded the title of roshi in 1947, Kyozan Joshu Sasaki took the position of an abbot at Yotoku-in.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kyozan Joshu Sasaki",
+   "type": "position_at",
+   "object": "Shojuan",
+   "role": "abbot",
+   "place": null,
+   "year_start": 1953,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1953 he was appointed abbot of Shojuan.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kyozan Joshu Sasaki",
+   "type": "position_at",
+   "object": "Mount Baldy Zen Center",
+   "role": "head abbot",
+   "place": "Mount Baldy in California",
+   "year_start": null,
+   "year_end": 2012,
+   "explicit": true,
+   "evidence": "On November 10, at a dedication ceremony for the Zendo remodel, Joshu Roshi officially resigned as abbot of the Mount Baldy Zen Center for health reasons.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eshin Godfrey",
+   "type": "student_of",
+   "object": "Kyozan Joshu Sasaki",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Eshin Godfrey, Abbot of the Zen Centre of Vancouver and a student of Sasaki-roshi",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Kyozan Joshu Sasaki",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q717973.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Kyozan Joshu Sasaki",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

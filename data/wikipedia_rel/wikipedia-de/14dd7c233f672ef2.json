@@ -1,0 +1,174 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Johannes Schmidt",
+   "birth_year": 1843,
+   "death_year": 1901,
+   "nationality": "German",
+   "field": "Indogermanistik"
+  },
+  {
+   "name": "Friedrich Ritschl",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Klassische Philologie"
+  },
+  {
+   "name": "Otto Jahn",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Klassische Philologie"
+  },
+  {
+   "name": "August Schleicher",
+   "birth_year": null,
+   "death_year": 1868,
+   "nationality": null,
+   "field": "Indogermanistik"
+  },
+  {
+   "name": "Ulrich von Wilamowitz-Moellendorff",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johannes Schmidt",
+   "type": "studied_at",
+   "object": "Universität Bonn",
+   "role": null,
+   "place": "Bonn",
+   "year_start": 1861,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "begann der damals noch Siebzehnjährige zum Sommersemester 1861 zunächst mit dem Studium der Klassischen Philologie an der Universität Bonn bei Friedrich Ritschl und Otto Jahn.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Schmidt",
+   "type": "student_of",
+   "object": "Friedrich Ritschl",
+   "role": "teacher",
+   "place": "Bonn",
+   "year_start": 1861,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studium der Klassischen Philologie an der Universität Bonn bei Friedrich Ritschl und Otto Jahn.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Schmidt",
+   "type": "student_of",
+   "object": "Otto Jahn",
+   "role": "teacher",
+   "place": "Bonn",
+   "year_start": 1861,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studium der Klassischen Philologie an der Universität Bonn bei Friedrich Ritschl und Otto Jahn.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Schmidt",
+   "type": "student_of",
+   "object": "August Schleicher",
+   "role": "doctoral supervisor",
+   "place": "Jena",
+   "year_start": 1862,
+   "year_end": 1865,
+   "explicit": true,
+   "evidence": "Zum Wintersemester 1862/63 wechselte er nach Jena, wo der damals führende Indogermanist August Schleicher lehrte, bei dem Schmidt 1865 dann auch promovierte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Schmidt",
+   "type": "studied_at",
+   "object": "Universität Bonn",
+   "role": "Habilitation",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": 1868,
+   "explicit": true,
+   "evidence": "Dort habilitierte er sich am 29. Juni 1868 für vergleichende Grammatik der indogermanischen Sprachen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Schmidt",
+   "type": "position_at",
+   "object": "Universität Bonn",
+   "role": "Privatdozent",
+   "place": "Bonn",
+   "year_start": 1868,
+   "year_end": 1873,
+   "explicit": true,
+   "evidence": "und lehrte zunächst als Privatdozent, ab dem Sommersemester 1873 als außerordentlicher Professor.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Schmidt",
+   "type": "position_at",
+   "object": "Universität Bonn",
+   "role": "außerordentlicher Professor",
+   "place": "Bonn",
+   "year_start": 1873,
+   "year_end": 1873,
+   "explicit": true,
+   "evidence": "ab dem Sommersemester 1873 als außerordentlicher Professor.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ulrich von Wilamowitz-Moellendorff",
+   "type": "student_of",
+   "object": "Johannes Schmidt",
+   "role": "teacher",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zu seinen ersten Schülern gehörte Ulrich von Wilamowitz-Moellendorff",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Schmidt",
+   "type": "position_at",
+   "object": "Karl-Franzens-Universität Graz",
+   "role": "Ordinariat für vergleichende Sprachwissenschaften und Sanskrit",
+   "place": "Graz",
+   "year_start": 1873,
+   "year_end": 1876,
+   "explicit": true,
+   "evidence": "Kurz nach seiner Heirat mit Luise Schwabe erhielt er 1873 den Ruf auf ein Ordinariat für vergleichende Sprachwissenschaften und Sanskrit an der Karl-Franzens-Universität Graz. Drei Jahre später wechselte er",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Schmidt",
+   "type": "position_at",
+   "object": "Humboldt-Universität zu Berlin",
+   "role": "Professur",
+   "place": "Berlin",
+   "year_start": 1876,
+   "year_end": 1901,
+   "explicit": true,
+   "evidence": "Drei Jahre später wechselte er nach Berlin, übernahm eine Professur an der heutigen Humboldt-Universität zu Berlin... Er war bis zuletzt als Hochschullehrer in Berlin tätig",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Johannes Schmidt (Sprachwissenschaftler)",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q65323.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Johannes Schmidt (Sprachwissenschaftler)",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

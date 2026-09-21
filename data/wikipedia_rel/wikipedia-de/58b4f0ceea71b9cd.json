@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Satya Narayan Goenka",
+   "birth_year": 1924,
+   "death_year": 2013,
+   "nationality": "indisch",
+   "field": null
+  },
+  {
+   "name": "Sayagyi U Ba Khin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ulrich Ott",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Satya Narayan Goenka",
+   "type": "student_of",
+   "object": "Sayagyi U Ba Khin",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In der Folge studierte Goenka vierzehn Jahre lang unter U Ba Khin die Vipassana-Meditation.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Satya Narayan Goenka",
+   "type": "founded",
+   "object": "Dhammagiri",
+   "role": null,
+   "place": "nördlich von Mumbai (Bombay)",
+   "year_start": 1976,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Als erstes Zentrum für diese Technik wurde 1976 Dhammagiri nördlich von Mumbai (Bombay) gegründet.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Satya Narayan Goenka",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q539048.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Satya Narayan Goenka",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

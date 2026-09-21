@@ -1,0 +1,167 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sten Konow",
+   "birth_year": 1867,
+   "death_year": 1948,
+   "nationality": "Norwegian",
+   "field": "Indology"
+  },
+  {
+   "name": "Richard Pischel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indian philology"
+  },
+  {
+   "name": "George Grierson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Georg Morgenstierne",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "linguist"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sten Konow",
+   "type": "position_at",
+   "object": "Christiania University, Oslo",
+   "role": "professor of Indian philology",
+   "place": "Oslo",
+   "year_start": 1910,
+   "year_end": 1914,
+   "explicit": true,
+   "evidence": "He was a professor of Indian philology at the Christiania University, Oslo, from 1910, until moving to Hamburg University in 1914",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sten Konow",
+   "type": "position_at",
+   "object": "Hamburg University",
+   "role": "professor of Indian history and culture",
+   "place": "Hamburg",
+   "year_start": 1914,
+   "year_end": 1919,
+   "explicit": true,
+   "evidence": "moving to Hamburg University in 1914, where he was a professor of Indian history and culture. He returned to Oslo as a professor of Indian languages and history in 1919.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sten Konow",
+   "type": "position_at",
+   "object": "Oslo",
+   "role": "professor of Indian languages and history",
+   "place": "Oslo",
+   "year_start": 1919,
+   "year_end": 1937,
+   "explicit": true,
+   "evidence": "He returned to Oslo as a professor of Indian languages and history in 1919.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sten Konow",
+   "type": "student_of",
+   "object": "Richard Pischel",
+   "role": "doctoral supervisor",
+   "place": "Halle",
+   "year_start": null,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "He returned to studies in Indian philology at the University of Halle under Richard Pischel and received a doctorate in 1893",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sten Konow",
+   "type": "studied_at",
+   "object": "University of Halle",
+   "role": "doctorate",
+   "place": "Halle",
+   "year_start": null,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "He returned to studies in Indian philology at the University of Halle under Richard Pischel and received a doctorate in 1893",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sten Konow",
+   "type": "position_at",
+   "object": "Kristiania",
+   "role": "research fellow",
+   "place": "Kristiania",
+   "year_start": 1896,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He worked in Berlin from 1894 to 1896 and returned to Kristiania and worked as a research fellow.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sten Konow",
+   "type": "collaborated_with",
+   "object": "George Grierson",
+   "role": null,
+   "place": null,
+   "year_start": 1900,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1900, he was hired to work in the Linguistic Survey of India under George Grierson.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Morgenstierne",
+   "type": "student_of",
+   "object": "Sten Konow",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "married Konow's student, the linguist Georg Morgenstierne.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sten Konow",
+   "type": "collaborated_with",
+   "object": "Georg Morgenstierne",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Along with Morgenstierne, he established that the \"kaffir\" languages of northern Afghanistan belonged to the Indo-Iranian language tree.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sten Konow",
+   "type": "founded",
+   "object": "Acta Orientalia",
+   "role": "founding editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Konow was a founding editor of the journal Acta Orientalia.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Sten Konow",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q477514.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Sten Konow",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

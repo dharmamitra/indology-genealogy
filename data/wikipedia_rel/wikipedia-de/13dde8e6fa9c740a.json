@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John Crawfurd",
+   "birth_year": 1783,
+   "death_year": 1868,
+   "nationality": "britischer",
+   "field": "Orientalist und Ethnologe"
+  },
+  {
+   "name": "Stamford Raffles",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Crawfurd",
+   "type": "studied_at",
+   "object": "Universität Edinburgh",
+   "role": "Medizin",
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Crawfurd studierte in Universität Edinburgh Medizin",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Crawfurd",
+   "type": "position_at",
+   "object": "East India Company",
+   "role": "Arzt",
+   "place": "Nordwestprovinzen Indiens",
+   "year_start": 1803,
+   "year_end": 1808,
+   "explicit": true,
+   "evidence": "trat 1803 in den Dienst der East India Company. Für diese arbeitete er von 1803 bis 1808 als Arzt in den Nordwestprovinzen Indiens.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Crawfurd",
+   "type": "succeeded",
+   "object": "Stamford Raffles",
+   "role": "Statthalter von Singapur",
+   "place": "Singapur",
+   "year_start": 1823,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Als Nachfolger Stamford Raffles' machte man ihn 1823 zum Statthalter von Singapur",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): John Crawfurd",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1352013.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): John Crawfurd",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

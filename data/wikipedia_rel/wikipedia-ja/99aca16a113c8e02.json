@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "周祖謨",
+   "birth_year": 1914,
+   "death_year": 1995,
+   "nationality": "中国",
+   "field": "言語学"
+  },
+  {
+   "name": "河野六郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "羅常培",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "周祖謨",
+   "type": "studied_at",
+   "object": "北京大学",
+   "role": null,
+   "place": null,
+   "year_start": 1932,
+   "year_end": 1936,
+   "explicit": true,
+   "evidence": "1932年に北京大学に入学し、1936年に卒業した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "周祖謨",
+   "type": "position_at",
+   "object": "中央研究院歴史語言研究所",
+   "role": null,
+   "place": "南京",
+   "year_start": 1936,
+   "year_end": 1937,
+   "explicit": true,
+   "evidence": "卒業後は南京の中央研究院歴史語言研究所に就職したが、1937年に家族に会うため北平に戻っていた際に日中戦争がはじまったため",
+   "quote_ok": true
+  },
+  {
+   "subject": "周祖謨",
+   "type": "position_at",
+   "object": "輔仁大学",
+   "role": null,
+   "place": "北平",
+   "year_start": 1937,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "そのまま北平に留まり輔仁大学で教えた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "周祖謨",
+   "type": "position_at",
+   "object": "北京大学中文系",
+   "role": "副教授",
+   "place": null,
+   "year_start": 1947,
+   "year_end": 1950,
+   "explicit": true,
+   "evidence": "日中戦争終結後の1947年、北京大学中文系の副教授に就任した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "周祖謨",
+   "type": "position_at",
+   "object": "北京大学",
+   "role": "教授",
+   "place": null,
+   "year_start": 1950,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1950年、北京大学教授に昇進。",
+   "quote_ok": true
+  },
+  {
+   "subject": "周祖謨",
+   "type": "collaborated_with",
+   "object": "羅常培",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": 1958,
+   "explicit": true,
+   "evidence": "『漢魏晋南北朝韻部演変研究』（羅常培と共著、科学出版社1958）",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 周祖謨",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q10920902.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 周祖謨",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

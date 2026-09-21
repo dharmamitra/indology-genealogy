@@ -1,0 +1,86 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Friedrich Wilhelm",
+   "birth_year": 1932,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology, Tibetology, History"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Friedrich Wilhelm",
+   "type": "studied_at",
+   "object": "Ludwig-Maximilians-Universität München",
+   "role": "Promotion",
+   "place": "München",
+   "year_start": null,
+   "year_end": 1956,
+   "explicit": true,
+   "evidence": "Wilhelm wurde 1956 an der Ludwig-Maximilians-Universität München promoviert",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Wilhelm",
+   "type": "position_at",
+   "object": "Ludwig-Maximilians-Universität München",
+   "role": "Privatdozent für Indologie und Tibetologie",
+   "place": "München",
+   "year_start": 1963,
+   "year_end": 1969,
+   "explicit": true,
+   "evidence": "war dort seit 1963 Privatdozent für Indologie und Tibetologie.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Wilhelm",
+   "type": "position_at",
+   "object": "Ludwig-Maximilians-Universität München",
+   "role": "Professor",
+   "place": "München",
+   "year_start": 1969,
+   "year_end": 1998,
+   "explicit": true,
+   "evidence": "1969 wurde er dort Professor. 1998 emeritierte er.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Wilhelm",
+   "type": "position_at",
+   "object": "Columbia University",
+   "role": "Gastprofessor",
+   "place": null,
+   "year_start": 1965,
+   "year_end": 1966,
+   "explicit": true,
+   "evidence": "war 1965/66 Gastprofessor an der Columbia University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Wilhelm",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "Gastprofessor",
+   "place": null,
+   "year_start": 1976,
+   "year_end": 1976,
+   "explicit": true,
+   "evidence": "und 1976 am Collège de France.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Friedrich Wilhelm (Indologe)",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q15428616.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Friedrich Wilhelm (Indologe)",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

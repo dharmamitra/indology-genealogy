@@ -1,0 +1,160 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ネイサン・セビン",
+   "birth_year": 1931,
+   "death_year": null,
+   "nationality": "アメリカ合衆国",
+   "field": "科学史"
+  },
+  {
+   "name": "ベンジャミン・エルマン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ジョゼフ・ニーダム",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ネイサン・セビン",
+   "type": "studied_at",
+   "object": "アメリカ陸軍の語学学校",
+   "role": "中国語課程",
+   "place": null,
+   "year_start": 1954,
+   "year_end": 1956,
+   "explicit": true,
+   "evidence": "1954年から1956年まで、アメリカ陸軍の語学学校で18か月間の中国語課程を履修した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ネイサン・セビン",
+   "type": "studied_at",
+   "object": "マサチューセッツ工科大学",
+   "role": "学士",
+   "place": null,
+   "year_start": null,
+   "year_end": 1958,
+   "explicit": true,
+   "evidence": "1958年にマサチューセッツ工科大学の学士の学位を得た。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ネイサン・セビン",
+   "type": "studied_at",
+   "object": "ハーバード大学",
+   "role": "修士（科学史）",
+   "place": null,
+   "year_start": null,
+   "year_end": 1960,
+   "explicit": true,
+   "evidence": "その後ハーバード大学で研究を続け、1960年に科学史の修士、1966年に科学史の博士の学位を得た。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ネイサン・セビン",
+   "type": "studied_at",
+   "object": "ハーバード大学",
+   "role": "博士（科学史）",
+   "place": null,
+   "year_start": null,
+   "year_end": 1966,
+   "explicit": true,
+   "evidence": "その後ハーバード大学で研究を続け、1960年に科学史の修士、1966年に科学史の博士の学位を得た。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ネイサン・セビン",
+   "type": "position_at",
+   "object": "マサチューセッツ工科大学",
+   "role": "人文学助教",
+   "place": null,
+   "year_start": 1966,
+   "year_end": 1968,
+   "explicit": true,
+   "evidence": "1966年からマサチューセッツ工科大学の人文学助教に就任、1968年に准教授、1972年に教授に昇任した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ネイサン・セビン",
+   "type": "position_at",
+   "object": "マサチューセッツ工科大学",
+   "role": "准教授",
+   "place": null,
+   "year_start": 1968,
+   "year_end": 1972,
+   "explicit": true,
+   "evidence": "1968年に准教授、1972年に教授に昇任した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ネイサン・セビン",
+   "type": "position_at",
+   "object": "マサチューセッツ工科大学",
+   "role": "教授",
+   "place": null,
+   "year_start": 1972,
+   "year_end": 1977,
+   "explicit": true,
+   "evidence": "1972年に教授に昇任した。1977年にペンシルベニア大学に移り",
+   "quote_ok": true
+  },
+  {
+   "subject": "ネイサン・セビン",
+   "type": "position_at",
+   "object": "ペンシルベニア大学",
+   "role": "教授（中国文化と科学史）",
+   "place": null,
+   "year_start": 1977,
+   "year_end": 2006,
+   "explicit": true,
+   "evidence": "1977年にペンシルベニア大学に移り、2006年に退官するまで中国文化と科学史の教授をつとめた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ベンジャミン・エルマン",
+   "type": "student_of",
+   "object": "ネイサン・セビン",
+   "role": null,
+   "place": "ペンシルベニア",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ペンシルベニアでの教え子にベンジャミン・エルマンがいる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジョゼフ・ニーダム",
+   "type": "founded",
+   "object": "『中国の科学と文明』シリーズ",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ジョゼフ・ニーダムの創始した『中国の科学と文明』シリーズ",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ネイサン・セビン",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q335192.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ネイサン・セビン",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

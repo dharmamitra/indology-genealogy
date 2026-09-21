@@ -1,0 +1,105 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ルイ＝マチュー・ラングレス",
+   "birth_year": 1763,
+   "death_year": 1824,
+   "nationality": "フランス",
+   "field": "東洋学"
+  },
+  {
+   "name": "ジョゼフ＝マリー・アミオ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ルイ＝マチュー・ラングレス",
+   "type": "studied_at",
+   "object": "コレージュ・ド・フランス",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "コレージュ・ド・フランスでアラビア語とペルシア語を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ルイ＝マチュー・ラングレス",
+   "type": "collaborated_with",
+   "object": "ジョゼフ＝マリー・アミオ",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ジョゼフ＝マリー・アミオの作った満州語辞典をラングレスは編集出版した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ルイ＝マチュー・ラングレス",
+   "type": "position_at",
+   "object": "旧王立図書館",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "フランス革命がはじまると、ラングレスは旧王立図書館の書物の管理をまかされた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ルイ＝マチュー・ラングレス",
+   "type": "founded",
+   "object": "東洋言語特別学校",
+   "role": null,
+   "place": null,
+   "year_start": 1795,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "パリ東洋言語文化大学の前身である東洋言語特別学校を創立したことで、1795年に開校するとその初代所長をつとめ、またペルシア語を教えた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ルイ＝マチュー・ラングレス",
+   "type": "position_at",
+   "object": "東洋言語特別学校",
+   "role": "初代所長",
+   "place": null,
+   "year_start": 1795,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1795年に開校するとその初代所長をつとめ、またペルシア語を教えた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ルイ＝マチュー・ラングレス",
+   "type": "position_at",
+   "object": "碑文アカデミー",
+   "role": "会員",
+   "place": null,
+   "year_start": 1795,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "同年、碑文アカデミーの会員に選ばれた。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ルイ＝マチュー・ラングレス",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q3260738.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ルイ＝マチュー・ラングレス",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ラーム・モーハン・ローイ",
+   "birth_year": 1772,
+   "death_year": 1833,
+   "nationality": "インド",
+   "field": "ヒンドゥー思想家、社会活動家"
+  },
+  {
+   "name": "デヴェンドラナート・タゴール",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "インド",
+   "field": null
+  },
+  {
+   "name": "ラルフ・ワルド・エマーソン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ラーム・モーハン・ローイ",
+   "type": "founded",
+   "object": "ブラフモ・サマージ",
+   "role": null,
+   "place": null,
+   "year_start": 1828,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1828年、宗教教育または自らの宗教的信念の普及のためにブラフモ・サマージ（当初の名称はBrahmo Sabha）を立ち上げた",
+   "quote_ok": true
+  },
+  {
+   "subject": "デヴェンドラナート・タゴール",
+   "type": "succeeded",
+   "object": "ラーム・モーハン・ローイ",
+   "role": null,
+   "place": "ブラフモ・サマージ",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ブラフモ・サマージの活動は、ローイの死後10年たって入会したデヴェンドラナート・タゴール（詩聖ラビンドラナート・タゴールの父）に引き継がれた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ラルフ・ワルド・エマーソン",
+   "type": "influenced_by",
+   "object": "ラーム・モーハン・ローイ",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ラルフ・ワルド・エマーソンの超越主義哲学は、ローイのネオ・ヴェーダーンタの影響を強く受けたといわれる。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ラーム・モーハン・ローイ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q335269.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ラーム・モーハン・ローイ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,188 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "George Santayana",
+   "birth_year": 1863,
+   "death_year": 1952,
+   "nationality": "Spain",
+   "field": "philosophy"
+  },
+  {
+   "name": "William James",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "T. S. Eliot",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Walter Lippmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Harry Austryn Wolfson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gertrude Stein",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Wallace Stevens",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "George Santayana",
+   "type": "studied_at",
+   "object": "Boston Latin School",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er studierte zunächst an der Boston Latin School",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Santayana",
+   "type": "student_of",
+   "object": "William James",
+   "role": "teacher",
+   "place": "Harvard University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "und danach unter William James an der Harvard University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Santayana",
+   "type": "studied_at",
+   "object": "Harvard University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1886,
+   "explicit": true,
+   "evidence": "und danach unter William James an der Harvard University. Nach seinem Abschluss an der Harvard im Jahre 1886",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Santayana",
+   "type": "studied_at",
+   "object": "Harvard University",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 1890,
+   "explicit": true,
+   "evidence": "schrieb dort seine Dissertation über die Philosophie von Rudolf Hermann Lotze, die er 1890, zurück in Harvard, einreichte",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Santayana",
+   "type": "position_at",
+   "object": "Harvard University",
+   "role": "Mitglied der philosophischen Fakultät",
+   "place": null,
+   "year_start": 1890,
+   "year_end": 1912,
+   "explicit": true,
+   "evidence": "und daraufhin Mitglied der philosophischen Fakultät wurde.",
+   "quote_ok": true
+  },
+  {
+   "subject": "T. S. Eliot",
+   "type": "student_of",
+   "object": "George Santayana",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Auch Schüler Santayanas kamen zu Ruhm und Ehre; die bekanntesten sind T. S. Eliot und Walter Lippmann",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Lippmann",
+   "type": "student_of",
+   "object": "George Santayana",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Auch Schüler Santayanas kamen zu Ruhm und Ehre; die bekanntesten sind T. S. Eliot und Walter Lippmann",
+   "quote_ok": true
+  },
+  {
+   "subject": "Harry Austryn Wolfson",
+   "type": "student_of",
+   "object": "George Santayana",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "aber auch Harry Austryn Wolfson, Gertrude Stein und Wallace Stevens zählen dazu.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gertrude Stein",
+   "type": "student_of",
+   "object": "George Santayana",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "aber auch Harry Austryn Wolfson, Gertrude Stein und Wallace Stevens zählen dazu.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wallace Stevens",
+   "type": "student_of",
+   "object": "George Santayana",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "aber auch Harry Austryn Wolfson, Gertrude Stein und Wallace Stevens zählen dazu.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): George Santayana",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q237833.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): George Santayana",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

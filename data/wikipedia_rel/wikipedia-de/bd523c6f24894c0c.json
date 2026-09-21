@@ -1,0 +1,124 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Michael Janda",
+   "birth_year": 1964,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indogermanist"
+  },
+  {
+   "name": "Jochem Schindler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Heiner Eichner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Michael Janda",
+   "type": "student_of",
+   "object": "Jochem Schindler",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zu seinen akademischen Lehrern zählten unter anderem Jochem Schindler und Heiner Eichner",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Janda",
+   "type": "student_of",
+   "object": "Heiner Eichner",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1996,
+   "explicit": true,
+   "evidence": "Zu seinen akademischen Lehrern zählten unter anderem Jochem Schindler und Heiner Eichner, bei dem er 1996 promoviert wurde.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Janda",
+   "type": "studied_at",
+   "object": "Universität Wien",
+   "role": "PhD",
+   "place": "Wien",
+   "year_start": null,
+   "year_end": 1996,
+   "explicit": true,
+   "evidence": "studierte in Regensburg, Würzburg und Wien [...] Heiner Eichner, bei dem er 1996 promoviert wurde.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Janda",
+   "type": "studied_at",
+   "object": "Universität Zürich",
+   "role": "Habilitation",
+   "place": "Zürich",
+   "year_start": null,
+   "year_end": 1999,
+   "explicit": true,
+   "evidence": "Von 1995 bis 2002 war Janda zunächst als Assistent (Habilitation 1999), dann als Assistenzprofessor an der Universität Zürich tätig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Janda",
+   "type": "position_at",
+   "object": "Universität Zürich",
+   "role": "Assistent",
+   "place": "Zürich",
+   "year_start": 1995,
+   "year_end": 1999,
+   "explicit": true,
+   "evidence": "Von 1995 bis 2002 war Janda zunächst als Assistent (Habilitation 1999), dann als Assistenzprofessor an der Universität Zürich tätig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Janda",
+   "type": "position_at",
+   "object": "Universität Zürich",
+   "role": "Assistenzprofessor",
+   "place": "Zürich",
+   "year_start": 1999,
+   "year_end": 2002,
+   "explicit": true,
+   "evidence": "Von 1995 bis 2002 war Janda zunächst als Assistent (Habilitation 1999), dann als Assistenzprofessor an der Universität Zürich tätig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Janda",
+   "type": "position_at",
+   "object": "Westfälische Wilhelms-Universität Münster",
+   "role": "Lehrstuhl für Indogermanische Sprachwissenschaft",
+   "place": "Münster",
+   "year_start": 2002,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "2002 folgte er einem Ruf auf den Lehrstuhl für Indogermanische Sprachwissenschaft an der Westfälischen Wilhelms-Universität Münster.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Michael Janda",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q59349781.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Michael Janda",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

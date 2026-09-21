@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Antonio T. de Nicolas",
+   "birth_year": 1930,
+   "death_year": 2022,
+   "nationality": "American",
+   "field": "philosophy"
+  },
+  {
+   "name": "Christopher Key Chapple",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Antonio T. de Nicolas",
+   "type": "position_at",
+   "object": "State University of New York at Stony Brook",
+   "role": "professor emeritus of philosophy",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was professor emeritus of philosophy at the State University of New York at Stony Brook.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Antonio T. de Nicolas",
+   "type": "studied_at",
+   "object": "Fordham University",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "De Nicolas received his PhD from Fordham University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Antonio T. de Nicolas",
+   "type": "other",
+   "object": "Christopher Key Chapple",
+   "role": "recipient of festschrift edited by",
+   "place": null,
+   "year_start": null,
+   "year_end": 2014,
+   "explicit": true,
+   "evidence": "In 2014, a collection of essays in honor of de Nicolas was published on the initiative of Christopher Key Chapple who edited the collection.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Antonio T. de Nicolás",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q50345095.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Antonio T. de Nicolás",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

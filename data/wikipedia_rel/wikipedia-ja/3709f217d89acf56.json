@@ -1,0 +1,117 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "酒井得元",
+   "birth_year": 1912,
+   "death_year": 1996,
+   "nationality": "日本",
+   "field": "仏教学"
+  },
+  {
+   "name": "沢木興道",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "酒井得元",
+   "type": "studied_at",
+   "object": "駒澤大学仏教学科",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1935,
+   "explicit": true,
+   "evidence": "1935年、駒澤大学仏教学科卒業。",
+   "quote_ok": true
+  },
+  {
+   "subject": "酒井得元",
+   "type": "studied_at",
+   "object": "京都大学文学部哲学科専科",
+   "role": null,
+   "place": null,
+   "year_start": 1936,
+   "year_end": 1939,
+   "explicit": true,
+   "evidence": "1936年、京都紫竹林学堂に入り京都大学文学部哲学科専科に3年間在学。",
+   "quote_ok": true
+  },
+  {
+   "subject": "酒井得元",
+   "type": "student_of",
+   "object": "沢木興道",
+   "role": "師事",
+   "place": null,
+   "year_start": 1941,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1941年、沢木老師の天暁禅苑（栃木県・大中寺。1944年10月解散）に入り、以後沢木老師に師事。",
+   "quote_ok": true
+  },
+  {
+   "subject": "酒井得元",
+   "type": "position_at",
+   "object": "駒澤大学",
+   "role": null,
+   "place": null,
+   "year_start": 1949,
+   "year_end": 1987,
+   "explicit": true,
+   "evidence": "1949年より駒澤大学に奉職。... 1987年 駒澤大学を退職、名誉教授。",
+   "quote_ok": true
+  },
+  {
+   "subject": "酒井得元",
+   "type": "position_at",
+   "object": "駒澤大学",
+   "role": "名誉教授",
+   "place": null,
+   "year_start": 1987,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "駒澤大学名誉教授。... 1987年 駒澤大学を退職、名誉教授。",
+   "quote_ok": true
+  },
+  {
+   "subject": "酒井得元",
+   "type": "collaborated_with",
+   "object": "沢木興道",
+   "role": null,
+   "place": "大乗寺",
+   "year_start": 1957,
+   "year_end": 1962,
+   "explicit": true,
+   "evidence": "1957年、金沢市・大乗寺に宗立僧堂が開かれ、沢木老師と共に雲水を指導（1962年閉単）。",
+   "quote_ok": true
+  },
+  {
+   "subject": "酒井得元",
+   "type": "position_at",
+   "object": "大本山永平寺眼蔵会",
+   "role": "講師",
+   "place": null,
+   "year_start": 1977,
+   "year_end": 1987,
+   "explicit": true,
+   "evidence": "1977年より1987年まで大本山永平寺眼蔵会講師。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 酒井得元",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q51574278.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 酒井得元",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

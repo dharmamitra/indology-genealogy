@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Anthony Kennedy Warder",
+   "birth_year": 1924,
+   "death_year": 2013,
+   "nationality": "British",
+   "field": "Indologist"
+  },
+  {
+   "name": "John Brough",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Narendra K. Wagle",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Fumimaro Watanabe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Anthony Kennedy Warder",
+   "type": "studied_at",
+   "object": "School of Oriental and African Studies",
+   "role": "doctorate",
+   "place": null,
+   "year_start": null,
+   "year_end": 1954,
+   "explicit": true,
+   "evidence": "He studied Sanskrit and Pali at the School of Oriental and African Studies, and received his doctorate from there in 1954.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anthony Kennedy Warder",
+   "type": "student_of",
+   "object": "John Brough",
+   "role": "doctoral supervisor",
+   "place": "School of Oriental and African Studies",
+   "year_start": null,
+   "year_end": 1954,
+   "explicit": true,
+   "evidence": "His thesis, supervised by John Brough, was entitled Pali Metre: A Study of the Evolution of Early Middle Indian Metre Based on the Verse Preserved in the Pali Canon.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anthony Kennedy Warder",
+   "type": "position_at",
+   "object": "University of Edinburgh",
+   "role": null,
+   "place": null,
+   "year_start": 1955,
+   "year_end": 1963,
+   "explicit": true,
+   "evidence": "His began his academic career at the University of Edinburgh in 1955, but in 1963 moved to the University of Toronto.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anthony Kennedy Warder",
+   "type": "position_at",
+   "object": "University of Toronto",
+   "role": "Chairman of the Department of East Asian Studies",
+   "place": null,
+   "year_start": 1963,
+   "year_end": 1990,
+   "explicit": true,
+   "evidence": "but in 1963 moved to the University of Toronto. There, as Chairman of the Department of East Asian Studies, he built up a strong programme in Sanskrit and South Asian studies. He retired in 1990.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Narendra K. Wagle",
+   "type": "collaborated_with",
+   "object": "Fumimaro Watanabe",
+   "role": "co-editors",
+   "place": null,
+   "year_start": 1993,
+   "year_end": 1993,
+   "explicit": true,
+   "evidence": "Studies on Buddhism in Honour of Professor A. K. Warder was published in 1993, edited by Narendra K. Wagle and Fumimaro Watanabe.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): A. K. Warder",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q4125044.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): A. K. Warder",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,124 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Arthur William Ryder",
+   "birth_year": 1877,
+   "death_year": 1938,
+   "nationality": "American",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "J. Robert Oppenheimer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "physics"
+  },
+  {
+   "name": "Anthony Boucher",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Arthur William Ryder",
+   "type": "studied_at",
+   "object": "Harvard University",
+   "role": "A.B.",
+   "place": null,
+   "year_start": 1894,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "graduated in June 1894, to join Harvard University. He got his A.B. degree from Harvard in June 1897.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur William Ryder",
+   "type": "studied_at",
+   "object": "University of Berlin",
+   "role": null,
+   "place": "Germany",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He went to Germany for graduate studies. He studied at the University of Berlin and the University of Leipzig",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur William Ryder",
+   "type": "studied_at",
+   "object": "University of Leipzig",
+   "role": "Doctor of Philosophy",
+   "place": "Germany",
+   "year_start": null,
+   "year_end": 1901,
+   "explicit": true,
+   "evidence": "University of Leipzig, from which he got the degree of Doctor of Philosophy in 1901, with a dissertation on the Rbhus in the Ṛgveda.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur William Ryder",
+   "type": "position_at",
+   "object": "Harvard University",
+   "role": "instructor in Sanskrit",
+   "place": null,
+   "year_start": 1902,
+   "year_end": 1906,
+   "explicit": true,
+   "evidence": "He was an instructor in Sanskrit at Harvard University from 1902 until January 1906",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur William Ryder",
+   "type": "position_at",
+   "object": "University of California, Berkeley",
+   "role": "professor of Sanskrit",
+   "place": "Berkeley",
+   "year_start": 1906,
+   "year_end": 1938,
+   "explicit": true,
+   "evidence": "moved to the University of California at Berkeley, to its linguistics department, as an instructor in Sanskrit and German... became assistant professor in 1908, associate professor in 1919, and professor in 1925.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anthony Boucher",
+   "type": "student_of",
+   "object": "Arthur William Ryder",
+   "role": "student",
+   "place": "Berkeley",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "When Anthony Boucher, who had been a student of his at Berkeley, wrote his novel",
+   "quote_ok": true
+  },
+  {
+   "subject": "J. Robert Oppenheimer",
+   "type": "student_of",
+   "object": "Arthur William Ryder",
+   "role": "student",
+   "place": "Berkeley",
+   "year_start": 1933,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Another of his devoted students was J. Robert Oppenheimer. In 1933, Oppenheimer, then 29, was a young physics professor at Berkeley and studied Sanskrit under Ryder",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Arthur W. Ryder",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q4800569.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Arthur W. Ryder",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

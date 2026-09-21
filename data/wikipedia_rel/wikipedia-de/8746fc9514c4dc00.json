@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "August Wilhelm Schlegel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Friedrich von Schlegel",
+   "birth_year": 1772,
+   "death_year": 1829,
+   "nationality": "German",
+   "field": "Kulturphilosophie, Altphilologie"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "August Wilhelm Schlegel",
+   "type": "position_at",
+   "object": "Universität Bonn",
+   "role": "Inhaber des ersten Lehrstuhls für Indologie in Deutschland",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "August Wilhelm, der Inhaber des ersten Lehrstuhls für Indologie in Deutschland an der Universität Bonn geworden war.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich von Schlegel",
+   "type": "other",
+   "object": "August Wilhelm Schlegel",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Friedrich Schlegel war neben seinem Bruder August Wilhelm Schlegel einer der wichtigsten Vertreter der „Jenaer Frühromantik“.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Friedrich von Schlegel",
+   "type": "founded",
+   "object": "Deutsches Museum",
+   "role": "Zeitschrift",
+   "place": null,
+   "year_start": 1812,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1812 gründete er die Zeitschrift Deutsches Museum",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich von Schlegel",
+   "type": "founded",
+   "object": "Concordia",
+   "role": "Zeitschrift",
+   "place": null,
+   "year_start": 1820,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mit der Concordia begründete Friedrich 1820 eine weitere Zeitschrift.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Friedrich Schlegel",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q157271.txt#1",
+ "meta": {
+  "title": "Wikipedia (de): Friedrich Schlegel",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

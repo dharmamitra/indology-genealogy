@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Elseus Sophus Bugge",
+   "birth_year": 1833,
+   "death_year": 1907,
+   "nationality": "Norwegian",
+   "field": "philologist and linguist"
+  },
+  {
+   "name": "Magnus Olsen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "linguist"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Elseus Sophus Bugge",
+   "type": "position_at",
+   "object": "Christiania University",
+   "role": "professor of comparative philology, comparative Indo-European linguistics and Old Norse",
+   "place": "Christiania",
+   "year_start": 1866,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1866, he became professor of comparative philology, comparative Indo-European linguistics and Old Norse at Christiania University now the University of Oslo.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Magnus Olsen",
+   "type": "succeeded",
+   "object": "Elseus Sophus Bugge",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor and linguist Magnus Olsen, who was Bugge's assistant and successor",
+   "quote_ok": true
+  },
+  {
+   "subject": "Magnus Olsen",
+   "type": "collaborated_with",
+   "object": "Elseus Sophus Bugge",
+   "role": "assistant",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor and linguist Magnus Olsen, who was Bugge's assistant and successor, read and described new discoveries of inscriptions.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Sophus Bugge",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1369073.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Sophus Bugge",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

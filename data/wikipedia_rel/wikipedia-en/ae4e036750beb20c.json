@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sarat Chandra Das",
+   "birth_year": 1849,
+   "death_year": 1917,
+   "nationality": "Indian",
+   "field": "Tibetan language and culture"
+  },
+  {
+   "name": "Satish Chandra Vidyabhusan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sarat Chandra Das",
+   "type": "studied_at",
+   "object": "Presidency College",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sarat Chandra Das attended Presidency College, as a student of the University of Calcutta.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sarat Chandra Das",
+   "type": "studied_at",
+   "object": "University of Calcutta",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sarat Chandra Das attended Presidency College, as a student of the University of Calcutta.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sarat Chandra Das",
+   "type": "position_at",
+   "object": "Bhutia Boarding School",
+   "role": "headmaster",
+   "place": "Darjeeling",
+   "year_start": 1874,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1874 he was appointed headmaster of the Bhutia Boarding School at Darjeeling.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sarat Chandra Das",
+   "type": "collaborated_with",
+   "object": "Satish Chandra Vidyabhusan",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Along with Satish Chandra Vidyabhusan, he prepared Tibetan-English dictionary.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Sarat Chandra Das",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q2471848.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Sarat Chandra Das",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "モーリス・ブルームフィールド",
+   "birth_year": 1855,
+   "death_year": 1928,
+   "nationality": "オーストリア領シレジア",
+   "field": "イラン語・サンスクリット語"
+  },
+  {
+   "name": "レナード・ブルームフィールド",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "モーリス・ブルームフィールド",
+   "type": "studied_at",
+   "object": "ファーマン大学 Furman University",
+   "role": null,
+   "place": "サウス・カロライナ州グリーンヴィル",
+   "year_start": null,
+   "year_end": 1877,
+   "explicit": true,
+   "evidence": "1867年アメリカに移住し、10年後サウス・カロライナ州グリーンヴィルのファーマン大学 Furman University を卒業。",
+   "quote_ok": true
+  },
+  {
+   "subject": "モーリス・ブルームフィールド",
+   "type": "position_at",
+   "object": "ジョンズ・ホプキンス大学",
+   "role": "教授",
+   "place": null,
+   "year_start": 1881,
+   "year_end": 1926,
+   "explicit": true,
+   "evidence": "1881年から1926年までジョンズ・ホプキンス大学でサンスクリット語、印欧比較言語学を教授する。",
+   "quote_ok": true
+  },
+  {
+   "subject": "レナード・ブルームフィールド",
+   "type": "other",
+   "object": "モーリス・ブルームフィールド",
+   "role": "nephew",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "家族・親族\n姉：ファニー・ブルームフィールド・ツァイスラー(ピアニスト)\n甥：レナード・ブルームフィールド",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): モーリス・ブルームフィールド",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q114496.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): モーリス・ブルームフィールド",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

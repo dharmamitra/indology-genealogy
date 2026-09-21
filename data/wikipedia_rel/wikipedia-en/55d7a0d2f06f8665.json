@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Trulshik Rinpoche Ngawang Chökyi Lodrö",
+   "birth_year": 1923,
+   "death_year": 2011,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "14th Dalai Lama",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sogyal Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Taklung Tsetrul Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "14th Dalai Lama",
+   "type": "student_of",
+   "object": "Trulshik Rinpoche Ngawang Chökyi Lodrö",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Trulshik Rinpoche Ngawang Chökyi Lodrö ('khrul zhig ngag dbang chos kyi blo gros) (1 January 1923 – 2 September 2011) born in Yardrok Taklung, Central Tibet was one of the main teachers of the 14th Dalai Lama",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sogyal Rinpoche",
+   "type": "student_of",
+   "object": "Trulshik Rinpoche Ngawang Chökyi Lodrö",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "one of the main teachers of the 14th Dalai Lama and of many of the younger generation of Nyingma lamas today including Sogyal Rinpoche",
+   "quote_ok": true
+  },
+  {
+   "subject": "Trulshik Rinpoche Ngawang Chökyi Lodrö",
+   "type": "founded",
+   "object": "monastery of Thubten Chöling",
+   "role": null,
+   "place": "Nepal",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Trulshik Rinpoche founded the monastery of Thubten Chöling in Nepal.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Trulshik Rinpoche Ngawang Chökyi Lodrö",
+   "type": "position_at",
+   "object": "Nyingma school",
+   "role": "official head",
+   "place": null,
+   "year_start": 2010,
+   "year_end": 2011,
+   "explicit": true,
+   "evidence": "In 2010 he became the official head of the Nyingma school.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Taklung Tsetrul Rinpoche",
+   "type": "succeeded",
+   "object": "Trulshik Rinpoche Ngawang Chökyi Lodrö",
+   "role": "official head of the Nyingma school",
+   "place": null,
+   "year_start": 2012,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Trulshik Rinpoche died on September 2, 2011, and was succeeded by Taklung Tsetrul Rinpoche who accepted the position on 22 March 2012.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Trulshik Rinpoche",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q550380.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Trulshik Rinpoche",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

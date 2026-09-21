@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Auguste Barth",
+   "birth_year": 1834,
+   "death_year": 1916,
+   "nationality": "French",
+   "field": "orientalist"
+  },
+  {
+   "name": "Senart",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Émile Chavannes",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Cordier",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Auguste Barth",
+   "type": "position_at",
+   "object": "French Institute",
+   "role": "member",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a member of the French Institute.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Auguste Barth",
+   "type": "position_at",
+   "object": "Royal Netherlands Academy of Arts and Sciences",
+   "role": "foreign member",
+   "place": null,
+   "year_start": 1896,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Barth became a foreign member of the Royal Netherlands Academy of Arts and Sciences in 1896.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Auguste Barth",
+   "type": "collaborated_with",
+   "object": "Senart",
+   "role": null,
+   "place": null,
+   "year_start": 1913,
+   "year_end": 1919,
+   "explicit": true,
+   "evidence": "Mémoires concernant l'Asie orientale, published by the Académie des inscriptions et belles-lettres under the direction of MM. Senart, Barth, Émile Chavannes, Cordier (3 volumes, 1913–1919)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Auguste Barth",
+   "type": "collaborated_with",
+   "object": "Émile Chavannes",
+   "role": null,
+   "place": null,
+   "year_start": 1913,
+   "year_end": 1919,
+   "explicit": true,
+   "evidence": "Mémoires concernant l'Asie orientale, published by the Académie des inscriptions et belles-lettres under the direction of MM. Senart, Barth, Émile Chavannes, Cordier (3 volumes, 1913–1919)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Auguste Barth",
+   "type": "collaborated_with",
+   "object": "Cordier",
+   "role": null,
+   "place": null,
+   "year_start": 1913,
+   "year_end": 1919,
+   "explicit": true,
+   "evidence": "Mémoires concernant l'Asie orientale, published by the Académie des inscriptions et belles-lettres under the direction of MM. Senart, Barth, Émile Chavannes, Cordier (3 volumes, 1913–1919)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Auguste Barth",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q2721635.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Auguste Barth",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

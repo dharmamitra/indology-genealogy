@@ -1,0 +1,119 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Thinley Norbu",
+   "birth_year": 1931,
+   "death_year": 2011,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Dudjom Jigdral Yeshe Dorje",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Dzongsar Khyentse Norbu Rinpoche",
+   "birth_year": 1961,
+   "death_year": null,
+   "nationality": "Bhutanese",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Garab Dorje Rinpoche",
+   "birth_year": 1967,
+   "death_year": null,
+   "nationality": "Bhutanese",
+   "field": "Tibetan Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Thinley Norbu",
+   "type": "studied_at",
+   "object": "Mindrolling Monastery",
+   "role": null,
+   "place": "Tibet",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In his youth in Tibet, he studied for nine years at Mindrolling Monastery, one of the six major monasteries of the Nyingma school in Tibet.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thinley Norbu",
+   "type": "student_of",
+   "object": "Dudjom Jigdral Yeshe Dorje",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He received many teachings from many great saints throughout the region, besides his own father.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thinley Norbu",
+   "type": "other",
+   "object": "Dudjom Jigdral Yeshe Dorje",
+   "role": "son of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was the eldest son of Dudjom Rinpoche, the former head of the Nyingma lineages",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dzongsar Khyentse Norbu Rinpoche",
+   "type": "other",
+   "object": "Thinley Norbu",
+   "role": "son of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and also the father of Dzongsar Jamyang Khyentse Rinpoche and Dungse Garab Rinpoche.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Garab Dorje Rinpoche",
+   "type": "other",
+   "object": "Thinley Norbu",
+   "role": "son of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and also the father of Dzongsar Jamyang Khyentse Rinpoche and Dungse Garab Rinpoche.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thinley Norbu",
+   "type": "founded",
+   "object": "White Lotus School",
+   "role": null,
+   "place": "New York",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At around the same time, he founded a school for young children to learn pure dharma tradition and practice, White Lotus School",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Thinley Norbu",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q3524655.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Thinley Norbu",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

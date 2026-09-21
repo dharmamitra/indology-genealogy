@@ -1,0 +1,119 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "William Roxburgh",
+   "birth_year": 1751,
+   "death_year": 1815,
+   "nationality": "schottisch",
+   "field": "Botanik"
+  },
+  {
+   "name": "John Hope",
+   "birth_year": 1725,
+   "death_year": 1786,
+   "nationality": null,
+   "field": "Botanik"
+  },
+  {
+   "name": "Patrick Russell",
+   "birth_year": 1726,
+   "death_year": 1805,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Robert Kyd",
+   "birth_year": 1746,
+   "death_year": 1793,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Roxburgh",
+   "type": "student_of",
+   "object": "John Hope",
+   "role": "teacher",
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Auch studierte er unter John Hope (1725–1786) Botanik in Edinburgh.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Roxburgh",
+   "type": "position_at",
+   "object": "Samalkot Garden",
+   "role": "Aufseher",
+   "place": "Northern Circars",
+   "year_start": 1781,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Die East India Company erkannte sein botanisches Wissen und machte ihn 1781 zum Aufseher im Samalkot Garden in den  Northern Circars",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Roxburgh",
+   "type": "succeeded",
+   "object": "Patrick Russell",
+   "role": "Naturforscher",
+   "place": "Regierung von Madras",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er wurde Nachfolger Patrick Russells (1726–1805) als Naturforscher in der Regierung von Madras.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Roxburgh",
+   "type": "succeeded",
+   "object": "Robert Kyd",
+   "role": "Aufseher",
+   "place": "Calcutta Botanical Gardens",
+   "year_start": 1793,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1793 löste er Kyd als Aufseher ab",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Roxburgh",
+   "type": "position_at",
+   "object": "Calcutta Botanical Gardens",
+   "role": "Leiter / Aufseher",
+   "place": "Calcutta",
+   "year_start": 1793,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "so dass ihn bald die bengalische Regierung einlud, Leiter des 1787 gegründeten Calcutta Botanical Gardens von Colonel Robert Kyd (1746–1793) zu werden. 1793 löste er Kyd als Aufseher ab",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Kyd",
+   "type": "founded",
+   "object": "Calcutta Botanical Gardens",
+   "role": null,
+   "place": null,
+   "year_start": 1787,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Leiter des 1787 gegründeten Calcutta Botanical Gardens von Colonel Robert Kyd (1746–1793) zu werden.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): William Roxburgh",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q748967.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): William Roxburgh",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

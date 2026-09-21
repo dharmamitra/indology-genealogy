@@ -1,0 +1,45 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Heinrich Ewald",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "orientalist"
+  },
+  {
+   "name": "Gauss",
+   "birth_year": 1777,
+   "death_year": 1855,
+   "nationality": "German",
+   "field": "mathematician, astronomer, geodesist, and physicist"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Heinrich Ewald",
+   "type": "other",
+   "object": "Gauss",
+   "role": "son-in-law (married Gauss's daughter Wilhelmina)",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Her sister Wilhelmina married the orientalist Heinrich Ewald.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Carl Friedrich Gauss",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q6722.txt#1",
+ "meta": {
+  "title": "Wikipedia (en): Carl Friedrich Gauss",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

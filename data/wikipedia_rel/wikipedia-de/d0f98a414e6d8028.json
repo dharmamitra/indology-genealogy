@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Liang Qichao",
+   "birth_year": 1873,
+   "death_year": 1929,
+   "nationality": "chinesisch",
+   "field": null
+  },
+  {
+   "name": "Kang Youwei",
+   "birth_year": 1858,
+   "death_year": 1927,
+   "nationality": "chinesisch",
+   "field": null
+  },
+  {
+   "name": "Katō Hiroyuki",
+   "birth_year": 1836,
+   "death_year": 1916,
+   "nationality": "japanisch",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Liang Qichao",
+   "type": "student_of",
+   "object": "Kang Youwei",
+   "role": "teacher",
+   "place": "Wanmu Caotang",
+   "year_start": 1890,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nachdem er wieder aus Peking in seine Heimat zurückgekehrt war, begann er als Schüler von Kang Youwei, einem berühmten Gelehrten und Reformist, der am Wanmu Caotang (萬木草堂) lehrte, zu forschen und zu studieren.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kang Youwei",
+   "type": "position_at",
+   "object": "Wanmu Caotang",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Kang Youwei, einem berühmten Gelehrten und Reformist, der am Wanmu Caotang (萬木草堂) lehrte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Liang Qichao",
+   "type": "collaborated_with",
+   "object": "Kang Youwei",
+   "role": null,
+   "place": null,
+   "year_start": 1895,
+   "year_end": 1898,
+   "explicit": true,
+   "evidence": "So initiierte er mit Kang Youwei (康有為, 1858–1927) Reformen. Sie verfassten eine Eingabe an den Thron, die Kaiser Guangxu (光緒帝, 1871–1908, regierte von 1875–1908) aufgriff und in ein Reformprogramm münden ließ.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Liang Qichao",
+   "type": "influenced_by",
+   "object": "Katō Hiroyuki",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Seine Arbeit wurde vom japanischen Politikgelehrten Katō Hiroyuki (加藤弘之, 1836–1916) stark beeinflusst",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Liang Qichao",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q379836.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Liang Qichao",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

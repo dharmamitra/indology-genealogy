@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Josef Budenz",
+   "birth_year": 1836,
+   "death_year": 1892,
+   "nationality": "deutsch",
+   "field": "Finno-Ugrist"
+  },
+  {
+   "name": "Theodor Benfey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "indogermanische Sprachvergleichsforschung"
+  },
+  {
+   "name": "Pál Hunfalvy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Josef Budenz",
+   "type": "studied_at",
+   "object": "Marburg",
+   "role": null,
+   "place": "Marburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studierte in Marburg und ab 1855 für drei Jahre in Göttingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Josef Budenz",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": "Promotion",
+   "place": "Göttingen",
+   "year_start": 1855,
+   "year_end": 1858,
+   "explicit": true,
+   "evidence": "studierte in Marburg und ab 1855 für drei Jahre in Göttingen, u. a. bei Theodor Benfey [...] Promotion erfolgte im Jahr 1858.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Josef Budenz",
+   "type": "student_of",
+   "object": "Theodor Benfey",
+   "role": "teacher",
+   "place": "Göttingen",
+   "year_start": 1855,
+   "year_end": 1858,
+   "explicit": true,
+   "evidence": "ab 1855 für drei Jahre in Göttingen, u. a. bei Theodor Benfey mit dem Schwerpunkt auf indogermanischer Sprachvergleichsforschung.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Josef Budenz",
+   "type": "position_at",
+   "object": "Ungarische Wissenschaftliche Akademie",
+   "role": "Bibliothekar",
+   "place": "Budapest",
+   "year_start": 1861,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1861 wurde er zum Bibliothekar der Ungarischen Wissenschaftlichen Akademie ernannt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Josef Budenz",
+   "type": "student_of",
+   "object": "Pál Hunfalvy",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er vertiefte unter Anleitung von Pál Hunfalvy seine Kenntnisse der uralischen und altaischen Sprachen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Josef Budenz",
+   "type": "position_at",
+   "object": "Universität Budapest",
+   "role": "ordentlicher Professor für altaische Vergleichssprachen",
+   "place": "Budapest",
+   "year_start": 1868,
+   "year_end": 1892,
+   "explicit": true,
+   "evidence": "Ab 1868, nach anderer Quelle ab 1872, war er ordentlicher Professor für altaische Vergleichssprachen [...] Er war von 1868 bis zu seinem Tode am 15. April 1892 Professor an der Universität Budapest",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Josef Budenz",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q76637.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Josef Budenz",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

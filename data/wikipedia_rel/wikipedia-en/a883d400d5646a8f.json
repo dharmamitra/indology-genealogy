@@ -1,0 +1,143 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "William Ward",
+   "birth_year": 1769,
+   "death_year": 1823,
+   "nationality": "English",
+   "field": null
+  },
+  {
+   "name": "John Fawcett",
+   "birth_year": 1740,
+   "death_year": 1817,
+   "nationality": null,
+   "field": "theology"
+  },
+  {
+   "name": "Joshua Marshman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "William Carey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Ward",
+   "type": "studied_at",
+   "object": "Ewood Hall",
+   "role": null,
+   "place": "Halifax in Yorkshire",
+   "year_start": 1797,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he proceeded in August 1797 to Ewood Hall, near Halifax in Yorkshire, the theological academy of John Fawcett (1740–1817), where he studied for a year and a half.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Ward",
+   "type": "student_of",
+   "object": "John Fawcett",
+   "role": "teacher",
+   "place": "Halifax in Yorkshire",
+   "year_start": 1797,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "he proceeded in August 1797 to Ewood Hall, near Halifax in Yorkshire, the theological academy of John Fawcett (1740–1817), where he studied for a year and a half.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Ward",
+   "type": "founded",
+   "object": "Serampore College",
+   "role": null,
+   "place": "Serampore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "a new college at Serampore which he had founded along with Joshua Marshman and William Carey",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joshua Marshman",
+   "type": "founded",
+   "object": "Serampore College",
+   "role": null,
+   "place": "Serampore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "a new college at Serampore which he had founded along with Joshua Marshman and William Carey",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Carey",
+   "type": "founded",
+   "object": "Serampore College",
+   "role": null,
+   "place": "Serampore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "a new college at Serampore which he had founded along with Joshua Marshman and William Carey",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Ward",
+   "type": "collaborated_with",
+   "object": "Joshua Marshman",
+   "role": null,
+   "place": "Serampore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ward, Marshman and Carey became known as the Serampore trio.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Ward",
+   "type": "collaborated_with",
+   "object": "William Carey",
+   "role": null,
+   "place": "Serampore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ward, Marshman and Carey became known as the Serampore trio.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joshua Marshman",
+   "type": "collaborated_with",
+   "object": "William Carey",
+   "role": null,
+   "place": "Serampore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ward, Marshman and Carey became known as the Serampore trio.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): William Ward (missionary)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q8020009.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): William Ward (missionary)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

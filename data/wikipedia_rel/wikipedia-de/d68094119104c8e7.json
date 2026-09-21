@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Erik Zürcher",
+   "birth_year": 1928,
+   "death_year": 2008,
+   "nationality": "niederländisch",
+   "field": "Sinologe"
+  },
+  {
+   "name": "Erik-Jan Zürcher",
+   "birth_year": 1953,
+   "death_year": null,
+   "nationality": null,
+   "field": "türkische Sprache und Kultur"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Erik Zürcher",
+   "type": "position_at",
+   "object": "Universität Leiden",
+   "role": "Professor emeritus für Ostasien-Geschichte",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er war Professor emeritus für Ostasien-Geschichte an der Universität Leiden",
+   "quote_ok": true
+  },
+  {
+   "subject": "Erik Zürcher",
+   "type": "position_at",
+   "object": "Instituts für Sinologie",
+   "role": "Direktor",
+   "place": "Universität Leiden",
+   "year_start": 1974,
+   "year_end": 1990,
+   "explicit": true,
+   "evidence": "von 1974 bis 1990 war er hier Direktor des Instituts für Sinologie.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Erik-Jan Zürcher",
+   "type": "other",
+   "object": "Erik Zürcher",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sein Sohn Erik-Jan Zürcher (* 1953) ist Professor für türkische Sprache und Kultur an der Universität Leiden.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Erik-Jan Zürcher",
+   "type": "position_at",
+   "object": "Universität Leiden",
+   "role": "Professor für türkische Sprache und Kultur",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sein Sohn Erik-Jan Zürcher (* 1953) ist Professor für türkische Sprache und Kultur an der Universität Leiden.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Erik Zürcher",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q645696.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Erik Zürcher",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

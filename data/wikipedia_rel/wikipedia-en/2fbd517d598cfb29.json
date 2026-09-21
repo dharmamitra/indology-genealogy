@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Jin Kemu",
+   "birth_year": 1912,
+   "death_year": 2000,
+   "nationality": "Chinese",
+   "field": "ancient Indian literature, Buddhism, philosophy"
+  },
+  {
+   "name": "Ji Xianlin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jin Kemu",
+   "type": "position_at",
+   "object": "Beijing University",
+   "role": "professor",
+   "place": null,
+   "year_start": 1948,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Jin Kemu (Chinese: 金克木; pinyin: Jīn Kèmù;  1912–2000) was a Chinese poet, scholar, translator and essay writer, professor of Beijing University. ... Jin kemu joined in 1948",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jin Kemu",
+   "type": "collaborated_with",
+   "object": "Ji Xianlin",
+   "role": null,
+   "place": "Beijing University",
+   "year_start": 1948,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he and Ji Xianlin together contributed in developing the Department of Oriental Languages and Literature.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Jin Kemu",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q6201870.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Jin Kemu",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

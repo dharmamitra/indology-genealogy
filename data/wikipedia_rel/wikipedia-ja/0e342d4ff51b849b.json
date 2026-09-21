@@ -1,0 +1,150 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ジャン＝バティスト・ビオ",
+   "birth_year": 1774,
+   "death_year": 1862,
+   "nationality": "フランス",
+   "field": "物理学者、天文学者、数学者"
+  },
+  {
+   "name": "ジョセフ・ルイ・ゲイ＝リュサック",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ピエール＝シモン・ラプラス",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "フランソワ・アラゴ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "フェリックス・サヴァール",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ジャン＝バティスト・ビオ",
+   "type": "studied_at",
+   "object": "フランス国立土木学校",
+   "role": null,
+   "place": null,
+   "year_start": 1794,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1794年にフランス国立土木学校に入学。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジャン＝バティスト・ビオ",
+   "type": "position_at",
+   "object": "オワーズ県ボーヴェの工芸学校",
+   "role": "教員",
+   "place": "ボーヴェ",
+   "year_start": 1797,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "その後オワーズ県ボーヴェの工芸学校（1797年）やエコール・ポリテクニーク（理工科学校）などの教員を務めた後",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジャン＝バティスト・ビオ",
+   "type": "position_at",
+   "object": "エコール・ポリテクニーク",
+   "role": "教員",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "エコール・ポリテクニーク（理工科学校）などの教員を務めた後",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジャン＝バティスト・ビオ",
+   "type": "position_at",
+   "object": "コレージュ・ド・フランス",
+   "role": "教授",
+   "place": null,
+   "year_start": 1801,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1801年に29歳でコレージュ・ド・フランスの教授に就任した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジャン＝バティスト・ビオ",
+   "type": "collaborated_with",
+   "object": "ジョセフ・ルイ・ゲイ＝リュサック",
+   "role": null,
+   "place": null,
+   "year_start": 1804,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1804年、ジョセフ・ルイ・ゲイ＝リュサックと熱気球にのって5000mまで上昇し大気圧の研究を行った。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジャン＝バティスト・ビオ",
+   "type": "student_of",
+   "object": "ピエール＝シモン・ラプラス",
+   "role": null,
+   "place": null,
+   "year_start": 1806,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1806年にピエール＝シモン・ラプラスの指導によりフランソワ・アラゴとともに子午線弧長の測量（...）を完成する任務を与えられ",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジャン＝バティスト・ビオ",
+   "type": "collaborated_with",
+   "object": "フランソワ・アラゴ",
+   "role": null,
+   "place": "スペイン",
+   "year_start": 1806,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ピエール＝シモン・ラプラスの指導によりフランソワ・アラゴとともに子午線弧長の測量（...）を完成する任務を与えられ、アラゴと共にパリを発ちスペインで作業を開始した",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジャン＝バティスト・ビオ",
+   "type": "collaborated_with",
+   "object": "フェリックス・サヴァール",
+   "role": null,
+   "place": null,
+   "year_start": 1820,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "電磁気学におけるビオ・サバールの法則は、1820年のビオとフェリックス・サヴァールの研究に因んで名付けられた。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ジャン＝バティスト・ビオ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q58328.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ジャン＝バティスト・ビオ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

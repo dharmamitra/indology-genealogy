@@ -1,0 +1,138 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ハロルド・ウォルター・ベイリー",
+   "birth_year": 1899,
+   "death_year": 1996,
+   "nationality": "イギリス",
+   "field": "東洋学、イラン学、サンスクリット"
+  },
+  {
+   "name": "トインビー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "エメリック",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "オーストラリア",
+   "field": null
+  },
+  {
+   "name": "アーノルド・J・トインビー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "M. Nawabi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "エメリック",
+   "type": "student_of",
+   "object": "ハロルド・ウォルター・ベイリー",
+   "role": "教え子",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "同じオーストラリア出身でベイリーの教え子のエメリックによれば",
+   "quote_ok": true
+  },
+  {
+   "subject": "ハロルド・ウォルター・ベイリー",
+   "type": "studied_at",
+   "object": "西オーストラリア大学",
+   "role": "修士",
+   "place": "パース",
+   "year_start": null,
+   "year_end": 1927,
+   "explicit": true,
+   "evidence": "22歳でパースの西オーストラリア大学に入学し、1927年にエウリピデスの宗教観の論文で修士の学位を得た。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ハロルド・ウォルター・ベイリー",
+   "type": "studied_at",
+   "object": "オックスフォード大学",
+   "role": "博士",
+   "place": null,
+   "year_start": null,
+   "year_end": 1933,
+   "explicit": true,
+   "evidence": "奨励金を得てオックスフォード大学で学び、1929年に卒業した。...1933年、大ブンダヒシュンの校訂と訳注によってオックスフォード大学の博士の学位を取得した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ハロルド・ウォルター・ベイリー",
+   "type": "position_at",
+   "object": "東洋研究学院",
+   "role": "初代イラン学講師",
+   "place": null,
+   "year_start": 1929,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "同年、東洋研究学院の初代イラン学講師に就任した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ハロルド・ウォルター・ベイリー",
+   "type": "position_at",
+   "object": "ケンブリッジ大学",
+   "role": "サンスクリット教授",
+   "place": null,
+   "year_start": 1936,
+   "year_end": 1967,
+   "explicit": true,
+   "evidence": "1936年にケンブリッジ大学のサンスクリット教授に就任した。1967年までその職にあった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アーノルド・J・トインビー",
+   "type": "position_at",
+   "object": "王立国際問題研究所（チャタム・ハウス）",
+   "role": "所長",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "第二次世界大戦中、アーノルド・J・トインビーが所長をつとめる王立国際問題研究所（チャタム・ハウス）",
+   "quote_ok": true
+  },
+  {
+   "subject": "ハロルド・ウォルター・ベイリー",
+   "type": "position_at",
+   "object": "王立国際問題研究所（チャタム・ハウス）",
+   "role": null,
+   "place": null,
+   "year_start": 1942,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1942年以降3年間、ベイリーはそこで主にアルバニア語とアルメニア語の新聞記事から戦略的に重要な記事を翻訳する仕事を担当した。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ハロルド・ウォルター・ベイリー",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q3430369.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ハロルド・ウォルター・ベイリー",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

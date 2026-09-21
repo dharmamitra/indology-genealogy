@@ -1,0 +1,140 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Friedrich Wilhelm Joseph Schelling",
+   "birth_year": 1775,
+   "death_year": 1854,
+   "nationality": "German",
+   "field": "philosophy"
+  },
+  {
+   "name": "Johann Gottlieb Fichte",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Georg Wilhelm Friedrich Hegel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Alexander von Humboldt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Johann Wolfgang von Goethe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Samuel Taylor Coleridge",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "English",
+   "field": null
+  },
+  {
+   "name": "Paul Tillich",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "theology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Friedrich Wilhelm Joseph Schelling",
+   "type": "student_of",
+   "object": "Johann Gottlieb Fichte",
+   "role": "mentor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Johann Gottlieb Fichte, his mentor in his early years",
+   "quote_ok": false
+  },
+  {
+   "subject": "Friedrich Wilhelm Joseph Schelling",
+   "type": "other",
+   "object": "Georg Wilhelm Friedrich Hegel",
+   "role": "university roommate, early friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Georg Wilhelm Friedrich Hegel, his one-time university roommate, early friend",
+   "quote_ok": false
+  },
+  {
+   "subject": "Alexander von Humboldt",
+   "type": "influenced_by",
+   "object": "Friedrich Wilhelm Joseph Schelling",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Contemporary figures influenced by Schelling include Alexander von Humboldt",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander von Humboldt",
+   "type": "influenced_by",
+   "object": "Johann Wolfgang von Goethe",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "many of his ideas of nature were influenced by Goethe's and Schelling's philosophies.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Samuel Taylor Coleridge",
+   "type": "influenced_by",
+   "object": "Friedrich Wilhelm Joseph Schelling",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His work impressed the English romantic poet and critic Samuel Taylor Coleridge, who introduced his ideas into English-speaking culture",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Tillich",
+   "type": "influenced_by",
+   "object": "Friedrich Wilhelm Joseph Schelling",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Theologian Paul Tillich wrote: \"what I learned from Schelling became determinative of my own philosophical and theological development\".",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Friedrich Wilhelm Joseph Schelling",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q60070.txt#1",
+ "meta": {
+  "title": "Wikipedia (en): Friedrich Wilhelm Joseph Schelling",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

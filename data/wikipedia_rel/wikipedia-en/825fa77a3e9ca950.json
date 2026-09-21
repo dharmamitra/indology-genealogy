@@ -1,0 +1,114 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Taklung Tsetrul Rinpoche",
+   "birth_year": 1926,
+   "death_year": 2015,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Polu Khenpo Dorje",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Khenpo Ngawang Pelzang",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kyabje Trulshik Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Nawang Tashi Rapten",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Taklung Tsetrul Rinpoche",
+   "type": "student_of",
+   "object": "Polu Khenpo Dorje",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He received the highest Dzogchen teachings from Polu Khenpo Dorje, a direct disciple of Khenpo Ngawang Pelzang.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Polu Khenpo Dorje",
+   "type": "student_of",
+   "object": "Khenpo Ngawang Pelzang",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Polu Khenpo Dorje, a direct disciple of Khenpo Ngawang Pelzang.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Taklung Tsetrul Rinpoche",
+   "type": "position_at",
+   "object": "Nyingmapa lineage",
+   "role": "Supreme Head",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "accepted the position of the Supreme Head of Nyingmapa lineage, the “Old Translation Tradition” in Tibetan Buddhism.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Taklung Tsetrul Rinpoche",
+   "type": "succeeded",
+   "object": "Kyabje Trulshik Rinpoche",
+   "role": "Supreme Head of Nyingmapa lineage",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He is following Kyabje Dudjom Rinpoche, Kyabje Dilgo Khyentse Rinpoche, Kyabje Drubwang Pema Norbu Rinpoche, Kyabje Mindroling Trichen Rinpoche, and then finally Kyabje Trulshik Rinpoche",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nawang Tashi Rapten",
+   "type": "succeeded",
+   "object": "Taklung Tsetrul Rinpoche",
+   "role": null,
+   "place": null,
+   "year_start": 2022,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The four-year-old Nawang Tashi Rapten from the Spiti Valley has, in November 2022, been placed on the high seat as the successor to Taklung Tsetrul Rinpoche.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Taklung Tsetrul Rinpoche",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q7678454.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Taklung Tsetrul Rinpoche",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

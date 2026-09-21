@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Jakob Wilhelm Hauer",
+   "birth_year": 1881,
+   "death_year": 1962,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Herbert Grabert",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lothar Stengel-von Rutkowski",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jakob Wilhelm Hauer",
+   "type": "position_at",
+   "object": "Universität Tübingen",
+   "role": "Ordinarius für Religionswissenschaften und Indologie",
+   "place": "Tübingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er lehrte an der Universität Tübingen als Ordinarius für Religionswissenschaften und Indologie.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Herbert Grabert",
+   "type": "student_of",
+   "object": "Jakob Wilhelm Hauer",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Auch sein früherer Schüler und Doktorand, der rechtsextremistische Verleger Herbert Grabert",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jakob Wilhelm Hauer",
+   "type": "founded",
+   "object": "Arbeitsgemeinschaft für freie Religionsforschung und Philosophie",
+   "role": null,
+   "place": null,
+   "year_start": 1950,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1950 gründete er zusammen mit Lothar Stengel-von Rutkowski die „Arbeitsgemeinschaft für freie Religionsforschung und Philosophie“.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jakob Wilhelm Hauer",
+   "type": "collaborated_with",
+   "object": "Lothar Stengel-von Rutkowski",
+   "role": null,
+   "place": null,
+   "year_start": 1950,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1950 gründete er zusammen mit Lothar Stengel-von Rutkowski die „Arbeitsgemeinschaft für freie Religionsforschung und Philosophie“.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Jakob Wilhelm Hauer",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q72201.txt#1",
+ "meta": {
+  "title": "Wikipedia (de): Jakob Wilhelm Hauer",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Bhagwan Das",
+   "birth_year": 1869,
+   "death_year": 1958,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Annie Besant",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Pandit Dhanaraja Mishra",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Bhagwan Das",
+   "type": "collaborated_with",
+   "object": "Annie Besant",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "With Besant he formed a professional collaboration which led to the founding of the Central Hindu College",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bhagwan Das",
+   "type": "founded",
+   "object": "Central Hindu College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "With Besant he formed a professional collaboration which led to the founding of the Central Hindu College, which became Central Hindu School.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Annie Besant",
+   "type": "founded",
+   "object": "Central Hindu College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "With Besant he formed a professional collaboration which led to the founding of the Central Hindu College, which became Central Hindu School.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bhagwan Das",
+   "type": "founded",
+   "object": "Kashi Vidya Peeth",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Das would later found the Kashi Vidya Peeth, a national university where he served as headmaster.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bhagwan Das",
+   "type": "position_at",
+   "object": "Kashi Vidya Peeth",
+   "role": "headmaster",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Das would later found the Kashi Vidya Peeth, a national university where he served as headmaster.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bhagwan Das",
+   "type": "collaborated_with",
+   "object": "Pandit Dhanaraja Mishra",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Das states that the text was dictated to him from memory by Pandit Dhanaraja Mishra, a theosophist friend of his",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Bhagwan Das",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q854704.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Bhagwan Das",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

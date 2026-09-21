@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Nan Huai-Chin",
+   "birth_year": 1918,
+   "death_year": 2012,
+   "nationality": "China",
+   "field": null
+  },
+  {
+   "name": "Yuan Huanxian",
+   "birth_year": 1887,
+   "death_year": 1966,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Nan Huai-Chin",
+   "type": "student_of",
+   "object": "Yuan Huanxian",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er war der bedeutendste Schüler des Laienchan-Buddhistenlehrers Yuan Huanxian",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nan Huai-Chin",
+   "type": "studied_at",
+   "object": "Jinling-Universität",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nan studierte Sozialwissenschaften an der Jinling-Universität",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nan Huai-Chin",
+   "type": "position_at",
+   "object": "Republic of China Military Academy",
+   "role": null,
+   "place": "Nanjing",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ging später weiter, um an der Republic of China Military Academy in Nanjing zu lehren.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Nan Huai-Chin",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q6962219.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Nan Huai-Chin",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "エミール・シャルル・マリー・スナール",
+   "birth_year": 1847,
+   "death_year": 1928,
+   "nationality": "フランス",
+   "field": "インド学"
+  },
+  {
+   "name": "テーオドール・ベンファイ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "アルフレッド・フーシェ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ヘルマン・オルデンベルク",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "エミール・シャルル・マリー・スナール",
+   "type": "studied_at",
+   "object": "ミュンヘン大学",
+   "role": null,
+   "place": "ドイツ",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "3年間ドイツのミュンヘン大学とゲッティンゲン大学で文献学を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エミール・シャルル・マリー・スナール",
+   "type": "studied_at",
+   "object": "ゲッティンゲン大学",
+   "role": null,
+   "place": "ドイツ",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "3年間ドイツのミュンヘン大学とゲッティンゲン大学で文献学を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エミール・シャルル・マリー・スナール",
+   "type": "student_of",
+   "object": "テーオドール・ベンファイ",
+   "role": "teacher",
+   "place": "ゲッティンゲン",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ゲッティンゲンではテーオドール・ベンファイに学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エミール・シャルル・マリー・スナール",
+   "type": "position_at",
+   "object": "アジア協会",
+   "role": "会員",
+   "place": null,
+   "year_start": 1868,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1868年にアジア協会の会員となり",
+   "quote_ok": true
+  },
+  {
+   "subject": "エミール・シャルル・マリー・スナール",
+   "type": "position_at",
+   "object": "アジア協会",
+   "role": "副会長",
+   "place": null,
+   "year_start": 1890,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1890年に副会長",
+   "quote_ok": true
+  },
+  {
+   "subject": "エミール・シャルル・マリー・スナール",
+   "type": "position_at",
+   "object": "アジア協会",
+   "role": "会長",
+   "place": null,
+   "year_start": 1908,
+   "year_end": 1928,
+   "explicit": true,
+   "evidence": "1908年以降没するまで会長をつとめた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エミール・シャルル・マリー・スナール",
+   "type": "position_at",
+   "object": "碑文・文芸アカデミー",
+   "role": "会員",
+   "place": null,
+   "year_start": 1882,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1882年に碑文・文芸アカデミーの会員に選ばれた。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): エミール・スナール",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q286459.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): エミール・スナール",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

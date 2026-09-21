@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ludwig Josef Johann Wittgenstein",
+   "birth_year": 1889,
+   "death_year": 1951,
+   "nationality": "Austro-British",
+   "field": "philosopher"
+  },
+  {
+   "name": "Bertrand Russell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ludwig Josef Johann Wittgenstein",
+   "type": "studied_at",
+   "object": "University of Cambridge",
+   "role": null,
+   "place": null,
+   "year_start": 1911,
+   "year_end": 1913,
+   "explicit": true,
+   "evidence": "From 1911 to 1913, he studied at the University of Cambridge under Bertrand Russell",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ludwig Josef Johann Wittgenstein",
+   "type": "student_of",
+   "object": "Bertrand Russell",
+   "role": "teacher",
+   "place": "University of Cambridge",
+   "year_start": 1911,
+   "year_end": 1913,
+   "explicit": true,
+   "evidence": "From 1911 to 1913, he studied at the University of Cambridge under Bertrand Russell",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ludwig Josef Johann Wittgenstein",
+   "type": "position_at",
+   "object": "University of Cambridge",
+   "role": null,
+   "place": null,
+   "year_start": 1930,
+   "year_end": 1947,
+   "explicit": true,
+   "evidence": "Wittgenstein returned to Cambridge, where he taught from 1930 to 1947, giving lectures on philosophy",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Ludwig Wittgenstein",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q9391.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Ludwig Wittgenstein",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

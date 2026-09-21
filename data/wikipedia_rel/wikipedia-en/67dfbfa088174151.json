@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Étienne Balazs",
+   "birth_year": 1905,
+   "death_year": 1963,
+   "nationality": "French",
+   "field": "Sinology"
+  },
+  {
+   "name": "H. Maspero",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Yves Hervouet",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Étienne Balazs",
+   "type": "collaborated_with",
+   "object": "H. Maspero",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": 1967,
+   "explicit": true,
+   "evidence": "Histoire et institutions de la Chine ancienne des origines au XIIe siècle après J. C., 1967 (with H. Maspero).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Étienne Balazs",
+   "type": "collaborated_with",
+   "object": "Yves Hervouet",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": 1978,
+   "explicit": true,
+   "evidence": "with Yves Hervouet. A Sung Bibliography. (Hong Kong: The Chinese University Press, 1978).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Étienne Balazs",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q289356.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Étienne Balazs",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

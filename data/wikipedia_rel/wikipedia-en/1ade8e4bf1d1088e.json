@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Hugh Bayard Urban",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "religious studies"
+  },
+  {
+   "name": "Nancy Jesser",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hugh Bayard Urban",
+   "type": "position_at",
+   "object": "Ohio State University",
+   "role": "professor of religious studies at Ohio State University's Department of Comparative Studies",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hugh Bayard Urban is a professor of religious studies at Ohio State University's Department of Comparative Studies",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hugh Bayard Urban",
+   "type": "studied_at",
+   "object": "University of Chicago",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He received his PhD in history of religions from the University of Chicago.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nancy Jesser",
+   "type": "position_at",
+   "object": "Ohio State University",
+   "role": "teaches in the Department of Comparative Studies",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He is married to Nancy Jesser, who also teaches in the Department of Comparative Studies at Ohio State University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hugh Bayard Urban",
+   "type": "other",
+   "object": "Nancy Jesser",
+   "role": "spouse",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He is married to Nancy Jesser, who also teaches in the Department of Comparative Studies at Ohio State University.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Hugh Urban",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q24572185.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Hugh Urban",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

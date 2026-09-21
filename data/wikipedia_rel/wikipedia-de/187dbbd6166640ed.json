@@ -1,0 +1,148 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Eduard Hermann",
+   "birth_year": 1869,
+   "death_year": 1950,
+   "nationality": "German",
+   "field": "Linguistik"
+  },
+  {
+   "name": "Berthold Delbrück",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jacob Wackernagel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Eduard Hermann",
+   "type": "position_at",
+   "object": "Universität Göttingen",
+   "role": "Professor",
+   "place": "Göttingen",
+   "year_start": 1917,
+   "year_end": 1937,
+   "explicit": true,
+   "evidence": "Er war von 1917 bis 1937 Professor an der Universität Göttingen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eduard Hermann",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nach dem Studium in Leipzig, Freiburg und Jena",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eduard Hermann",
+   "type": "studied_at",
+   "object": "Freiburg",
+   "role": null,
+   "place": "Freiburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nach dem Studium in Leipzig, Freiburg und Jena",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eduard Hermann",
+   "type": "studied_at",
+   "object": "Jena",
+   "role": "PhD",
+   "place": "Jena",
+   "year_start": null,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "Nach dem Studium in Leipzig, Freiburg und Jena u. a. bei Berthold Delbrück, bei dem er 1893 promovierte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eduard Hermann",
+   "type": "student_of",
+   "object": "Berthold Delbrück",
+   "role": "doctoral supervisor",
+   "place": "Jena",
+   "year_start": null,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "u. a. bei Berthold Delbrück, bei dem er 1893 promovierte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eduard Hermann",
+   "type": "position_at",
+   "object": "Universität Kiel",
+   "role": "außerordentliche Professur",
+   "place": "Kiel",
+   "year_start": 1913,
+   "year_end": 1914,
+   "explicit": true,
+   "evidence": "1913 bekam er die für Indogermanistik eingerichtete außerordentliche Professur an der Universität Kiel",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eduard Hermann",
+   "type": "position_at",
+   "object": "Frankfurt am Main",
+   "role": "Ordinarius",
+   "place": "Frankfurt am Main",
+   "year_start": 1914,
+   "year_end": 1917,
+   "explicit": true,
+   "evidence": "im folgenden Jahr wechselte er als Ordinarius nach Frankfurt am Main.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eduard Hermann",
+   "type": "succeeded",
+   "object": "Jacob Wackernagel",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": 1917,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1917 wurde er als Nachfolger von Jacob Wackernagel nach Göttingen berufen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eduard Hermann",
+   "type": "position_at",
+   "object": "Akademie der Wissenschaften zu Göttingen",
+   "role": "ordentliches Mitglied",
+   "place": "Göttingen",
+   "year_start": 1918,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Seit 1918 war er ordentliches Mitglied der Akademie der Wissenschaften zu Göttingen.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Eduard Hermann (Linguist)",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1288704.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Eduard Hermann (Linguist)",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

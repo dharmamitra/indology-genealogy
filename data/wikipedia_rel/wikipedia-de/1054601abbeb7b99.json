@@ -1,0 +1,95 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Tenzin Gyatso",
+   "birth_year": 1935,
+   "death_year": null,
+   "nationality": "Tibet",
+   "field": null
+  },
+  {
+   "name": "Heinrich Harrer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Austria",
+   "field": null
+  },
+  {
+   "name": "Francisco Varela",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chile",
+   "field": null
+  },
+  {
+   "name": "Adam Engle",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "United States",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Tenzin Gyatso",
+   "type": "student_of",
+   "object": "Heinrich Harrer",
+   "role": "teacher",
+   "place": "Lhasa",
+   "year_start": 1948,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "freundete sich ab 1948 mit dem jungen Dalai Lama an, für den er filmte, fotografierte und den er in der westlichen Form des Rechnens sowie in Englisch und Geografie unterwies.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tenzin Gyatso",
+   "type": "collaborated_with",
+   "object": "Francisco Varela",
+   "role": null,
+   "place": null,
+   "year_start": 1990,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Wegen seines regen Interesses an wissenschaftlichen Themen und der Zusammenarbeit mit dem nordamerikanischen Rechtsanwalt Adam Engle und dem chilenischen Neurobiologen und Philosophen Francisco Varela",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tenzin Gyatso",
+   "type": "collaborated_with",
+   "object": "Adam Engle",
+   "role": null,
+   "place": null,
+   "year_start": 1990,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Wegen seines regen Interesses an wissenschaftlichen Themen und der Zusammenarbeit mit dem nordamerikanischen Rechtsanwalt Adam Engle und dem chilenischen Neurobiologen und Philosophen Francisco Varela",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tenzin Gyatso",
+   "type": "founded",
+   "object": "Mind and Life Institute",
+   "role": null,
+   "place": "USA",
+   "year_start": 1990,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Wegen seines regen Interesses an wissenschaftlichen Themen und der Zusammenarbeit mit dem nordamerikanischen Rechtsanwalt Adam Engle und dem chilenischen Neurobiologen und Philosophen Francisco Varela entstand 1990 das in den USA ansässige Mind and Life Institute.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Tenzin Gyatso",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q17293.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Tenzin Gyatso",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Cheng Yen",
+   "birth_year": 1937,
+   "death_year": null,
+   "nationality": "Taiwanese",
+   "field": null
+  },
+  {
+   "name": "Yin Shun",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Cheng Yen",
+   "type": "student_of",
+   "object": "Yin Shun",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": 1963,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In February 1963, she became the disciple of her mentor, Yin Shun, who gave her the dharma name of Cheng Yen and the courtesy name of Huìzhāng",
+   "quote_ok": true
+  },
+  {
+   "subject": "Cheng Yen",
+   "type": "founded",
+   "object": "Buddhist Compassion Relief Tzu Chi Foundation",
+   "role": null,
+   "place": null,
+   "year_start": 1966,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Cheng Yen established the Buddhist Compassion Relief Tzu Chi Foundation on 14 May 1966 in an endeavor to help the poor of east Taiwan.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Cheng Yen",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q468308.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Cheng Yen",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

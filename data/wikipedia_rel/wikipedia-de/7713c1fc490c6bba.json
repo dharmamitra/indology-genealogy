@@ -1,0 +1,186 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Rudolf von Roth",
+   "birth_year": 1821,
+   "death_year": 1895,
+   "nationality": "deutsch",
+   "field": "Indologe und Religionswissenschaftler"
+  },
+  {
+   "name": "Heinrich Ewald",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Eugène Burnouf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Böhtlingk",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "William Dwight Whitney",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Rudolf von Roth",
+   "type": "studied_at",
+   "object": "Tübingen",
+   "role": null,
+   "place": "Tübingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rudolf von Roth studierte in Tübingen (bei Heinrich Ewald)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rudolf von Roth",
+   "type": "student_of",
+   "object": "Heinrich Ewald",
+   "role": "teacher",
+   "place": "Tübingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rudolf von Roth studierte in Tübingen (bei Heinrich Ewald)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rudolf von Roth",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rudolf von Roth studierte in Tübingen (bei Heinrich Ewald), Berlin und Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rudolf von Roth",
+   "type": "studied_at",
+   "object": "Paris",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rudolf von Roth studierte in Tübingen (bei Heinrich Ewald), Berlin und Paris (unter Eugène Burnouf)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rudolf von Roth",
+   "type": "student_of",
+   "object": "Eugène Burnouf",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Paris (unter Eugène Burnouf)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rudolf von Roth",
+   "type": "studied_at",
+   "object": "London",
+   "role": null,
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "sowie in London, wo er in der Handschriftensammlung des East India House den Stoff zu seinen Arbeiten über älteste Sanskritliteratur sammelte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rudolf von Roth",
+   "type": "studied_at",
+   "object": "Tübingen",
+   "role": "Habilitation",
+   "place": "Tübingen",
+   "year_start": null,
+   "year_end": 1845,
+   "explicit": true,
+   "evidence": "habilitierte sich 1845 in Tübingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rudolf von Roth",
+   "type": "position_at",
+   "object": "Tübingen",
+   "role": "Extraordinarius",
+   "place": "Tübingen",
+   "year_start": 1848,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wurde dort 1848 zum Extraordinarius [...] ernannt",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rudolf von Roth",
+   "type": "position_at",
+   "object": "Tübingen",
+   "role": "ordentlicher Professor für den indischen Zweig der orientalischen Sprachen und Oberbibliothekar der Universitätsbibliothek",
+   "place": "Tübingen",
+   "year_start": 1856,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1856 zum ordentlichen Professor für den indischen Zweig der orientalischen Sprachen ernannt und zusätzlich zum Oberbibliothekar der Universitätsbibliothek.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rudolf von Roth",
+   "type": "collaborated_with",
+   "object": "Böhtlingk",
+   "role": "Mitarbeit an Petersburger Wörterbuch",
+   "place": null,
+   "year_start": 1855,
+   "year_end": 1875,
+   "explicit": true,
+   "evidence": "Mitarbeit an Böhtlingks monumentalem, epochemachenden Petersburger Wörterbuch (PW, 7 Bde., 1855–1875).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rudolf von Roth",
+   "type": "collaborated_with",
+   "object": "William Dwight Whitney",
+   "role": "co-editor",
+   "place": null,
+   "year_start": 1856,
+   "year_end": 1856,
+   "explicit": true,
+   "evidence": "mit William Dwight Whitney (Hrsg.): Atharvavedasamhita. Berlin: Dümmler 1856.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Rudolf von Roth",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q67420.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Rudolf von Roth",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

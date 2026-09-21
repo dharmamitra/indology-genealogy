@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Song Rinpoche",
+   "birth_year": 1905,
+   "death_year": 1984,
+   "nationality": "Tibet",
+   "field": "tibetischer Buddhismus"
+  },
+  {
+   "name": "14. Dalai Lama",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibet",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Song Rinpoche",
+   "type": "position_at",
+   "object": "Ganden-Shartse-Kloster",
+   "role": "Abt",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er war Abt des Ganden-Shartse-Klosters.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Song Rinpoche",
+   "type": "position_at",
+   "object": "Zentraluniversität für Tibetstudien in Varanasi",
+   "role": "Rektor",
+   "place": "Varanasi",
+   "year_start": 1967,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1967 ernannte ihn der 14. Dalai Lama zum ersten Rektor der neu errichteten Zentraluniversität für Tibetstudien in Varanasi.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Song Rinpoche",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q8073959.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Song Rinpoche",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

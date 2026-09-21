@@ -1,0 +1,161 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Lakshman Joo",
+   "birth_year": 1907,
+   "death_year": 1991,
+   "nationality": "Indian",
+   "field": "Kashmir Shaivism"
+  },
+  {
+   "name": "Maheshwar Nath Razdan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit and Shaiva philosophy"
+  },
+  {
+   "name": "Lilian Silburn",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Kashmir Shaiva philosophy"
+  },
+  {
+   "name": "Giuseppe Tucci",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Italian",
+   "field": "Indology"
+  },
+  {
+   "name": "Jaideva Singh",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "Nilkanth Gurtu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "Acharya Rameshwar Jha",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "Raniero Gnoli",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Italian",
+   "field": "Indology"
+  },
+  {
+   "name": "Alexis Sanderson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Indology"
+  },
+  {
+   "name": "Mark Dyczkowski",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Lakshman Joo",
+   "type": "student_of",
+   "object": "Maheshwar Nath Razdan",
+   "role": "teacher",
+   "place": "Srinagar",
+   "year_start": 1926,
+   "year_end": 1933,
+   "explicit": true,
+   "evidence": "for seven years (1926-1933), he continued to study Sanskrit and Shaiva philosophy under the guidance of scholar Pandit Maheshwar Nath Razdan.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lilian Silburn",
+   "type": "position_at",
+   "object": "National Centre for Scientific Research, Paris",
+   "role": null,
+   "place": "Paris",
+   "year_start": 1948,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1948 Lilian Silburn from the National Centre for Scientific Research, Paris, visited him and returned regularly for the next ten years.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lilian Silburn",
+   "type": "student_of",
+   "object": "Lakshman Joo",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": 1948,
+   "year_end": 1958,
+   "explicit": true,
+   "evidence": "In 1948 Lilian Silburn from the National Centre for Scientific Research, Paris, visited him and returned regularly for the next ten years. During this time, she studied the major texts of Kashmir Shaiva philosophy",
+   "quote_ok": true
+  },
+  {
+   "subject": "Giuseppe Tucci",
+   "type": "position_at",
+   "object": "University of Rome La Sapienza",
+   "role": "Professor",
+   "place": "Rome",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He had correspondence with Professor Giuseppe Tucci of the University of Rome La Sapienza",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lakshman Joo",
+   "type": "collaborated_with",
+   "object": "Giuseppe Tucci",
+   "role": "correspondence",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He had correspondence with Professor Giuseppe Tucci of the University of Rome La Sapienza",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lakshman Joo",
+   "type": "founded",
+   "object": "Universal Shaiva Fellowship",
+   "role": null,
+   "place": "United States",
+   "year_start": 1991,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1991 the Swami traveled to the United States and established the Universal Shaiva Fellowship",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Lakshman Joo",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q6479820.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Lakshman Joo",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

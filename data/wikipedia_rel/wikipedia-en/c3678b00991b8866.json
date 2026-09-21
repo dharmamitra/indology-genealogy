@@ -1,0 +1,183 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Margaret Mead",
+   "birth_year": 1901,
+   "death_year": 1978,
+   "nationality": "American",
+   "field": "anthropology"
+  },
+  {
+   "name": "Reo Fortune",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "New Zealander",
+   "field": "anthropology"
+  },
+  {
+   "name": "Gregory Bateson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Frances Cooke Macgregor",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Luther Cressman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "anthropology"
+  },
+  {
+   "name": "Edward Sapir",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "linguistics"
+  },
+  {
+   "name": "Ruth Benedict",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "anthropology"
+  },
+  {
+   "name": "T.C. Hodson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "anthropology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Margaret Mead",
+   "type": "collaborated_with",
+   "object": "Reo Fortune",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "her research collaborator and ex-husband Reo Fortune",
+   "quote_ok": true
+  },
+  {
+   "subject": "Margaret Mead",
+   "type": "other",
+   "object": "Reo Fortune",
+   "role": "husband",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "her research collaborator and ex-husband Reo Fortune",
+   "quote_ok": true
+  },
+  {
+   "subject": "Margaret Mead",
+   "type": "collaborated_with",
+   "object": "Gregory Bateson",
+   "role": null,
+   "place": "Bali",
+   "year_start": 1936,
+   "year_end": 1938,
+   "explicit": true,
+   "evidence": "From 1936 to 1938, Mead and Gregory Bateson conducted fieldwork in Bali",
+   "quote_ok": true
+  },
+  {
+   "subject": "Margaret Mead",
+   "type": "collaborated_with",
+   "object": "Frances Cooke Macgregor",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1951,
+   "explicit": true,
+   "evidence": "Mead undertook a second analysis with Frances Cooke Macgregor, Grow and Culture: A Photographic Study of Balinese Childhood, published in 1951.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Margaret Mead",
+   "type": "position_at",
+   "object": "RAND Corporation",
+   "role": null,
+   "place": null,
+   "year_start": 1948,
+   "year_end": 1950,
+   "explicit": true,
+   "evidence": "Mead worked for the RAND Corporation, a US military-funded private research organization, from 1948 to 1950",
+   "quote_ok": true
+  },
+  {
+   "subject": "Margaret Mead",
+   "type": "other",
+   "object": "Luther Cressman",
+   "role": "husband",
+   "place": null,
+   "year_start": 1923,
+   "year_end": 1928,
+   "explicit": true,
+   "evidence": "she married her first husband (1923–1928), Luther Cressman, an American theology student who later became an anthropologist.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Margaret Mead",
+   "type": "student_of",
+   "object": "Ruth Benedict",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "she began a romantic relationship with her instructor Ruth Benedict",
+   "quote_ok": true
+  },
+  {
+   "subject": "Reo Fortune",
+   "type": "studied_at",
+   "object": "Cambridge University",
+   "role": "thesis",
+   "place": null,
+   "year_start": 1926,
+   "year_end": 1927,
+   "explicit": true,
+   "evidence": "At Cambridge University, Fortune soon switched to the discipline of anthropology under the mentorship of Colonel T.C. Hodson and completed a thesis, \"On Imitative Magic\" in 1927.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Reo Fortune",
+   "type": "student_of",
+   "object": "T.C. Hodson",
+   "role": "doctoral supervisor",
+   "place": "Cambridge University",
+   "year_start": null,
+   "year_end": 1927,
+   "explicit": true,
+   "evidence": "At Cambridge University, Fortune soon switched to the discipline of anthropology under the mentorship of Colonel T.C. Hodson and completed a thesis, \"On Imitative Magic\" in 1927.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Margaret Mead",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q180099.txt#1",
+ "meta": {
+  "title": "Wikipedia (en): Margaret Mead",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

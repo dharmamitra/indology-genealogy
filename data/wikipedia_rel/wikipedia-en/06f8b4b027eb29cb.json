@@ -1,0 +1,179 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Tang Yongtong",
+   "birth_year": 1893,
+   "death_year": 1964,
+   "nationality": "Chinese",
+   "field": "Chinese Buddhism"
+  },
+  {
+   "name": "Chen Yinke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Wu Mi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Tang Yijie",
+   "birth_year": 1927,
+   "death_year": 2014,
+   "nationality": "Chinese",
+   "field": "philosophy and Chinese studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Tang Yongtong",
+   "type": "studied_at",
+   "object": "Shuntian School",
+   "role": null,
+   "place": null,
+   "year_start": 1908,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1908 he attended the Shuntian School.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tang Yongtong",
+   "type": "studied_at",
+   "object": "Tsinghua School",
+   "role": null,
+   "place": null,
+   "year_start": 1911,
+   "year_end": 1916,
+   "explicit": true,
+   "evidence": "In 1911, he enrolled at the Tsinghua School, where he graduated in 1916.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tang Yongtong",
+   "type": "studied_at",
+   "object": "Harvard University",
+   "role": null,
+   "place": "Cambridge, Massachusetts",
+   "year_start": 1918,
+   "year_end": 1922,
+   "explicit": true,
+   "evidence": "Tang arrived in the United States in 1918 at the age of 25 to begin his education at Harvard University in Cambridge, Massachusetts. He returned to China after graduation in 1922",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tang Yongtong",
+   "type": "position_at",
+   "object": "National Southeast University",
+   "role": "professor",
+   "place": null,
+   "year_start": 1922,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "that same year became professor of National Southeast University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tang Yongtong",
+   "type": "position_at",
+   "object": "Nankai University",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After a short period of teaching students in Nankai University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tang Yongtong",
+   "type": "position_at",
+   "object": "National Central University",
+   "role": "professor",
+   "place": "Nanjing",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he returned to Nanjing, where he was a professor at National Central University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tang Yongtong",
+   "type": "position_at",
+   "object": "Peking University",
+   "role": "professor at the Department of Philosophy",
+   "place": "Beijing",
+   "year_start": 1931,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1931, he moved to Peking University as a professor at the Department of Philosophy, where he was promoted to dean of College of Liberal Arts in 1946.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tang Yongtong",
+   "type": "position_at",
+   "object": "University of California, Berkeley",
+   "role": "lecturer",
+   "place": null,
+   "year_start": 1947,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In the following 1947 he went to the University of California, Berkeley, where he lectured the History of Chinese Buddhism.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tang Yongtong",
+   "type": "position_at",
+   "object": "Peking University",
+   "role": "vice-president",
+   "place": "Beijing",
+   "year_start": 1951,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was appointed vice-president of Peking University in 1951.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tang Yijie",
+   "type": "position_at",
+   "object": "Peking University",
+   "role": "professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Their elder son, Tang Yijie (1927–2014), was a Peking University professor",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tang Yijie",
+   "type": "other",
+   "object": "Tang Yongtong",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The couple had two sons and two daughters, in order of birth: Tang Yimei (湯一梅; died young), Tang Yijie (湯一介), Tang Yixuan (湯一玄) and Tang Yiping (湯一平).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Tang Yongtong",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q10879864.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Tang Yongtong",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

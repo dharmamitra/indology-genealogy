@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ferdinand Eckstein",
+   "birth_year": 1790,
+   "death_year": 1861,
+   "nationality": null,
+   "field": "Orientalist"
+  },
+  {
+   "name": "Friedrich Schlegel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Abel de Rémusat",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ferdinand Eckstein",
+   "type": "influenced_by",
+   "object": "Friedrich Schlegel",
+   "role": null,
+   "place": "Rome",
+   "year_start": 1807,
+   "year_end": 1807,
+   "explicit": true,
+   "evidence": "Eckstein converted to Catholicism in Rome in 1807 under the influence of Friedrich Schlegel",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ferdinand Eckstein",
+   "type": "collaborated_with",
+   "object": "Abel de Rémusat",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Eckstein worked with Nodier, Hugo, Abel de Rémusat, Chateaubriand, Alexandre Guiraud and Delphine Gay in various literary enterprises",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ferdinand Eckstein",
+   "type": "founded",
+   "object": "The Catholic",
+   "role": "newspaper",
+   "place": null,
+   "year_start": 1826,
+   "year_end": 1829,
+   "explicit": true,
+   "evidence": "founded his own newspaper, The Catholic (1826-9)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Ferdinand Eckstein",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q3068554.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Ferdinand Eckstein",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

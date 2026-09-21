@@ -1,0 +1,119 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "James Wilson Bright",
+   "birth_year": 1852,
+   "death_year": 1926,
+   "nationality": "American",
+   "field": "English Philology"
+  },
+  {
+   "name": "William Chauncey Fowler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": null
+  },
+  {
+   "name": "John Calvin French",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Henry Sweet",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "philology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Wilson Bright",
+   "type": "position_at",
+   "object": "Johns Hopkins University",
+   "role": "Professor of English Philology",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a Professor of English Philology at Johns Hopkins University",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Wilson Bright",
+   "type": "studied_at",
+   "object": "Lafayette College",
+   "role": "undergraduate education",
+   "place": "Easton, Pennsylvania",
+   "year_start": null,
+   "year_end": 1876,
+   "explicit": true,
+   "evidence": "Bright completed his undergraduate education at Lafayette College in Easton, Pennsylvania.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Wilson Bright",
+   "type": "studied_at",
+   "object": "Johns Hopkins",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 1882,
+   "explicit": true,
+   "evidence": "Bright was the first person to receive a PhD in English from Johns Hopkins, in 1882.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Wilson Bright",
+   "type": "position_at",
+   "object": "Cornell",
+   "role": "teaching",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After teaching briefly at Cornell, he returned to Johns Hopkins in 1885",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Wilson Bright",
+   "type": "position_at",
+   "object": "Johns Hopkins",
+   "role": "Caroline Donovan Chair of English",
+   "place": null,
+   "year_start": 1905,
+   "year_end": 1925,
+   "explicit": true,
+   "evidence": "Bright became the first occupant of the Caroline Donovan Chair of English, which was established in 1905. He held the chair until his retirement in 1925.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Calvin French",
+   "type": "succeeded",
+   "object": "James Wilson Bright",
+   "role": "Chairman",
+   "place": "Johns Hopkins",
+   "year_start": 1925,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His successor as Chairman (though not as Donovan Professor) was John Calvin French.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): James Bright",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q15513126.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): James Bright",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

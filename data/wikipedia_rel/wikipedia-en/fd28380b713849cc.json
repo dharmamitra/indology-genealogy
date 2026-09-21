@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Heinrich Wenzel",
+   "birth_year": 1855,
+   "death_year": 1893,
+   "nationality": "German",
+   "field": "Indology, Tibetology"
+  },
+  {
+   "name": "Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Oriental studies"
+  },
+  {
+   "name": "Heinrich August Jäschke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Heinrich Wenzel",
+   "type": "studied_at",
+   "object": "University of Jena",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied at the universities of Jena, Leipzig and Tübingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Wenzel",
+   "type": "studied_at",
+   "object": "University of Leipzig",
+   "role": "Habilitation",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": 1886,
+   "explicit": true,
+   "evidence": "In 1886, he obtained his habilitation at Leipzig with a translation of Nāgārjuna's \"Suhṛllekha\".",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Wenzel",
+   "type": "studied_at",
+   "object": "University of Tübingen",
+   "role": "doctorate",
+   "place": null,
+   "year_start": null,
+   "year_end": 1879,
+   "explicit": true,
+   "evidence": "receiving his doctorate at the latter institution with a thesis on the instrumental case involving the Rigveda (1879).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Wenzel",
+   "type": "student_of",
+   "object": "Max Müller",
+   "role": "teacher",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he continued his Oriental studies in Oxford under Max Müller.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Wenzel",
+   "type": "student_of",
+   "object": "Heinrich August Jäschke",
+   "role": "teacher",
+   "place": "Herrnhut",
+   "year_start": 1881,
+   "year_end": 1883,
+   "explicit": true,
+   "evidence": "From 1881 he spent the next two years in Herrnhut, where he studied Tibetology with Moravian missionary Heinrich August Jäschke.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Heinrich Wenzel",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q100587.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Heinrich Wenzel",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

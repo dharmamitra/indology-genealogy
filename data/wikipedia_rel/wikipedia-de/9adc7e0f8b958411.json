@@ -1,0 +1,124 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Peter von Bradke",
+   "birth_year": 1853,
+   "death_year": 1897,
+   "nationality": null,
+   "field": "Linguist und Sanskritist"
+  },
+  {
+   "name": "Leo Meyer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rudolf von Roth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Peter von Bradke",
+   "type": "studied_at",
+   "object": "Kaiserliche Universität Dorpat",
+   "role": null,
+   "place": "Dorpat",
+   "year_start": 1871,
+   "year_end": 1875,
+   "explicit": true,
+   "evidence": "studierte von 1871 bis 1875 an der Kaiserlichen Universität Dorpat klassische und germanische Philologie sowie vergleichende Sprachwissenschaft bei Leo Meyer.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter von Bradke",
+   "type": "student_of",
+   "object": "Leo Meyer",
+   "role": "teacher",
+   "place": "Dorpat",
+   "year_start": 1871,
+   "year_end": 1875,
+   "explicit": true,
+   "evidence": "studierte von 1871 bis 1875 an der Kaiserlichen Universität Dorpat klassische und germanische Philologie sowie vergleichende Sprachwissenschaft bei Leo Meyer.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter von Bradke",
+   "type": "student_of",
+   "object": "Rudolf von Roth",
+   "role": "teacher",
+   "place": "Tübingen",
+   "year_start": 1876,
+   "year_end": 1878,
+   "explicit": true,
+   "evidence": "Von 1876 bis 1878 studierte er weiter bei Rudolf von Roth in Tübingen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter von Bradke",
+   "type": "studied_at",
+   "object": "Universität Jena",
+   "role": "Promotion",
+   "place": "Jena",
+   "year_start": null,
+   "year_end": 1882,
+   "explicit": true,
+   "evidence": "1882 promovierte er in Jena mit einer Arbeit: „Über das Mānava-Grhya-Sūtra“.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter von Bradke",
+   "type": "studied_at",
+   "object": "Universität Gießen",
+   "role": "Habilitation",
+   "place": "Gießen",
+   "year_start": null,
+   "year_end": 1884,
+   "explicit": true,
+   "evidence": "1884 habilitierte er sich an der Universität Gießen für Sanskrit und vergleichende Sprachforschung.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter von Bradke",
+   "type": "position_at",
+   "object": "Universität Gießen",
+   "role": "außerordentlicher Professor",
+   "place": "Gießen",
+   "year_start": 1886,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "1886 wurde er dort zum außerordentlichen, 1893 zum ordentlichen Professor für diese Lehrfächer ernannt und bekleidete diese Stelle bis zu seinem Tode.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter von Bradke",
+   "type": "position_at",
+   "object": "Universität Gießen",
+   "role": "ordentlicher Professor",
+   "place": "Gießen",
+   "year_start": 1893,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "1886 wurde er dort zum außerordentlichen, 1893 zum ordentlichen Professor für diese Lehrfächer ernannt und bekleidete diese Stelle bis zu seinem Tode.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Peter von Bradke",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q106502.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Peter von Bradke",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

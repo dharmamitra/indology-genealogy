@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Madeleine Biardeau",
+   "birth_year": 1922,
+   "death_year": 2010,
+   "nationality": "France",
+   "field": "Indologist"
+  },
+  {
+   "name": "Marie-Claude Porcher",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Philippe Benoit",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Madeleine Biardeau",
+   "type": "studied_at",
+   "object": "Ecole normale supérieure in Sèvres",
+   "role": null,
+   "place": "Sèvres",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "She was educated at the Ecole normale supérieure in Sèvres, where she studied philosophy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Madeleine Biardeau",
+   "type": "studied_at",
+   "object": "University of Travancore",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Biardeau joined the University of Travancore for two years in the 1950s, and studied Sanskrit texts with pandits.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Madeleine Biardeau",
+   "type": "position_at",
+   "object": "École pratique des hautes études",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Meanwhile, she also taught at the École pratique des hautes études.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Madeleine Biardeau",
+   "type": "collaborated_with",
+   "object": "Marie-Claude Porcher",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1991,
+   "explicit": true,
+   "evidence": "She translated the Ramayana of Valmiki into French (1991), in collaboration with two other scholars: Marie-Claude Porcher and Philippe Benoit.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Madeleine Biardeau",
+   "type": "collaborated_with",
+   "object": "Philippe Benoit",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1991,
+   "explicit": true,
+   "evidence": "She translated the Ramayana of Valmiki into French (1991), in collaboration with two other scholars: Marie-Claude Porcher and Philippe Benoit.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Madeleine Biardeau",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q3275592.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Madeleine Biardeau",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

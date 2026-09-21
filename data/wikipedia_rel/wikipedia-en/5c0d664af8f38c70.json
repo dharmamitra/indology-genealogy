@@ -1,0 +1,162 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Marc Aurel Stein",
+   "birth_year": 1862,
+   "death_year": 1943,
+   "nationality": "British",
+   "field": "archaeologist"
+  },
+  {
+   "name": "Rudolf Hoernlé",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indologist"
+  },
+  {
+   "name": "Sven Hedin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Amalananda Ghosh",
+   "birth_year": 1910,
+   "death_year": 1981,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Katy Dalal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Marc Aurel Stein",
+   "type": "studied_at",
+   "object": "University of Vienna",
+   "role": null,
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "advanced study at Universities of Vienna, Leipzig and Tübingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Marc Aurel Stein",
+   "type": "studied_at",
+   "object": "University of Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "advanced study at Universities of Vienna, Leipzig and Tübingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Marc Aurel Stein",
+   "type": "studied_at",
+   "object": "University of Tübingen",
+   "role": "PhD",
+   "place": "Tübingen",
+   "year_start": null,
+   "year_end": 1883,
+   "explicit": true,
+   "evidence": "He graduated in Sanskrit and Persian and received his PhD from Tübingen in 1883.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Marc Aurel Stein",
+   "type": "position_at",
+   "object": "University of the Punjab",
+   "role": "Registrar",
+   "place": null,
+   "year_start": 1887,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1887 Stein went to India, where he joined the University of the Punjab as Registrar.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Marc Aurel Stein",
+   "type": "position_at",
+   "object": "Oriental College, Lahore",
+   "role": "Principal",
+   "place": "Lahore",
+   "year_start": 1888,
+   "year_end": 1899,
+   "explicit": true,
+   "evidence": "Later, between 1888 and 1899, he was the Principal of Oriental College, Lahore.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Marc Aurel Stein",
+   "type": "influenced_by",
+   "object": "Sven Hedin",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Stein was influenced by Sven Hedin's 1898 work Through Asia.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Marc Aurel Stein",
+   "type": "collaborated_with",
+   "object": "Rudolf Hoernlé",
+   "role": null,
+   "place": null,
+   "year_start": 1898,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In June 1898, he sought the help of Hoernle and a collaboration to find and study Central Asian antiquities.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Amalananda Ghosh",
+   "type": "influenced_by",
+   "object": "Marc Aurel Stein",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His observations on the geographical spread of these sites proved valuable to later researchers, including Amalananda Ghosh (3 March 1910 – 1981) and Katy Dalal.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Katy Dalal",
+   "type": "influenced_by",
+   "object": "Marc Aurel Stein",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His observations on the geographical spread of these sites proved valuable to later researchers, including Amalananda Ghosh (3 March 1910 – 1981) and Katy Dalal.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Aurel Stein",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q313061.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Aurel Stein",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

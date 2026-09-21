@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Michel Jules Alfred Bréal",
+   "birth_year": 1832,
+   "death_year": 1915,
+   "nationality": "French",
+   "field": "philology"
+  },
+  {
+   "name": "Franz Bopp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Albrecht Weber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Michel Jules Alfred Bréal",
+   "type": "studied_at",
+   "object": "École Normale Supérieure",
+   "role": null,
+   "place": "Paris",
+   "year_start": 1852,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he entered the École Normale Supérieure in 1852.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michel Jules Alfred Bréal",
+   "type": "student_of",
+   "object": "Franz Bopp",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1857,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1857 he went to Berlin, where he studied Sanskrit under Franz Bopp and Albrecht Weber.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michel Jules Alfred Bréal",
+   "type": "student_of",
+   "object": "Albrecht Weber",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1857,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1857 he went to Berlin, where he studied Sanskrit under Franz Bopp and Albrecht Weber.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michel Jules Alfred Bréal",
+   "type": "position_at",
+   "object": "Bibliothèque Impériale",
+   "role": "department of oriental manuscripts",
+   "place": "France",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "On his return to France he obtained an appointment in the department of oriental manuscripts at the Bibliothèque Impériale.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michel Jules Alfred Bréal",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "professor of comparative grammar",
+   "place": null,
+   "year_start": 1864,
+   "year_end": 1905,
+   "explicit": true,
+   "evidence": "In 1864 he became professor of comparative grammar at the Collège de France... He resigned his chair in 1905",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michel Jules Alfred Bréal",
+   "type": "position_at",
+   "object": "Académie des Inscriptions et Belles-lettres",
+   "role": "member",
+   "place": null,
+   "year_start": 1875,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1875 member of the Académie des Inscriptions et Belles-lettres",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Michel Bréal",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q327306.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Michel Bréal",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

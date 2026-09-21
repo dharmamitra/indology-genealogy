@@ -1,0 +1,93 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ジュール・ミシュレ",
+   "birth_year": 1798,
+   "death_year": 1874,
+   "nationality": "フランス",
+   "field": "歴史学"
+  },
+  {
+   "name": "ギゾー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ジュール・ミシュレ",
+   "type": "studied_at",
+   "object": "リセ・シャルルマーニュ",
+   "role": null,
+   "place": "パリ",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "リセ・シャルルマーニュ（現在のパリ4区）を経て、1819年に文学博士となり",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジュール・ミシュレ",
+   "type": "position_at",
+   "object": "高等師範学校",
+   "role": "歴史学教授",
+   "place": null,
+   "year_start": 1827,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1827年に高等師範学校の歴史学教授となる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジュール・ミシュレ",
+   "type": "position_at",
+   "object": "国立古文書館",
+   "role": "歴史部長",
+   "place": null,
+   "year_start": 1831,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1831年、国立古文書館の歴史部長。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジュール・ミシュレ",
+   "type": "position_at",
+   "object": "ソルボンヌ大学",
+   "role": "教授（ギゾーの講座の代行者）",
+   "place": null,
+   "year_start": 1834,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1834年、ソルボンヌ大学教授としてギゾーの講座の代行者。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジュール・ミシュレ",
+   "type": "position_at",
+   "object": "コレージュ・ド・フランス",
+   "role": "教授",
+   "place": null,
+   "year_start": 1838,
+   "year_end": 1852,
+   "explicit": true,
+   "evidence": "1838年からコレージュ・ド・フランスで教授となり教鞭をとった。[...] 1852年、ナポレオン3世への宣誓を拒否し、コレージュ・ド・フランスの教授の地位を追われた。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ジュール・ミシュレ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q310791.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ジュール・ミシュレ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,143 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "フランシスコ・ハビエル・バレーラ・ガルシア",
+   "birth_year": 1946,
+   "death_year": 2001,
+   "nationality": "チリ",
+   "field": "生物学・認知科学"
+  },
+  {
+   "name": "T・ニールス・ウィーゼル",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ウンベルト・マトゥラーナ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "生物学"
+  },
+  {
+   "name": "チョギャム・トゥルンパ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "フランシスコ・ハビエル・バレーラ・ガルシア",
+   "type": "studied_at",
+   "object": "チリ大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "チリ大学で生物学を学んだ後",
+   "quote_ok": true
+  },
+  {
+   "subject": "フランシスコ・ハビエル・バレーラ・ガルシア",
+   "type": "student_of",
+   "object": "T・ニールス・ウィーゼル",
+   "role": "doctoral supervisor",
+   "place": "ハーバード大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "T・ニールス・ウィーゼル (Torsten Nils Wiesel) の指導の下、ハーバード大学で博士号を取得した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "フランシスコ・ハビエル・バレーラ・ガルシア",
+   "type": "studied_at",
+   "object": "ハーバード大学",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "T・ニールス・ウィーゼル (Torsten Nils Wiesel) の指導の下、ハーバード大学で博士号を取得した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ウンベルト・マトゥラーナ",
+   "type": "position_at",
+   "object": "チリ大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "チリ大学の生物学者ウンベルト・マトゥラーナ",
+   "quote_ok": true
+  },
+  {
+   "subject": "フランシスコ・ハビエル・バレーラ・ガルシア",
+   "type": "collaborated_with",
+   "object": "ウンベルト・マトゥラーナ",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "チリ大学の生物学者ウンベルト・マトゥラーナとの議論を通じて「生命とは何か?」という問いを追求し、オートポイエーシスの概念をマトゥラーナともに提唱した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "フランシスコ・ハビエル・バレーラ・ガルシア",
+   "type": "influenced_by",
+   "object": "チョギャム・トゥルンパ",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "チョギャム・トゥルンパなどとの交流から、ナーガールジュナなどの中観派の「空」の哲学から影響を受け、また仏教の修行を実践した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "フランシスコ・ハビエル・バレーラ・ガルシア",
+   "type": "position_at",
+   "object": "チリ大学",
+   "role": "生物学教授",
+   "place": null,
+   "year_start": 1980,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1980年にチリ大学の生物学教授として再びチリに帰国した後",
+   "quote_ok": true
+  },
+  {
+   "subject": "フランシスコ・ハビエル・バレーラ・ガルシア",
+   "type": "position_at",
+   "object": "フランス国立科学研究センター",
+   "role": "研究部長",
+   "place": "パリ",
+   "year_start": 1988,
+   "year_end": 2001,
+   "explicit": true,
+   "evidence": "1988年より亡くなるまでフランス国立科学研究センター (CNRS) で研究部長を務めた。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): フランシスコ・バレーラ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q923582.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): フランシスコ・バレーラ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

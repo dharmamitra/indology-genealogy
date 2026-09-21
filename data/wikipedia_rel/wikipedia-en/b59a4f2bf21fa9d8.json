@@ -1,0 +1,126 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Luciano Petech",
+   "birth_year": 1914,
+   "death_year": 2010,
+   "nationality": "Italian",
+   "field": "Himalayan history"
+  },
+  {
+   "name": "Giuseppe Tucci",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Italian",
+   "field": null
+  },
+  {
+   "name": "Herbert Franke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Elliot Sperling",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Elena De Rossi Filibeck",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetan studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Luciano Petech",
+   "type": "student_of",
+   "object": "Giuseppe Tucci",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a student of the Italian explorer, academic, and scholar Giuseppe Tucci.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Luciano Petech",
+   "type": "position_at",
+   "object": "University of Allahabad",
+   "role": "reader in Italian",
+   "place": null,
+   "year_start": 1938,
+   "year_end": 1946,
+   "explicit": true,
+   "evidence": "Petech began his teaching career in India at 25 years old, as a reader in Italian at the University of Allahabad from 1938 to 1946.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Luciano Petech",
+   "type": "position_at",
+   "object": "Istituto Orientale of Naples",
+   "role": "temporary teaching appointment",
+   "place": null,
+   "year_start": 1947,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Petech returned to Europe in 1947, to temporary teaching appointments at the Istituto Orientale of Naples and University of Rome.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Luciano Petech",
+   "type": "position_at",
+   "object": "University of Rome",
+   "role": "temporary teaching appointment",
+   "place": null,
+   "year_start": 1947,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Petech returned to Europe in 1947, to temporary teaching appointments at the Istituto Orientale of Naples and University of Rome.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Luciano Petech",
+   "type": "position_at",
+   "object": "University of Rome",
+   "role": "Chair of History of Eastern Asia",
+   "place": null,
+   "year_start": 1955,
+   "year_end": 1984,
+   "explicit": true,
+   "evidence": "He was Chair of History of Eastern Asia at the University of Rome from 1955 to 1984.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Elena De Rossi Filibeck",
+   "type": "student_of",
+   "object": "Luciano Petech",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Petech has several students, including Elena De Rossi Filibeck in Tibetan studies.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Luciano Petech",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q942230.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Luciano Petech",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

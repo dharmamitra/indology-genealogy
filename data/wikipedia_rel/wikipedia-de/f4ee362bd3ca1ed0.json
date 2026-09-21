@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Philippe Édouard Foucaux",
+   "birth_year": 1811,
+   "death_year": 1894,
+   "nationality": "französischer",
+   "field": "Tibetologe und Indologe"
+  },
+  {
+   "name": "Eugène Burnouf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Marie Filon",
+   "birth_year": 1842,
+   "death_year": 1902,
+   "nationality": null,
+   "field": "Buddhologin"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Philippe Édouard Foucaux",
+   "type": "student_of",
+   "object": "Eugène Burnouf",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Foucaux studierte in Paris unter Eugène Burnouf Indologie",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philippe Édouard Foucaux",
+   "type": "position_at",
+   "object": "École des langues orientales",
+   "role": "Professor für Tibetologie",
+   "place": null,
+   "year_start": 1842,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In der Folge wurde er zum Professor für Tibetologie an der École des langues orientales ernannt, wo er am 31. Januar 1842 seine Antrittsvorlesung hielt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philippe Édouard Foucaux",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "Professor des Sanskrits",
+   "place": null,
+   "year_start": 1858,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wurde er 1858 Professor des Sanskrits am Collège de France.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philippe Édouard Foucaux",
+   "type": "other",
+   "object": "Marie Filon",
+   "role": "spouse",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Seine Gattin, geb. Marie Filon (1842–1902), arbeitete als Buddhologin",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Philippe Édouard Foucaux",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q962851.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Philippe Édouard Foucaux",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

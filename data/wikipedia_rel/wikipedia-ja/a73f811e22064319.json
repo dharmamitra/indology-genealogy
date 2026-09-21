@@ -1,0 +1,138 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "片桐大忍",
+   "birth_year": 1928,
+   "death_year": 1990,
+   "nationality": "Japan",
+   "field": "曹洞宗"
+  },
+  {
+   "name": "林ダイチョウ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "橋本恵光",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "鈴木俊隆",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ゼンテツ・リチャード・ベーカー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "片桐大忍",
+   "type": "student_of",
+   "object": "林ダイチョウ",
+   "role": "traditional teacher",
+   "place": "泰蔵院",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "泰蔵院（福井県）の林ダイチョウの下で出家し",
+   "quote_ok": true
+  },
+  {
+   "subject": "片桐大忍",
+   "type": "student_of",
+   "object": "橋本恵光",
+   "role": "traditional teacher",
+   "place": "永平寺",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "永平寺の橋本恵光の下で3年間修行した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "片桐大忍",
+   "type": "studied_at",
+   "object": "駒澤大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "その後、駒澤大学に入学した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "片桐大忍",
+   "type": "collaborated_with",
+   "object": "鈴木俊隆",
+   "role": null,
+   "place": "桑港寺",
+   "year_start": 1965,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1965年にサンフランシスコの桑港寺に行き、鈴木俊隆と、後の1969年に分離設立されたサンフランシスコ禅センターの活動を助けた 。",
+   "quote_ok": true
+  },
+  {
+   "subject": "片桐大忍",
+   "type": "founded",
+   "object": "ミネソタ禅センター",
+   "role": null,
+   "place": "ミネソタ",
+   "year_start": 1972,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ミネソタ禅センターの開山。",
+   "quote_ok": true
+  },
+  {
+   "subject": "片桐大忍",
+   "type": "founded",
+   "object": "宝鏡寺",
+   "role": null,
+   "place": "南ミネソタ",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "更に、南ミネソタに宝鏡寺を創設した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "片桐大忍",
+   "type": "succeeded",
+   "object": "ゼンテツ・リチャード・ベーカー",
+   "role": "臨時住職",
+   "place": "サンフランシスコ禅センター",
+   "year_start": 1984,
+   "year_end": 1985,
+   "explicit": true,
+   "evidence": "1984年にはゼンテツ・リチャード・ベーカーのサンフランシスコ禅センター住職辞任により、センターより依頼されて臨時住職を1985年まで務めた。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 片桐大忍",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q5209500.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 片桐大忍",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

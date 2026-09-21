@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "McKim Marriott",
+   "birth_year": 1924,
+   "death_year": 2024,
+   "nationality": "American",
+   "field": "anthropologist"
+  },
+  {
+   "name": "Clyde Kluckhohn",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "anthropology"
+  },
+  {
+   "name": "Edwin Gerow",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "McKim Marriott",
+   "type": "studied_at",
+   "object": "Harvard University",
+   "role": null,
+   "place": null,
+   "year_start": 1941,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Marriot attended Harvard University at the age of 17 in 1941, studying anthropology with Clyde Kluckhohn, alongside Japanese.",
+   "quote_ok": true
+  },
+  {
+   "subject": "McKim Marriott",
+   "type": "student_of",
+   "object": "Clyde Kluckhohn",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1941,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studying anthropology with Clyde Kluckhohn",
+   "quote_ok": true
+  },
+  {
+   "subject": "McKim Marriott",
+   "type": "studied_at",
+   "object": "University of Chicago",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 1955,
+   "explicit": true,
+   "evidence": "Marriott continued his education at the University of Chicago, where he received a PhD from the University of Chicago in 1955",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): McKim Marriott",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q38458750.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): McKim Marriott",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

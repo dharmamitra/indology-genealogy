@@ -1,0 +1,155 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Eleanor Rosch",
+   "birth_year": 1938,
+   "death_year": null,
+   "nationality": "American",
+   "field": "psychology"
+  },
+  {
+   "name": "Roger Brown",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Karl Heider",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Aude Oliva",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "computer vision and deep learning"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Eleanor Rosch",
+   "type": "position_at",
+   "object": "University of California, Berkeley",
+   "role": "professor of psychology",
+   "place": null,
+   "year_start": 1971,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "She is a professor of psychology at the University of California, Berkeley [...] Rosch joined the Department of Psychology at University of California, Berkeley in 1971.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eleanor Rosch",
+   "type": "studied_at",
+   "object": "Reed College",
+   "role": "undergraduate",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "She completed an undergraduate philosophy thesis at Reed College on Wittgenstein",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eleanor Rosch",
+   "type": "studied_at",
+   "object": "Harvard",
+   "role": "doctoral thesis",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "returning later to Harvard to study clinical psychology at the then-Department of Social Relations. Rosch delivered a paradigm-changing doctoral thesis at Harvard",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eleanor Rosch",
+   "type": "student_of",
+   "object": "Roger Brown",
+   "role": "doctoral supervisor",
+   "place": "Harvard",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rosch delivered a paradigm-changing doctoral thesis at Harvard about category formation, under the direction of Roger Brown.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eleanor Rosch",
+   "type": "position_at",
+   "object": "Brown University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After a short stint at Brown University and Connecticut College, Rosch joined the Department of Psychology at University of California, Berkeley in 1971.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eleanor Rosch",
+   "type": "position_at",
+   "object": "Connecticut College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After a short stint at Brown University and Connecticut College, Rosch joined the Department of Psychology at University of California, Berkeley in 1971.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eleanor Rosch",
+   "type": "collaborated_with",
+   "object": "Karl Heider",
+   "role": null,
+   "place": "Papua New Guinea",
+   "year_start": 1970,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From field experiments Rosch conducted (alongside her then-husband Karl Heider) in the 1970s with the Dani people of Papua New Guinea",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eleanor Rosch",
+   "type": "other",
+   "object": "Karl Heider",
+   "role": "husband",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "alongside her then-husband Karl Heider",
+   "quote_ok": true
+  },
+  {
+   "subject": "Aude Oliva",
+   "type": "influenced_by",
+   "object": "Eleanor Rosch",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Her work has been often referenced by that of computer vision and deep learning researcher Aude Oliva, who has built upon Rosch's object classifications",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Eleanor Rosch",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q132475.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Eleanor Rosch",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

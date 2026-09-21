@@ -1,0 +1,138 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Bapudeva Sastri",
+   "birth_year": 1821,
+   "death_year": 1900,
+   "nationality": "Indian",
+   "field": "mathematician"
+  },
+  {
+   "name": "Dhundiraja Misra",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lancelot Wilkinson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Pandit Sevarama",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sudhakar Dwivedi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "mathematics and astrology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Bapudeva Sastri",
+   "type": "student_of",
+   "object": "Dhundiraja Misra",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He also studied the Lilāvati and Bijaganita under Dhundiraja Misra.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bapudeva Sastri",
+   "type": "studied_at",
+   "object": "Sehore Sanskrit school",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the British political agent Lancelot Wilkinson secured his admission to the Sehore Sanskrit school",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bapudeva Sastri",
+   "type": "student_of",
+   "object": "Pandit Sevarama",
+   "role": "teacher",
+   "place": "Sehore Sanskrit school",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he studied Siddhānta Shiromani, Euclidean Geometry and European science in general under Pandit Sevarama and Wilkinson himself.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bapudeva Sastri",
+   "type": "student_of",
+   "object": "Lancelot Wilkinson",
+   "role": "teacher",
+   "place": "Sehore Sanskrit school",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he studied Siddhānta Shiromani, Euclidean Geometry and European science in general under Pandit Sevarama and Wilkinson himself.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bapudeva Sastri",
+   "type": "position_at",
+   "object": "Government Sanskrit College, Varanasi",
+   "role": "teacher",
+   "place": "Varanasi",
+   "year_start": 1842,
+   "year_end": 1889,
+   "explicit": true,
+   "evidence": "In 1842 Sastri went to Government Sanskrit College, Varanasi, where he taught rekha-ganita (Euclidean Geometry)... Bapudeva Sastri, retired in 1889.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sudhakar Dwivedi",
+   "type": "succeeded",
+   "object": "Bapudeva Sastri",
+   "role": "teacher of mathematics and astrology",
+   "place": "Government Sanskrit College, Varanasi",
+   "year_start": 1890,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1890 Sudhakar Dwivedi was appointed the teacher of mathematics and astrology after Bapudeva Sastri, retired in 1889.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bapudeva Sastri",
+   "type": "collaborated_with",
+   "object": "Lancelot Wilkinson",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "With Lancelot Wilkinson, Sastri wrote commentary on The Surya Siddhanta (a treatise on Hindu astronomy).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Bapudeva Sastri",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q4857748.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Bapudeva Sastri",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

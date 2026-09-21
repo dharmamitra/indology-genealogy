@@ -1,0 +1,95 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Thubten Jigme Norbu",
+   "birth_year": 1922,
+   "death_year": 2008,
+   "nationality": "Tibetan",
+   "field": "Tibetan studies"
+  },
+  {
+   "name": "Heinrich Harrer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Colin Turnbull",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Robert B. Ekvall",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Thubten Jigme Norbu",
+   "type": "position_at",
+   "object": "Indiana University Bloomington",
+   "role": "professor of Tibetan Studies",
+   "place": "Bloomington",
+   "year_start": 1965,
+   "year_end": 1987,
+   "explicit": true,
+   "evidence": "Norbu moved to Bloomington in 1965 to teach college students as a professor of Tibetan Studies at Indiana University Bloomington where he taught until retirement from IUB in 1987.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thubten Jigme Norbu",
+   "type": "collaborated_with",
+   "object": "Heinrich Harrer",
+   "role": null,
+   "place": null,
+   "year_start": 1959,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Tibet Is My Country is his autobiography dictated to Heinrich Harrer in 1959",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thubten Jigme Norbu",
+   "type": "collaborated_with",
+   "object": "Colin Turnbull",
+   "role": null,
+   "place": null,
+   "year_start": 1968,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Tibet: Its History, Religion and People, co-written with Colin Turnbull in 1968",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thubten Jigme Norbu",
+   "type": "collaborated_with",
+   "object": "Robert B. Ekvall",
+   "role": null,
+   "place": null,
+   "year_start": 1969,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Norbu and Robert B. Ekvall provided the first English translation of the Tibetan play originally authored by the fifth Panchen Lama Lobsang Yeshe Younger Brother Don Yod in 1969.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Thubten Jigme Norbu",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1385565.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Thubten Jigme Norbu",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

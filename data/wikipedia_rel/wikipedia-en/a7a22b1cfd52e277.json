@@ -1,0 +1,155 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Hermann Brockhaus",
+   "birth_year": 1806,
+   "death_year": 1877,
+   "nationality": "German",
+   "field": "Orientalist"
+  },
+  {
+   "name": "August Wilhelm von Schlegel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Johann Gustav Stickel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Semitic languages"
+  },
+  {
+   "name": "Ernst Windisch",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hermann Brockhaus",
+   "type": "studied_at",
+   "object": "University of Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied Oriental languages at the Universities of Leipzig, Göttingen and Bonn",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Brockhaus",
+   "type": "studied_at",
+   "object": "University of Göttingen",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied Oriental languages at the Universities of Leipzig, Göttingen and Bonn",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Brockhaus",
+   "type": "studied_at",
+   "object": "University of Bonn",
+   "role": null,
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied Oriental languages at the Universities of Leipzig, Göttingen and Bonn where he was a student of August Wilhelm von Schlegel",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Brockhaus",
+   "type": "student_of",
+   "object": "August Wilhelm von Schlegel",
+   "role": "teacher",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "where he was a student of August Wilhelm von Schlegel, the founder of German Indology.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Brockhaus",
+   "type": "position_at",
+   "object": "University of Jena",
+   "role": "associate professor of oriental languages",
+   "place": "Jena",
+   "year_start": 1839,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1839 he was appointed associate professor of oriental languages at the University of Jena",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gustav Stickel",
+   "type": "position_at",
+   "object": "University of Jena",
+   "role": "colleague",
+   "place": "Jena",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Together with his colleague Johann Gustav Stickel (who taught Semitic languages), Brockhaus established oriental philology at the School of Humanities at Jena.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Brockhaus",
+   "type": "collaborated_with",
+   "object": "Johann Gustav Stickel",
+   "role": null,
+   "place": "Jena",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Together with his colleague Johann Gustav Stickel (who taught Semitic languages), Brockhaus established oriental philology at the School of Humanities at Jena.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Brockhaus",
+   "type": "position_at",
+   "object": "University of Leipzig",
+   "role": "full professor of ancient Indian language",
+   "place": "Leipzig",
+   "year_start": 1848,
+   "year_end": 1877,
+   "explicit": true,
+   "evidence": "In 1841 Brockhaus followed an appointment to Leipzig, where in 1848 he was appointed a full professor of ancient Indian language at the university.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Windisch",
+   "type": "succeeded",
+   "object": "Hermann Brockhaus",
+   "role": null,
+   "place": "University of Leipzig",
+   "year_start": 1877,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After his death, he was succeeded at the university by Ernst Windisch.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Hermann Brockhaus",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q78371.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Hermann Brockhaus",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

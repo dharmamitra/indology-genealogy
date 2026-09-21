@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Angelo De Gubernatis",
+   "birth_year": 1840,
+   "death_year": 1913,
+   "nationality": "italienisch",
+   "field": "Orientalist, Literaturhistoriker und Dramatiker"
+  },
+  {
+   "name": "Franz Bopp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Friedrich Weber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Angelo De Gubernatis",
+   "type": "studied_at",
+   "object": "Turiner Universität",
+   "role": null,
+   "place": "Turin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Angelo De Gubernatis betrieb philologische Studien an der Turiner Universität",
+   "quote_ok": true
+  },
+  {
+   "subject": "Angelo De Gubernatis",
+   "type": "student_of",
+   "object": "Franz Bopp",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1862,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ging mit einem Staatsstipendium nach Berlin. Dort studierte er unter Franz Bopp und Friedrich Weber Sanskrit und Vergleichende Sprachwissenschaft.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Angelo De Gubernatis",
+   "type": "student_of",
+   "object": "Friedrich Weber",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1862,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ging mit einem Staatsstipendium nach Berlin. Dort studierte er unter Franz Bopp und Friedrich Weber Sanskrit und Vergleichende Sprachwissenschaft.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Angelo De Gubernatis",
+   "type": "position_at",
+   "object": "Istituto degli studii superiori in Florenz",
+   "role": "Professor für Sanskrit und Zendo",
+   "place": "Florenz",
+   "year_start": 1863,
+   "year_end": 1891,
+   "explicit": true,
+   "evidence": "1863 wurde er vom damaligen Unterrichtsminister Michele Amari als Professor für Sanskrit und Zendo an das Istituto degli studii superiori in Florenz berufen. [...] den er bis 1891 innehatte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Angelo De Gubernatis",
+   "type": "position_at",
+   "object": "Universität Rom",
+   "role": "Professor für Italienische Literatur",
+   "place": "Rom",
+   "year_start": 1891,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In diesem Jahr wurde er als Professor für Italienische Literatur an die Universität Rom berufen, wo er bis 1908 zusätzlich auch Sanskrit lehrte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Angelo De Gubernatis",
+   "type": "founded",
+   "object": "L’Italia letteraria",
+   "role": null,
+   "place": null,
+   "year_start": 1862,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Schon 1862 hatte er die Zeitschrift L’Italia letteraria gegründet",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Angelo De Gubernatis",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q535810.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Angelo De Gubernatis",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,162 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "釈興然",
+   "birth_year": 1849,
+   "death_year": 1924,
+   "nationality": "日本",
+   "field": "仏教"
+  },
+  {
+   "name": "宣明",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "釈雲照",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "鈴木大拙",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "河口慧海",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "釈興然",
+   "type": "student_of",
+   "object": "宣明",
+   "role": "traditional teacher",
+   "place": "岩屋寺",
+   "year_start": 1858,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "安政5年（1858年）に出家、法名を興然とし、母方の伯父でもある岩屋寺住職の宣明のもとで修行する。",
+   "quote_ok": true
+  },
+  {
+   "subject": "釈興然",
+   "type": "other",
+   "object": "宣明",
+   "role": "伯父",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "母方の伯父でもある岩屋寺住職の宣明",
+   "quote_ok": true
+  },
+  {
+   "subject": "釈興然",
+   "type": "position_at",
+   "object": "玉理寺",
+   "role": "住職",
+   "place": "八束郡本庄村",
+   "year_start": 1870,
+   "year_end": 1881,
+   "explicit": true,
+   "evidence": "明治3年（1870年）に八束郡本庄村の玉理寺の住職となり、明治14年（1881年）に住職を辞して",
+   "quote_ok": true
+  },
+  {
+   "subject": "釈興然",
+   "type": "position_at",
+   "object": "長野県北部中学林",
+   "role": "教師",
+   "place": "長野県",
+   "year_start": 1881,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "明治14年（1881年）に住職を辞して長野県北部中学林の教師を務めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "釈興然",
+   "type": "position_at",
+   "object": "横浜三会寺",
+   "role": "住職",
+   "place": "横浜",
+   "year_start": 1882,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "明治15年（1882年）横浜三会寺の住職となる",
+   "quote_ok": true
+  },
+  {
+   "subject": "釈興然",
+   "type": "other",
+   "object": "釈雲照",
+   "role": "叔父",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "戒律復興運動を行っていた叔父・釈雲照",
+   "quote_ok": true
+  },
+  {
+   "subject": "釈興然",
+   "type": "founded",
+   "object": "釈尊正風会",
+   "role": null,
+   "place": "神奈川",
+   "year_start": 1893,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "明治26年（1893年）に帰国後は釈尊正風会を組織し、神奈川を拠点に上座部仏教の普及につとめた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "鈴木大拙",
+   "type": "student_of",
+   "object": "釈興然",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "鈴木大拙や河口慧海のパーリ語の師としても知られ",
+   "quote_ok": true
+  },
+  {
+   "subject": "河口慧海",
+   "type": "student_of",
+   "object": "釈興然",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "鈴木大拙や河口慧海のパーリ語の師としても知られ",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 釈興然",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q11644523.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 釈興然",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

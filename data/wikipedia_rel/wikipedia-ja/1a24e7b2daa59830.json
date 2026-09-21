@@ -1,0 +1,162 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ミシェル・ブレアル",
+   "birth_year": 1832,
+   "death_year": 1915,
+   "nationality": "フランス",
+   "field": "言語学者、比較神話学者"
+  },
+  {
+   "name": "フランツ・ボップ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "アントワーヌ・メイエ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "フェルディナン・ド・ソシュール",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ジョルジュ・デュメジル",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ミシェル・ブレアル",
+   "type": "studied_at",
+   "object": "高等師範学校",
+   "role": null,
+   "place": null,
+   "year_start": 1852,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1852年に高等師範学校に入学。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ミシェル・ブレアル",
+   "type": "studied_at",
+   "object": "ベルリン大学",
+   "role": null,
+   "place": null,
+   "year_start": 1857,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1857年にベルリン大学でフランツ・ボップからサンスクリット語を学ぶ",
+   "quote_ok": true
+  },
+  {
+   "subject": "ミシェル・ブレアル",
+   "type": "student_of",
+   "object": "フランツ・ボップ",
+   "role": "teacher",
+   "place": "ベルリン大学",
+   "year_start": 1857,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1857年にベルリン大学でフランツ・ボップからサンスクリット語を学ぶ",
+   "quote_ok": true
+  },
+  {
+   "subject": "ミシェル・ブレアル",
+   "type": "position_at",
+   "object": "高等研究実習院",
+   "role": "比較文法の教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ブレアルは高等研究実習院やコレージュ・ド・フランスで比較文法の教授を務めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ミシェル・ブレアル",
+   "type": "position_at",
+   "object": "コレージュ・ド・フランス",
+   "role": "比較文法の教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ブレアルは高等研究実習院やコレージュ・ド・フランスで比較文法の教授を務めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アントワーヌ・メイエ",
+   "type": "student_of",
+   "object": "ミシェル・ブレアル",
+   "role": "弟子",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "弟子にアントワーヌ・メイエなど。",
+   "quote_ok": true
+  },
+  {
+   "subject": "フェルディナン・ド・ソシュール",
+   "type": "student_of",
+   "object": "ミシェル・ブレアル",
+   "role": "teacher",
+   "place": "パリ大学",
+   "year_start": 1881,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1881年、フェルディナン・ド・ソシュールがパリ大学でのブレアルの講義を聴講し",
+   "quote_ok": true
+  },
+  {
+   "subject": "フェルディナン・ド・ソシュール",
+   "type": "position_at",
+   "object": "パリ大学",
+   "role": "講師",
+   "place": null,
+   "year_start": 1881,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ソシュールの才能を認めたブレアルは同大学「ゴート語および古代高地ドイツ語」の講師に斡旋した。ソシュールはそこで10年間に渡って教鞭をとった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジョルジュ・デュメジル",
+   "type": "influenced_by",
+   "object": "ミシェル・ブレアル",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "比較神話学を再興したジョルジュ・デュメジルに影響を与えた。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ミシェル・ブレアル",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q327306.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ミシェル・ブレアル",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

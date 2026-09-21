@@ -1,0 +1,176 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Masaharu Anesaki",
+   "birth_year": 1873,
+   "death_year": 1949,
+   "nationality": "Japanese",
+   "field": "religious studies"
+  },
+  {
+   "name": "Tetsujirō Inoue",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  },
+  {
+   "name": "Raphael von Koeber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  },
+  {
+   "name": "Paul Deussen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "Hermann Oldenberg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "Albrecht Weber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "Thomas William Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "English",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Masaharu Anesaki",
+   "type": "studied_at",
+   "object": "Tokyo Imperial University",
+   "role": null,
+   "place": null,
+   "year_start": 1893,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "entered the Tokyo Imperial University in 1893. He majored in philosophy, and his teacher was Tetsujirō Inoue and Raphael von Koeber. He graduated from university in 1897.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Masaharu Anesaki",
+   "type": "student_of",
+   "object": "Tetsujirō Inoue",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1893,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "He majored in philosophy, and his teacher was Tetsujirō Inoue and Raphael von Koeber.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Masaharu Anesaki",
+   "type": "student_of",
+   "object": "Raphael von Koeber",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1893,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "He majored in philosophy, and his teacher was Tetsujirō Inoue and Raphael von Koeber.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Masaharu Anesaki",
+   "type": "position_at",
+   "object": "Tetsugaku Kan",
+   "role": "teaching comparative religion",
+   "place": null,
+   "year_start": 1897,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He started teaching comparative religion at Tetsugaku Kan in 1897.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Masaharu Anesaki",
+   "type": "student_of",
+   "object": "Paul Deussen",
+   "role": null,
+   "place": "Germany",
+   "year_start": 1900,
+   "year_end": 1903,
+   "explicit": true,
+   "evidence": "During this time he studied under Paul Deussen, Hermann Oldenberg, and Albrecht Weber in Germany",
+   "quote_ok": true
+  },
+  {
+   "subject": "Masaharu Anesaki",
+   "type": "student_of",
+   "object": "Hermann Oldenberg",
+   "role": null,
+   "place": "Germany",
+   "year_start": 1900,
+   "year_end": 1903,
+   "explicit": true,
+   "evidence": "During this time he studied under Paul Deussen, Hermann Oldenberg, and Albrecht Weber in Germany",
+   "quote_ok": true
+  },
+  {
+   "subject": "Masaharu Anesaki",
+   "type": "student_of",
+   "object": "Albrecht Weber",
+   "role": null,
+   "place": "Germany",
+   "year_start": 1900,
+   "year_end": 1903,
+   "explicit": true,
+   "evidence": "During this time he studied under Paul Deussen, Hermann Oldenberg, and Albrecht Weber in Germany",
+   "quote_ok": true
+  },
+  {
+   "subject": "Masaharu Anesaki",
+   "type": "student_of",
+   "object": "Thomas William Rhys Davids",
+   "role": null,
+   "place": "England",
+   "year_start": 1900,
+   "year_end": 1903,
+   "explicit": true,
+   "evidence": "as well as Thomas William Rhys Davids in England.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Masaharu Anesaki",
+   "type": "position_at",
+   "object": "Harvard University",
+   "role": "visiting scholar",
+   "place": null,
+   "year_start": 1913,
+   "year_end": 1915,
+   "explicit": true,
+   "evidence": "He spent 1913 to 1915 as a visiting scholar at Harvard University lecturing on Japanese literature and life.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Masaharu Anesaki",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q3850648.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Masaharu Anesaki",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

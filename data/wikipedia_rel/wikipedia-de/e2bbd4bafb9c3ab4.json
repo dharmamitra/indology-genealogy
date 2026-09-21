@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Friedrich August Rosen",
+   "birth_year": 1805,
+   "death_year": 1837,
+   "nationality": "German",
+   "field": "Orientalist und Sanskritist"
+  },
+  {
+   "name": "Georg Rosen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Iranist"
+  },
+  {
+   "name": "Friedrich Rosen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Orientalist"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Friedrich August Rosen",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": 1822,
+   "year_end": 1824,
+   "explicit": true,
+   "evidence": "Rosen studierte von 1822 bis 1824 Jura und Theologie in Leipzig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich August Rosen",
+   "type": "studied_at",
+   "object": "Universität Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1824,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Jahre 1824 wechselte er zum Sanskrit-Studium an die Universität Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich August Rosen",
+   "type": "position_at",
+   "object": "University College in London",
+   "role": "Professor für orientalische Sprachen",
+   "place": "London",
+   "year_start": 1828,
+   "year_end": 1831,
+   "explicit": true,
+   "evidence": "Von 1828 bis 1831 war er Professor für orientalische Sprachen am University College in London.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich August Rosen",
+   "type": "position_at",
+   "object": "Universität London",
+   "role": "Professur für sein eigentliches Fachgebiet, für das Sanskrit",
+   "place": "London",
+   "year_start": 1834,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ab 1834 stand er wieder in Diensten der Universität London. Diesmal wurde ihm die Professur für sein eigentliches Fachgebiet, für das Sanskrit, zugesprochen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich August Rosen",
+   "type": "other",
+   "object": "Georg Rosen",
+   "role": "half-brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rosen war [...] Halbbruder des Iranisten Georg Rosen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich August Rosen",
+   "type": "other",
+   "object": "Friedrich Rosen",
+   "role": "uncle",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rosen war [...] ein Onkel des Orientalisten und späteren deutschen Außenministers Friedrich Rosen.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Friedrich August Rosen",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q71340.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Friedrich August Rosen",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

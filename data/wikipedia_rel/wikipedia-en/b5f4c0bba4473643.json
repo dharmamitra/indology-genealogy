@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Gyatsho Tshering",
+   "birth_year": 1936,
+   "death_year": 2009,
+   "nationality": "Indian",
+   "field": "Tibetan scholar"
+  },
+  {
+   "name": "Thupten Jigme Norbu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Gyatsho Tshering",
+   "type": "studied_at",
+   "object": "University of Calcutta",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "completed his studies at the University of Calcutta",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gyatsho Tshering",
+   "type": "position_at",
+   "object": "Library of Tibetan Works and Archives",
+   "role": "Acting Director",
+   "place": null,
+   "year_start": 1972,
+   "year_end": 1972,
+   "explicit": true,
+   "evidence": "In 1972, he became the Acting Director of the Library of Tibetan Works and Archives newly created until the appointment of Prof. Thupten Jigme Norbu as director in June this same year.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thupten Jigme Norbu",
+   "type": "position_at",
+   "object": "Library of Tibetan Works and Archives",
+   "role": "director",
+   "place": null,
+   "year_start": 1972,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "until the appointment of Prof. Thupten Jigme Norbu as director in June this same year.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gyatsho Tshering",
+   "type": "position_at",
+   "object": "Library of Tibetan Works and Archives",
+   "role": "director",
+   "place": null,
+   "year_start": 1974,
+   "year_end": 1998,
+   "explicit": true,
+   "evidence": "He was appointed by the Dalai Lama as the new director of the Library of Tibetan Works and Archives in 1974 and held that position from 1 March until his retirement April 1998.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Gyatsho Tshering",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q3122606.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Gyatsho Tshering",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

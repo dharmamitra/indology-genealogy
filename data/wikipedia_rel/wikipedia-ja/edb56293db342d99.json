@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "マイケル・アリス",
+   "birth_year": 1946,
+   "death_year": 1999,
+   "nationality": "イギリス",
+   "field": "東洋文化学"
+  },
+  {
+   "name": "アンソニー・アリス",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "チベット文化学"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "マイケル・アリス",
+   "type": "studied_at",
+   "object": "ダラム大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1967,
+   "explicit": true,
+   "evidence": "1967年にダラム大学を卒業し",
+   "quote_ok": true
+  },
+  {
+   "subject": "マイケル・アリス",
+   "type": "position_at",
+   "object": "オックスフォード大学セント・ジョーンズ・カレッジ",
+   "role": "講師",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "オックスフォード大学のセント・ジョーンズ・カレッジなどで講師。",
+   "quote_ok": true
+  },
+  {
+   "subject": "マイケル・アリス",
+   "type": "studied_at",
+   "object": "ロンドン大学ソアーズ(SOAS)",
+   "role": "博士",
+   "place": null,
+   "year_start": null,
+   "year_end": 1978,
+   "explicit": true,
+   "evidence": "1978年ロンドン大学ソアーズ(SOAS)で博士号取得。",
+   "quote_ok": true
+  },
+  {
+   "subject": "マイケル・アリス",
+   "type": "other",
+   "object": "アンソニー・アリス",
+   "role": "双子の兄",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "双子の兄：アンソニー・アリスもチベット文化学者で、出版関係者。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): マイケル・アリス",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q983928.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): マイケル・アリス",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

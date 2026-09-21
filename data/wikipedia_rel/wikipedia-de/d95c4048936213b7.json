@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ōtani Kōzui",
+   "birth_year": 1876,
+   "death_year": 1948,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Maeda Keiun",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ōtani Kōzui",
+   "type": "studied_at",
+   "object": "Adligenschule (gakushū’in)",
+   "role": null,
+   "place": "Tokio",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Seine Ausbildung erhielt er an der Adligenschule (gakushū’in) in Tokio.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ōtani Kōzui",
+   "type": "student_of",
+   "object": "Maeda Keiun",
+   "role": "teacher",
+   "place": "Kyōto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Unter Maeda Keiun hatte er in Kyōto bereits buddhistische und chinesische Klassiker studiert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ōtani Kōzui",
+   "type": "position_at",
+   "object": "Nishi Hongan-ji",
+   "role": "Vorsteher / Monshu",
+   "place": "Kyōto",
+   "year_start": 1903,
+   "year_end": 1914,
+   "explicit": true,
+   "evidence": "trat er 1903, schnell nach Japan zurückkehrend, die Nachfolge des Vorstehers des Nishi Hongan-ji an [...] Der Finanzskandal, von der Presse totgeschwiegen, zwang ihn 1914 zur Niederlegung seines Amtes",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Ōtani Kōzui",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q386254.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Ōtani Kōzui",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

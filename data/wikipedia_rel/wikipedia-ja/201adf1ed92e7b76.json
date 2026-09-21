@@ -1,0 +1,136 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "エドウィン・アーノルド",
+   "birth_year": 1832,
+   "death_year": 1904,
+   "nationality": "イギリス",
+   "field": "仏教学, 東洋学, 日本研究"
+  },
+  {
+   "name": "アナガーリカ・ダルマパーラ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "スリランカ",
+   "field": "仏教"
+  },
+  {
+   "name": "バジル・ホール・チェンバレン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "エドウィン・アーノルド",
+   "type": "studied_at",
+   "object": "キングス・カレッジ・ロンドン",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "キングス・カレッジ・ロンドンを経て、オックスフォード大学へ進む。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エドウィン・アーノルド",
+   "type": "studied_at",
+   "object": "オックスフォード大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "キングス・カレッジ・ロンドンを経て、オックスフォード大学へ進む。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エドウィン・アーノルド",
+   "type": "position_at",
+   "object": "King Edward's School",
+   "role": "校長",
+   "place": "バーミンガム",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "卒業後、バーミンガムのKing Edward's School (KES) の校長となる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エドウィン・アーノルド",
+   "type": "position_at",
+   "object": "インド国立サンスクリット大学",
+   "role": "校長（学長）",
+   "place": "プネー",
+   "year_start": 1856,
+   "year_end": 1863,
+   "explicit": true,
+   "evidence": "1856年に東インド会社の斡旋でインド、プネーに開校されたサンスクリット大学に招かれ、7年間校長を務めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エドウィン・アーノルド",
+   "type": "position_at",
+   "object": "慶應義塾",
+   "role": "客員講師",
+   "place": null,
+   "year_start": 1889,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "アーノルドは慶應義塾の客員講師となり、化学及び英訳を担当した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エドウィン・アーノルド",
+   "type": "collaborated_with",
+   "object": "アナガーリカ・ダルマパーラ",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "スリランカの仏教指導者・アナガーリカ・ダルマパーラと共にBodhi Societyを創立した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エドウィン・アーノルド",
+   "type": "founded",
+   "object": "Bodhi Society",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "スリランカの仏教指導者・アナガーリカ・ダルマパーラと共にBodhi Societyを創立した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エドウィン・アーノルド",
+   "type": "other",
+   "object": "バジル・ホール・チェンバレン",
+   "role": "交友",
+   "place": "日本",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "当時の内閣法律顧問フランシス・テイラー・ピゴットやバジル・ホール・チェンバレンとも交わり、日本各地を旅した。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): エドウィン・アーノルド",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q115371.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): エドウィン・アーノルド",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

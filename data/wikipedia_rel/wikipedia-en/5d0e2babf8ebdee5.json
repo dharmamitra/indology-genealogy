@@ -1,0 +1,124 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Franz Anton Schiefner",
+   "birth_year": 1817,
+   "death_year": 1879,
+   "nationality": "Baltic German",
+   "field": "linguist and tibetologist"
+  },
+  {
+   "name": "Matthias Alexander Castrén",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Peter von Uslar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Franz Anton Schiefner",
+   "type": "studied_at",
+   "object": "St Petersburg",
+   "role": "law student",
+   "place": "St Petersburg",
+   "year_start": 1836,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "matriculated at St Petersburg as a law student in 1836",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Anton Schiefner",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1840,
+   "year_end": 1842,
+   "explicit": true,
+   "evidence": "and subsequently at Berlin, from 1840 to 1842, where he devoted himself exclusively to studies of Eastern languages",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Anton Schiefner",
+   "type": "position_at",
+   "object": "First Grammar School",
+   "role": "classics teacher",
+   "place": "St Petersburg",
+   "year_start": 1843,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "On his return to St Petersburg in 1843 he taught classics in the First Grammar School",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Anton Schiefner",
+   "type": "position_at",
+   "object": "Imperial Academy",
+   "role": "extraordinary member",
+   "place": "St Petersburg",
+   "year_start": 1854,
+   "year_end": 1879,
+   "explicit": true,
+   "evidence": "From 1854 until his death he was an extraordinary member of the Imperial Academy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Anton Schiefner",
+   "type": "position_at",
+   "object": "Saint Petersburg Roman Catholic Theological Academy",
+   "role": "professorship of classical languages",
+   "place": "Saint Petersburg",
+   "year_start": 1860,
+   "year_end": 1873,
+   "explicit": true,
+   "evidence": "From 1860 to 1873 he simultaneously held the professorship of classical languages in the Saint Petersburg Roman Catholic Theological Academy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Anton Schiefner",
+   "type": "collaborated_with",
+   "object": "Matthias Alexander Castrén",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "he arranged, completed and brought out in twelve volumes the literary remains of Matthias Alexander Castrén",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Anton Schiefner",
+   "type": "influenced_by",
+   "object": "Peter von Uslar",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in quick succession, from Baron Peter von Uslar's investigations, comprehensive papers on the Avar, Udi, Abkhaz, Chechen, Kasi-Kumuk, and Hyrcanian languages",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Franz Anton Schiefner",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q551620.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Franz Anton Schiefner",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

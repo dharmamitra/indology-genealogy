@@ -1,0 +1,174 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Peter von Bohlen",
+   "birth_year": 1796,
+   "death_year": 1840,
+   "nationality": "German",
+   "field": "Orientalist"
+  },
+  {
+   "name": "Georg Wilhelm Freytag",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "August Wilhelm von Schlegel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Franz Bopp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "August Conrady",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sinologe"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Peter von Bohlen",
+   "type": "studied_at",
+   "object": "Universität Halle",
+   "role": null,
+   "place": "Halle",
+   "year_start": 1821,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "bezog 1821 die Universität Halle",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter von Bohlen",
+   "type": "studied_at",
+   "object": "Universität Bonn",
+   "role": null,
+   "place": "Bonn",
+   "year_start": 1822,
+   "year_end": 1824,
+   "explicit": true,
+   "evidence": "dann, vom preußischen Ministerium unterstützt, 1822–24 die Universität Bonn",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter von Bohlen",
+   "type": "student_of",
+   "object": "Georg Wilhelm Freytag",
+   "role": "teacher",
+   "place": "Bonn",
+   "year_start": 1822,
+   "year_end": 1824,
+   "explicit": true,
+   "evidence": "um unter Georg Wilhelm Freytag das Arabische [...] zu studieren",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter von Bohlen",
+   "type": "student_of",
+   "object": "August Wilhelm von Schlegel",
+   "role": "teacher",
+   "place": "Bonn",
+   "year_start": 1822,
+   "year_end": 1824,
+   "explicit": true,
+   "evidence": "und unter August Wilhelm von Schlegel das Sanskrit zu studieren",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter von Bohlen",
+   "type": "student_of",
+   "object": "Franz Bopp",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nachdem er noch in Berlin ein Semester an Franz Bopps Unterricht teilgenommen hatte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter von Bohlen",
+   "type": "position_at",
+   "object": "Königsberg",
+   "role": "besoldeter Dozent",
+   "place": "Königsberg",
+   "year_start": 1825,
+   "year_end": 1826,
+   "explicit": true,
+   "evidence": "wurde er 1825 in Königsberg besoldeter Dozent",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter von Bohlen",
+   "type": "position_at",
+   "object": "Königsberg",
+   "role": "außerordentlicher Professor der orientalischen Literatur",
+   "place": "Königsberg",
+   "year_start": 1826,
+   "year_end": 1828,
+   "explicit": true,
+   "evidence": "1826 außerordentlicher [...] Professor der orientalischen Literatur",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter von Bohlen",
+   "type": "position_at",
+   "object": "Königsberg",
+   "role": "ordentlicher Professor der orientalischen Literatur",
+   "place": "Königsberg",
+   "year_start": 1828,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1828 schließlich ordentlicher Professor der orientalischen Literatur",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter von Bohlen",
+   "type": "studied_at",
+   "object": "Königsberg",
+   "role": "Habilitation",
+   "place": "Königsberg",
+   "year_start": null,
+   "year_end": 1826,
+   "explicit": true,
+   "evidence": "seine Habilitationsschrift Carmen arabicum Amuli dictum (Königsberg 1826) selbst setzen",
+   "quote_ok": true
+  },
+  {
+   "subject": "August Conrady",
+   "type": "other",
+   "object": "Peter von Bohlen",
+   "role": "grandson",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Durch eine weitere Tochter, Babette, war von Bohlen der Großvater des Sinologen August Conrady.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Peter von Bohlen",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q78113.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Peter von Bohlen",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

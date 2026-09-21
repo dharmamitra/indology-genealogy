@@ -1,0 +1,157 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Anthony François Paulus Hulsewé",
+   "birth_year": 1910,
+   "death_year": 1993,
+   "nationality": "Dutch",
+   "field": "Sinology"
+  },
+  {
+   "name": "J. J. L. Duyvendak",
+   "birth_year": null,
+   "death_year": 1954,
+   "nationality": "Dutch",
+   "field": "Sinology"
+  },
+  {
+   "name": "Marius van der Valk",
+   "birth_year": 1908,
+   "death_year": 1978,
+   "nationality": null,
+   "field": "modern Chinese law"
+  },
+  {
+   "name": "Chang T'ien-tse",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": null
+  },
+  {
+   "name": "Liang Qixiong",
+   "birth_year": 1900,
+   "death_year": 1965,
+   "nationality": "Chinese",
+   "field": null
+  },
+  {
+   "name": "Karl Bünger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Anthony François Paulus Hulsewé",
+   "type": "studied_at",
+   "object": "Leiden University",
+   "role": null,
+   "place": null,
+   "year_start": 1928,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "entering Leiden University in the autumn of 1928 to study Chinese under the Dutch Sinologist J. J. L. Duyvendak.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anthony François Paulus Hulsewé",
+   "type": "student_of",
+   "object": "J. J. L. Duyvendak",
+   "role": "teacher",
+   "place": "Leiden University",
+   "year_start": 1928,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "entering Leiden University in the autumn of 1928 to study Chinese under the Dutch Sinologist J. J. L. Duyvendak.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anthony François Paulus Hulsewé",
+   "type": "student_of",
+   "object": "Chang T'ien-tse",
+   "role": "teacher",
+   "place": "Leiden University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Duyvendak's Chinese assistant Chang T'ien-tse, a native of Fujian Province, provided them with instruction in modern Mandarin Chinese as well as some basic training in Hokkien Chinese",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anthony François Paulus Hulsewé",
+   "type": "student_of",
+   "object": "Liang Qixiong",
+   "role": "instructor",
+   "place": "Beijing",
+   "year_start": 1931,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "While in Beijing, Hulsewé's instructor in Classical Chinese was Liang Qixiong (梁啟雄; 1900–1965), a scholar and the younger brother of famed Chinese writer Liang Qichao.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anthony François Paulus Hulsewé",
+   "type": "position_at",
+   "object": "Leiden University",
+   "role": "lecturer in Chinese",
+   "place": "Leiden",
+   "year_start": 1946,
+   "year_end": 1956,
+   "explicit": true,
+   "evidence": "In 1946, after the end of the war, Hulsewé returned to the Netherlands, where Duyvendak offered him a position as a lecturer in Chinese at Leiden, which he accepted.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anthony François Paulus Hulsewé",
+   "type": "succeeded",
+   "object": "J. J. L. Duyvendak",
+   "role": "Professor of Chinese",
+   "place": "Leiden",
+   "year_start": 1956,
+   "year_end": 1975,
+   "explicit": true,
+   "evidence": "Following Duyvendak's death in 1954, Hulsewé was chosen in 1956 to succeed him as Professor of Chinese at Leiden, a position he held until his retirement in 1975.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anthony François Paulus Hulsewé",
+   "type": "position_at",
+   "object": "Leiden University",
+   "role": "Professor of Chinese",
+   "place": "Leiden",
+   "year_start": 1956,
+   "year_end": 1975,
+   "explicit": true,
+   "evidence": "Following Duyvendak's death in 1954, Hulsewé was chosen in 1956 to succeed him as Professor of Chinese at Leiden, a position he held until his retirement in 1975.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Marius van der Valk",
+   "type": "position_at",
+   "object": "Leiden University",
+   "role": "professor of modern Chinese law",
+   "place": "Leiden",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His only classmate during his first year was Marius van der Valk (1908–1978), who studied Chinese and law, and later became a professor of modern Chinese law at Leiden.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): A. F. P. Hulsewé",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q18785004.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): A. F. P. Hulsewé",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

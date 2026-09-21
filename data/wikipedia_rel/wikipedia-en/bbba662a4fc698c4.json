@@ -1,0 +1,133 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Jigdal Dagchen Sakya Rinpoche",
+   "birth_year": 1929,
+   "death_year": 2016,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Trichen Ngawang Thutop Wangchuk",
+   "birth_year": null,
+   "death_year": 1950,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Jamyang Chökyi Lodrö",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Dilgo Khyentse Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Turrell V. Wylie",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "Tibetan Studies"
+  },
+  {
+   "name": "Dezhung Rinpoche III",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jigdal Dagchen Sakya Rinpoche",
+   "type": "student_of",
+   "object": "Trichen Ngawang Thutop Wangchuk",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Thus, Rinpoche's primary spiritual teacher was his father, Trichen Ngawang Thutop Wangchuk.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jigdal Dagchen Sakya Rinpoche",
+   "type": "student_of",
+   "object": "Jamyang Chökyi Lodrö",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among them were his root lamas, Jamyang Chökyi Lodrö and Dilgo Khyentse Rinpoche... From Jamyang Chökyi Lodrö Rinpoche, Dagchen Rinpoche received initiations and teachings",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jigdal Dagchen Sakya Rinpoche",
+   "type": "student_of",
+   "object": "Dilgo Khyentse Rinpoche",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From Dilgo Khyentse Rinpoche, Dagchen Rinpoche received teachings on the thirteen-volume Damngak Dzö",
+   "quote_ok": true
+  },
+  {
+   "subject": "Turrell V. Wylie",
+   "type": "position_at",
+   "object": "University of Washington",
+   "role": "Professor",
+   "place": "Seattle, Washington",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Turrell V. Wylie from the Tibetan Studies Program at the University of Washington",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jigdal Dagchen Sakya Rinpoche",
+   "type": "position_at",
+   "object": "University of Washington",
+   "role": null,
+   "place": "Seattle, Washington",
+   "year_start": 1960,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Following that, over the next decade Rinpoche held several positions at the University of Washington, including working in the Anthropology Department and at the Burke Museum",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jigdal Dagchen Sakya Rinpoche",
+   "type": "collaborated_with",
+   "object": "Dezhung Rinpoche III",
+   "role": "co-founder",
+   "place": "Seattle",
+   "year_start": 1974,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1974 Dagchen Rinpoche co-founded, with Dezhung Rinpoche III, his wife's uncle, the original Sakya Dharma Center in Seattle called Sakya Tegchen Choling.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Jigdal Dagchen Sakya",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q6192288.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Jigdal Dagchen Sakya",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "クルト・フーバー",
+   "birth_year": 1893,
+   "death_year": 1943,
+   "nationality": "ドイツ",
+   "field": "哲学"
+  },
+  {
+   "name": "ハンス・ショル",
+   "birth_year": null,
+   "death_year": 1943,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "クルト・フーバー",
+   "type": "position_at",
+   "object": "ミュンヘン大学",
+   "role": "客員教授",
+   "place": null,
+   "year_start": 1926,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1926年、ミュンヘン大学で、客員教授として、心理学や哲学の講義を持つこととなる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ハンス・ショル",
+   "type": "student_of",
+   "object": "クルト・フーバー",
+   "role": "teacher",
+   "place": "ミュンヘン大学",
+   "year_start": 1942,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1942年、講義を受けていた一人のハンス・ショルと知り合いになる。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): クルト・フーバー",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q57812.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): クルト・フーバー",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

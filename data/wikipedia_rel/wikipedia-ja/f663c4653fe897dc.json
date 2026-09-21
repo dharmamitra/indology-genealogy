@@ -1,0 +1,124 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ワルター・ハイシッヒ",
+   "birth_year": 1913,
+   "death_year": null,
+   "nationality": "オーストリア",
+   "field": "モンゴル研究"
+  },
+  {
+   "name": "リンチェン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ニコラス・ポッペ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ワルター・ハイシッヒ",
+   "type": "studied_at",
+   "object": "ウィーン",
+   "role": "博士号",
+   "place": "ウィーン",
+   "year_start": null,
+   "year_end": 1941,
+   "explicit": true,
+   "evidence": "ウィーンとベルリンで先史時代、民族学、歴史地理学、宗教学、モンゴル語を学び、1941年にウィーンで博士号を取得した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ワルター・ハイシッヒ",
+   "type": "position_at",
+   "object": "輔仁大学",
+   "role": null,
+   "place": "北京",
+   "year_start": null,
+   "year_end": 1945,
+   "explicit": true,
+   "evidence": "北京の輔仁大学に務めるかたわら、内モンゴル各地で調査を行った。しかし、1945年に第二次世界大戦が終結すると、ハイシッヒは中国を離れなければならなくなり",
+   "quote_ok": true
+  },
+  {
+   "subject": "ワルター・ハイシッヒ",
+   "type": "studied_at",
+   "object": "ゲッティンゲン大学",
+   "role": "教授資格試験(Habilitation)",
+   "place": null,
+   "year_start": null,
+   "year_end": 1951,
+   "explicit": true,
+   "evidence": "1951年、ハイシッヒはゲッティンゲン大学で教授資格試験(Habilitation,研究と教育を行うための資格) を取得した",
+   "quote_ok": true
+  },
+  {
+   "subject": "ワルター・ハイシッヒ",
+   "type": "studied_at",
+   "object": "ボン大学",
+   "role": "教授資格試験",
+   "place": null,
+   "year_start": null,
+   "year_end": 1957,
+   "explicit": true,
+   "evidence": "1957年にボン大学で改めて教授資格試験を取得した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ワルター・ハイシッヒ",
+   "type": "position_at",
+   "object": "ボン大学",
+   "role": "「中央アジア言語・文化研究所」の教授",
+   "place": null,
+   "year_start": 1964,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1964年、ハイシッヒはボン大学で新設の「中央アジア言語・文化研究所」の教授となり、以後ここで精力的に研究を行った。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ワルター・ハイシッヒ",
+   "type": "collaborated_with",
+   "object": "リンチェン",
+   "role": null,
+   "place": null,
+   "year_start": 1960,
+   "year_end": 1972,
+   "explicit": true,
+   "evidence": "1960年から1972年にかけて出版されたリンチェンによる5巻シリーズの\"Folklore mongol\"や、ニコラス・ポッペによる13巻シリーズの\"Mongolische Epen\"などはハイシッヒの助けを借りて完成した書籍である。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ワルター・ハイシッヒ",
+   "type": "collaborated_with",
+   "object": "ニコラス・ポッペ",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ニコラス・ポッペによる13巻シリーズの\"Mongolische Epen\"などはハイシッヒの助けを借りて完成した書籍である。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ワルター・ハイシッヒ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q112682.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ワルター・ハイシッヒ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

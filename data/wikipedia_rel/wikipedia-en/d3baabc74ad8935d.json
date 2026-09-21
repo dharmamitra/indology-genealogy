@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Alfred Antony Francis Gell",
+   "birth_year": 1945,
+   "death_year": 1997,
+   "nationality": "British",
+   "field": "social anthropology"
+  },
+  {
+   "name": "Edmund Leach",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Raymond Firth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Alfred Antony Francis Gell",
+   "type": "student_of",
+   "object": "Edmund Leach",
+   "role": "MPhil supervisor",
+   "place": "Cambridge University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was trained by Edmund Leach (MPhil, Cambridge University)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Antony Francis Gell",
+   "type": "studied_at",
+   "object": "Cambridge University",
+   "role": "MPhil",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was trained by Edmund Leach (MPhil, Cambridge University)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Antony Francis Gell",
+   "type": "student_of",
+   "object": "Raymond Firth",
+   "role": "doctoral supervisor",
+   "place": "London School of Economics",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was trained by Edmund Leach (MPhil, Cambridge University) and Raymond Firth (PhD, London School of Economics)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Antony Francis Gell",
+   "type": "studied_at",
+   "object": "London School of Economics",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Raymond Firth (PhD, London School of Economics)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Antony Francis Gell",
+   "type": "position_at",
+   "object": "London School of Economics",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gell taught at the London School of Economics, among other places.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Antony Francis Gell",
+   "type": "position_at",
+   "object": "British Academy",
+   "role": "Fellow",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was also a Fellow of the British Academy.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Alfred Gell",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q4722715.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Alfred Gell",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

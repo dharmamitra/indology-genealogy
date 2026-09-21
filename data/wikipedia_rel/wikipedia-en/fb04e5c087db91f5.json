@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Edward Vernon Arnold",
+   "birth_year": 1857,
+   "death_year": 1926,
+   "nationality": "British",
+   "field": "Indology, Classical studies"
+  },
+  {
+   "name": "Rudolf von Roth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Conway, R. S.",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Edward Vernon Arnold",
+   "type": "studied_at",
+   "object": "University of Cambridge",
+   "role": "B.A., M.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1879,
+   "explicit": true,
+   "evidence": "he studied at the University of Cambridge (Trinity College), graduating in 1879 (B.A., 1st class Classical and Mathematical Triposes; M.A. 1882)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Vernon Arnold",
+   "type": "studied_at",
+   "object": "University of Tübingen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then at the University of Tübingen (under the Sanskrit scholar Rudolf von Roth).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Vernon Arnold",
+   "type": "student_of",
+   "object": "Rudolf von Roth",
+   "role": "teacher",
+   "place": "University of Tübingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then at the University of Tübingen (under the Sanskrit scholar Rudolf von Roth).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Vernon Arnold",
+   "type": "position_at",
+   "object": "Trinity College, Cambridge",
+   "role": "fellow",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A fellow of Trinity College, Cambridge,",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Vernon Arnold",
+   "type": "position_at",
+   "object": "University College of North Wales in Bangor",
+   "role": "Professor of Latin",
+   "place": "Bangor",
+   "year_start": 1884,
+   "year_end": 1924,
+   "explicit": true,
+   "evidence": "from 1884 to 1924 he was Professor of Latin at the University College of North Wales in Bangor.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Vernon Arnold",
+   "type": "collaborated_with",
+   "object": "Conway, R. S.",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": 1908,
+   "explicit": true,
+   "evidence": "Arnold, E. V. and Conway, R. S. (1908) The Restored Pronunciation of Greek and Latin, 4th edition.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Edward Vernon Arnold",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q59629525.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Edward Vernon Arnold",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,145 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "オットー・カール・ユリウス・ローゼンベルク",
+   "birth_year": 1888,
+   "death_year": 1919,
+   "nationality": "ロシア",
+   "field": null
+  },
+  {
+   "name": "フョードル・シチェルバツコイ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "インド哲学"
+  },
+  {
+   "name": "ヘルマン・ヤコービ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ルドルフ・ランゲ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "荻原雲来",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "高楠順次郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "オットー・カール・ユリウス・ローゼンベルク",
+   "type": "studied_at",
+   "object": "サンクトペテルブルク大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "サンクトペテルブルク大学に進む。...1910年に同大学を卒業。",
+   "quote_ok": true
+  },
+  {
+   "subject": "オットー・カール・ユリウス・ローゼンベルク",
+   "type": "student_of",
+   "object": "フョードル・シチェルバツコイ",
+   "role": "teacher",
+   "place": "サンクトペテルブルク大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "東洋学部でインド哲学を教授したフョードル・シチェルバツコイに師事し",
+   "quote_ok": true
+  },
+  {
+   "subject": "フョードル・シチェルバツコイ",
+   "type": "position_at",
+   "object": "サンクトペテルブルク大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "サンクトペテルブルク大学に進む。東洋学部でインド哲学を教授したフョードル・シチェルバツコイ",
+   "quote_ok": true
+  },
+  {
+   "subject": "オットー・カール・ユリウス・ローゼンベルク",
+   "type": "studied_at",
+   "object": "ボン大学",
+   "role": null,
+   "place": null,
+   "year_start": 1909,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1909年にはボン大学に留学し、ヘルマン・ヤコービと共に学んでいる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "オットー・カール・ユリウス・ローゼンベルク",
+   "type": "student_of",
+   "object": "ヘルマン・ヤコービ",
+   "role": "teacher",
+   "place": "ボン大学",
+   "year_start": 1909,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1909年にはボン大学に留学し、ヘルマン・ヤコービと共に学んでいる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "オットー・カール・ユリウス・ローゼンベルク",
+   "type": "position_at",
+   "object": "サンクトペテルブルク大学",
+   "role": null,
+   "place": null,
+   "year_start": 1911,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1911年より母校のサンクトペテルブルク大学東洋学部サンスクリット科で働き始め",
+   "quote_ok": true
+  },
+  {
+   "subject": "オットー・カール・ユリウス・ローゼンベルク",
+   "type": "student_of",
+   "object": "ルドルフ・ランゲ",
+   "role": "teacher",
+   "place": "ベルリン",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ベルリンのルドルフ・ランゲの下で研修を積む。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): オットー・カール・ユリウス・ローゼンベルク",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q4396532.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): オットー・カール・ユリウス・ローゼンベルク",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

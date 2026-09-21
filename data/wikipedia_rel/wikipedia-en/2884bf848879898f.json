@@ -1,0 +1,148 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John Peile",
+   "birth_year": 1838,
+   "death_year": 1910,
+   "nationality": "English",
+   "field": "philologist"
+  },
+  {
+   "name": "Walter William Skeat",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Alfred Chilton Pearson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Peile",
+   "type": "position_at",
+   "object": "Christ's College",
+   "role": "Master",
+   "place": null,
+   "year_start": 1887,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He served as Master of Christ's College and Vice-Chancellor of the University of Cambridge.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Peile",
+   "type": "position_at",
+   "object": "University of Cambridge",
+   "role": "Vice-Chancellor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He served as Master of Christ's College and Vice-Chancellor of the University of Cambridge.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Peile",
+   "type": "collaborated_with",
+   "object": "Walter William Skeat",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He collaborated with Walter William Skeat and taught Alfred Chilton Pearson.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Chilton Pearson",
+   "type": "student_of",
+   "object": "John Peile",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1879,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among Peile's students was Alfred Chilton Pearson, who learned Sanskrit from him following his matriculation at Christ's in 1879.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Peile",
+   "type": "studied_at",
+   "object": "Christ's College, Cambridge",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was educated at Repton School... St. Bees School and Christ's College, Cambridge.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Peile",
+   "type": "position_at",
+   "object": "Christ's College",
+   "role": "Fellow and Tutor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he became Fellow and Tutor of his college",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Peile",
+   "type": "position_at",
+   "object": "University of Cambridge",
+   "role": "Reader of Comparative Philology",
+   "place": null,
+   "year_start": 1884,
+   "year_end": 1891,
+   "explicit": true,
+   "evidence": "Reader of Comparative Philology in the university (1884–1891)",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Peile",
+   "type": "position_at",
+   "object": "Newnham College",
+   "role": "president",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He took a great interest in the higher education of women and became president of Newnham College.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Chilton Pearson",
+   "type": "studied_at",
+   "object": "Christ's College",
+   "role": null,
+   "place": null,
+   "year_start": 1879,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Alfred Chilton Pearson, who learned Sanskrit from him following his matriculation at Christ's in 1879.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): John Peile",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q6252434.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): John Peile",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

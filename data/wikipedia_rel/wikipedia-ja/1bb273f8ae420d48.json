@@ -1,0 +1,143 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ニルス・ルズヴィ・ヴェスタゴー",
+   "birth_year": 1815,
+   "death_year": 1878,
+   "nationality": "デンマーク",
+   "field": "文献学者、東洋学者。インド学、イラン学"
+  },
+  {
+   "name": "クリスチャン・ラッセン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "オットー・フォン・ベートリンク",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "アドルフ・フリードリヒ・シュテンツラー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ニルス・ルズヴィ・ヴェスタゴー",
+   "type": "studied_at",
+   "object": "コペンハーゲン大学",
+   "role": null,
+   "place": null,
+   "year_start": 1833,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1833年にコペンハーゲン大学に入学して古ノルド語とサンスクリットを学んだ",
+   "quote_ok": true
+  },
+  {
+   "subject": "ニルス・ルズヴィ・ヴェスタゴー",
+   "type": "studied_at",
+   "object": "ボン大学",
+   "role": null,
+   "place": null,
+   "year_start": 1838,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1838年にボン大学でクリスチャン・ラッセンにアヴェスター語とペルシア語を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ニルス・ルズヴィ・ヴェスタゴー",
+   "type": "student_of",
+   "object": "クリスチャン・ラッセン",
+   "role": "teacher",
+   "place": "ボン大学",
+   "year_start": 1838,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1838年にボン大学でクリスチャン・ラッセンにアヴェスター語とペルシア語を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ニルス・ルズヴィ・ヴェスタゴー",
+   "type": "other",
+   "object": "オットー・フォン・ベートリンク",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "友人にオットー・フォン・ベートリンクがいた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ニルス・ルズヴィ・ヴェスタゴー",
+   "type": "position_at",
+   "object": "コペンハーゲン大学",
+   "role": "講師",
+   "place": null,
+   "year_start": 1844,
+   "year_end": 1845,
+   "explicit": false,
+   "evidence": "帰国後、コペンハーゲン大学の講師の職を得た。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ニルス・ルズヴィ・ヴェスタゴー",
+   "type": "position_at",
+   "object": "コペンハーゲン大学",
+   "role": "員外教授",
+   "place": null,
+   "year_start": 1845,
+   "year_end": 1850,
+   "explicit": true,
+   "evidence": "1845年に員外教授、1850年にインド・東洋文献学の正教授に昇任した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ニルス・ルズヴィ・ヴェスタゴー",
+   "type": "position_at",
+   "object": "コペンハーゲン大学",
+   "role": "インド・東洋文献学の正教授",
+   "place": null,
+   "year_start": 1850,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1850年にインド・東洋文献学の正教授に昇任した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ニルス・ルズヴィ・ヴェスタゴー",
+   "type": "position_at",
+   "object": "コペンハーゲン大学",
+   "role": "学長",
+   "place": null,
+   "year_start": 1867,
+   "year_end": 1868,
+   "explicit": true,
+   "evidence": "1867年から翌年にかけては学長をつとめた。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ニルス・ルズヴィ・ヴェスタゴー",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q326898.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ニルス・ルズヴィ・ヴェスタゴー",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

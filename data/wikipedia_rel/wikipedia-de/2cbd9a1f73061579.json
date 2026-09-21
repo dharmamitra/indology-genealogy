@@ -1,0 +1,145 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Reinhold Klotz",
+   "birth_year": 1807,
+   "death_year": 1870,
+   "nationality": "German",
+   "field": "Klassische Philologie"
+  },
+  {
+   "name": "Gottfried Hermann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Oscar Ferdinand Peschel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Geografie"
+  },
+  {
+   "name": "Heinrich Wuttke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Friedrich Lübker",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ernst Eduard Hudemann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Reinhold Klotz",
+   "type": "studied_at",
+   "object": "Universität Leipzig",
+   "role": "Habilitation",
+   "place": "Leipzig",
+   "year_start": 1826,
+   "year_end": 1831,
+   "explicit": true,
+   "evidence": "Mit 19 Jahren begann Klotz 1826 an der Universität Leipzig zu studieren und konnte dieses Studium bereits 1831 mit einer Habilitation in klassischer Philologie erfolgreich beenden.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Reinhold Klotz",
+   "type": "position_at",
+   "object": "Universität Leipzig",
+   "role": "außerordentlicher Professor",
+   "place": "Leipzig",
+   "year_start": 1832,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er blieb an der Universität und wurde im darauffolgenden Jahr zum außerordentlichen Professor ernannt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Reinhold Klotz",
+   "type": "position_at",
+   "object": "Universität Leipzig",
+   "role": "ordentlicher Professor",
+   "place": "Leipzig",
+   "year_start": 1849,
+   "year_end": 1870,
+   "explicit": true,
+   "evidence": "Ende 1849 wurde er unter größtem Widerstand seiner gesamten Kollegenschaft als Nachfolger Gottfried Hermanns zum ordentlichen Professor berufen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Reinhold Klotz",
+   "type": "succeeded",
+   "object": "Gottfried Hermann",
+   "role": null,
+   "place": "Universität Leipzig",
+   "year_start": 1849,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ende 1849 wurde er unter größtem Widerstand seiner gesamten Kollegenschaft als Nachfolger Gottfried Hermanns zum ordentlichen Professor berufen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Oscar Ferdinand Peschel",
+   "type": "position_at",
+   "object": "Universität Leipzig",
+   "role": "Professor / Lehrstuhl Geografie",
+   "place": "Leipzig",
+   "year_start": 1871,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nach seinem Tod richtete die Universität 1871 das Fach Geografie als selbstständige akademische Disziplin ein und berief Oscar Ferdinand Peschel auf den neuen Lehrstuhl.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Reinhold Klotz",
+   "type": "collaborated_with",
+   "object": "Friedrich Lübker",
+   "role": "Herausgeber/Mitarbeiter",
+   "place": null,
+   "year_start": 1857,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Handwörterbuch der lateinischen Sprache. Herausgegeben von Reinhold Klotz unter Mitwirkung von Friedrich Lübker und Ernst Eduard Hudemann.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Reinhold Klotz",
+   "type": "collaborated_with",
+   "object": "Ernst Eduard Hudemann",
+   "role": "Herausgeber/Mitarbeiter",
+   "place": null,
+   "year_start": 1857,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Handwörterbuch der lateinischen Sprache. Herausgegeben von Reinhold Klotz unter Mitwirkung von Friedrich Lübker und Ernst Eduard Hudemann.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Reinhold Klotz",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q89704.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Reinhold Klotz",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

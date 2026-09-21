@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Pierre Antoine Louis Havet",
+   "birth_year": 1849,
+   "death_year": 1925,
+   "nationality": "French",
+   "field": "Latinist and Hellenist"
+  },
+  {
+   "name": "Ernest Havet",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Pierre Antoine Louis Havet",
+   "type": "other",
+   "object": "Ernest Havet",
+   "role": "son of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was the son of Ernest Havet.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pierre Antoine Louis Havet",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "professor and chairman of the department of Latin philology",
+   "place": null,
+   "year_start": 1885,
+   "year_end": 1925,
+   "explicit": true,
+   "evidence": "He was professor at Collège de France, where between 1885 and 1925 he was chairman of the department of Latin philology.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pierre Antoine Louis Havet",
+   "type": "position_at",
+   "object": "Académie des Inscriptions et Belles-Lettres",
+   "role": "member",
+   "place": null,
+   "year_start": 1893,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Beginning in 1893, he was a member of the Académie des Inscriptions et Belles-Lettres.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pierre Antoine Louis Havet",
+   "type": "position_at",
+   "object": "Association Guillaume Budé",
+   "role": "vice-president",
+   "place": null,
+   "year_start": 1917,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1917, he became the first vice-president of the Association Guillaume Budé.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Louis Havet",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q3262149.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Louis Havet",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

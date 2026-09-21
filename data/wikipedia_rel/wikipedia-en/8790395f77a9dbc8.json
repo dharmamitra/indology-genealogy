@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ōtani Kōzui (大谷 光瑞)",
+   "birth_year": 1876,
+   "death_year": 1948,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Ōtani Kōson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ōtani Kosho",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ōtani Kōzui (大谷 光瑞)",
+   "type": "position_at",
+   "object": "Nishi Hongan-ji",
+   "role": "22nd Abbot",
+   "place": null,
+   "year_start": 1903,
+   "year_end": 1914,
+   "explicit": true,
+   "evidence": "After his father Ōtani Kōson's death, he succeeded as Abbot of Nishi Hongan-ji in 1903... A financial scandal forced him to abdicate in 1914.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ōtani Kōzui (大谷 光瑞)",
+   "type": "position_at",
+   "object": "Royal Geographical Society",
+   "role": "fellow",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ōtani was a fellow of the Royal Geographical Society",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ōtani Kōzui (大谷 光瑞)",
+   "type": "succeeded",
+   "object": "Ōtani Kōson",
+   "role": "Abbot",
+   "place": "Nishi Hongan-ji",
+   "year_start": 1903,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After his father Ōtani Kōson's death, he succeeded as Abbot of Nishi Hongan-ji in 1903.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ōtani Kosho",
+   "type": "succeeded",
+   "object": "Ōtani Kōzui (大谷 光瑞)",
+   "role": "23rd Abbot",
+   "place": "Nishi Hongan-ji",
+   "year_start": 1914,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A financial scandal forced him to abdicate in 1914. His nephew, Ōtani Kosho, became the 23rd Abbot.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ōtani Kōzui (大谷 光瑞)",
+   "type": "other",
+   "object": "Ōtani Kōson",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After his father Ōtani Kōson's death, he succeeded as Abbot of Nishi Hongan-ji in 1903.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ōtani Kosho",
+   "type": "other",
+   "object": "Ōtani Kōzui (大谷 光瑞)",
+   "role": "nephew",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His nephew, Ōtani Kosho, became the 23rd Abbot.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Ōtani Kōzui",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q386254.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Ōtani Kōzui",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Daisetz Teitaro Suzuki",
+   "birth_year": 1870,
+   "death_year": 1966,
+   "nationality": "Japanese",
+   "field": "religious scholar"
+  },
+  {
+   "name": "Karlfried Graf von Dürckheim",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Imakita Kosen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Soyen Shaku",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Daisetz Teitaro Suzuki",
+   "type": "other",
+   "object": "Karlfried Graf von Dürckheim",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Suzuki was a friend of Karlfried Graf von Dürckheim.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daisetz Teitaro Suzuki",
+   "type": "collaborated_with",
+   "object": "Karlfried Graf von Dürckheim",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He helped his friend Suzuki introduce Zen Buddhism to the West.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daisetz Teitaro Suzuki",
+   "type": "student_of",
+   "object": "Imakita Kosen",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Advocates of New Buddhism, like Suzuki's teachers Kosen and his successor Soyen Shaku",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daisetz Teitaro Suzuki",
+   "type": "student_of",
+   "object": "Soyen Shaku",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Advocates of New Buddhism, like Suzuki's teachers Kosen and his successor Soyen Shaku",
+   "quote_ok": true
+  },
+  {
+   "subject": "Soyen Shaku",
+   "type": "succeeded",
+   "object": "Imakita Kosen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Suzuki's teachers Kosen and his successor Soyen Shaku",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): D. T. Suzuki",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q44847.txt#1",
+ "meta": {
+  "title": "Wikipedia (en): D. T. Suzuki",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

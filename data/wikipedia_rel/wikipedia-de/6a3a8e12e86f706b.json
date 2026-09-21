@@ -1,0 +1,169 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Eugène Burnouf",
+   "birth_year": 1801,
+   "death_year": 1852,
+   "nationality": "französischer",
+   "field": "Indologe"
+  },
+  {
+   "name": "Jean-Louis Burnouf",
+   "birth_year": 1775,
+   "death_year": 1844,
+   "nationality": null,
+   "field": "Altphilologen"
+  },
+  {
+   "name": "Jean-Pierre Abel-Rémusat",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Antoine-Léonard de Chézy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Christian Lassen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Julius Mohl",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Eugène Burnouf",
+   "type": "other",
+   "object": "Jean-Louis Burnouf",
+   "role": "son of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Burnouf war der Sohn des angesehenen Altphilologen Jean-Louis Burnouf (1775–1844)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eugène Burnouf",
+   "type": "student_of",
+   "object": "Jean-Pierre Abel-Rémusat",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Burnouf studierte zunächst Rechtswissenschaft, dann unter Jean-Pierre Abel-Rémusat und Antoine-Léonard de Chézy orientalische Sprachen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eugène Burnouf",
+   "type": "student_of",
+   "object": "Antoine-Léonard de Chézy",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Burnouf studierte zunächst Rechtswissenschaft, dann unter Jean-Pierre Abel-Rémusat und Antoine-Léonard de Chézy orientalische Sprachen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eugène Burnouf",
+   "type": "position_at",
+   "object": "École normale supérieure",
+   "role": null,
+   "place": null,
+   "year_start": 1829,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1829 wurde er an der École normale supérieure angestellt",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eugène Burnouf",
+   "type": "succeeded",
+   "object": "Antoine-Léonard de Chézy",
+   "role": "Professur des Sanskrits",
+   "place": "Collège de France",
+   "year_start": 1832,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "erhielt 1832 als Nachfolger Chézys die Professur des Sanskrits am Collège de France",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eugène Burnouf",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "Professur des Sanskrits",
+   "place": null,
+   "year_start": 1832,
+   "year_end": 1852,
+   "explicit": true,
+   "evidence": "erhielt 1832 als Nachfolger Chézys die Professur des Sanskrits am Collège de France, die er bis an seinen Tod bekleidete.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eugène Burnouf",
+   "type": "position_at",
+   "object": "Académie des Inscriptions et Belles-Lettres",
+   "role": "Mitglied; ständiger Sekretär",
+   "place": null,
+   "year_start": 1832,
+   "year_end": 1852,
+   "explicit": true,
+   "evidence": "Seit 1832 auch Mitglied der Académie des Inscriptions et Belles-Lettres, starb er am 28. Mai 1852, nachdem er einige Tage zuvor zum ständigen Sekretär derselben ernannt worden war.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eugène Burnouf",
+   "type": "collaborated_with",
+   "object": "Christian Lassen",
+   "role": "co-author",
+   "place": "Bonn",
+   "year_start": 1826,
+   "year_end": 1826,
+   "explicit": true,
+   "evidence": "Das Pali, die heilige Sprache der südlichen Buddhisten, unterzog er im Verein mit Christian Lassen in Bonn der ersten eingehenden Untersuchung in dem von beiden Gelehrten zusammen herausgegebenen Essai sur le Pali (Paris 1826)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eugène Burnouf",
+   "type": "collaborated_with",
+   "object": "Julius Mohl",
+   "role": "author and posthumous editor",
+   "place": null,
+   "year_start": 1852,
+   "year_end": 1852,
+   "explicit": true,
+   "evidence": "Übersetzung des Le lotus de la bonne loi aus dem Sanskrit nachfolgte (nach seinem Tod hrsg. von Julius Mohl, Paris 1852",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Eugène Burnouf",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q700638.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Eugène Burnouf",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

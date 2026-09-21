@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Nyanaponika Mahathera",
+   "birth_year": 1901,
+   "death_year": 1994,
+   "nationality": "German",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Helmuth von Glasenapp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Nyanatiloka",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Helmuth von Glasenapp",
+   "type": "position_at",
+   "object": "Universität Königsberg",
+   "role": null,
+   "place": "Königsberg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Helmuth von Glasenapp, einem deutschen Indologen, in Kontakt, der damals an der Universität Königsberg lehrte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nyanaponika Mahathera",
+   "type": "student_of",
+   "object": "Nyanatiloka",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1936,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gemeinsam mit seinem Lehrer Nyanatiloka wurde er beim Ausbruch des Krieges von den Briten als „feindlicher Deutscher“ im Lager Diyatalawa von 1941 bis 1946 interniert",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nyanaponika Mahathera",
+   "type": "position_at",
+   "object": "BPS (Buddhist Publication Society)",
+   "role": "Leiter und Herausgeber",
+   "place": null,
+   "year_start": 1958,
+   "year_end": 1984,
+   "explicit": true,
+   "evidence": "1958 konnte Nyanaponika die Erfahrungen seines Ursprungsberufes nutzen, als er gebeten wurde, Leiter und Herausgeber der neu gegründeten BPS (Buddhist Publication Society) zu werden. Die BPS, die er bis 1984 leitete",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Nyanaponika",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q74771.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Nyanaponika",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

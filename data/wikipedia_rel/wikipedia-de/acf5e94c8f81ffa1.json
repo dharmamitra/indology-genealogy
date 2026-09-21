@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ji Xianlin",
+   "birth_year": 1911,
+   "death_year": 2009,
+   "nationality": "chinesisch",
+   "field": "Linguist, Paläograph, Indologe und Historiker"
+  },
+  {
+   "name": "Ernst Waldschmidt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Emil Sieg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ji Xianlin",
+   "type": "studied_at",
+   "object": "Tsinghua-Universität",
+   "role": null,
+   "place": null,
+   "year_start": 1930,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ji Xianlin begann 1930 ein Studium westlicher Literatur an der Tsinghua-Universität",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ji Xianlin",
+   "type": "studied_at",
+   "object": "Georg-August-Universität Göttingen",
+   "role": "Promotion",
+   "place": "Göttingen",
+   "year_start": 1935,
+   "year_end": 1941,
+   "explicit": true,
+   "evidence": "Von 1935 bis 1945 studierte er an der Georg-August-Universität Göttingen bei Ernst Waldschmidt und Emil Sieg [...] Er wurde an der Universität Göttingen 1941 in seinem Hauptfach Sanskrit promoviert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ji Xianlin",
+   "type": "student_of",
+   "object": "Ernst Waldschmidt",
+   "role": "teacher",
+   "place": "Göttingen",
+   "year_start": 1935,
+   "year_end": 1945,
+   "explicit": true,
+   "evidence": "Von 1935 bis 1945 studierte er an der Georg-August-Universität Göttingen bei Ernst Waldschmidt und Emil Sieg Sanskrit und Tocharisch",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ji Xianlin",
+   "type": "student_of",
+   "object": "Emil Sieg",
+   "role": "teacher",
+   "place": "Göttingen",
+   "year_start": 1935,
+   "year_end": 1945,
+   "explicit": true,
+   "evidence": "Von 1935 bis 1945 studierte er an der Georg-August-Universität Göttingen bei Ernst Waldschmidt und Emil Sieg Sanskrit und Tocharisch",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ji Xianlin",
+   "type": "position_at",
+   "object": "Peking-Universität",
+   "role": "Professur",
+   "place": "Peking",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wo er in Peking eine Professur an der Peking-Universität verliehen bekam",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ji Xianlin",
+   "type": "position_at",
+   "object": "Südasien-Institut der Chinesischen Akademie für Gesellschaftswissenschaften",
+   "role": "Leiter",
+   "place": null,
+   "year_start": 1956,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1956 folgte die Ernennung zum Leiter des Südasien-Instituts der Chinesischen Akademie für Gesellschaftswissenschaften.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Ji Xianlin",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q714228.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Ji Xianlin",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

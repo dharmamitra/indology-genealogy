@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Hara Tanzan",
+   "birth_year": 1819,
+   "death_year": 1892,
+   "nationality": "Japanese",
+   "field": "philosophy"
+  },
+  {
+   "name": "Taki Genken",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "medicine"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hara Tanzan",
+   "type": "studied_at",
+   "object": "Shoheizaka Academy (昌平坂学問所)",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At the age of 15, Hara enrolled at the Shoheizaka Academy (昌平坂学問所) where he studied both Confucianism and medicine",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hara Tanzan",
+   "type": "student_of",
+   "object": "Taki Genken",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he studied both Confucianism and medicine, the latter under Taki Genken.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hara Tanzan",
+   "type": "position_at",
+   "object": "Tokyo Imperial University",
+   "role": "lecturer of Indian Philosophy and Buddhist Studies",
+   "place": null,
+   "year_start": 1879,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hara became the first lecturer of Indian Philosophy and Buddhist Studies at Tokyo Imperial University in 1879.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hara Tanzan",
+   "type": "position_at",
+   "object": "Soto-shu Daigaku-rin",
+   "role": "superintendent",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was later superintendent of the Soto-shu Daigaku-rin (currently Komazawa University).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Hara Tanzan",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q7684103.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Hara Tanzan",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

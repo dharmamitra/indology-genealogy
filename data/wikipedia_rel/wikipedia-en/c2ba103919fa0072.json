@@ -1,0 +1,179 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Paul Fredericq",
+   "birth_year": 1850,
+   "death_year": 1920,
+   "nationality": "Belgian",
+   "field": "history"
+  },
+  {
+   "name": "Max Rooses",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jacob Heremans",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Henri Pirenne",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "history"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Paul Fredericq",
+   "type": "studied_at",
+   "object": "Koninklijk Atheneum of Ghent",
+   "role": "student",
+   "place": "Ghent",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A student at the Koninklijk Atheneum of Ghent, where Max Rooses and Jacob Heremans influenced him.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Fredericq",
+   "type": "influenced_by",
+   "object": "Max Rooses",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A student at the Koninklijk Atheneum of Ghent, where Max Rooses and Jacob Heremans influenced him.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Fredericq",
+   "type": "influenced_by",
+   "object": "Jacob Heremans",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A student at the Koninklijk Atheneum of Ghent, where Max Rooses and Jacob Heremans influenced him.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Fredericq",
+   "type": "studied_at",
+   "object": "University of Liège",
+   "role": "high school teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": 1871,
+   "explicit": true,
+   "evidence": "In 1871 he graduated as a high school teacher from the University of Liège",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Fredericq",
+   "type": "studied_at",
+   "object": "University of Liège",
+   "role": "doctorate in historical sciences",
+   "place": null,
+   "year_start": null,
+   "year_end": 1875,
+   "explicit": true,
+   "evidence": "In 1875, Fredericq received a special doctorate in historical sciences, with his study Essai sur le rôle politique et social des ducs de Bourgogne dans les Pays-Bas",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Fredericq",
+   "type": "position_at",
+   "object": "University of Liège",
+   "role": "professor of history",
+   "place": null,
+   "year_start": 1875,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and he became professor of history at the University of Liège.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Fredericq",
+   "type": "succeeded",
+   "object": "Jacob Heremans",
+   "role": "professor of history",
+   "place": "Ghent University",
+   "year_start": 1883,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After Jacob Heremans became emeritus, Paul Fredericq became professor of history at Ghent University in 1883.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Fredericq",
+   "type": "position_at",
+   "object": "Ghent University",
+   "role": "professor of history",
+   "place": null,
+   "year_start": 1883,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Paul Fredericq became professor of history at Ghent University in 1883.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Fredericq",
+   "type": "founded",
+   "object": "Hooger Onderwijs voor het Volk",
+   "role": null,
+   "place": null,
+   "year_start": 1894,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Then founded the Hooger Onderwijs voor het Volk (\"higher education for the people\") in 1894",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Fredericq",
+   "type": "collaborated_with",
+   "object": "Henri Pirenne",
+   "role": "colleague",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "together with his colleague, the historian Henri Pirenne.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Fredericq",
+   "type": "position_at",
+   "object": "Ghent University",
+   "role": "rector",
+   "place": null,
+   "year_start": 1919,
+   "year_end": 1919,
+   "explicit": true,
+   "evidence": "After the war, he became rector at Ghent University in 1919. But quickly resigned after only a few weeks",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Paul Fredericq",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q2659663.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Paul Fredericq",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

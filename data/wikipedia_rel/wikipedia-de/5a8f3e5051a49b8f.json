@@ -1,0 +1,145 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Leo Karl Heinrich Meyer",
+   "birth_year": 1830,
+   "death_year": 1910,
+   "nationality": "German",
+   "field": "Sprachforscher"
+  },
+  {
+   "name": "Theodor Benfey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Nikolai Anderson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Leopold von Schroeder",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Peter von Bradke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Wolfgang Schlüter",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Leo Karl Heinrich Meyer",
+   "type": "student_of",
+   "object": "Theodor Benfey",
+   "role": "teacher",
+   "place": "Göttingen",
+   "year_start": 1849,
+   "year_end": 1852,
+   "explicit": true,
+   "evidence": "Von 1849 bis 1852 studierte er bei Theodor Benfey in Göttingen Philologie",
+   "quote_ok": true
+  },
+  {
+   "subject": "Leo Karl Heinrich Meyer",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": 1849,
+   "year_end": 1852,
+   "explicit": true,
+   "evidence": "Von 1849 bis 1852 studierte er bei Theodor Benfey in Göttingen Philologie",
+   "quote_ok": true
+  },
+  {
+   "subject": "Leo Karl Heinrich Meyer",
+   "type": "position_at",
+   "object": "Kaiserliche Universität Dorpat",
+   "role": "Lehrstuhl für deutsche und vergleichende Sprachkunde",
+   "place": "Dorpat",
+   "year_start": 1865,
+   "year_end": 1899,
+   "explicit": true,
+   "evidence": "1865 folgte er dem Ruf an die Kaiserliche Universität Dorpat und übernahm den Lehrstuhl für deutsche und vergleichende Sprachkunde. [...] Im Januar 1899 aus seinem Amt in Dorpat entlassen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nikolai Anderson",
+   "type": "student_of",
+   "object": "Leo Karl Heinrich Meyer",
+   "role": "student",
+   "place": "Dorpat",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zu seinen Schülern in Dorpat zählten Nikolai Anderson, Leopold von Schroeder und Peter von Bradke.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Leopold von Schroeder",
+   "type": "student_of",
+   "object": "Leo Karl Heinrich Meyer",
+   "role": "student",
+   "place": "Dorpat",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zu seinen Schülern in Dorpat zählten Nikolai Anderson, Leopold von Schroeder und Peter von Bradke.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter von Bradke",
+   "type": "student_of",
+   "object": "Leo Karl Heinrich Meyer",
+   "role": "student",
+   "place": "Dorpat",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zu seinen Schülern in Dorpat zählten Nikolai Anderson, Leopold von Schroeder und Peter von Bradke.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Leo Karl Heinrich Meyer",
+   "type": "other",
+   "object": "Wolfgang Schlüter",
+   "role": "cousin",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1896 wurde Meyer gleichzeitig mit seinem Vetter Wolfgang Schlüter Ehrenphilister der Estonia.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Leo Meyer (Sprachforscher)",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q78147.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Leo Meyer (Sprachforscher)",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

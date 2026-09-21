@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "David Llewellyn Snellgrove",
+   "birth_year": 1920,
+   "death_year": 2016,
+   "nationality": "British",
+   "field": "Tibetologist"
+  },
+  {
+   "name": "Harold Bailey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "David Llewellyn Snellgrove",
+   "type": "studied_at",
+   "object": "Southampton University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He went on to study German and French at Southampton University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "David Llewellyn Snellgrove",
+   "type": "influenced_by",
+   "object": "Harold Bailey",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he was convinced by Sir Harold Bailey that a sound knowledge of Sanskrit and Pali would be beneficial, so he gained entry to Queens' College, Cambridge in October 1946.",
+   "quote_ok": true
+  },
+  {
+   "subject": "David Llewellyn Snellgrove",
+   "type": "studied_at",
+   "object": "Queens' College, Cambridge",
+   "role": null,
+   "place": null,
+   "year_start": 1946,
+   "year_end": 1950,
+   "explicit": true,
+   "evidence": "he gained entry to Queens' College, Cambridge in October 1946... In 1950, after having completed his studies at Cambridge",
+   "quote_ok": true
+  },
+  {
+   "subject": "David Llewellyn Snellgrove",
+   "type": "position_at",
+   "object": "School of Oriental and African Studies University of London",
+   "role": "Professor of Tibetan",
+   "place": null,
+   "year_start": 1950,
+   "year_end": 1982,
+   "explicit": true,
+   "evidence": "In 1950, after having completed his studies at Cambridge, he was invited to teach a course in elementary Tibetan at the School of Oriental and African Studies University of London. He was Professor of Tibetan at SOAS until his retirement in 1982.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): David Snellgrove",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q463912.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): David Snellgrove",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

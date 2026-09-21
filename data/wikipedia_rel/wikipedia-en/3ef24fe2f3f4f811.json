@@ -1,0 +1,133 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Robert Hyde Colebrooke",
+   "birth_year": 1762,
+   "death_year": 1808,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Alexander Kyd",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "T.D. Pearse",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Archibald Blair",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "H.T. Colebrooke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "orientalist"
+  },
+  {
+   "name": "John Garstin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Robert Hyde Colebrooke",
+   "type": "position_at",
+   "object": "Surveyor General of Bengal",
+   "role": "Surveyor General",
+   "place": "Bengal",
+   "year_start": 1794,
+   "year_end": 1808,
+   "explicit": true,
+   "evidence": "the position of Surveyor General of Bengal became vacant and Colebrooke was appointed in 1794. He remained in this position he kept until his death from dysentery in 1808",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Hyde Colebrooke",
+   "type": "succeeded",
+   "object": "Alexander Kyd",
+   "role": null,
+   "place": "Surveyor General of Bengal",
+   "year_start": 1794,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After Alexander Kyd was moved to the Andamans as Superintendent of the settlement, the position of Surveyor General of Bengal became vacant and Colebrooke was appointed in 1794.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Garstin",
+   "type": "succeeded",
+   "object": "Robert Hyde Colebrooke",
+   "role": null,
+   "place": "Surveyor General",
+   "year_start": 1808,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was succeeded as Surveyor General by John Garstin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Hyde Colebrooke",
+   "type": "student_of",
+   "object": "T.D. Pearse",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": 1783,
+   "explicit": true,
+   "evidence": "T.D. Pearse trained and appointed him as Surveyor in 1783.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Hyde Colebrooke",
+   "type": "collaborated_with",
+   "object": "Archibald Blair",
+   "role": null,
+   "place": null,
+   "year_start": 1789,
+   "year_end": 1789,
+   "explicit": true,
+   "evidence": "He accompanied Archibald Blair to survey the Andaman Islands in 1789.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Hyde Colebrooke",
+   "type": "other",
+   "object": "H.T. Colebrooke",
+   "role": "cousin",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Colebrooke was a cousin of the orientalist H.T. Colebrooke.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Robert Hyde Colebrooke",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q39172651.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Robert Hyde Colebrooke",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

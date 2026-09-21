@@ -1,0 +1,199 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Henri Pirenne",
+   "birth_year": 1862,
+   "death_year": 1935,
+   "nationality": "Belgian",
+   "field": "Geschichte"
+  },
+  {
+   "name": "Wilhelm Arndt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Harry Breßlau",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gabriel Monod",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Paul Fredericq",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Belgian",
+   "field": "Historiker"
+  },
+  {
+   "name": "Alexander Cartellieri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "François Louis Ganshof",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hans Van Werveke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lucien Febvre",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Marc Bloch",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Georg von Below",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Imanuel Geiss",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Historiker"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Henri Pirenne",
+   "type": "studied_at",
+   "object": "Universität Lüttich",
+   "role": null,
+   "place": "Lüttich",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pirenne studierte Geschichte und Rechtswissenschaft an der Universität Lüttich",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henri Pirenne",
+   "type": "student_of",
+   "object": "Wilhelm Arndt",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Wilhelm Arndt, Harry Breßlau und Gabriel Monod zählten zu seinen Lehrern.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henri Pirenne",
+   "type": "student_of",
+   "object": "Harry Breßlau",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Wilhelm Arndt, Harry Breßlau und Gabriel Monod zählten zu seinen Lehrern.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henri Pirenne",
+   "type": "student_of",
+   "object": "Gabriel Monod",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Wilhelm Arndt, Harry Breßlau und Gabriel Monod zählten zu seinen Lehrern.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henri Pirenne",
+   "type": "position_at",
+   "object": "Universität Gent",
+   "role": "Professur für mittelalterliche Geschichte",
+   "place": "Gent",
+   "year_start": null,
+   "year_end": 1930,
+   "explicit": true,
+   "evidence": "Er erhielt bereits im Alter von 24 Jahren die Professur für mittelalterliche Geschichte an der Universität Gent. Dieses Ordinariat bekleidete er, unterbrochen durch die Kriegszeit, bis zum Jahr 1930.",
+   "quote_ok": true
+  },
+  {
+   "subject": "François Louis Ganshof",
+   "type": "student_of",
+   "object": "Henri Pirenne",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pirenne gilt als Vater einer Genter Historischen Schule, zu der seine Schüler François Louis Ganshof und Hans Van Werveke gehören.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hans Van Werveke",
+   "type": "student_of",
+   "object": "Henri Pirenne",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pirenne gilt als Vater einer Genter Historischen Schule, zu der seine Schüler François Louis Ganshof und Hans Van Werveke gehören.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Imanuel Geiss",
+   "type": "influenced_by",
+   "object": "Henri Pirenne",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In der Widmung seines Buches Geschichte im Überblick (1986) bezeichnete der deutsche Historiker Imanuel Geiss Henri Pirenne als einen seiner „drei historischen Hausgötter“",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Henri Pirenne",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q312501.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Henri Pirenne",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

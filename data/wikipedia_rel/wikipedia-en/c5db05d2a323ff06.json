@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Hermann Hirt",
+   "birth_year": 1865,
+   "death_year": 1936,
+   "nationality": "German",
+   "field": "philology, Indo-Europeanist"
+  },
+  {
+   "name": "Brugmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Streitberg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hermann Hirt",
+   "type": "position_at",
+   "object": "University of Leipzig",
+   "role": "professor",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hirt, who became professor at the University of Leipzig",
+   "quote_ok": true
+  },
+  {
+   "subject": "Brugmann",
+   "type": "collaborated_with",
+   "object": "Streitberg",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Brugmann and Streitberg's Indogermanische Forschungen",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Hermann Hirt",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q666811.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Hermann Hirt",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,162 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Mircea Eliade",
+   "birth_year": 1907,
+   "death_year": 1986,
+   "nationality": "rumänisch",
+   "field": "Religionswissenschaft"
+  },
+  {
+   "name": "Nae Ionescu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Philosophie"
+  },
+  {
+   "name": "Ernst Jünger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rudolf Otto",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Religionswissenschaft"
+  },
+  {
+   "name": "Gustav Mensching",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Religionswissenschaft"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Mircea Eliade",
+   "type": "student_of",
+   "object": "Nae Ionescu",
+   "role": "doctoral supervisor",
+   "place": "Universität Bukarest",
+   "year_start": 1925,
+   "year_end": 1928,
+   "explicit": true,
+   "evidence": "Ab dem Jahr 1925 studierte er Philosophie an der dortigen Universität unter Nae Ionescu bis zum Abschluss im Jahr 1928.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mircea Eliade",
+   "type": "studied_at",
+   "object": "University of Calcutta",
+   "role": null,
+   "place": "Indien",
+   "year_start": 1928,
+   "year_end": 1931,
+   "explicit": true,
+   "evidence": "Er reiste mit 21 Jahren nach Indien, studierte dort von 1928 bis 1931 an der University of Calcutta indische Philosophie",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mircea Eliade",
+   "type": "studied_at",
+   "object": "Universität Bukarest",
+   "role": "PhD",
+   "place": "Bukarest",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "schrieb infolgedessen eine Arbeit über den Yoga, die er nach seiner Rückkehr in Bukarest als Dissertation vorlegte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mircea Eliade",
+   "type": "position_at",
+   "object": "Universität Bukarest",
+   "role": "Assistent",
+   "place": "Bukarest",
+   "year_start": 1934,
+   "year_end": 1938,
+   "explicit": true,
+   "evidence": "Von 1934 bis 1938 arbeitete Eliade an der Universität Bukarest als Assistent Ionescus.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mircea Eliade",
+   "type": "position_at",
+   "object": "University of Chicago",
+   "role": "Professor für Religionswissenschaften",
+   "place": "Chicago",
+   "year_start": 1957,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ab 1957 war er Professor für Religionswissenschaften an der University of Chicago.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mircea Eliade",
+   "type": "collaborated_with",
+   "object": "Ernst Jünger",
+   "role": "co-editors",
+   "place": null,
+   "year_start": 1959,
+   "year_end": 1971,
+   "explicit": true,
+   "evidence": "Gemeinsam mit Ernst Jünger gab er die Zeitschrift Antaios. Zeitschrift für eine freie Welt heraus, die von 1959 bis 1971 alle zwei Monate im Klett-Verlag erschien.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mircea Eliade",
+   "type": "influenced_by",
+   "object": "Nae Ionescu",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hier wurde er – genauso wie bei vielen Grundzügen seiner Arbeiten – durch seinen Doktorvater Nae Ionescu beeinflusst.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mircea Eliade",
+   "type": "influenced_by",
+   "object": "Rudolf Otto",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Er führte damit eine im Wesentlichen von Rudolf Otto gegründete und von Gustav Mensching weiter differenzierte Richtung der Religionswissenschaft philosophisch fort",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mircea Eliade",
+   "type": "influenced_by",
+   "object": "Gustav Mensching",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Er führte damit eine im Wesentlichen von Rudolf Otto gegründete und von Gustav Mensching weiter differenzierte Richtung der Religionswissenschaft philosophisch fort",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Mircea Eliade",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q41590.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Mircea Eliade",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

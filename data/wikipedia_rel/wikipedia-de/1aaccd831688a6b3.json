@@ -1,0 +1,124 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Robert Lenz",
+   "birth_year": 1808,
+   "death_year": 1836,
+   "nationality": "deutsch-baltisch",
+   "field": "Sanskritforscher"
+  },
+  {
+   "name": "Heinrich Friedrich Emil Lenz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Physiker"
+  },
+  {
+   "name": "Franz Bopp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Robert Lenz",
+   "type": "other",
+   "object": "Heinrich Friedrich Emil Lenz",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Robert Lenz war ein jüngerer Bruder des Physikers Heinrich Friedrich Emil Lenz.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Lenz",
+   "type": "studied_at",
+   "object": "Kaiserliche Universität Dorpat",
+   "role": null,
+   "place": "Dorpat",
+   "year_start": 1824,
+   "year_end": 1828,
+   "explicit": true,
+   "evidence": "studierte ab 1824 an der Kaiserlichen Universität Dorpat Theologie, verließ als graduierter Student 1828 die Universität",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Lenz",
+   "type": "position_at",
+   "object": "Ritter- und Domschule in Reval",
+   "role": "Pensionsinspektor und Lehrer",
+   "place": "Reval",
+   "year_start": 1828,
+   "year_end": 1830,
+   "explicit": true,
+   "evidence": "übernahm im Sommer dieses Jahres die Stelle eines Pensionsinspektors und Lehrers an der Ritter- und Domschule in Reval. Dieses Amt gab er jedoch um Ostern 1830 wieder auf",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Lenz",
+   "type": "studied_at",
+   "object": "Universität in Berlin",
+   "role": "Dr. Ph.",
+   "place": "Berlin",
+   "year_start": 1831,
+   "year_end": 1832,
+   "explicit": true,
+   "evidence": "bezog im Frühling 1831 die Universität in Berlin. Hier ging er seiner größten Neigung für Sanskrit-Studien unter Franz Bopps Leitung nach und promovierte 1832.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Lenz",
+   "type": "student_of",
+   "object": "Franz Bopp",
+   "role": "doctoral supervisor",
+   "place": "Berlin",
+   "year_start": 1831,
+   "year_end": 1832,
+   "explicit": false,
+   "evidence": "Hier ging er seiner größten Neigung für Sanskrit-Studien unter Franz Bopps Leitung nach und promovierte 1832.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Lenz",
+   "type": "position_at",
+   "object": "Akademie der Wissenschaften",
+   "role": "Adjunkt und Mitglied",
+   "place": "Sankt Petersburg",
+   "year_start": 1835,
+   "year_end": 1836,
+   "explicit": true,
+   "evidence": "Er wurde zum Adjunkten und Mitglied der Akademie der Wissenschaften ernannt",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Lenz",
+   "type": "position_at",
+   "object": "Universität",
+   "role": "Lehrbeauftragter / Dozent",
+   "place": "Sankt Petersburg",
+   "year_start": 1835,
+   "year_end": 1836,
+   "explicit": false,
+   "evidence": "eröffnete an der Universität Vorlesungen über Sanskrit und Sprachvergleichung.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Robert Lenz (Indogermanist)",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q15134863.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Robert Lenz (Indogermanist)",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

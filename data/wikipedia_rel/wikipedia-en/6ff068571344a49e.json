@@ -1,0 +1,162 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Henry Clarke Warren",
+   "birth_year": 1854,
+   "death_year": 1899,
+   "nationality": "American",
+   "field": "Sanskrit and Pali"
+  },
+  {
+   "name": "Charles Rockwell Lanman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Maurice Bloomfield",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "T. W. Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Dharmananda Damodar Kosambi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Henry Clarke Warren",
+   "type": "studied_at",
+   "object": "Harvard University",
+   "role": "A.B.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1879,
+   "explicit": true,
+   "evidence": "He graduated in 1879 with an A.B. from Harvard University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Clarke Warren",
+   "type": "studied_at",
+   "object": "Johns Hopkins University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and followed it up with studies at Johns Hopkins University under Charles Rockwell Lanman and Maurice Bloomfield",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Clarke Warren",
+   "type": "student_of",
+   "object": "Charles Rockwell Lanman",
+   "role": "teacher",
+   "place": "Johns Hopkins University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studies at Johns Hopkins University under Charles Rockwell Lanman and Maurice Bloomfield",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Clarke Warren",
+   "type": "student_of",
+   "object": "Maurice Bloomfield",
+   "role": "teacher",
+   "place": "Johns Hopkins University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studies at Johns Hopkins University under Charles Rockwell Lanman and Maurice Bloomfield",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Clarke Warren",
+   "type": "studied_at",
+   "object": "Oxford University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and at Oxford University with T. W. Rhys Davids.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Clarke Warren",
+   "type": "student_of",
+   "object": "T. W. Rhys Davids",
+   "role": "teacher",
+   "place": "Oxford University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and at Oxford University with T. W. Rhys Davids.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Clarke Warren",
+   "type": "founded",
+   "object": "Harvard Oriental Series",
+   "role": "co-founder",
+   "place": null,
+   "year_start": 1891,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Warren, along with Lanman, founded the Harvard Oriental Series in 1891.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Rockwell Lanman",
+   "type": "founded",
+   "object": "Harvard Oriental Series",
+   "role": "co-founder",
+   "place": null,
+   "year_start": 1891,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Warren, along with Lanman, founded the Harvard Oriental Series in 1891.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Clarke Warren",
+   "type": "collaborated_with",
+   "object": "Dharmananda Damodar Kosambi",
+   "role": "co-translators",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Warren's work Buddhism in Translation (1896) and translation (along with Dharmananda Damodar Kosambi) of the Visuddhimagga of Buddhaghosa (1950)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Henry Clarke Warren",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q16859198.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Henry Clarke Warren",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

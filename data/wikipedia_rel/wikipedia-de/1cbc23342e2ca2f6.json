@@ -1,0 +1,174 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Friedrich Bechtel",
+   "birth_year": 1855,
+   "death_year": 1924,
+   "nationality": "German",
+   "field": "Sprachwissenschaft"
+  },
+  {
+   "name": "Theodor Benfey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sprachwissenschaft"
+  },
+  {
+   "name": "Adalbert Bezzenberger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sprachwissenschaft"
+  },
+  {
+   "name": "August Fick",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sprachwissenschaft"
+  },
+  {
+   "name": "August Friedrich Pott",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sprachwissenschaft"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Friedrich Bechtel",
+   "type": "studied_at",
+   "object": "Universität Heidelberg",
+   "role": null,
+   "place": "Heidelberg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er studierte zunächst Theologie und Philologie an der Universität Heidelberg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Bechtel",
+   "type": "studied_at",
+   "object": "Universität Göttingen",
+   "role": "Promotion",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": 1876,
+   "explicit": true,
+   "evidence": "Nach seinem Umzug an die Universität Göttingen wandte er sich dem Studium der Sprachwissenschaft zu [...] Bereits 1876, im Alter von 21 Jahren, wurde Bechtel promoviert und zwei Jahre später habilitiert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Bechtel",
+   "type": "studied_at",
+   "object": "Universität Göttingen",
+   "role": "Habilitation",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": 1878,
+   "explicit": true,
+   "evidence": "Bereits 1876, im Alter von 21 Jahren, wurde Bechtel promoviert und zwei Jahre später habilitiert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Bechtel",
+   "type": "student_of",
+   "object": "Theodor Benfey",
+   "role": "teacher",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wandte er sich dem Studium der Sprachwissenschaft zu, die in Göttingen von Theodor Benfey, Adalbert Bezzenberger und August Fick vertreten wurde.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Bechtel",
+   "type": "student_of",
+   "object": "Adalbert Bezzenberger",
+   "role": "teacher",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wandte er sich dem Studium der Sprachwissenschaft zu, die in Göttingen von Theodor Benfey, Adalbert Bezzenberger und August Fick vertreten wurde.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Bechtel",
+   "type": "student_of",
+   "object": "August Fick",
+   "role": "teacher",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wandte er sich dem Studium der Sprachwissenschaft zu, die in Göttingen von Theodor Benfey, Adalbert Bezzenberger und August Fick vertreten wurde.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Bechtel",
+   "type": "position_at",
+   "object": "Universität Göttingen",
+   "role": "Dozent",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bechtel wirkte zwei Jahrzehnte lang als Dozent an der Universität Göttingen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Bechtel",
+   "type": "position_at",
+   "object": "Universität Göttingen",
+   "role": "außerordentlicher Professor",
+   "place": "Göttingen",
+   "year_start": 1884,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1884 wurde er zum außerordentlichen Professor ernannt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Bechtel",
+   "type": "position_at",
+   "object": "Universität Halle",
+   "role": "ordentlicher Professor",
+   "place": "Halle",
+   "year_start": 1895,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zum Wintersemester 1895/1896 wechselte er als ordentlicher Professor an die Universität Halle, wo er als Nachfolger August Friedrich Potts den Lehrstuhl für Sprachwissenschaft innehatte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Bechtel",
+   "type": "succeeded",
+   "object": "August Friedrich Pott",
+   "role": "Lehrstuhl für Sprachwissenschaft",
+   "place": "Universität Halle",
+   "year_start": 1895,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wo er als Nachfolger August Friedrich Potts den Lehrstuhl für Sprachwissenschaft innehatte.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Friedrich Bechtel",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q95377.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Friedrich Bechtel",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

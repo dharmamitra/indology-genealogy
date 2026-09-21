@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "August Schleicher",
+   "birth_year": 1821,
+   "death_year": 1868,
+   "nationality": "German",
+   "field": "linguist"
+  },
+  {
+   "name": "Georg Wilhelm Friedrich Hegel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "idealist philosophy"
+  },
+  {
+   "name": "Johannes Schmidt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "August Leskien",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "August Schleicher",
+   "type": "studied_at",
+   "object": "University of Tübingen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Schleicher was educated at the University of Tübingen and Bonn",
+   "quote_ok": true
+  },
+  {
+   "subject": "August Schleicher",
+   "type": "studied_at",
+   "object": "University of Bonn",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Schleicher was educated at the University of Tübingen and Bonn",
+   "quote_ok": true
+  },
+  {
+   "subject": "August Schleicher",
+   "type": "position_at",
+   "object": "Charles University in Prague",
+   "role": "taught",
+   "place": "Prague",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and taught at the Charles University in Prague and the University of Jena.",
+   "quote_ok": true
+  },
+  {
+   "subject": "August Schleicher",
+   "type": "position_at",
+   "object": "University of Jena",
+   "role": "taught",
+   "place": "Jena",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and taught at the Charles University in Prague and the University of Jena.",
+   "quote_ok": true
+  },
+  {
+   "subject": "August Schleicher",
+   "type": "influenced_by",
+   "object": "Georg Wilhelm Friedrich Hegel",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Combining influences from the seemingly opposed camps of scientific materialism and the idealist philosophy of Georg Wilhelm Friedrich Hegel",
+   "quote_ok": true
+  },
+  {
+   "subject": "August Leskien",
+   "type": "student_of",
+   "object": "August Schleicher",
+   "role": "student",
+   "place": "University of Jena",
+   "year_start": 1866,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1866, August Leskien, a pioneer of research into sound laws, began studying comparative linguistics as a student of August Schleicher at the University of Jena.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Schmidt",
+   "type": "student_of",
+   "object": "August Schleicher",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The wave model was developed in 1872 by Schleicher's student Johannes Schmidt as an alternative to the tree model",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): August Schleicher",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q76686.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): August Schleicher",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

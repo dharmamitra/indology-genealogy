@@ -1,0 +1,138 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Shunryu Suzuki",
+   "birth_year": 1904,
+   "death_year": 1971,
+   "nationality": "Japanese",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Gyokujun So-on Suzuki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Dojun Kato",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Gempo Kitano",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Ian Kishizawa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Shunryu Suzuki",
+   "type": "founded",
+   "object": "Tassajara Zen Mountain Center",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "renowned for founding the first Zen Buddhist monastery outside Asia (Tassajara Zen Mountain Center)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shunryu Suzuki",
+   "type": "founded",
+   "object": "San Francisco Zen Center",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Suzuki founded San Francisco Zen Center",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shunryu Suzuki",
+   "type": "student_of",
+   "object": "Gyokujun So-on Suzuki",
+   "role": "traditional teacher",
+   "place": "Zoun-in",
+   "year_start": 1916,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1916, 12-year-old Suzuki decided to train with a disciple of his father, Gyokujun So-on Suzuki.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shunryu Suzuki",
+   "type": "student_of",
+   "object": "Dojun Kato",
+   "role": "traditional teacher",
+   "place": "Kenko-in",
+   "year_start": 1925,
+   "year_end": 1926,
+   "explicit": true,
+   "evidence": "From 1925 to 1926 Suzuki did Zen training with Dojun Kato in Shizuoka at Kenko-in.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shunryu Suzuki",
+   "type": "studied_at",
+   "object": "Komazawa University",
+   "role": null,
+   "place": "Tokyo",
+   "year_start": 1925,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1925 Shunryu graduated from preparatory school and entered Komazawa University, the Soto Zen university in Tokyo.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shunryu Suzuki",
+   "type": "studied_at",
+   "object": "Eihei-ji",
+   "role": null,
+   "place": null,
+   "year_start": 1930,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After graduating from Komazawa, Suzuki continued training at Eihei-ji. In September 1930, he entered the training temple.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shunryu Suzuki",
+   "type": "student_of",
+   "object": "Ian Kishizawa",
+   "role": "traditional teacher",
+   "place": "Eihei-ji",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At Eihei-ji, Suzuki was assigned to serve Ian Kishizawa-roshi, a noted Soto teacher associated with Nishiari Bokusan and Oka Sotan.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Shunryū Suzuki",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q572599.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Shunryū Suzuki",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

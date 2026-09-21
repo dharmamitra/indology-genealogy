@@ -1,0 +1,138 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "George Frederick William Thibaut",
+   "birth_year": 1848,
+   "death_year": 1914,
+   "nationality": "deutsch-britisch",
+   "field": "Indologe"
+  },
+  {
+   "name": "Friedrich Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indologe"
+  },
+  {
+   "name": "Richard von Garbe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sudhakara Dvivedi",
+   "birth_year": 1855,
+   "death_year": 1910,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Radha Charan Gupta",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "George Frederick William Thibaut",
+   "type": "position_at",
+   "object": "Friedrich Max Müller",
+   "role": "Assistent",
+   "place": "Oxford",
+   "year_start": 1871,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "war ab 1871 Assistent des Indologen Friedrich Max Müller in England (Oxford)",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Frederick William Thibaut",
+   "type": "position_at",
+   "object": "Benares Hindu College",
+   "role": "Professor",
+   "place": "Benares",
+   "year_start": 1875,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er war in Indien ab 1875 Professor am Benares Hindu College (Government Sanskrit College, Benares bzw. Varanasi)",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Frederick William Thibaut",
+   "type": "position_at",
+   "object": "Benares Hindu College",
+   "role": "Direktor",
+   "place": "Benares",
+   "year_start": 1879,
+   "year_end": 1888,
+   "explicit": true,
+   "evidence": "von 1879 bis 1888 als Direktor",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Frederick William Thibaut",
+   "type": "position_at",
+   "object": "Muir College",
+   "role": null,
+   "place": "Allahabad",
+   "year_start": 1888,
+   "year_end": 1895,
+   "explicit": true,
+   "evidence": "und von 1888 bis 1895 am Muir College in Allahabad.",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Frederick William Thibaut",
+   "type": "collaborated_with",
+   "object": "Sudhakara Dvivedi",
+   "role": null,
+   "place": null,
+   "year_start": 1888,
+   "year_end": 1888,
+   "explicit": true,
+   "evidence": "er gab 1888 die astronomische Sammlung Pancha-Siddhantika von Varahamihira (6. Jahrhundert) mit dem Bibliothekar und später Mathematik- und Astrologielehrer am Government Sanskrit College Sudhakara Dvivedi",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sudhakara Dvivedi",
+   "type": "position_at",
+   "object": "Government Sanskrit College",
+   "role": "Bibliothekar und später Mathematik- und Astrologielehrer",
+   "place": "Benares",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bibliothekar und später Mathematik- und Astrologielehrer am Government Sanskrit College Sudhakara Dvivedi",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Frederick William Thibaut",
+   "type": "founded",
+   "object": "Pundit",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er gründete die Zeitschrift Pundit, in der alte Sanskrittexte und Übersetzungen veröffentlicht wurden.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): George Thibaut",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q5545130.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): George Thibaut",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

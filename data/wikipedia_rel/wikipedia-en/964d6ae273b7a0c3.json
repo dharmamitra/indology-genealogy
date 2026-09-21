@@ -1,0 +1,105 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Stefan Mario Maul",
+   "birth_year": 1958,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Assyriologist"
+  },
+  {
+   "name": "Rykle Borger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Stefan Mario Maul",
+   "type": "studied_at",
+   "object": "Georg-August-Universität Göttingen",
+   "role": "doctorate",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": 1987,
+   "explicit": true,
+   "evidence": "Maul studied Assyriology, Near Eastern Archaeology and Egyptology at the Georg-August-Universität Göttingen, where he received his doctorate as a student of Rykle Borger in 1987.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stefan Mario Maul",
+   "type": "student_of",
+   "object": "Rykle Borger",
+   "role": "doctoral supervisor",
+   "place": "Georg-August-Universität Göttingen",
+   "year_start": null,
+   "year_end": 1987,
+   "explicit": true,
+   "evidence": "he received his doctorate as a student of Rykle Borger in 1987.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stefan Mario Maul",
+   "type": "position_at",
+   "object": "FU Berlin",
+   "role": "research assistant",
+   "place": null,
+   "year_start": 1987,
+   "year_end": 1992,
+   "explicit": true,
+   "evidence": "From 1987 to 1992 he worked as a research assistant and until 1995 as an assistant at the FU Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stefan Mario Maul",
+   "type": "position_at",
+   "object": "FU Berlin",
+   "role": "assistant",
+   "place": null,
+   "year_start": 1992,
+   "year_end": 1995,
+   "explicit": true,
+   "evidence": "and until 1995 as an assistant at the FU Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stefan Mario Maul",
+   "type": "studied_at",
+   "object": "FU Berlin",
+   "role": "habilitation",
+   "place": null,
+   "year_start": null,
+   "year_end": 1993,
+   "explicit": true,
+   "evidence": "at the FU Berlin, where he habilitated in 1993.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stefan Mario Maul",
+   "type": "position_at",
+   "object": "Ruprecht-Karls-Universität Heidelberg",
+   "role": "Ordinarius for Assyriology",
+   "place": "Heidelberg",
+   "year_start": 1995,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Since 1995 he is Ordinarius for Assyriology at the Ruprecht-Karls-Universität Heidelberg",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Stefan Maul",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1261167.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Stefan Maul",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

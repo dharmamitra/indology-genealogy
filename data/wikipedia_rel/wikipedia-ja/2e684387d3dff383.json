@@ -1,0 +1,95 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ルートヴィヒ・ヨーゼフ・ヨーハン・ウィトゲンシュタイン",
+   "birth_year": 1889,
+   "death_year": 1951,
+   "nationality": "オーストリア",
+   "field": "哲学"
+  },
+  {
+   "name": "バートランド・ラッセル",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "哲学"
+  },
+  {
+   "name": "エリザベス・アンスコム",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "分析哲学"
+  },
+  {
+   "name": "ラッシュ・リーズ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ルートヴィヒ・ヨーゼフ・ヨーハン・ウィトゲンシュタイン",
+   "type": "position_at",
+   "object": "ケンブリッジ大学",
+   "role": "教授",
+   "place": "イギリス",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "イギリス・ケンブリッジ大学教授となり、イギリス国籍を得た。",
+   "quote_ok": false
+  },
+  {
+   "subject": "ルートヴィヒ・ヨーゼフ・ヨーハン・ウィトゲンシュタイン",
+   "type": "student_of",
+   "object": "バートランド・ラッセル",
+   "role": null,
+   "place": "ケンブリッジ大学トリニティ・カレッジ",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ケンブリッジ大学トリニティ・カレッジのバートランド・ラッセルのもとで哲学を学ぶ",
+   "quote_ok": false
+  },
+  {
+   "subject": "ルートヴィヒ・ヨーゼフ・ヨーハン・ウィトゲンシュタイン",
+   "type": "studied_at",
+   "object": "ケンブリッジ大学トリニティ・カレッジ",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ケンブリッジ大学トリニティ・カレッジのバートランド・ラッセルのもとで哲学を学ぶ",
+   "quote_ok": false
+  },
+  {
+   "subject": "エリザベス・アンスコム",
+   "type": "collaborated_with",
+   "object": "ラッシュ・リーズ",
+   "role": "『探究』の編纂者",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "第2部は遺稿の管理人であり『探究』の編纂者でもあった分析哲学者エリザベス・アンスコムとラッシュ・リーズによってつけ加えられた。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ルートヴィヒ・ウィトゲンシュタイン",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q9391.txt#1",
+ "meta": {
+  "title": "Wikipedia (ja): ルートヴィヒ・ウィトゲンシュタイン",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

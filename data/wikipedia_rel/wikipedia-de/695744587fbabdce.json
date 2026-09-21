@@ -1,0 +1,162 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Imakita Kōsen",
+   "birth_year": 1816,
+   "death_year": 1892,
+   "nationality": "Japan",
+   "field": "Zen-Buddhismus"
+  },
+  {
+   "name": "Daisetsu Jōen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gisan Zenrai",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Shaku Sōen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Daisetsu Teitarō Suzuki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Zen-Lehre"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Imakita Kōsen",
+   "type": "student_of",
+   "object": "Daisetsu Jōen",
+   "role": "traditional teacher",
+   "place": "Kyōto",
+   "year_start": 1840,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "fing ab 1840 an, unter Daisetsu Jōen im Shōkoku-ji in Kyōto, zu studieren",
+   "quote_ok": true
+  },
+  {
+   "subject": "Imakita Kōsen",
+   "type": "studied_at",
+   "object": "Shōkoku-ji",
+   "role": null,
+   "place": "Kyōto",
+   "year_start": 1840,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "fing ab 1840 an, unter Daisetsu Jōen im Shōkoku-ji in Kyōto, zu studieren",
+   "quote_ok": true
+  },
+  {
+   "subject": "Imakita Kōsen",
+   "type": "student_of",
+   "object": "Gisan Zenrai",
+   "role": "traditional teacher",
+   "place": "Bizen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Des Weiteren ging er nach Bizen zum Sōgen-ji, um von Gisan Zenrai (儀山 善来) zu lernen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Imakita Kōsen",
+   "type": "studied_at",
+   "object": "Sōgen-ji",
+   "role": null,
+   "place": "Bizen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Des Weiteren ging er nach Bizen zum Sōgen-ji, um von Gisan Zenrai (儀山 善来) zu lernen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Imakita Kōsen",
+   "type": "position_at",
+   "object": "Eikō-ji",
+   "role": "Abt",
+   "place": "Iwakuni",
+   "year_start": 1858,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1858 wurde Imakita Abt im Eikō-ji in Iwakuni",
+   "quote_ok": true
+  },
+  {
+   "subject": "Imakita Kōsen",
+   "type": "position_at",
+   "object": "Engaku-ji",
+   "role": "Abt",
+   "place": "Kamakura",
+   "year_start": 1875,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im selben Jahr wurde er auf Wunsch des Ministeriums für Doktrin und Erziehung Abt des Engaku-ji in Kamakura.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shaku Sōen",
+   "type": "student_of",
+   "object": "Imakita Kōsen",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Unter ihm studierten u. a. Shaku Sōen, der sein Nachfolger wurde",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shaku Sōen",
+   "type": "succeeded",
+   "object": "Imakita Kōsen",
+   "role": null,
+   "place": "Engaku-ji",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sein Nachfolger war Shaku Sōen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daisetsu Teitarō Suzuki",
+   "type": "student_of",
+   "object": "Imakita Kōsen",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Unter ihm studierten u. a. Shaku Sōen, der sein Nachfolger wurde, und Daisetsu Teitarō Suzuki",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Imakita Kōsen",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q541565.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Imakita Kōsen",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

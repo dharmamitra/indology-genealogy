@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Moodeen Sheriff",
+   "birth_year": null,
+   "death_year": 1891,
+   "nationality": "Indian",
+   "field": "herbal medicine"
+  },
+  {
+   "name": "Sir George Watt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "economic botany"
+  },
+  {
+   "name": "David Hooper",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Moodeen Sheriff",
+   "type": "collaborated_with",
+   "object": "Sir George Watt",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "contributed to the works on economic botany by Sir George Watt",
+   "quote_ok": true
+  },
+  {
+   "subject": "Moodeen Sheriff",
+   "type": "studied_at",
+   "object": "Madras Medical College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sheriff graduated from the Madras Medical College in the 1850s",
+   "quote_ok": true
+  },
+  {
+   "subject": "Moodeen Sheriff",
+   "type": "position_at",
+   "object": "Triplicane Dispensary",
+   "role": "Native Surgeon",
+   "place": null,
+   "year_start": 1858,
+   "year_end": 1889,
+   "explicit": true,
+   "evidence": "worked at the Triplicane Dispensary in 1858 where he worked until his retirement on 7 July 1889",
+   "quote_ok": true
+  },
+  {
+   "subject": "David Hooper",
+   "type": "collaborated_with",
+   "object": "Moodeen Sheriff",
+   "role": "completing work",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After his death, the Materia Medica of Madras that he was working on was completed by David Hooper",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Moodeen Sheriff",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q47457207.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Moodeen Sheriff",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

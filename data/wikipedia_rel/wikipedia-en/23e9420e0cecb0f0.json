@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Henry Beveridge",
+   "birth_year": 1837,
+   "death_year": 1929,
+   "nationality": "Scottish",
+   "field": "orientalist"
+  },
+  {
+   "name": "Annette Akroyd",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Auguste Comte",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Henry Beveridge",
+   "type": "studied_at",
+   "object": "University of Glasgow",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Beveridge studied at the Royal Circus School, Fife, Edinburgh Academy and the University of Glasgow.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Beveridge",
+   "type": "studied_at",
+   "object": "Queen's College, Belfast",
+   "role": null,
+   "place": "Belfast",
+   "year_start": 1856,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1856 he entered Queen's College, Belfast",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Beveridge",
+   "type": "position_at",
+   "object": "The Asiatic Society (of Bengal)",
+   "role": "President",
+   "place": null,
+   "year_start": 1890,
+   "year_end": 1891,
+   "explicit": true,
+   "evidence": "He was elected President of The Asiatic Society (of Bengal) for 1890–91.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Beveridge",
+   "type": "other",
+   "object": "Annette Akroyd",
+   "role": "spouse",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He married Annette Akroyd, one of the first graduates of Bedford College and translator of Persian and Turki (Chagatai) texts.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Annette Akroyd",
+   "type": "studied_at",
+   "object": "Bedford College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Annette Akroyd, one of the first graduates of Bedford College",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Beveridge",
+   "type": "influenced_by",
+   "object": "Auguste Comte",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Beveridge was an atheist and \"an ardent discipline of the French positivist philosopher Auguste Comte\" and his theories of altruism and the religion of humanity.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Henry Beveridge (orientalist)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q4807937.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Henry Beveridge (orientalist)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

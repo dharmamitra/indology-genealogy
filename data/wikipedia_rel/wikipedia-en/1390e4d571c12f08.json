@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Heinrich August Jäschke",
+   "birth_year": 1817,
+   "death_year": 1883,
+   "nationality": "German",
+   "field": "Tibetologist"
+  },
+  {
+   "name": "Wilhelm Heyde",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Eduard Pagel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Heinrich August Jäschke",
+   "type": "position_at",
+   "object": "Herrnhuter Brüdergemeine",
+   "role": "missionary",
+   "place": "Kyelang, Lahaul District and Spiti in North India",
+   "year_start": 1857,
+   "year_end": 1868,
+   "explicit": true,
+   "evidence": "From 1857 to 1868 he was missionary of the Herrnhuter Brüdergemeine (the Moravian Church or Moravian Brethren) in Kyelang, Lahaul District and Spiti in North India.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich August Jäschke",
+   "type": "position_at",
+   "object": "Moravian boarding schools in Niesky",
+   "role": "co-director",
+   "place": "Niesky, Germany",
+   "year_start": 1847,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1847, he became co-director of the Moravian boarding schools in Niesky, Germany.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich August Jäschke",
+   "type": "collaborated_with",
+   "object": "Wilhelm Heyde",
+   "role": null,
+   "place": "northern India",
+   "year_start": 1856,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "So in 1856 Jäschke joined two missionaries, Wilhelm Heyde and Eduard Pagel, in what is today northern India.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich August Jäschke",
+   "type": "collaborated_with",
+   "object": "Eduard Pagel",
+   "role": null,
+   "place": "northern India",
+   "year_start": 1856,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "So in 1856 Jäschke joined two missionaries, Wilhelm Heyde and Eduard Pagel, in what is today northern India.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Heinrich August Jäschke",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q64653.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Heinrich August Jäschke",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

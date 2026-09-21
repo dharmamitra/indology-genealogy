@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Tsenshab Serkong Rinpoche",
+   "birth_year": 1914,
+   "death_year": 1983,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Alexander Berzin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "14. Dalai Lama",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Tsenshab Serkong Rinpoche",
+   "type": "studied_at",
+   "object": "Kloster Ganden, Changtse Dratshang",
+   "role": "Geshe Lharampa",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Schon als Kind wurde er Novize im Kloster Ganden. Sein Studium an der dortigen Fakultät „Changtse Dratshang“ schloss er mit dem Titel „Geshe Lharampa“ ab",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander Berzin",
+   "type": "student_of",
+   "object": "Tsenshab Serkong Rinpoche",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Tsenshab Serkong Rinpoche hatte zahlreiche Schüler, darunter Alexander Berzin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "14. Dalai Lama",
+   "type": "student_of",
+   "object": "Tsenshab Serkong Rinpoche",
+   "role": "Hilfstutor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Alter von 34 Jahren wurde er Tsenshab („Hilfstutor“) des 14. Dalai Lama.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Tsenshab Serkong Rinpoche",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q2458255.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Tsenshab Serkong Rinpoche",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

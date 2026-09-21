@@ -1,0 +1,117 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "D. C. Lau",
+   "birth_year": 1921,
+   "death_year": 2010,
+   "nationality": "Hongkonger",
+   "field": "Sinology"
+  },
+  {
+   "name": "Xu Dishan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "D. C. Lau",
+   "type": "student_of",
+   "object": "Xu Dishan",
+   "role": "teacher",
+   "place": "University of Hong Kong",
+   "year_start": null,
+   "year_end": 1941,
+   "explicit": true,
+   "evidence": "D. C. Lau studied Chinese under Xu Dishan at the University of Hong Kong",
+   "quote_ok": true
+  },
+  {
+   "subject": "D. C. Lau",
+   "type": "studied_at",
+   "object": "University of Hong Kong",
+   "role": null,
+   "place": "Hong Kong",
+   "year_start": null,
+   "year_end": 1941,
+   "explicit": true,
+   "evidence": "D. C. Lau studied Chinese under Xu Dishan at the University of Hong Kong, but fled to Mainland China in 1941",
+   "quote_ok": true
+  },
+  {
+   "subject": "D. C. Lau",
+   "type": "studied_at",
+   "object": "Glasgow University",
+   "role": null,
+   "place": null,
+   "year_start": 1946,
+   "year_end": 1949,
+   "explicit": true,
+   "evidence": "studied Western philosophy in Glasgow University (1946–49)",
+   "quote_ok": true
+  },
+  {
+   "subject": "D. C. Lau",
+   "type": "position_at",
+   "object": "School of Oriental and African Studies",
+   "role": null,
+   "place": "London",
+   "year_start": 1950,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1950, Lau would take up a post at London University's School of Oriental and African Studies",
+   "quote_ok": true
+  },
+  {
+   "subject": "D. C. Lau",
+   "type": "position_at",
+   "object": "School of Oriental and African Studies",
+   "role": "Readership in Chinese Philosophy",
+   "place": "London",
+   "year_start": 1965,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was appointed in 1965 to the newly created Readership in Chinese Philosophy",
+   "quote_ok": true
+  },
+  {
+   "subject": "D. C. Lau",
+   "type": "position_at",
+   "object": "University of London",
+   "role": "Professor of Chinese",
+   "place": "London",
+   "year_start": 1970,
+   "year_end": 1978,
+   "explicit": true,
+   "evidence": "in 1970 became Professor of Chinese in the University of London.",
+   "quote_ok": true
+  },
+  {
+   "subject": "D. C. Lau",
+   "type": "position_at",
+   "object": "Chinese University of Hong Kong",
+   "role": "Chair of Chinese Language and Literature",
+   "place": "Hong Kong",
+   "year_start": 1978,
+   "year_end": 1989,
+   "explicit": true,
+   "evidence": "In 1978 he returned to Hong Kong to take up the Chair of Chinese Language and Literature at the Chinese University of Hong Kong. On his retirement in 1989",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): D. C. Lau",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q5203530.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): D. C. Lau",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

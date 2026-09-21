@@ -1,0 +1,119 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Johann Gottfried Eichhorn",
+   "birth_year": 1752,
+   "death_year": 1827,
+   "nationality": null,
+   "field": "Orientalist, Historiker und evangelischer Theologe"
+  },
+  {
+   "name": "Friedrich Wilken",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Orientalist"
+  },
+  {
+   "name": "Isaak Markus Jost",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "jüdischer Historiker"
+  },
+  {
+   "name": "Sándor Csoma",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetologe"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johann Gottfried Eichhorn",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er studierte in Göttingen und war danach Rektor zu Ohrdruf.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Eichhorn",
+   "type": "position_at",
+   "object": "Universität Jena",
+   "role": "Professor der orientalischen Sprachen",
+   "place": "Jena",
+   "year_start": 1775,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1775 wurde er als Professor der orientalischen Sprachen an die Universität Jena berufen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Eichhorn",
+   "type": "position_at",
+   "object": "Universität Göttingen",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": 1788,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "und 1788 an die Universität Göttingen, wo er auch über die politische Geschichte alter und neuer Zeiten und über Literaturgeschichte las.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Wilken",
+   "type": "student_of",
+   "object": "Johann Gottfried Eichhorn",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Unter Eichhorns Studenten waren der spätere Orientalist Friedrich Wilken, der jüdische Historiker Isaak Markus Jost und der Tibetologe Sándor Csoma.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Isaak Markus Jost",
+   "type": "student_of",
+   "object": "Johann Gottfried Eichhorn",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Unter Eichhorns Studenten waren der spätere Orientalist Friedrich Wilken, der jüdische Historiker Isaak Markus Jost und der Tibetologe Sándor Csoma.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sándor Csoma",
+   "type": "student_of",
+   "object": "Johann Gottfried Eichhorn",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Unter Eichhorns Studenten waren der spätere Orientalist Friedrich Wilken, der jüdische Historiker Isaak Markus Jost und der Tibetologe Sándor Csoma.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Johann Gottfried Eichhorn",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q66355.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Johann Gottfried Eichhorn",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

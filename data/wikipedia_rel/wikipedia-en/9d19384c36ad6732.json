@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Kitarō Nishida",
+   "birth_year": 1870,
+   "death_year": 1945,
+   "nationality": "Japanese",
+   "field": "philosophy"
+  },
+  {
+   "name": "D. T. Suzuki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "David A. Dilworth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Masao Abe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Kitarō Nishida",
+   "type": "studied_at",
+   "object": "University of Tokyo",
+   "role": "degree in philosophy",
+   "place": null,
+   "year_start": null,
+   "year_end": 1894,
+   "explicit": true,
+   "evidence": "He graduated from the University of Tokyo during the Meiji period in 1894 with a degree in philosophy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kitarō Nishida",
+   "type": "position_at",
+   "object": "Fourth Higher School in Ishikawa Prefecture",
+   "role": "professor",
+   "place": "Ishikawa Prefecture",
+   "year_start": 1899,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was named professor of the Fourth Higher School in Ishikawa Prefecture in 1899",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kitarō Nishida",
+   "type": "position_at",
+   "object": "Kyoto University",
+   "role": "professor of philosophy",
+   "place": null,
+   "year_start": null,
+   "year_end": 1927,
+   "explicit": true,
+   "evidence": "later became professor of philosophy at Kyoto University. Nishida retired in 1927.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kitarō Nishida",
+   "type": "founded",
+   "object": "Kyoto School of philosophy",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was the founder of what has been called the Kyoto School of philosophy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kitarō Nishida",
+   "type": "other",
+   "object": "D. T. Suzuki",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A second grave can be found at Tōkei-ji Temple in Kamakura, where his friend D. T. Suzuki organized Nishida's funeral and was later interred in the adjacent plot.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Kitarō Nishida",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q45125.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Kitarō Nishida",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Alexander Cunningham",
+   "birth_year": 1814,
+   "death_year": 1893,
+   "nationality": "British",
+   "field": "archaeology"
+  },
+  {
+   "name": "James Prinsep",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Frederick Charles Maisey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "J. D. Beglar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "archaeology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Alexander Cunningham",
+   "type": "studied_at",
+   "object": "East India Company's Addiscombe Seminary",
+   "role": "cadet",
+   "place": null,
+   "year_start": 1829,
+   "year_end": 1831,
+   "explicit": true,
+   "evidence": "both Joseph and Alexander obtained cadetships at the East India Company's Addiscombe Seminary (1829–31)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander Cunningham",
+   "type": "student_of",
+   "object": "James Prinsep",
+   "role": "pupil",
+   "place": null,
+   "year_start": 1837,
+   "year_end": 1838,
+   "explicit": true,
+   "evidence": "He was in daily communication with Prinsep during 1837 and 1838 and became his intimate friend, confidant and pupil.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander Cunningham",
+   "type": "collaborated_with",
+   "object": "Frederick Charles Maisey",
+   "role": null,
+   "place": null,
+   "year_start": 1837,
+   "year_end": 1851,
+   "explicit": true,
+   "evidence": "He had conducted excavations at Sarnath in 1837 along with Frederick Charles Maisey",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander Cunningham",
+   "type": "position_at",
+   "object": "Government of India",
+   "role": "archaeological surveyor",
+   "place": null,
+   "year_start": 1861,
+   "year_end": 1865,
+   "explicit": true,
+   "evidence": "Lord Canning, then Viceroy of India, appointed Cunningham as an archaeological surveyor to the Government of India. He held this position from 1861 to 1865",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander Cunningham",
+   "type": "founded",
+   "object": "Archaeological Survey of India",
+   "role": null,
+   "place": null,
+   "year_start": 1861,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and he founded and organised what later became the Archaeological Survey of India.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander Cunningham",
+   "type": "position_at",
+   "object": "Archaeological Survey of India",
+   "role": "director-general",
+   "place": null,
+   "year_start": 1871,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "In 1870, Lord Mayo re-established the Archaeological Survey of India, with Cunningham as its director-general from 1 January 1871... He retired from the Archaeological Survey on 30 September 1885",
+   "quote_ok": true
+  },
+  {
+   "subject": "J. D. Beglar",
+   "type": "student_of",
+   "object": "Alexander Cunningham",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He produced twenty-four reports, thirteen as author and the rest under his supervision by others such as J. D. Beglar.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Alexander Cunningham",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q455430.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Alexander Cunningham",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

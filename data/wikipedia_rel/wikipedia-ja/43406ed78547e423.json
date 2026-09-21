@@ -1,0 +1,105 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "山崎 泰廣",
+   "birth_year": 1929,
+   "death_year": 2025,
+   "nationality": "Japanese",
+   "field": "密教学"
+  },
+  {
+   "name": "森 孝明",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "山崎 泰廣",
+   "type": "studied_at",
+   "object": "高野山大学大学院密教学科",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1954,
+   "explicit": true,
+   "evidence": "1954年高野山大学大学院密教学科修了。",
+   "quote_ok": true
+  },
+  {
+   "subject": "山崎 泰廣",
+   "type": "position_at",
+   "object": "種智院大学",
+   "role": "助教授",
+   "place": null,
+   "year_start": 1966,
+   "year_end": 1972,
+   "explicit": true,
+   "evidence": "1966年種智院大学助教授、72年教授。",
+   "quote_ok": true
+  },
+  {
+   "subject": "山崎 泰廣",
+   "type": "position_at",
+   "object": "種智院大学",
+   "role": "教授",
+   "place": null,
+   "year_start": 1972,
+   "year_end": 2000,
+   "explicit": true,
+   "evidence": "72年教授。高野山大学教授を兼ねる。...2000年種智院大学・高野山大学定年退職。",
+   "quote_ok": true
+  },
+  {
+   "subject": "山崎 泰廣",
+   "type": "position_at",
+   "object": "高野山大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": 2000,
+   "explicit": true,
+   "evidence": "高野山大学教授を兼ねる。...2000年種智院大学・高野山大学定年退職。",
+   "quote_ok": true
+  },
+  {
+   "subject": "山崎 泰廣",
+   "type": "position_at",
+   "object": "種智院大学",
+   "role": "名誉教授",
+   "place": null,
+   "year_start": 2000,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "種智院大学名誉教授。",
+   "quote_ok": true
+  },
+  {
+   "subject": "森 孝明",
+   "type": "student_of",
+   "object": "山崎 泰廣",
+   "role": "disciple",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "弟子に森 孝明（元高野山真言宗阿字観指導者養成講習会能化）等がいる。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 山崎泰廣",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q18818276.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 山崎泰廣",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

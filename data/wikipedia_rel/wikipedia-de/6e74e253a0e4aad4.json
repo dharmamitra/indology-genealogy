@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Édouard Huber",
+   "birth_year": 1879,
+   "death_year": 1914,
+   "nationality": "Schweiz",
+   "field": "Sprachengelehrter, Archäologe, Sinologe und Indochinaforscher"
+  },
+  {
+   "name": "Johann Baptist Schibenegg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sylvain Lévi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Édouard Chavannes",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Édouard Huber",
+   "type": "position_at",
+   "object": "Hanoi",
+   "role": "Professor für indochinesische Philologie",
+   "place": "Hanoi",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er war Professor für indochinesische Philologie in Hanoi und ab 1912 französischer Staatsbürger.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Édouard Huber",
+   "type": "student_of",
+   "object": "Johann Baptist Schibenegg",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bereits zu dieser Zeit hatte er Kenntnisse in Hebräisch, Chaldäisch, und Sanskrit, die ihm durch Chorherr Johann Baptist Schibenegg vermittelt worden waren.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Édouard Huber",
+   "type": "studied_at",
+   "object": "Sorbonne in Paris",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Huber schrieb sich danach für seine vierjährige Studienzeit an der Sorbonne in Paris ein, an der er Vorlesungen in Sanskrit, Zend (Altpersisch), Russisch, Japanisch, Chinesisch sowie zur hinduistischen und buddhistischen Literaturgeschichte belegte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Édouard Huber",
+   "type": "collaborated_with",
+   "object": "Sylvain Lévi",
+   "role": "Mitarbeiter",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In dieser Zeit fiel er als begabter Übersetzer auf und wurde enger Mitarbeiter der Professoren Sylvain Lévi und Édouard Chavannes.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Édouard Huber",
+   "type": "collaborated_with",
+   "object": "Édouard Chavannes",
+   "role": "Mitarbeiter",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In dieser Zeit fiel er als begabter Übersetzer auf und wurde enger Mitarbeiter der Professoren Sylvain Lévi und Édouard Chavannes.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Édouard Huber",
+   "type": "position_at",
+   "object": "École française d’Extrême-Orient",
+   "role": "wissenschaftlicher Mitarbeiter",
+   "place": "Saigon",
+   "year_start": 1901,
+   "year_end": 1905,
+   "explicit": true,
+   "evidence": "entschied sich jedoch für ein Angebot, als wissenschaftlicher Mitarbeiter an der École française d’Extrême-Orient in Saigon (ab 1902 in Hanoi) zu arbeiten. Dort war er von 1901 bis 1905 für die Ausbildung der klassischen buddhistischen Sprachen, den Aufbau der Bibliothek und für Ausgrabungen zuständig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Édouard Huber",
+   "type": "position_at",
+   "object": "École française d’Extrême-Orient",
+   "role": "Direktor der Abteilung China und Indochina",
+   "place": null,
+   "year_start": 1905,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Am 20. Juli 1905 wurde Huber zum Direktor der Abteilung China und Indochina ernannt.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Edouard Huber",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1287575.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Edouard Huber",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,143 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Pietro Merlo",
+   "birth_year": 1850,
+   "death_year": 1888,
+   "nationality": "italienisch",
+   "field": "Sprachwissenschaftler, Romanist und Altphilologe"
+  },
+  {
+   "name": "Giovanni Flechia",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Giovanni Maria Bertini",
+   "birth_year": 1818,
+   "death_year": 1876,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Clemente Merlo",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Romanist"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Pietro Merlo",
+   "type": "studied_at",
+   "object": "Universität Turin",
+   "role": null,
+   "place": "Turin",
+   "year_start": 1867,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studierte ab 1867 an der Universität Turin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pietro Merlo",
+   "type": "student_of",
+   "object": "Giovanni Flechia",
+   "role": "teacher",
+   "place": "Turin",
+   "year_start": 1867,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studierte ab 1867 an der Universität Turin bei  Giovanni Flechia und Giovanni Maria Bertini",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pietro Merlo",
+   "type": "student_of",
+   "object": "Giovanni Maria Bertini",
+   "role": "teacher",
+   "place": "Turin",
+   "year_start": 1867,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studierte ab 1867 an der Universität Turin bei  Giovanni Flechia und Giovanni Maria Bertini",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pietro Merlo",
+   "type": "position_at",
+   "object": "Scuola di Magistero der Universität",
+   "role": "unterrichtete",
+   "place": "Neapel",
+   "year_start": 1877,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dort unterrichtete er ab 1877 an der Scuola di Magistero der Universität",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pietro Merlo",
+   "type": "position_at",
+   "object": "Scuola di Magistero der Universität",
+   "role": "außerordentlicher Professor für Latein und Griechisch",
+   "place": "Neapel",
+   "year_start": 1880,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "und wurde 1880 außerordentlicher Professor für Latein und Griechisch.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pietro Merlo",
+   "type": "position_at",
+   "object": "Universität Pavia",
+   "role": "außerordentlicher Professor",
+   "place": "Pavia",
+   "year_start": 1881,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "Ab 1881 war er an der Universität Pavia außerordentlicher Professor",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pietro Merlo",
+   "type": "position_at",
+   "object": "Universität Pavia",
+   "role": "ordentlicher Professor für Vergleichende Sprachwissenschaft der alten und der romanischen Sprachen",
+   "place": "Pavia",
+   "year_start": 1885,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ab 1885 ordentlicher Professor für Vergleichende Sprachwissenschaft der alten und der romanischen Sprachen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pietro Merlo",
+   "type": "other",
+   "object": "Clemente Merlo",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pietro Merlo war der Vater des Romanisten Clemente Merlo.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Pietro Merlo",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q3904068.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Pietro Merlo",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

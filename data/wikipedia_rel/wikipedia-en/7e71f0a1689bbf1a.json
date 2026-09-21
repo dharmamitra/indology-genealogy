@@ -1,0 +1,164 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Philippe Édouard Foucaux",
+   "birth_year": 1811,
+   "death_year": 1894,
+   "nationality": "French",
+   "field": "tibetologist"
+  },
+  {
+   "name": "Eugène Burnouf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Sándor Kőrösi Csoma",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Léon Feer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "William Woodville Rockhill",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Alexandra David-Néel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Mary Summer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "buddhologist"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Philippe Édouard Foucaux",
+   "type": "student_of",
+   "object": "Eugène Burnouf",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": 1838,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At the age of 27, he left for Paris to study Indology with Eugène Burnouf.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philippe Édouard Foucaux",
+   "type": "influenced_by",
+   "object": "Sándor Kőrösi Csoma",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After becoming aware of the work of Sándor Kőrösi Csoma, he studied Tibetan by himself for two years.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philippe Édouard Foucaux",
+   "type": "position_at",
+   "object": "École des langues orientales",
+   "role": "Tibetan teacher",
+   "place": null,
+   "year_start": 1842,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After this he was appointed as a Tibetan teacher at the École des langues orientales where he gave his inaugural lecture on 31 January 1842.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Léon Feer",
+   "type": "student_of",
+   "object": "Philippe Édouard Foucaux",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Some of his most well-known students include Léon Feer, William Woodville Rockhill, and Alexandra David-Néel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Woodville Rockhill",
+   "type": "student_of",
+   "object": "Philippe Édouard Foucaux",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Some of his most well-known students include Léon Feer, William Woodville Rockhill, and Alexandra David-Néel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexandra David-Néel",
+   "type": "student_of",
+   "object": "Philippe Édouard Foucaux",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Some of his most well-known students include Léon Feer, William Woodville Rockhill, and Alexandra David-Néel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philippe Édouard Foucaux",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "member",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Foucaux was elected as a member of the Collège de France.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philippe Édouard Foucaux",
+   "type": "other",
+   "object": "Mary Summer",
+   "role": "spouse",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Foucaux was married to Mary Summer, born Marie Filon, who also did work as a buddhologist.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Philippe Édouard Foucaux",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q962851.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Philippe Édouard Foucaux",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

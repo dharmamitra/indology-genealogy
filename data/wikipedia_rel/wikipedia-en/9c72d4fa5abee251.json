@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Laurence Austine Waddell",
+   "birth_year": 1854,
+   "death_year": 1938,
+   "nationality": "Scottish",
+   "field": "Tibetan"
+  },
+  {
+   "name": "Alexander Cunningham",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "John Hubert Marshall",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "archaeology"
+  },
+  {
+   "name": "Mortimer Wheeler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "archaeology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Laurence Austine Waddell",
+   "type": "studied_at",
+   "object": "Glasgow University",
+   "role": "bachelor's degree in Medicine",
+   "place": null,
+   "year_start": null,
+   "year_end": 1878,
+   "explicit": true,
+   "evidence": "Laurence Waddell obtained a bachelor's degree in Medicine followed by a master's degree in both Surgery and Chemistry at Glasgow University in 1878.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Laurence Austine Waddell",
+   "type": "position_at",
+   "object": "Medical College of Kolkata",
+   "role": "professor of chemistry and pathology",
+   "place": "India",
+   "year_start": 1881,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The following year he became a professor of chemistry and pathology at the Medical College of Kolkata, India.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Laurence Austine Waddell",
+   "type": "position_at",
+   "object": "University College of London",
+   "role": "Professor of Tibetan",
+   "place": "England",
+   "year_start": 1906,
+   "year_end": 1908,
+   "explicit": true,
+   "evidence": "Waddell then returned to England, where he briefly became Professor of Tibetan at the University College of London (1906–1908).",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Hubert Marshall",
+   "type": "position_at",
+   "object": "Archaeological Survey of India",
+   "role": "Director-General",
+   "place": null,
+   "year_start": null,
+   "year_end": 1928,
+   "explicit": true,
+   "evidence": "John Marshall, the Director-General of the Archaeological Survey of India until 1928",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mortimer Wheeler",
+   "type": "position_at",
+   "object": "Archaeological Survey of India",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sir Mortimer Wheeler was put in charge of the Archaeological Survey of India",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Laurence Waddell",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q2605442.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Laurence Waddell",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

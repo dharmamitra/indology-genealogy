@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Reinhold Klotz",
+   "birth_year": 1807,
+   "death_year": 1870,
+   "nationality": "German",
+   "field": "classical scholar"
+  },
+  {
+   "name": "Gottfried Hermann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Reinhold Klotz",
+   "type": "studied_at",
+   "object": "University of Leipzig",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied at the University of Leipzig",
+   "quote_ok": true
+  },
+  {
+   "subject": "Reinhold Klotz",
+   "type": "position_at",
+   "object": "University of Leipzig",
+   "role": "assistant professor",
+   "place": null,
+   "year_start": 1832,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "became assistant professor there in 1832",
+   "quote_ok": true
+  },
+  {
+   "subject": "Reinhold Klotz",
+   "type": "position_at",
+   "object": "University of Leipzig",
+   "role": "full professor",
+   "place": null,
+   "year_start": 1849,
+   "year_end": 1870,
+   "explicit": true,
+   "evidence": "In 1849 he became a full professor in succession to Gottfried Hermann, and held this post until his death in Kleinschocher (Leipzig) on 10 August 1870.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Reinhold Klotz",
+   "type": "succeeded",
+   "object": "Gottfried Hermann",
+   "role": null,
+   "place": "University of Leipzig",
+   "year_start": 1849,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1849 he became a full professor in succession to Gottfried Hermann",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Reinhold Klotz",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q89704.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Reinhold Klotz",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

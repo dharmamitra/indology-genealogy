@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Heinrich Ewald",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Orientalist"
+  },
+  {
+   "name": "Wilhelmine Gauß",
+   "birth_year": 1808,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Heinrich Ewald",
+   "type": "position_at",
+   "object": "Universität Tübingen",
+   "role": "Professor",
+   "place": "Tübingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Heinrich Ewald, der später als einer der Göttinger Sieben das Königreich Hannover verließ und Professor an der Universität Tübingen wurde.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Ewald",
+   "type": "other",
+   "object": "Wilhelmine Gauß",
+   "role": "husband",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Wilhelmine heiratete den Orientalisten Heinrich Ewald",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Wikipedia (de): Carl Friedrich Gauß",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q6722.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Carl Friedrich Gauß",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

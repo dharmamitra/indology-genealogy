@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Abel Henri Joseph Bergaigne",
+   "birth_year": 1838,
+   "death_year": 1888,
+   "nationality": "French",
+   "field": "Indologist and scholar of Sanskrit"
+  },
+  {
+   "name": "Sylvain Lévi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Paul Mus",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Abel Henri Joseph Bergaigne",
+   "type": "position_at",
+   "object": "Sorbonne",
+   "role": "lecturer in Sorbonne",
+   "place": null,
+   "year_start": 1877,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "By 1877, he became a lecturer in Sorbonne",
+   "quote_ok": true
+  },
+  {
+   "subject": "Abel Henri Joseph Bergaigne",
+   "type": "position_at",
+   "object": "Sorbonne",
+   "role": "professor of Sanskrit and comparative linguistic",
+   "place": null,
+   "year_start": 1885,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "in 1885, he was appointed as a professor of Sanskrit and comparative linguistic.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sylvain Lévi",
+   "type": "influenced_by",
+   "object": "Abel Henri Joseph Bergaigne",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His work has influenced people such as Sylvain Lévi, Paul Mus, and others.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Mus",
+   "type": "influenced_by",
+   "object": "Abel Henri Joseph Bergaigne",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His work has influenced people such as Sylvain Lévi, Paul Mus, and others.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Abel Bergaigne",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q2821487.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Abel Bergaigne",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,143 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Dan Zahavi",
+   "birth_year": 1967,
+   "death_year": null,
+   "nationality": "Danish",
+   "field": "philosopher"
+  },
+  {
+   "name": "Rudolf Bernet",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sophie Loidolt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Austrian",
+   "field": "philosopher"
+  },
+  {
+   "name": "Shaun Gallagher",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Dan Zahavi",
+   "type": "studied_at",
+   "object": "University of Copenhagen",
+   "role": null,
+   "place": "Copenhagen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He initially studied phenomenology at the University of Copenhagen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dan Zahavi",
+   "type": "studied_at",
+   "object": "Katholieke Universiteit Leuven",
+   "role": "PhD",
+   "place": "Belgium",
+   "year_start": null,
+   "year_end": 1994,
+   "explicit": true,
+   "evidence": "In 1994, he obtained his PhD from Katholieke Universiteit Leuven, Belgium, with Rudolf Bernet as his doctoral supervisor.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dan Zahavi",
+   "type": "student_of",
+   "object": "Rudolf Bernet",
+   "role": "doctoral supervisor",
+   "place": "Belgium",
+   "year_start": null,
+   "year_end": 1994,
+   "explicit": true,
+   "evidence": "In 1994, he obtained his PhD from Katholieke Universiteit Leuven, Belgium, with Rudolf Bernet as his doctoral supervisor.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dan Zahavi",
+   "type": "studied_at",
+   "object": "University of Copenhagen",
+   "role": "disputats (habilitation)",
+   "place": null,
+   "year_start": null,
+   "year_end": 1999,
+   "explicit": true,
+   "evidence": "In 1999, he defended his Danish disputats (habilitation) at the University of Copenhagen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dan Zahavi",
+   "type": "position_at",
+   "object": "University of Copenhagen",
+   "role": "professor of philosophy and director of the Center for Subjectivity Research",
+   "place": null,
+   "year_start": 2002,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 2002, he became professor of philosophy and director of the Center for Subjectivity Research at the University of Copenhagen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dan Zahavi",
+   "type": "position_at",
+   "object": "University of Oxford",
+   "role": "professor of philosophy",
+   "place": null,
+   "year_start": 2018,
+   "year_end": 2021,
+   "explicit": true,
+   "evidence": "In the period 2018–21, he was also professor of philosophy at the University of Oxford.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dan Zahavi",
+   "type": "other",
+   "object": "Sophie Loidolt",
+   "role": "spouse",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He is married to the Austrian philosopher Sophie Loidolt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dan Zahavi",
+   "type": "collaborated_with",
+   "object": "Shaun Gallagher",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The Phenomenological Mind (with Shaun Gallagher).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Dan Zahavi",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q2896505.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Dan Zahavi",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

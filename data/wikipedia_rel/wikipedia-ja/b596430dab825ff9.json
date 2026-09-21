@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "梁漱溟",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "中国",
+   "field": "インド哲学"
+  },
+  {
+   "name": "蔡元培",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "梁漱溟",
+   "type": "studied_at",
+   "object": "順天中学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1911,
+   "explicit": true,
+   "evidence": "1911年に順天中学を卒業した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "梁漱溟",
+   "type": "position_at",
+   "object": "北京大学",
+   "role": "教授",
+   "place": null,
+   "year_start": 1917,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1917年、蔡元培学長に招かれ、北京大学の教授となり、インド哲学を講じた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "蔡元培",
+   "type": "position_at",
+   "object": "北京大学",
+   "role": "学長",
+   "place": null,
+   "year_start": 1917,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1917年、蔡元培学長に招かれ、北京大学の教授となり",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 梁漱溟",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q1167488.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 梁漱溟",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ajahn Sucitto",
+   "birth_year": 1949,
+   "death_year": null,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Ajahn Sumedho",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Phra Alan Nyānavajīro",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "English",
+   "field": null
+  },
+  {
+   "name": "Nick Scott",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ajahn Sucitto",
+   "type": "position_at",
+   "object": "Cittaviveka, Chithurst Buddhist Monastery",
+   "role": "abbot",
+   "place": "West Sussex",
+   "year_start": 1992,
+   "year_end": 2014,
+   "explicit": true,
+   "evidence": "He was, between 1992 and 2014, the abbot of Cittaviveka, Chithurst Buddhist Monastery.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ajahn Sucitto",
+   "type": "student_of",
+   "object": "Ajahn Sumedho",
+   "role": "disciple",
+   "place": null,
+   "year_start": 1978,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ajahn Sumedho had taken up residence in the Hampstead Buddhist Vihara in 1977, and readily accepted Sucitto as a disciple. Sucitto trained under Ajahn Sumedho for much of the ensuing fourteen years.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ajahn Sucitto",
+   "type": "studied_at",
+   "object": "University of Warwick",
+   "role": "degree in English and American Literature",
+   "place": null,
+   "year_start": null,
+   "year_end": 1971,
+   "explicit": true,
+   "evidence": "Before entering monastic life, Ajahn Sucitto graduated from the University of Warwick with a degree in English and American Literature in 1971.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ajahn Sucitto",
+   "type": "student_of",
+   "object": "Phra Alan Nyānavajīro",
+   "role": "traditional teacher",
+   "place": "Wat Meung Maung",
+   "year_start": 1975,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he was inspired by a meditation class in English in Wat Meung Maung given by an English monk, Phra Alan Nyānavajīro.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ajahn Sucitto",
+   "type": "collaborated_with",
+   "object": "Nick Scott",
+   "role": "co-authored",
+   "place": null,
+   "year_start": 1990,
+   "year_end": 1991,
+   "explicit": true,
+   "evidence": "co-authored (with Nick Scott) a two-volume account of the six-month walking pilgrimage that they undertook in India and Nepal between November 1990 through April 1991",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Ajahn Sucitto",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q4699498.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Ajahn Sucitto",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

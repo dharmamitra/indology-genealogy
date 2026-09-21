@@ -1,0 +1,95 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Kotahene Soma Maha Thera",
+   "birth_year": 1898,
+   "death_year": 1960,
+   "nationality": "Sinhalese",
+   "field": null
+  },
+  {
+   "name": "Jetavana Sayadaw",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "G.S. Prelis",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Paul Dahlke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Kotahene Soma Maha Thera",
+   "type": "studied_at",
+   "object": "Catholic St. Benedict's College",
+   "role": null,
+   "place": "Kotahena",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "received his education at the Catholic St. Benedict's College in Kotahena",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kotahene Soma Maha Thera",
+   "type": "student_of",
+   "object": "Jetavana Sayadaw",
+   "role": "traditional teacher",
+   "place": "Moulmein",
+   "year_start": 1936,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "received the higher ordination as Theravada Buddhist monks on 6 November 1936 in Moulmein under the meditation teacher Jetavana Sayadaw.",
+   "quote_ok": true
+  },
+  {
+   "subject": "G.S. Prelis",
+   "type": "student_of",
+   "object": "Jetavana Sayadaw",
+   "role": "traditional teacher",
+   "place": "Moulmein",
+   "year_start": 1936,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "received the higher ordination as Theravada Buddhist monks on 6 November 1936 in Moulmein under the meditation teacher Jetavana Sayadaw.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Dahlke",
+   "type": "founded",
+   "object": "Das Buddhistische Haus",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Das Buddhistische Haus (The Buddhist House) in Berlin, founded by Dr. Paul Dahlke.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Soma Thera",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q18207716.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Soma Thera",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

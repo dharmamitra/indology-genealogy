@@ -1,0 +1,136 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Anton Westermann",
+   "birth_year": 1806,
+   "death_year": 1869,
+   "nationality": "German",
+   "field": "Klassische Philologie"
+  },
+  {
+   "name": "Christian Daniel Beck",
+   "birth_year": null,
+   "death_year": 1832,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Bernhard Heisterbergk",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Anton Westermann",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": 1825,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studierte Westermann ab 1825 Klassische Philologie in Leipzig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anton Westermann",
+   "type": "studied_at",
+   "object": "Universität Leipzig",
+   "role": "Habilitation",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": 1830,
+   "explicit": true,
+   "evidence": "Nach seiner Habilitation 1830 wurde er Privatdozent an der Universität Leipzig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anton Westermann",
+   "type": "position_at",
+   "object": "Universität Leipzig",
+   "role": "Privatdozent",
+   "place": "Leipzig",
+   "year_start": 1830,
+   "year_end": 1833,
+   "explicit": true,
+   "evidence": "Nach seiner Habilitation 1830 wurde er Privatdozent an der Universität Leipzig. 1833 wurde er zum außerordentlichen Professor ernannt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anton Westermann",
+   "type": "position_at",
+   "object": "Universität Leipzig",
+   "role": "außerordentlicher Professor",
+   "place": "Leipzig",
+   "year_start": 1833,
+   "year_end": 1834,
+   "explicit": true,
+   "evidence": "1833 wurde er zum außerordentlichen Professor ernannt. Im nächsten Jahr erhielt er im Zuge einer Hausberufung den Lehrstuhl",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anton Westermann",
+   "type": "position_at",
+   "object": "Universität Leipzig",
+   "role": "Ordinarius",
+   "place": "Leipzig",
+   "year_start": 1834,
+   "year_end": 1865,
+   "explicit": true,
+   "evidence": "Im nächsten Jahr erhielt er im Zuge einer Hausberufung den Lehrstuhl des 1832 verstorbenen Ordinarius Christian Daniel Beck. Von 1849 bis zu seinem Eintritt in den Ruhestand 1865",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anton Westermann",
+   "type": "succeeded",
+   "object": "Christian Daniel Beck",
+   "role": null,
+   "place": "Universität Leipzig",
+   "year_start": 1834,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im nächsten Jahr erhielt er im Zuge einer Hausberufung den Lehrstuhl des 1832 verstorbenen Ordinarius Christian Daniel Beck.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anton Westermann",
+   "type": "position_at",
+   "object": "philologisches Seminar",
+   "role": "Mitdirektor",
+   "place": null,
+   "year_start": 1849,
+   "year_end": 1865,
+   "explicit": true,
+   "evidence": "Von 1849 bis zu seinem Eintritt in den Ruhestand 1865 war er Mitdirektor des philologischen Seminars.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bernhard Heisterbergk",
+   "type": "student_of",
+   "object": "Anton Westermann",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Einer seiner Schüler war Bernhard Heisterbergk.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Anton Westermann",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q104330.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Anton Westermann",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

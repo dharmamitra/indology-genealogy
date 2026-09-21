@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ernest Renan",
+   "birth_year": 1823,
+   "death_year": 1892,
+   "nationality": "French",
+   "field": "Orientalist and Semitic scholar"
+  },
+  {
+   "name": "Jacob Burckhardt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Nietzsche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ernest Renan",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "administrator",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "During his last years, he received many honors, and was made an administrator of the Collège de France and grand officer of the Legion of Honor.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jacob Burckhardt",
+   "type": "position_at",
+   "object": "Basel University",
+   "role": null,
+   "place": "Basel",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Renan's interpretations of history become the subject of frequent polemical sniping in Jacob Burckhardt's lectures at Basel University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nietzsche",
+   "type": "position_at",
+   "object": "Basel University",
+   "role": "faculty member",
+   "place": "Basel",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "receiving sustained and acid criticism from his (posthumously better-known) colleague and faculty member at Basel in Nietzsche's later works",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nietzsche",
+   "type": "collaborated_with",
+   "object": "Jacob Burckhardt",
+   "role": "colleague",
+   "place": "Basel",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from his (posthumously better-known) colleague and faculty member at Basel in Nietzsche's later works",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Ernest Renan",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q157155.txt#1",
+ "meta": {
+  "title": "Wikipedia (en): Ernest Renan",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

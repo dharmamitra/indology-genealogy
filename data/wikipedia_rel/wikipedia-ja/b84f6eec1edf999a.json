@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "釈雲照",
+   "birth_year": 1827,
+   "death_year": 1909,
+   "nationality": "日本",
+   "field": null
+  },
+  {
+   "name": "釈興然",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "日本",
+   "field": null
+  },
+  {
+   "name": "慈雲",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "日本",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "釈雲照",
+   "type": "other",
+   "object": "釈興然",
+   "role": "uncle",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "日本人初の上座部仏教徒である釈興然は甥にあたる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "釈雲照",
+   "type": "studied_at",
+   "object": "高野山",
+   "role": null,
+   "place": null,
+   "year_start": 1844,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1844年（弘化元年）高野山に上って真言密教を修学した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "釈雲照",
+   "type": "influenced_by",
+   "object": "慈雲",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "江戸時代後期に戒律復興運動を行った慈雲の影響を受け",
+   "quote_ok": true
+  },
+  {
+   "subject": "釈雲照",
+   "type": "founded",
+   "object": "十善会",
+   "role": null,
+   "place": null,
+   "year_start": 1884,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "明治維新後の1884年（明治17年）十善会を発足し",
+   "quote_ok": true
+  },
+  {
+   "subject": "釈雲照",
+   "type": "founded",
+   "object": "戒律学校",
+   "role": null,
+   "place": "目白新長谷寺",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "以後は目白新長谷寺に戒律学校を創建し",
+   "quote_ok": true
+  },
+  {
+   "subject": "釈雲照",
+   "type": "founded",
+   "object": "十善宝窟",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "機関紙「十善宝窟」を創刊した。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 釈雲照",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q11644544.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 釈雲照",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

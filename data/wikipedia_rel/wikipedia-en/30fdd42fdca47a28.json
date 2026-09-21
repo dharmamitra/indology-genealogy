@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Wei Chueh",
+   "birth_year": 1928,
+   "death_year": 2016,
+   "nationality": "Taiwanese",
+   "field": null
+  },
+  {
+   "name": "Lin Yuan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jian Deng",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Wei Chueh",
+   "type": "student_of",
+   "object": "Lin Yuan",
+   "role": "ordained under",
+   "place": "Keelung, Taiwan",
+   "year_start": 1963,
+   "year_end": 1963,
+   "explicit": true,
+   "evidence": "In 1963, he was ordained under Lin Yuan at the Shi Fan Da Jue (“Great Enlightenment”) Chan Monastery in Keelung, Taiwan.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wei Chueh",
+   "type": "founded",
+   "object": "Chung Tai Shan monastery",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He is the founder of the Chung Tai Shan monastery and Buddhist order.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wei Chueh",
+   "type": "founded",
+   "object": "Lin Quan Temple",
+   "role": null,
+   "place": "Taipei County",
+   "year_start": 1987,
+   "year_end": 1987,
+   "explicit": true,
+   "evidence": "In 1987, he founded Lin Quan Temple in Taipei County.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jian Deng",
+   "type": "student_of",
+   "object": "Wei Chueh",
+   "role": "disciple",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 2005, the Grand Master appointed his disciple Jian Deng to be the abbot of Chung Tai.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Wei Chueh",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q7979741.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Wei Chueh",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

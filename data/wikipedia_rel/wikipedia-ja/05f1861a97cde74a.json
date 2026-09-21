@@ -1,0 +1,83 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "橘 瑞超",
+   "birth_year": 1890,
+   "death_year": 1968,
+   "nationality": "日本",
+   "field": null
+  },
+  {
+   "name": "大谷光瑞",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "野村栄三郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "吉川小一郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "橘 瑞超",
+   "type": "student_of",
+   "object": "大谷光瑞",
+   "role": "弟子",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "浄土真宗本願寺派22世大谷光瑞の弟子で",
+   "quote_ok": true
+  },
+  {
+   "subject": "橘 瑞超",
+   "type": "collaborated_with",
+   "object": "野村栄三郎",
+   "role": "第2次大谷探検隊",
+   "place": "中央アジア",
+   "year_start": 1908,
+   "year_end": 1909,
+   "explicit": true,
+   "evidence": "1908年から1909年に至るこの探検では、野村栄三郎らとともに主に天山山脈北路の仏教遺跡を巡る。",
+   "quote_ok": true
+  },
+  {
+   "subject": "橘 瑞超",
+   "type": "collaborated_with",
+   "object": "吉川小一郎",
+   "role": "第3次大谷探検隊",
+   "place": "中央アジア",
+   "year_start": 1910,
+   "year_end": 1912,
+   "explicit": true,
+   "evidence": "20歳の時、吉川小一郎とともに第3次大谷探検隊のメンバーに選ばれ、ロンドンを出発した後シベリア経由で中央アジアに向かう。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 橘瑞超",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q355941.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 橘瑞超",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

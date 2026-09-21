@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Friedrich Majer",
+   "birth_year": 1772,
+   "death_year": 1818,
+   "nationality": "German",
+   "field": "historian, folklorist"
+  },
+  {
+   "name": "Johann Gottfried Herder",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Arthur Schopenhauer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Friedrich Majer",
+   "type": "studied_at",
+   "object": "Jena",
+   "role": null,
+   "place": "Jena",
+   "year_start": 1781,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ab 1781 studierte er in Jena",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Majer",
+   "type": "position_at",
+   "object": "Weimar",
+   "role": "Privatdozent",
+   "place": "Weimar",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Daher lebte er in Jena und lehrte als Privatdozent in Weimar.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Majer",
+   "type": "student_of",
+   "object": "Johann Gottfried Herder",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er war ein Schüler von Johann Gottfried Herder",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Schopenhauer",
+   "type": "student_of",
+   "object": "Friedrich Majer",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1813,
+   "year_end": 1813,
+   "explicit": true,
+   "evidence": "und führte Arthur Schopenhauer 1813 in das antike hinduistische Denken ein.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Friedrich Majer",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q91038.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Friedrich Majer",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

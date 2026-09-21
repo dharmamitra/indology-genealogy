@@ -1,0 +1,159 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Tetsuo Sōkatsu",
+   "birth_year": 1870,
+   "death_year": 1954,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Soyen Shaku",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gotō Zuigan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sokei-an Shigetsu Sasaki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Huston Smith",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Walter Nowick",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ruth Fuller Sasaki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Koun-an Tatsuta Eizan Roshi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Tetsuo Sōkatsu",
+   "type": "student_of",
+   "object": "Soyen Shaku",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Tetsuo Sōkatsu (1870–1954) was a Japanese Rinzai Zen rōshi. He was a Dharma heir of Soyen Shaku.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gotō Zuigan",
+   "type": "student_of",
+   "object": "Tetsuo Sōkatsu",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1906, Sokatsu went to California with a group of fourteen students, including Gotō Zuigan and Sokei-an Shigetsu Sasaki.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sokei-an Shigetsu Sasaki",
+   "type": "student_of",
+   "object": "Tetsuo Sōkatsu",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1906, Sokatsu went to California with a group of fourteen students, including Gotō Zuigan and Sokei-an Shigetsu Sasaki.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Huston Smith",
+   "type": "student_of",
+   "object": "Gotō Zuigan",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gotō Zuigan, abbot of Daitoku-ji, teacher of Huston Smith, Walter Nowick",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Nowick",
+   "type": "student_of",
+   "object": "Gotō Zuigan",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gotō Zuigan, abbot of Daitoku-ji, teacher of Huston Smith, Walter Nowick",
+   "quote_ok": true
+  },
+  {
+   "subject": "Koun-an Tatsuta Eizan Roshi",
+   "type": "founded",
+   "object": "Ningen Zen Kyodan",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Koun-an Tatsuta Eizan Roshi, founder of Ningen Zen Kyodan",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sokei-an Sasaki",
+   "type": "other",
+   "object": "Ruth Fuller Sasaki",
+   "role": "husband",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sokei-an Sasaki, husband of Ruth Fuller Sasaki",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Tetsuo Sōkatsu",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q7706912.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Tetsuo Sōkatsu",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

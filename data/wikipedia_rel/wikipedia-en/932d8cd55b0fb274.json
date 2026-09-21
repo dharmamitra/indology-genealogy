@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Fulgence Fresnel",
+   "birth_year": 1795,
+   "death_year": 1855,
+   "nationality": "French",
+   "field": "Orientalist"
+  },
+  {
+   "name": "Sylvestre de Sacy",
+   "birth_year": 1768,
+   "death_year": 1838,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jules Oppert",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "assyriologist"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Fulgence Fresnel",
+   "type": "student_of",
+   "object": "Sylvestre de Sacy",
+   "role": "pupil",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a pupil of Sylvestre de Sacy (1768–1838) in Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fulgence Fresnel",
+   "type": "studied_at",
+   "object": "Maronite College in Rome",
+   "role": null,
+   "place": "Rome",
+   "year_start": 1826,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1826 he undertook studies of the language and history of the Arabs at Maronite College in Rome.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fulgence Fresnel",
+   "type": "collaborated_with",
+   "object": "Jules Oppert",
+   "role": "expedition member",
+   "place": "Mesopotamia",
+   "year_start": 1851,
+   "year_end": 1854,
+   "explicit": true,
+   "evidence": "In 1851, he was put in charge of the French scientific expedition to Mesopotamia, where he was accompanied by assyriologist Jules Oppert",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Fulgence Fresnel",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q703951.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Fulgence Fresnel",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

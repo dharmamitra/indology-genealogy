@@ -1,0 +1,114 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sakyong Jamgon Mipham Rinpoche",
+   "birth_year": 1962,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Chögyam Trungpa",
+   "birth_year": null,
+   "death_year": 1987,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Dilgo Khyentse Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Pema Norbu Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Namkha Drimed Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Chögyam Trungpa",
+   "type": "studied_at",
+   "object": "Oxford University",
+   "role": null,
+   "place": "Oxford",
+   "year_start": 1963,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His father left India in early 1963 to study at Oxford University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sakyong Jamgon Mipham Rinpoche",
+   "type": "student_of",
+   "object": "Dilgo Khyentse Rinpoche",
+   "role": "traditional teacher",
+   "place": "Nepal",
+   "year_start": 1987,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After his father's death in 1987, the Sawang began his studies with Dilgo Khyentse Rinpoche in Nepal, which continued until the Mahasiddah's death.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sakyong Jamgon Mipham Rinpoche",
+   "type": "student_of",
+   "object": "Pema Norbu Rinpoche",
+   "role": "traditional teacher",
+   "place": "India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mukpo began his studies with Pema Norbu Rinpoche (Penor Rinpoche) in India, where he attended Shedra at Namdrolling Monastery",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sakyong Jamgon Mipham Rinpoche",
+   "type": "studied_at",
+   "object": "Namdroling Monastery",
+   "role": null,
+   "place": "India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "where he attended Shedra at Namdrolling Monastery and continued to oversee the Vajradhatu community.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sakyong Jamgon Mipham Rinpoche",
+   "type": "student_of",
+   "object": "Namkha Drimed Rinpoche",
+   "role": "traditional teacher",
+   "place": "Orissa, India",
+   "year_start": 2008,
+   "year_end": 2009,
+   "explicit": true,
+   "evidence": "In late 2008 and early 2009 the Sakyong received the Rinchen Terdzo, the complete cycle of terma teachings of the Nyingma school of Buddhism, from Namkha Drimed Rinpoche in Orissa, India.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Sakyong Mipham",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1258856.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Sakyong Mipham",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

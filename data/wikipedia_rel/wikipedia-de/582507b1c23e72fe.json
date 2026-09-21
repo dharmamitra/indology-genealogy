@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Bapu Deva Sastri",
+   "birth_year": 1821,
+   "death_year": 1890,
+   "nationality": "indisch",
+   "field": "Astronom und Mathematiker"
+  },
+  {
+   "name": "Lancelot Wilkinson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "britisch",
+   "field": null
+  },
+  {
+   "name": "Sudhakara Dvivedi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Chandra Deva",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Bapu Deva Sastri",
+   "type": "studied_at",
+   "object": "Sanskrit Schule von Sehore",
+   "role": null,
+   "place": "Sehore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studierte die mathematischen Klassiker von Bhaskara II. an der Sanskrit Schule von Sehore",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bapu Deva Sastri",
+   "type": "student_of",
+   "object": "Lancelot Wilkinson",
+   "role": "teacher",
+   "place": "Sehore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Lancelot Wilkinson (einem britischen Verwaltungsbeamten), der dort auch zu seinen Lehrern in westlicher Mathematik (Euklid) und Wissenschaft gehörte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bapu Deva Sastri",
+   "type": "position_at",
+   "object": "Government Sanskrit School in Varanasi",
+   "role": "Lehrer",
+   "place": "Varanasi",
+   "year_start": 1842,
+   "year_end": 1889,
+   "explicit": true,
+   "evidence": "Ab 1842 lehrte er Mathematik und Astronomie an der Government Sanskrit School in Varanasi (Benares). 1889 ging er in den Ruhestand",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sudhakara Dvivedi",
+   "type": "succeeded",
+   "object": "Bapu Deva Sastri",
+   "role": null,
+   "place": "Government Sanskrit School in Varanasi",
+   "year_start": 1889,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1889 ging er in den Ruhestand, sein Nachfolger wurde Sudhakara Dvivedi.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chandra Deva",
+   "type": "student_of",
+   "object": "Bapu Deva Sastri",
+   "role": "Schüler",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er übersetzte das Siddhanta Siromani von Bhaskara II., veröffentlicht in Benares 1891 (mit seinem Schüler Chandra Deva).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bapu Deva Sastri",
+   "type": "collaborated_with",
+   "object": "Chandra Deva",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1891,
+   "explicit": true,
+   "evidence": "Er übersetzte das Siddhanta Siromani von Bhaskara II., veröffentlicht in Benares 1891 (mit seinem Schüler Chandra Deva).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bapu Deva Sastri",
+   "type": "collaborated_with",
+   "object": "Lancelot Wilkinson",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mit Lancelot Wilkinson schrieb er einen Kommentar zum Surya Siddhanta",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Bapu Deva Sastri",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q4857748.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Bapu Deva Sastri",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,162 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "トーマス・バロー",
+   "birth_year": 1909,
+   "death_year": 1986,
+   "nationality": "イギリス",
+   "field": "インド学者・言語学者"
+  },
+  {
+   "name": "エメノー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ラプソン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ハロルド・ウォルター・ベイリー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "オーレル・スタイン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "トーマス・バロー",
+   "type": "collaborated_with",
+   "object": "エメノー",
+   "role": null,
+   "place": null,
+   "year_start": 1949,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "とくに『ドラヴィダ語語源辞典』（エメノーと共著）の編纂によって知られる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "トーマス・バロー",
+   "type": "studied_at",
+   "object": "ケンブリッジ大学クライスツ・カレッジ",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ケンブリッジ大学クライスツ・カレッジに入学した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "トーマス・バロー",
+   "type": "student_of",
+   "object": "ラプソン",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "楼蘭研究で知られるラプソンにインド学を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "トーマス・バロー",
+   "type": "studied_at",
+   "object": "東洋研究学院",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1年間東洋研究学院（のちの東洋アフリカ研究学院）で学び",
+   "quote_ok": true
+  },
+  {
+   "subject": "トーマス・バロー",
+   "type": "studied_at",
+   "object": "ケンブリッジ大学",
+   "role": "博士",
+   "place": null,
+   "year_start": 1935,
+   "year_end": 1937,
+   "explicit": true,
+   "evidence": "1935年にケンブリッジに戻り、1937年にカローシュティー文献の言語（現在はガンダーラ語と呼ばれる）の研究でケンブリッジ大学の博士の学位を取得した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "トーマス・バロー",
+   "type": "position_at",
+   "object": "大英博物館",
+   "role": "東洋文献部門",
+   "place": null,
+   "year_start": 1937,
+   "year_end": 1944,
+   "explicit": true,
+   "evidence": "1937年から1944年まで大英博物館の東洋文献部門で働き",
+   "quote_ok": true
+  },
+  {
+   "subject": "トーマス・バロー",
+   "type": "position_at",
+   "object": "東洋アフリカ研究学院",
+   "role": "サンスクリットの講師",
+   "place": null,
+   "year_start": 1937,
+   "year_end": 1944,
+   "explicit": true,
+   "evidence": "また東洋アフリカ研究学院のサンスクリットの講師をつとめた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "トーマス・バロー",
+   "type": "position_at",
+   "object": "オックスフォード大学",
+   "role": "サンスクリット教授",
+   "place": null,
+   "year_start": 1944,
+   "year_end": 1976,
+   "explicit": true,
+   "evidence": "1944年にオックスフォード大学のサンスクリット教授に就任し、1976年までその職にあった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エメノー",
+   "type": "position_at",
+   "object": "カリフォルニア大学バークレー校",
+   "role": null,
+   "place": null,
+   "year_start": 1949,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1949年にカリフォルニア大学バークレー校のマレー・バーンソン・エメノーはバローにドラヴィダ語語源辞典の編纂を提案した。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): トーマス・バロー",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q579122.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): トーマス・バロー",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "フランソワ・ジャコブ",
+   "birth_year": 1920,
+   "death_year": 2013,
+   "nationality": "フランス",
+   "field": "医師で病理学者、遺伝学者"
+  },
+  {
+   "name": "ジャック・モノー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "アンドレ・ルヴォフ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "フランソワ・ジャコブ",
+   "type": "studied_at",
+   "object": "パリ大学医学部",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1947,
+   "explicit": true,
+   "evidence": "医学を志してパリ大学医学部に入学した。第二次世界大戦ではイギリスに渡ってド・ゴール亡命政権に協力し、北アフリカ戦線で軍医として活動し重傷を負った。1947年に卒業した",
+   "quote_ok": true
+  },
+  {
+   "subject": "フランソワ・ジャコブ",
+   "type": "student_of",
+   "object": "アンドレ・ルヴォフ",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "外科医を断念して研究生活に入り、アンドレ・ルヴォフ（のちにノーベル賞共同受賞）のもとで微生物学を研究した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "フランソワ・ジャコブ",
+   "type": "collaborated_with",
+   "object": "ジャック・モノー",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ジャック・モノーとともに大腸菌の遺伝子発現調節の研究を進め、mRNAを介した遺伝情報の転移や、フィードバックによる発現調節（オペロン説）のモデルを提出し、分子遺伝学の基礎を築いた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "フランソワ・ジャコブ",
+   "type": "position_at",
+   "object": "コレージュ・ド・フランス",
+   "role": "教授",
+   "place": null,
+   "year_start": 1964,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1964年、コレージュ・ド・フランス教授に就任。",
+   "quote_ok": true
+  },
+  {
+   "subject": "フランソワ・ジャコブ",
+   "type": "position_at",
+   "object": "アカデミー・フランセーズ",
+   "role": "会員",
+   "place": null,
+   "year_start": 1996,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1996年、アカデミー・フランセーズ会員に選出された。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): フランソワ・ジャコブ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q218311.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): フランソワ・ジャコブ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

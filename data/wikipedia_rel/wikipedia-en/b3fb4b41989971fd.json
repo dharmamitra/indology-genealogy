@@ -1,0 +1,117 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Wilhelm Scherer",
+   "birth_year": 1841,
+   "death_year": 1886,
+   "nationality": "German",
+   "field": "philology"
+  },
+  {
+   "name": "Karl Müllenhoff",
+   "birth_year": 1818,
+   "death_year": 1884,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Wilhelm Scherer",
+   "type": "studied_at",
+   "object": "University of Vienna",
+   "role": "doctor philosophiae",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was educated at the academic gymnasium in Vienna and afterwards at the University of Vienna",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Scherer",
+   "type": "student_of",
+   "object": "Karl Müllenhoff",
+   "role": "pupil",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "at the University of Vienna, where he was a favorite pupil of the distinguished Germanist, Karl Müllenhoff (1818–1884).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Scherer",
+   "type": "position_at",
+   "object": "University of Vienna",
+   "role": "privatdozent for German language and literature",
+   "place": "Vienna",
+   "year_start": 1864,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Having taken the degree of doctor philosophiae, he became privatdozent for German language and literature in 1864.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Scherer",
+   "type": "position_at",
+   "object": "University of Vienna",
+   "role": "full professor",
+   "place": "Vienna",
+   "year_start": 1868,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1868 he was named a full professor at Vienna",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Scherer",
+   "type": "position_at",
+   "object": "University of Strasbourg",
+   "role": "full professor",
+   "place": "Strasbourg",
+   "year_start": 1872,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1872 received a call in a like capacity to the University of Strasbourg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Scherer",
+   "type": "position_at",
+   "object": "University of Berlin",
+   "role": "full professor",
+   "place": "Berlin",
+   "year_start": 1877,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and in 1877 to the University of Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Scherer",
+   "type": "position_at",
+   "object": "Academy of Sciences",
+   "role": "member",
+   "place": "Berlin",
+   "year_start": 1884,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "where in 1884 he was made a member of the Academy of Sciences.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Wilhelm Scherer",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q112136.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Wilhelm Scherer",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,62 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Thomas Roebuck",
+   "birth_year": 1781,
+   "death_year": 1819,
+   "nationality": "Scottish",
+   "field": "orientalist"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Thomas Roebuck",
+   "type": "studied_at",
+   "object": "Edinburgh High School",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he attended school at Alloa, and then Edinburgh High School.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Roebuck",
+   "type": "position_at",
+   "object": "Fort William College, Madras",
+   "role": "assistant-secretary and examiner",
+   "place": "Madras",
+   "year_start": 1811,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In March 1811, Roebuck was attached to Fort William College, Madras, as assistant-secretary and examiner.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Roebuck",
+   "type": "position_at",
+   "object": "Asiatic Society",
+   "role": "member",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a member of the Asiatic Society.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Thomas Roebuck",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q18811300.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Thomas Roebuck",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

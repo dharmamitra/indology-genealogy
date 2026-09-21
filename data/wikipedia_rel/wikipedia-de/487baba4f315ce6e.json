@@ -1,0 +1,157 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Helmer Smith",
+   "birth_year": 1882,
+   "death_year": 1956,
+   "nationality": "schwedisch",
+   "field": "Indologe"
+  },
+  {
+   "name": "Pischel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Geldner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Dines Andersen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "G. Morgenstierne",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "G. Jarring",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Helmer Smith",
+   "type": "studied_at",
+   "object": "Uppsala",
+   "role": "Candidatus",
+   "place": "Uppsala",
+   "year_start": 1900,
+   "year_end": 1904,
+   "explicit": true,
+   "evidence": "Smith studierte von 1900 bis 1904 in Uppsala, wo er seine Prüfung als Candidatus in Sanskrit, Latein, Griechisch, samt slawischen und nordgermanischen Sprachen bestand.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Helmer Smith",
+   "type": "student_of",
+   "object": "Pischel",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1905,
+   "year_end": 1906,
+   "explicit": true,
+   "evidence": "Seine Studien setzte er in Berlin 1905–06 unter Pischel und Geldner fort",
+   "quote_ok": true
+  },
+  {
+   "subject": "Helmer Smith",
+   "type": "student_of",
+   "object": "Geldner",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1905,
+   "year_end": 1906,
+   "explicit": true,
+   "evidence": "Seine Studien setzte er in Berlin 1905–06 unter Pischel und Geldner fort",
+   "quote_ok": true
+  },
+  {
+   "subject": "Helmer Smith",
+   "type": "position_at",
+   "object": "Universität Lund",
+   "role": "Dozent für Indologie",
+   "place": "Lund",
+   "year_start": 1921,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1921 wurde er Dozent für Indologie an der Universität Lund.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Helmer Smith",
+   "type": "position_at",
+   "object": "Universität Uppsala",
+   "role": "Professor für Sanskrit und vergleichende indogermanische Sprachforschung",
+   "place": "Uppsala",
+   "year_start": 1936,
+   "year_end": 1947,
+   "explicit": true,
+   "evidence": "Von 1936 bis 1947 war er Professor für Sanskrit und vergleichende indogermanische Sprachforschung an der Universität Uppsala.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Helmer Smith",
+   "type": "collaborated_with",
+   "object": "Dines Andersen",
+   "role": null,
+   "place": null,
+   "year_start": 1913,
+   "year_end": 1948,
+   "explicit": true,
+   "evidence": "Eine neue kritische Ausgabe des Sutta-Nipata (in Zusammenarbeit mit Dines Andersen, Pali Text Societys Schriften, London, 1913)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Helmer Smith",
+   "type": "collaborated_with",
+   "object": "G. Morgenstierne",
+   "role": null,
+   "place": null,
+   "year_start": 1936,
+   "year_end": 1936,
+   "explicit": true,
+   "evidence": "Materialien zu den iranischen Pamirsprachen, von H. Sköld [...] herausgegeben. Lund 1936 (in Zusammenarbeit mit G. Morgenstierne und G. Jarring",
+   "quote_ok": true
+  },
+  {
+   "subject": "Helmer Smith",
+   "type": "collaborated_with",
+   "object": "G. Jarring",
+   "role": null,
+   "place": null,
+   "year_start": 1936,
+   "year_end": 1936,
+   "explicit": true,
+   "evidence": "Materialien zu den iranischen Pamirsprachen, von H. Sköld [...] herausgegeben. Lund 1936 (in Zusammenarbeit mit G. Morgenstierne und G. Jarring",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Helmer Smith",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q6181789.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Helmer Smith",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

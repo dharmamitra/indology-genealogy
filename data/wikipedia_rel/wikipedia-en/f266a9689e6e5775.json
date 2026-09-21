@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Józef Kowalewski",
+   "birth_year": 1801,
+   "death_year": 1878,
+   "nationality": "Polish",
+   "field": "orientalist"
+  },
+  {
+   "name": "E. Tulisov",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Józef Kowalewski",
+   "type": "studied_at",
+   "object": "Kazan University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was allowed to study at the Kazan University, where he studied Mongolia, particularly the Mongolian language and Tibetan Buddhism.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Józef Kowalewski",
+   "type": "founded",
+   "object": "Department of Mongolian Studies at Kazan University",
+   "role": null,
+   "place": null,
+   "year_start": 1833,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1833, he founded the Department of Mongolian Studies at Kazan University – the first in Europe.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Józef Kowalewski",
+   "type": "position_at",
+   "object": "University of Warsaw",
+   "role": "dean of the Philological and Historical Faculty",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he became the dean of the Philological and Historical Faculty of the University of Warsaw.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Józef Kowalewski",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q2628039.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Józef Kowalewski",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

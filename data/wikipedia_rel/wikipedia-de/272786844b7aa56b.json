@@ -1,0 +1,45 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Quine",
+   "birth_year": 1908,
+   "death_year": 2000,
+   "nationality": "amerikanisch",
+   "field": "Philosoph und Logiker"
+  },
+  {
+   "name": "Joseph Ullian",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Quine",
+   "type": "collaborated_with",
+   "object": "Joseph Ullian",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In seinem zusammen mit Joseph Ullian verfassten Buch The Web of Belief stellt Quine fünf Tugenden (five virtues) einer Hypothese vor",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Willard Van Orman Quine",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q214969.txt#1",
+ "meta": {
+  "title": "Wikipedia (de): Willard Van Orman Quine",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

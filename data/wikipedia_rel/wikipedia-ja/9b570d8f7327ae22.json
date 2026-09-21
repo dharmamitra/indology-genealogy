@@ -1,0 +1,124 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ウィリアム・ジョーンズ",
+   "birth_year": 1746,
+   "death_year": 1794,
+   "nationality": "イギリス",
+   "field": "東洋学、言語学"
+  },
+  {
+   "name": "ミルザー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "シリア",
+   "field": null
+  },
+  {
+   "name": "ヘンリー・トーマス・コールブルック",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ウィリアム・ジョーンズ",
+   "type": "studied_at",
+   "object": "ハーロー校",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ハーロー校をへて、1764年にオックスフォード大学ユニヴァーシティ・カレッジに入学した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ウィリアム・ジョーンズ",
+   "type": "studied_at",
+   "object": "オックスフォード大学ユニヴァーシティ・カレッジ",
+   "role": "修士",
+   "place": null,
+   "year_start": 1764,
+   "year_end": 1773,
+   "explicit": true,
+   "evidence": "1764年にオックスフォード大学ユニヴァーシティ・カレッジに入学した。…1768年に学士、1773年に修士の学位を得た。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ウィリアム・ジョーンズ",
+   "type": "student_of",
+   "object": "ミルザー",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "アラビア語はシリア人のミルザーを個人的に雇って学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ウィリアム・ジョーンズ",
+   "type": "position_at",
+   "object": "ミドル・テンプル",
+   "role": "法廷弁護士",
+   "place": null,
+   "year_start": 1774,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1774年にミドル・テンプルの法廷弁護士の職についた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ウィリアム・ジョーンズ",
+   "type": "position_at",
+   "object": "イギリス東インド会社",
+   "role": "上級裁判所の判事",
+   "place": "カルカッタ（コルカタ）",
+   "year_start": 1783,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1783年にようやくナイトの爵位を贈られ、カルカッタ（コルカタ）にイギリス東インド会社の雇用による上級裁判所の判事として赴任した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ウィリアム・ジョーンズ",
+   "type": "founded",
+   "object": "ベンガル・アジア協会",
+   "role": "会長",
+   "place": null,
+   "year_start": 1784,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "翌1784年にベンガル・アジア協会を設立し、その後没するまで協会の会長であった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヘンリー・トーマス・コールブルック",
+   "type": "succeeded",
+   "object": "ウィリアム・ジョーンズ",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "この事業はジョーンズの生前に完成することができず、作業を引き継いだヘンリー・トーマス・コールブルックによって完成した。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ウィリアム・ジョーンズ (言語学者)",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q273969.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ウィリアム・ジョーンズ (言語学者)",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

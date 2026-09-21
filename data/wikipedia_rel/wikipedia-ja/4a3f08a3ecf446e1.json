@@ -1,0 +1,148 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "カール・フリードリヒ・ゲルトナー",
+   "birth_year": 1852,
+   "death_year": 1929,
+   "nationality": "ドイツ",
+   "field": "東洋学者"
+  },
+  {
+   "name": "ルドルフ・フォン・ロート",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "リヒャルト・ピシェル",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "カール・フリードリヒ・ゲルトナー",
+   "type": "studied_at",
+   "object": "ライプツィヒ大学",
+   "role": null,
+   "place": null,
+   "year_start": 1871,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1871年にライプツィヒ大学に入学してサンスクリットとアヴェスター語を学んだ",
+   "quote_ok": true
+  },
+  {
+   "subject": "カール・フリードリヒ・ゲルトナー",
+   "type": "student_of",
+   "object": "ルドルフ・フォン・ロート",
+   "role": "teacher",
+   "place": "テュービンゲン大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "テュービンゲン大学に移ってルドルフ・フォン・ロートにヴェーダ文献学を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "カール・フリードリヒ・ゲルトナー",
+   "type": "studied_at",
+   "object": "テュービンゲン大学",
+   "role": "博士",
+   "place": null,
+   "year_start": null,
+   "year_end": 1875,
+   "explicit": true,
+   "evidence": "1875年にリグ・ヴェーダの訳注でテュービンゲン大学の博士の学位を得た。",
+   "quote_ok": true
+  },
+  {
+   "subject": "カール・フリードリヒ・ゲルトナー",
+   "type": "position_at",
+   "object": "テュービンゲン大学",
+   "role": "教授（無給）",
+   "place": null,
+   "year_start": null,
+   "year_end": 1887,
+   "explicit": true,
+   "evidence": "はじめテュービンゲン大学で教えた。肩書きは教授だったが無給だったため、1887年にはリヒャルト・ピシェルのいるハレ大学の私講師に移り",
+   "quote_ok": true
+  },
+  {
+   "subject": "カール・フリードリヒ・ゲルトナー",
+   "type": "position_at",
+   "object": "ハレ大学",
+   "role": "私講師、員外教授",
+   "place": null,
+   "year_start": 1887,
+   "year_end": 1890,
+   "explicit": true,
+   "evidence": "1887年にはリヒャルト・ピシェルのいるハレ大学の私講師に移り、1890年に員外教授に昇任した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "リヒャルト・ピシェル",
+   "type": "position_at",
+   "object": "ハレ大学",
+   "role": null,
+   "place": null,
+   "year_start": 1887,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1887年にはリヒャルト・ピシェルのいるハレ大学の私講師に移り",
+   "quote_ok": true
+  },
+  {
+   "subject": "カール・フリードリヒ・ゲルトナー",
+   "type": "position_at",
+   "object": "ベルリン大学",
+   "role": null,
+   "place": null,
+   "year_start": 1890,
+   "year_end": 1907,
+   "explicit": true,
+   "evidence": "同年ベルリン大学に移った。1907年にマールブルク大学の正教授に就任し",
+   "quote_ok": true
+  },
+  {
+   "subject": "カール・フリードリヒ・ゲルトナー",
+   "type": "position_at",
+   "object": "マールブルク大学",
+   "role": "正教授",
+   "place": null,
+   "year_start": 1907,
+   "year_end": 1921,
+   "explicit": true,
+   "evidence": "1907年にマールブルク大学の正教授に就任し、1921年に退官した後も教えつづけた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "カール・フリードリヒ・ゲルトナー",
+   "type": "collaborated_with",
+   "object": "リヒャルト・ピシェル",
+   "role": null,
+   "place": null,
+   "year_start": 1889,
+   "year_end": 1901,
+   "explicit": true,
+   "evidence": "ハレ時代にはリヒャルト・ピシェルと共著で『ヴェーダ研究』（全3巻、1889-1901）を出版した。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): カール・フリードリヒ・ゲルトナー",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q71625.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): カール・フリードリヒ・ゲルトナー",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

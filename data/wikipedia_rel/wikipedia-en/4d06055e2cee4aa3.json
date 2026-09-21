@@ -1,0 +1,138 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ösel Tendzin",
+   "birth_year": 1943,
+   "death_year": 1990,
+   "nationality": "American",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Chögyam Trungpa",
+   "birth_year": null,
+   "death_year": 1987,
+   "nationality": null,
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Satchidananda Saraswati",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Patrick Sweeney",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rick Fields",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ösel Tendzin",
+   "type": "student_of",
+   "object": "Chögyam Trungpa",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": 1971,
+   "year_end": 1987,
+   "explicit": true,
+   "evidence": "Ösel Tendzin... was an American Tibetan Buddhist master and the principal student of Chögyam Trungpa.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ösel Tendzin",
+   "type": "studied_at",
+   "object": "Fordham University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1965,
+   "explicit": true,
+   "evidence": "He graduated in 1965 from Fordham University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ösel Tendzin",
+   "type": "student_of",
+   "object": "Satchidananda Saraswati",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Before joining Trungpa's Vajradhatu community, he studied with Satchidananda Saraswati",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ösel Tendzin",
+   "type": "position_at",
+   "object": "Vajradhatu",
+   "role": "executive vice president",
+   "place": null,
+   "year_start": 1973,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Starting in 1973, Tendzin held various roles in Vajradhatu's management. He served on the initial board of directors and as an executive vice president.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ösel Tendzin",
+   "type": "succeeded",
+   "object": "Chögyam Trungpa",
+   "role": null,
+   "place": "Vajradhatu",
+   "year_start": 1987,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Tendzin assumed leadership of the organization in 1987 after Trungpa's death.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Patrick Sweeney",
+   "type": "student_of",
+   "object": "Ösel Tendzin",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": 1990,
+   "explicit": true,
+   "evidence": "those students led by Patrick Sweeney—whom Tendzin had chosen as his lineage holder and successor",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rick Fields",
+   "type": "position_at",
+   "object": "Vajradhatu Sun",
+   "role": "editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rick Fields, the editor of Vajradhatu's publication the Vajradhatu Sun, wrote that he resigned from his editorial position",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Wikipedia (en): Ösel Tendzin",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q3178240.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Ösel Tendzin",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

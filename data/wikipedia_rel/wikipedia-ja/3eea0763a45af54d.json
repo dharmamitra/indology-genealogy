@@ -1,0 +1,117 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "常書鴻",
+   "birth_year": 1904,
+   "death_year": 1994,
+   "nationality": "中華人民共和国",
+   "field": "敦煌学"
+  },
+  {
+   "name": "池田大作",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "日本",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "常書鴻",
+   "type": "studied_at",
+   "object": "浙江省立甲種工業学校",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1923,
+   "explicit": true,
+   "evidence": "1923年 浙江省立甲種工業学校染織科を卒業。",
+   "quote_ok": true
+  },
+  {
+   "subject": "常書鴻",
+   "type": "position_at",
+   "object": "国立北平芸術専科学校",
+   "role": "教授",
+   "place": null,
+   "year_start": 1936,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1936年 中国に帰国。中華民国教育部部長から要請を受け、国立北平芸術専科学校教授に就任。",
+   "quote_ok": true
+  },
+  {
+   "subject": "常書鴻",
+   "type": "position_at",
+   "object": "国立敦煌芸術研究所",
+   "role": "所長",
+   "place": null,
+   "year_start": 1944,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1944年 国立敦煌芸術研究所が開設。所長となる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "常書鴻",
+   "type": "position_at",
+   "object": "敦煌文物研究所",
+   "role": "所長",
+   "place": null,
+   "year_start": 1951,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1951年 敦煌芸術研究所が「敦煌文物研究所」と改称され、所長に。",
+   "quote_ok": true
+  },
+  {
+   "subject": "常書鴻",
+   "type": "position_at",
+   "object": "敦煌文物研究所",
+   "role": "名誉所長",
+   "place": null,
+   "year_start": 1982,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1982年 国家文物局顧問、敦煌文物研究所名誉所長に。",
+   "quote_ok": true
+  },
+  {
+   "subject": "常書鴻",
+   "type": "position_at",
+   "object": "敦煌研究院",
+   "role": "名誉院長",
+   "place": null,
+   "year_start": 1985,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1985年 日本の名勝を観光。敦煌文物研究所が敦煌研究院と改名、名誉院長となる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "常書鴻",
+   "type": "collaborated_with",
+   "object": "池田大作",
+   "role": null,
+   "place": null,
+   "year_start": 1990,
+   "year_end": 1992,
+   "explicit": true,
+   "evidence": "『敦煌の光彩―美と人生を語る』（共著：池田大作、徳間書店、1990年）",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 常書鴻",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q5071667.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 常書鴻",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

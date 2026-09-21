@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Louis Charles Jean Dumont",
+   "birth_year": 1911,
+   "death_year": 1998,
+   "nationality": "French",
+   "field": "anthropologist"
+  },
+  {
+   "name": "Claude Lévi-Strauss",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Louis Charles Jean Dumont",
+   "type": "position_at",
+   "object": "Oxford University",
+   "role": "taught",
+   "place": null,
+   "year_start": 1950,
+   "year_end": 1959,
+   "explicit": true,
+   "evidence": "He taught at Oxford University during the 1950s",
+   "quote_ok": true
+  },
+  {
+   "subject": "Louis Charles Jean Dumont",
+   "type": "position_at",
+   "object": "École des Hautes Études en Sciences Sociales (EHESS)",
+   "role": "director",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and was then director of the École des Hautes Études en Sciences Sociales (EHESS) in Paris.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Louis Charles Jean Dumont",
+   "type": "influenced_by",
+   "object": "Claude Lévi-Strauss",
+   "role": "inspiration",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He cited Claude Lévi-Strauss as his inspiration.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Louis Dumont",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q299863.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Louis Dumont",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,109 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Tenzin Gyatso",
+   "birth_year": 1935,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Reting Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Tathag Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Ling Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Trijang Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Melvyn Goldstein",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "cultural anthropology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Tenzin Gyatso",
+   "type": "student_of",
+   "object": "Reting Rinpoche",
+   "role": "traditional teacher",
+   "place": "Tibet",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "According to the Dalai Lama, he had a succession of tutors in Tibet including Reting Rinpoche, Tathag Rinpoche, Ling Rinpoche and lastly Trijang Rinpoche",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tenzin Gyatso",
+   "type": "student_of",
+   "object": "Tathag Rinpoche",
+   "role": "traditional teacher",
+   "place": "Tibet",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "According to the Dalai Lama, he had a succession of tutors in Tibet including Reting Rinpoche, Tathag Rinpoche, Ling Rinpoche and lastly Trijang Rinpoche",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tenzin Gyatso",
+   "type": "student_of",
+   "object": "Ling Rinpoche",
+   "role": "traditional teacher",
+   "place": "Tibet",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "According to the Dalai Lama, he had a succession of tutors in Tibet including Reting Rinpoche, Tathag Rinpoche, Ling Rinpoche and lastly Trijang Rinpoche",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tenzin Gyatso",
+   "type": "student_of",
+   "object": "Trijang Rinpoche",
+   "role": "traditional teacher",
+   "place": "Tibet",
+   "year_start": 1954,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and lastly Trijang Rinpoche, who became junior tutor when he was 19.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): 14th Dalai Lama",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q17293.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): 14th Dalai Lama",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

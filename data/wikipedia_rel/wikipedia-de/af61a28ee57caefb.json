@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Takamaro Shigaraki",
+   "birth_year": 1926,
+   "death_year": 2014,
+   "nationality": "Japanese",
+   "field": "Religionsphilosophie"
+  },
+  {
+   "name": "Paul Tillich",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "evangelische Theologie"
+  },
+  {
+   "name": "Volker Zotz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Austrian",
+   "field": "Religionsphilosophie"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Takamaro Shigaraki",
+   "type": "influenced_by",
+   "object": "Paul Tillich",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "sowie unter dem Einfluss des evangelischen Theologen Paul Tillich interpretierte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Takamaro Shigaraki",
+   "type": "position_at",
+   "object": "Ryūkoku-Universität",
+   "role": "Präsident",
+   "place": "Kyōto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Shigaraki war Präsident der Ryūkoku-Universität in Kyōto.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Takamaro Shigaraki",
+   "type": "position_at",
+   "object": "Ryūkoku-Universität",
+   "role": "Professor für Buddhismus",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Seit seiner Emeritierung als Professor für Buddhismus leitete er eine buddhistische Kulturstiftung",
+   "quote_ok": true
+  },
+  {
+   "subject": "Volker Zotz",
+   "type": "collaborated_with",
+   "object": "Takamaro Shigaraki",
+   "role": null,
+   "place": "Japan",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Der österreichische Religionsphilosoph Volker Zotz, der in Japan eng mit Shigaraki zusammenarbeitete, machte ihn auch in deutscher Sprache bekannt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Takamaro Shigaraki",
+   "type": "founded",
+   "object": "Kōmyōji",
+   "role": "Mitbegründer",
+   "place": "Wien",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er war Direktor der Stiftung Bukkyō Dendō Kyōkai und an der Gründung der Institution Kōmyōji in Wien beteiligt.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Takamaro Shigaraki",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q617548.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Takamaro Shigaraki",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

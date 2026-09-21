@@ -1,0 +1,181 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Fyodor Ippolitovich Shcherbatskoy",
+   "birth_year": 1866,
+   "death_year": 1942,
+   "nationality": "Russian",
+   "field": "Indologist"
+  },
+  {
+   "name": "Ivan Minayeff",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Serge Oldenburg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Georg Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hermann Jacobi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Debiprasad Chattopadhyaya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Fyodor Ippolitovich Shcherbatskoy",
+   "type": "studied_at",
+   "object": "Tsarskoye Selo Lyceum",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1884,
+   "explicit": true,
+   "evidence": "Stcherbatsky studied in the famous Tsarskoye Selo Lyceum (graduating in 1884)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fyodor Ippolitovich Shcherbatskoy",
+   "type": "studied_at",
+   "object": "Saint Petersburg University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1889,
+   "explicit": true,
+   "evidence": "and later in the Historico-Philological Faculty of Saint Petersburg University (graduating in 1889)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fyodor Ippolitovich Shcherbatskoy",
+   "type": "student_of",
+   "object": "Ivan Minayeff",
+   "role": "teacher",
+   "place": "Saint Petersburg University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "where Ivan Minayeff and Serge Oldenburg were his teachers.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fyodor Ippolitovich Shcherbatskoy",
+   "type": "student_of",
+   "object": "Serge Oldenburg",
+   "role": "teacher",
+   "place": "Saint Petersburg University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "where Ivan Minayeff and Serge Oldenburg were his teachers.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fyodor Ippolitovich Shcherbatskoy",
+   "type": "student_of",
+   "object": "Georg Bühler",
+   "role": "teacher",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Subsequently, sent abroad, he studied Indian poetry with Georg Bühler in Vienna",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fyodor Ippolitovich Shcherbatskoy",
+   "type": "student_of",
+   "object": "Hermann Jacobi",
+   "role": "teacher",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and Buddhist philosophy with Hermann Jacobi in Bonn.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fyodor Ippolitovich Shcherbatskoy",
+   "type": "collaborated_with",
+   "object": "Serge Oldenburg",
+   "role": null,
+   "place": null,
+   "year_start": 1897,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1897, he and Oldenburg inaugurated Bibliotheca Buddhica, a library of rare Buddhist texts.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fyodor Ippolitovich Shcherbatskoy",
+   "type": "founded",
+   "object": "Bibliotheca Buddhica",
+   "role": null,
+   "place": null,
+   "year_start": 1897,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1897, he and Oldenburg inaugurated Bibliotheca Buddhica, a library of rare Buddhist texts.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Serge Oldenburg",
+   "type": "founded",
+   "object": "Bibliotheca Buddhica",
+   "role": null,
+   "place": null,
+   "year_start": 1897,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1897, he and Oldenburg inaugurated Bibliotheca Buddhica, a library of rare Buddhist texts.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fyodor Ippolitovich Shcherbatskoy",
+   "type": "founded",
+   "object": "Institute of Buddhist Culture in Leningrad",
+   "role": null,
+   "place": "Leningrad",
+   "year_start": 1928,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1928 he established the Institute of Buddhist Culture in Leningrad.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Fyodor Shcherbatskoy",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1341741.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Fyodor Shcherbatskoy",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

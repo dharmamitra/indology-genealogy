@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "大越愛子",
+   "birth_year": 1946,
+   "death_year": 2021,
+   "nationality": "日本",
+   "field": "哲学、女性学"
+  },
+  {
+   "name": "源淳子",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "仏教研究"
+  },
+  {
+   "name": "植木雅俊",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "仏教研究"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "大越愛子",
+   "type": "studied_at",
+   "object": "京都大学文学部哲学科",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "京都大学文学部哲学科卒",
+   "quote_ok": true
+  },
+  {
+   "subject": "大越愛子",
+   "type": "studied_at",
+   "object": "京都大学大学院",
+   "role": "博士課程満期退学",
+   "place": null,
+   "year_start": null,
+   "year_end": 1975,
+   "explicit": true,
+   "evidence": "1975年同大学院博士課程満期退学",
+   "quote_ok": true
+  },
+  {
+   "subject": "大越愛子",
+   "type": "position_at",
+   "object": "近畿大学文芸学部",
+   "role": "専任講師",
+   "place": null,
+   "year_start": 1990,
+   "year_end": 1993,
+   "explicit": true,
+   "evidence": "1990年近畿大学文芸学部専任講師、93年助教授、98年教授。2013年定年退任",
+   "quote_ok": true
+  },
+  {
+   "subject": "大越愛子",
+   "type": "position_at",
+   "object": "近畿大学文芸学部",
+   "role": "助教授",
+   "place": null,
+   "year_start": 1993,
+   "year_end": 1998,
+   "explicit": true,
+   "evidence": "1990年近畿大学文芸学部専任講師、93年助教授、98年教授。2013年定年退任",
+   "quote_ok": true
+  },
+  {
+   "subject": "大越愛子",
+   "type": "position_at",
+   "object": "近畿大学文芸学部",
+   "role": "教授",
+   "place": null,
+   "year_start": 1998,
+   "year_end": 2013,
+   "explicit": true,
+   "evidence": "1990年近畿大学文芸学部専任講師、93年助教授、98年教授。2013年定年退任",
+   "quote_ok": true
+  },
+  {
+   "subject": "大越愛子",
+   "type": "collaborated_with",
+   "object": "源淳子",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "当初、仏教研究者の源淳子との共同作業で、西洋思想の輸入に偏していた80年代フェミニズムの中で、日本仏教の女性差別を指摘する著作を行い",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 大越愛子",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q11439268.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 大越愛子",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,126 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Alois Anton Führer",
+   "birth_year": 1853,
+   "death_year": 1930,
+   "nationality": "German",
+   "field": "Indologist"
+  },
+  {
+   "name": "Julius Jolly",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Georg Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Heinrich Lüders",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indologist"
+  },
+  {
+   "name": "Edmund Smith",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Alois Anton Führer",
+   "type": "studied_at",
+   "object": "University of Würzburg",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 1879,
+   "explicit": true,
+   "evidence": "He studied Roman Catholic theology and Oriental studies at the University of Würzburg, was ordained in 1878 and received his PhD in 1879.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alois Anton Führer",
+   "type": "student_of",
+   "object": "Julius Jolly",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His Sanskrit lecturer, Julius Jolly, was associated with the Bombay School of Indology.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alois Anton Führer",
+   "type": "position_at",
+   "object": "St Xavier's Institute in Bombay",
+   "role": "teacher of Sanskrit",
+   "place": "Bombay",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Probably due to him, he was appointed as a teacher of Sanskrit at St Xavier's Institute in Bombay.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alois Anton Führer",
+   "type": "position_at",
+   "object": "Lucknow Provincial Museum",
+   "role": "Curator",
+   "place": "Lucknow",
+   "year_start": 1885,
+   "year_end": 1898,
+   "explicit": true,
+   "evidence": "Führer came back to India in 1885 and on his arrival Alfred Comyn Lyall appointed him Curator of the Lucknow Provincial Museum.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alois Anton Führer",
+   "type": "position_at",
+   "object": "Archaeological Survey of India",
+   "role": "Archaeological Surveyor",
+   "place": null,
+   "year_start": 1885,
+   "year_end": 1898,
+   "explicit": true,
+   "evidence": "Alois Anton Führer (26 November 1853 – 5 November 1930) was a German Indologist who worked for the Archaeological Survey of India (ASI).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edmund Smith",
+   "type": "succeeded",
+   "object": "Alois Anton Führer",
+   "role": null,
+   "place": "Lucknow Museum",
+   "year_start": 1898,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Führer was replaced as Curator of the Lucknow Museum by Edmund Smith, previously the Province's Architectural Surveyor.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Alois Anton Führer",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q15989564.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Alois Anton Führer",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

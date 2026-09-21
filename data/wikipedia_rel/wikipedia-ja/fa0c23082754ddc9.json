@@ -1,0 +1,167 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "武内義範",
+   "birth_year": 1913,
+   "death_year": 2002,
+   "nationality": "日本",
+   "field": "宗教学"
+  },
+  {
+   "name": "武内義雄",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "東洋史研究・東洋哲学"
+  },
+  {
+   "name": "田辺元",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "哲学"
+  },
+  {
+   "name": "三木清",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "武内義範",
+   "type": "other",
+   "object": "武内義雄",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "東洋史研究者・武内義雄の子として生まれた",
+   "quote_ok": true
+  },
+  {
+   "subject": "武内義範",
+   "type": "studied_at",
+   "object": "京都帝国大学文学部哲学科",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1936,
+   "explicit": true,
+   "evidence": "京都帝国大学文学部哲学科に進学し、在学中は田辺元に師事してヘーゲルの哲学等を学んだ。1936年に卒業。",
+   "quote_ok": true
+  },
+  {
+   "subject": "武内義範",
+   "type": "student_of",
+   "object": "田辺元",
+   "role": "teacher",
+   "place": "京都帝国大学文学部哲学科",
+   "year_start": null,
+   "year_end": 1936,
+   "explicit": true,
+   "evidence": "在学中は田辺元に師事してヘーゲルの哲学等を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "武内義範",
+   "type": "studied_at",
+   "object": "京都帝国大学大学院文学研究科",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1946,
+   "explicit": true,
+   "evidence": "京都帝国大学大学院文学研究科に進み、1946年に修了。",
+   "quote_ok": true
+  },
+  {
+   "subject": "武内義範",
+   "type": "position_at",
+   "object": "京都帝国大学文学部宗教学科",
+   "role": "助教授",
+   "place": null,
+   "year_start": 1948,
+   "year_end": 1959,
+   "explicit": true,
+   "evidence": "1948年、同大文学部宗教学科助教授に就いた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "武内義範",
+   "type": "position_at",
+   "object": "京都大学文学部",
+   "role": "教授",
+   "place": null,
+   "year_start": 1959,
+   "year_end": 1976,
+   "explicit": true,
+   "evidence": "1959年、同教授に昇格し、宗教学講座を担当。1976年に京都大学を退官し、名誉教授となった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "武内義範",
+   "type": "position_at",
+   "object": "愛知学院大学文学部宗教学科",
+   "role": "教授",
+   "place": null,
+   "year_start": 1976,
+   "year_end": 1988,
+   "explicit": true,
+   "evidence": "同年4月からは愛知学院大学文学部宗教学科教授。1988年、愛知学院大学を退職。",
+   "quote_ok": true
+  },
+  {
+   "subject": "武内義範",
+   "type": "position_at",
+   "object": "日本学士院",
+   "role": "会員",
+   "place": null,
+   "year_start": 1995,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1995年、日本学士院会員に選出された。",
+   "quote_ok": true
+  },
+  {
+   "subject": "三木清",
+   "type": "influenced_by",
+   "object": "武内義範",
+   "role": null,
+   "place": null,
+   "year_start": 1941,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1941年の著書『教行信証の哲学』は三木清の遺稿「親鸞」や田辺元の『懺悔道としての哲学』における親鸞解釈に影響を与えた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "田辺元",
+   "type": "influenced_by",
+   "object": "武内義範",
+   "role": null,
+   "place": null,
+   "year_start": 1941,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1941年の著書『教行信証の哲学』は三木清の遺稿「親鸞」や田辺元の『懺悔道としての哲学』における親鸞解釈に影響を与えた。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 武内義範",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q6607249.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 武内義範",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

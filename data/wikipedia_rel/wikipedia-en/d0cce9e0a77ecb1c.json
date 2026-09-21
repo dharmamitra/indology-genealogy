@@ -1,0 +1,143 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Friedrich Wilhelm Joseph Schelling",
+   "birth_year": 1775,
+   "death_year": 1854,
+   "nationality": "German",
+   "field": "philosophy"
+  },
+  {
+   "name": "Johann Gottlieb Fichte",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  },
+  {
+   "name": "Georg Wilhelm Friedrich Hegel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  },
+  {
+   "name": "Gottlob Christian Storr",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Friedrich Wilhelm Joseph Schelling",
+   "type": "studied_at",
+   "object": "Tübinger Stift",
+   "role": "doctoral thesis",
+   "place": null,
+   "year_start": 1790,
+   "year_end": 1795,
+   "explicit": true,
+   "evidence": "On 18 October 1790, at the age of 15, he was granted permission to enroll at the Tübinger Stift... and in 1795 he finished his doctoral thesis",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Wilhelm Joseph Schelling",
+   "type": "student_of",
+   "object": "Gottlob Christian Storr",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1795,
+   "explicit": true,
+   "evidence": "in 1795 he finished his doctoral thesis, titled De Marcione Paulinarum epistolarum emendatore (On Marcion as emendator of the Pauline letters) under Gottlob Christian Storr.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Wilhelm Joseph Schelling",
+   "type": "influenced_by",
+   "object": "Johann Gottlieb Fichte",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Johann Gottlieb Fichte, his mentor in his early years",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Wilhelm Joseph Schelling",
+   "type": "position_at",
+   "object": "University of Jena",
+   "role": "extraordinary professor of philosophy",
+   "place": "Jena",
+   "year_start": 1798,
+   "year_end": 1803,
+   "explicit": true,
+   "evidence": "in October 1798, at the age of 23, Schelling was called to University of Jena as an extraordinary professor of philosophy. His time at Jena (1798–1803)...",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Wilhelm Friedrich Hegel",
+   "type": "position_at",
+   "object": "Jena University",
+   "role": "Privatdozent",
+   "place": "Jena",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "With Schelling's help, Hegel became a private lecturer (Privatdozent) at Jena University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Wilhelm Joseph Schelling",
+   "type": "collaborated_with",
+   "object": "Georg Wilhelm Friedrich Hegel",
+   "role": "co-editors",
+   "place": null,
+   "year_start": 1802,
+   "year_end": 1803,
+   "explicit": true,
+   "evidence": "Beginning in January 1802, Hegel and Schelling published the Kritisches Journal der Philosophie (Critical Journal of Philosophy) as co-editors",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Wilhelm Joseph Schelling",
+   "type": "position_at",
+   "object": "University of Würzburg",
+   "role": "professor",
+   "place": "Würzburg",
+   "year_start": 1803,
+   "year_end": 1806,
+   "explicit": true,
+   "evidence": "From September 1803 until April 1806 Schelling was professor at the new University of Würzburg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Wilhelm Joseph Schelling",
+   "type": "position_at",
+   "object": "University of Erlangen",
+   "role": null,
+   "place": "Erlangen",
+   "year_start": 1820,
+   "year_end": 1827,
+   "explicit": true,
+   "evidence": "and seven years at the University of Erlangen (1820–1827).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Friedrich Wilhelm Joseph Schelling",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q60070.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Friedrich Wilhelm Joseph Schelling",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

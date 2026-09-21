@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Paul Tillich",
+   "birth_year": 1886,
+   "death_year": 1965,
+   "nationality": "deutscher und später US-amerikanischer",
+   "field": "Theologe mit Schwerpunkt auf Dogmatik und ein Religionsphilosoph"
+  },
+  {
+   "name": "Takamaro Shigaraki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "japanischer",
+   "field": "Religionsphilosoph"
+  },
+  {
+   "name": "John Shelby Spong",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Takamaro Shigaraki",
+   "type": "influenced_by",
+   "object": "Paul Tillich",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "So sind der anglikanische Bischof John Shelby Spong und der japanische Religionsphilosoph Takamaro Shigaraki wesentlich von Tillich beeinflusst.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Shelby Spong",
+   "type": "influenced_by",
+   "object": "Paul Tillich",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "So sind der anglikanische Bischof John Shelby Spong und der japanische Religionsphilosoph Takamaro Shigaraki wesentlich von Tillich beeinflusst.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Paul Tillich",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q60104.txt#1",
+ "meta": {
+  "title": "Wikipedia (de): Paul Tillich",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

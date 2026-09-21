@@ -1,0 +1,117 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John Dowson",
+   "birth_year": 1820,
+   "death_year": 1881,
+   "nationality": "British",
+   "field": "Indology"
+  },
+  {
+   "name": "Edwin Norris",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Dowson",
+   "type": "student_of",
+   "object": "Edwin Norris",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied Eastern languages under his uncle Edwin Norris",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Dowson",
+   "type": "other",
+   "object": "Edwin Norris",
+   "role": "uncle",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "his uncle Edwin Norris",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Dowson",
+   "type": "collaborated_with",
+   "object": "Edwin Norris",
+   "role": "assistant",
+   "place": "Royal Asiatic Society",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "whom he assisted for some years at the Royal Asiatic Society",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Dowson",
+   "type": "position_at",
+   "object": "Royal Asiatic Society",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "assisted for some years at the Royal Asiatic Society",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Dowson",
+   "type": "position_at",
+   "object": "East India Company College",
+   "role": "tutor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He subsequently became a tutor at the East India Company College.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Dowson",
+   "type": "position_at",
+   "object": "University College, London",
+   "role": "professor of Hindustani",
+   "place": null,
+   "year_start": 1855,
+   "year_end": 1877,
+   "explicit": true,
+   "evidence": "In 1855, he was made professor of Hindustani both at University College, London, and at the Staff College, Sandhurst, a post he held till 1877.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Dowson",
+   "type": "position_at",
+   "object": "Staff College, Sandhurst",
+   "role": "professor of Hindustani",
+   "place": null,
+   "year_start": 1855,
+   "year_end": 1877,
+   "explicit": true,
+   "evidence": "In 1855, he was made professor of Hindustani both at University College, London, and at the Staff College, Sandhurst, a post he held till 1877.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): John Dowson",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1699835.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): John Dowson",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

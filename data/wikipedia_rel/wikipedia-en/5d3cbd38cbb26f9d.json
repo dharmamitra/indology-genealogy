@@ -1,0 +1,102 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "August Hermann Francke",
+   "birth_year": 1870,
+   "death_year": 1930,
+   "nationality": "German",
+   "field": "Tibetologist"
+  },
+  {
+   "name": "Walter Simon",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Yoseb Gergan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "David Macdonald",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Heinrich Jäschke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "August Hermann Francke",
+   "type": "position_at",
+   "object": "Berlin University",
+   "role": "professor of Tibetan languages",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He served as the first professor of Tibetan at the Berlin University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Simon",
+   "type": "student_of",
+   "object": "August Hermann Francke",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His students included Walter Simon.",
+   "quote_ok": true
+  },
+  {
+   "subject": "August Hermann Francke",
+   "type": "collaborated_with",
+   "object": "Yoseb Gergan",
+   "role": null,
+   "place": null,
+   "year_start": 1910,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After Yoseb Gergan produced the first draft of the Tibetan Bible in 1910, Francke corrected it and then sent it to David Macdonald",
+   "quote_ok": true
+  },
+  {
+   "subject": "August Hermann Francke",
+   "type": "collaborated_with",
+   "object": "Heinrich Jäschke",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Also involved was his Moravian colleague Heinrich Jäschke who produced A Tibetan-English dictionary.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): August Hermann Francke (Tibetologist)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q2870936.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): August Hermann Francke (Tibetologist)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

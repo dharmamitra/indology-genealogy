@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Suzuki Shunryū",
+   "birth_year": 1905,
+   "death_year": 1971,
+   "nationality": "Japanese",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Gyokujun",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kōbun Shino Otowaga",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Suzuki Shunryū",
+   "type": "student_of",
+   "object": "Gyokujun",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sein Lehrer Gyokujun war ein Schüler seines Vaters.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Suzuki Shunryū",
+   "type": "founded",
+   "object": "Zen-Zentrum von San Francisco",
+   "role": null,
+   "place": "San Francisco",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "S. Suzuki gründete das Zen-Zentrum von San Francisco",
+   "quote_ok": true
+  },
+  {
+   "subject": "Suzuki Shunryū",
+   "type": "founded",
+   "object": "Zen Mountain-Center in Tassajara Springs",
+   "role": null,
+   "place": "Tassajara Springs",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "später das Zen Mountain-Center in Tassajara Springs, das erste Zen-Kloster außerhalb Asiens",
+   "quote_ok": true
+  },
+  {
+   "subject": "Suzuki Shunryū",
+   "type": "collaborated_with",
+   "object": "Kōbun Shino Otowaga",
+   "role": "Leitung des Zen Mountain-Centers",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Später bat er Kōbun Shino Otowaga um Hilfe zur Leitung des Zen Mountain-Centers.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Shunryū Suzuki",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q572599.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Shunryū Suzuki",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

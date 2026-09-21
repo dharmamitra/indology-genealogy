@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Erich Haenisch",
+   "birth_year": 1880,
+   "death_year": 1966,
+   "nationality": "German",
+   "field": "Sinology"
+  },
+  {
+   "name": "George Kennedy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Henri Maspero",
+   "birth_year": null,
+   "death_year": 1945,
+   "nationality": null,
+   "field": "Sinology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "George Kennedy",
+   "type": "student_of",
+   "object": "Erich Haenisch",
+   "role": "academic teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was the academic teacher of George Kennedy (Yale).",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Kennedy",
+   "type": "position_at",
+   "object": "Yale",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "George Kennedy (Yale)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Erich Haenisch",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q74379.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Erich Haenisch",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

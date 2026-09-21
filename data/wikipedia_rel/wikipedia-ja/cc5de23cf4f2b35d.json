@@ -1,0 +1,117 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "上原 和",
+   "birth_year": 1924,
+   "death_year": 2017,
+   "nationality": "日本",
+   "field": "美術史"
+  },
+  {
+   "name": "村田治郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "上原 和",
+   "type": "studied_at",
+   "object": "九州大学法文学部",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "九州大学法文学部哲学科美学美術史専攻卒業",
+   "quote_ok": true
+  },
+  {
+   "subject": "上原 和",
+   "type": "studied_at",
+   "object": "九州大学大学院文学研究科",
+   "role": "前期課程修了",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "同大学院文学研究科特別研究生、前期課程修了",
+   "quote_ok": true
+  },
+  {
+   "subject": "上原 和",
+   "type": "position_at",
+   "object": "宮崎大学学芸学部",
+   "role": "専任講師",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "宮崎大学学芸学部専任講師",
+   "quote_ok": true
+  },
+  {
+   "subject": "上原 和",
+   "type": "position_at",
+   "object": "成城大学文芸学部",
+   "role": "専任講師・助教授・教授・文芸学部長",
+   "place": null,
+   "year_start": null,
+   "year_end": 1995,
+   "explicit": true,
+   "evidence": "成城大学文芸学部専任講師・助教授・教授・文芸学部長・大学院文学研究科長を経て1995年定年退任",
+   "quote_ok": true
+  },
+  {
+   "subject": "上原 和",
+   "type": "position_at",
+   "object": "成城大学",
+   "role": "名誉教授",
+   "place": null,
+   "year_start": 1995,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "成城大学名誉教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "上原 和",
+   "type": "studied_at",
+   "object": "九州大学",
+   "role": "文学博士",
+   "place": null,
+   "year_start": null,
+   "year_end": 1992,
+   "explicit": true,
+   "evidence": "1992年『玉虫厨子 飛鳥・白鳳美術様式史論』で九大文学博士",
+   "quote_ok": true
+  },
+  {
+   "subject": "上原 和",
+   "type": "other",
+   "object": "村田治郎",
+   "role": "論争相手",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "法隆寺はその基礎の上に建てられたとの説を唱え村田治郎らと論争を行った",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 上原和",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q11358574.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 上原和",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

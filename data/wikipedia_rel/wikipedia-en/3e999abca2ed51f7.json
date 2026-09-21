@@ -1,0 +1,157 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Nyanaponika Thera",
+   "birth_year": 1901,
+   "death_year": 1994,
+   "nationality": "German–Sri Lankan",
+   "field": "Theravada Buddhism"
+  },
+  {
+   "name": "Bhikkhu Bodhi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Nyanatiloka Mahathera",
+   "birth_year": 1878,
+   "death_year": 1957,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "Mahasi Sayadaw Thera",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Burmese",
+   "field": "Vipassanā (Insight Meditation)"
+  },
+  {
+   "name": "A.S. Karunaratne",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Richard Abeysekera",
+   "birth_year": null,
+   "death_year": 1982,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Bhikkhu Bodhi",
+   "type": "student_of",
+   "object": "Nyanaponika Thera",
+   "role": "mentor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He mentored and taught a whole generation of Western Buddhist leaders such as Bhikkhu Bodhi.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nyanaponika Thera",
+   "type": "student_of",
+   "object": "Nyanatiloka Mahathera",
+   "role": "teacher",
+   "place": "Island Hermitage",
+   "year_start": 1936,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1937 he received Upasampadā (Higher Ordination) under the tutelage of Nyanatiloka Mahathera.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nyanaponika Thera",
+   "type": "student_of",
+   "object": "Mahasi Sayadaw Thera",
+   "role": "meditation teacher",
+   "place": "Burma",
+   "year_start": 1952,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ven. Nyanaponika Thera stayed in Burma for a period of training in Vipassanā (Insight Meditation) under the meditation teacher Ven. Mahasi Sayadaw Thera.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nyanaponika Thera",
+   "type": "founded",
+   "object": "Buddhist Publication Society",
+   "role": "co-founder",
+   "place": "Sri Lanka",
+   "year_start": 1958,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "co-founder of the Buddhist Publication Society",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nyanaponika Thera",
+   "type": "position_at",
+   "object": "Buddhist Publication Society",
+   "role": "editor",
+   "place": null,
+   "year_start": 1958,
+   "year_end": 1984,
+   "explicit": true,
+   "evidence": "in 1984 he retired as editor of BPS",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nyanaponika Thera",
+   "type": "position_at",
+   "object": "Buddhist Publication Society",
+   "role": "president",
+   "place": null,
+   "year_start": null,
+   "year_end": 1988,
+   "explicit": true,
+   "evidence": "in 1988 he retired as president, ending his career there with recognition as a Distinguished Patron of BPS.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nyanaponika Thera",
+   "type": "collaborated_with",
+   "object": "Bhikkhu Bodhi",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": 2000,
+   "explicit": true,
+   "evidence": "Thera, Nyanaponika; Bodhi, Bhikkhu (2000). Numerical Discourses of the Buddha. Yale University Press.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nyanatiloka Mahathera",
+   "type": "founded",
+   "object": "Island Hermitage",
+   "role": null,
+   "place": "Polgasduwa, Dodanduwa",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ven. Nyanatiloka Thera had established a monastery for Western monks in Sri Lanka, on an island lagoon (opposite the Railway station) Polgasduwa, Dodanduwa named Island Hermitage.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Nyanaponika Thera",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q74771.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Nyanaponika Thera",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

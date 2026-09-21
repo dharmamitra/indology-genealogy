@@ -1,0 +1,126 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sándor Kőrösi Csoma",
+   "birth_year": 1784,
+   "death_year": 1842,
+   "nationality": "ungarisch",
+   "field": "Tibetologie"
+  },
+  {
+   "name": "Johann Gottfried Eichhorn",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Johann Friedrich Blumenbach",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sangye Phuntsog",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kunga Choleg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sándor Kőrösi Csoma",
+   "type": "studied_at",
+   "object": "Nagyenyed",
+   "role": null,
+   "place": null,
+   "year_start": 1812,
+   "year_end": 1815,
+   "explicit": true,
+   "evidence": "studierte von 1812 bis 1815 Theologie und Philologie in Nagyenyed",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sándor Kőrösi Csoma",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": null,
+   "place": null,
+   "year_start": 1815,
+   "year_end": 1818,
+   "explicit": true,
+   "evidence": "von 1815 bis 1818 in Göttingen unter Johann Gottfried Eichhorn orientalische Sprachen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sándor Kőrösi Csoma",
+   "type": "student_of",
+   "object": "Johann Gottfried Eichhorn",
+   "role": "teacher",
+   "place": "Göttingen",
+   "year_start": 1815,
+   "year_end": 1818,
+   "explicit": true,
+   "evidence": "von 1815 bis 1818 in Göttingen unter Johann Gottfried Eichhorn orientalische Sprachen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sándor Kőrösi Csoma",
+   "type": "student_of",
+   "object": "Sangye Phuntsog",
+   "role": "traditional teacher",
+   "place": "Zanskar",
+   "year_start": 1823,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1823 zog er sich als Schüler des dortigen Abtes Sangye Phuntsog in ein buddhistisches Kloster in Zanskar am Hindukusch am Satluj zurück",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sangye Phuntsog",
+   "type": "student_of",
+   "object": "Kunga Choleg",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Lama Kunga Choleg, dem Lehrer Phuntsogs",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sándor Kőrösi Csoma",
+   "type": "influenced_by",
+   "object": "Johann Friedrich Blumenbach",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dort kam er mit Johann Friedrich Blumenbach in Kontakt. Dieser vertrat die These, dass die Magyaren die Nachfahren der türkischen Uiguren wären. Von dieser Idee beseelt, reiste Csoma nach Asien",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Sándor Csoma",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q355291.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Sándor Csoma",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

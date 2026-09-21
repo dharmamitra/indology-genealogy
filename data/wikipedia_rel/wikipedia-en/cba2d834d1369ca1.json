@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "George Lakoff",
+   "birth_year": 1941,
+   "death_year": null,
+   "nationality": "American",
+   "field": "cognitive linguistics and philosophy"
+  },
+  {
+   "name": "Steven Pinker",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "cognitive psychology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "George Lakoff",
+   "type": "position_at",
+   "object": "University of California, Berkeley",
+   "role": "professor of linguistics",
+   "place": null,
+   "year_start": 1972,
+   "year_end": 2016,
+   "explicit": true,
+   "evidence": "Lakoff served as professor of linguistics at the University of California, Berkeley, from 1972 until his retirement in 2016.",
+   "quote_ok": false
+  },
+  {
+   "subject": "George Lakoff",
+   "type": "other",
+   "object": "Steven Pinker",
+   "role": "academic debate / dispute",
+   "place": null,
+   "year_start": 2006,
+   "year_end": 2006,
+   "explicit": true,
+   "evidence": "In 2006 cognitive psychologist Steven Pinker wrote an unfavorable review of Lakoff's book Whose Freedom? in The New Republic... Lakoff wrote a rebuttal to Pinker's review",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): George Lakoff",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q313772.txt#1",
+ "meta": {
+  "title": "Wikipedia (en): George Lakoff",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

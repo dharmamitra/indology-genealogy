@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Willibald Kirfel",
+   "birth_year": 1885,
+   "death_year": 1964,
+   "nationality": "German",
+   "field": "Indologist"
+  },
+  {
+   "name": "Hermann Jacobi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "H. Hilgenburg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Willibald Kirfel",
+   "type": "studied_at",
+   "object": "Bonn",
+   "role": null,
+   "place": "Bonn",
+   "year_start": 1904,
+   "year_end": 1908,
+   "explicit": true,
+   "evidence": "Kirfel studied Indology in Bonn from 1904 – 1908",
+   "quote_ok": true
+  },
+  {
+   "subject": "Willibald Kirfel",
+   "type": "position_at",
+   "object": "university library",
+   "role": "librarian",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "worked as a librarian at the university library",
+   "quote_ok": true
+  },
+  {
+   "subject": "Willibald Kirfel",
+   "type": "position_at",
+   "object": "Bonn",
+   "role": "full professor",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "before becoming a full professor, acceding to the chair of his teacher Hermann Jacobi.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Willibald Kirfel",
+   "type": "student_of",
+   "object": "Hermann Jacobi",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "acceding to the chair of his teacher Hermann Jacobi.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Willibald Kirfel",
+   "type": "succeeded",
+   "object": "Hermann Jacobi",
+   "role": null,
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "acceding to the chair of his teacher Hermann Jacobi.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Willibald Kirfel",
+   "type": "collaborated_with",
+   "object": "H. Hilgenburg",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Together with H. Hilgenburg, he also translated the Ashtângahridayasamhitâ, an important treatise on medicine.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Willibald Kirfel",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q109528.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Willibald Kirfel",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

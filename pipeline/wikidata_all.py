@@ -75,6 +75,15 @@ def main():
     for e in g["edges"]:
         deg[e["source"]] += 1; deg[e["target"]] += 1
 
+    # ---- incremental: whoever was looked up in an earlier run keeps that result (data/wikidata_checked.json)
+    prev = json.load(open(os.path.join(DATA, "wikidata.json"))) if os.path.exists(os.path.join(DATA, "wikidata.json")) else {"people": {}, "institutions": {}}
+    cpath = os.path.join(DATA, "wikidata_checked.json")
+    checked = set(json.load(open(cpath))) if os.path.exists(cpath) else set()
+    all_people, all_insts = people, insts
+    people = [n for n in people if n["id"] not in checked]
+    insts = [n for n in insts if n["id"] not in checked]
+    print(f"[wd] {len(people)} new people and {len(insts)} new institutions to look up ({len(checked)} checked before)", flush=True)
+
     # ---- people
     lat = label_lookup([n["label"] for n in people], LANGS)
     nat = label_lookup([n["native"] for n in people if n.get("native")], ["ja", "zh", "mul"])
@@ -108,6 +117,9 @@ def main():
         cand = [q for q in humans if SCHOLARLY.search(" ".join(v["value"] for v in ents[q].get("descriptions", {}).values()))]
         return cand[0] if len(cand) == 1 and len(humans) == 1 else None
     pm = {n["id"]: match(n) for n in people}
+    live = {n["id"] for n in all_people}
+    pm.update({nid: w["qid"] for nid, w in prev["people"].items() if nid in live and nid not in pm})
+    ents.update(entities([q for q in pm.values() if q and q not in ents]))
     # one QID must not be claimed by two nodes: keep the better-connected one
     byq = defaultdict(list)
     for nid, q in pm.items():
@@ -143,6 +155,9 @@ def main():
     with ThreadPoolExecutor(8) as ex:
         res = [r for rs in ex.map(pick, chunks) for r in rs]
     im = {r["id"]: r["qid"] for r in res if r.get("qid") in set(ic.get(r["id"], []))}
+    live_i = {n["id"] for n in all_insts}
+    im.update({nid: w["qid"] for nid, w in prev["institutions"].items() if nid in live_i and nid not in im})
+    people, insts = all_people, all_insts
     print(f"[wd] institutions matched: {len(im)}/{len(insts)}", flush=True)
 
     # ---- statements
@@ -186,6 +201,7 @@ def main():
             s["label"] = labels.get(s["qid"], {}).get("label")
     I = {nid: {"qid": q, **labels.get(q, {})} for nid, q in im.items()}
     json.dump({"people": P, "institutions": I, "labels": labels}, open(os.path.join(DATA, "wikidata.json"), "w"), ensure_ascii=False, indent=1)
+    json.dump(sorted(checked | {n["id"] for n in g["nodes"]}), open(cpath, "w"), ensure_ascii=False)
     ns = sum(len(p["statements"]) for p in P.values())
     print(f"[wd] {ns} statements ({sum(1 for p in P.values() for s in p['statements'] if s['start'] or s['end'])} dated), "
           f"{sum(1 for p in P.values() if p['image'])} portraits, {sum(1 for v in I.values() if v.get('lat') is not None)} institutions with coordinates")

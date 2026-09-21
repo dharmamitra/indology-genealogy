@@ -1,0 +1,62 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Lambert Schmithausen",
+   "birth_year": 1939,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Buddhist Studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Lambert Schmithausen",
+   "type": "studied_at",
+   "object": "University of Vienna",
+   "role": "doctorate in philosophy",
+   "place": null,
+   "year_start": null,
+   "year_end": 1963,
+   "explicit": true,
+   "evidence": "Schmithausen received a doctorate in philosophy from the University of Vienna in 1963.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lambert Schmithausen",
+   "type": "position_at",
+   "object": "University of Münster",
+   "role": "associate professor of Indology",
+   "place": null,
+   "year_start": 1970,
+   "year_end": 1973,
+   "explicit": true,
+   "evidence": "He was an associate professor of Indology at the University of Münster from 1970 to 1973",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lambert Schmithausen",
+   "type": "position_at",
+   "object": "University of Hamburg",
+   "role": "professor",
+   "place": "Germany",
+   "year_start": 1973,
+   "year_end": 2005,
+   "explicit": true,
+   "evidence": "moving to the University of Hamburg from 1973 until his retirement in 2005.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Lambert Schmithausen",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q6481293.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Lambert Schmithausen",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

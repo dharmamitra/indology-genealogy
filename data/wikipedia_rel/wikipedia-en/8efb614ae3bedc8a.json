@@ -1,0 +1,150 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "William Jones",
+   "birth_year": 1746,
+   "death_year": 1794,
+   "nationality": "British",
+   "field": "philology"
+  },
+  {
+   "name": "Rāmalocana",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Samuel Davis",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "orientalism"
+  },
+  {
+   "name": "Henry Thomas Colebrooke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hendrik Arent Hamaker",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Dutch",
+   "field": "orientalism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Jones",
+   "type": "studied_at",
+   "object": "University College, Oxford",
+   "role": "M.A.",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": 1773,
+   "explicit": true,
+   "evidence": "He was sent to Harrow School in September 1753 and then went on to University College, Oxford. He graduated there in 1768 and became M.A. in 1773.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Jones",
+   "type": "studied_at",
+   "object": "Middle Temple",
+   "role": null,
+   "place": null,
+   "year_start": 1770,
+   "year_end": 1773,
+   "explicit": true,
+   "evidence": "In 1770, Jones joined the Middle Temple and studied law for three years, a preliminary to his life-work in India.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Jones",
+   "type": "position_at",
+   "object": "Supreme Court of Judicature at Fort William",
+   "role": "puisne judge",
+   "place": "Calcutta",
+   "year_start": 1783,
+   "year_end": 1794,
+   "explicit": true,
+   "evidence": "He was appointed puisne judge to the Supreme Court of Judicature at Fort William in Calcutta, Bengal, on 4 March 1783",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Jones",
+   "type": "founded",
+   "object": "Asiatic Society",
+   "role": null,
+   "place": "Calcutta",
+   "year_start": 1784,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and on 15 January 1784 he founded the Asiatic Society in Calcutta.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Jones",
+   "type": "student_of",
+   "object": "Rāmalocana",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied the Vedas with Rāmalocana, a pandit teaching at the Hindu University of Nadiya, becoming a proficient Sanskritist.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Jones",
+   "type": "collaborated_with",
+   "object": "Samuel Davis",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Jones kept up a ten-year correspondence on the topic of jyotisa or Hindu astronomy with fellow orientalist Samuel Davis.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Thomas Colebrooke",
+   "type": "succeeded",
+   "object": "William Jones",
+   "role": "translation of digest of Hindu Law",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Jones's final judicial project was suggesting and leading the compilation of a Sanskrit \"digest of Hindu Law\", with the original plan of translating the work himself. After his death, the translation was completed by Henry Thomas Colebrooke.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hendrik Arent Hamaker",
+   "type": "position_at",
+   "object": "University of Leiden",
+   "role": "professorship",
+   "place": "Leiden",
+   "year_start": 1822,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "On 28 September 1822, the Dutch orientalist Hendrik Arent Hamaker, who accepted a professorship at the University of Leiden, gave his inaugural lecture in Latin De vita et meritis Guilielmi Jonesii",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): William Jones (philologist)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q273969.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): William Jones (philologist)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

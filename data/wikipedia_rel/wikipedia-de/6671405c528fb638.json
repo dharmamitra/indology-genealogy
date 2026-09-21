@@ -1,0 +1,93 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Bernhard Hirzel",
+   "birth_year": 1807,
+   "death_year": 1847,
+   "nationality": "Schweizer",
+   "field": "Theologe und Orientalist"
+  },
+  {
+   "name": "David Friedrich Strauß",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Bernhard Hirzel",
+   "type": "studied_at",
+   "object": "Universität Zürich",
+   "role": null,
+   "place": "Zürich",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bernhard Hirzel studierte an den Universitäten Zürich und in Berlin Theologie und Philologie.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bernhard Hirzel",
+   "type": "studied_at",
+   "object": "Universität Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bernhard Hirzel studierte an den Universitäten Zürich und in Berlin Theologie und Philologie.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bernhard Hirzel",
+   "type": "position_at",
+   "object": "Universität Zürich",
+   "role": "Professor der orientalischen Sprachen",
+   "place": "Zürich",
+   "year_start": 1835,
+   "year_end": 1837,
+   "explicit": true,
+   "evidence": "Er wurde 1835 Professor der orientalischen Sprachen an der Universität Zürich; 1837 wechselte er an eine Pfarrstelle",
+   "quote_ok": true
+  },
+  {
+   "subject": "David Friedrich Strauß",
+   "type": "position_at",
+   "object": "Universität Zürich",
+   "role": null,
+   "place": "Zürich",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "durch die Berufung von David Friedrich Strauß an die Universität Zürich",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bernhard Hirzel",
+   "type": "position_at",
+   "object": "Universität Zürich",
+   "role": "Privatdozent",
+   "place": "Zürich",
+   "year_start": 1845,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1845 auch seine Pfarrstelle nieder und trat wieder als Privatdozent in die Universität Zürich ein",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Bernhard Hirzel",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q120852.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Bernhard Hirzel",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

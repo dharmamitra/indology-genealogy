@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "アラン・ワッツ",
+   "birth_year": 1915,
+   "death_year": 1973,
+   "nationality": "イギリス",
+   "field": null
+  },
+  {
+   "name": "鈴木大拙",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "佐々木指月",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ルース・フラー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "アラン・ワッツ",
+   "type": "position_at",
+   "object": "ノースウエスト大学",
+   "role": "礼拝堂付き牧師",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "6年間ノースウエスト大学の礼拝堂付き牧師として務めた",
+   "quote_ok": true
+  },
+  {
+   "subject": "アラン・ワッツ",
+   "type": "position_at",
+   "object": "アジア研究院アメリカン・アカデミー",
+   "role": null,
+   "place": "サンフランシスコ",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "サンフランシスコに移り、アジア研究院アメリカン・アカデミー、エサレン協会などで活動した",
+   "quote_ok": true
+  },
+  {
+   "subject": "アラン・ワッツ",
+   "type": "position_at",
+   "object": "エサレン協会",
+   "role": null,
+   "place": "サンフランシスコ",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "サンフランシスコに移り、アジア研究院アメリカン・アカデミー、エサレン協会などで活動した",
+   "quote_ok": true
+  },
+  {
+   "subject": "アラン・ワッツ",
+   "type": "other",
+   "object": "鈴木大拙",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "鈴木大拙とも交友があり",
+   "quote_ok": true
+  },
+  {
+   "subject": "佐々木指月",
+   "type": "other",
+   "object": "ルース・フラー",
+   "role": "spouse",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "晩年の佐々木指月と入籍したルース・フラー",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): アラン・ワッツ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q354867.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): アラン・ワッツ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

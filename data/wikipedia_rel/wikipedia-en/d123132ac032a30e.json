@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Julius Jolly",
+   "birth_year": 1849,
+   "death_year": 1932,
+   "nationality": "German",
+   "field": "Indian law and medicine"
+  },
+  {
+   "name": "Philipp Johann Gustav von Jolly",
+   "birth_year": 1809,
+   "death_year": 1884,
+   "nationality": null,
+   "field": "physicist"
+  },
+  {
+   "name": "Balakrishna Ghosh",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "R. Schmidt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Julius Jolly",
+   "type": "other",
+   "object": "Philipp Johann Gustav von Jolly",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Jolly was born in Heidelberg, the son of physicist Philipp Johann Gustav von Jolly (1809–1884)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Julius Jolly",
+   "type": "position_at",
+   "object": "University of Würzburg",
+   "role": "Professor",
+   "place": "Würzburg",
+   "year_start": 1877,
+   "year_end": 1922,
+   "explicit": true,
+   "evidence": "Jolly became a Professor in the University of Würzburg in 1877, in the fields of comparative linguistics and Sanskrit.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Julius Jolly",
+   "type": "position_at",
+   "object": "University of Würzburg",
+   "role": "lecturer",
+   "place": "Würzburg",
+   "year_start": 1922,
+   "year_end": 1928,
+   "explicit": true,
+   "evidence": "He retired in 1922, when he became co-editor of the Journal of Indian History, but continued to give lectures in Würzburg till 1928.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Julius Jolly",
+   "type": "position_at",
+   "object": "Calcutta",
+   "role": "Tagore professor of law",
+   "place": "Calcutta",
+   "year_start": 1882,
+   "year_end": 1883,
+   "explicit": true,
+   "evidence": "In 1882–1883 he visited India as Tagore professor of law, Calcutta",
+   "quote_ok": true
+  },
+  {
+   "subject": "Julius Jolly",
+   "type": "collaborated_with",
+   "object": "R. Schmidt",
+   "role": null,
+   "place": null,
+   "year_start": 1923,
+   "year_end": 1924,
+   "explicit": true,
+   "evidence": "He published a new critical edition of Kautilya's Arthashastra in collaboration with R. Schmidt in the \"Panjab Sanskrit Series\", 1923–1924.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Julius Jolly (Indologist)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q2361510.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Julius Jolly (Indologist)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

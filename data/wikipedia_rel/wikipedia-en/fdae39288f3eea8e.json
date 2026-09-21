@@ -1,0 +1,50 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Shunpei Ueyama",
+   "birth_year": 1921,
+   "death_year": 2012,
+   "nationality": "Japanese",
+   "field": "philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Shunpei Ueyama",
+   "type": "studied_at",
+   "object": "Kyoto University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1943,
+   "explicit": true,
+   "evidence": "He graduated in philosophy from Kyoto University in 1943",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shunpei Ueyama",
+   "type": "position_at",
+   "object": "Kyoto University",
+   "role": "emeritus professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was emeritus professor at Kyoto University.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Shunpei Ueyama",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q403579.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Shunpei Ueyama",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,157 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Paul Carus",
+   "birth_year": 1852,
+   "death_year": 1919,
+   "nationality": "deutsch-amerikanischer",
+   "field": "Philosoph"
+  },
+  {
+   "name": "Hermann Graßmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Mathematiker und Philosoph"
+  },
+  {
+   "name": "Shaku Sōen",
+   "birth_year": 1860,
+   "death_year": 1919,
+   "nationality": "japanischer",
+   "field": "Zen-Reformer"
+  },
+  {
+   "name": "Daisetz Teitaro Suzuki",
+   "birth_year": 1870,
+   "death_year": 1966,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Anagarika Dharmapala",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "singhalesischen",
+   "field": null
+  },
+  {
+   "name": "Hans-Martin Krämer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Japanologe"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Paul Carus",
+   "type": "student_of",
+   "object": "Hermann Graßmann",
+   "role": "teacher",
+   "place": "Gymnasium in Stettin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er besuchte das Gymnasium in Posen und Stettin. Dort war der Mathematiker und Philosoph Hermann Graßmann sein Lehrer.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Carus",
+   "type": "studied_at",
+   "object": "Greifswald",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Carus studierte Philosophie, klassische Philologie und Naturwissenschaften in Greifswald, Straßburg und Tübingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Carus",
+   "type": "studied_at",
+   "object": "Straßburg",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Carus studierte Philosophie, klassische Philologie und Naturwissenschaften in Greifswald, Straßburg und Tübingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Carus",
+   "type": "studied_at",
+   "object": "Tübingen",
+   "role": "promovierte",
+   "place": null,
+   "year_start": null,
+   "year_end": 1876,
+   "explicit": true,
+   "evidence": "Carus studierte Philosophie, klassische Philologie und Naturwissenschaften in Greifswald, Straßburg und Tübingen, wo er 1876 promovierte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Carus",
+   "type": "position_at",
+   "object": "Kriegsschule Dresden der königlich-sächsischen Armee",
+   "role": "Lehrer",
+   "place": "Dresden",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Carus wurde Lehrer an der Kriegsschule Dresden der königlich-sächsischen Armee",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daisetz Teitaro Suzuki",
+   "type": "student_of",
+   "object": "Shaku Sōen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Shaku war es auch, der seinen Schüler D. T. Suzuki für einen Studienaufenthalt zu Carus in die USA schickte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shaku Sōen",
+   "type": "influenced_by",
+   "object": "Paul Carus",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Carus Idee eins naturwissenschaftlichen Buddhismus beeinflusste nachhaltig den, ebenfalls beim Weltparlament der Religionen anwesenden, japanischen Zen-Reformer Shaku Sōen (1860–1919).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daisetz Teitaro Suzuki",
+   "type": "collaborated_with",
+   "object": "Paul Carus",
+   "role": null,
+   "place": "USA",
+   "year_start": 1897,
+   "year_end": 1909,
+   "explicit": true,
+   "evidence": "In die Zeit zwischen 1897 und 1909, in der Suzuki bei Carus’ Verlag arbeitete und in dessen Haus wohnte, verfasste Suzuki das sein Buch Outlines of Mahayana Buddhism (1907)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Paul Carus",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q729885.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Paul Carus",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

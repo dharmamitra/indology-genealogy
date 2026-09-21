@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Hajime Nakamura",
+   "birth_year": 1912,
+   "death_year": 1999,
+   "nationality": "Japanese",
+   "field": "Orientalist, Indologist, philosopher"
+  },
+  {
+   "name": "Hakuju Ui",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sarvepalli Radhakrishnan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hajime Nakamura",
+   "type": "student_of",
+   "object": "Hakuju Ui",
+   "role": "doctoral supervisor",
+   "place": "Tokyo Imperial University",
+   "year_start": null,
+   "year_end": 1943,
+   "explicit": true,
+   "evidence": "In 1943 he graduated from the Department of Literature at Tokyo Imperial University on a study on \"The History of Early Vedanta Philosophy\" under the supervision of Prof. Hakuju Ui.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hajime Nakamura",
+   "type": "studied_at",
+   "object": "Tokyo Imperial University",
+   "role": "doctoral thesis",
+   "place": null,
+   "year_start": null,
+   "year_end": 1943,
+   "explicit": true,
+   "evidence": "In 1943 he graduated from the Department of Literature at Tokyo Imperial University on a study on \"The History of Early Vedanta Philosophy\" under the supervision of Prof. Hakuju Ui.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hajime Nakamura",
+   "type": "succeeded",
+   "object": "Hakuju Ui",
+   "role": null,
+   "place": "Tokyo Imperial University",
+   "year_start": 1943,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1943 he succeeded Prof. Ui and was appointed Associate Professor of Tokyo Imperial University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hajime Nakamura",
+   "type": "position_at",
+   "object": "Tokyo Imperial University",
+   "role": "Associate Professor",
+   "place": null,
+   "year_start": 1943,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1943 he succeeded Prof. Ui and was appointed Associate Professor of Tokyo Imperial University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hajime Nakamura",
+   "type": "position_at",
+   "object": "Tokyo University",
+   "role": "professor",
+   "place": null,
+   "year_start": 1954,
+   "year_end": 1973,
+   "explicit": true,
+   "evidence": "He was a professor there from 1954 to 1973.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hajime Nakamura",
+   "type": "founded",
+   "object": "Toho Gakuin (The Eastern Institute, Inc.)",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After retiring from Tokyo University, he established Toho Gakuin (The Eastern Institute, Inc.) and lectured on philosophy to the general public.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Hajime Nakamura",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1135303.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Hajime Nakamura",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

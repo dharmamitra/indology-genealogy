@@ -1,0 +1,167 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Christoph von Fürer-Haimendorf",
+   "birth_year": 1909,
+   "death_year": 1995,
+   "nationality": "österreichisch",
+   "field": "Ethnologe"
+  },
+  {
+   "name": "Leo Frobenius",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Robert von Heine-Geldern",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Bronisław Malinowski",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Christoph von Fürer-Haimendorf",
+   "type": "studied_at",
+   "object": "Universität Wien",
+   "role": "Dr. phil",
+   "place": "Wien",
+   "year_start": 1927,
+   "year_end": 1931,
+   "explicit": true,
+   "evidence": "studierte ab 1927 Ethnologie an der Universität Wien und wurde dort insbesondere von der Kulturkreislehre geprägt. [...] 1931 wurde er zum Dr. phil promoviert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christoph von Fürer-Haimendorf",
+   "type": "student_of",
+   "object": "Leo Frobenius",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zu seinen akademischen Lehrern gehörten Leo Frobenius und Robert von Heine-Geldern.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christoph von Fürer-Haimendorf",
+   "type": "student_of",
+   "object": "Robert von Heine-Geldern",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zu seinen akademischen Lehrern gehörten Leo Frobenius und Robert von Heine-Geldern.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christoph von Fürer-Haimendorf",
+   "type": "influenced_by",
+   "object": "Robert von Heine-Geldern",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Heine-Gelderns Arbeiten inspirierten Haimendorf zu seiner Dissertation über Staat und Gesellschaft bei den Völkern Assams und des nordwestlichen Birmas.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christoph von Fürer-Haimendorf",
+   "type": "position_at",
+   "object": "Universität Wien",
+   "role": "wissenschaftlicher Assistent",
+   "place": "Wien",
+   "year_start": 1931,
+   "year_end": 1934,
+   "explicit": true,
+   "evidence": "Bis 1934 war er anschließend wissenschaftlicher Assistent an der Universität Wien.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christoph von Fürer-Haimendorf",
+   "type": "studied_at",
+   "object": "London School of Economics",
+   "role": null,
+   "place": "London",
+   "year_start": 1934,
+   "year_end": 1935,
+   "explicit": false,
+   "evidence": "Mit einem Stipendium der Rockefeller Foundation studierte er danach für ein Jahr an der London School of Economics, wo Bronisław Malinowski lehrte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bronisław Malinowski",
+   "type": "position_at",
+   "object": "London School of Economics",
+   "role": "lehrte",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "an der London School of Economics, wo Bronisław Malinowski lehrte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christoph von Fürer-Haimendorf",
+   "type": "studied_at",
+   "object": "Universität Wien",
+   "role": "Habilitation",
+   "place": "Wien",
+   "year_start": null,
+   "year_end": 1939,
+   "explicit": true,
+   "evidence": "Nach seiner Habilitation (1939) an der Universität Wien",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christoph von Fürer-Haimendorf",
+   "type": "position_at",
+   "object": "Universität Haiderabad",
+   "role": "Professor",
+   "place": "Haiderabad",
+   "year_start": 1945,
+   "year_end": 1950,
+   "explicit": true,
+   "evidence": "1945 wurde er Professor an der Universität Haiderabad.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christoph von Fürer-Haimendorf",
+   "type": "position_at",
+   "object": "School of Oriental and African Studies der University of London",
+   "role": "Professor",
+   "place": "London",
+   "year_start": 1950,
+   "year_end": 1976,
+   "explicit": true,
+   "evidence": "1950 wechselte Fürer-Haimendorf als Professor an die School of Oriental and African Studies der University of London; dort wirkte er bis zu seiner Pensionierung 1976.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Christoph von Fürer-Haimendorf",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q113407.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Christoph von Fürer-Haimendorf",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

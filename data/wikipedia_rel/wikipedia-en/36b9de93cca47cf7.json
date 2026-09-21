@@ -1,0 +1,105 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Cyril Henry Philips",
+   "birth_year": 1912,
+   "death_year": 2005,
+   "nationality": "British",
+   "field": "history"
+  },
+  {
+   "name": "Ralph Turner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Cyril Henry Philips",
+   "type": "studied_at",
+   "object": "University of Liverpool",
+   "role": "first-class degree in history",
+   "place": null,
+   "year_start": 1931,
+   "year_end": 1934,
+   "explicit": true,
+   "evidence": "in 1931 he attended the University of Liverpool, graduating in 1934 with a first-class degree in history.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Cyril Henry Philips",
+   "type": "studied_at",
+   "object": "School of Oriental Studies",
+   "role": "history thesis",
+   "place": "London",
+   "year_start": null,
+   "year_end": 1940,
+   "explicit": true,
+   "evidence": "He then attended the School of Oriental Studies in London where he wrote a history thesis on the East India Company, in 1940",
+   "quote_ok": true
+  },
+  {
+   "subject": "Cyril Henry Philips",
+   "type": "position_at",
+   "object": "School of Oriental and African Studies",
+   "role": "professor and head of the history department",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He joined the School of Oriental and African Studies (SOAS), and soon became professor and head of the history department.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Cyril Henry Philips",
+   "type": "position_at",
+   "object": "School of Oriental and African Studies",
+   "role": "director",
+   "place": null,
+   "year_start": 1957,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1957, he became director of SOAS, succeeding Sir Ralph Turner",
+   "quote_ok": true
+  },
+  {
+   "subject": "Cyril Henry Philips",
+   "type": "succeeded",
+   "object": "Ralph Turner",
+   "role": "director",
+   "place": "School of Oriental and African Studies",
+   "year_start": 1957,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1957, he became director of SOAS, succeeding Sir Ralph Turner",
+   "quote_ok": true
+  },
+  {
+   "subject": "Cyril Henry Philips",
+   "type": "position_at",
+   "object": "University of London",
+   "role": "vice-chancellor",
+   "place": null,
+   "year_start": 1972,
+   "year_end": 1976,
+   "explicit": true,
+   "evidence": "From 1972 to 1976, he was appointed vice-chancellor of the University of London",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Cyril Philips",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q5200842.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Cyril Philips",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Bal Gangadhar Tilak",
+   "birth_year": 1856,
+   "death_year": 1920,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Gopal Krishna Gokhale",
+   "birth_year": 1866,
+   "death_year": 1915,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Gopal Ganesh Agarkar",
+   "birth_year": 1856,
+   "death_year": 1895,
+   "nationality": "Indian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Bal Gangadhar Tilak",
+   "type": "studied_at",
+   "object": "Deccan College",
+   "role": "Bachelor",
+   "place": "Pune",
+   "year_start": 1873,
+   "year_end": 1879,
+   "explicit": true,
+   "evidence": "1873, mit 17 Jahren, begann Tilak sein Studium am Deccan College in Pune und erreichte 1877 seinen Bachelor-Abschluss in Mathematik mit Auszeichnung und 1879 seinen Bachelor in Jura.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bal Gangadhar Tilak",
+   "type": "founded",
+   "object": "New English School",
+   "role": null,
+   "place": "Pune",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er gründete deshalb zusammen mit Gopal Krishna Gokhale (1866–1915) und Gopal Ganesh Agarkar (1856–1895) die New English School in Pune, in der er unbezahlt unterrichtete.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bal Gangadhar Tilak",
+   "type": "position_at",
+   "object": "New English School",
+   "role": "unterrichtete",
+   "place": "Pune",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "die New English School in Pune, in der er unbezahlt unterrichtete.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bal Gangadhar Tilak",
+   "type": "founded",
+   "object": "Fergussen College",
+   "role": null,
+   "place": "Pune",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "war er Mitbegründer der Deccan Education Society, einem Bildungsverein zur kostengünstigen Förderung von Schulen, und einer weiteren Schule, des Fergussen College, in Pune.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Bal Gangadhar Tilak",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q312555.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Bal Gangadhar Tilak",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

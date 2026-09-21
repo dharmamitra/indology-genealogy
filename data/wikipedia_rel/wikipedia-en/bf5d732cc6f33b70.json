@@ -1,0 +1,38 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John William Stevens",
+   "birth_year": 1947,
+   "death_year": 2025,
+   "nationality": "American",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John William Stevens",
+   "type": "position_at",
+   "object": "Tohoku Fukushi University",
+   "role": "professor",
+   "place": "Sendai, Japan",
+   "year_start": 1973,
+   "year_end": 2008,
+   "explicit": true,
+   "evidence": "Stevens lived in Sendai, Japan, from 1973 to around 2008, where he taught Eastern philosophy and Aikido at Tohoku Fukushi University.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): John Stevens (scholar)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q6259095.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): John Stevens (scholar)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

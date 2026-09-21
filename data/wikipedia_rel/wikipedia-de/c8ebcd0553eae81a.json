@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Vincent Arthur Smith",
+   "birth_year": 1848,
+   "death_year": 1920,
+   "nationality": "britischer",
+   "field": "Historiker, Indologe und Kunsthistoriker"
+  },
+  {
+   "name": "Purna Chandra Mukherji",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Vincent Arthur Smith",
+   "type": "studied_at",
+   "object": "Trinity College in Dublin",
+   "role": null,
+   "place": "Dublin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er studierte am Trinity College in Dublin, schloss sein Studium mit Auszeichnung ab",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vincent Arthur Smith",
+   "type": "position_at",
+   "object": "Indian Civil Service",
+   "role": "Commissioner von Gorakhpur",
+   "place": "Britisch-Indien",
+   "year_start": 1871,
+   "year_end": 1900,
+   "explicit": true,
+   "evidence": "1871 trat er seinen Dienst an... wurde er 1898 Commissioner (Verwaltungschef) von Gorakhpur... nahm er im Jahr 1900 Abschied von Indian Civil Service",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vincent Arthur Smith",
+   "type": "collaborated_with",
+   "object": "Purna Chandra Mukherji",
+   "role": null,
+   "place": null,
+   "year_start": 1901,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Vorwort zu Purna Chandra Mukherji: A report on a tour of exploration of the antiquities of Kapilavastu Tarai of Nepal during February and March, 1899",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Vincent Arthur Smith",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q2526510.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Vincent Arthur Smith",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

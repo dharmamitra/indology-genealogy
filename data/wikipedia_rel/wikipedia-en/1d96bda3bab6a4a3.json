@@ -1,0 +1,169 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Marcelle Lalou",
+   "birth_year": 1890,
+   "death_year": 1967,
+   "nationality": "French",
+   "field": "Tibetologist"
+  },
+  {
+   "name": "Rolf A. Stein",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "J. W. de Jong",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sylvain Lévi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jacques Bacot",
+   "birth_year": 1877,
+   "death_year": 1965,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "J. Przyluski",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Rolf A. Stein",
+   "type": "student_of",
+   "object": "Marcelle Lalou",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Some of her most notable students include Rolf A. Stein and J. W. de Jong.",
+   "quote_ok": true
+  },
+  {
+   "subject": "J. W. de Jong",
+   "type": "student_of",
+   "object": "Marcelle Lalou",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Some of her most notable students include Rolf A. Stein and J. W. de Jong.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Marcelle Lalou",
+   "type": "student_of",
+   "object": "Sylvain Lévi",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studying Sanskrit with Sylvain Lévi",
+   "quote_ok": true
+  },
+  {
+   "subject": "Marcelle Lalou",
+   "type": "student_of",
+   "object": "Jacques Bacot",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and Tibetan with Jacques Bacot.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Marcelle Lalou",
+   "type": "studied_at",
+   "object": "École Pratique des Hautes Études",
+   "role": "doctorate",
+   "place": null,
+   "year_start": null,
+   "year_end": 1927,
+   "explicit": true,
+   "evidence": "She finished her doctorate in 1927 at the École Pratique des Hautes Études",
+   "quote_ok": true
+  },
+  {
+   "subject": "Marcelle Lalou",
+   "type": "position_at",
+   "object": "École Pratique des Hautes Études",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1938,
+   "year_end": 1963,
+   "explicit": true,
+   "evidence": "École Pratique des Hautes Études, where she later taught from 1938 to 1963.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Marcelle Lalou",
+   "type": "position_at",
+   "object": "Bibliographie Bouddhique",
+   "role": "secretary and later manager",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "She was the secretary and later manager for the Bibliographie Bouddhique",
+   "quote_ok": true
+  },
+  {
+   "subject": "Marcelle Lalou",
+   "type": "position_at",
+   "object": "Journal Asiatique",
+   "role": "chief editor",
+   "place": null,
+   "year_start": 1950,
+   "year_end": 1966,
+   "explicit": true,
+   "evidence": "and she was the chief editor of Journal Asiatique from 1950 to 1966.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Marcelle Lalou",
+   "type": "collaborated_with",
+   "object": "J. Przyluski",
+   "role": null,
+   "place": null,
+   "year_start": 1933,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "\"Le da drag tibétain\" in Bulletin of the School of Oriental Studies VII, janv. 1933, p. 87-89. (with J. Przyluski)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Marcelle Lalou",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q3108000.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Marcelle Lalou",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Charles Henry Tawney",
+   "birth_year": 1837,
+   "death_year": 1922,
+   "nationality": "English",
+   "field": "educator and scholar"
+  },
+  {
+   "name": "Richard Henry Tawney",
+   "birth_year": 1880,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jagadish Chandra Bose",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Charles Henry Tawney",
+   "type": "studied_at",
+   "object": "Trinity College, Cambridge",
+   "role": null,
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "educated at Rugby School and Trinity College, Cambridge; where he was a Cambridge Apostle and worked as a fellow and tutor for four years",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Henry Tawney",
+   "type": "position_at",
+   "object": "Trinity College, Cambridge",
+   "role": "fellow and tutor",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "worked as a fellow and tutor for four years, until he moved to India for health reasons.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Henry Tawney",
+   "type": "position_at",
+   "object": "Presidency College Calcutta",
+   "role": "Principal",
+   "place": "Calcutta",
+   "year_start": 1875,
+   "year_end": 1892,
+   "explicit": true,
+   "evidence": "From 1865 to his retirement in 1892 he held various educational offices, most significantly Principal of Presidency College Calcutta, for much of the period of 1875 to 1892.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jagadish Chandra Bose",
+   "type": "position_at",
+   "object": "Presidency College",
+   "role": "professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "One of the professors of Presidency College during Tawney's tenure was Jagadish Chandra Bose.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Henry Tawney",
+   "type": "position_at",
+   "object": "India Office",
+   "role": "Librarian",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After retirement, Tawney was made Librarian of the India Office.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Henry Tawney",
+   "type": "other",
+   "object": "Charles Henry Tawney",
+   "role": "child",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He married Constance Catharine Fox in 1867 and had a large family. One of his children, born 30 November 1880 in Calcutta, was Richard Henry Tawney.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Charles Henry Tawney",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q5078974.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Charles Henry Tawney",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

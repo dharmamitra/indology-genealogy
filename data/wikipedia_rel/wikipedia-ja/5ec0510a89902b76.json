@@ -1,0 +1,126 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ウィリアム・ロクスバラ",
+   "birth_year": 1751,
+   "death_year": 1815,
+   "nationality": "スコットランド",
+   "field": "植物学者"
+  },
+  {
+   "name": "ジョン・ホープ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "植物学"
+  },
+  {
+   "name": "パトリック・ラッセル",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "博物学者"
+  },
+  {
+   "name": "ロバート・キッド",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ウィリアム·ケアリー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ウィリアム・ロクスバラ",
+   "type": "studied_at",
+   "object": "エディンバラ大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "エディンバラ大学で医学を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ウィリアム・ロクスバラ",
+   "type": "student_of",
+   "object": "ジョン・ホープ",
+   "role": "teacher",
+   "place": "エディンバラ大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "エディンバラ大学でジョン・ホープのもとで植物学も学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ウィリアム・ロクスバラ",
+   "type": "position_at",
+   "object": "マドラス医療団",
+   "role": "医師助手",
+   "place": null,
+   "year_start": 1780,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1780年にマドラス医療団（Madras Medical Service）に医師助手として加わった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ウィリアム・ロクスバラ",
+   "type": "position_at",
+   "object": "Northern CircarsのSamalkot庭園",
+   "role": "監督",
+   "place": null,
+   "year_start": 1781,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "東インド会社は彼の植物の知識を認め、 1781年にNorthern CircarsのSamalkot庭園の監督に任じた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ウィリアム・ロクスバラ",
+   "type": "succeeded",
+   "object": "パトリック・ラッセル",
+   "role": "東インド会社の博物学者",
+   "place": "東インド会社",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "パトリック・ラッセル（Patrick Russell）の後をついで、東インド会社の博物学者となった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ウィリアム・ロクスバラ",
+   "type": "succeeded",
+   "object": "ロバート・キッド",
+   "role": "監督",
+   "place": "コルカタ近くのSibpurの東インド会社の庭園",
+   "year_start": 1793,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1793年にロバート・キッドの後を継いで、コルカタ近くのSibpurの東インド会社の庭園の監督となった。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ウィリアム・ロクスバラ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q748967.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ウィリアム・ロクスバラ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

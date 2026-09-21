@@ -1,0 +1,93 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Robert Maclagan",
+   "birth_year": 1820,
+   "death_year": 1894,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Charles Oman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "historian"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Robert Maclagan",
+   "type": "studied_at",
+   "object": "University of Edinburgh",
+   "role": null,
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was educated at the High School in Edinburgh and the University of Edinburgh but did not graduate.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Maclagan",
+   "type": "studied_at",
+   "object": "Addiscombe Military Seminary",
+   "role": null,
+   "place": "near London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He then went to Addiscombe Military Seminary near London.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Maclagan",
+   "type": "studied_at",
+   "object": "School of Military Engineering in Chatham",
+   "role": null,
+   "place": "Chatham",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He then went to the School of Military Engineering in Chatham, to specialise as an engineer.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Maclagan",
+   "type": "position_at",
+   "object": "Civil Engineering College at Rurki",
+   "role": "running",
+   "place": "Rurki",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Following severe illness he was given more sedate duties, including running the Civil Engineering College at Rurki aged 27.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Maclagan",
+   "type": "other",
+   "object": "Charles Oman",
+   "role": "father-in-law",
+   "place": null,
+   "year_start": 1892,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and a daughter, Mary, who in 1892 married Charles Oman, an Oxford historian.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Robert Maclagan",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q33252310.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Robert Maclagan",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

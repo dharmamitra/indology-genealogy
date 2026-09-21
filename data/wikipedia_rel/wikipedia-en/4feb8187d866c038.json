@@ -1,0 +1,150 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Johann Gottfried Ludwig Kosegarten",
+   "birth_year": 1792,
+   "death_year": 1860,
+   "nationality": "German",
+   "field": "orientalist"
+  },
+  {
+   "name": "Ernst Moritz Arndt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hermann Baier",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Karl Lappe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Silvestre de Sacy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johann Gottfried Ludwig Kosegarten",
+   "type": "student_of",
+   "object": "Ernst Moritz Arndt",
+   "role": "private tutor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He received his early education at home and through private tutors who included Ernst Moritz Arndt, Hermann Baier, and Karl Lappe.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Ludwig Kosegarten",
+   "type": "student_of",
+   "object": "Hermann Baier",
+   "role": "private tutor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He received his early education at home and through private tutors who included Ernst Moritz Arndt, Hermann Baier, and Karl Lappe.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Ludwig Kosegarten",
+   "type": "student_of",
+   "object": "Karl Lappe",
+   "role": "private tutor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He received his early education at home and through private tutors who included Ernst Moritz Arndt, Hermann Baier, and Karl Lappe.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Ludwig Kosegarten",
+   "type": "studied_at",
+   "object": "University of Greifswald",
+   "role": "student",
+   "place": "Greifswald",
+   "year_start": 1808,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "When his father moved in 1808 to the University of Greifswald, he too went to the university and studied theology and philosophy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Ludwig Kosegarten",
+   "type": "student_of",
+   "object": "Silvestre de Sacy",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": 1812,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1812 he studied Oriental languages in Paris attending the lectures of Silvestre de Sacy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Ludwig Kosegarten",
+   "type": "position_at",
+   "object": "University of Greifswald",
+   "role": "adjunct to the theological and philosophical faculty",
+   "place": "Greifswald",
+   "year_start": 1815,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1815 he became an adjunct to the theological and philosophical faculty in Greifswald.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Ludwig Kosegarten",
+   "type": "position_at",
+   "object": "University of Jena",
+   "role": "professor of Oriental languages",
+   "place": "Jena",
+   "year_start": 1817,
+   "year_end": 1824,
+   "explicit": true,
+   "evidence": "From 1817 to 1824 he was a professor of Oriental languages at the University of Jena.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Ludwig Kosegarten",
+   "type": "position_at",
+   "object": "University of Greifswald",
+   "role": "professor",
+   "place": "Greifswald",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Kosegarten later moved to the University of Greifswald where he specialized in Old Testament exegesis and oriental languages.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Johann Gottfried Ludwig Kosegarten",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q66280.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Johann Gottfried Ludwig Kosegarten",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

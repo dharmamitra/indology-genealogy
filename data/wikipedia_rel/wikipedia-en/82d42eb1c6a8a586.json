@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Elizabeth Bridget Stuart",
+   "birth_year": 1963,
+   "death_year": null,
+   "nationality": "British",
+   "field": "theologian"
+  },
+  {
+   "name": "Joy Carter",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Elizabeth Bridget Stuart",
+   "type": "position_at",
+   "object": "University of Winchester",
+   "role": "Professor of Christian Theology",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Stuart is Professor of Christian Theology at the University of Winchester",
+   "quote_ok": true
+  },
+  {
+   "subject": "Elizabeth Bridget Stuart",
+   "type": "position_at",
+   "object": "University of Winchester",
+   "role": "vice-chancellor",
+   "place": null,
+   "year_start": 2021,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "On 1 April 2021, Stuart became vice-chancellor of the University of Winchester succeeding Joy Carter.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Elizabeth Bridget Stuart",
+   "type": "succeeded",
+   "object": "Joy Carter",
+   "role": "vice-chancellor",
+   "place": "University of Winchester",
+   "year_start": 2021,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "On 1 April 2021, Stuart became vice-chancellor of the University of Winchester succeeding Joy Carter.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Elizabeth Bridget Stuart",
+   "type": "founded",
+   "object": "Theology and Sexuality",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "She is the founding editor of the academic journal Theology and Sexuality.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Elizabeth Stuart (theologian)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1331324.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Elizabeth Stuart (theologian)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

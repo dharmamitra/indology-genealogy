@@ -1,0 +1,136 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Thubten Yeshe",
+   "birth_year": 1935,
+   "death_year": 1984,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Geshe Rabten",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": null
+  },
+  {
+   "name": "Thubten Zopa Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Thubten Yeshe",
+   "type": "studied_at",
+   "object": "Sera Monastery",
+   "role": null,
+   "place": "Lhasa",
+   "year_start": 1941,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Lama Yeshe was born near the Tibetan town of Tolung Dechen, and was sent to Sera Monastery in Lhasa at the age of six.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thubten Yeshe",
+   "type": "student_of",
+   "object": "Geshe Rabten",
+   "role": "traditional teacher",
+   "place": "Buxaduar, India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "There, his teacher Geshe Rabten entrusted to his care a younger monk, Thubten Zopa Rinpoche.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thubten Zopa Rinpoche",
+   "type": "student_of",
+   "object": "Thubten Yeshe",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Thubten Yeshe and his main student, Thubten Zopa Rinpoche, founded Kopan Monastery in Kathmandu, Nepal",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thubten Yeshe",
+   "type": "collaborated_with",
+   "object": "Thubten Zopa Rinpoche",
+   "role": null,
+   "place": null,
+   "year_start": 1959,
+   "year_end": 1984,
+   "explicit": true,
+   "evidence": "The two would work together throughout Lama Yeshe's life.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thubten Yeshe",
+   "type": "position_at",
+   "object": "University of California Santa Cruz",
+   "role": "teacher",
+   "place": "Santa Cruz",
+   "year_start": 1977,
+   "year_end": 1978,
+   "explicit": true,
+   "evidence": "Between 1977 and 1978, Lama Yeshe taught at University of California Santa Cruz. There he taught one class, \"Tibetan Buddhism\", appropriately.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thubten Yeshe",
+   "type": "founded",
+   "object": "Kopan Monastery",
+   "role": null,
+   "place": "Kathmandu, Nepal",
+   "year_start": 1969,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "co-founded Kopan Monastery (1969) and the Foundation for the Preservation of the Mahayana Tradition (1975)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thubten Yeshe",
+   "type": "founded",
+   "object": "Foundation for the Preservation of the Mahayana Tradition",
+   "role": null,
+   "place": null,
+   "year_start": 1975,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "co-founded Kopan Monastery (1969) and the Foundation for the Preservation of the Mahayana Tradition (1975)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thubten Zopa Rinpoche",
+   "type": "founded",
+   "object": "Kopan Monastery",
+   "role": null,
+   "place": "Kathmandu, Nepal",
+   "year_start": 1969,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Thubten Yeshe and his main student, Thubten Zopa Rinpoche, founded Kopan Monastery in Kathmandu, Nepal for the western seekers in the 1960s.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Thubten Yeshe",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q3526010.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Thubten Yeshe",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

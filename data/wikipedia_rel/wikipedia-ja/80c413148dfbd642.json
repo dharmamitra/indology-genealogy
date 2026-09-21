@@ -1,0 +1,195 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "丘宗潭",
+   "birth_year": 1860,
+   "death_year": 1921,
+   "nationality": "日本",
+   "field": null
+  },
+  {
+   "name": "西有穆山",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "白鳥鼎三",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "長野普照",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "丘球学",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "澤木興道",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "橋本惠光",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "原田祖岳",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "丘宗潭",
+   "type": "student_of",
+   "object": "西有穆山",
+   "role": "師事",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "西有穆山、白鳥鼎三、長野普照に師事し",
+   "quote_ok": true
+  },
+  {
+   "subject": "丘宗潭",
+   "type": "student_of",
+   "object": "白鳥鼎三",
+   "role": "師事",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "西有穆山、白鳥鼎三、長野普照に師事し",
+   "quote_ok": true
+  },
+  {
+   "subject": "丘宗潭",
+   "type": "student_of",
+   "object": "長野普照",
+   "role": "師事",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "西有穆山、白鳥鼎三、長野普照に師事し",
+   "quote_ok": true
+  },
+  {
+   "subject": "丘宗潭",
+   "type": "position_at",
+   "object": "曹洞宗大学林",
+   "role": "学監・教授",
+   "place": null,
+   "year_start": 1899,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1899年（明治32年）に曹洞宗大学林（現・駒澤大学）学監・教授となり",
+   "quote_ok": true
+  },
+  {
+   "subject": "丘宗潭",
+   "type": "position_at",
+   "object": "曹洞宗大学",
+   "role": "学長",
+   "place": null,
+   "year_start": 1918,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "翌1918年（大正7年）に曹洞宗大学学長となる",
+   "quote_ok": true
+  },
+  {
+   "subject": "丘宗潭",
+   "type": "founded",
+   "object": "安泰寺",
+   "role": null,
+   "place": null,
+   "year_start": 1921,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1921年（大正10年）に安泰寺を設立",
+   "quote_ok": true
+  },
+  {
+   "subject": "丘球学",
+   "type": "student_of",
+   "object": "丘宗潭",
+   "role": "弟子",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "弟子に丘球学、澤木興道、橋本惠光、原田祖岳がいる",
+   "quote_ok": true
+  },
+  {
+   "subject": "澤木興道",
+   "type": "student_of",
+   "object": "丘宗潭",
+   "role": "弟子",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "弟子に丘球学、澤木興道、橋本惠光、原田祖岳がいる",
+   "quote_ok": true
+  },
+  {
+   "subject": "橋本惠光",
+   "type": "student_of",
+   "object": "丘宗潭",
+   "role": "弟子",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "弟子に丘球学、澤木興道、橋本惠光、原田祖岳がいる",
+   "quote_ok": true
+  },
+  {
+   "subject": "原田祖岳",
+   "type": "student_of",
+   "object": "丘宗潭",
+   "role": "弟子",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "弟子に丘球学、澤木興道、橋本惠光、原田祖岳がいる",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 丘宗潭",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q11362570.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 丘宗潭",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Johann Andreas Schmeller",
+   "birth_year": 1785,
+   "death_year": 1852,
+   "nationality": "German",
+   "field": "philology"
+  },
+  {
+   "name": "Joseph Bergmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johann Andreas Schmeller",
+   "type": "position_at",
+   "object": "Ludwig-Maximilians-Universität München",
+   "role": null,
+   "place": "Munich",
+   "year_start": 1828,
+   "year_end": 1852,
+   "explicit": true,
+   "evidence": "From 1828 until his death he taught at the Ludwig-Maximilians-Universität München (LMU).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Bergmann",
+   "type": "collaborated_with",
+   "object": "Johann Andreas Schmeller",
+   "role": "editor of posthumous work",
+   "place": null,
+   "year_start": 1855,
+   "year_end": 1855,
+   "explicit": true,
+   "evidence": "His Cimbrisches Wörterbuch was edited by Joseph Bergmann in 1855.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Johann Andreas Schmeller",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q76448.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Johann Andreas Schmeller",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

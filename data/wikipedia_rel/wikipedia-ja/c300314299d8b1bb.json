@@ -1,0 +1,152 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "スティグ・ヴィカンデル",
+   "birth_year": 1908,
+   "death_year": 1983,
+   "nationality": "スウェーデン",
+   "field": "イラン語学"
+  },
+  {
+   "name": "エンリコ・サムエリ・ニーベリ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "イラン学"
+  },
+  {
+   "name": "ゲオ・ヴィデングレン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "オットー・ヘフラー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ジョルジュ・デュメジル",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "比較神話学"
+  },
+  {
+   "name": "ミルチャ・エリアーデ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "フランツ・キュモン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "ミトラス教研究"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "スティグ・ヴィカンデル",
+   "type": "studied_at",
+   "object": "ウプサラ大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ウプサラ大学でイラン学者のエンリコ・サムエリ・ニーベリに師事。",
+   "quote_ok": true
+  },
+  {
+   "subject": "スティグ・ヴィカンデル",
+   "type": "student_of",
+   "object": "エンリコ・サムエリ・ニーベリ",
+   "role": "teacher",
+   "place": "ウプサラ大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ウプサラ大学でイラン学者のエンリコ・サムエリ・ニーベリに師事。",
+   "quote_ok": true
+  },
+  {
+   "subject": "スティグ・ヴィカンデル",
+   "type": "collaborated_with",
+   "object": "エンリコ・サムエリ・ニーベリ",
+   "role": null,
+   "place": null,
+   "year_start": 1932,
+   "year_end": 1937,
+   "explicit": true,
+   "evidence": "1932年〜1937年、ゲオ・ヴィデングレンとともに師のニーベリ自宅で開かれた研究会に参加し、ニーベリの研究に協力するかたわら、自らの研究も進めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "スティグ・ヴィカンデル",
+   "type": "collaborated_with",
+   "object": "ゲオ・ヴィデングレン",
+   "role": null,
+   "place": null,
+   "year_start": 1932,
+   "year_end": 1937,
+   "explicit": true,
+   "evidence": "1932年〜1937年、ゲオ・ヴィデングレンとともに師のニーベリ自宅で開かれた研究会に参加し、ニーベリの研究に協力するかたわら、自らの研究も進めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "スティグ・ヴィカンデル",
+   "type": "influenced_by",
+   "object": "オットー・ヘフラー",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1938,
+   "explicit": true,
+   "evidence": "1938年、博士号論文『アーリヤ人の男性結社』を提出。これは、オットー・ヘフラーの『ゲルマン人の秘密結社』に影響を受けて執筆したものである。",
+   "quote_ok": true
+  },
+  {
+   "subject": "スティグ・ヴィカンデル",
+   "type": "other",
+   "object": "ミルチャ・エリアーデ",
+   "role": "交流",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ミルチャ・エリアーデと交流があったことも知られている。",
+   "quote_ok": true
+  },
+  {
+   "subject": "スティグ・ヴィカンデル",
+   "type": "influenced_by",
+   "object": "ジョルジュ・デュメジル",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1947,
+   "explicit": true,
+   "evidence": "1947年、デュメジルの三機能イデオロギーを取り入れた有名な論文「パーンダヴァ伝説と『マハーバーラタ』の神話構成」を発表。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): スティグ・ヴィカンデル",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q4110942.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): スティグ・ヴィカンデル",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

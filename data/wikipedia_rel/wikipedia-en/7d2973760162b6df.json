@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Claudius Buchanan",
+   "birth_year": 1765,
+   "death_year": 1815,
+   "nationality": "Scottish",
+   "field": "theology"
+  },
+  {
+   "name": "Michael J. Altman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Religious Studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Claudius Buchanan",
+   "type": "studied_at",
+   "object": "University of Glasgow",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was educated at the University of Glasgow and the Queens' College, Cambridge.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Claudius Buchanan",
+   "type": "studied_at",
+   "object": "Queens' College, Cambridge",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was educated at the University of Glasgow and the Queens' College, Cambridge.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Claudius Buchanan",
+   "type": "position_at",
+   "object": "College of Fort William",
+   "role": "vice-principal",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Buchanan was appointed Calcutta chaplain and vice-principal of the college of Fort William.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Claudius Buchanan",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q5129467.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Claudius Buchanan",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

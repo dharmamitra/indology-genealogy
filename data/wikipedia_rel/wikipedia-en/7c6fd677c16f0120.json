@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John Caspar Leyden",
+   "birth_year": 1775,
+   "death_year": 1811,
+   "nationality": "Scottish",
+   "field": "indologist and folklorist"
+  },
+  {
+   "name": "Alexander Murray",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philologist"
+  },
+  {
+   "name": "Walter Scott",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Stamford Raffles",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Caspar Leyden",
+   "type": "studied_at",
+   "object": "Edinburgh University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His father, a shepherd, had contrived to send him to Edinburgh University to study for the ministry.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Caspar Leyden",
+   "type": "influenced_by",
+   "object": "Alexander Murray",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "It was Anderson who later introduced him to Dr Alexander Murray, and Murray, probably, who led him to the study of Eastern languages.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Caspar Leyden",
+   "type": "collaborated_with",
+   "object": "Walter Scott",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1802,
+   "explicit": true,
+   "evidence": "Walter Scott, who was then collecting materials for his Minstrelsy of the Scottish Border (1802). Leyden was admirably fitted for helping in this kind of work",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Caspar Leyden",
+   "type": "position_at",
+   "object": "College of Fort William in Calcutta",
+   "role": "professor of Hindustani",
+   "place": "Calcutta",
+   "year_start": 1808,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1808, his knowledge of the languages of India procured him an appointment as professor of Hindustani in the College of Fort William in Calcutta.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Caspar Leyden",
+   "type": "collaborated_with",
+   "object": "Stamford Raffles",
+   "role": null,
+   "place": null,
+   "year_start": 1805,
+   "year_end": 1811,
+   "explicit": true,
+   "evidence": "Leyden and Raffles shared a common interest in Eastern languages, and it was during this brief stay that Leyden worked on an English translation of the Malay Annals, which was posthumously published with an introduction by Raffles in 1821.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): John Leyden",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q4257427.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): John Leyden",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

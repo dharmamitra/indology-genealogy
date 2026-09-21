@@ -1,0 +1,109 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Francis Wilford",
+   "birth_year": 1761,
+   "death_year": 1822,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Asiatic Society of Bengal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "H.H. Wilson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "William Jones",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Joseph Schwartzberg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "geography"
+  },
+  {
+   "name": "Friedrich Schlegel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Francis Wilford",
+   "type": "position_at",
+   "object": "Asiatic Society of Bengal",
+   "role": "fellow member",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Francis Wilford (1761–1822) was an Indologist, Orientalist, fellow member of the Asiatic Society of Bengal",
+   "quote_ok": false
+  },
+  {
+   "subject": "Francis Wilford",
+   "type": "collaborated_with",
+   "object": "H.H. Wilson",
+   "role": "correspondent",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Wilford tried to hide his fraudulent ways and wrote to H.H. Wilson that: he was really disgusted with the blunders, anachronisms, contradictions, etc,.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francis Wilford",
+   "type": "influenced_by",
+   "object": "William Jones",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Garland Cannon criticised him for misleading William Jones",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Schlegel",
+   "type": "influenced_by",
+   "object": "Francis Wilford",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Friedrich Schlegel, an author and poet, in his essay On the Language and Wisdom of India... applauded Wilford's putative discovery of the Indian origin of Egyptian civilisation",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Francis Wilford",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q16859219.txt#1",
+ "meta": {
+  "title": "Wikipedia (en): Francis Wilford",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

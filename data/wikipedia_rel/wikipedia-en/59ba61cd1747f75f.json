@@ -1,0 +1,155 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Shlomo Pines",
+   "birth_year": 1908,
+   "death_year": 1990,
+   "nationality": "Israeli",
+   "field": "Jewish and Islamic philosophy"
+  },
+  {
+   "name": "Meir Pines",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Yiddish literature"
+  },
+  {
+   "name": "Paul Kraus",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Leo Strauss",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Meir Pines",
+   "type": "studied_at",
+   "object": "Sorbonne",
+   "role": "doctoral student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His father, Meir Pines, was a scholar and businessman whose Sorbonne dissertation comprised the first attempt at a history of Yiddish literature.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shlomo Pines",
+   "type": "other",
+   "object": "Meir Pines",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His father, Meir Pines, was a scholar and businessman",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shlomo Pines",
+   "type": "studied_at",
+   "object": "universities of Heidelberg",
+   "role": null,
+   "place": null,
+   "year_start": 1926,
+   "year_end": 1934,
+   "explicit": true,
+   "evidence": "Between 1926 and 1934 Shlomo Pines studied philosophy, Semitic languages, and linguistics at the universities of Heidelberg, Geneva and Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shlomo Pines",
+   "type": "studied_at",
+   "object": "universities of Geneva",
+   "role": null,
+   "place": null,
+   "year_start": 1926,
+   "year_end": 1934,
+   "explicit": true,
+   "evidence": "Between 1926 and 1934 Shlomo Pines studied philosophy, Semitic languages, and linguistics at the universities of Heidelberg, Geneva and Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shlomo Pines",
+   "type": "studied_at",
+   "object": "universities of Berlin",
+   "role": null,
+   "place": null,
+   "year_start": 1926,
+   "year_end": 1934,
+   "explicit": true,
+   "evidence": "Between 1926 and 1934 Shlomo Pines studied philosophy, Semitic languages, and linguistics at the universities of Heidelberg, Geneva and Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shlomo Pines",
+   "type": "other",
+   "object": "Paul Kraus",
+   "role": "friend",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among his friends at Berlin were Paul Kraus and Leo Strauss",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shlomo Pines",
+   "type": "other",
+   "object": "Leo Strauss",
+   "role": "friend",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among his friends at Berlin were Paul Kraus and Leo Strauss",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shlomo Pines",
+   "type": "position_at",
+   "object": "Institute of the History of Science in Paris",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": 1937,
+   "year_end": 1939,
+   "explicit": true,
+   "evidence": "From 1937 to 1939 he taught the history of science in Islamic countries at the Institute of the History of Science in Paris.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shlomo Pines",
+   "type": "position_at",
+   "object": "Hebrew University of Jerusalem",
+   "role": "professor",
+   "place": "Jerusalem",
+   "year_start": 1952,
+   "year_end": 1990,
+   "explicit": true,
+   "evidence": "In the young State of Israel, Pines was a professor in the Department of Jewish Thought and the Department of Philosophy at the Hebrew University of Jerusalem from 1952 until his death in 1990.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Shlomo Pines",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q2920042.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Shlomo Pines",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

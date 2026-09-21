@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Philip Kapleau",
+   "birth_year": 1912,
+   "death_year": 2004,
+   "nationality": "US-amerikanisch",
+   "field": null
+  },
+  {
+   "name": "D. T. Suzuki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Philip Kapleau",
+   "type": "student_of",
+   "object": "D. T. Suzuki",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Während seiner Zeit in Japan begann Kapleau, sich für den Zen-Buddhismus zu interessieren und wurde Schüler von D. T. Suzuki und anderen Zen-Lehrern.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philip Kapleau",
+   "type": "student_of",
+   "object": "D. T. Suzuki",
+   "role": "teacher",
+   "place": "Columbia University",
+   "year_start": 1950,
+   "year_end": 1953,
+   "explicit": true,
+   "evidence": "Als er 1950 nach Amerika zurückkehrte, studierte er bis 1953 bei D. T. Suzuki, der eine Professur an der Columbia University hatte, buddhistische Philosophie.",
+   "quote_ok": true
+  },
+  {
+   "subject": "D. T. Suzuki",
+   "type": "position_at",
+   "object": "Columbia University",
+   "role": "Professur",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "D. T. Suzuki, der eine Professur an der Columbia University hatte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philip Kapleau",
+   "type": "founded",
+   "object": "Chapin Mill Retreat Center",
+   "role": null,
+   "place": null,
+   "year_start": 1996,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Jahr 1996 erfüllte sich für Kapleau ein lang ersehnter Wunsch, als ein guter Freund der Familie sein Grundstück stiftete und er darauf das Chapin Mill Retreat Center, ein buddhistisches Zentrum, eröffnete.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Philip Kapleau",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1364675.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Philip Kapleau",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

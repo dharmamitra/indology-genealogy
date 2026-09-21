@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Georg Buddruss",
+   "birth_year": 1929,
+   "death_year": 2021,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Almuth Degener",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Georg Buddruss",
+   "type": "studied_at",
+   "object": "Frankfurt am Main",
+   "role": "Dr. phil.",
+   "place": "Frankfurt am Main",
+   "year_start": null,
+   "year_end": 1954,
+   "explicit": true,
+   "evidence": "Nach der Promotion zum Dr. phil. in Frankfurt am Main 1954",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Buddruss",
+   "type": "position_at",
+   "object": "Mainz",
+   "role": "Professor für Indologie",
+   "place": "Mainz",
+   "year_start": 1963,
+   "year_end": 1995,
+   "explicit": true,
+   "evidence": "lehrte Buddruss von 1963 bis 1995 als Professor für Indologie in Mainz",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Buddruss",
+   "type": "collaborated_with",
+   "object": "Almuth Degener",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2017,
+   "explicit": true,
+   "evidence": "mit Almuth Degener: Materialien zur Prasun-Sprache des afghanischen Hindukusch.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Georg Buddruss",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q89033633.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Georg Buddruss",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "エミル・レーディガー",
+   "birth_year": 1801,
+   "death_year": 1874,
+   "nationality": "ドイツ",
+   "field": "東洋学"
+  },
+  {
+   "name": "ヴィルヘルム・ゲセニウス",
+   "birth_year": 1786,
+   "death_year": 1842,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "エミル・レーディガー",
+   "type": "studied_at",
+   "object": "ハレ大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ハレ大学で哲学と神学を学び",
+   "quote_ok": true
+  },
+  {
+   "subject": "エミル・レーディガー",
+   "type": "position_at",
+   "object": "ハレ大学",
+   "role": "東洋語の助教授",
+   "place": null,
+   "year_start": 1830,
+   "year_end": 1835,
+   "explicit": true,
+   "evidence": "そこで1830年に東洋語の助教授、1835年に正教授となった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エミル・レーディガー",
+   "type": "position_at",
+   "object": "ハレ大学",
+   "role": "正教授",
+   "place": null,
+   "year_start": 1835,
+   "year_end": 1860,
+   "explicit": true,
+   "evidence": "1835年に正教授となった。1860年にベルリンに移り",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): エミル・レーディガー",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q5371426.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): エミル・レーディガー",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

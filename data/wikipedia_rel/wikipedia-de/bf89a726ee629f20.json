@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ajahn Sumedho",
+   "birth_year": 1934,
+   "death_year": null,
+   "nationality": "US-amerikanisch",
+   "field": "Sinologie"
+  },
+  {
+   "name": "Ajahn Chah",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ajahn Sumedho",
+   "type": "studied_at",
+   "object": "University of Washington",
+   "role": "Master",
+   "place": null,
+   "year_start": null,
+   "year_end": 1963,
+   "explicit": true,
+   "evidence": "Er erwarb an der University of Washington den Bachelor der Sinologie, 1963 den Master.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ajahn Sumedho",
+   "type": "student_of",
+   "object": "Ajahn Chah",
+   "role": "traditional teacher",
+   "place": "Wat Pah Pong",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er folgte den Lehren des Ajahn Chah, des Meisters der Meditation im Kloster Wat Pah Pong.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ajahn Sumedho",
+   "type": "position_at",
+   "object": "Klosters Amaravati",
+   "role": "Abt",
+   "place": "Hemel Hempstead",
+   "year_start": 1984,
+   "year_end": 2010,
+   "explicit": true,
+   "evidence": "Er war von 1984 bis 2010 Abt des Klosters Amaravati in Hemel Hempstead.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ajahn Sumedho",
+   "type": "founded",
+   "object": "Wat Pah Nanachat",
+   "role": null,
+   "place": "Thailand",
+   "year_start": 1975,
+   "year_end": 1975,
+   "explicit": true,
+   "evidence": "1975 gründete er das internationale Waldkloster Wat Pah Nanachat in Thailand",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Sumedho",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q2005455.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Sumedho",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

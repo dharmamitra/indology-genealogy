@@ -1,0 +1,93 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Zhou Zumo",
+   "birth_year": 1914,
+   "death_year": 1995,
+   "nationality": "Chinese",
+   "field": "linguist"
+  },
+  {
+   "name": "Luo Changpei",
+   "birth_year": 1899,
+   "death_year": 1958,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Zhou Zumo",
+   "type": "studied_at",
+   "object": "National Peking University",
+   "role": null,
+   "place": null,
+   "year_start": 1932,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1932 he entered the Department of Chinese Language and Literature at the National Peking University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Zhou Zumo",
+   "type": "student_of",
+   "object": "Luo Changpei",
+   "role": "teacher",
+   "place": "National Peking University",
+   "year_start": 1932,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1932 he entered the Department of Chinese Language and Literature at the National Peking University and studied phonology under Luo Changpei (1899–1958).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Zhou Zumo",
+   "type": "position_at",
+   "object": "Fu Jen Catholic University",
+   "role": "taught",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Later, he taught for a considerable period in the Department of Chinese Literature (Guówén xì 国文系) at Fu Jen Catholic University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Zhou Zumo",
+   "type": "position_at",
+   "object": "Language Division of the Institute of History and Philology (of Academia Sinica)",
+   "role": null,
+   "place": null,
+   "year_start": 1936,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1936 he passed the entrance examination to the Language Division of the Institute of History and Philology (of Academia Sinica).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Zhou Zumo",
+   "type": "collaborated_with",
+   "object": "Luo Changpei",
+   "role": "co-authored",
+   "place": null,
+   "year_start": null,
+   "year_end": 1958,
+   "explicit": true,
+   "evidence": "In 1958 the first volume of Studies on the Development of Rime Categories from the Han to the Southern and Northern Dynasties [...], co-authored with Luo Changpei, was published",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Zhou Zumo",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q10920902.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Zhou Zumo",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

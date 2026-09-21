@@ -1,0 +1,183 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Arthur Schopenhauer",
+   "birth_year": 1788,
+   "death_year": 1860,
+   "nationality": "German",
+   "field": "philosophy"
+  },
+  {
+   "name": "Friedrich Majer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "orientalist"
+  },
+  {
+   "name": "Johann Gottfried Herder",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gottlob Ernst Schulze",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  },
+  {
+   "name": "Johann Gottlieb Fichte",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  },
+  {
+   "name": "Friedrich Schleiermacher",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "theology"
+  },
+  {
+   "name": "August Böckh",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philology"
+  },
+  {
+   "name": "Friedrich August Wolf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Arthur Schopenhauer",
+   "type": "studied_at",
+   "object": "University of Göttingen",
+   "role": null,
+   "place": null,
+   "year_start": 1809,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He left Weimar to become a student at the University of Göttingen in 1809.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Schopenhauer",
+   "type": "student_of",
+   "object": "Gottlob Ernst Schulze",
+   "role": "teacher",
+   "place": "University of Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied metaphysics, psychology and logic under Gottlob Ernst Schulze, the author of Aenesidemus, who made a strong impression and advised him to concentrate on Plato and Immanuel Kant.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Schopenhauer",
+   "type": "studied_at",
+   "object": "University of Berlin",
+   "role": null,
+   "place": null,
+   "year_start": 1811,
+   "year_end": 1813,
+   "explicit": true,
+   "evidence": "He arrived at the newly founded University of Berlin for the winter semester of 1811–12.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Schopenhauer",
+   "type": "student_of",
+   "object": "Johann Gottlieb Fichte",
+   "role": "teacher",
+   "place": "University of Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Arthur attended lectures by the prominent post-Kantian philosopher Johann Gottlieb Fichte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Schopenhauer",
+   "type": "student_of",
+   "object": "Friedrich Schleiermacher",
+   "role": "teacher",
+   "place": "University of Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He also attended the lectures of the famous Protestant theologian Friedrich Schleiermacher, whom he also quickly came to dislike.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Schopenhauer",
+   "type": "student_of",
+   "object": "August Böckh",
+   "role": "teacher",
+   "place": "University of Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He attended philological courses by August Böckh and Friedrich August Wolf",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Schopenhauer",
+   "type": "student_of",
+   "object": "Friedrich August Wolf",
+   "role": "teacher",
+   "place": "University of Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He attended philological courses by August Böckh and Friedrich August Wolf",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Majer",
+   "type": "student_of",
+   "object": "Johann Gottfried Herder",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Friedrich Majer—a historian of religion, orientalist and disciple of Johann Gottfried Herder",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Schopenhauer",
+   "type": "influenced_by",
+   "object": "Friedrich Majer",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Another important experience during his stay in Weimar was his acquaintance with Friedrich Majer—a historian of religion, orientalist and disciple of Johann Gottfried Herder—who introduced him to Eastern philosophy",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Arthur Schopenhauer",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q38193.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Arthur Schopenhauer",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

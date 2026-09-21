@@ -1,0 +1,169 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Karl Heinrich Wilhelm Wackernagel",
+   "birth_year": 1806,
+   "death_year": 1869,
+   "nationality": "deutscher",
+   "field": "Germanistik"
+  },
+  {
+   "name": "Karl Lachmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jacob Wackernagel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indogermanist"
+  },
+  {
+   "name": "Rudolf Wackernagel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Historiker"
+  },
+  {
+   "name": "Martin Wackernagel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Kunsthistoriker"
+  },
+  {
+   "name": "Hans Georg Wackernagel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Historiker und Volkskundler"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Karl Heinrich Wilhelm Wackernagel",
+   "type": "studied_at",
+   "object": "Friedrich-Wilhelms-Universität zu Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1824,
+   "year_end": 1827,
+   "explicit": true,
+   "evidence": "studierte Wackernagel von 1824 bis 1827 an der Friedrich-Wilhelms-Universität zu Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Heinrich Wilhelm Wackernagel",
+   "type": "student_of",
+   "object": "Karl Lachmann",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1824,
+   "year_end": 1827,
+   "explicit": true,
+   "evidence": "an der Friedrich-Wilhelms-Universität zu Berlin, dort war er Schüler von Karl Lachmann.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Heinrich Wilhelm Wackernagel",
+   "type": "position_at",
+   "object": "Universität Basel",
+   "role": "Professur",
+   "place": "Basel",
+   "year_start": 1833,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Auf Empfehlung von Abel Burckhardt gelang es Wackernagel, eine Professur an der Universität Basel zu erhalten, die er an Ostern 1833 antrat.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Heinrich Wilhelm Wackernagel",
+   "type": "position_at",
+   "object": "Universität Basel",
+   "role": "Ordinarius",
+   "place": "Basel",
+   "year_start": 1835,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ab 1835 lehrte er als Ordinarius an der Universität Basel, wo er 1841, 1855 und 1866 das Rektorat innehatte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Heinrich Wilhelm Wackernagel",
+   "type": "position_at",
+   "object": "Basler Pädagogium",
+   "role": "Lehrer",
+   "place": "Basel",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Als Lehrer war Wackernagel am Basler Pädagogium",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jacob Wackernagel",
+   "type": "other",
+   "object": "Karl Heinrich Wilhelm Wackernagel",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zwei seiner Söhne aus zweiter Ehe mit Maria Salome Sarasin, Schwester des Unternehmers und Politikers Karl Sarasin, waren der Indogermanist Jacob Wackernagel und der Historiker Rudolf Wackernagel",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rudolf Wackernagel",
+   "type": "other",
+   "object": "Karl Heinrich Wilhelm Wackernagel",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zwei seiner Söhne aus zweiter Ehe mit Maria Salome Sarasin, Schwester des Unternehmers und Politikers Karl Sarasin, waren der Indogermanist Jacob Wackernagel und der Historiker Rudolf Wackernagel",
+   "quote_ok": true
+  },
+  {
+   "subject": "Martin Wackernagel",
+   "type": "other",
+   "object": "Rudolf Wackernagel",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ein Enkel (Sohn von Rudolf Wackernagel) war der Kunsthistoriker Martin Wackernagel",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hans Georg Wackernagel",
+   "type": "other",
+   "object": "Jacob Wackernagel",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ein weiterer (Sohn von Jacob Wackernagel) der Historiker und Volkskundler Hans Georg Wackernagel.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Wilhelm Wackernagel",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q215353.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Wilhelm Wackernagel",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

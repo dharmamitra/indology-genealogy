@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "William Robertson",
+   "birth_year": 1721,
+   "death_year": 1793,
+   "nationality": "Scottish",
+   "field": "historian"
+  },
+  {
+   "name": "James Burgh",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "educationalist and writer"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Robertson",
+   "type": "studied_at",
+   "object": "University of Edinburgh",
+   "role": "divinity",
+   "place": "Edinburgh",
+   "year_start": 1733,
+   "year_end": 1741,
+   "explicit": true,
+   "evidence": "He studied divinity at the University of Edinburgh (1733–41), and was licensed to preach in 1741.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Robertson",
+   "type": "studied_at",
+   "object": "University of Edinburgh",
+   "role": "Doctor of Divinity",
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": 1759,
+   "explicit": true,
+   "evidence": "He received a Doctor of Divinity in 1759.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Robertson",
+   "type": "position_at",
+   "object": "University of Edinburgh",
+   "role": "principal",
+   "place": "Edinburgh",
+   "year_start": 1762,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Robertson became royal chaplain to George III (1761), principal of the University of Edinburgh (1762)",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Robertson",
+   "type": "other",
+   "object": "James Burgh",
+   "role": "cousin",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The educationalist and writer James Burgh, who founded a dissenting academy on the outskirts of London, was his cousin, describing him as his \"much esteemed friend and relation\".",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): William Robertson (historian)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1113461.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): William Robertson (historian)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

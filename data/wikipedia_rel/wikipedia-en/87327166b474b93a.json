@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Émile-Louis Burnouf",
+   "birth_year": 1821,
+   "death_year": 1907,
+   "nationality": "French",
+   "field": "Orientalist"
+  },
+  {
+   "name": "Jean-Louis Burnouf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philologist"
+  },
+  {
+   "name": "Eugène Burnouf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Heinrich Schliemann",
+   "birth_year": 1822,
+   "death_year": 1890,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Émile-Louis Burnouf",
+   "type": "position_at",
+   "object": "Nancy University",
+   "role": "professor at the faculté des lettres",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a professor at the faculté des lettres at Nancy University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Émile-Louis Burnouf",
+   "type": "position_at",
+   "object": "French School at Athens",
+   "role": "principal",
+   "place": null,
+   "year_start": 1867,
+   "year_end": 1875,
+   "explicit": true,
+   "evidence": "principal of the French School at Athens from 1867–1875",
+   "quote_ok": true
+  },
+  {
+   "subject": "Émile-Louis Burnouf",
+   "type": "other",
+   "object": "Jean-Louis Burnouf",
+   "role": "nephew",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Émile was the nephew of Jean-Louis Burnouf, a famous philologist",
+   "quote_ok": true
+  },
+  {
+   "subject": "Émile-Louis Burnouf",
+   "type": "other",
+   "object": "Eugène Burnouf",
+   "role": "cousin",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and cousin of Eugène Burnouf, the founder of Buddhist studies in the West",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Schliemann",
+   "type": "collaborated_with",
+   "object": "Émile-Louis Burnouf",
+   "role": "consulted",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Burnouf was consulted by Heinrich Schliemann (1822-1890) over his discovery of swastika motifs in the ruins of Troy.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Émile-Louis Burnouf",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q274979.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Émile-Louis Burnouf",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

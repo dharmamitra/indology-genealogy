@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Richard Hugh Robinson",
+   "birth_year": 1926,
+   "death_year": 1970,
+   "nationality": null,
+   "field": "Buddhism"
+  },
+  {
+   "name": "Edward Conze",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Charles Prebish",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Richard Hugh Robinson",
+   "type": "student_of",
+   "object": "Edward Conze",
+   "role": "informal teacher",
+   "place": null,
+   "year_start": 1950,
+   "year_end": 1959,
+   "explicit": true,
+   "evidence": "In the 1950s, he informally studied Sanskrit with Edward Conze.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Prebish",
+   "type": "student_of",
+   "object": "Richard Hugh Robinson",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I discovered that I was compiling... a tentative list of Richard H. Robinson's former students... to utilize the writings of his former students",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Richard Robinson (Buddhism scholar)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q65049703.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Richard Robinson (Buddhism scholar)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

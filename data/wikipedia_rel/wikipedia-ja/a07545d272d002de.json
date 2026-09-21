@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ジョージ・サンタヤーナ",
+   "birth_year": 1863,
+   "death_year": 1952,
+   "nationality": "アメリカ",
+   "field": "哲学"
+  },
+  {
+   "name": "ウィリアム・ジェームズ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "哲学"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ジョージ・サンタヤーナ",
+   "type": "studied_at",
+   "object": "ハーバード大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ボストン・ラテン・スクールとハーバード大学で哲学者ウィリアム・ジェームズなどから教育を受けた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジョージ・サンタヤーナ",
+   "type": "student_of",
+   "object": "ウィリアム・ジェームズ",
+   "role": "teacher",
+   "place": "ハーバード大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ハーバード大学で哲学者ウィリアム・ジェームズなどから教育を受けた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジョージ・サンタヤーナ",
+   "type": "position_at",
+   "object": "ハーバード大学",
+   "role": "哲学の教授",
+   "place": null,
+   "year_start": 1907,
+   "year_end": 1912,
+   "explicit": true,
+   "evidence": "1907年からハーバード大学で哲学の教授に就任し、1912年からフランスやイタリアへ移っている。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ジョージ・サンタヤーナ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q237833.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ジョージ・サンタヤーナ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

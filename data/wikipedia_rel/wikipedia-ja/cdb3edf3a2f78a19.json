@@ -1,0 +1,157 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "リヒャルト・ピシェル",
+   "birth_year": 1849,
+   "death_year": 1908,
+   "nationality": "ドイツ",
+   "field": "インド学"
+  },
+  {
+   "name": "アドルフ・フリードリヒ・シュテンツラー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "インド学"
+  },
+  {
+   "name": "カール・フリードリヒ・ゲルトナー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "ヴェーダ研究"
+  },
+  {
+   "name": "ヘルマン・オルデンベルク",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "鈴木重信",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "日本",
+   "field": null
+  },
+  {
+   "name": "荻原雲来",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "日本",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "リヒャルト・ピシェル",
+   "type": "student_of",
+   "object": "アドルフ・フリードリヒ・シュテンツラー",
+   "role": "teacher",
+   "place": "ブレスラウ大学",
+   "year_start": null,
+   "year_end": 1870,
+   "explicit": true,
+   "evidence": "ブレスラウ大学でアドルフ・フリードリヒ・シュテンツラーにインド学を学び、1870年にカーリダーサ『シャクンタラー』の版本の論文で学位を取得した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "リヒャルト・ピシェル",
+   "type": "studied_at",
+   "object": "ブレスラウ大学",
+   "role": "学位",
+   "place": null,
+   "year_start": null,
+   "year_end": 1870,
+   "explicit": true,
+   "evidence": "ブレスラウ大学でアドルフ・フリードリヒ・シュテンツラーにインド学を学び、1870年にカーリダーサ『シャクンタラー』の版本の論文で学位を取得した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "リヒャルト・ピシェル",
+   "type": "position_at",
+   "object": "キール大学",
+   "role": "サンスクリットおよび比較言語学の員外教授（1877年に正教授）",
+   "place": null,
+   "year_start": 1875,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1875年にキール大学のサンスクリットおよび比較言語学の員外教授に就任した（1877年に正教授）。",
+   "quote_ok": true
+  },
+  {
+   "subject": "リヒャルト・ピシェル",
+   "type": "position_at",
+   "object": "ドイツ東洋学会",
+   "role": "図書館長",
+   "place": null,
+   "year_start": 1876,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1876年からはドイツ東洋学会図書館長を兼ねた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "リヒャルト・ピシェル",
+   "type": "position_at",
+   "object": "ハレ大学",
+   "role": "サンスクリットおよび比較言語学の教授、学長（1901年から）",
+   "place": null,
+   "year_start": 1885,
+   "year_end": 1902,
+   "explicit": true,
+   "evidence": "1885年、ハレ大学に新設されたサンスクリットおよび比較言語学の教授に就任し、1901年からは学長をつとめた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "リヒャルト・ピシェル",
+   "type": "position_at",
+   "object": "ベルリン大学",
+   "role": "インドゲルマン語文献学の教授",
+   "place": null,
+   "year_start": 1902,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1902年にベルリン大学のインドゲルマン語文献学の教授に移った。",
+   "quote_ok": true
+  },
+  {
+   "subject": "リヒャルト・ピシェル",
+   "type": "collaborated_with",
+   "object": "カール・フリードリヒ・ゲルトナー",
+   "role": "共著",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "カール・フリードリヒ・ゲルトナーと共著で、ヴェーダ研究書（3巻）を出版した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "リヒャルト・ピシェル",
+   "type": "collaborated_with",
+   "object": "ヘルマン・オルデンベルク",
+   "role": "共著・編纂",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ヘルマン・オルデンベルクと共著でパーリ聖典協会のために『テーラガーター』『テーリーガーター』を編纂した。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): リヒャルト・ピシェル",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q85315.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): リヒャルト・ピシェル",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

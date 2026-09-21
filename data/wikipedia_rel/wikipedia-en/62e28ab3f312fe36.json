@@ -1,0 +1,148 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Carl Eduard Sachau",
+   "birth_year": 1845,
+   "death_year": 1930,
+   "nationality": "German",
+   "field": "orientalist"
+  },
+  {
+   "name": "Josef Horovitz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Eugen Mittwoch",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Islamic studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Josef Horovitz",
+   "type": "student_of",
+   "object": "Carl Eduard Sachau",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He taught Josef Horovitz and Eugen Mittwoch.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eugen Mittwoch",
+   "type": "student_of",
+   "object": "Carl Eduard Sachau",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He taught Josef Horovitz and Eugen Mittwoch.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Eduard Sachau",
+   "type": "studied_at",
+   "object": "Universities of Kiel",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied oriental languages at the Universities of Kiel and Leipzig",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Eduard Sachau",
+   "type": "studied_at",
+   "object": "Universities of Leipzig",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied oriental languages at the Universities of Kiel and Leipzig",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Eduard Sachau",
+   "type": "studied_at",
+   "object": "Halle",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 1867,
+   "explicit": true,
+   "evidence": "obtaining his PhD at Halle in 1867.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Eduard Sachau",
+   "type": "position_at",
+   "object": "University of Vienna",
+   "role": "professor extraordinary of Semitic philology",
+   "place": null,
+   "year_start": 1869,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sachau became a professor extraordinary of Semitic philology (1869) and a full professor (1872) at the University of Vienna",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Eduard Sachau",
+   "type": "position_at",
+   "object": "University of Vienna",
+   "role": "full professor",
+   "place": null,
+   "year_start": 1872,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sachau became a professor extraordinary of Semitic philology (1869) and a full professor (1872) at the University of Vienna",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Eduard Sachau",
+   "type": "position_at",
+   "object": "University of Berlin",
+   "role": "professor",
+   "place": null,
+   "year_start": 1876,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1876, a professor at the University of Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Eduard Sachau",
+   "type": "position_at",
+   "object": "Seminar of Oriental languages",
+   "role": "director",
+   "place": "Berlin",
+   "year_start": 1887,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "where he was appointed director of the new Seminar of Oriental languages (1887).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Eduard Sachau",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q66348.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Eduard Sachau",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,50 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "James Rennell",
+   "birth_year": 1742,
+   "death_year": 1830,
+   "nationality": "English",
+   "field": "geography"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Rennell",
+   "type": "position_at",
+   "object": "Bengal",
+   "role": "Surveyor General of Bengal",
+   "place": "Bengal",
+   "year_start": 1767,
+   "year_end": 1777,
+   "explicit": true,
+   "evidence": "In 1767 Lord Robert Clive, the then Governor of Bengal and Bihar, appointed him as surveyor-general of the East India Company's dominions in Bengal.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Rennell",
+   "type": "founded",
+   "object": "Royal Geographical Society",
+   "role": null,
+   "place": "London",
+   "year_start": 1830,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1830, he was one of the founders of the Royal Geographical Society in London.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): James Rennell",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q965945.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): James Rennell",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,119 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ludwig Josef Johann Wittgenstein",
+   "birth_year": 1889,
+   "death_year": 1951,
+   "nationality": "österreichisch",
+   "field": "Philosophie"
+  },
+  {
+   "name": "Bertrand Russell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "George Edward Moore",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Philosophie"
+  },
+  {
+   "name": "L. E. J. Brouwer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Mathematik"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ludwig Josef Johann Wittgenstein",
+   "type": "student_of",
+   "object": "Bertrand Russell",
+   "role": "doctoral supervisor",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": 1929,
+   "explicit": true,
+   "evidence": "Im Jahre 1929 kehrte Wittgenstein als Philosoph nach Cambridge zurück, wo er zunächst bei Bertrand Russell und George Edward Moore in einer mündlichen Prüfung über seinen Tractatus promovierte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ludwig Josef Johann Wittgenstein",
+   "type": "student_of",
+   "object": "George Edward Moore",
+   "role": "doctoral supervisor",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": 1929,
+   "explicit": true,
+   "evidence": "Im Jahre 1929 kehrte Wittgenstein als Philosoph nach Cambridge zurück, wo er zunächst bei Bertrand Russell und George Edward Moore in einer mündlichen Prüfung über seinen Tractatus promovierte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ludwig Josef Johann Wittgenstein",
+   "type": "studied_at",
+   "object": "Cambridge",
+   "role": "Ph.D.",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": 1929,
+   "explicit": true,
+   "evidence": "Im Jahre 1929 kehrte Wittgenstein als Philosoph nach Cambridge zurück, wo er zunächst bei Bertrand Russell und George Edward Moore in einer mündlichen Prüfung über seinen Tractatus promovierte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ludwig Josef Johann Wittgenstein",
+   "type": "succeeded",
+   "object": "George Edward Moore",
+   "role": "Philosophieprofessor",
+   "place": "Cambridge",
+   "year_start": 1939,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Jahre 1939 wurde Wittgenstein in der Nachfolge von Moore zum Philosophieprofessor in Cambridge berufen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ludwig Josef Johann Wittgenstein",
+   "type": "position_at",
+   "object": "Cambridge",
+   "role": "Philosophieprofessor",
+   "place": "Cambridge",
+   "year_start": 1939,
+   "year_end": 1947,
+   "explicit": true,
+   "evidence": "Im Jahre 1939 wurde Wittgenstein in der Nachfolge von Moore zum Philosophieprofessor in Cambridge berufen; er behielt die Professur bis 1947.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ludwig Josef Johann Wittgenstein",
+   "type": "influenced_by",
+   "object": "L. E. J. Brouwer",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Durch einen Vortrag des intuitionistischen Mathematikers L. E. J. Brouwer wurde er – so zumindest nach einem Bericht von Herbert Feigl – schließlich nachhaltig aufgerüttelt und wandte sich wieder der Philosophie zu.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Ludwig Wittgenstein",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q9391.txt#1",
+ "meta": {
+  "title": "Wikipedia (de): Ludwig Wittgenstein",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

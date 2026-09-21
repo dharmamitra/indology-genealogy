@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ernst Curtius",
+   "birth_year": 1814,
+   "death_year": 1896,
+   "nationality": "German",
+   "field": "archaeologist, historian and museum director"
+  },
+  {
+   "name": "C. A. Brandis",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Karl Otfried Müller",
+   "birth_year": null,
+   "death_year": 1840,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Eduard Gerhard",
+   "birth_year": null,
+   "death_year": 1867,
+   "nationality": null,
+   "field": "classical archaeology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ernst Curtius",
+   "type": "collaborated_with",
+   "object": "C. A. Brandis",
+   "role": null,
+   "place": "Greece",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he was chosen by C. A. Brandis to accompany him on a journey to Greece for the prosecution of archaeological researches",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Curtius",
+   "type": "collaborated_with",
+   "object": "Karl Otfried Müller",
+   "role": "companion",
+   "place": "Peloponnese",
+   "year_start": null,
+   "year_end": 1840,
+   "explicit": true,
+   "evidence": "Curtius then became Karl Otfried Müller's companion in his exploration of the Peloponnese, and on Müller's death in 1840 he returned to Germany.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Curtius",
+   "type": "position_at",
+   "object": "University of Berlin",
+   "role": "extraordinary professor",
+   "place": "Berlin",
+   "year_start": 1844,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1844, he became an extraordinary professor at the University of Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Curtius",
+   "type": "position_at",
+   "object": "Göttingen",
+   "role": "professorship",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After holding a professorship at Göttingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Curtius",
+   "type": "position_at",
+   "object": "University of Berlin",
+   "role": "ordinary professor",
+   "place": "Berlin",
+   "year_start": 1863,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Curtius was appointed (in 1863) ordinary professor at Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Curtius",
+   "type": "succeeded",
+   "object": "Eduard Gerhard",
+   "role": "professor of classical archaeology",
+   "place": "Berlin",
+   "year_start": 1867,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Following the death of Eduard Gerhard in 1867, Curtius succeeded him as professor of classical archaeology at Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Curtius",
+   "type": "position_at",
+   "object": "Altes Museum and Antiquarium",
+   "role": "director",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At the same time, Curtius served as a director of the Altes Museum and Antiquarium.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Ernst Curtius",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q61407.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Ernst Curtius",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

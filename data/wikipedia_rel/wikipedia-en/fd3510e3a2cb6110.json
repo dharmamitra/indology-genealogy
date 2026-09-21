@@ -1,0 +1,74 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Edward Backhouse Eastwick",
+   "birth_year": 1814,
+   "death_year": 1883,
+   "nationality": "English",
+   "field": "orientalist"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Edward Backhouse Eastwick",
+   "type": "studied_at",
+   "object": "Charterhouse",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he was educated at Charterhouse and at Merton College, Oxford.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Backhouse Eastwick",
+   "type": "studied_at",
+   "object": "Merton College, Oxford",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he was educated at Charterhouse and at Merton College, Oxford.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Backhouse Eastwick",
+   "type": "position_at",
+   "object": "Haileybury College",
+   "role": "professor of Hindustani",
+   "place": null,
+   "year_start": 1845,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1845 he was appointed professor of Hindustani at Haileybury College.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Backhouse Eastwick",
+   "type": "studied_at",
+   "object": "University of Oxford",
+   "role": "MA",
+   "place": null,
+   "year_start": null,
+   "year_end": 1875,
+   "explicit": true,
+   "evidence": "In 1875, he received the degree of MA with the franchise from the University of Oxford, \"as a slight recognition of distinguished services\".",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Edward Eastwick",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q326162.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Edward Eastwick",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

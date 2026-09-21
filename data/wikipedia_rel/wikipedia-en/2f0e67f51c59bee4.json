@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sir Henry Miers Elliot",
+   "birth_year": 1808,
+   "death_year": 1853,
+   "nationality": "English",
+   "field": "historian"
+  },
+  {
+   "name": "John Dowson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sir Edward Clive Bayley",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "John Beames",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sir Henry Miers Elliot",
+   "type": "studied_at",
+   "object": "Winchester College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was educated from the age of ten at Winchester College",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir Henry Miers Elliot",
+   "type": "position_at",
+   "object": "East India Company",
+   "role": "civil servant",
+   "place": "India",
+   "year_start": 1826,
+   "year_end": 1853,
+   "explicit": true,
+   "evidence": "Sir Henry Miers Elliot (1 March 1808 – 20 December 1853) was an English civil servant and historian who worked with the East India Company in India for 26 years.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir Henry Miers Elliot",
+   "type": "collaborated_with",
+   "object": "John Dowson",
+   "role": "editor of posthumous work",
+   "place": null,
+   "year_start": 1866,
+   "year_end": 1877,
+   "explicit": true,
+   "evidence": "His historical researches bore fruit in The History of India, as Told by Its Own Historians. The Muhammadan Period, edited by John Dowson, 8 vols. 1866–1877",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir Henry Miers Elliot",
+   "type": "collaborated_with",
+   "object": "Sir Edward Clive Bayley",
+   "role": "editor of posthumous work",
+   "place": null,
+   "year_start": 1886,
+   "year_end": 1886,
+   "explicit": true,
+   "evidence": "with a 'Sequel,' edited by Sir Edward Clive Bayley, 1886.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir Henry Miers Elliot",
+   "type": "collaborated_with",
+   "object": "John Beames",
+   "role": "editor of posthumous work",
+   "place": null,
+   "year_start": 1869,
+   "year_end": 1869,
+   "explicit": true,
+   "evidence": "His Memoirs of the History, Folklore, and Distribution of the Races of the North-West Provinces also found an editor in John Beames, 2 vols. 1869.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Henry Miers Elliot",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q347064.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Henry Miers Elliot",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

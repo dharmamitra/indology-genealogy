@@ -1,0 +1,93 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John Muir",
+   "birth_year": 1810,
+   "death_year": 1882,
+   "nationality": "British",
+   "field": "Sanskrit scholar, Indologist"
+  },
+  {
+   "name": "Sir William Muir",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Muir",
+   "type": "studied_at",
+   "object": "University of Glasgow",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then studied in the University of Glasgow, and the East India Company College near Hertford.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Muir",
+   "type": "studied_at",
+   "object": "East India Company College",
+   "role": null,
+   "place": "near Hertford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then studied in the University of Glasgow, and the East India Company College near Hertford.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Muir",
+   "type": "position_at",
+   "object": "Victoria College, Benaras",
+   "role": "principal",
+   "place": "Benaras",
+   "year_start": 1844,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1844, he was appointed to be the first principal of Victoria College, Benaras, that later evolved into the Sampurnanand Sanskrit University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir William Muir",
+   "type": "position_at",
+   "object": "University of Edinburgh",
+   "role": "principal",
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was the elder brother of the Indian administrator and principal of the University of Edinburgh, Sir William Muir.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Muir",
+   "type": "other",
+   "object": "Sir William Muir",
+   "role": "elder brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was the elder brother of the Indian administrator and principal of the University of Edinburgh, Sir William Muir.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): John Muir (Indologist)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q2075814.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): John Muir (Indologist)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

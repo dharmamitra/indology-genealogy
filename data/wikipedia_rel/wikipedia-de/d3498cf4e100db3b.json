@@ -1,0 +1,74 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "William Robertson",
+   "birth_year": 1721,
+   "death_year": 1793,
+   "nationality": "schottisch",
+   "field": "Historiker"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Robertson",
+   "type": "studied_at",
+   "object": "University of Edinburgh",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "erhielt seine Ausbildung in Dalkeith und an der University of Edinburgh, an der er Theologie studierte",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Robertson",
+   "type": "position_at",
+   "object": "University of Edinburgh",
+   "role": "Principal / Rektor",
+   "place": "Edinburgh",
+   "year_start": 1762,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rektor der University of Edinburgh [...] Principal of the University of Edinburgh (1762)",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Robertson",
+   "type": "position_at",
+   "object": "Russische Akademie der Wissenschaften in St. Petersburg",
+   "role": "Ehrenmitglied",
+   "place": "St. Petersburg",
+   "year_start": 1783,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im selben Jahr wurde er Ehrenmitglied der Russischen Akademie der Wissenschaften in St. Petersburg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Robertson",
+   "type": "position_at",
+   "object": "Royal Society of Edinburgh",
+   "role": "Mitglied",
+   "place": "Edinburgh",
+   "year_start": 1783,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1783 wurde er zum Mitglied der Royal Society of Edinburgh gewählt.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): William Robertson (Historiker)",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1113461.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): William Robertson (Historiker)",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

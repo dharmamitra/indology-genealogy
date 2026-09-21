@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Paul Carus",
+   "birth_year": 1852,
+   "death_year": 1919,
+   "nationality": "German-American",
+   "field": "philosophy, comparative religion"
+  },
+  {
+   "name": "Hermann Grassmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "mathematics"
+  },
+  {
+   "name": "D. T. Suzuki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist translation"
+  },
+  {
+   "name": "Soyen Shaku",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Paul Carus",
+   "type": "student_of",
+   "object": "Hermann Grassmann",
+   "role": "teacher",
+   "place": "Stettin Gymnasium",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "attended the Stettin Gymnasium where he studied mathematics under Hermann Grassmann.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Carus",
+   "type": "studied_at",
+   "object": "University of Strassburg",
+   "role": null,
+   "place": "Strassburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He later studied at the universities of Strassburg (then Germany, now France) and Tübingen, Germany.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Carus",
+   "type": "studied_at",
+   "object": "University of Tübingen",
+   "role": "PhD",
+   "place": "Tübingen, Germany",
+   "year_start": null,
+   "year_end": 1876,
+   "explicit": true,
+   "evidence": "He later studied at the universities of Strassburg (then Germany, now France) and Tübingen, Germany. After obtaining his PhD from Tübingen in 1876",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Carus",
+   "type": "collaborated_with",
+   "object": "D. T. Suzuki",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "sponsoring Buddhist translation work of D. T. Suzuki",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Carus",
+   "type": "other",
+   "object": "Soyen Shaku",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "fostering a lifelong working friendship with Buddhist Master, Soyen Shaku.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Paul Carus",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q729885.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Paul Carus",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

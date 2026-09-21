@@ -1,0 +1,114 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Taixu",
+   "birth_year": 1890,
+   "death_year": 1947,
+   "nationality": "Chinese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Yang Renshan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": null
+  },
+  {
+   "name": "Yin Shun",
+   "birth_year": 1906,
+   "death_year": 2005,
+   "nationality": "Chinese",
+   "field": null
+  },
+  {
+   "name": "Dongchu",
+   "birth_year": 1907,
+   "death_year": 1977,
+   "nationality": "Chinese",
+   "field": null
+  },
+  {
+   "name": "Don A. Pittman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "history of religion"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Taixu",
+   "type": "studied_at",
+   "object": "Sutra Carving Society",
+   "role": null,
+   "place": "Nanking",
+   "year_start": 1909,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1909, he traveled to Nanking to join the Sutra Carving Society established there by the lay Buddhist Yang Renshan.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Yang Renshan",
+   "type": "founded",
+   "object": "Sutra Carving Society",
+   "role": null,
+   "place": "Nanking",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the Sutra Carving Society established there by the lay Buddhist Yang Renshan.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Taixu",
+   "type": "founded",
+   "object": "Association for the Advancement of Buddhism",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After the establishment of the new Republic of China, Taixu founded the Association for the Advancement of Buddhism",
+   "quote_ok": true
+  },
+  {
+   "subject": "Yin Shun",
+   "type": "student_of",
+   "object": "Taixu",
+   "role": "disciple",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Several of his influential disciples include Yin Shun 印順 (1906–2005) and Dongchu 東初 (1907–1977).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dongchu",
+   "type": "student_of",
+   "object": "Taixu",
+   "role": "disciple",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Several of his influential disciples include Yin Shun 印順 (1906–2005) and Dongchu 東初 (1907–1977).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Taixu",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q795292.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Taixu",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,105 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Joseph Toussaint Reinaud",
+   "birth_year": 1795,
+   "death_year": 1867,
+   "nationality": "French",
+   "field": "orientalist"
+  },
+  {
+   "name": "Silvestre de Sacy",
+   "birth_year": null,
+   "death_year": 1838,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Joseph Toussaint Reinaud",
+   "type": "student_of",
+   "object": "Silvestre de Sacy",
+   "role": "pupil",
+   "place": "Paris",
+   "year_start": 1815,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He came to Paris in 1815, and became a pupil of Silvestre de Sacy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Toussaint Reinaud",
+   "type": "position_at",
+   "object": "Royal Library at Paris",
+   "role": "department of oriental manuscripts",
+   "place": "Paris",
+   "year_start": 1824,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1824 he entered the department of oriental manuscripts in the Royal Library at Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Toussaint Reinaud",
+   "type": "succeeded",
+   "object": "Silvestre de Sacy",
+   "role": null,
+   "place": "School of Living Oriental Languages",
+   "year_start": 1838,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1838, on the death of De Sacy, he succeeded to his chair in the School of Living Oriental Languages.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Toussaint Reinaud",
+   "type": "position_at",
+   "object": "School of Living Oriental Languages",
+   "role": "chair",
+   "place": null,
+   "year_start": 1838,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1838, on the death of De Sacy, he succeeded to his chair in the School of Living Oriental Languages.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Toussaint Reinaud",
+   "type": "position_at",
+   "object": "Asiatic Society",
+   "role": "president",
+   "place": null,
+   "year_start": 1847,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1847 he became president of the Asiatic Society",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Toussaint Reinaud",
+   "type": "position_at",
+   "object": "Imperial Library",
+   "role": "conservator of oriental manuscripts",
+   "place": null,
+   "year_start": 1858,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1858 conservator of oriental manuscripts in the Imperial Library.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Joseph Toussaint Reinaud",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1123408.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Joseph Toussaint Reinaud",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

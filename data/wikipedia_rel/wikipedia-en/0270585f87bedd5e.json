@@ -1,0 +1,74 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Louis Finot",
+   "birth_year": 1864,
+   "death_year": 1935,
+   "nationality": "French",
+   "field": "archaeology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Louis Finot",
+   "type": "studied_at",
+   "object": "École Nationale des Chartes",
+   "role": "palaeographer",
+   "place": null,
+   "year_start": 1886,
+   "year_end": 1888,
+   "explicit": true,
+   "evidence": "Finot was admitted to the École Nationale des Chartes in 1886. He left it two years later with the title of palaeographer.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Louis Finot",
+   "type": "position_at",
+   "object": "French National Library",
+   "role": "assistant librarian",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He worked initially as a trainee then as an assistant librarian with the French National Library",
+   "quote_ok": true
+  },
+  {
+   "subject": "Louis Finot",
+   "type": "position_at",
+   "object": "Ecole française d'Extrême-Orient",
+   "role": "director",
+   "place": null,
+   "year_start": 1898,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1898, he was named director of the archaeological mission in Indochina, which would become in 1900 the Ecole française d'Extrême-Orient (EFEO).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Louis Finot",
+   "type": "position_at",
+   "object": "Académie des Inscriptions et Belles-Lettres",
+   "role": "member",
+   "place": null,
+   "year_start": 1933,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1933 he became a member of the Académie des Inscriptions et Belles-Lettres.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Louis Finot (archaeologist)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1080053.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Louis Finot (archaeologist)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

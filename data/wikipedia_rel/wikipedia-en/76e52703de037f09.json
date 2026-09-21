@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "David Shea",
+   "birth_year": 1777,
+   "death_year": 1836,
+   "nationality": "Irish",
+   "field": "orientalist and translator"
+  },
+  {
+   "name": "Adam Clarke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Anthony Troyer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "David Shea",
+   "type": "studied_at",
+   "object": "Trinity College, Dublin",
+   "role": null,
+   "place": "Dublin",
+   "year_start": 1793,
+   "year_end": 1798,
+   "explicit": true,
+   "evidence": "He entered Trinity College, Dublin on 3 June 1793, and in 1797 obtained a scholarship in classics... Shea, refusing to comply, was expelled from the university.",
+   "quote_ok": true
+  },
+  {
+   "subject": "David Shea",
+   "type": "position_at",
+   "object": "East India Company's Haileybury College",
+   "role": "assistant professorship in the oriental department",
+   "place": null,
+   "year_start": null,
+   "year_end": 1836,
+   "explicit": true,
+   "evidence": "procured him an assistant professorship in the oriental department of the East India Company's Haileybury College... he died at Haileybury College on 11 May 1836.",
+   "quote_ok": true
+  },
+  {
+   "subject": "David Shea",
+   "type": "collaborated_with",
+   "object": "Anthony Troyer",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "He moved on to the translation of the Dabistán. Before finishing however, he died... The translation of the Dabistán was completed by Anthony Troyer",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): David Shea (linguist)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q5239700.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): David Shea (linguist)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

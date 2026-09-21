@@ -1,0 +1,150 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Willibald Kirfel",
+   "birth_year": 1885,
+   "death_year": 1964,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Hermann Jakobi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "H. Hilgenburg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Harald Kirfel",
+   "birth_year": 1914,
+   "death_year": 1982,
+   "nationality": null,
+   "field": "Sinology"
+  },
+  {
+   "name": "Otto Spies",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Willibald Kirfel",
+   "type": "studied_at",
+   "object": "Bonn",
+   "role": "PhD",
+   "place": "Bonn",
+   "year_start": 1904,
+   "year_end": 1908,
+   "explicit": true,
+   "evidence": "Er studierte von 1904 bis 1908 Indologie in Bonn und promovierte dort 1908.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Willibald Kirfel",
+   "type": "position_at",
+   "object": "Universitätsbibliothek Bonn",
+   "role": "Bibliothekar",
+   "place": "Bonn",
+   "year_start": 1911,
+   "year_end": 1921,
+   "explicit": true,
+   "evidence": "Von 1911 bis 1921 arbeitete er zunächst als Bibliothekar an der Universitätsbibliothek Bonn.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Willibald Kirfel",
+   "type": "studied_at",
+   "object": "Bonn",
+   "role": "Habilitation",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": 1920,
+   "explicit": true,
+   "evidence": "Im Jahre 1920 habilitierte er sich in Bonn",
+   "quote_ok": true
+  },
+  {
+   "subject": "Willibald Kirfel",
+   "type": "student_of",
+   "object": "Hermann Jakobi",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wurde 1922 als ordentlicher Professor auf den Lehrstuhl seines Lehrers Hermann Jakobi an der Universität Bonn berufen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Willibald Kirfel",
+   "type": "succeeded",
+   "object": "Hermann Jakobi",
+   "role": "ordentlicher Professor",
+   "place": "Universität Bonn",
+   "year_start": 1922,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wurde 1922 als ordentlicher Professor auf den Lehrstuhl seines Lehrers Hermann Jakobi an der Universität Bonn berufen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Willibald Kirfel",
+   "type": "position_at",
+   "object": "Universität Bonn",
+   "role": "ordentlicher Professor",
+   "place": "Bonn",
+   "year_start": 1922,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wurde 1922 als ordentlicher Professor auf den Lehrstuhl seines Lehrers Hermann Jakobi an der Universität Bonn berufen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Willibald Kirfel",
+   "type": "collaborated_with",
+   "object": "H. Hilgenburg",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zusammen mit H. Hilgenburg übersetzte er die Ashtângahridayasamhitâ, eine wichtige Abhandlung über die Medizin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Harald Kirfel",
+   "type": "other",
+   "object": "Willibald Kirfel",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sie hatten fünf Kinder, darunter den Sinologen Harald Kirfel (1914–1982)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Willibald Kirfel",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q109528.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Willibald Kirfel",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

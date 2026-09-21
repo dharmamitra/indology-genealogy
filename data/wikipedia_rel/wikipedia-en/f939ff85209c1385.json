@@ -1,0 +1,152 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Gotō Zuigan",
+   "birth_year": 1879,
+   "death_year": 1965,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Tetsuo Sōkatsu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Huston Smith",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "religious scholar"
+  },
+  {
+   "name": "Walter Nowick",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sōkō Morinaga",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Oda Sessō",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Janwillem van de Wetering",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Dutch",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Gotō Zuigan",
+   "type": "position_at",
+   "object": "Hanazono University",
+   "role": "president",
+   "place": "Kyoto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gotō Zuigan (後藤 瑞巌; 1879–1965) was a Buddhist Rinzai Zen master the chief abbot of Myōshin-ji and Daitoku-ji temples, and a past president of Hanazono University in Kyoto",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gotō Zuigan",
+   "type": "student_of",
+   "object": "Tetsuo Sōkatsu",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a student of the Zen master Tetsuo Sōkatsu and followed him to California in 1906",
+   "quote_ok": true
+  },
+  {
+   "subject": "Huston Smith",
+   "type": "student_of",
+   "object": "Gotō Zuigan",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The American religious scholar Huston Smith who studied with Zuigan for fifteen years.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Nowick",
+   "type": "student_of",
+   "object": "Gotō Zuigan",
+   "role": "student",
+   "place": "Daitoku-ji",
+   "year_start": 1950,
+   "year_end": 1965,
+   "explicit": true,
+   "evidence": "Pianist Walter Nowick who studied with Zuigan at Daitoku-ji beginning in 1950 until Zuigan's death in 1965.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sōkō Morinaga",
+   "type": "position_at",
+   "object": "Hanazono University",
+   "role": "head",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sōkō Morinaga, Nowick's Dharma brother, who wrote in \"Novice to Master: An Ongoing Lesson in the Extent of My Own Stupidity\", who was also a head of Hanazono University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Oda Sessō",
+   "type": "succeeded",
+   "object": "Gotō Zuigan",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "under Zuigan's successor Oda Sessō",
+   "quote_ok": true
+  },
+  {
+   "subject": "Janwillem van de Wetering",
+   "type": "student_of",
+   "object": "Oda Sessō",
+   "role": "student",
+   "place": "Daitoku-ji",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The Dutch author Janwillem van de Wetering who lived a year and a half in Daitoku-ji with Nowick under Zuigan's successor Oda Sessō, and described this period of study in the book",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Gotō Zuigan",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q5588112.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Gotō Zuigan",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

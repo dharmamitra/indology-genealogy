@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Arthur Emanuel Christensen",
+   "birth_year": 1875,
+   "death_year": 1945,
+   "nationality": "dänisch",
+   "field": "Orientalist mit Schwerpunkt Iranistik (Philologie und Folkloristik)"
+  },
+  {
+   "name": "Friedrich Carl Andreas",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Arthur Emanuel Christensen",
+   "type": "position_at",
+   "object": "Universität Kopenhagen",
+   "role": "Inhaber des ersten Lehrstuhles für Orientalistik",
+   "place": "Kopenhagen",
+   "year_start": 1919,
+   "year_end": 1945,
+   "explicit": true,
+   "evidence": "Inhaber des ersten Lehrstuhles für Orientalistik an der Universität Kopenhagen zwischen 1919 und 1945.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Emanuel Christensen",
+   "type": "student_of",
+   "object": "Friedrich Carl Andreas",
+   "role": "teacher",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sein Studium absolvierte er unter anderem bei Friedrich Carl Andreas in Göttingen",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Arthur Christensen",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q708931.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Arthur Christensen",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,93 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Edward Elbridge Salisbury",
+   "birth_year": 1814,
+   "death_year": 1901,
+   "nationality": "American",
+   "field": "Sanskritist and Arabist"
+  },
+  {
+   "name": "William Dwight Whitney",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Edward Elbridge Salisbury",
+   "type": "studied_at",
+   "object": "Yale University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1832,
+   "explicit": true,
+   "evidence": "He graduated from Yale University in 1832.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Elbridge Salisbury",
+   "type": "position_at",
+   "object": "Yale",
+   "role": "Professor of Arabic and Sanskrit",
+   "place": null,
+   "year_start": 1841,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Salisbury was appointed Professor of Arabic and Sanskrit at Yale in 1841.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Dwight Whitney",
+   "type": "position_at",
+   "object": "Yale",
+   "role": "Professorship of Sanskrit and kindred languages",
+   "place": null,
+   "year_start": 1854,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "when a separate \"Professorship of Sanskrit and kindred languages\" was created with William Dwight Whitney as its first incumbent.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Elbridge Salisbury",
+   "type": "position_at",
+   "object": "American Oriental Society",
+   "role": "President",
+   "place": null,
+   "year_start": 1863,
+   "year_end": 1866,
+   "explicit": true,
+   "evidence": "Salisbury also served as the President of the American Oriental Society from 1863 to 1866",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Elbridge Salisbury",
+   "type": "position_at",
+   "object": "American Oriental Society",
+   "role": "President",
+   "place": null,
+   "year_start": 1873,
+   "year_end": 1880,
+   "explicit": true,
+   "evidence": "and again from 1873 to 1880.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Edward E. Salisbury",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q16030506.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Edward E. Salisbury",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

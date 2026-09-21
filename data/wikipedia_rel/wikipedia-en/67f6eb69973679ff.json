@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Vimalananda",
+   "birth_year": 1872,
+   "death_year": 1908,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Vivekananda",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Mahendranath Gupta",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Vimalananda",
+   "type": "studied_at",
+   "object": "Ripon College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He continued with his First Arts studies at Ripon College.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mahendranath Gupta",
+   "type": "position_at",
+   "object": "Ripon College",
+   "role": "professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In Ripon College he came in close contact with Mahendranath Gupta, (called \"M\"), the author of Sri Sri Ramakrishna Kathamrita, who was then a professor in the same college.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vimalananda",
+   "type": "student_of",
+   "object": "Vivekananda",
+   "role": "disciple",
+   "place": null,
+   "year_start": 1897,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1897, he met Vivekananda when the latter returned from the West and became a disciple.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Vimalananda",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q17627107.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Vimalananda",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

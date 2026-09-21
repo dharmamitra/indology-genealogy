@@ -1,0 +1,136 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sir Edwin Arnold",
+   "birth_year": 1832,
+   "death_year": 1904,
+   "nationality": "English",
+   "field": null
+  },
+  {
+   "name": "Anagarika Dharmapala",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Weligama Sri Sumangala",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sir Edwin Arnold",
+   "type": "studied_at",
+   "object": "King's School, Rochester",
+   "role": null,
+   "place": "Rochester",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Arnold's early education at King's School, Rochester",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir Edwin Arnold",
+   "type": "studied_at",
+   "object": "King's College London",
+   "role": null,
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and later at King's College London and University College, Oxford",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir Edwin Arnold",
+   "type": "studied_at",
+   "object": "University College, Oxford",
+   "role": null,
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and later at King's College London and University College, Oxford",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir Edwin Arnold",
+   "type": "position_at",
+   "object": "King Edward's School, Birmingham",
+   "role": "schoolmaster",
+   "place": "Birmingham",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He became a schoolmaster, at King Edward's School, Birmingham",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir Edwin Arnold",
+   "type": "position_at",
+   "object": "Deccan College",
+   "role": "Principal",
+   "place": "Poona",
+   "year_start": 1856,
+   "year_end": 1863,
+   "explicit": true,
+   "evidence": "in 1856 went to India as Principal of the Deccan College at Poona, a post which he held for seven years",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir Edwin Arnold",
+   "type": "founded",
+   "object": "Mahabodhi Society of India",
+   "role": "founder member",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a founder member, together with Anagarika Dharmapala, of the Mahabodhi Society of India",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anagarika Dharmapala",
+   "type": "founded",
+   "object": "Mahabodhi Society of India",
+   "role": "founder member",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a founder member, together with Anagarika Dharmapala, of the Mahabodhi Society of India",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir Edwin Arnold",
+   "type": "collaborated_with",
+   "object": "Weligama Sri Sumangala",
+   "role": "close associate",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and was a close associate of Weligama Sri Sumangala.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Edwin Arnold",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q115371.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Edwin Arnold",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,169 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Bernard Tetsugen Glassman",
+   "birth_year": 1939,
+   "death_year": 2018,
+   "nationality": "US-amerikanisch",
+   "field": null
+  },
+  {
+   "name": "Taizan Maezumi",
+   "birth_year": null,
+   "death_year": 1995,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Claude Thomas",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Joan Halifax",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Heinz-Jürgen Metzger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rick Fields",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Bernard Tetsugen Glassman",
+   "type": "studied_at",
+   "object": "New York University Tandon School of Engineering",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er studierte Flugzeugbau an der New York University Tandon School of Engineering",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bernard Tetsugen Glassman",
+   "type": "studied_at",
+   "object": "University of California, Los Angeles",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "promovierte in Angewandter Mathematik an der University of California, Los Angeles",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bernard Tetsugen Glassman",
+   "type": "student_of",
+   "object": "Taizan Maezumi",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nachdem er Schüler des Zen-Meisters Taizan Maezumi geworden war, gab er seinen Arbeitsplatz und seine Karriere auf",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bernard Tetsugen Glassman",
+   "type": "founded",
+   "object": "Zen Peacemakers Order",
+   "role": null,
+   "place": null,
+   "year_start": 1996,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Jahr 1996 gründete Glassman zusammen mit seiner Frau Sandra Jishu Holmes den Zen Peacemakers Order",
+   "quote_ok": true
+  },
+  {
+   "subject": "Claude Thomas",
+   "type": "student_of",
+   "object": "Bernard Tetsugen Glassman",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zu seinen Schülern zählt unter anderem Claude Thomas und Joan Halifax.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joan Halifax",
+   "type": "student_of",
+   "object": "Bernard Tetsugen Glassman",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zu seinen Schülern zählt unter anderem Claude Thomas und Joan Halifax.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinz-Jürgen Metzger",
+   "type": "student_of",
+   "object": "Bernard Tetsugen Glassman",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mit einem seiner Schüler, dem Zen-Meister Heinz-Jürgen Metzger aus Solingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bernard Tetsugen Glassman",
+   "type": "collaborated_with",
+   "object": "Rick Fields",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "mit Rick Fields: Anweisungen für den Koch. Lebensentwurf eines Zen-Meisters.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bernard Tetsugen Glassman",
+   "type": "collaborated_with",
+   "object": "Taizan Maezumi",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "mit Taizan Maezumi: The Hazy Moon of Enlightenment: Part of the On Zen Practice Series.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Bernard Glassman",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q822446.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Bernard Glassman",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

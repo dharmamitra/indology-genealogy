@@ -1,0 +1,186 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Heinrich Friedrich Zimmer",
+   "birth_year": 1851,
+   "death_year": 1910,
+   "nationality": "German",
+   "field": "Celticist and Indologist"
+  },
+  {
+   "name": "Rudolf von Roth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ferdinand de Saussure",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rudolf Thurneysen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kuno Meyer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Heinrich Friedrich Zimmer",
+   "type": "studied_at",
+   "object": "Kaiser Wilhelm University in Strassburg",
+   "role": null,
+   "place": "Strassburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he studied ancient languages at Kaiser Wilhelm University in Strassburg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Friedrich Zimmer",
+   "type": "student_of",
+   "object": "Rudolf von Roth",
+   "role": "teacher",
+   "place": "University of Tübingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "going on to study Indology and Sanskrit under Rudolf von Roth at the University of Tübingen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Friedrich Zimmer",
+   "type": "studied_at",
+   "object": "University of Tübingen",
+   "role": null,
+   "place": "Tübingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "going on to study Indology and Sanskrit under Rudolf von Roth at the University of Tübingen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Friedrich Zimmer",
+   "type": "position_at",
+   "object": "Friedrich Wilhelm University in Berlin",
+   "role": "lecturer",
+   "place": "Berlin",
+   "year_start": 1878,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1878 he became a lecturer at Friedrich Wilhelm University in Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ferdinand de Saussure",
+   "type": "student_of",
+   "object": "Heinrich Friedrich Zimmer",
+   "role": "student",
+   "place": "Friedrich Wilhelm University in Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "at Friedrich Wilhelm University in Berlin, where the young Ferdinand de Saussure studied with him",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Friedrich Zimmer",
+   "type": "position_at",
+   "object": "University of Greifswald",
+   "role": "Professor of Sanskrit and Comparative Linguistics",
+   "place": "Greifswald",
+   "year_start": 1881,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1881 he became Professor of Sanskrit and Comparative Linguistics at the University of Greifswald.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Friedrich Zimmer",
+   "type": "position_at",
+   "object": "Friedrich Wilhelm University",
+   "role": "founding Professor of Celtic",
+   "place": "Berlin",
+   "year_start": 1901,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "In 1901 he became the founding Professor of Celtic at Friedrich Wilhelm University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rudolf Thurneysen",
+   "type": "student_of",
+   "object": "Heinrich Friedrich Zimmer",
+   "role": "student",
+   "place": "Friedrich Wilhelm University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "his most celebrated student there was Rudolf Thurneysen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kuno Meyer",
+   "type": "succeeded",
+   "object": "Heinrich Friedrich Zimmer",
+   "role": null,
+   "place": "Friedrich Wilhelm University",
+   "year_start": 1910,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was followed in the post after his death by Kuno Meyer.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Friedrich Zimmer",
+   "type": "position_at",
+   "object": "Prussian Academy of Sciences",
+   "role": "member",
+   "place": null,
+   "year_start": 1902,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1902 he became a member of the Prussian Academy of Sciences",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Friedrich Zimmer",
+   "type": "position_at",
+   "object": "Bavarian Academy of Sciences and Humanities",
+   "role": "corresponding member",
+   "place": null,
+   "year_start": 1906,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1906 a corresponding member of the Bavarian Academy of Sciences and Humanities.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Heinrich Zimmer (Celticist)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q76954.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Heinrich Zimmer (Celticist)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

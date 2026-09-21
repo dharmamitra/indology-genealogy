@@ -1,0 +1,145 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Antoine-Léonard de Chézy",
+   "birth_year": 1773,
+   "death_year": 1832,
+   "nationality": "französischer",
+   "field": "Orientalist und Mitbegründer der Indologie"
+  },
+  {
+   "name": "Silvestre de Sacy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Begründer der Orientalistik"
+  },
+  {
+   "name": "August Wilhelm Schlegel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Franz Bopp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "deutsch",
+   "field": null
+  },
+  {
+   "name": "Wilhelm von Humboldt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "deutsch",
+   "field": null
+  },
+  {
+   "name": "Friedrich Schlegel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "deutsch",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Antoine-Léonard de Chézy",
+   "type": "student_of",
+   "object": "Silvestre de Sacy",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Als Konservator der orientalischen Handschriften bei der Nationalbibliothek begann er das Studium des Sanskrit als Schüler unter anderem von Silvestre de Sacy",
+   "quote_ok": true
+  },
+  {
+   "subject": "Antoine-Léonard de Chézy",
+   "type": "position_at",
+   "object": "Nationalbibliothek",
+   "role": "Konservator der orientalischen Handschriften",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Als Konservator der orientalischen Handschriften bei der Nationalbibliothek",
+   "quote_ok": true
+  },
+  {
+   "subject": "Antoine-Léonard de Chézy",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "Lehrstuhl für Sanskrit",
+   "place": "Paris",
+   "year_start": 1814,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1814 erhielt er den eigens für ihn geschaffenen ersten europäischen Lehrstuhl für Sanskrit am Collège de France.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Antoine-Léonard de Chézy",
+   "type": "position_at",
+   "object": "Académie des Inscriptions et Belles-Lettres",
+   "role": "Mitglied",
+   "place": null,
+   "year_start": 1816,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1816 wurde er Mitglied der Académie des Inscriptions et Belles-Lettres.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Bopp",
+   "type": "student_of",
+   "object": "Antoine-Léonard de Chézy",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Berühmte deutsche Schüler Chézys waren unter anderem Franz Bopp, Wilhelm von Humboldt und Friedrich Schlegel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm von Humboldt",
+   "type": "student_of",
+   "object": "Antoine-Léonard de Chézy",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Berühmte deutsche Schüler Chézys waren unter anderem Franz Bopp, Wilhelm von Humboldt und Friedrich Schlegel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Schlegel",
+   "type": "student_of",
+   "object": "Antoine-Léonard de Chézy",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Berühmte deutsche Schüler Chézys waren unter anderem Franz Bopp, Wilhelm von Humboldt und Friedrich Schlegel.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Antoine-Léonard de Chézy",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q585534.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Antoine-Léonard de Chézy",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

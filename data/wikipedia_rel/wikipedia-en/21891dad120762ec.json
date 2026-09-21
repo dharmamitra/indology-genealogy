@@ -1,0 +1,155 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John Lockwood Kipling",
+   "birth_year": 1837,
+   "death_year": 1911,
+   "nationality": "English",
+   "field": "art"
+  },
+  {
+   "name": "John Griffiths",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "art"
+  },
+  {
+   "name": "Flora Annie Webster Steel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Richard Carnac Temple",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Lockwood Kipling",
+   "type": "studied_at",
+   "object": "Woodhouse Grove School",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "educated at Woodhouse Grove School, a Methodist boarding school",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Lockwood Kipling",
+   "type": "position_at",
+   "object": "Jeejeebhoy School of Art in Bombay",
+   "role": "professor of architectural sculpture",
+   "place": "Bombay",
+   "year_start": 1865,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "appointed as a professor of architectural sculpture in the Jeejeebhoy School of Art in Bombay (now Mumbai), and later became its principal",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Lockwood Kipling",
+   "type": "position_at",
+   "object": "Jeejeebhoy School of Art in Bombay",
+   "role": "principal",
+   "place": "Bombay",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and later became its principal",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Griffiths",
+   "type": "position_at",
+   "object": "Bombay School of Art",
+   "role": null,
+   "place": "Bombay",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "worked with him at the Bombay School of Art",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Lockwood Kipling",
+   "type": "position_at",
+   "object": "Mayo School of Arts, Lahore",
+   "role": "Principal",
+   "place": "Lahore",
+   "year_start": 1875,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "During 1875, Kipling was appointed the Principal of Mayo School of Arts, Lahore, British India... He retired back to England in 1893.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Lockwood Kipling",
+   "type": "position_at",
+   "object": "Lahore Museum",
+   "role": "curator",
+   "place": "Lahore",
+   "year_start": 1875,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "and also became curator of the old original Lahore Museum... He retired back to England in 1893.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Lockwood Kipling",
+   "type": "position_at",
+   "object": "Journal of Indian Art and Industry",
+   "role": "editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Kipling also remained editor of the Journal of Indian Art and Industry",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Lockwood Kipling",
+   "type": "collaborated_with",
+   "object": "Flora Annie Webster Steel",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1894,
+   "explicit": true,
+   "evidence": "Tales of the Punjab Told by the People, by Flora Annie Webster Steel, Richard Carnac Temple, John Lockwood Kipling. Published by Macmillan and co., 1894.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Lockwood Kipling",
+   "type": "collaborated_with",
+   "object": "Richard Carnac Temple",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1894,
+   "explicit": true,
+   "evidence": "Tales of the Punjab Told by the People, by Flora Annie Webster Steel, Richard Carnac Temple, John Lockwood Kipling. Published by Macmillan and co., 1894.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): John Lockwood Kipling",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q538533.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): John Lockwood Kipling",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

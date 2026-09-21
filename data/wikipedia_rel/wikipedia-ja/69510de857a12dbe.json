@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "サキョン・ミパム・リンポチェ",
+   "birth_year": 1962,
+   "death_year": null,
+   "nationality": null,
+   "field": "チベット仏教"
+  },
+  {
+   "name": "チョギャム・トゥルンパ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "チベット仏教"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "サキョン・ミパム・リンポチェ",
+   "type": "other",
+   "object": "チョギャム・トゥルンパ",
+   "role": "son of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "チョギャム・トゥルンパの息子である。",
+   "quote_ok": true
+  },
+  {
+   "subject": "サキョン・ミパム・リンポチェ",
+   "type": "student_of",
+   "object": "チョギャム・トゥルンパ",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "彼の父・チョギャム・トゥルンパはチベット仏教の瞑想を西洋に紹介し、大きな瞑想センターをつくった人物であり、サキョンは少年時代より瞑想のトレーニングを受けた。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): サキョン・ミパム",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q1258856.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): サキョン・ミパム",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

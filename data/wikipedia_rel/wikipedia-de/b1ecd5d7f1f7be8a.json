@@ -1,0 +1,93 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Frédéric Baudry",
+   "birth_year": 1818,
+   "death_year": 1885,
+   "nationality": "French",
+   "field": "philology"
+  },
+  {
+   "name": "Eugène Burnouf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Oriental studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Frédéric Baudry",
+   "type": "student_of",
+   "object": "Eugène Burnouf",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "besuchte gleichzeitig die Vorlesungen des Orientalisten Eugène Burnouf.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Frédéric Baudry",
+   "type": "position_at",
+   "object": "Institut agronomique de Versailles",
+   "role": "Bibliothekar",
+   "place": "Versailles",
+   "year_start": 1849,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1849 wurde er zum Bibliothekar am Institut agronomique de Versailles",
+   "quote_ok": true
+  },
+  {
+   "subject": "Frédéric Baudry",
+   "type": "position_at",
+   "object": "Bibliothèque de l’Arsenal",
+   "role": "Bibliothekar",
+   "place": "Paris",
+   "year_start": 1859,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "und 1859 an der Bibliothèque de l’Arsenal ernannt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Frédéric Baudry",
+   "type": "position_at",
+   "object": "Bibliothèque Mazarine",
+   "role": "Verwalter",
+   "place": "Paris",
+   "year_start": 1874,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "zwischen 1874 und 1885 Verwalter der Bibliothèque Mazarine.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Frédéric Baudry",
+   "type": "position_at",
+   "object": "Académie des inscriptions et belles-lettres",
+   "role": "freies Mitglied",
+   "place": "Paris",
+   "year_start": 1879,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Jahr 1879 wurde er zum freien Mitglied der Académie des inscriptions et belles-lettres gewählt.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Frédéric Baudry",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q3089607.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Frédéric Baudry",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

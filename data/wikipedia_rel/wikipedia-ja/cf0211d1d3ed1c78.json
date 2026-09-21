@@ -1,0 +1,145 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "マハーシ・サヤドー",
+   "birth_year": 1904,
+   "death_year": 1982,
+   "nationality": "ミャンマー",
+   "field": "上座部仏教"
+  },
+  {
+   "name": "ウ・ナーラダ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "ミャンマー",
+   "field": "上座部仏教"
+  },
+  {
+   "name": "アレタヤ・サヤドー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "ミャンマー",
+   "field": "上座部仏教"
+  },
+  {
+   "name": "セロン・サヤドー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "ミャンマー",
+   "field": "上座部仏教"
+  },
+  {
+   "name": "星飛雄馬",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "日本",
+   "field": null
+  },
+  {
+   "name": "ウ・ウィジャナンダー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "上座部仏教"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "マハーシ・サヤドー",
+   "type": "student_of",
+   "object": "ウ・ナーラダ",
+   "role": "traditional teacher",
+   "place": "タトン",
+   "year_start": 1931,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1931年にはモーラミャインでの文献指導から退き、近郊のタトンにて、高名なウ・ナーラダ長老の下で集中的にヴィパッサナー瞑想の修行をした。",
+   "quote_ok": true
+  },
+  {
+   "subject": "マハーシ・サヤドー",
+   "type": "student_of",
+   "object": "アレタヤ・サヤドー",
+   "role": "traditional teacher",
+   "place": "サンガインヒル",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ウ・ナーラダ長老の指示で北部ミャンマーの人里離れたサンガインヒルにて、アレタヤ・サヤドーと弟子で森林瞑想指導者として名高いセロン・サヤドーの指導の下、修行を行う。",
+   "quote_ok": true
+  },
+  {
+   "subject": "マハーシ・サヤドー",
+   "type": "student_of",
+   "object": "セロン・サヤドー",
+   "role": "traditional teacher",
+   "place": "サンガインヒル",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ウ・ナーラダ長老の指示で北部ミャンマーの人里離れたサンガインヒルにて、アレタヤ・サヤドーと弟子で森林瞑想指導者として名高いセロン・サヤドーの指導の下、修行を行う。",
+   "quote_ok": true
+  },
+  {
+   "subject": "セロン・サヤドー",
+   "type": "student_of",
+   "object": "アレタヤ・サヤドー",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "アレタヤ・サヤドーと弟子で森林瞑想指導者として名高いセロン・サヤドー",
+   "quote_ok": true
+  },
+  {
+   "subject": "マハーシ・サヤドー",
+   "type": "position_at",
+   "object": "マハーシ僧院",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "故郷に戻ると、「マハーシ僧院」にて四念処（四念住）・ヴィパッサナー瞑想の指導を行う。",
+   "quote_ok": true
+  },
+  {
+   "subject": "マハーシ・サヤドー",
+   "type": "position_at",
+   "object": "マハーシ瞑想センター",
+   "role": "常任指導者",
+   "place": "ヤンゴン",
+   "year_start": 1947,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1947年、当時のミャンマー首相ウー・ヌがヤンゴンに新しく設立された瞑想センター（現在のマハーシ瞑想センター）の常任指導者に彼を招聘する。",
+   "quote_ok": true
+  },
+  {
+   "subject": "マハーシ・サヤドー",
+   "type": "founded",
+   "object": "洞察瞑想協会（IMA）",
+   "role": null,
+   "place": "マサチューセッツ州バリー",
+   "year_start": 1979,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1979年にヴィパッサナー瞑想を広めるために欧米に赴き、マサチューセッツ州バリーに洞察瞑想協会（IMA）を設立し",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): マハーシ・サヤドー",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q1395380.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): マハーシ・サヤドー",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,155 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Johannes Nobel",
+   "birth_year": 1887,
+   "death_year": 1960,
+   "nationality": "German",
+   "field": "indologist and Buddhist scholar"
+  },
+  {
+   "name": "Wilhelm Rau",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Claus Vogel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Friedrich Rückert",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johannes Nobel",
+   "type": "studied_at",
+   "object": "University of Greifswald",
+   "role": null,
+   "place": null,
+   "year_start": 1907,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied Indo-European languages, Arabic, Turkish and Sanskrit at the University of Greifswald from 1907",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Nobel",
+   "type": "studied_at",
+   "object": "Friedrich Wilhelms University Berlin",
+   "role": "PhD",
+   "place": null,
+   "year_start": 1908,
+   "year_end": 1911,
+   "explicit": true,
+   "evidence": "then from 1908 at the Friedrich Wilhelms University Berlin. In 1911 he completed his PhD thesis on the history of the Alamkãraśāstra",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Nobel",
+   "type": "position_at",
+   "object": "Old Royal Library in Berlin",
+   "role": "librarian",
+   "place": "Berlin",
+   "year_start": 1915,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1915 he passed the library examinations and found employment at the Old Royal Library in Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Nobel",
+   "type": "position_at",
+   "object": "Preußische Staatsbibliothek",
+   "role": "librarian",
+   "place": null,
+   "year_start": 1920,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In March 1920, Nobel joined the Preußische Staatsbibliothek as a librarian",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Nobel",
+   "type": "studied_at",
+   "object": "University of Berlin",
+   "role": "habilitation",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": 1920,
+   "explicit": true,
+   "evidence": "he successfully defended his habilitation thesis, a work on Indian poetics. He received his teaching qualification in Indian philology at the University of Berlin in 1921.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Nobel",
+   "type": "position_at",
+   "object": "University of Berlin",
+   "role": "extraordinary professor",
+   "place": "Berlin",
+   "year_start": 1927,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1927, Nobel was appointed extraordinary professor in Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Nobel",
+   "type": "position_at",
+   "object": "University of Marburg",
+   "role": "professorship for indology",
+   "place": "Marburg",
+   "year_start": 1928,
+   "year_end": 1955,
+   "explicit": true,
+   "evidence": "On 1 April 1928 he accepted a professorship for indology at the University of Marburg, which he held until his retirement in 1955.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Rau",
+   "type": "succeeded",
+   "object": "Johannes Nobel",
+   "role": null,
+   "place": "University of Marburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His successor on the Marburg chair was Wilhelm Rau",
+   "quote_ok": true
+  },
+  {
+   "subject": "Claus Vogel",
+   "type": "student_of",
+   "object": "Johannes Nobel",
+   "role": "pupil",
+   "place": "Marburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Claus Vogel is one of Nobel's Marburg pupils.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Johannes Nobel",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1698096.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Johannes Nobel",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

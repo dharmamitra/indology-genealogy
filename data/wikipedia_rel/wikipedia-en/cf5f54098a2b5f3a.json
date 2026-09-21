@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Willard Van Orman Quine",
+   "birth_year": 1908,
+   "death_year": 2000,
+   "nationality": "American",
+   "field": "philosophy"
+  },
+  {
+   "name": "B. F. Skinner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Willard Van Orman Quine",
+   "type": "position_at",
+   "object": "Harvard University",
+   "role": "Edgar Pierce Chair of Philosophy",
+   "place": null,
+   "year_start": 1956,
+   "year_end": 1978,
+   "explicit": true,
+   "evidence": "He held the Edgar Pierce Chair of Philosophy at Harvard University from 1956 to 1978.",
+   "quote_ok": false
+  },
+  {
+   "subject": "B. F. Skinner",
+   "type": "position_at",
+   "object": "Harvard",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "citing his Harvard colleague B. F. Skinner and his analysis of language in Verbal Behavior.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Willard Van Orman Quine",
+   "type": "other",
+   "object": "B. F. Skinner",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Quine believes, with all due respect to his \"great friend\" Skinner, that the ultimate reason is to be found in neurology and not in behavior.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Willard Van Orman Quine",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q214969.txt#1",
+ "meta": {
+  "title": "Wikipedia (en): Willard Van Orman Quine",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

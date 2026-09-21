@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Gerrit Jan Meulenbeld",
+   "birth_year": 1928,
+   "death_year": 2017,
+   "nationality": "Dutch",
+   "field": "Indology"
+  },
+  {
+   "name": "Jan Gonda",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Hans Bakker",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Gerrit Jan Meulenbeld",
+   "type": "student_of",
+   "object": "Jan Gonda",
+   "role": "teacher",
+   "place": "Utrecht University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied medicine, and Indology under Jan Gonda, at Utrecht University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gerrit Jan Meulenbeld",
+   "type": "studied_at",
+   "object": "Utrecht University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied medicine, and Indology under Jan Gonda, at Utrecht University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gerrit Jan Meulenbeld",
+   "type": "position_at",
+   "object": "University of Groningen",
+   "role": "associate professor of Indology",
+   "place": "Groningen",
+   "year_start": 1978,
+   "year_end": 1986,
+   "explicit": true,
+   "evidence": "From 1978 he worked as associate professor of Indology at the University of Groningen and as a psychiatrist at the Van Mesdagkliniek also in Groningen. In 1986 accepted a full-time job at the Van Mesdagkliniek",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Gerrit Jan Meulenbeld",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q5552572.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Gerrit Jan Meulenbeld",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

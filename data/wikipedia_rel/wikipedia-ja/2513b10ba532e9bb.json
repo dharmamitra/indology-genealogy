@@ -1,0 +1,93 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ホーラス・ヘイマン・ウィルソン",
+   "birth_year": 1786,
+   "death_year": 1860,
+   "nationality": "イギリス",
+   "field": "東洋学者"
+  },
+  {
+   "name": "チャールズ・ウィルキンズ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ホーラス・ヘイマン・ウィルソン",
+   "type": "position_at",
+   "object": "ベンガル・アジア協会",
+   "role": "書記",
+   "place": null,
+   "year_start": 1811,
+   "year_end": 1832,
+   "explicit": true,
+   "evidence": "1811年から1832年までベンガル・アジア協会の書記をつとめた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ホーラス・ヘイマン・ウィルソン",
+   "type": "position_at",
+   "object": "オックスフォード大学",
+   "role": "初代サンスクリット教授",
+   "place": null,
+   "year_start": 1832,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1832年にオックスフォード大学の初代サンスクリット教授に就任した",
+   "quote_ok": true
+  },
+  {
+   "subject": "ホーラス・ヘイマン・ウィルソン",
+   "type": "position_at",
+   "object": "東インド会社図書館",
+   "role": "司書",
+   "place": null,
+   "year_start": 1836,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1836年にはチャールズ・ウィルキンズをついで東インド会社図書館の司書に任命された。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ホーラス・ヘイマン・ウィルソン",
+   "type": "succeeded",
+   "object": "チャールズ・ウィルキンズ",
+   "role": "東インド会社図書館の司書",
+   "place": "東インド会社図書館",
+   "year_start": 1836,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1836年にはチャールズ・ウィルキンズをついで東インド会社図書館の司書に任命された。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ホーラス・ヘイマン・ウィルソン",
+   "type": "position_at",
+   "object": "王立アジア協会",
+   "role": "理事",
+   "place": null,
+   "year_start": 1837,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ウィルソンは1823年の王立アジア協会の創立時からの会員であり、1837年には理事に選ばれた。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ホーラス・ヘイマン・ウィルソン",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q2560881.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ホーラス・ヘイマン・ウィルソン",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

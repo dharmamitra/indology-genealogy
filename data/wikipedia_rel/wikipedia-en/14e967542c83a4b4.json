@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Michael Viggo Fausböll",
+   "birth_year": 1821,
+   "death_year": 1908,
+   "nationality": "Danish",
+   "field": "orientalist and  linguist"
+  },
+  {
+   "name": "Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philologist"
+  },
+  {
+   "name": "Dines Andersen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Michael Viggo Fausböll",
+   "type": "studied_at",
+   "object": "University of Copenhagen",
+   "role": "Cand.theol.",
+   "place": null,
+   "year_start": 1838,
+   "year_end": 1847,
+   "explicit": true,
+   "evidence": "He became a student at the University of Copenhagen in 1838 and received his  Cand.theol. in 1847.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Viggo Fausböll",
+   "type": "position_at",
+   "object": "University of Copenhagen",
+   "role": "professor",
+   "place": null,
+   "year_start": 1878,
+   "year_end": 1902,
+   "explicit": true,
+   "evidence": "From 1878 to 1902 Fausbøll was professor   at the University of Copenhagen where he taught Sanskrit and East Indian philology.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Müller",
+   "type": "influenced_by",
+   "object": "Michael Viggo Fausböll",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His Latin translation of the Dhammapada was published in 1855 with a new edition in 1900. It formed the basis for the first complete translation of this text into English, by philologist Max Müller",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Viggo Fausböll",
+   "type": "collaborated_with",
+   "object": "Dines Andersen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "It was published in six volumes, with an additional seventh volume containing the various kinds of indexes to the volumes compiled by Dines Andersen.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Viggo Fausböll",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q481538.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Viggo Fausböll",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

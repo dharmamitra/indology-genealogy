@@ -1,0 +1,181 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Erich Haenisch",
+   "birth_year": 1880,
+   "death_year": 1966,
+   "nationality": "German",
+   "field": "Sinology, Mongolian studies, Manchu"
+  },
+  {
+   "name": "Wilhelm Grube",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "George A. Kennedy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "Sinology"
+  },
+  {
+   "name": "Henri Maspero",
+   "birth_year": null,
+   "death_year": 1945,
+   "nationality": "French",
+   "field": "Sinology"
+  },
+  {
+   "name": "Wolf Haenisch",
+   "birth_year": 1908,
+   "death_year": null,
+   "nationality": null,
+   "field": "Japanology"
+  },
+  {
+   "name": "Herbert Franke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Erich Haenisch",
+   "type": "student_of",
+   "object": "Wilhelm Grube",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er war Schüler von Wilhelm Grube.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Erich Haenisch",
+   "type": "studied_at",
+   "object": "Universität Berlin",
+   "role": "Promotion",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": 1904,
+   "explicit": true,
+   "evidence": "einem Studium der Sinologie an der Universität in Berlin zugewandt. Nach Abschluss und erfolgreicher Promotion 1904",
+   "quote_ok": true
+  },
+  {
+   "subject": "Erich Haenisch",
+   "type": "position_at",
+   "object": "Museum für Völkerkunde",
+   "role": "wissenschaftlicher Assistent",
+   "place": "Berlin",
+   "year_start": 1912,
+   "year_end": 1913,
+   "explicit": true,
+   "evidence": "In Berlin erhielt Haenisch 1912 eine Stelle als wissenschaftlicher Assistent am Museum für Völkerkunde. Von dort wechselte er ein Jahr später",
+   "quote_ok": true
+  },
+  {
+   "subject": "Erich Haenisch",
+   "type": "position_at",
+   "object": "Universität Berlin",
+   "role": "Privatdozent und außerordentlicher Professor",
+   "place": "Berlin",
+   "year_start": 1913,
+   "year_end": 1925,
+   "explicit": true,
+   "evidence": "Von dort wechselte er ein Jahr später an die Universität Berlin, wo er als Privatdozent und ab 1920 als außerordentlicher Professor eingesetzt wurde.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Erich Haenisch",
+   "type": "position_at",
+   "object": "Universität Göttingen",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": 1925,
+   "year_end": 1925,
+   "explicit": true,
+   "evidence": "Ab 1925 lehrte er kurzzeitig an der Universität Göttingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Erich Haenisch",
+   "type": "position_at",
+   "object": "Universität Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": 1925,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wechselte aber noch im selben Jahr an die Universität Leipzig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Erich Haenisch",
+   "type": "position_at",
+   "object": "Universität Berlin",
+   "role": "Professor für Sinologie",
+   "place": "Berlin",
+   "year_start": 1932,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ab 1932 kehrte er als Professor für Sinologie an die Universität Berlin zurück.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Erich Haenisch",
+   "type": "position_at",
+   "object": "München",
+   "role": "Professor der ostasiatischen Kultur und Sprachwissenschaften",
+   "place": "München",
+   "year_start": 1927,
+   "year_end": 1951,
+   "explicit": true,
+   "evidence": "Parallel dazu war er von 1927 bis 1951 Professor der ostasiatischen Kultur und Sprachwissenschaften in München.",
+   "quote_ok": true
+  },
+  {
+   "subject": "George A. Kennedy",
+   "type": "student_of",
+   "object": "Erich Haenisch",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Haenisch hatte umfangreiche internationale Kontakte und war auch akademischer Lehrer ausländischer Sinologen wie des US-Amerikaners George A. Kennedy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wolf Haenisch",
+   "type": "other",
+   "object": "Erich Haenisch",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Der Japanologe und Bibliotheksdirektor Wolf Haenisch, der 1908 in China geboren wurde, war sein Sohn.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Erich Haenisch",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q74379.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Erich Haenisch",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

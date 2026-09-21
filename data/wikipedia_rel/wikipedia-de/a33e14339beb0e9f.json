@@ -1,0 +1,124 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Bruno Lindner",
+   "birth_year": 1853,
+   "death_year": 1930,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Wilhelm Bruno Lindner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Friedrich Wilhelm Lindner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Bruno Lindner",
+   "type": "studied_at",
+   "object": "Universität Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": 1871,
+   "year_end": 1873,
+   "explicit": true,
+   "evidence": "Bruno Lindner studierte vom Wintersemester 1871/72 bis zum Sommersemester 1873 an der Universität Leipzig Philologie.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bruno Lindner",
+   "type": "position_at",
+   "object": "Universität Leipzig",
+   "role": "Privatdozent",
+   "place": "Leipzig",
+   "year_start": 1878,
+   "year_end": 1887,
+   "explicit": true,
+   "evidence": "Vom Wintersemester 1878/79 bis zum Sommersemester 1887 lehrte er als Privatdozent persische und indische Philologie.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bruno Lindner",
+   "type": "position_at",
+   "object": "Universität Leipzig",
+   "role": "außerordentlicher Professor",
+   "place": "Leipzig",
+   "year_start": 1887,
+   "year_end": 1919,
+   "explicit": true,
+   "evidence": "Vom Wintersemester 1887/88 bis zum Wintersemester 1918/19 war er außerordentlicher Professor an der Universität Leipzig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Bruno Lindner",
+   "type": "position_at",
+   "object": "Universität Leipzig",
+   "role": "Professor",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "schon sein Vater Wilhelm Bruno Lindner und sein Großvater Friedrich Wilhelm Lindner waren Professoren an der Universität Leipzig gewesen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Wilhelm Lindner",
+   "type": "position_at",
+   "object": "Universität Leipzig",
+   "role": "Professor",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "schon sein Vater Wilhelm Bruno Lindner und sein Großvater Friedrich Wilhelm Lindner waren Professoren an der Universität Leipzig gewesen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bruno Lindner",
+   "type": "other",
+   "object": "Wilhelm Bruno Lindner",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "schon sein Vater Wilhelm Bruno Lindner und sein Großvater Friedrich Wilhelm Lindner waren Professoren an der Universität Leipzig gewesen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bruno Lindner",
+   "type": "other",
+   "object": "Friedrich Wilhelm Lindner",
+   "role": "grandfather",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "schon sein Vater Wilhelm Bruno Lindner und sein Großvater Friedrich Wilhelm Lindner waren Professoren an der Universität Leipzig gewesen.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Bruno Lindner",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q993491.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Bruno Lindner",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

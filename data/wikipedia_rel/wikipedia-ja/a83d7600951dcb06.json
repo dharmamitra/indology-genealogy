@@ -1,0 +1,179 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "竹田晃",
+   "birth_year": 1930,
+   "death_year": 2021,
+   "nationality": "日本",
+   "field": "中国文学"
+  },
+  {
+   "name": "倉石武四郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "竹田復",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "中国文学"
+  },
+  {
+   "name": "竹田宏",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "竹田晃",
+   "type": "studied_at",
+   "object": "東京大学文学部中国文学科",
+   "role": null,
+   "place": null,
+   "year_start": 1949,
+   "year_end": 1953,
+   "explicit": true,
+   "evidence": "1949年春に東京大学に入学。... 1953年、東京大学文学部中国文学科を卒業。",
+   "quote_ok": true
+  },
+  {
+   "subject": "竹田晃",
+   "type": "studied_at",
+   "object": "東京大学大学院",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1959,
+   "explicit": true,
+   "evidence": "1959年に同大学院中国語中国文学専門博士課程を単位取得満期退学。",
+   "quote_ok": true
+  },
+  {
+   "subject": "竹田晃",
+   "type": "student_of",
+   "object": "倉石武四郎",
+   "role": "指導教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "大学院博士課程進級にあたって指導教授の倉石武四郎より野球部監督を辞めて研究に専念するよう命じられ",
+   "quote_ok": true
+  },
+  {
+   "subject": "竹田晃",
+   "type": "position_at",
+   "object": "東京大学文学部",
+   "role": "助手",
+   "place": null,
+   "year_start": 1961,
+   "year_end": 1965,
+   "explicit": true,
+   "evidence": "1961年、東京大学文学部助手に採用された。",
+   "quote_ok": true
+  },
+  {
+   "subject": "竹田晃",
+   "type": "position_at",
+   "object": "東京大学教養学部",
+   "role": "教授",
+   "place": null,
+   "year_start": 1965,
+   "year_end": 1991,
+   "explicit": true,
+   "evidence": "1965年、同大学教養学部講師、後に助教授、教授昇進。評議員、教養学部長もつとめた。1991年に東京大学を定年退官し、名誉教授となった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "竹田晃",
+   "type": "position_at",
+   "object": "東京女子大学",
+   "role": "教授",
+   "place": null,
+   "year_start": 1991,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "その後は東京女子大学教授、続いて明海大学教授として教鞭をとった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "竹田晃",
+   "type": "position_at",
+   "object": "明海大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "続いて明海大学教授として教鞭をとった。明海大学退任後、明海大学名誉教授となった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "竹田晃",
+   "type": "other",
+   "object": "竹田復",
+   "role": "父",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "父：竹田復は同じく中国文学者。東京教育大学名誉教授。",
+   "quote_ok": true
+  },
+  {
+   "subject": "竹田復",
+   "type": "position_at",
+   "object": "東京教育大学",
+   "role": "名誉教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "父：竹田復は同じく中国文学者。東京教育大学名誉教授。",
+   "quote_ok": true
+  },
+  {
+   "subject": "竹田晃",
+   "type": "other",
+   "object": "竹田宏",
+   "role": "弟",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "弟：竹田宏は大東文化大学元教授。",
+   "quote_ok": true
+  },
+  {
+   "subject": "竹田宏",
+   "type": "position_at",
+   "object": "大東文化大学",
+   "role": "元教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "弟：竹田宏は大東文化大学元教授。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 竹田晃",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q11599345.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 竹田晃",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

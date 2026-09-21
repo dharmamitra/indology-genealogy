@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Hsing Yun",
+   "birth_year": 1927,
+   "death_year": 2023,
+   "nationality": "Chinese",
+   "field": null
+  },
+  {
+   "name": "Zhikai",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ruoshun",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Taixu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hsing Yun",
+   "type": "student_of",
+   "object": "Zhikai",
+   "role": "traditional teacher",
+   "place": "Qixia Temple",
+   "year_start": 1938,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1938 he entered the monastic life at the age of 12, ordaining as a novice at Qixia Temple under Zhikai, where he received the novice name Jinjue.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hsing Yun",
+   "type": "student_of",
+   "object": "Ruoshun",
+   "role": "traditional teacher",
+   "place": "Qixia Temple",
+   "year_start": 1941,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He received the upasampadā vinaya precepts under Ruoshun at the same temple in 1941 and received the dharma name Wuche.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hsing Yun",
+   "type": "studied_at",
+   "object": "Jiaoshan Buddhist College",
+   "role": null,
+   "place": null,
+   "year_start": 1945,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hsing Yun was first inspired by Buddhist modernism in 1945 while studying at Jiaoshan Buddhist College.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hsing Yun",
+   "type": "influenced_by",
+   "object": "Taixu",
+   "role": null,
+   "place": null,
+   "year_start": 1945,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "There he learned about Buddhist teacher Taixu's calls for reform in Buddhism and the Sangha.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hsing Yun",
+   "type": "founded",
+   "object": "Fo Guang Shan Buddhist monastic order",
+   "role": null,
+   "place": "Kaohsiung",
+   "year_start": 1967,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was the founder of the Fo Guang Shan Buddhist monastic order",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hsing Yun",
+   "type": "founded",
+   "object": "Buddha's Light International Association",
+   "role": null,
+   "place": null,
+   "year_start": 1985,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Following his resignation, Hsing Yun founded the Buddha's Light International Association (BLIA) as a layperson based Humanistic Buddhist organization.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hsing Yun",
+   "type": "position_at",
+   "object": "Fo Guang Shan",
+   "role": "abbot",
+   "place": null,
+   "year_start": null,
+   "year_end": 1985,
+   "explicit": true,
+   "evidence": "Hsing Yun himself was the abbot of the order until his resignation in 1985.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Hsing Yun",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q712634.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Hsing Yun",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

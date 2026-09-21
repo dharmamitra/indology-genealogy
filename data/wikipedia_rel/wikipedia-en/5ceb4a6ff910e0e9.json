@@ -1,0 +1,167 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sheng Yen",
+   "birth_year": 1931,
+   "death_year": 2009,
+   "nationality": "Taiwanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Dongchu",
+   "birth_year": 1908,
+   "death_year": 1977,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Dan Stevenson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "John Crook",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sheng Yen",
+   "type": "student_of",
+   "object": "Dongchu",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In the Caodong (Japanese: Sōtō) lineage, Sheng Yen was a 52nd-generation Dharma heir of Dongshan Liangjie (807-869), and a direct Dharma heir of Dongchu (1908–1977).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sheng Yen",
+   "type": "position_at",
+   "object": "Shan Dao Monastery",
+   "role": "lecturer",
+   "place": "Taipei",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sheng Yen became a lecturer at Shan Dao Monastery in Taipei",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sheng Yen",
+   "type": "studied_at",
+   "object": "Rissho University",
+   "role": "master's degree",
+   "place": "Japan",
+   "year_start": null,
+   "year_end": 1971,
+   "explicit": true,
+   "evidence": "then completed a master's degree (1971) and doctorate (1975) in Buddhist literature at Rissho University in Japan.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sheng Yen",
+   "type": "studied_at",
+   "object": "Rissho University",
+   "role": "doctorate",
+   "place": "Japan",
+   "year_start": null,
+   "year_end": 1975,
+   "explicit": true,
+   "evidence": "then completed a master's degree (1971) and doctorate (1975) in Buddhist literature at Rissho University in Japan.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sheng Yen",
+   "type": "founded",
+   "object": "Dharma Drum Mountain",
+   "role": null,
+   "place": "Taiwan",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sheng Yen was the founder of the Dharma Drum Mountain, a Buddhist organization based in Taiwan.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sheng Yen",
+   "type": "founded",
+   "object": "Institute of Chung-Hwa Buddhist Culture",
+   "role": null,
+   "place": "New York City",
+   "year_start": 1979,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "founder of the Institute of Chung-Hwa Buddhist Culture in New York City in 1979.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sheng Yen",
+   "type": "founded",
+   "object": "Institute of Chung-Hwa Buddhist Studies",
+   "role": null,
+   "place": "Taipei",
+   "year_start": 1985,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1985, he founded the Institute of Chung-Hwa Buddhist Studies in Taipei",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sheng Yen",
+   "type": "founded",
+   "object": "International Cultural and Educational Foundation of Dharma Drum Mountain",
+   "role": null,
+   "place": null,
+   "year_start": 1989,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and the International Cultural and Educational Foundation of Dharma Drum Mountain in 1989.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sheng Yen",
+   "type": "collaborated_with",
+   "object": "Dan Stevenson",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2002,
+   "explicit": true,
+   "evidence": "Sheng Yen and Dan Stevenson, Hoofprint of the Ox: Principles of the Chan Buddhist Path As Taught by a Modern Chinese Master. Oxford University Press, 2002.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Crook",
+   "type": "student_of",
+   "object": "Sheng Yen",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sheng Yen gave dharma transmission to several of his lay Western students, such as John Crook",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Sheng-yen",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q712896.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Sheng-yen",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

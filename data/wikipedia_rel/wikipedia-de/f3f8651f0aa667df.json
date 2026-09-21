@@ -1,0 +1,129 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "A. K. Ramanujan",
+   "birth_year": 1929,
+   "death_year": 1993,
+   "nationality": "indisch-amerikanischer",
+   "field": "Indologe, Dichter und Übersetzer"
+  },
+  {
+   "name": "A. A. Krishnaswami Ayyangar",
+   "birth_year": 1892,
+   "death_year": 1953,
+   "nationality": "indisch",
+   "field": "Mathematiker"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "A. K. Ramanujan",
+   "type": "position_at",
+   "object": "University of Chicago",
+   "role": "Dozent / Assistant Professor / Associate Professor / Professor",
+   "place": "Chicago",
+   "year_start": 1962,
+   "year_end": 1993,
+   "explicit": true,
+   "evidence": "lehrte von 1962 bis zu seinem Tod an der University of Chicago.",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. A. Krishnaswami Ayyangar",
+   "type": "position_at",
+   "object": "University of Mysore",
+   "role": "Professor",
+   "place": "Mysore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Der Vater A. A. Krishnaswami Ayyangar (1892–1953) war ein Mathematiker und Professor an der University of Mysore.",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. K. Ramanujan",
+   "type": "other",
+   "object": "A. A. Krishnaswami Ayyangar",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Der Vater A. A. Krishnaswami Ayyangar (1892–1953) war ein Mathematiker und Professor an der University of Mysore.",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. K. Ramanujan",
+   "type": "studied_at",
+   "object": "Maharaja’s College der University of Mysore",
+   "role": "Master",
+   "place": "Mysore",
+   "year_start": 1944,
+   "year_end": 1950,
+   "explicit": true,
+   "evidence": "1944 begann er ein Studium der Naturwissenschaften am Maharaja’s College der University of Mysore. 1946 wechselte er sein Studienfach aber in Anglistik... 1950 schloss Ramanujan sein Studium mit einem Master in englischer Literatur ab.",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. K. Ramanujan",
+   "type": "studied_at",
+   "object": "Indiana University Bloomington",
+   "role": "PhD",
+   "place": "Bloomington",
+   "year_start": 1959,
+   "year_end": 1963,
+   "explicit": true,
+   "evidence": "1959 kam Ramanujan als Fulbright-Stipendiat in die Vereinigten Staaten, um an der Indiana University Bloomington in Linguistik zu promovieren. Für seine Dissertation über die generative Grammatik des Kannada erhielt er 1963 den Ph.D.-Grad.",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. K. Ramanujan",
+   "type": "position_at",
+   "object": "University of Chicago",
+   "role": "Assistant Professor für Linguistik und Dravidistik",
+   "place": "Chicago",
+   "year_start": 1962,
+   "year_end": 1966,
+   "explicit": true,
+   "evidence": "Bereits 1962 hatte er eine Stelle als Assistant Professor für Linguistik und Dravidistik an der University of Chicago angetreten.",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. K. Ramanujan",
+   "type": "position_at",
+   "object": "University of Chicago",
+   "role": "Associate Professor",
+   "place": "Chicago",
+   "year_start": 1966,
+   "year_end": 1968,
+   "explicit": true,
+   "evidence": "1966 wurde Ramanujan zum Associate Professor befördert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. K. Ramanujan",
+   "type": "position_at",
+   "object": "University of Chicago",
+   "role": "ordentlicher Professor für Dravidistik und Linguistik",
+   "place": "Chicago",
+   "year_start": 1968,
+   "year_end": 1993,
+   "explicit": true,
+   "evidence": "1968 wurde Ramanujan schließlich zum ordentlichen Professor für Dravidistik und Linguistik an der University of Chicago ernannt. Diese Position behielt er bis zu seinem Lebensende bei.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): A. K. Ramanujan",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q3519662.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): A. K. Ramanujan",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

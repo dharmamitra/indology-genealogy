@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "William Carey",
+   "birth_year": 1761,
+   "death_year": 1834,
+   "nationality": "English",
+   "field": null
+  },
+  {
+   "name": "Ram Ram Basu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Joshua Marshman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "William Ward",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Carey",
+   "type": "founded",
+   "object": "Serampore College",
+   "role": null,
+   "place": "Serampore",
+   "year_start": 1818,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "William Carey (17 August 1761 – 9 June 1834) was an English Christian missionary... who founded the Serampore College and the Serampore University",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Carey",
+   "type": "founded",
+   "object": "Serampore University",
+   "role": null,
+   "place": "Serampore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "who founded the Serampore College and the Serampore University, the first degree-awarding university in India",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Carey",
+   "type": "position_at",
+   "object": "Fort William College",
+   "role": "professor of Bengali",
+   "place": null,
+   "year_start": 1801,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The same year, the Governor-General founded Fort William College, a college intended to educate civil servants. He offered Carey the position of professor of Bengali.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Carey",
+   "type": "student_of",
+   "object": "Ram Ram Basu",
+   "role": "teacher",
+   "place": "Fort William College",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "One of his colleagues was his Munshi, Ram Ram Basu who taught him Sanskrit and other Indian languages.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Carey",
+   "type": "collaborated_with",
+   "object": "William Ward",
+   "role": null,
+   "place": "Serampore",
+   "year_start": 1799,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In May 1799 William Ward and Hannah and Joshua Marshman arrived from England and joined Carey in his work. The three men became known as the Serampore trio.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Carey",
+   "type": "collaborated_with",
+   "object": "Joshua Marshman",
+   "role": null,
+   "place": "Serampore",
+   "year_start": 1799,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In May 1799 William Ward and Hannah and Joshua Marshman arrived from England and joined Carey in his work. The three men became known as the Serampore trio.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Carey",
+   "type": "founded",
+   "object": "Agri Horticultural Society of India",
+   "role": null,
+   "place": "Alipore, Calcutta",
+   "year_start": 1820,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1820 Carey founded the Agri Horticultural Society of India at Alipore, Calcutta, supporting his enthusiasm for botany.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): William Carey (missionary)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q312948.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): William Carey (missionary)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

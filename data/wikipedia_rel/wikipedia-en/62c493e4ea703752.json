@@ -1,0 +1,119 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Victor Chan",
+   "birth_year": 1945,
+   "death_year": null,
+   "nationality": "Canadian",
+   "field": "physicist"
+  },
+  {
+   "name": "14th Dalai Lama",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Michael Aris",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  },
+  {
+   "name": "Pitman B. Potter",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Asian studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Victor Chan",
+   "type": "studied_at",
+   "object": "University of Chicago",
+   "role": "graduate student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He performed his graduate studies at the Enrico Fermi Institute  of the University of Chicago in the field of particle physics.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Victor Chan",
+   "type": "collaborated_with",
+   "object": "14th Dalai Lama",
+   "role": "co-author",
+   "place": null,
+   "year_start": 2004,
+   "year_end": 2013,
+   "explicit": true,
+   "evidence": "Co-author with him of two essays, he also wrote a guide of pilgrimage to Tibet.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pitman B. Potter",
+   "type": "position_at",
+   "object": "Institute of Asian Research at the University of British Columbia",
+   "role": "director",
+   "place": "Vancouver",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "With Pitman B. Potter, director of the Institute of Asian Research at the University of British Columbia",
+   "quote_ok": true
+  },
+  {
+   "subject": "Victor Chan",
+   "type": "collaborated_with",
+   "object": "Pitman B. Potter",
+   "role": null,
+   "place": "Vancouver",
+   "year_start": 2004,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "With Pitman B. Potter, Victor Chan founded a Tibetan studies program.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Victor Chan",
+   "type": "founded",
+   "object": "Tibetan studies program",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "With Pitman B. Potter, Victor Chan founded a Tibetan studies program.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Victor Chan",
+   "type": "founded",
+   "object": "Dalai Lama Center for Peace and Education",
+   "role": null,
+   "place": "Vancouver",
+   "year_start": 2005,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Victor Chan founded the Dalai Lama Center for Peace and Education in Vancouver in 2005.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Victor Chan",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q15711693.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Victor Chan",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

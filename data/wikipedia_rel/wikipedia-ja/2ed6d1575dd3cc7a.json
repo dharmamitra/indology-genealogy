@@ -1,0 +1,124 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ヨハン・カール・ローゼンクランツ",
+   "birth_year": 1805,
+   "death_year": 1879,
+   "nationality": "ドイツ",
+   "field": "哲学"
+  },
+  {
+   "name": "ヘーゲル",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "哲学"
+  },
+  {
+   "name": "フリードリッヒ・シュライエルマッハー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "哲学"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ヨハン・カール・ローゼンクランツ",
+   "type": "studied_at",
+   "object": "ベルリン大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ベルリン大学、ハレ大学、ハイデルベルク大学の各大学で哲学を学ぶ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヨハン・カール・ローゼンクランツ",
+   "type": "studied_at",
+   "object": "ハレ大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ベルリン大学、ハレ大学、ハイデルベルク大学の各大学で哲学を学ぶ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヨハン・カール・ローゼンクランツ",
+   "type": "studied_at",
+   "object": "ハイデルベルク大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ベルリン大学、ハレ大学、ハイデルベルク大学の各大学で哲学を学ぶ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヨハン・カール・ローゼンクランツ",
+   "type": "position_at",
+   "object": "ハレ大学",
+   "role": "助教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ハレ大学助教授次いで、1833年にケーニヒスベルク大学教授に就任。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヨハン・カール・ローゼンクランツ",
+   "type": "position_at",
+   "object": "ケーニヒスベルク大学",
+   "role": "教授",
+   "place": null,
+   "year_start": 1833,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1833年にケーニヒスベルク大学教授に就任。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヨハン・カール・ローゼンクランツ",
+   "type": "influenced_by",
+   "object": "ヘーゲル",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ヘーゲルとフリードリッヒ・シュライエルマッハーの哲学を専門とした。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヨハン・カール・ローゼンクランツ",
+   "type": "influenced_by",
+   "object": "フリードリッヒ・シュライエルマッハー",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ヘーゲルとフリードリッヒ・シュライエルマッハーの哲学を専門とした。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ヨハン・カール・ローゼンクランツ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q62315.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ヨハン・カール・ローゼンクランツ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

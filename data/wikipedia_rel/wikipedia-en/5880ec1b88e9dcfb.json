@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Agvan Lobsan Dorzhiev",
+   "birth_year": 1853,
+   "death_year": 1938,
+   "nationality": "Russian",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "13th Dalai Lama",
+   "birth_year": 1876,
+   "death_year": 1933,
+   "nationality": "Tibetan",
+   "field": null
+  },
+  {
+   "name": "Thubten Chökyi Nyima",
+   "birth_year": 1883,
+   "death_year": 1937,
+   "nationality": "Tibetan",
+   "field": null
+  },
+  {
+   "name": "Prince Esper Ukhtomsky",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Russian",
+   "field": "orientalist"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Agvan Lobsan Dorzhiev",
+   "type": "studied_at",
+   "object": "Gomang College of the Gelugpa Drepung monastic university",
+   "role": "Geshey Lharampa",
+   "place": "near Lhasa",
+   "year_start": 1873,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He left home in 1873 at nineteen to study at the Gomang College of the Gelugpa Drepung monastic university, near Lhasa, the largest monastery in Tibet. Having successfully completed the traditional course of religious studies, he began the academic Buddhist degree of Geshey Lharampa",
+   "quote_ok": true
+  },
+  {
+   "subject": "13th Dalai Lama",
+   "type": "student_of",
+   "object": "Agvan Lobsan Dorzhiev",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He became one of the 13th Dalai Lama's teachers, a 'debating partner', and a spiritual adviser, and retained this role until at least the late 1910s.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Agvan Lobsan Dorzhiev",
+   "type": "student_of",
+   "object": "Thubten Chökyi Nyima",
+   "role": "traditional teacher",
+   "place": "Tashilhunpo",
+   "year_start": 1901,
+   "year_end": 1901,
+   "explicit": true,
+   "evidence": "Although Dorzhiev only stayed for two days at Tashilhunpo, he received some secret teachings from the Panchen Lama, as well as readings of the Prayer of Shambhala",
+   "quote_ok": true
+  },
+  {
+   "subject": "Agvan Lobsan Dorzhiev",
+   "type": "other",
+   "object": "Prince Esper Ukhtomsky",
+   "role": "friend",
+   "place": "Saint Petersburg",
+   "year_start": 1898,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In early 1898 Dorzhiev went to Saint Petersburg \"to collect subscriptions for his monastic college\" and became friendly with Prince Esper Ukhtomsky, Gentleman of the Bedchamber to the Tsar and orientalist.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Agvan Lobsan Dorzhiev",
+   "type": "founded",
+   "object": "manba datsan, a medical college, at the monastery of Atsagat",
+   "role": null,
+   "place": "Atsagat",
+   "year_start": 1913,
+   "year_end": 1913,
+   "explicit": true,
+   "evidence": "Also in 1913, Dorzhiev founded a manba datsan, a medical college, at the monastery of Atsagat.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Agvan Dorzhiev",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q551586.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Agvan Dorzhiev",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,174 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Johannes Nobel",
+   "birth_year": 1887,
+   "death_year": 1960,
+   "nationality": "German",
+   "field": "Indologe und Buddhismuskundler"
+  },
+  {
+   "name": "Hermann Lüders",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Wilhelm Rau",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Claus Vogel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Friedrich Rückert",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johannes Nobel",
+   "type": "studied_at",
+   "object": "Universität Greifswald",
+   "role": null,
+   "place": null,
+   "year_start": 1907,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nobel studierte nach dem Abitur am Königlichen Gymnasium Fulda zunächst ab 1907 an der Universität Greifswald",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Nobel",
+   "type": "studied_at",
+   "object": "Friedrich-Wilhelms-Universität Berlin",
+   "role": null,
+   "place": null,
+   "year_start": 1908,
+   "year_end": 1911,
+   "explicit": true,
+   "evidence": "ab 1908 dann an der Friedrich-Wilhelms-Universität Berlin Indogermanistik, Arabisch, Türkisch und Sanskrit. 1911 promovierte er bei Hermann Lüders",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Nobel",
+   "type": "student_of",
+   "object": "Hermann Lüders",
+   "role": "doctoral supervisor",
+   "place": "Friedrich-Wilhelms-Universität Berlin",
+   "year_start": null,
+   "year_end": 1911,
+   "explicit": true,
+   "evidence": "1911 promovierte er bei Hermann Lüders mit einer indologischen Arbeit über Beiträge zur älteren Geschichte des Alamkãraśāstra",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Nobel",
+   "type": "position_at",
+   "object": "Königliche Bibliothek zu Berlin",
+   "role": "Bibliothekar",
+   "place": "Berlin",
+   "year_start": 1915,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1915 legte er die bibliothekarische Fachprüfung ab und fand Anstellung an der Königlichen Bibliothek zu Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Nobel",
+   "type": "position_at",
+   "object": "Preußische Staatsbibliothek",
+   "role": "Bibliotheksrat",
+   "place": null,
+   "year_start": 1920,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im März 1920 wechselte Nobel als Bibliotheksrat an die Preußischen Staatsbibliothek",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Nobel",
+   "type": "studied_at",
+   "object": "Berliner Universität",
+   "role": "Habilitation",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": 1920,
+   "explicit": true,
+   "evidence": "habilitierte sich im selben Jahr mit einer Arbeit über indische Poetik und erhielt 1921 an der Berliner Universität eine Lehrbefugnis für Indische Philologie.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Nobel",
+   "type": "position_at",
+   "object": "Berliner Universität",
+   "role": "außerplanmäßiger Professor",
+   "place": "Berlin",
+   "year_start": 1927,
+   "year_end": 1928,
+   "explicit": true,
+   "evidence": "1927 wurde Nobel in Berlin zum außerplanmäßigen Professor ernannt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Nobel",
+   "type": "position_at",
+   "object": "Universität Marburg",
+   "role": "Lehrstuhl für Indologie",
+   "place": "Marburg",
+   "year_start": 1928,
+   "year_end": 1955,
+   "explicit": true,
+   "evidence": "Zum 1. April 1928 folgte er einem Ruf auf den Lehrstuhl für Indologie an der Universität Marburg, den er bis zu seiner Emeritierung im Jahr 1955 innehatte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Rau",
+   "type": "succeeded",
+   "object": "Johannes Nobel",
+   "role": "Lehrstuhl für Indologie",
+   "place": "Universität Marburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sein Nachfolger auf dem Marburger Lehrstuhl wurde Wilhelm Rau",
+   "quote_ok": true
+  },
+  {
+   "subject": "Claus Vogel",
+   "type": "student_of",
+   "object": "Johannes Nobel",
+   "role": "teacher",
+   "place": "Marburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "zu Nobels Marburger Schülern gehört Claus Vogel.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Johannes Nobel",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1698096.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Johannes Nobel",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

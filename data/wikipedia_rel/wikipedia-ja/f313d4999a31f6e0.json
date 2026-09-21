@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ブライアン・ホートン・ホジソン",
+   "birth_year": 1800,
+   "death_year": 1894,
+   "nationality": "イギリス",
+   "field": "博物学、民族学、東洋学"
+  },
+  {
+   "name": "ウジェーヌ・ビュルヌフ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ブライアン・ホートン・ホジソン",
+   "type": "studied_at",
+   "object": "東インド会社カレッジ",
+   "role": null,
+   "place": null,
+   "year_start": 1816,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1816年にイギリス東インド会社の書記官(writer)候補として東インド会社カレッジで学び",
+   "quote_ok": true
+  },
+  {
+   "subject": "ブライアン・ホートン・ホジソン",
+   "type": "collaborated_with",
+   "object": "ウジェーヌ・ビュルヌフ",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ホジソンは『法華経』ほかのサンスクリット写本をウジェーヌ・ビュルヌフのもとに送った。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ブライアン・ホートン・ホジソン",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q735026.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ブライアン・ホートン・ホジソン",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

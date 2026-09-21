@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Bruno Schindler",
+   "birth_year": 1882,
+   "death_year": 1964,
+   "nationality": "deutsch-britischer",
+   "field": "Sinologie"
+  },
+  {
+   "name": "Moses Gaster",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "August Conrady",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Bruno Schindler",
+   "type": "collaborated_with",
+   "object": "Moses Gaster",
+   "role": "Privatsekretär",
+   "place": "England",
+   "year_start": 1907,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "Von 1907 bis 1910 war als Privatsekretär von Moses Gaster in England.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bruno Schindler",
+   "type": "student_of",
+   "object": "August Conrady",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1919,
+   "explicit": true,
+   "evidence": "So promovierte er 1919 mit einer Arbeit zur Religion im frühen China bei August Conrady.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bruno Schindler",
+   "type": "founded",
+   "object": "Asia Major",
+   "role": null,
+   "place": null,
+   "year_start": 1920,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "unterstützte. Die gleichnamige, von ihm herausgegebene Zeitschrift Asia Major, gilt als eine der maßgeblichsten der frühen europäischen Sinologie.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bruno Schindler",
+   "type": "position_at",
+   "object": "Lund Humphries",
+   "role": "Verlagslektor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er wurde Verlagslektor bei Lund Humphries und betreute dort viele Titel in der Abteilung Orientalistik und Slavistik.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Bruno Schindler",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q109153.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Bruno Schindler",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

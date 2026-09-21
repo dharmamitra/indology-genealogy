@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Karel Werner",
+   "birth_year": 1925,
+   "death_year": 2019,
+   "nationality": "Czech",
+   "field": "indologist, orientalist, religious studies scholar, and philosopher of religion"
+  },
+  {
+   "name": "Robert Konečný",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Karel Werner",
+   "type": "position_at",
+   "object": "Philosophical Faculty of Masaryk University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "During his spell in the Philosophical Faculty of Masaryk University he was directed to produce broad surveys of the main religious traditions of Asia",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karel Werner",
+   "type": "student_of",
+   "object": "Robert Konečný",
+   "role": "teacher",
+   "place": "Masaryk University in Brno",
+   "year_start": 1945,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Robert Konečný, his first teacher of philosophy in 1945 at the Masaryk University in Brno.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karel Werner",
+   "type": "studied_at",
+   "object": "Masaryk University in Brno",
+   "role": null,
+   "place": "Brno",
+   "year_start": 1945,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Robert Konečný, his first teacher of philosophy in 1945 at the Masaryk University in Brno.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Karel Werner",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q154093.txt#1",
+ "meta": {
+  "title": "Wikipedia (en): Karel Werner",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

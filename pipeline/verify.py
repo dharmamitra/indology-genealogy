@@ -80,6 +80,8 @@ _docs = {}
 def doc_norm(d):
     """Normalised full text of the source document of a record (None if unavailable)."""
     path = d.get("path", "").split("#")[0] or os.path.join(SRC_DIR, d["docid"] + ".txt")
+    if not os.path.isabs(path):
+        path = os.path.join(DATA, path)
     if path not in _docs:
         try:
             _docs[path] = _norm(open(path, encoding="utf-8", errors="ignore").read())
@@ -106,7 +108,8 @@ def literal(y, quote, d):
 
 def main():
     files = sorted(glob.glob(os.path.join(DATA, "chunks", "*", "*.json")) + glob.glob(os.path.join(DATA, "prefaces", "*", "*.json"))
-                   + glob.glob(os.path.join(DATA, "sections", "*", "*.json")))
+                   + glob.glob(os.path.join(DATA, "sections", "*", "*.json"))
+                   + glob.glob(os.path.join(DATA, "wikipedia_rel", "*", "*.json")))
     items, where = [], []
     verdicts = {}
     for f in files:

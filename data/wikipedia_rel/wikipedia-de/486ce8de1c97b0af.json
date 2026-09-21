@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Christian Karl Josias Bunsen",
+   "birth_year": 1791,
+   "death_year": 1860,
+   "nationality": "preußisch",
+   "field": null
+  },
+  {
+   "name": "Barthold Georg Niebuhr",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Althistoriker"
+  },
+  {
+   "name": "Karl Richard Lepsius",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "ägyptologisches"
+  },
+  {
+   "name": "Heinrich Barth",
+   "birth_year": 1821,
+   "death_year": 1865,
+   "nationality": "deutsch",
+   "field": "Altphilologen und Geographen"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Christian Karl Josias Bunsen",
+   "type": "studied_at",
+   "object": "Marburg",
+   "role": null,
+   "place": "Marburg",
+   "year_start": 1808,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bunsen begann nach dem Abitur 1808 (Alte Landesschule Korbach) in Marburg ein Studium der Theologie",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Karl Josias Bunsen",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": 1809,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "und setzte es bereits 1809 in Göttingen mit Theologie und Philologie fort.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Barthold Georg Niebuhr",
+   "type": "position_at",
+   "object": "Universität Bonn",
+   "role": "Lehrstuhl",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Als Niebuhr einen Ruf auf einen Lehrstuhl an der Universität Bonn als Althistoriker annahm",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Karl Josias Bunsen",
+   "type": "succeeded",
+   "object": "Barthold Georg Niebuhr",
+   "role": "Botschafter in Rom beim Vatikan",
+   "place": "Rom",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Als Niebuhr einen Ruf auf einen Lehrstuhl an der Universität Bonn als Althistoriker annahm, folgte Bunsen ihm als Botschafter in Rom beim Vatikan",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Karl Josias Bunsen",
+   "type": "founded",
+   "object": "Istituto di corrispondenza archeologica",
+   "role": "Mitbegründer",
+   "place": "Rom",
+   "year_start": 1829,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1829 gehörte er zu den Mitbegründern des aus den Hyperboreern hervor gegangenen Istituto di corrispondenza archeologica.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Richard Lepsius",
+   "type": "collaborated_with",
+   "object": "Christian Karl Josias Bunsen",
+   "role": null,
+   "place": "British Museum",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Lepsius kam nach London und bereitete zusammen mit Bunsen die Expedition im British Museum vor.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Richard Lepsius",
+   "type": "position_at",
+   "object": "Berlin",
+   "role": "Lehrstuhl",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Die von 1842 bis 1845 durchgeführte Expedition wurde ein durchschlagender Erfolg, der Lepsius zu einem Lehrstuhl in Berlin verhalf.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Christian Karl Josias von Bunsen",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q67409.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Christian Karl Josias von Bunsen",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

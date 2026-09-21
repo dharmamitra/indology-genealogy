@@ -1,0 +1,45 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "James Tod",
+   "birth_year": 1782,
+   "death_year": 1835,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Sir Walter Scott",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Scottish",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Tod",
+   "type": "influenced_by",
+   "object": "Sir Walter Scott",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Tod's enthusiasm for bardic poetry reflected the works of Sir Walter Scott on Scottish subjects, which had a considerable influence both on British literary society and... on Tod himself.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): James Tod",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1200855.txt#1",
+ "meta": {
+  "title": "Wikipedia (en): James Tod",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

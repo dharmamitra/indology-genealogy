@@ -1,0 +1,86 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Friedrich Hirth",
+   "birth_year": 1845,
+   "death_year": 1927,
+   "nationality": "German-American",
+   "field": "sinologist"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Friedrich Hirth",
+   "type": "studied_at",
+   "object": "University of Leipzig",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was educated at the universities of Leipzig, Berlin, and Greifswald (Ph.D., 1869).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Hirth",
+   "type": "studied_at",
+   "object": "University of Berlin",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was educated at the universities of Leipzig, Berlin, and Greifswald (Ph.D., 1869).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Hirth",
+   "type": "studied_at",
+   "object": "University of Greifswald",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1869,
+   "explicit": true,
+   "evidence": "He was educated at the universities of Leipzig, Berlin, and Greifswald (Ph.D., 1869).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Hirth",
+   "type": "position_at",
+   "object": "Chinese Maritime Customs Service",
+   "role": null,
+   "place": null,
+   "year_start": 1870,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "He was in the Chinese Maritime Customs Service from 1870 to 1897.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Hirth",
+   "type": "position_at",
+   "object": "Columbia University",
+   "role": "Dean Lung Professorship of Chinese",
+   "place": "New York City",
+   "year_start": 1902,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1902, Professor Hirth was appointed to the first Dean Lung Professorship of Chinese at Columbia University (New York City).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Friedrich Hirth",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q252527.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Friedrich Hirth",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

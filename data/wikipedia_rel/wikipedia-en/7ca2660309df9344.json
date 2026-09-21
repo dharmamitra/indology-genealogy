@@ -1,0 +1,102 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "James Fergusson",
+   "birth_year": 1808,
+   "death_year": 1886,
+   "nationality": "Scottish",
+   "field": "architectural historian"
+  },
+  {
+   "name": "William Fergusson",
+   "birth_year": 1773,
+   "death_year": 1846,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "James Burgess",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Richard Phené Spiers",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Austen Henry Layard",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Fergusson",
+   "type": "studied_at",
+   "object": "Royal High School, Edinburgh",
+   "role": null,
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After being educated first at the Royal High School, Edinburgh, and then at a private school in Hounslow",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Fergusson",
+   "type": "other",
+   "object": "William Fergusson",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Fergusson was born in Ayr, the son of William Fergusson (1773–1846) an army surgeon turned medical writer",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Fergusson",
+   "type": "collaborated_with",
+   "object": "Austen Henry Layard",
+   "role": "adviser",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Fergusson was adviser with Austen Henry Layard in the scheme of decoration for the Assyrian court at The Crystal Palace",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Burgess",
+   "type": "collaborated_with",
+   "object": "Richard Phené Spiers",
+   "role": "co-revisers",
+   "place": null,
+   "year_start": 1910,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "The 1876 work was later revised with additions by James Burgess and Richard Phené Spiers in 1910 and published in two volumes.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): James Fergusson (architect)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1225014.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): James Fergusson (architect)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

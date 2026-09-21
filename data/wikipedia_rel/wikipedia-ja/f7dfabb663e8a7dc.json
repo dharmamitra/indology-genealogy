@@ -1,0 +1,119 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ウィリアム・ケアリー",
+   "birth_year": 1761,
+   "death_year": 1834,
+   "nationality": "イギリス",
+   "field": null
+  },
+  {
+   "name": "ジョナサン・エドワーズ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "神学"
+  },
+  {
+   "name": "ジョシュア・マーシュマン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ウィリアム・ウォード",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ウィリアム・ケアリー",
+   "type": "influenced_by",
+   "object": "ジョナサン・エドワーズ",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ジョナサン・エドワーズの神学に深い影響を受けて海外伝道を志し",
+   "quote_ok": true
+  },
+  {
+   "subject": "ウィリアム・ケアリー",
+   "type": "collaborated_with",
+   "object": "ジョシュア・マーシュマン",
+   "role": null,
+   "place": "セランポール",
+   "year_start": 1799,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1799年セランポールでほかバプテスト派の宣教師ジョシュア・マーシュマン、ウィリアム・ウォードと共に、宣教基地のネットワークを作り始める。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ウィリアム・ケアリー",
+   "type": "collaborated_with",
+   "object": "ウィリアム・ウォード",
+   "role": null,
+   "place": "セランポール",
+   "year_start": 1799,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1799年セランポールでほかバプテスト派の宣教師ジョシュア・マーシュマン、ウィリアム・ウォードと共に、宣教基地のネットワークを作り始める。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ウィリアム・ケアリー",
+   "type": "position_at",
+   "object": "フォートウィリアム大学",
+   "role": "語学教授",
+   "place": null,
+   "year_start": 1801,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1801年に新約聖書をベンガル語に翻訳し、フォートウィリアム大学の語学教授になる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ウィリアム・ケアリー",
+   "type": "founded",
+   "object": "セランポール大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "さらに、ミッションスクールのセランポール大学を設立する。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ウィリアム・ケアリー",
+   "type": "founded",
+   "object": "インド農業協会",
+   "role": null,
+   "place": null,
+   "year_start": 1820,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1820年にインドの農業改善のためにインド農業協会を設立する。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ウィリアム・ケアリー (宣教師)",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q312948.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ウィリアム・ケアリー (宣教師)",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Hermann Georg Jacobi",
+   "birth_year": 1850,
+   "death_year": 1937,
+   "nationality": "deutsch",
+   "field": "Indologe"
+  },
+  {
+   "name": "Georg Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rudolph von Roth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hermann Georg Jacobi",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er studierte eine Zeitlang Mathematik in Berlin, wechselte jedoch schon bald in die Fächer Indologie und Vergleichende Sprachwissenschaft über.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Georg Jacobi",
+   "type": "studied_at",
+   "object": "Bonn",
+   "role": "Dr. phil.",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": 1872,
+   "explicit": true,
+   "evidence": "Mit einer Doktorarbeit zur indischen Astrologie wurde er 1872 in Bonn zum Dr. phil. promoviert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Georg Jacobi",
+   "type": "position_at",
+   "object": "Christian-Albrechts-Universität zu Kiel",
+   "role": "Professor",
+   "place": "Kiel",
+   "year_start": 1885,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1885 wurde er Professor an der Christian-Albrechts-Universität zu Kiel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Georg Jacobi",
+   "type": "position_at",
+   "object": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+   "role": "Professor / Rektor",
+   "place": "Bonn",
+   "year_start": 1889,
+   "year_end": 1922,
+   "explicit": true,
+   "evidence": "1889 wechselte er an die Rheinische Friedrich-Wilhelms-Universität Bonn. 1905/06 amtierte er als Rektor. [...] Nach 33 Jahren wurde er 1922 in Bonn emeritiert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Georg Jacobi",
+   "type": "collaborated_with",
+   "object": "Georg Bühler",
+   "role": null,
+   "place": "Rajasthan",
+   "year_start": 1873,
+   "year_end": 1874,
+   "explicit": true,
+   "evidence": "Jacobi besuchte 1873/74 Indien und reiste mit Georg Bühler durch Rajasthan, wo Bühler seltene Manuskripte aufspürte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Georg Jacobi",
+   "type": "position_at",
+   "object": "Universität Kalkutta",
+   "role": "Vorlesungen über die indische Poesie",
+   "place": "Kalkutta",
+   "year_start": 1913,
+   "year_end": 1914,
+   "explicit": true,
+   "evidence": "Eine zweite Indienreise folgte 1913/14 auf Einladung der Universität Kalkutta, an der er Vorlesungen über die indische Poesie hielt.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Hermann Jacobi (Indologe)",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q73862.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Hermann Jacobi (Indologe)",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

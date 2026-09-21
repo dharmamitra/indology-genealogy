@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ernst Trumpp",
+   "birth_year": 1828,
+   "death_year": 1885,
+   "nationality": "German",
+   "field": "Orientalistik"
+  },
+  {
+   "name": "Max Eyth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Annemarie Schimmel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Orientalistik"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ernst Trumpp",
+   "type": "studied_at",
+   "object": "Tübinger Stift",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Als Stipendiat studierte er im Tübinger Stift und legte dort das theologische Dienstexamen ab.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Trumpp",
+   "type": "position_at",
+   "object": "East Indian House in London",
+   "role": "Bibliotheksassistent",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "später Bibliotheksassistent am East Indian House in London",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Trumpp",
+   "type": "position_at",
+   "object": "Universität Tübingen",
+   "role": "Privatdozent für semitische Sprachen",
+   "place": "Tübingen",
+   "year_start": 1871,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nach seiner Rückkehr aus Indien nahm er 1871 seinen Wohnsitz in Tübingen, wo er Privatdozent für semitische Sprachen wurde und Gastvorlesungen an der Universität Tübingen hielt",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Eyth",
+   "type": "student_of",
+   "object": "Ernst Trumpp",
+   "role": "teacher",
+   "place": "Tübingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Während dieser Zeit war er auch Arabischlehrer von Max Eyth.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Trumpp",
+   "type": "position_at",
+   "object": "München",
+   "role": "Professor für semitische Sprachen und Literatur",
+   "place": "München",
+   "year_start": 1874,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wurde er 1874 in München Professor für semitische Sprachen und Literatur.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Trumpp",
+   "type": "position_at",
+   "object": "Bayerische Akademie der Wissenschaften",
+   "role": "Mitglied",
+   "place": null,
+   "year_start": 1873,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Seit 1873 war er Mitglied der Bayerischen Akademie der Wissenschaften.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Ernst Trumpp",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q5393914.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Ernst Trumpp",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

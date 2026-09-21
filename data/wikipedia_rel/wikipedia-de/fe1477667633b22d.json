@@ -1,0 +1,138 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Mahāsī Sayādaw U Sobhana",
+   "birth_year": 1904,
+   "death_year": 1982,
+   "nationality": "Myanmar",
+   "field": "Theravada Buddhism"
+  },
+  {
+   "name": "U Narada",
+   "birth_year": 1868,
+   "death_year": 1955,
+   "nationality": "Myanmar",
+   "field": "Theravada Buddhism"
+  },
+  {
+   "name": "Sir U Thwin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Myanmar",
+   "field": null
+  },
+  {
+   "name": "Joseph Goldstein",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sharon Salzberg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Mahāsī Sayādaw U Sobhana",
+   "type": "student_of",
+   "object": "U Narada",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": 1932,
+   "year_end": 1942,
+   "explicit": true,
+   "evidence": "Er fand den Meister und Mönch U Narada (Mingun Jetawun Sayadaw, 1868–1955) ... Nach zehnjähriger Lernzeit kehrte Mahasi Sayadaw an seinen Heimatort Seikkhun zurück",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mahāsī Sayādaw U Sobhana",
+   "type": "studied_at",
+   "object": "Kloster Taung-waing-galay Taik Kyaung",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1932,
+   "explicit": true,
+   "evidence": "Im Alter von 28 verließ er das Kloster Taung-waing-galay Taik Kyaung um als Wandermönch nach einer klaren und einfachen Meditationsmethode zu suchen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mahāsī Sayādaw U Sobhana",
+   "type": "position_at",
+   "object": "Kloster Mawlamyaing",
+   "role": "Abt",
+   "place": null,
+   "year_start": 1941,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1941 wurde er als Abt des Klosters Mawlamyaing berufen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir U Thwin",
+   "type": "founded",
+   "object": "Buddha Sasana Nuggaha Organization",
+   "role": "Gründungspräsident",
+   "place": "Yangon",
+   "year_start": 1947,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1947 wurde in Yangon die Buddha Sasana Nuggaha Organization gegründet, mit Sir U Thwin als Gründungspräsident",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mahāsī Sayādaw U Sobhana",
+   "type": "position_at",
+   "object": "Mahasi Sasana Yeiktha",
+   "role": "Meditationslehrer",
+   "place": "Yangon",
+   "year_start": 1949,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1949 wurde Mahasi Sayadaw von Sir U Thwin und U Nu gebeten, den Lehrbetrieb in Yangon im ersten Meditationszentrum aufzunehmen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Goldstein",
+   "type": "student_of",
+   "object": "Mahāsī Sayādaw U Sobhana",
+   "role": "traditional teacher",
+   "place": "Myanmar",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mahasi Sayadaws Schulungen in Myanmar wurden auch von westlichen Laien besucht. So haben etwa Joseph Goldstein und Sharon Salzberg über ihre dortigen Erfahrungen Bücher geschrieben.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sharon Salzberg",
+   "type": "student_of",
+   "object": "Mahāsī Sayādaw U Sobhana",
+   "role": "traditional teacher",
+   "place": "Myanmar",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mahasi Sayadaws Schulungen in Myanmar wurden auch von westlichen Laien besucht. So haben etwa Joseph Goldstein und Sharon Salzberg über ihre dortigen Erfahrungen Bücher geschrieben.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Mahasi Sayadaw",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1395380.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Mahasi Sayadaw",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

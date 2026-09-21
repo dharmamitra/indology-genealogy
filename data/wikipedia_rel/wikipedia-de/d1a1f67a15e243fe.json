@@ -1,0 +1,124 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Johann Gottfried Ludwig Kosegarten",
+   "birth_year": 1792,
+   "death_year": 1860,
+   "nationality": "German",
+   "field": "Orientalist und Sprachwissenschaftler"
+  },
+  {
+   "name": "Ludwig Gotthard Kosegarten",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Theologe"
+  },
+  {
+   "name": "Iken",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johann Gottfried Ludwig Kosegarten",
+   "type": "other",
+   "object": "Ludwig Gotthard Kosegarten",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Als Sohn des Theologen Ludwig Gotthard Kosegarten",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Ludwig Kosegarten",
+   "type": "studied_at",
+   "object": "Königliche Universität zu Greifswald",
+   "role": null,
+   "place": "Greifswald",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studierte Gottfried Kosegarten zunächst Evangelische Theologie und Philosophie an der Königlichen Universität zu Greifswald",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Ludwig Kosegarten",
+   "type": "position_at",
+   "object": "Universität Greifswald",
+   "role": "Adjunkt der theologischen und philosophischen Fakultät",
+   "place": "Greifswald",
+   "year_start": 1815,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1815 kehrte er als Adjunkt der theologischen und philosophischen Fakultät nach Greifswald zurück.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Ludwig Kosegarten",
+   "type": "position_at",
+   "object": "Universität Jena",
+   "role": "Professor der orientalischen Sprachen",
+   "place": "Jena",
+   "year_start": 1817,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1817 als Professor der orientalischen Sprachen an die Universität Jena berufen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Ludwig Kosegarten",
+   "type": "collaborated_with",
+   "object": "Iken",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1822,
+   "explicit": true,
+   "evidence": "darauf in Verbindung mit Iken die persische Märchensammlung Tuti nameh (Stuttgart 1822) heraus",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Ludwig Kosegarten",
+   "type": "position_at",
+   "object": "Universität Greifswald",
+   "role": null,
+   "place": "Greifswald",
+   "year_start": 1824,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1824 an die Universität Greifswald zurückberufen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottfried Ludwig Kosegarten",
+   "type": "position_at",
+   "object": "Universität Greifswald",
+   "role": "Rektor",
+   "place": "Greifswald",
+   "year_start": 1829,
+   "year_end": 1851,
+   "explicit": true,
+   "evidence": "In den Jahren 1829, 1838 und 1851 war er Rektor der Universität Greifswald.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Gottfried Kosegarten (Orientalist)",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q66280.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Gottfried Kosegarten (Orientalist)",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

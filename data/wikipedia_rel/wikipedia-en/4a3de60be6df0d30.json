@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Liang Qichao",
+   "birth_year": 1873,
+   "death_year": 1929,
+   "nationality": "Chinese",
+   "field": null
+  },
+  {
+   "name": "Kang Youwei",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": null
+  },
+  {
+   "name": "Cai E",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Liang Qichao",
+   "type": "student_of",
+   "object": "Kang Youwei",
+   "role": "teacher",
+   "place": "Guangzhou",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After returning home, Liang went on to study with Kang Youwei, who was teaching at Wanmu Caotang in Guangzhou.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Cai E",
+   "type": "student_of",
+   "object": "Liang Qichao",
+   "role": "disciple",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1915, he opposed Yuan's attempt to make himself emperor. He convinced his disciple Cai E, the military governor of Yunnan, to rebel.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Liang Qichao",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q379836.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Liang Qichao",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

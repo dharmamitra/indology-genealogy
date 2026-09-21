@@ -1,0 +1,119 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Gendün Chöphel",
+   "birth_year": 1903,
+   "death_year": 1951,
+   "nationality": "tibetisch",
+   "field": null
+  },
+  {
+   "name": "Geshe Sherab Gyatsho",
+   "birth_year": 1884,
+   "death_year": 1968,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rahul Sankrityayan",
+   "birth_year": 1893,
+   "death_year": 1963,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "George Roerich",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Gendün Chöphel",
+   "type": "studied_at",
+   "object": "Gelug-Kloster Drisha",
+   "role": "Novize",
+   "place": "Rêbgong-Tal von Amdo (Qinghai)",
+   "year_start": 1917,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Im Alter von vierzehn Jahren wurde er als Novize im Gelug-Kloster Drisha in seiner Heimat im Rêbgong-Tal von Amdo (Qinghai) aufgenommen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gendün Chöphel",
+   "type": "studied_at",
+   "object": "Labrang",
+   "role": null,
+   "place": null,
+   "year_start": 1920,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Seine Studien führten ihn um 1920 in die Gelug-Klosteruniversität Labrang",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gendün Chöphel",
+   "type": "studied_at",
+   "object": "Kloster Drepung",
+   "role": null,
+   "place": "Lhasa",
+   "year_start": 1927,
+   "year_end": 1934,
+   "explicit": true,
+   "evidence": "1927 wurde Gendün Chöphel nach viermonatiger Reise in die Hauptstadt Lhasa Schüler des Geshe Sherab Gyatsho (ca. 1884–1968) im berühmten Kloster Drepung.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gendün Chöphel",
+   "type": "student_of",
+   "object": "Geshe Sherab Gyatsho",
+   "role": "teacher",
+   "place": "Kloster Drepung",
+   "year_start": 1927,
+   "year_end": 1934,
+   "explicit": true,
+   "evidence": "1927 wurde Gendün Chöphel nach viermonatiger Reise in die Hauptstadt Lhasa Schüler des Geshe Sherab Gyatsho (ca. 1884–1968) im berühmten Kloster Drepung.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gendün Chöphel",
+   "type": "collaborated_with",
+   "object": "Rahul Sankrityayan",
+   "role": null,
+   "place": null,
+   "year_start": 1934,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "suchte zusammen mit ihm in Klosterbibliotheken nach seltenen Sanskrit-Manuskripten.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gendün Chöphel",
+   "type": "collaborated_with",
+   "object": "George Roerich",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "arbeitete zusammen mit George Roerich an einer Übersetzung der „Blauen Annalen“ (tib.: deb ther sngon po) des Gö Lotsawa Shönnu Pel ins Englische",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Gendün Chöphel",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1501372.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Gendün Chöphel",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

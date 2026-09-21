@@ -1,0 +1,145 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Imakita Kōsen",
+   "birth_year": 1816,
+   "death_year": 1892,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Daisetsu Shoen",
+   "birth_year": 1797,
+   "death_year": 1855,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gisan Zenkai",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Soyen Shaku",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "D. T. Suzuki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Tetsuo Sōkatsu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Imakita Kōsen",
+   "type": "student_of",
+   "object": "Daisetsu Shoen",
+   "role": "traditional teacher",
+   "place": "Sōkoku-ji",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Kosen did his Zen training under Daisetsu Shoen (1797–1855) at Sōkoku-ji",
+   "quote_ok": true
+  },
+  {
+   "subject": "Imakita Kōsen",
+   "type": "student_of",
+   "object": "Gisan Zenkai",
+   "role": "traditional teacher",
+   "place": "Sōgen-ji",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "received inka from Gisan Zenkai at Sōgen-ji in Okayama.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Soyen Shaku",
+   "type": "student_of",
+   "object": "Imakita Kōsen",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Kosen's Dharma heir Soyen Shaku",
+   "quote_ok": true
+  },
+  {
+   "subject": "D. T. Suzuki",
+   "type": "student_of",
+   "object": "Soyen Shaku",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Soyen Shaku's student D. T. Suzuki",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tetsuo Sōkatsu",
+   "type": "founded",
+   "object": "Ningen Zen Kyodan",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Kosen's dharma descendant Tetsuo Sōkatsu established Ningen Zen Kyodan, an independent lay-Rinzai school.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Imakita Kōsen",
+   "type": "position_at",
+   "object": "Engaku-ji",
+   "role": "head abbot",
+   "place": "Kamakura, Japan",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "As one-time head abbot of Engaku-ji in Kamakura, Japan",
+   "quote_ok": true
+  },
+  {
+   "subject": "Imakita Kōsen",
+   "type": "position_at",
+   "object": "Ministry of Doctrine",
+   "role": "Doctrinal Instructor",
+   "place": null,
+   "year_start": 1870,
+   "year_end": 1879,
+   "explicit": true,
+   "evidence": "in the 1870s serving as Doctrinal Instructor for the Ministry of Doctrine.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Imakita Kosen",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q541565.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Imakita Kosen",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,138 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Brad Warner",
+   "birth_year": 1964,
+   "death_year": null,
+   "nationality": "American",
+   "field": "Zen Buddhism"
+  },
+  {
+   "name": "Tim McCarthy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gyomay Kubose",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gudō Wafu Nishijima",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rempo Niwa Zenji",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Brad Warner",
+   "type": "studied_at",
+   "object": "Kent State University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "grew up mainly near Akron, Ohio, and attended Kent State University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Brad Warner",
+   "type": "student_of",
+   "object": "Tim McCarthy",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Warner began practicing Zen Buddhism under his first teacher, Tim McCarthy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Brad Warner",
+   "type": "student_of",
+   "object": "Gyomay Kubose",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Warner later studied with Gyomay Kubose.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Brad Warner",
+   "type": "student_of",
+   "object": "Gudō Wafu Nishijima",
+   "role": "traditional teacher",
+   "place": "Japan",
+   "year_start": null,
+   "year_end": 2000,
+   "explicit": true,
+   "evidence": "While in Japan, he met and trained with Gudō Wafu Nishijima, a student of Rempo Niwa Zenji, who ordained him as a priest and named him as his dharma heir in 2000.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gudō Wafu Nishijima",
+   "type": "student_of",
+   "object": "Rempo Niwa Zenji",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gudō Wafu Nishijima, a student of Rempo Niwa Zenji",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gudō Wafu Nishijima",
+   "type": "founded",
+   "object": "Dogen Sangha International",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dogen Sangha International which Nishijima had founded.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Brad Warner",
+   "type": "founded",
+   "object": "Dogen Sangha Los Angeles",
+   "role": null,
+   "place": "California",
+   "year_start": 2012,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 2012, Warner moved to California and started Dogen Sangha Los Angeles.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Brad Warner",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q329026.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Brad Warner",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

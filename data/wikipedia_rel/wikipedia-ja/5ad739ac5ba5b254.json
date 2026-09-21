@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ジョージ・ワット",
+   "birth_year": 1851,
+   "death_year": 1930,
+   "nationality": "スコットランド",
+   "field": "植物学"
+  },
+  {
+   "name": "ジョセフ・ダルトン・フッカー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "アイザック・ヘンリー・バーキル",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "植物学"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ジョージ・ワット",
+   "type": "studied_at",
+   "object": "アバディーン大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "アバディーン大学、グラスゴー大学で学び、1873年に学位を得た。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジョージ・ワット",
+   "type": "studied_at",
+   "object": "グラスゴー大学",
+   "role": "学位",
+   "place": null,
+   "year_start": null,
+   "year_end": 1873,
+   "explicit": true,
+   "evidence": "アバディーン大学、グラスゴー大学で学び、1873年に学位を得た。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジョージ・ワット",
+   "type": "position_at",
+   "object": "グラスゴー大学",
+   "role": "解剖学教授の助手（prodissector）",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "グラスゴー大学で教職につき解剖学教授の助手（prodissector）となった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジョージ・ワット",
+   "type": "position_at",
+   "object": "管区大学",
+   "role": "植物学の教授",
+   "place": "コルカタ",
+   "year_start": 1873,
+   "year_end": 1874,
+   "explicit": true,
+   "evidence": "ジョセフ・ダルトン・フッカーの推薦でコルカタの管区大学の植物学の教授に選ばれ、1873年から1874年の間、教えた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ジョージ・ワット",
+   "type": "position_at",
+   "object": "インド博物館",
+   "role": null,
+   "place": "コルカタ",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "その後、コルカタのインド博物館で働き、インドの産物を紹介した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アイザック・ヘンリー・バーキル",
+   "type": "collaborated_with",
+   "object": "ジョージ・ワット",
+   "role": "助手",
+   "place": "インド博物館",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "コルカタのインド博物館で働き、インドの産物を紹介した。この時期、後にリンネ・メダルを受賞した植物学者アイザック・ヘンリー・バーキルが助手を務めた。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ジョージ・ワット (植物学者)",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q3101998.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ジョージ・ワット (植物学者)",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

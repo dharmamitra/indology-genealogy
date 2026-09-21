@@ -1,0 +1,155 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Friedrich Schlegel",
+   "birth_year": 1772,
+   "death_year": 1829,
+   "nationality": "German",
+   "field": "Kulturphilosoph, Schriftsteller, Literatur- und Kunstkritiker, Historiker und Altphilologe"
+  },
+  {
+   "name": "August Wilhelm Schlegel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Christian Gottlob Heyne",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Klassische Philologie"
+  },
+  {
+   "name": "Antoine-Léonard de Chézy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Friedrich Schlegel",
+   "type": "other",
+   "object": "August Wilhelm Schlegel",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Friedrich Schlegel war neben seinem Bruder August Wilhelm Schlegel einer der wichtigsten Vertreter der „Jenaer Frühromantik“.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Schlegel",
+   "type": "studied_at",
+   "object": "Universität Göttingen",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": 1790,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er immatrikulierte sich 1790 an der Universität Göttingen, um Rechtswissenschaften zu studieren, wandte sich aber der Klassischen Philologie zu, die er bei Christian Gottlob Heyne hörte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Schlegel",
+   "type": "student_of",
+   "object": "Christian Gottlob Heyne",
+   "role": "teacher",
+   "place": "Göttingen",
+   "year_start": 1790,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wandte sich aber der Klassischen Philologie zu, die er bei Christian Gottlob Heyne hörte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Schlegel",
+   "type": "studied_at",
+   "object": "Universität Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": 1791,
+   "year_end": 1793,
+   "explicit": true,
+   "evidence": "setzte er das Jura-Studium nach einem Jahr an der Universität Leipzig fort. [...] Im Sommer 1793 gab Schlegel sein Studium wegen Schulden auf",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Schlegel",
+   "type": "founded",
+   "object": "Athenäum",
+   "role": null,
+   "place": null,
+   "year_start": 1798,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1798 gründeten die Gebrüder Schlegel die ästhetisch-kritische Zeitschrift Athenäum.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Schlegel",
+   "type": "position_at",
+   "object": "Universität Jena",
+   "role": "Privatdozent",
+   "place": "Jena",
+   "year_start": 1800,
+   "year_end": 1801,
+   "explicit": true,
+   "evidence": "Im August 1800 habilitierte sich Friedrich Schlegel an der Universität Jena und lehrte als Privatdozent.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Schlegel",
+   "type": "student_of",
+   "object": "Antoine-Léonard de Chézy",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er beschäftigte sich mit dem Studium der Indologie, der persischen Sprache als Schüler von Antoine-Léonard de Chézy",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Schlegel",
+   "type": "founded",
+   "object": "Europa",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "gründete die Zeitschrift Europa",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Schlegel",
+   "type": "position_at",
+   "object": "École Centrale",
+   "role": "Dozent",
+   "place": "Köln",
+   "year_start": 1804,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wo er Vorlesungen an der École Centrale (Nachfolgerin der alten Universität Köln) hielt.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Friedrich Schlegel",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q157271.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Friedrich Schlegel",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

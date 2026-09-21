@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John Dowson",
+   "birth_year": 1820,
+   "death_year": 1881,
+   "nationality": "britisch",
+   "field": "Historiker und Indologe"
+  },
+  {
+   "name": "Henry M. Elliot",
+   "birth_year": 1808,
+   "death_year": 1853,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Dowson",
+   "type": "position_at",
+   "object": "University College London",
+   "role": "Professor für Hindustani",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dowson war Professor für Hindustani am University College London.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Dowson",
+   "type": "collaborated_with",
+   "object": "Henry M. Elliot",
+   "role": "Herausgeber",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er gab die achtbändige The History of India as told by its own Historians von Henry M. Elliot (1808–1853) heraus",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): John Dowson",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1699835.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): John Dowson",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Friedrich Johann Michael Rückert",
+   "birth_year": 1788,
+   "death_year": 1866,
+   "nationality": "German",
+   "field": "Orientalistik"
+  },
+  {
+   "name": "Joseph von Hammer-Purgstall",
+   "birth_year": 1774,
+   "death_year": 1856,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Heinrich Rückert",
+   "birth_year": 1823,
+   "death_year": null,
+   "nationality": null,
+   "field": "Historiker und Germanist"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Friedrich Johann Michael Rückert",
+   "type": "studied_at",
+   "object": "Universität Würzburg",
+   "role": null,
+   "place": "Würzburg",
+   "year_start": 1805,
+   "year_end": 1809,
+   "explicit": true,
+   "evidence": "begann er 1805 zunächst ein Studium der Rechte an der Universität Würzburg. Er wandte sich jedoch bald, bis 1809, ausschließlich dem Studium der Philologie und Ästhetik zu.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Johann Michael Rückert",
+   "type": "position_at",
+   "object": "Jena",
+   "role": "Dozent",
+   "place": "Jena",
+   "year_start": 1811,
+   "year_end": 1811,
+   "explicit": true,
+   "evidence": "Nach einer kurzen Anstellung 1811 als Dozent in Jena",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Johann Michael Rückert",
+   "type": "student_of",
+   "object": "Joseph von Hammer-Purgstall",
+   "role": "teacher",
+   "place": "Wien",
+   "year_start": 1818,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Oktober 1818 fuhr er nach Wien, wo er bei Joseph von Hammer-Purgstall (1774–1856) Persisch lernte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Johann Michael Rückert",
+   "type": "other",
+   "object": "Heinrich Rückert",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Das Paar hatte zehn Kinder, darunter den 1823 geborenen Historiker und Germanisten Heinrich Rückert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Johann Michael Rückert",
+   "type": "position_at",
+   "object": "Universität Erlangen",
+   "role": "Professor der orientalischen Sprachen und Literaturen",
+   "place": "Erlangen",
+   "year_start": 1826,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Friedrich Rückert folgte 1826 einem Ruf als Professor der orientalischen Sprachen und Literaturen an die Universität Erlangen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Johann Michael Rückert",
+   "type": "position_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1841,
+   "year_end": 1848,
+   "explicit": true,
+   "evidence": "König Friedrich Wilhelm IV. von Preußen berief ihn 1841 nach Berlin [...] Dort wohnte er bis 1848",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Friedrich Rückert",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q60644.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Friedrich Rückert",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

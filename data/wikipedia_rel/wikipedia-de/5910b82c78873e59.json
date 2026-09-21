@@ -1,0 +1,169 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Richard Wilhelm",
+   "birth_year": 1873,
+   "death_year": 1930,
+   "nationality": "German",
+   "field": "Sinology"
+  },
+  {
+   "name": "Zhang Junmai",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  },
+  {
+   "name": "Hans Driesch",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  },
+  {
+   "name": "Lau Nai Süan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": null
+  },
+  {
+   "name": "Wilhelm Schüler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Erwin Rousselle",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Richard Wilhelm",
+   "type": "position_at",
+   "object": "Universität Peking",
+   "role": "Gastprofessor",
+   "place": "Peking",
+   "year_start": 1923,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ab 1923 konnte er jedoch als Gastprofessor Vorlesungen über deutsche Literatur und Philosophie an der Universität Peking (Beida) halten",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Wilhelm",
+   "type": "collaborated_with",
+   "object": "Zhang Junmai",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zusammen mit Zhang Junmai und Hans Driesch erstellte er ein Englisch-Deutsch-Chinesisch-Wörterbuch der Philosophie für deutsche Studenten.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Wilhelm",
+   "type": "collaborated_with",
+   "object": "Hans Driesch",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zusammen mit Zhang Junmai und Hans Driesch erstellte er ein Englisch-Deutsch-Chinesisch-Wörterbuch der Philosophie für deutsche Studenten.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Wilhelm",
+   "type": "student_of",
+   "object": "Lau Nai Süan",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mit Hilfe seines Lehrers Lau Nai Süan (Lao Naixuan) schuf er innerhalb von fast einem Jahrzehnt Arbeit (mit kriegsbedingten Unterbrechungen) seine bahnbrechende, ab 1950 in viele westliche Sprachen übersetzte Ausgabe.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Wilhelm",
+   "type": "position_at",
+   "object": "Universität Frankfurt am Main",
+   "role": "Stiftungslehrstuhl für Chinesische Geschichte und Chinesische Philosophie / Honorarprofessor / ordentlicher Professor",
+   "place": "Frankfurt am Main",
+   "year_start": 1924,
+   "year_end": 1930,
+   "explicit": true,
+   "evidence": "konnte er mit dem Wintersemester 1924/25 einen Stiftungslehrstuhl für Chinesische Geschichte und Chinesische Philosophie an der Universität bekleiden und wurde am 26. November 1924 zum Honorarprofessor ernannt [...] am 1. April 1927 zum ordentlicher Professor ernannt",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Wilhelm",
+   "type": "founded",
+   "object": "China-Institut der Universität Frankfurt",
+   "role": null,
+   "place": "Frankfurt am Main",
+   "year_start": 1925,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er gründete 1925 das China-Institut der Universität Frankfurt, das er bis zu seinem Tod l [...] Zu seinen wesentlichen Leistungen gehörte die Gründung des China-Institutes, das Mitte November 1925 eröffnet wurde.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Wilhelm Schüler",
+   "type": "position_at",
+   "object": "Seminar für Orientalische Sprachen der Universität Berlin",
+   "role": "Professor",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "unter der Führung seines ehemaligen Kollegen Wilhelm Schüler (inzwischen Professor am Seminar für Orientalische Sprachen der Universität Berlin)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Schüler",
+   "type": "succeeded",
+   "object": "Richard Wilhelm",
+   "role": "Leiter ad interim",
+   "place": "Frankfurt am Main",
+   "year_start": 1930,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Das China-Institut wurde kurzfristig ad interim von Wilhelm Schüler geleitet, bis zur Übernahme durch Erwin Rousselle.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Erwin Rousselle",
+   "type": "succeeded",
+   "object": "Wilhelm Schüler",
+   "role": null,
+   "place": "Frankfurt am Main",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Das China-Institut wurde kurzfristig ad interim von Wilhelm Schüler geleitet, bis zur Übernahme durch Erwin Rousselle.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Richard Wilhelm",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q62126.txt#1",
+ "meta": {
+  "title": "Wikipedia (de): Richard Wilhelm",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

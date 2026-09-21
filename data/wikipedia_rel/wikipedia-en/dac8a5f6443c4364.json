@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "R. Sathyanarayana",
+   "birth_year": 1927,
+   "death_year": 2020,
+   "nationality": "Indian",
+   "field": "musicology"
+  },
+  {
+   "name": "R. S. Nandakumar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Srikantham Nagendra Shastry",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "R. S. Nandakumar",
+   "type": "student_of",
+   "object": "R. Sathyanarayana",
+   "role": "disciple",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His most prominent disciples include his son, Vidwan Dr. R. S. Nandakumar",
+   "quote_ok": true
+  },
+  {
+   "subject": "Srikantham Nagendra Shastry",
+   "type": "student_of",
+   "object": "R. Sathyanarayana",
+   "role": "disciple",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His most prominent disciples include his son, Vidwan Dr. R. S. Nandakumar... and Vidwan Dr Srikantham Nagendra Shastry",
+   "quote_ok": true
+  },
+  {
+   "subject": "R. S. Nandakumar",
+   "type": "other",
+   "object": "R. Sathyanarayana",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His most prominent disciples include his son, Vidwan Dr. R. S. Nandakumar",
+   "quote_ok": true
+  },
+  {
+   "subject": "R. Sathyanarayana",
+   "type": "studied_at",
+   "object": "University of Mysore",
+   "role": "Master's in chemistry",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr R Sathyanarayana has degrees ranged from a Master's in chemistry from the University of Mysore to a PhD and multiple D.Litt. degrees from various universities, including Mysore University",
+   "quote_ok": true
+  },
+  {
+   "subject": "R. Sathyanarayana",
+   "type": "position_at",
+   "object": "Sarada Vilas College",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1949,
+   "year_end": 1984,
+   "explicit": true,
+   "evidence": "Between 1949 and 1984, he taught chemistry at the Sarada Vilas College, and also taught Karnataka music.",
+   "quote_ok": true
+  },
+  {
+   "subject": "R. Sathyanarayana",
+   "type": "position_at",
+   "object": "Indian Music Congress",
+   "role": "President",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was the President of the Indian Music Congress.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): R. Sathyanarayana",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q60653599.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): R. Sathyanarayana",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

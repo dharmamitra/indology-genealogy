@@ -1,0 +1,188 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Reinhold Rost",
+   "birth_year": 1822,
+   "death_year": 1896,
+   "nationality": "German",
+   "field": "orientalist"
+  },
+  {
+   "name": "Johann Gustav Stickel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Johann Gildemeister",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sir Henry Creswicke Rawlinson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "FitzEdward Hall",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Charles Henry Tawney",
+   "birth_year": 1837,
+   "death_year": 1922,
+   "nationality": null,
+   "field": "Orientalist and Sanskritist"
+  },
+  {
+   "name": "José Rizal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Filipino",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Reinhold Rost",
+   "type": "student_of",
+   "object": "Johann Gustav Stickel",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "after studying under Johann Gustav Stickel and Johann Gildemeister, graduated Ph.D. at the University of Jena in 1847.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Reinhold Rost",
+   "type": "student_of",
+   "object": "Johann Gildemeister",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "after studying under Johann Gustav Stickel and Johann Gildemeister, graduated Ph.D. at the University of Jena in 1847.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Reinhold Rost",
+   "type": "studied_at",
+   "object": "University of Jena",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1847,
+   "explicit": true,
+   "evidence": "graduated Ph.D. at the University of Jena in 1847.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Reinhold Rost",
+   "type": "position_at",
+   "object": "King's School, Canterbury",
+   "role": "teacher in German",
+   "place": "Canterbury",
+   "year_start": 1847,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In the same year he came to England, to act as a teacher in German at the King's School, Canterbury.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Reinhold Rost",
+   "type": "position_at",
+   "object": "St. Augustine's Missionary College, Canterbury",
+   "role": "oriental lecturer",
+   "place": "Canterbury",
+   "year_start": 1851,
+   "year_end": 1896,
+   "explicit": true,
+   "evidence": "on 7 February 1851, he was appointed oriental lecturer at St. Augustine's Missionary College, Canterbury... This post he held for the rest of his life.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Reinhold Rost",
+   "type": "position_at",
+   "object": "Royal Asiatic Society",
+   "role": "secretary",
+   "place": "London",
+   "year_start": 1863,
+   "year_end": 1869,
+   "explicit": true,
+   "evidence": "elected, in December 1863, secretary to the Royal Asiatic Society, a post he held for six years.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Reinhold Rost",
+   "type": "succeeded",
+   "object": "FitzEdward Hall",
+   "role": null,
+   "place": "India Office Library",
+   "year_start": 1869,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "became on 1 July 1869 librarian at the India Office, on the retirement of FitzEdward Hall",
+   "quote_ok": true
+  },
+  {
+   "subject": "Reinhold Rost",
+   "type": "position_at",
+   "object": "India Office Library",
+   "role": "librarian",
+   "place": "London",
+   "year_start": 1869,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "became on 1 July 1869 librarian at the India Office... He retired in 1893 after 24 years of service",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Henry Tawney",
+   "type": "succeeded",
+   "object": "Reinhold Rost",
+   "role": null,
+   "place": "India Office Library",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His successor as head librarian of the India Office Library became the Orientalist and Sanskritist Charles Henry Tawney (1837–1922).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Reinhold Rost",
+   "type": "other",
+   "object": "José Rizal",
+   "role": "friendship",
+   "place": null,
+   "year_start": 1888,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rost maintained a close friendship with Filipino novelist José Rizal, who visited London in 1888.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Reinhold Rost",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q16308152.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Reinhold Rost",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

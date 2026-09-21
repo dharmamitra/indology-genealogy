@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Theodor Goldstücker",
+   "birth_year": 1821,
+   "death_year": 1872,
+   "nationality": "German",
+   "field": "Sanskrit scholar"
+  },
+  {
+   "name": "Alexander von Humboldt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "H. H. Wilson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Theodor Goldstücker",
+   "type": "studied_at",
+   "object": "university of Königsberg",
+   "role": null,
+   "place": "Königsberg",
+   "year_start": 1836,
+   "year_end": 1840,
+   "explicit": true,
+   "evidence": "he entered its university in 1836 as a student of Sanskrit. In 1838 he removed to Bonn, and, after graduating at Königsberg in 1840, proceeded to Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "Theodor Goldstücker",
+   "type": "position_at",
+   "object": "University College London",
+   "role": "professor of Sanskrit",
+   "place": "London",
+   "year_start": 1852,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1852 he was appointed professor of Sanskrit in University College London.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Theodor Goldstücker",
+   "type": "collaborated_with",
+   "object": "H. H. Wilson",
+   "role": null,
+   "place": null,
+   "year_start": 1850,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1850 he moved to London at the invitation of H. H. Wilson. [...] He worked on a new edition of Wilson's Sanskrit dictionary",
+   "quote_ok": true
+  },
+  {
+   "subject": "Theodor Goldstücker",
+   "type": "founded",
+   "object": "Sanskrit Text Society",
+   "role": "founder",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was the founder of the Sanskrit Text Society",
+   "quote_ok": true
+  },
+  {
+   "subject": "Theodor Goldstücker",
+   "type": "position_at",
+   "object": "Philological Society",
+   "role": "president",
+   "place": null,
+   "year_start": null,
+   "year_end": 1872,
+   "explicit": true,
+   "evidence": "he was also an active member of the Philological Society, of which he was president at the time of his death",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Theodor Goldstücker",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q92103.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Theodor Goldstücker",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,45 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "アグワン・ドルジェフ",
+   "birth_year": 1854,
+   "death_year": 1938,
+   "nationality": "ブリヤート",
+   "field": "チベット仏教"
+  },
+  {
+   "name": "ダライ・ラマ13世",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ダライ・ラマ13世",
+   "type": "student_of",
+   "object": "アグワン・ドルジェフ",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ダライ・ラマ13世の教師であり",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): アグワン・ドルジェフ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q551586.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): アグワン・ドルジェフ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

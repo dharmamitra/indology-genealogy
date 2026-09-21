@@ -1,0 +1,143 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "James Atkinson",
+   "birth_year": 1780,
+   "death_year": 1852,
+   "nationality": "British",
+   "field": "Persian scholar"
+  },
+  {
+   "name": "Horace Hayman Wilson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "orientalist"
+  },
+  {
+   "name": "James Prinsep",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "antiquarian and numismatist"
+  },
+  {
+   "name": "George Chinnery",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Atkinson",
+   "type": "student_of",
+   "object": "George Chinnery",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "George Chinnery stayed with D’Oyly during this period and both D’Oyly and Atkinson became his pupils",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Atkinson",
+   "type": "position_at",
+   "object": "Calcutta Mint",
+   "role": "Assistant to the Assay Master",
+   "place": "Calcutta",
+   "year_start": 1812,
+   "year_end": 1818,
+   "explicit": true,
+   "evidence": "invited Atkinson to Calcutta in 1812 where he was appointed Assistant to the Assay Master at the Calcutta Mint (appointed Deputy Assay Master in 1818).",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Atkinson",
+   "type": "position_at",
+   "object": "Calcutta Mint",
+   "role": "Deputy Assay Master",
+   "place": "Calcutta",
+   "year_start": 1818,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "(appointed Deputy Assay Master in 1818).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Horace Hayman Wilson",
+   "type": "position_at",
+   "object": "Calcutta Mint",
+   "role": "Assay Master",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The Assay Master was Horace Hayman Wilson, orientalist and Secretary to the Asiatic Society of Bengal",
+   "quote_ok": true
+  },
+  {
+   "subject": "Horace Hayman Wilson",
+   "type": "position_at",
+   "object": "Asiatic Society of Bengal",
+   "role": "Secretary",
+   "place": "Bengal",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Horace Hayman Wilson, orientalist and Secretary to the Asiatic Society of Bengal",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Atkinson",
+   "type": "collaborated_with",
+   "object": "James Prinsep",
+   "role": null,
+   "place": "Calcutta Mint",
+   "year_start": 1820,
+   "year_end": 1820,
+   "explicit": true,
+   "evidence": "For most of 1820 while Wilson was setting up the new Mint at Benares Atkinson worked alongside James Prinsep, the antiquarian and numismatist, at the Calcutta Mint.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Atkinson",
+   "type": "position_at",
+   "object": "Fort William College",
+   "role": "Deputy Chair of Persian",
+   "place": null,
+   "year_start": 1818,
+   "year_end": 1818,
+   "explicit": true,
+   "evidence": "Fort William College where he held the Deputy Chair of Persian for that year",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Atkinson",
+   "type": "position_at",
+   "object": "Asiatic Society of Bengal",
+   "role": "member",
+   "place": "Bengal",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Atkinson was a member of the Asiatic Society of Bengal",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): James Atkinson (Persian scholar)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q4072105.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): James Atkinson (Persian scholar)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

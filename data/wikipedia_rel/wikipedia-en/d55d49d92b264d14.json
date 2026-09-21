@@ -1,0 +1,74 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John Wilson",
+   "birth_year": 1804,
+   "death_year": 1875,
+   "nationality": "Scottish",
+   "field": "orientalist, ethnographer, missionary"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Wilson",
+   "type": "studied_at",
+   "object": "University of Edinburgh",
+   "role": null,
+   "place": "Edinburgh",
+   "year_start": 1819,
+   "year_end": 1828,
+   "explicit": true,
+   "evidence": "From 1819 he attended the University of Edinburgh, where he studied linguistics, philosophy and theology for eight years... He graduated from the university in 1828.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Wilson",
+   "type": "position_at",
+   "object": "Bombay University",
+   "role": "Vice-Chancellor",
+   "place": "Bombay",
+   "year_start": 1869,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1857 Wilson helped to establish the Bombay University, and went on to become its Vice-Chancellor in 1869.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Wilson",
+   "type": "founded",
+   "object": "The Oriental Christian Spectator",
+   "role": null,
+   "place": null,
+   "year_start": 1830,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He founded the Oriental Christian Spectator, 1830.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Wilson",
+   "type": "founded",
+   "object": "Wilson College, Mumbai",
+   "role": null,
+   "place": "Bombay",
+   "year_start": 1832,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Wilson first established an English school name Wilson High School at Girgaon in 1832, and added a college in 1836 - now called Wilson College, Mumbai.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): John Wilson (Scottish missionary)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q6264528.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): John Wilson (Scottish missionary)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

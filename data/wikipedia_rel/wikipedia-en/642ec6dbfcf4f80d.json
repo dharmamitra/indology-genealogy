@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Rachael Wiseman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "analytic philosopher"
+  },
+  {
+   "name": "Claire McCumhaill",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Rachael Wiseman",
+   "type": "position_at",
+   "object": "University of Liverpool",
+   "role": "lecturer",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "She lectures at University of Liverpool.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rachael Wiseman",
+   "type": "collaborated_with",
+   "object": "Claire McCumhaill",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Along with co-author Claire McCumhaill, she has argued that homo sapiens are \"metaphysical animals\"",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Rachael Wiseman",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q99440542.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Rachael Wiseman",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

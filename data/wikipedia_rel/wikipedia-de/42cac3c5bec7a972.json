@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Stanislas Aignan Julien",
+   "birth_year": 1797,
+   "death_year": 1873,
+   "nationality": "französischer",
+   "field": "Sinologe und vielseitiger Orientalist"
+  },
+  {
+   "name": "Abel-Rémusat",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Stanislas Aignan Julien",
+   "type": "student_of",
+   "object": "Abel-Rémusat",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Als Nachfolger seines Lehrers Abel-Rémusat",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stanislas Aignan Julien",
+   "type": "succeeded",
+   "object": "Abel-Rémusat",
+   "role": null,
+   "place": "Collège de France",
+   "year_start": 1832,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Als Nachfolger seines Lehrers Abel-Rémusat wurde Julien 1832 Inhaber des Lehrstuhls für chinesische und mandschurische Sprache und Literatur am Collège de France in Paris.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stanislas Aignan Julien",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "Inhaber des Lehrstuhls für chinesische und mandschurische Sprache und Literatur",
+   "place": "Paris",
+   "year_start": 1832,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Julien 1832 Inhaber des Lehrstuhls für chinesische und mandschurische Sprache und Literatur am Collège de France in Paris.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Stanislas Julien",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q373633.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Stanislas Julien",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

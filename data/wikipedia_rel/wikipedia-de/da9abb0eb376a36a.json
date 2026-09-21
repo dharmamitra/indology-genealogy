@@ -1,0 +1,150 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Hisamatsu Shin’ichi",
+   "birth_year": 1889,
+   "death_year": 1980,
+   "nationality": "Japan",
+   "field": "Philosophie, Gelehrter und Lehrer des Zen-Buddhismus"
+  },
+  {
+   "name": "Nishida Kitarō",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Philosophie"
+  },
+  {
+   "name": "Ikegami Shōzan",
+   "birth_year": 1856,
+   "death_year": 1928,
+   "nationality": "Japan",
+   "field": "Zen-Buddhismus"
+  },
+  {
+   "name": "Suzuki Daisetsu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Zen-Buddhismus"
+  },
+  {
+   "name": "Seiichi Yagi",
+   "birth_year": 1932,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hisamatsu Shin’ichi",
+   "type": "studied_at",
+   "object": "Universität Kyōto",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Als er an der Universität Kyōto unter dem Philosophen Nishida Kitarō studierte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hisamatsu Shin’ichi",
+   "type": "student_of",
+   "object": "Nishida Kitarō",
+   "role": "teacher",
+   "place": "Universität Kyōto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Als er an der Universität Kyōto unter dem Philosophen Nishida Kitarō studierte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hisamatsu Shin’ichi",
+   "type": "student_of",
+   "object": "Ikegami Shōzan",
+   "role": "traditional teacher",
+   "place": "Myōshin-ji",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ermutigte dieser ihn, unter Ikegami Shōzan (池上湘山; 1856–1928), Priester am Myōshin-ji, sich mit Zen zu befassen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hisamatsu Shin’ichi",
+   "type": "influenced_by",
+   "object": "Suzuki Daisetsu",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Auch die Zen-Lehre Suzuki Daisetsus beeinflusste ihn.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hisamatsu Shin’ichi",
+   "type": "position_at",
+   "object": "Hanazono-Universität",
+   "role": "Professor",
+   "place": null,
+   "year_start": 1919,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1919 wurde er Professor an der Hanazono-Universität (花園大学)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hisamatsu Shin’ichi",
+   "type": "position_at",
+   "object": "Ryūkoku-Universität",
+   "role": "Professor",
+   "place": null,
+   "year_start": 1929,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ab 1929 zugleich auch Professor an der Ryūkoku-Universität.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hisamatsu Shin’ichi",
+   "type": "position_at",
+   "object": "Universität Kyōto",
+   "role": "Professor",
+   "place": null,
+   "year_start": 1946,
+   "year_end": 1949,
+   "explicit": true,
+   "evidence": "Von 1946 bis 1949 war er Professor an seiner Alma Mater.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hisamatsu Shin’ichi",
+   "type": "collaborated_with",
+   "object": "Seiichi Yagi",
+   "role": "Zwiegespräch",
+   "place": null,
+   "year_start": null,
+   "year_end": 1980,
+   "explicit": true,
+   "evidence": "das Zwiegespräch mit Seiichi Yagi (* 1932), das 1980 unter dem Titel „Kaku no shūkyō“ (覚の宗教) – etwa „Die Religion des Erwachens“ erschien.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Hisamatsu Shin’ichi",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q7497073.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Hisamatsu Shin’ichi",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

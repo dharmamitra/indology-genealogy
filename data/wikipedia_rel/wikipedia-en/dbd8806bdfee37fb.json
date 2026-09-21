@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Julius Euting",
+   "birth_year": 1839,
+   "death_year": 1913,
+   "nationality": "German",
+   "field": "Orientalist"
+  },
+  {
+   "name": "Christiaan Snouck Hurgronje",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Mark Lidzbarski",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Theodor Nöldeke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Julius Euting",
+   "type": "position_at",
+   "object": "National and University Library of Strasbourg",
+   "role": "Director",
+   "place": "Strasbourg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Director of the National and University Library of Strasbourg, he completed his first studies at the Eberhard-Ludwigs-Gymnasium in Stuttgart",
+   "quote_ok": true
+  },
+  {
+   "subject": "Julius Euting",
+   "type": "studied_at",
+   "object": "Tübingen",
+   "role": null,
+   "place": "Tübingen",
+   "year_start": 1857,
+   "year_end": 1861,
+   "explicit": true,
+   "evidence": "He then studied Theology and Oriental Languages in Tübingen from 1857 to 1861.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Julius Euting",
+   "type": "collaborated_with",
+   "object": "Christiaan Snouck Hurgronje",
+   "role": "colleague",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "just like his colleague Christiaan Snouck Hurgronje, adopted an Arabic name",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mark Lidzbarski",
+   "type": "influenced_by",
+   "object": "Julius Euting",
+   "role": "dedicatee",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mark Lidzbarski dedicated his seminal work, the \"Handbuch\" to both Euting and Theodor Nöldeke.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mark Lidzbarski",
+   "type": "influenced_by",
+   "object": "Theodor Nöldeke",
+   "role": "dedicatee",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mark Lidzbarski dedicated his seminal work, the \"Handbuch\" to both Euting and Theodor Nöldeke.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Julius Euting",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q76286.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Julius Euting",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

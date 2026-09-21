@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Somdet Phra Nyanasamvara",
+   "birth_year": 1913,
+   "death_year": 2013,
+   "nationality": "Thai",
+   "field": "Theravada-buddhistischer Mönch und Religionsgelehrter"
+  },
+  {
+   "name": "Swami Satyananda Puri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Vajirayanavangsa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Thai",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Somdet Phra Nyanasamvara",
+   "type": "student_of",
+   "object": "Swami Satyananda Puri",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Parallel studierte er unter anderem bei dem indischen Gelehrten Swami Satyananda Puri, lernte außerdem Sanskrit, Englisch, Deutsch, Französisch und etwas Chinesisch.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Somdet Phra Nyanasamvara",
+   "type": "student_of",
+   "object": "Vajirayanavangsa",
+   "role": "traditional teacher",
+   "place": "Wat Bowonniwet",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wobei der Abt und spätere Oberste Mönchspatriarch Vajiranyanavangsa sein Präzeptor war.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Somdet Phra Nyanasamvara",
+   "type": "position_at",
+   "object": "Mahamakut-Universität",
+   "role": "Leiter",
+   "place": "Bangkok",
+   "year_start": 1961,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Jahr 1961 stieg er zum Abt des Wat Bowonniwet auf. Zugleich wurde er Leiter der Mahamakut-Universität",
+   "quote_ok": true
+  },
+  {
+   "subject": "Somdet Phra Nyanasamvara",
+   "type": "position_at",
+   "object": "Kasetsart-Universität",
+   "role": "Lehrer für Samatha- und Vipassana-Meditation",
+   "place": null,
+   "year_start": 1976,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ab 1976 lehrte er Samatha- und Vipassana-Meditation an der Kasetsart-Universität.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Somdet Phra Nyanasamvara Suvaddhana",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q3480753.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Somdet Phra Nyanasamvara Suvaddhana",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

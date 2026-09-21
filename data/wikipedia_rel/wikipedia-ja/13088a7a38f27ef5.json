@@ -1,0 +1,167 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "パウル・ヤーコプ・ドイセン",
+   "birth_year": 1845,
+   "death_year": 1919,
+   "nationality": "ドイツ",
+   "field": "哲学, 東洋学, 仏教学"
+  },
+  {
+   "name": "アルトゥル・ショーペンハウアー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "哲学"
+  },
+  {
+   "name": "フリードリヒ・ニーチェ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "姉崎正治",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "日本",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "パウル・ヤーコプ・ドイセン",
+   "type": "influenced_by",
+   "object": "アルトゥル・ショーペンハウアー",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "アルトゥル・ショーペンハウアーの信奉者となり、ショーペンハウアー、イマヌエル・カントの哲学の研究を行った。",
+   "quote_ok": true
+  },
+  {
+   "subject": "パウル・ヤーコプ・ドイセン",
+   "type": "other",
+   "object": "フリードリヒ・ニーチェ",
+   "role": "友人",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "フリードリヒ・ニーチェの友人でもあった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "パウル・ヤーコプ・ドイセン",
+   "type": "studied_at",
+   "object": "ボン大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ボン大学、チュービンゲン大学、ベルリン大学に学び",
+   "quote_ok": true
+  },
+  {
+   "subject": "パウル・ヤーコプ・ドイセン",
+   "type": "studied_at",
+   "object": "チュービンゲン大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ボン大学、チュービンゲン大学、ベルリン大学に学び",
+   "quote_ok": true
+  },
+  {
+   "subject": "パウル・ヤーコプ・ドイセン",
+   "type": "studied_at",
+   "object": "ベルリン大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ボン大学、チュービンゲン大学、ベルリン大学に学び",
+   "quote_ok": true
+  },
+  {
+   "subject": "パウル・ヤーコプ・ドイセン",
+   "type": "position_at",
+   "object": "ベルリン大学",
+   "role": "私講師",
+   "place": null,
+   "year_start": 1881,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1881年にベルリン大学の私講師、1887年に員外教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "パウル・ヤーコプ・ドイセン",
+   "type": "position_at",
+   "object": "ベルリン大学",
+   "role": "員外教授",
+   "place": null,
+   "year_start": 1887,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1887年に員外教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "パウル・ヤーコプ・ドイセン",
+   "type": "position_at",
+   "object": "キール大学",
+   "role": "教授",
+   "place": null,
+   "year_start": 1889,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1889年にキール大学の教授となった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "パウル・ヤーコプ・ドイセン",
+   "type": "founded",
+   "object": "ショーペンハウアー協会",
+   "role": null,
+   "place": null,
+   "year_start": 1911,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1911年ショーペンハウアー協会を設立した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "姉崎正治",
+   "type": "student_of",
+   "object": "パウル・ヤーコプ・ドイセン",
+   "role": "弟子",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "姉崎正治（姉崎嘲風）はドイセンの弟子であり",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): パウル・ドイセン",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q26714.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): パウル・ドイセン",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

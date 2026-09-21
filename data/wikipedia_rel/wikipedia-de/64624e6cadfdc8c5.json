@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Uchiyama Kōshō",
+   "birth_year": 1912,
+   "death_year": 1998,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "Sawaki Kodo",
+   "birth_year": 1880,
+   "death_year": 1965,
+   "nationality": "Japan",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Uchiyama Kōshō",
+   "type": "student_of",
+   "object": "Sawaki Kodo",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": 1941,
+   "year_end": 1965,
+   "explicit": true,
+   "evidence": "Er wurde 1941 von Sawaki Kodo Roshi (1880–1965) zum Mönch ordiniert und kümmerte sich um seinen Meister bis zu dessen Tod 1965 im Kloster Antai-ji.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Uchiyama Kōshō",
+   "type": "succeeded",
+   "object": "Sawaki Kodo",
+   "role": "sechster Abt",
+   "place": "Antai-ji",
+   "year_start": 1965,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nach Sawakis Tod folgte ihm Uchiyama als sechster Abt des Antai-ji nach.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Uchiyama Kōshō",
+   "type": "position_at",
+   "object": "Antai-ji",
+   "role": "sechster Abt",
+   "place": null,
+   "year_start": 1965,
+   "year_end": 1975,
+   "explicit": true,
+   "evidence": "Nach Sawakis Tod folgte ihm Uchiyama als sechster Abt des Antai-ji nach. [...] 1975 zog er sich aus dem Antai-ji zurück",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Uchiyama Kōshō",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1621698.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Uchiyama Kōshō",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

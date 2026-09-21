@@ -1,0 +1,93 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Vasily Pavlovich Vasilyev",
+   "birth_year": 1818,
+   "death_year": 1900,
+   "nationality": "Russian",
+   "field": "Sinologist"
+  },
+  {
+   "name": "Nicolai A. Vasiliev",
+   "birth_year": 1880,
+   "death_year": 1940,
+   "nationality": null,
+   "field": "logician"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Vasily Pavlovich Vasilyev",
+   "type": "studied_at",
+   "object": "Oriental department of the Kazan University",
+   "role": null,
+   "place": null,
+   "year_start": 1834,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "entered the Oriental department of the Kazan University in 1834",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vasily Pavlovich Vasilyev",
+   "type": "position_at",
+   "object": "university of Kazan",
+   "role": "chair in Chinese philology",
+   "place": null,
+   "year_start": 1850,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Back in Russia in 1850, he was offered the chair in Chinese philology at the university of Kazan.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vasily Pavlovich Vasilyev",
+   "type": "position_at",
+   "object": "Petersburg Academy of Sciences",
+   "role": null,
+   "place": null,
+   "year_start": 1886,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was elected into the Petersburg Academy of Sciences in 1886",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vasily Pavlovich Vasilyev",
+   "type": "position_at",
+   "object": "Department of Oriental Studies at the University of St. Petersburg",
+   "role": "in charge",
+   "place": null,
+   "year_start": 1878,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "was in charge of the Department of Oriental Studies at the University of St. Petersburg between 1878 and 1893.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nicolai A. Vasiliev",
+   "type": "other",
+   "object": "Vasily Pavlovich Vasilyev",
+   "role": "grandson",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His grandson Nicolai A. Vasiliev (1880-1940) was a noted logician.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Vasily Vasilyev",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q721077.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Vasily Vasilyev",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

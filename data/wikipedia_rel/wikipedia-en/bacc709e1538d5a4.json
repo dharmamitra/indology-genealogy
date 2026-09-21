@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Isaac Jacob Schmidt",
+   "birth_year": 1779,
+   "death_year": 1847,
+   "nationality": "Russian",
+   "field": "Mongolian and Tibetan studies"
+  },
+  {
+   "name": "Julius Klaproth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Isaac Jacob Schmidt",
+   "type": "position_at",
+   "object": "Russian Academy of Sciences",
+   "role": "member",
+   "place": "St. Petersburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he spent much of his career in St. Petersburg as a member of the Russian Academy of Sciences.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Isaac Jacob Schmidt",
+   "type": "other",
+   "object": "Julius Klaproth",
+   "role": "feud",
+   "place": null,
+   "year_start": 1812,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1812, Julius Klaproth's Dissertation on language and script of the Uighurs (Abhandlung über die Sprache und Schrift der Uiguren) became the subject of a long-standing dispute. Klaproth asserted that Uighur was a Turkic language, while Schmidt was persuaded that Uighur should be classified as a \"Tangut\" language.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Isaac Jacob Schmidt",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q213754.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Isaac Jacob Schmidt",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

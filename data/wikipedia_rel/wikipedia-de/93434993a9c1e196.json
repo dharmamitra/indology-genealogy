@@ -1,0 +1,136 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Michel Jules Alfred Bréal",
+   "birth_year": 1832,
+   "death_year": 1915,
+   "nationality": "French",
+   "field": "Philologie, vergleichende Sprachwissenschaft"
+  },
+  {
+   "name": "Albrecht Weber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Franz Bopp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "vergleichende Sprachwissenschaft"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Michel Jules Alfred Bréal",
+   "type": "studied_at",
+   "object": "École Normale Supérieure",
+   "role": null,
+   "place": "Paris",
+   "year_start": 1852,
+   "year_end": 1855,
+   "explicit": true,
+   "evidence": "Bréal absolvierte ein Studium (1852–1855) an der École Normale Supérieure in Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michel Jules Alfred Bréal",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1857,
+   "year_end": 1859,
+   "explicit": true,
+   "evidence": "reiste er 1857 nach Berlin, um zwei Jahre Sanskrit bei Albrecht Weber und vergleichende Sprachwissenschaft bei Franz Bopp zu studieren",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michel Jules Alfred Bréal",
+   "type": "student_of",
+   "object": "Albrecht Weber",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1857,
+   "year_end": 1859,
+   "explicit": true,
+   "evidence": "reiste er 1857 nach Berlin, um zwei Jahre Sanskrit bei Albrecht Weber und vergleichende Sprachwissenschaft bei Franz Bopp zu studieren",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michel Jules Alfred Bréal",
+   "type": "student_of",
+   "object": "Franz Bopp",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1857,
+   "year_end": 1859,
+   "explicit": true,
+   "evidence": "reiste er 1857 nach Berlin, um zwei Jahre Sanskrit bei Albrecht Weber und vergleichende Sprachwissenschaft bei Franz Bopp zu studieren",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michel Jules Alfred Bréal",
+   "type": "position_at",
+   "object": "Bibliothèque Impériale",
+   "role": "Abteilung für orientalische Schriften",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zurückgekehrt nach Paris, arbeitete er in der Abteilung für orientalische Schriften an der kaiserlichen Bibliothek (Bibliothèque Impériale).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michel Jules Alfred Bréal",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "Professor für vergleichende Sprachwissenschaft",
+   "place": "Paris",
+   "year_start": 1866,
+   "year_end": 1905,
+   "explicit": true,
+   "evidence": "Lehrtätigkeit als Professor für vergleichende Sprachwissenschaft am Collège de France (1866–1905)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michel Jules Alfred Bréal",
+   "type": "position_at",
+   "object": "École pratique des hautes études",
+   "role": "Professor",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Lehrtätigkeit als Professor für vergleichende Sprachwissenschaft am Collège de France (1866–1905) und an der École pratique des hautes études.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michel Jules Alfred Bréal",
+   "type": "founded",
+   "object": "Société de Linguistique de Paris",
+   "role": "Mitgründer",
+   "place": "Paris",
+   "year_start": 1866,
+   "year_end": 1866,
+   "explicit": true,
+   "evidence": "1866 war er an der Gründung der Société de Linguistique de Paris beteiligt",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Michel Bréal",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q327306.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Michel Bréal",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

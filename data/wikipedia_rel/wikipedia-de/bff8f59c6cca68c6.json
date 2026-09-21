@@ -1,0 +1,93 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Leopold Alexander von Schroeder",
+   "birth_year": 1851,
+   "death_year": 1920,
+   "nationality": "deutschbaltisch",
+   "field": "Indologie"
+  },
+  {
+   "name": "Leo Meyer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Leopold Alexander von Schroeder",
+   "type": "student_of",
+   "object": "Leo Meyer",
+   "role": "teacher",
+   "place": "Kaiserliche Universität Dorpat",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wo er vorher ein Student Leo Meyers gewesen war",
+   "quote_ok": true
+  },
+  {
+   "subject": "Leopold Alexander von Schroeder",
+   "type": "studied_at",
+   "object": "Kaiserliche Universität Dorpat",
+   "role": null,
+   "place": "Dorpat",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Kaiserlichen Universität Dorpat, wo er vorher ein Student Leo Meyers gewesen war",
+   "quote_ok": true
+  },
+  {
+   "subject": "Leopold Alexander von Schroeder",
+   "type": "position_at",
+   "object": "Kaiserliche Universität Dorpat",
+   "role": "Dozent für Indologie",
+   "place": "Dorpat",
+   "year_start": 1882,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Seit 1882 Dozent für Indologie an der Kaiserlichen Universität Dorpat",
+   "quote_ok": true
+  },
+  {
+   "subject": "Leopold Alexander von Schroeder",
+   "type": "position_at",
+   "object": "Innsbruck",
+   "role": "ordentlicher Professor",
+   "place": "Innsbruck",
+   "year_start": 1896,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1896 ordentlicher Professor in Innsbruck",
+   "quote_ok": true
+  },
+  {
+   "subject": "Leopold Alexander von Schroeder",
+   "type": "position_at",
+   "object": "Wien",
+   "role": null,
+   "place": "Wien",
+   "year_start": 1899,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "und arbeitete ab 1899 in Wien.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Leopold von Schroeder",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q70798.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Leopold von Schroeder",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

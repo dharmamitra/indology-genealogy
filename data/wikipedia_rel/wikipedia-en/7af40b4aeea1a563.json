@@ -1,0 +1,119 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Khenpo Gangshar Wangpo",
+   "birth_year": 1925,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Chögyam Trungpa Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "9th Thrangu Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Jamgon Kongtrul the Second",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Chögyam Trungpa Rinpoche",
+   "type": "student_of",
+   "object": "Khenpo Gangshar Wangpo",
+   "role": "primary teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": 1957,
+   "explicit": true,
+   "evidence": "Khenpo Gangshar Wangpo (b. 1925-?) was a highly respected lama in Eastern Tibet and one of the primary teachers of Chögyam Trungpa Rinpoche (the 11th Trungpa tulku)",
+   "quote_ok": true
+  },
+  {
+   "subject": "9th Thrangu Rinpoche",
+   "type": "student_of",
+   "object": "Khenpo Gangshar Wangpo",
+   "role": "primary teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "one of the primary teachers of Chögyam Trungpa Rinpoche (the 11th Trungpa tulku) and the 9th Thrangu Rinpoche.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Khenpo Gangshar Wangpo",
+   "type": "studied_at",
+   "object": "Shechen Monastery",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Khenpo Gangshar was trained in Shechen Monastery",
+   "quote_ok": true
+  },
+  {
+   "subject": "Khenpo Gangshar Wangpo",
+   "type": "student_of",
+   "object": "Jamgon Kongtrul the Second",
+   "role": "tutor",
+   "place": "Shechen Monastery",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gangshar Rinpoche was tutored by Jamgon Kongtrul the Second of Shechen Monastery.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Khenpo Gangshar Wangpo",
+   "type": "position_at",
+   "object": "Shechen Monastery",
+   "role": "senior professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he became one of six senior professors at Shechen Monastery.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Khenpo Gangshar Wangpo",
+   "type": "position_at",
+   "object": "Surmang shedra",
+   "role": "founding dean",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "It was quite remarkable at the time that a Nyingma professor be asked to serve as the founding dean of a Kagyu shedra (monastic college)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Gangshar Wangpo",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q5521206.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Gangshar Wangpo",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

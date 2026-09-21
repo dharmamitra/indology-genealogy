@@ -1,0 +1,71 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Kisari Mohan Ganguli",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Pratap Chandra Roy",
+   "birth_year": 1842,
+   "death_year": 1895,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ronald Inden",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Maureen Patterson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Kisari Mohan Ganguli",
+   "type": "collaborated_with",
+   "object": "Pratap Chandra Roy",
+   "role": "translation project",
+   "place": null,
+   "year_start": 1883,
+   "year_end": 1896,
+   "explicit": true,
+   "evidence": "His translation was published as The Mahabharata of Krishna-Dwaipayana Vyasa Translated into English Prose  between 1883 and 1896, by  Pratap Chandra Roy (1842–1895)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ronald Inden",
+   "type": "collaborated_with",
+   "object": "Maureen Patterson",
+   "role": "compilers",
+   "place": "University of Chicago",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ronald Inden and Maureen Patterson, compilers of the University of Chicago's Bibliography to South Asian Studies",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Kisari Mohan Ganguli",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q6416424.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Kisari Mohan Ganguli",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

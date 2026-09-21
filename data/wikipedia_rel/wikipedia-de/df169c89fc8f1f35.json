@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ludwig Noiré",
+   "birth_year": 1829,
+   "death_year": 1889,
+   "nationality": "German",
+   "field": "philosophy"
+  },
+  {
+   "name": "Schopenhauer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lazarus Geiger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ludwig Noiré",
+   "type": "influenced_by",
+   "object": "Schopenhauer",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Angeregt wurde er durch Schopenhauer, Spinoza und Lazarus Geiger.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ludwig Noiré",
+   "type": "influenced_by",
+   "object": "Lazarus Geiger",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Angeregt wurde er durch Schopenhauer, Spinoza und Lazarus Geiger.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Ludwig Noiré",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q119589.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Ludwig Noiré",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,136 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Eduard Hermann",
+   "birth_year": 1869,
+   "death_year": 1950,
+   "nationality": "German",
+   "field": "linguist"
+  },
+  {
+   "name": "Berthold Delbrück",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jacob Wackernagel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Eduard Hermann",
+   "type": "student_of",
+   "object": "Berthold Delbrück",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "defended his PhD in 1893 under Berthold Delbrück",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eduard Hermann",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hermann studied in Leipzig, Freiburg and Jena",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eduard Hermann",
+   "type": "studied_at",
+   "object": "Freiburg",
+   "role": null,
+   "place": "Freiburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hermann studied in Leipzig, Freiburg and Jena",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eduard Hermann",
+   "type": "studied_at",
+   "object": "Jena",
+   "role": "PhD",
+   "place": "Jena",
+   "year_start": null,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "Hermann studied in Leipzig, Freiburg and Jena and defended his PhD in 1893",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eduard Hermann",
+   "type": "position_at",
+   "object": "University of Kiel",
+   "role": "associate professor",
+   "place": "Kiel",
+   "year_start": 1913,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1913 he became an associate professor at the University of Kiel",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eduard Hermann",
+   "type": "position_at",
+   "object": "Frankfurt",
+   "role": "full professor",
+   "place": "Frankfurt",
+   "year_start": 1914,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1914 a full professor in Frankfurt",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eduard Hermann",
+   "type": "position_at",
+   "object": "University of Göttingen",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": 1917,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1917 he succeeded Jacob Wackernagel at the University of Göttingen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eduard Hermann",
+   "type": "succeeded",
+   "object": "Jacob Wackernagel",
+   "role": null,
+   "place": "University of Göttingen",
+   "year_start": 1917,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1917 he succeeded Jacob Wackernagel at the University of Göttingen.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Eduard Hermann (linguist)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1288704.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Eduard Hermann (linguist)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,124 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Joseph Hackin",
+   "birth_year": 1886,
+   "death_year": 1941,
+   "nationality": "French",
+   "field": "archaeologist"
+  },
+  {
+   "name": "Alfred Foucher",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Andre Godard",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Joseph Hackin",
+   "type": "position_at",
+   "object": "Musée Guimet",
+   "role": "curator",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a curator at the Musée Guimet",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Hackin",
+   "type": "collaborated_with",
+   "object": "Alfred Foucher",
+   "role": null,
+   "place": "Afghanistan",
+   "year_start": 1923,
+   "year_end": 1923,
+   "explicit": true,
+   "evidence": "explored Afghanistan in 1923 with Alfred Foucher and Andre Godard.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Hackin",
+   "type": "collaborated_with",
+   "object": "Andre Godard",
+   "role": null,
+   "place": "Afghanistan",
+   "year_start": 1923,
+   "year_end": 1923,
+   "explicit": true,
+   "evidence": "explored Afghanistan in 1923 with Alfred Foucher and Andre Godard.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Hackin",
+   "type": "studied_at",
+   "object": "Ecole libre des sciences politiques",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he graduated from the Ecole libre des sciences politiques and the École des langues orientales, Paris.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Hackin",
+   "type": "studied_at",
+   "object": "École des langues orientales, Paris",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he graduated from the Ecole libre des sciences politiques and the École des langues orientales, Paris.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Hackin",
+   "type": "position_at",
+   "object": "Musée Guimet",
+   "role": "assistant curator",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Initially, he was an assistant curator of the Musée Guimet and later became the curator.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Hackin",
+   "type": "position_at",
+   "object": "Délégation archéologique française en Afghanistan",
+   "role": "director",
+   "place": null,
+   "year_start": 1934,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he was appointed director of the Délégation archéologique française en Afghanistan in 1934.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Joseph Hackin",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q3185057.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Joseph Hackin",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

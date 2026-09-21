@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Johann Christoph Adelung",
+   "birth_year": 1732,
+   "death_year": 1806,
+   "nationality": "German",
+   "field": "grammarian and philologist"
+  },
+  {
+   "name": "Johann Severin Vater",
+   "birth_year": 1771,
+   "death_year": 1826,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johann Christoph Adelung",
+   "type": "studied_at",
+   "object": "University of Halle",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "educated at schools in Anklam and Berge Monastery, Magdeburg, and the University of Halle",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Christoph Adelung",
+   "type": "position_at",
+   "object": "gymnasium of Erfurt",
+   "role": "professor",
+   "place": "Erfurt",
+   "year_start": 1759,
+   "year_end": 1761,
+   "explicit": true,
+   "evidence": "In 1759 he was appointed professor at the gymnasium of Erfurt, but relinquished this situation two years later",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Christoph Adelung",
+   "type": "position_at",
+   "object": "Elector of Saxony",
+   "role": "principal librarian",
+   "place": "Dresden",
+   "year_start": 1787,
+   "year_end": 1806,
+   "explicit": true,
+   "evidence": "In 1787 he received the appointment of principal librarian to the Elector of Saxony at Dresden, where he continued to reside until his death in 1806.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Severin Vater",
+   "type": "collaborated_with",
+   "object": "Johann Christoph Adelung",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The first volume, which contains the Asiatic languages, was published immediately after his death; the other two were issued under the superintendence of Johann Severin Vater (1771–1826).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Johann Christoph Adelung",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q156413.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Johann Christoph Adelung",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

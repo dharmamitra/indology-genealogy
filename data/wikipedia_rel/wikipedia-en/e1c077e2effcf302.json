@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Otto von Böhtlingk",
+   "birth_year": 1815,
+   "death_year": 1904,
+   "nationality": "Russian-German",
+   "field": "Indology and Sanskrit"
+  },
+  {
+   "name": "Franz Bopp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rudolf Roth",
+   "birth_year": null,
+   "death_year": 1895,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Albrecht Weber",
+   "birth_year": 1825,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Otto von Böhtlingk",
+   "type": "studied_at",
+   "object": "University of Saint Petersburg",
+   "role": null,
+   "place": "Saint Petersburg",
+   "year_start": 1833,
+   "year_end": 1835,
+   "explicit": true,
+   "evidence": "Having studied (1833–1835) Oriental languages, particularly Arabic, Persian and Sanskrit, at the University of Saint Petersburg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto von Böhtlingk",
+   "type": "studied_at",
+   "object": "Bonn",
+   "role": null,
+   "place": "Bonn",
+   "year_start": 1839,
+   "year_end": 1842,
+   "explicit": true,
+   "evidence": "he continued his studies in Germany, first in Berlin and then (1839–1842) in Bonn.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto von Böhtlingk",
+   "type": "position_at",
+   "object": "Royal Academy of Sciences",
+   "role": "ordinary member",
+   "place": "Saint Petersburg",
+   "year_start": 1855,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Returning to Saint Petersburg in 1842, he was attached to the Royal Academy of Sciences, and was elected an ordinary member of that society in 1855.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto von Böhtlingk",
+   "type": "collaborated_with",
+   "object": "Rudolf Roth",
+   "role": "co-author / assistant on Sanskrit-Wörterbuch",
+   "place": null,
+   "year_start": 1853,
+   "year_end": 1875,
+   "explicit": true,
+   "evidence": "His magnum opus was his great Sanskrit-German dictionary, Sanskrit-Wörterbuch... which with the assistance of his two friends, Rudolf Roth (d. 1895) and Albrecht Weber (b. 1825), was completed in 23 years.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto von Böhtlingk",
+   "type": "collaborated_with",
+   "object": "Albrecht Weber",
+   "role": "co-author / assistant on Sanskrit-Wörterbuch",
+   "place": null,
+   "year_start": 1853,
+   "year_end": 1875,
+   "explicit": true,
+   "evidence": "His magnum opus was his great Sanskrit-German dictionary, Sanskrit-Wörterbuch... which with the assistance of his two friends, Rudolf Roth (d. 1895) and Albrecht Weber (b. 1825), was completed in 23 years.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Otto von Böhtlingk",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q76423.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Otto von Böhtlingk",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

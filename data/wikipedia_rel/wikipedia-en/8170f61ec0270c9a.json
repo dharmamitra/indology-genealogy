@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Louis Herbert Gray",
+   "birth_year": 1875,
+   "death_year": 1955,
+   "nationality": "American",
+   "field": "Orientalist"
+  },
+  {
+   "name": "A. V. Williams Jackson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Louis Herbert Gray",
+   "type": "studied_at",
+   "object": "Princeton University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1896,
+   "explicit": true,
+   "evidence": "He graduated from Princeton University in 1896",
+   "quote_ok": true
+  },
+  {
+   "subject": "Louis Herbert Gray",
+   "type": "studied_at",
+   "object": "Columbia University",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1900,
+   "explicit": true,
+   "evidence": "and from Columbia University (Ph.D., 1900).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Louis Herbert Gray",
+   "type": "position_at",
+   "object": "University of Nebraska",
+   "role": "professor",
+   "place": null,
+   "year_start": 1921,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "afterwards (1921) served as professor at the University of Nebraska.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Louis Herbert Gray",
+   "type": "collaborated_with",
+   "object": "A. V. Williams Jackson",
+   "role": null,
+   "place": null,
+   "year_start": 1901,
+   "year_end": 1932,
+   "explicit": true,
+   "evidence": "His 1902 work Indo-Iranian Phonology was published as the second volume of the 13 volume Columbia University Indo-Iranian Series, published by the Columbia University Press, in between 1901–32 and edited by A. V. Williams Jackson.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Louis Herbert Gray",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q6687378.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Louis Herbert Gray",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,143 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Soyen Shaku",
+   "birth_year": 1860,
+   "death_year": 1919,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Imakita Kosen",
+   "birth_year": null,
+   "death_year": 1892,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "D. T. Suzuki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Zen Buddhism"
+  },
+  {
+   "name": "Nyogen Senzaki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Soyen Shaku",
+   "type": "student_of",
+   "object": "Imakita Kosen",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Soyen was a disciple of Imakita Kosen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Soyen Shaku",
+   "type": "studied_at",
+   "object": "Keio University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied for three years at Keio University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Soyen Shaku",
+   "type": "position_at",
+   "object": "Nagata Zendo",
+   "role": null,
+   "place": "Japan",
+   "year_start": 1890,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Upon his return to Japan in 1890, he taught at the Nagata Zendo.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Soyen Shaku",
+   "type": "position_at",
+   "object": "Engaku-ji",
+   "role": "Zen master",
+   "place": "Kamakura",
+   "year_start": 1892,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1892, upon Kosen's death, Shaku became Zen master of Engaku-ji.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Soyen Shaku",
+   "type": "position_at",
+   "object": "Rinzaishū Daigaku",
+   "role": "president",
+   "place": "Kyoto",
+   "year_start": 1914,
+   "year_end": 1917,
+   "explicit": true,
+   "evidence": "From 1914 to 1917, Shaku served as the president of the Rinzai sect university, Rinzaishū Daigaku (today Hanazono University) in Kyoto.",
+   "quote_ok": true
+  },
+  {
+   "subject": "D. T. Suzuki",
+   "type": "student_of",
+   "object": "Soyen Shaku",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He had prepared a speech in Japan, and had it translated into English by his (then young and unknown) student D. T. Suzuki.",
+   "quote_ok": true
+  },
+  {
+   "subject": "D. T. Suzuki",
+   "type": "position_at",
+   "object": "Tokyo University",
+   "role": "scholar",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Shaku, upon returning to Japan asked his student and Tokyo University scholar D. T. Suzuki to go to the United States",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nyogen Senzaki",
+   "type": "student_of",
+   "object": "Soyen Shaku",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Shortly after arriving, Shaku was joined by his student Nyogen Senzaki.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Soyen Shaku",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q3481283.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Soyen Shaku",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Moritz Abraham Stern",
+   "birth_year": 1807,
+   "death_year": 1894,
+   "nationality": "German",
+   "field": "mathematics"
+  },
+  {
+   "name": "Carl Friedrich Gauss",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Bernhard Riemann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Moritz Abraham Stern",
+   "type": "position_at",
+   "object": "Göttingen University",
+   "role": "Ordinarius (full professor)",
+   "place": null,
+   "year_start": 1858,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Stern became Ordinarius (full professor) at Göttingen University in 1858",
+   "quote_ok": true
+  },
+  {
+   "subject": "Moritz Abraham Stern",
+   "type": "succeeded",
+   "object": "Carl Friedrich Gauss",
+   "role": null,
+   "place": "Göttingen University",
+   "year_start": 1858,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Stern became Ordinarius (full professor) at Göttingen University in 1858, succeeding Carl Friedrich Gauss.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bernhard Riemann",
+   "type": "student_of",
+   "object": "Moritz Abraham Stern",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "As a professor, Stern taught Gauss's student Bernhard Riemann.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bernhard Riemann",
+   "type": "student_of",
+   "object": "Carl Friedrich Gauss",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gauss's student Bernhard Riemann",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Moritz Abraham Stern",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q77510.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Moritz Abraham Stern",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

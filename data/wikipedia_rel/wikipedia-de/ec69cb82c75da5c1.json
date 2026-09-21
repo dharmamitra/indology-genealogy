@@ -1,0 +1,167 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Wilhelm Rau",
+   "birth_year": 1922,
+   "death_year": 1999,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Friedrich Weller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Johannes Nobel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Peri Sarveswara Sharma",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Wilhelm Rau",
+   "type": "studied_at",
+   "object": "Universität Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": 1940,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "legte 1940 am dortigen Rutheneum... das Abitur ab. Er begann anschließend an der Universität Leipzig ein Studium in den Fächern Indologie",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Rau",
+   "type": "student_of",
+   "object": "Friedrich Weller",
+   "role": "teacher",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er begann anschließend an der Universität Leipzig ein Studium in den Fächern Indologie (bei Friedrich Weller)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Rau",
+   "type": "studied_at",
+   "object": "Universität Marburg",
+   "role": "Promotion",
+   "place": "Marburg",
+   "year_start": 1946,
+   "year_end": 1949,
+   "explicit": true,
+   "evidence": "1946 nahm Rau an der Universität Marburg sein Studium wieder auf, promovierte dort 1949 in Indologie bei Johannes Nobel",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Rau",
+   "type": "student_of",
+   "object": "Johannes Nobel",
+   "role": "doctoral supervisor",
+   "place": "Marburg",
+   "year_start": null,
+   "year_end": 1949,
+   "explicit": true,
+   "evidence": "promovierte dort 1949 in Indologie bei Johannes Nobel mit einer Arbeit über Vallabhadevas Kommentar zu Māghas Śiśupālavadha",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Rau",
+   "type": "studied_at",
+   "object": "Universität Marburg",
+   "role": "Habilitation",
+   "place": "Marburg",
+   "year_start": null,
+   "year_end": 1952,
+   "explicit": true,
+   "evidence": "habilitierte sich 1952 über Staat und Gesellschaft im Alten Indien.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Rau",
+   "type": "position_at",
+   "object": "Universität Frankfurt am Main",
+   "role": "außerplanmäßige Professur für Vergleichende Indogermanische Sprachwissenschaft",
+   "place": "Frankfurt am Main",
+   "year_start": 1955,
+   "year_end": 1958,
+   "explicit": true,
+   "evidence": "übernahm er 1955 eine außerplanmäßige Professur für Vergleichende Indogermanische Sprachwissenschaft an der Universität Frankfurt am Main",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Rau",
+   "type": "succeeded",
+   "object": "Johannes Nobel",
+   "role": "Ordinarius am damaligen Indisch-Ostasiatischen Seminar",
+   "place": "Universität Marburg",
+   "year_start": 1958,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "bevor er 1958 die Nachfolge Nobels als Ordinarius am damaligen Indisch-Ostasiatischen Seminar der Universität Marburg antrat.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Rau",
+   "type": "position_at",
+   "object": "Universität Marburg",
+   "role": "Ordinarius am damaligen Indisch-Ostasiatischen Seminar",
+   "place": "Marburg",
+   "year_start": 1958,
+   "year_end": 1987,
+   "explicit": true,
+   "evidence": "bevor er 1958 die Nachfolge Nobels als Ordinarius am damaligen Indisch-Ostasiatischen Seminar der Universität Marburg antrat. 1987 wurde er emeritiert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Rau",
+   "type": "position_at",
+   "object": "Universität Leipzig",
+   "role": "Lehrauftrag für Indologie",
+   "place": "Leipzig",
+   "year_start": 1992,
+   "year_end": 1993,
+   "explicit": true,
+   "evidence": "übernahm Rau 1992/93 nochmals einen Lehrauftrag für Indologie an der Universität Leipzig",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Rau",
+   "type": "collaborated_with",
+   "object": "Peri Sarveswara Sharma",
+   "role": "co-authors",
+   "place": null,
+   "year_start": 1981,
+   "year_end": 1981,
+   "explicit": true,
+   "evidence": "(mit Peri Sarveswara Sharma:) Vākyapadīyaprameyasamgraha. Ein anonymes Scholion zum 2. Kānḍạ des Vākyapadīya. Nach der einzigen bekannten Handschrift hrsg. Fink, München 1981.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Wilhelm Rau",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q2574581.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Wilhelm Rau",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

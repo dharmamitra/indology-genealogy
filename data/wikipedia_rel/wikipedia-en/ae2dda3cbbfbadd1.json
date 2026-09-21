@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Robert Charles Zaehner",
+   "birth_year": 1913,
+   "death_year": 1974,
+   "nationality": "British",
+   "field": "Eastern religions"
+  },
+  {
+   "name": "E. O. James",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rudolph Otto",
+   "birth_year": 1869,
+   "death_year": 1937,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Robert Charles Zaehner",
+   "type": "position_at",
+   "object": "Oxford University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At Oxford University, his first writings were on the Zoroastrian religion and its texts.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Robert Charles Zaehner",
+   "type": "influenced_by",
+   "object": "E. O. James",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "He starts by saluting E. O. James.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Robert Charles Zaehner",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q959943.txt#1",
+ "meta": {
+  "title": "Wikipedia (en): Robert Charles Zaehner",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

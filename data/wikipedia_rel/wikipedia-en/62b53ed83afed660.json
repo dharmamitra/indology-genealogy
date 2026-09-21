@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Constantin Regamey",
+   "birth_year": 1907,
+   "death_year": 1982,
+   "nationality": "Swiss",
+   "field": "philologist, orientalist, musician, composer, and critic"
+  },
+  {
+   "name": "Józef Turczyński",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "piano"
+  },
+  {
+   "name": "Felicjan Szopski",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "music theory"
+  },
+  {
+   "name": "Kazimierz Sikorski",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "composition"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Constantin Regamey",
+   "type": "student_of",
+   "object": "Józef Turczyński",
+   "role": "teacher",
+   "place": "Warsaw",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he studied piano with Józef Turczyński",
+   "quote_ok": true
+  },
+  {
+   "subject": "Constantin Regamey",
+   "type": "student_of",
+   "object": "Felicjan Szopski",
+   "role": "teacher",
+   "place": "Warsaw",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he studied piano with Józef Turczyński and music theory with Felicjan Szopski.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Constantin Regamey",
+   "type": "studied_at",
+   "object": "University of Warsaw",
+   "role": "degree",
+   "place": "Warsaw",
+   "year_start": null,
+   "year_end": 1931,
+   "explicit": true,
+   "evidence": "In 1931, he received a degree from the University of Warsaw in oriental and classical philology.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Constantin Regamey",
+   "type": "position_at",
+   "object": "University of Warsaw",
+   "role": "lecturer",
+   "place": "Warsaw",
+   "year_start": 1936,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He became a lecturer there in 1936.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Constantin Regamey",
+   "type": "student_of",
+   "object": "Kazimierz Sikorski",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He later studied composition formally with Kazimierz Sikorski.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Constantin Regamey",
+   "type": "position_at",
+   "object": "University of Lausanne",
+   "role": "professor of Slavic and Oriental languages",
+   "place": "Lausanne",
+   "year_start": 1945,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1945, he became professor of Slavic and Oriental languages at the University of Lausanne.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Constantin Regamey",
+   "type": "position_at",
+   "object": "University of Fribourg",
+   "role": "taught linguistics",
+   "place": "Fribourg",
+   "year_start": 1946,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He also taught linguistics at the University of Fribourg beginning in 1946.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Constantin Regamey",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q2995022.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Constantin Regamey",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

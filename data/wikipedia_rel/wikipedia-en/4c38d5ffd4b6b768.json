@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Victor Henry",
+   "birth_year": 1850,
+   "death_year": 1907,
+   "nationality": "French",
+   "field": "philologist"
+  },
+  {
+   "name": "Abel Bergaigne",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Willem Caland",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Victor Henry",
+   "type": "position_at",
+   "object": "University of Douai",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Having held appointments at the University of Douai and the University of Lille",
+   "quote_ok": true
+  },
+  {
+   "subject": "Victor Henry",
+   "type": "position_at",
+   "object": "University of Lille",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Having held appointments at the University of Douai and the University of Lille",
+   "quote_ok": true
+  },
+  {
+   "subject": "Victor Henry",
+   "type": "position_at",
+   "object": "University of Paris",
+   "role": "professor of Sanskrit and comparative grammar",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Henry was appointed professor of Sanskrit and comparative grammar at the University of Paris.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Victor Henry",
+   "type": "collaborated_with",
+   "object": "Abel Bergaigne",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1890,
+   "explicit": true,
+   "evidence": "Manuel pour étudier le Sanscrit védique (\"Manual for the Study of Vedic Sanskrit\", with Abel Bergaigne, 1890)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Victor Henry",
+   "type": "collaborated_with",
+   "object": "Willem Caland",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1906,
+   "explicit": true,
+   "evidence": "L'Agniṣṭoma (\"Angiṣṭoma: A Complete Description of the Normal Form of Soma Sacrifice in the Vedic Religion\", with Willem Caland, 1906)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Victor Henry (philologist)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1386172.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Victor Henry (philologist)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

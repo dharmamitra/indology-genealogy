@@ -1,0 +1,136 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Wilhelm Ludwig Geiger",
+   "birth_year": 1856,
+   "death_year": 1943,
+   "nationality": "German",
+   "field": "Indology and Iranian studies"
+  },
+  {
+   "name": "Friedrich Spiegel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ernst Kuhn",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Wilhelm Ludwig Geiger",
+   "type": "student_of",
+   "object": "Friedrich Spiegel",
+   "role": "teacher",
+   "place": "Erlangen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er studierte klassische und orientalische Philologie in Erlangen bei Friedrich Spiegel",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Ludwig Geiger",
+   "type": "studied_at",
+   "object": "Universität Erlangen",
+   "role": "PhD",
+   "place": "Erlangen",
+   "year_start": null,
+   "year_end": 1876,
+   "explicit": true,
+   "evidence": "Er studierte klassische und orientalische Philologie in Erlangen bei Friedrich Spiegel [...] 1876 promovierte er über Die Pehleviversion des Ersten Capitels des Vendidâd.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Ludwig Geiger",
+   "type": "position_at",
+   "object": "Universität München",
+   "role": "Privatdozent",
+   "place": "München",
+   "year_start": 1888,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ab dem Wintersemester 1888/89 bereits Privatdozent in München",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Ludwig Geiger",
+   "type": "position_at",
+   "object": "Universität Erlangen",
+   "role": "o. Professor der indogermanischen Sprachwissenschaft",
+   "place": "Erlangen",
+   "year_start": 1891,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wurde er 1891 zum o. Professor der indogermanischen Sprachwissenschaft an der philosophischen Fakultät der Universität Erlangen ernannt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Ludwig Geiger",
+   "type": "position_at",
+   "object": "Universität München",
+   "role": "Professor",
+   "place": "München",
+   "year_start": 1920,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1920 folgte Geiger dem Ruf an die Universität München, wo er die Nachfolge von Ernst Kuhn antrat.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Ludwig Geiger",
+   "type": "succeeded",
+   "object": "Ernst Kuhn",
+   "role": null,
+   "place": "Universität München",
+   "year_start": 1920,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1920 folgte Geiger dem Ruf an die Universität München, wo er die Nachfolge von Ernst Kuhn antrat.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Ludwig Geiger",
+   "type": "collaborated_with",
+   "object": "Ernst Kuhn",
+   "role": "co-editors",
+   "place": null,
+   "year_start": 1895,
+   "year_end": 1904,
+   "explicit": true,
+   "evidence": "mit Ernst Kuhn (Hrsg.): Grundriß der iranischen Philologie. Trübner, Straßburg 1895–1904.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Ludwig Geiger",
+   "type": "collaborated_with",
+   "object": "Friedrich Spiegel",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1886,
+   "explicit": true,
+   "evidence": "The Age of the Avesta and Zoroaster, co-authored with Friedrich Spiegel",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Wilhelm Geiger (Sprachwissenschaftler)",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q76695.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Wilhelm Geiger (Sprachwissenschaftler)",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

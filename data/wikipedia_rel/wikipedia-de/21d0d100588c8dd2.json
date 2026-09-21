@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John Lockwood Kipling",
+   "birth_year": 1837,
+   "death_year": 1911,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Hugues Protât",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Lockwood Kipling",
+   "type": "student_of",
+   "object": "Hugues Protât",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "besuchte Abendkurse in Töpfereien, wo Hugues Protât einer seiner Lehrer war.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Lockwood Kipling",
+   "type": "position_at",
+   "object": "School of Art",
+   "role": "Lehrer",
+   "place": "Bombay",
+   "year_start": 1865,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "trat als Lehrer in die von Jamsetjee Jejeebhoy neu gegründete „School of Art“ in Bombay in Britisch-Indien ein.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Lockwood Kipling",
+   "type": "position_at",
+   "object": "Mayo School of Arts",
+   "role": "Rektor",
+   "place": "Lahore",
+   "year_start": 1875,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "Von 1875 bis 1893 war er der erste Rektor der „Mayo School of Arts“ (heute Pakistans Nationale Kunsthochschule)",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Lockwood Kipling",
+   "type": "position_at",
+   "object": "Lahore Museum",
+   "role": "Kurator",
+   "place": "Lahore",
+   "year_start": 1875,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "Von 1875 bis 1893 war er der erste Rektor der „Mayo School of Arts“ (heute Pakistans Nationale Kunsthochschule) und Kurator des Lahore Museum im heutigen Pakistan.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): John Lockwood Kipling",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q538533.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): John Lockwood Kipling",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

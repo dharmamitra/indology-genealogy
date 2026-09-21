@@ -1,0 +1,160 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Hermann Goetz",
+   "birth_year": 1898,
+   "death_year": 1976,
+   "nationality": "deutsch",
+   "field": "Kunsthistoriker"
+  },
+  {
+   "name": "Ernst Cohn-Wiener",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hermann Kulke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hermann Goetz",
+   "type": "studied_at",
+   "object": "Universität München",
+   "role": "Promotion",
+   "place": "München",
+   "year_start": null,
+   "year_end": 1923,
+   "explicit": true,
+   "evidence": "Er studierte Kunstgeschichte an der Universität München und wurde 1923 über Die Hoftrachten des Großmoghul-Reiches promoviert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Goetz",
+   "type": "position_at",
+   "object": "Völkerkunde-Museum in Berlin",
+   "role": "Assistent",
+   "place": "Berlin",
+   "year_start": 1926,
+   "year_end": 1931,
+   "explicit": true,
+   "evidence": "1926 bis 1931 war er Assistent am Völkerkunde-Museum in Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Goetz",
+   "type": "position_at",
+   "object": "Kern-Institut für Indische Archäologie und Geschichte der Universität Leiden",
+   "role": null,
+   "place": "Leiden",
+   "year_start": 1931,
+   "year_end": 1935,
+   "explicit": true,
+   "evidence": "1931 bis 1935 war er am Kern-Institut für Indische Archäologie und Geschichte der Universität Leiden.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Goetz",
+   "type": "position_at",
+   "object": "Museum des Maharadscha Sayaji Rao Gaekwad III von Baroda",
+   "role": "Direktor",
+   "place": "Baroda",
+   "year_start": 1940,
+   "year_end": 1953,
+   "explicit": true,
+   "evidence": "1940 wurde er Direktor des Museums des Maharadscha Sayaji Rao Gaekwad III (1863–1939) von Baroda als Nachfolger von Ernst Cohn-Wiener",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Goetz",
+   "type": "succeeded",
+   "object": "Ernst Cohn-Wiener",
+   "role": "Direktor",
+   "place": "Museum des Maharadscha Sayaji Rao Gaekwad III von Baroda",
+   "year_start": 1940,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1940 wurde er Direktor des Museums des Maharadscha Sayaji Rao Gaekwad III (1863–1939) von Baroda als Nachfolger von Ernst Cohn-Wiener, der ab 1934 Direktor war",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Goetz",
+   "type": "founded",
+   "object": "Bulletin of the Baroda Museum",
+   "role": null,
+   "place": null,
+   "year_start": 1943,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1943 gründete er das Bulletin of the Baroda Museum",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Goetz",
+   "type": "position_at",
+   "object": "Universität Baroda",
+   "role": "Honorarprofessor",
+   "place": "Baroda",
+   "year_start": 1943,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1943 gründete er das Bulletin of the Baroda Museum und wurde Honorarprofessor an der Universität Baroda.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Goetz",
+   "type": "position_at",
+   "object": "National Gallery of Modern Art in New Delhi",
+   "role": "Direktor",
+   "place": "New Delhi",
+   "year_start": 1953,
+   "year_end": 1955,
+   "explicit": true,
+   "evidence": "Nach seinem Ruhestand 1953 wurde er Direktor der National Gallery of Modern Art in New Delhi",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Goetz",
+   "type": "position_at",
+   "object": "Südasien-Institut der Universität Heidelberg",
+   "role": "Honorarprofessor",
+   "place": "Heidelberg",
+   "year_start": 1961,
+   "year_end": 1976,
+   "explicit": true,
+   "evidence": "1961 wurde er Honorarprofessor am neu gegründeten Südasien-Institut der Universität Heidelberg, an dem er bis zu seinem Tod 1976 lehrte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Kulke",
+   "type": "student_of",
+   "object": "Hermann Goetz",
+   "role": "teacher",
+   "place": "Heidelberg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zu seinen Schülern in Heidelberg gehört Hermann Kulke.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Hermann Goetz (Kunsthistoriker)",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q15428172.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Hermann Goetz (Kunsthistoriker)",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

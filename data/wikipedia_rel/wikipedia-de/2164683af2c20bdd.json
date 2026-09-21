@@ -1,0 +1,140 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Yin Shun",
+   "birth_year": 1906,
+   "death_year": 2005,
+   "nationality": "chinesisch",
+   "field": null
+  },
+  {
+   "name": "Qingnian",
+   "birth_year": 1875,
+   "death_year": 1957,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Taixu",
+   "birth_year": 1889,
+   "death_year": 1947,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Zhengyan",
+   "birth_year": 1937,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Fazun",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Yanpei",
+   "birth_year": 1917,
+   "death_year": 1996,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Miaoqin",
+   "birth_year": 1921,
+   "death_year": 1974,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Yin Shun",
+   "type": "student_of",
+   "object": "Qingnian",
+   "role": "traditional teacher",
+   "place": "Fuquanan Tempel",
+   "year_start": 1930,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dort wurde er im Winter 1930 von dem Mönch Qingnian (1875–1957) ordiniert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Yin Shun",
+   "type": "student_of",
+   "object": "Taixu",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sein Hauptlehrer wurde später der gelehrte Mönch Taixu dessen „Buddhismus des menschlichen Lebens“ (rensheng fojiao) ein wichtiger Bestandteil der Öffnung der buddhistischen Praxis hin zu gesellschaftlichem Engagement",
+   "quote_ok": true
+  },
+  {
+   "subject": "Zhengyan",
+   "type": "student_of",
+   "object": "Yin Shun",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Yin Shun ist der Lehrer der Nonne Zhengyan (證嚴* 1937)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Yin Shun",
+   "type": "collaborated_with",
+   "object": "Fazun",
+   "role": null,
+   "place": "Sichuan",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "seiner Freundschaft und Zusammenarbeit mit Fazun in Sichuan",
+   "quote_ok": true
+  },
+  {
+   "subject": "Yanpei",
+   "type": "student_of",
+   "object": "Yin Shun",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Yinshuns Schüler Yanpei (1917–1996) war nach seiner Übersiedlung nach Singapur (um 1967) einer der prominentesten Mönchsgelehrten dort.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Miaoqin",
+   "type": "student_of",
+   "object": "Yin Shun",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ein weiterer Schüler Yinshuns, Miaoqin (1921–1974), wurde zu einer wichtigen Persönlichkeit unter den chinesischen Buddhisten in Manila",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Yin Shun",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q323312.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Yin Shun",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,93 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Thomas Francis Cleary",
+   "birth_year": 1949,
+   "death_year": 2021,
+   "nationality": "American",
+   "field": null
+  },
+  {
+   "name": "Jonathan Christopher Cleary",
+   "birth_year": 1947,
+   "death_year": 2023,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Thomas Francis Cleary",
+   "type": "studied_at",
+   "object": "Harvard University",
+   "role": "Ph.D. in East Asian Languages and Civilizations",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Cleary earned a Ph.D. in East Asian Languages and Civilizations from Harvard University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Francis Cleary",
+   "type": "studied_at",
+   "object": "Boalt Hall School of Law at the University of California, Berkeley",
+   "role": "JD",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and a JD from the Boalt Hall School of Law at the University of California, Berkeley.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jonathan Christopher Cleary",
+   "type": "studied_at",
+   "object": "Harvard",
+   "role": "doctoral work in EALC",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Cleary's brother, Jonathan Christopher Cleary (1947–2023; frequently cited as J. C. Cleary), also completed his doctoral work in EALC at Harvard.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Francis Cleary",
+   "type": "collaborated_with",
+   "object": "Jonathan Christopher Cleary",
+   "role": "co-translators",
+   "place": null,
+   "year_start": null,
+   "year_end": 1977,
+   "explicit": true,
+   "evidence": "Thomas and Jonathon Cleary worked together to translate the koan collection The Blue Cliff Record; Shambhala published the translation in 1977.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Francis Cleary",
+   "type": "other",
+   "object": "Jonathan Christopher Cleary",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Cleary's brother, Jonathan Christopher Cleary (1947–2023; frequently cited as J. C. Cleary)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Thomas Cleary",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q7788463.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Thomas Cleary",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

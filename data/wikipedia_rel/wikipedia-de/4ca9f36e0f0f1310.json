@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Luciano Petech",
+   "birth_year": 1914,
+   "death_year": 2010,
+   "nationality": "italienisch",
+   "field": "Historiker und Tibetologe"
+  },
+  {
+   "name": "Giuseppe Tucci",
+   "birth_year": 1894,
+   "death_year": 1984,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Luciano Petech",
+   "type": "student_of",
+   "object": "Giuseppe Tucci",
+   "role": "Schüler",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er war Schüler Giuseppe Tuccis (1894–1984).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Luciano Petech",
+   "type": "position_at",
+   "object": "Sapienza – Università di Roma",
+   "role": "Professor für die Geschichte Ostasiens",
+   "place": "Rom",
+   "year_start": 1955,
+   "year_end": 1984,
+   "explicit": true,
+   "evidence": "Er lehrte von 1955 bis 1984 als Professor für die Geschichte Ostasiens an der Sapienza – Università di Roma, Rom.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Luciano Petech",
+   "type": "position_at",
+   "object": "Accademia Nazionale dei Lincei",
+   "role": "korrespondierendes Mitglied",
+   "place": null,
+   "year_start": 1969,
+   "year_end": 1987,
+   "explicit": true,
+   "evidence": "1969 wurde er zum korrespondierenden Mitglied der Accademia Nazionale dei Lincei gewählt; ab 1987 war er ordentliches Mitglied der Akademie.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Luciano Petech",
+   "type": "position_at",
+   "object": "Accademia Nazionale dei Lincei",
+   "role": "ordentliches Mitglied",
+   "place": null,
+   "year_start": 1987,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ab 1987 war er ordentliches Mitglied der Akademie.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Luciano Petech",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q942230.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Luciano Petech",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

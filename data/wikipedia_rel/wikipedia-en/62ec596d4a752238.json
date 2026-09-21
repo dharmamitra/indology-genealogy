@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sydney Frank Markham",
+   "birth_year": 1897,
+   "death_year": 1975,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Sir Sidney Lee",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sydney Frank Markham",
+   "type": "studied_at",
+   "object": "Wadham College, Oxford",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied at Wadham College, Oxford",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sydney Frank Markham",
+   "type": "collaborated_with",
+   "object": "Sir Sidney Lee",
+   "role": "assistant",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and then became an assistant to Sir Sidney Lee with his work on Shakespeare.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sydney Frank Markham",
+   "type": "position_at",
+   "object": "Museums Association",
+   "role": "Secretary, then President",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He later became Secretary, then President, of the Museums Association.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Frank Markham",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q5488181.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Frank Markham",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

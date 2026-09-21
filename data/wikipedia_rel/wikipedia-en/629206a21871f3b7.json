@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Vans Kennedy",
+   "birth_year": 1784,
+   "death_year": 1846,
+   "nationality": "Scottish",
+   "field": "Sanskrit and Persian scholar"
+  },
+  {
+   "name": "Mountstuart Elphinstone",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Vans Kennedy",
+   "type": "position_at",
+   "object": "Bombay army",
+   "role": "judge-advocate-general",
+   "place": null,
+   "year_start": 1817,
+   "year_end": 1835,
+   "explicit": true,
+   "evidence": "In 1817, Kennedy was appointed judge-advocate-general to the Bombay army... He held the office of judge-advocate-general until 1835",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vans Kennedy",
+   "type": "position_at",
+   "object": "government",
+   "role": "oriental translator to the government",
+   "place": null,
+   "year_start": 1835,
+   "year_end": 1846,
+   "explicit": true,
+   "evidence": "After that, he was appointed oriental translator to the government, and he held this office for the rest of his life.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Vans Kennedy",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q7915173.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Vans Kennedy",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

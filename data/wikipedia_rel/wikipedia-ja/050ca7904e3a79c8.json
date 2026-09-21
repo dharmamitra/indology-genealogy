@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ヨハネス・シュミット",
+   "birth_year": 1843,
+   "death_year": 1901,
+   "nationality": "ドイツ",
+   "field": "言語学者"
+  },
+  {
+   "name": "アウグスト・シュライヒャー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ヨハネス・シュミット",
+   "type": "student_of",
+   "object": "アウグスト・シュライヒャー",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "アウグスト・シュライヒャーのもとで文献学を学び",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヨハネス・シュミット",
+   "type": "position_at",
+   "object": "ボン大学",
+   "role": "教授",
+   "place": null,
+   "year_start": 1868,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1868年にはボン大学教授に招かれ、ゲルマン語・スラヴ語を講じた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヨハネス・シュミット",
+   "type": "position_at",
+   "object": "グラーツ大学",
+   "role": null,
+   "place": null,
+   "year_start": 1873,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1873年からグラーツ大学で文献学を講じ",
+   "quote_ok": true
+  },
+  {
+   "subject": "ヨハネス・シュミット",
+   "type": "position_at",
+   "object": "ベルリン大学",
+   "role": null,
+   "place": null,
+   "year_start": 1876,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1876年にはベルリン大学に移った。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ヨハネス・シュミット",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q65323.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ヨハネス・シュミット",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

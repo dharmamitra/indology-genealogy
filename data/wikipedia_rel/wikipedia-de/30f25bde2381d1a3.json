@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Geshe Rabten",
+   "birth_year": 1920,
+   "death_year": 1986,
+   "nationality": "Tibet",
+   "field": "Buddhismus"
+  },
+  {
+   "name": "14. Dalai Lama",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Geshe Rabten",
+   "type": "studied_at",
+   "object": "Kloster Sera",
+   "role": "Geshe Lharampa",
+   "place": "Lhasa",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studierte er im Kloster Sera bei Lhasa, wo er die Prüfung zum Geshe Lharampa ablegte",
+   "quote_ok": true
+  },
+  {
+   "subject": "Geshe Rabten",
+   "type": "collaborated_with",
+   "object": "14. Dalai Lama",
+   "role": "philosophischer Assistent",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "diente dem 14. Dalai Lama als philosophischer Assistent",
+   "quote_ok": true
+  },
+  {
+   "subject": "Geshe Rabten",
+   "type": "founded",
+   "object": "Tibetische Hochschul-Institut Rabten Choeling",
+   "role": null,
+   "place": "Le Mont-Pèlerin",
+   "year_start": 1977,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1977 gründete er das Tibetische Hochschul-Institut Rabten Choeling, in Le Mont-Pèlerin oberhalb Vevey am Genfersee",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Geshe Rabten",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q23612674.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Geshe Rabten",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

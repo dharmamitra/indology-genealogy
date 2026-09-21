@@ -1,0 +1,195 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "William Roxburgh",
+   "birth_year": 1751,
+   "death_year": 1815,
+   "nationality": "Scottish",
+   "field": "botany"
+  },
+  {
+   "name": "Alexander Monro",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "surgery"
+  },
+  {
+   "name": "John Hope",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "botany"
+  },
+  {
+   "name": "Patrick Russell",
+   "birth_year": 1727,
+   "death_year": 1805,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Andrew Ross",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Francis Buchanan-Hamilton",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "William Carey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "botany"
+  },
+  {
+   "name": "Nathaniel Wallich",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "botany"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Roxburgh",
+   "type": "studied_at",
+   "object": "Edinburgh University",
+   "role": "MD",
+   "place": "Edinburgh",
+   "year_start": 1771,
+   "year_end": 1776,
+   "explicit": true,
+   "evidence": "He studied medicine at Edinburgh University and matriculated around 1771 or 1772... In 1776 he received his first doctorate (MD) from Edinburgh University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Roxburgh",
+   "type": "student_of",
+   "object": "Alexander Monro",
+   "role": "teacher",
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied surgery under Dr Alexander Monro",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Roxburgh",
+   "type": "student_of",
+   "object": "John Hope",
+   "role": "teacher",
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and learnt botany under John Hope.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Roxburgh",
+   "type": "studied_at",
+   "object": "Marischal College",
+   "role": "MD",
+   "place": "Aberdeen",
+   "year_start": null,
+   "year_end": 1790,
+   "explicit": true,
+   "evidence": "He received a second doctorate (also MD) on 12 January 1790 from Marischal College in Aberdeen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Roxburgh",
+   "type": "succeeded",
+   "object": "Patrick Russell",
+   "role": null,
+   "place": "Madras",
+   "year_start": 1789,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "replaced Patrick Russell as the Company Botanist in Madras in April 1789.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Roxburgh",
+   "type": "collaborated_with",
+   "object": "Andrew Ross",
+   "role": null,
+   "place": "Corcondah",
+   "year_start": 1793,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1793, he and Andrew Ross established a garden at Corcondah, where they worked on sugarcane and indigo.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Roxburgh",
+   "type": "position_at",
+   "object": "Calcutta Botanical Garden",
+   "role": "Superintendent",
+   "place": "Sibpur near Calcutta",
+   "year_start": 1793,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "invited by the government of Bengal, to take charge of the Calcutta Botanical gardens from Colonel Robert Kyd in 1793 as Superintendent of the Company garden at Sibpur near Calcutta.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francis Buchanan-Hamilton",
+   "type": "succeeded",
+   "object": "William Roxburgh",
+   "role": null,
+   "place": "Calcutta Botanical Garden",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was succeeded by Francis Buchanan-Hamilton.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Roxburgh",
+   "type": "position_at",
+   "object": "Royal Botanic Garden, Edinburgh",
+   "role": "Keeper",
+   "place": "Edinburgh",
+   "year_start": 1814,
+   "year_end": 1815,
+   "explicit": true,
+   "evidence": "He was created Keeper of the Royal Botanic Garden, Edinburgh on arrival until death.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Carey",
+   "type": "collaborated_with",
+   "object": "Nathaniel Wallich",
+   "role": null,
+   "place": null,
+   "year_start": 1824,
+   "year_end": 1834,
+   "explicit": true,
+   "evidence": "In 1824, Carey edited and published vol. 2 of Roxburgh's Flora Indica, including extensive remarks and contributions by Dr. Nathaniel Wallich. Carey and Wallich continued to work in the field of botany",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): William Roxburgh",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q748967.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): William Roxburgh",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Robert Sewell",
+   "birth_year": 1845,
+   "death_year": 1925,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "S. Krishnaswami Aiyangar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Robert Sewell",
+   "type": "position_at",
+   "object": "Madras Record Office",
+   "role": "Keeper",
+   "place": "Madras Presidency",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was Keeper of the Madras Record Office",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Sewell",
+   "type": "collaborated_with",
+   "object": "S. Krishnaswami Aiyangar",
+   "role": "guide / aide",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sewell was guided by various native speakers of the Kannada, Malayalam, Sanskrit, Tamil and Telugu languages spoken there. Some of these aides went on to publish research of their own, such as S. Krishnaswami Aiyangar.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Robert Sewell (historian)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1386288.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Robert Sewell (historian)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

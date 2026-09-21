@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Friedrich Conrad August Fick",
+   "birth_year": 1833,
+   "death_year": 1916,
+   "nationality": "German",
+   "field": "philology"
+  },
+  {
+   "name": "Theodor Benfey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Friedrich Conrad August Fick",
+   "type": "student_of",
+   "object": "Theodor Benfey",
+   "role": "teacher",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "at Göttingen, where he first studied philology under Theodor Benfey",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Conrad August Fick",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He spent his life chiefly at Göttingen, where he first studied philology under Theodor Benfey",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Conrad August Fick",
+   "type": "position_at",
+   "object": "university [of Göttingen]",
+   "role": "professor of comparative philology",
+   "place": "Göttingen",
+   "year_start": 1876,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "eventually in 1876 professor of comparative philology at the university",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Conrad August Fick",
+   "type": "position_at",
+   "object": "Breslau",
+   "role": "professorship",
+   "place": "Breslau",
+   "year_start": 1887,
+   "year_end": 1891,
+   "explicit": true,
+   "evidence": "in 1887 accepted a professorship in Breslau, but retired four years later",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): August Fick",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q72713.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): August Fick",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

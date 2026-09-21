@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Shōdō Harada",
+   "birth_year": 1940,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Yamada Mumon",
+   "birth_year": 1900,
+   "death_year": 1988,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Shōdō Harada",
+   "type": "student_of",
+   "object": "Yamada Mumon",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er ist ein Vertreter der Rinzai-Schule und Nachfolger von Yamada Mumon (1900–1988).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shōdō Harada",
+   "type": "studied_at",
+   "object": "Kloster Shofukuji",
+   "role": null,
+   "place": "Kōbe",
+   "year_start": 1962,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Harada trat im Alter von 22 Jahren in das Kloster Shofukuji in Kōbe ein.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shōdō Harada",
+   "type": "position_at",
+   "object": "Tempel Gokokuzan Sogenji",
+   "role": "Abt",
+   "place": "Okayama",
+   "year_start": 1982,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1982 erhielt er die Lehrerlaubnis und wurde Abt des Tempels Gokokuzan Sogenji in Okayama",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Shōdō Harada",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q2280528.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Shōdō Harada",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

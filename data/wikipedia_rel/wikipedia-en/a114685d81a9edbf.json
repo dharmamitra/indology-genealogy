@@ -1,0 +1,155 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Geshe Rabten",
+   "birth_year": 1921,
+   "death_year": 1986,
+   "nationality": "Tibetan",
+   "field": null
+  },
+  {
+   "name": "Lama Yeshe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lama Zopa Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Dalai Lama",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Geshe Rabten",
+   "type": "studied_at",
+   "object": "Sera Monastery",
+   "role": "student",
+   "place": "Lhasa",
+   "year_start": null,
+   "year_end": 1959,
+   "explicit": true,
+   "evidence": "He was a student at Sera Monastery in Lhasa, and achieved Geshe status before leaving Tibet in 1959.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lama Yeshe",
+   "type": "student_of",
+   "object": "Geshe Rabten",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Lama Yeshe and Lama Zopa Rinpoche were guided by him in their early days outside of Tibet.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lama Zopa Rinpoche",
+   "type": "student_of",
+   "object": "Geshe Rabten",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Lama Yeshe and Lama Zopa Rinpoche were guided by him in their early days outside of Tibet.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Geshe Rabten",
+   "type": "position_at",
+   "object": "Dalai Lama",
+   "role": "religious assistant",
+   "place": null,
+   "year_start": 1965,
+   "year_end": 1965,
+   "explicit": true,
+   "evidence": "In the mid 1960s Geshe Rabten was a religious assistant to the Dalai Lama.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Geshe Rabten",
+   "type": "founded",
+   "object": "Rabten Choeling Centre",
+   "role": null,
+   "place": "Switzerland",
+   "year_start": 1979,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was the founder of the Rabten Choeling Centre (which was originally named Tharpa Choeling) in Switzerland in 1979.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Geshe Rabten",
+   "type": "founded",
+   "object": "Tibetan centre in Hamburg",
+   "role": null,
+   "place": "Hamburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Other centres that he founded in Europe included the Tibetan centre in Hamburg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Geshe Rabten",
+   "type": "founded",
+   "object": "Tashi Rabten at the Letzehof",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Other centres that he founded in Europe included the Tibetan centre in Hamburg, Tashi Rabten at the Letzehof, Puntsog Rabten in Munich and Gephel Ling in Milan.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Geshe Rabten",
+   "type": "founded",
+   "object": "Puntsog Rabten",
+   "role": null,
+   "place": "Munich",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Other centres that he founded in Europe included the Tibetan centre in Hamburg, Tashi Rabten at the Letzehof, Puntsog Rabten in Munich and Gephel Ling in Milan.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Geshe Rabten",
+   "type": "founded",
+   "object": "Gephel Ling",
+   "role": null,
+   "place": "Milan",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Other centres that he founded in Europe included the Tibetan centre in Hamburg, Tashi Rabten at the Letzehof, Puntsog Rabten in Munich and Gephel Ling in Milan.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Geshe Rabten",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q23612674.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Geshe Rabten",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

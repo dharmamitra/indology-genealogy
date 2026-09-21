@@ -1,0 +1,169 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Walter Schubring",
+   "birth_year": 1881,
+   "death_year": 1969,
+   "nationality": "German",
+   "field": "Indologist"
+  },
+  {
+   "name": "Ernst Leumann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sten Konow",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Frank-Richard Hamm",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Louis Dumont",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Heinrich Lüders",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Walter Schubring",
+   "type": "studied_at",
+   "object": "Munich University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He then went to Munich and Strassburg Universities",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Schubring",
+   "type": "studied_at",
+   "object": "Strassburg University",
+   "role": "doctorate",
+   "place": null,
+   "year_start": null,
+   "year_end": 1904,
+   "explicit": true,
+   "evidence": "went to Munich and Strassburg Universities, receiving a doctorate in 1904 under the supervision of Ernst Leumann",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Schubring",
+   "type": "student_of",
+   "object": "Ernst Leumann",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1904,
+   "explicit": true,
+   "evidence": "receiving a doctorate in 1904 under the supervision of Ernst Leumann with a dissertation on the Kalpasutra",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Schubring",
+   "type": "position_at",
+   "object": "Berlin",
+   "role": "librarian",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He then worked as a librarian at Berlin and habilitated in 1918",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Schubring",
+   "type": "position_at",
+   "object": "University of Hamburg",
+   "role": "professor",
+   "place": "Hamburg",
+   "year_start": 1920,
+   "year_end": 1951,
+   "explicit": true,
+   "evidence": "In 1920 he succeed Sten Konow as professor at the University of Hamburg... He retired in 1951",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Schubring",
+   "type": "succeeded",
+   "object": "Sten Konow",
+   "role": "professor",
+   "place": "University of Hamburg",
+   "year_start": 1920,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1920 he succeed Sten Konow as professor at the University of Hamburg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Frank-Richard Hamm",
+   "type": "student_of",
+   "object": "Walter Schubring",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Frank-Richard Hamm was one of his students.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Louis Dumont",
+   "type": "student_of",
+   "object": "Walter Schubring",
+   "role": "teacher",
+   "place": "Hamburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "During World War II, he taught Sanskrit to Louis Dumont who was then a prisoner of war in Hamburg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Schubring",
+   "type": "collaborated_with",
+   "object": "Heinrich Lüders",
+   "role": null,
+   "place": "India",
+   "year_start": 1927,
+   "year_end": 1928,
+   "explicit": true,
+   "evidence": "visited India in 1927-28 along with Heinrich Lüders spending time in the Bhandarkar Oriental Research Institute, Poona.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Walther Schubring",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1287403.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Walther Schubring",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

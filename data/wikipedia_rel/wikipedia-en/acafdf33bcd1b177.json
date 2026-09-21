@@ -1,0 +1,164 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Charles Philip Brown",
+   "birth_year": 1798,
+   "death_year": 1884,
+   "nationality": "British",
+   "field": "Telugu language literature"
+  },
+  {
+   "name": "David Brown",
+   "birth_year": null,
+   "death_year": 1812,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Velagapudi Kodandarama Panthulu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Venkatasivasastri Tippabhatla",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Advaitabrahmasastri Vatthyam",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Horace Hayman Wilson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Friedrich August Rosen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Charles Philip Brown",
+   "type": "other",
+   "object": "David Brown",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His father David Brown was a manager of an orphanage and a missionary and scholar in many languages including Sanskrit.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Philip Brown",
+   "type": "studied_at",
+   "object": "Haileybury College",
+   "role": null,
+   "place": null,
+   "year_start": 1812,
+   "year_end": 1817,
+   "explicit": true,
+   "evidence": "Charles Brown moved back to England in 1812 after his father's death, to obtain training from Haileybury College for a civil service position in India. He returned to Madras on 4 August 1817",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Philip Brown",
+   "type": "student_of",
+   "object": "Velagapudi Kodandarama Panthulu",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": 1820,
+   "year_end": 1820,
+   "explicit": true,
+   "evidence": "Brown chose Telugu, under the guidance of Velagapudi Kodandarama Panthulu, and passed a Telugu examination as well as the civil service examination that year.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Philip Brown",
+   "type": "position_at",
+   "object": "London University",
+   "role": "Telugu Professor",
+   "place": "London",
+   "year_start": 1854,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He worked at London University as Telugu Professor for some time.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Philip Brown",
+   "type": "student_of",
+   "object": "Venkatasivasastri Tippabhatla",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": 1824,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied Telugu meter and grammar under the guidance of Venkatasivasastri Tippabhatla and  Advaitabrahmasastri Vatthyam.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Philip Brown",
+   "type": "student_of",
+   "object": "Advaitabrahmasastri Vatthyam",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": 1824,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied Telugu meter and grammar under the guidance of Venkatasivasastri Tippabhatla and  Advaitabrahmasastri Vatthyam.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Philip Brown",
+   "type": "collaborated_with",
+   "object": "Horace Hayman Wilson",
+   "role": null,
+   "place": "London",
+   "year_start": 1835,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "During his stay in London from 1835, he was employed by Horace Hayman Wilson in cataloguing South Indian language manuscripts from the East India House Library.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Philip Brown",
+   "type": "influenced_by",
+   "object": "Friedrich August Rosen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Friedrich August Rosen encouraged his work on Telugu prosody, and had Brown's essay on it published in the Asiatic Journal.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Charles Philip Brown",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q5081633.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Charles Philip Brown",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

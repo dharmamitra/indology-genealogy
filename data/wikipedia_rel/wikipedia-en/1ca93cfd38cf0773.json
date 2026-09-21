@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Nicholas Roerich",
+   "birth_year": 1874,
+   "death_year": 1947,
+   "nationality": "Russian",
+   "field": null
+  },
+  {
+   "name": "Helena Roerich",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosopher"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Nicholas Roerich",
+   "type": "founded",
+   "object": "Himalayan Research Institute",
+   "role": null,
+   "place": "India",
+   "year_start": 1928,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In March 1928 they were allowed to leave Tibet, and they trekked south to settle in India, where they founded a research center, the Himalayan Research Institute.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nicholas Roerich",
+   "type": "other",
+   "object": "Helena Roerich",
+   "role": "husband of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "an expedition conducted by Roerich, his wife Helena",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Nicholas Roerich",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q208993.txt#1",
+ "meta": {
+  "title": "Wikipedia (en): Nicholas Roerich",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

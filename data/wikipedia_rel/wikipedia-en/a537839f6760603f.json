@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John George Woodroffe",
+   "birth_year": 1865,
+   "death_year": 1936,
+   "nationality": "British",
+   "field": "Orientalist"
+  },
+  {
+   "name": "Ameer Ali",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "A.B. Ghose",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John George Woodroffe",
+   "type": "studied_at",
+   "object": "University College, Oxford",
+   "role": null,
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Young John was educated at Woburn Park School and the University College, Oxford, where he took second classes in jurisprudence and the Bachelor of Civil Law examinations.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John George Woodroffe",
+   "type": "position_at",
+   "object": "Calcutta University",
+   "role": "Fellow and Tagore Law Professor",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was soon made a Fellow of the Calcutta University and appointed Tagore Law Professor.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John George Woodroffe",
+   "type": "collaborated_with",
+   "object": "Ameer Ali",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He collaborated with Ameer Ali in a widely used textbook, Civil Procedure in British India.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John George Woodroffe",
+   "type": "position_at",
+   "object": "University of Oxford",
+   "role": "Reader in Indian Law",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After retiring to England he served as Reader in Indian Law to the University of Oxford.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John George Woodroffe",
+   "type": "influenced_by",
+   "object": "A.B. Ghose",
+   "role": "mentor and friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he relied very heavily for his work on a group of mentors, especially his close friend A.B. Ghose.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): John Woodroffe",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1702223.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): John Woodroffe",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,50 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Max Kaltenmark",
+   "birth_year": 1910,
+   "death_year": 2002,
+   "nationality": "French",
+   "field": "sinologist"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Max Kaltenmark",
+   "type": "position_at",
+   "object": "Centre d'études sinologiques de Pékin",
+   "role": "director",
+   "place": null,
+   "year_start": 1949,
+   "year_end": 1953,
+   "explicit": true,
+   "evidence": "Between 1949 and 1953, he was director of the \"Centre d'études sinologiques de Pékin\" of the École française d'Extrême-Orient.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Kaltenmark",
+   "type": "position_at",
+   "object": "École pratique des hautes études",
+   "role": "directeur d'études",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": 1979,
+   "explicit": true,
+   "evidence": "He later was directeur d'études at the École pratique des hautes études in Paris until 1979.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Maxime Kaltenmark",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q19945112.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Maxime Kaltenmark",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

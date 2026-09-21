@@ -1,0 +1,143 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "福井文雅",
+   "birth_year": 1934,
+   "death_year": 2017,
+   "nationality": "日本",
+   "field": "仏教学・中国学・東洋学"
+  },
+  {
+   "name": "福井康順",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "仏教学"
+  },
+  {
+   "name": "ポール・ドミエヴィル",
+   "birth_year": 1894,
+   "death_year": 1979,
+   "nationality": "フランス",
+   "field": null
+  },
+  {
+   "name": "福井重雅",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "東洋学"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "福井文雅",
+   "type": "other",
+   "object": "福井康順",
+   "role": "son of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1934年、東京府で仏教学者・福井康順の子として生まれた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "福井文雅",
+   "type": "studied_at",
+   "object": "早稲田大学第一文学部",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "早稲田大学第一文学部東洋哲学専修を卒業。",
+   "quote_ok": true
+  },
+  {
+   "subject": "福井文雅",
+   "type": "studied_at",
+   "object": "早稲田大学大学院",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "同大学大学院に進学。",
+   "quote_ok": true
+  },
+  {
+   "subject": "福井文雅",
+   "type": "student_of",
+   "object": "ポール・ドミエヴィル",
+   "role": "teacher",
+   "place": "フランス",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "フランスに留学し、ポール・ドミエヴィル（1894年-1979年）に師事した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "福井文雅",
+   "type": "position_at",
+   "object": "早稲田大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "帰国後、早稲田大学教授を務めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "福井文雅",
+   "type": "studied_at",
+   "object": "早稲田大学",
+   "role": "文学博士号",
+   "place": null,
+   "year_start": null,
+   "year_end": 1984,
+   "explicit": true,
+   "evidence": "1984年、学位論文『般若心経の歴史的研究』を早稲田大学に提出して文学博士号を取得。",
+   "quote_ok": true
+  },
+  {
+   "subject": "福井文雅",
+   "type": "position_at",
+   "object": "早稲田大学",
+   "role": "名誉教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "早稲田大学名誉教授。",
+   "quote_ok": true
+  },
+  {
+   "subject": "福井文雅",
+   "type": "other",
+   "object": "福井重雅",
+   "role": "brother of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "弟：福井重雅も東洋学者であり、天台宗僧侶。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 福井文雅",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q11591395.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 福井文雅",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

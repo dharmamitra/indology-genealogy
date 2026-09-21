@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Pierre Amédée Jaubert",
+   "birth_year": 1779,
+   "death_year": 1847,
+   "nationality": "französischer",
+   "field": "Orientalist"
+  },
+  {
+   "name": "Silvestre de Sacy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Étienne Marc Quatremère",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Pierre Amédée Jaubert",
+   "type": "studied_at",
+   "object": "École spéciale des langues orientales",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "An der École spéciale des langues orientales war Jaubert Schüler von Silvestre de Sacy",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pierre Amédée Jaubert",
+   "type": "student_of",
+   "object": "Silvestre de Sacy",
+   "role": "teacher",
+   "place": "École spéciale des langues orientales",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "An der École spéciale des langues orientales war Jaubert Schüler von Silvestre de Sacy",
+   "quote_ok": true
+  },
+  {
+   "subject": "Étienne Marc Quatremère",
+   "type": "student_of",
+   "object": "Silvestre de Sacy",
+   "role": "teacher",
+   "place": "École spéciale des langues orientales",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "An der École spéciale des langues orientales war Jaubert Schüler von Silvestre de Sacy, einer seiner Mitschüler war Étienne Marc Quatremère.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pierre Amédée Jaubert",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "Professor des Persischen",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In der Folge wurde er zum Professor des Persischen am Collège de France und 1841 zum Staatsrat und Pair ernannt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pierre Amédée Jaubert",
+   "type": "position_at",
+   "object": "Königlich Niederländische Akademie der Wissenschaften",
+   "role": "korrespondierendes Mitglied",
+   "place": null,
+   "year_start": 1809,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1809 wurde er zum korrespondierenden Mitglied der Königlich Niederländischen Akademie der Wissenschaften gewählt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pierre Amédée Jaubert",
+   "type": "position_at",
+   "object": "Académie des Inscriptions et Belles-Lettres",
+   "role": "Mitglied",
+   "place": null,
+   "year_start": 1831,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Seit 1831 war er auch Mitglied der Académie des Inscriptions et Belles-Lettres",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Pierre Amédée Jaubert",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1378109.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Pierre Amédée Jaubert",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

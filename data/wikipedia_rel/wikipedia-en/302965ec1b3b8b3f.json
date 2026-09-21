@@ -1,0 +1,157 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Morinaga Sōkō",
+   "birth_year": 1925,
+   "death_year": 1995,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Gotō Zuigan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Oda Sessō",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Myōkyō-ni",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Shaku Daijō",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ursula Jarand",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Morinaga Sōkō",
+   "type": "position_at",
+   "object": "Hanazono University",
+   "role": "president",
+   "place": null,
+   "year_start": 1986,
+   "year_end": 1994,
+   "explicit": true,
+   "evidence": "Between 1986 and 1994 he was president of Hanazono University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Morinaga Sōkō",
+   "type": "student_of",
+   "object": "Gotō Zuigan",
+   "role": "traditional teacher",
+   "place": "Daishu-in",
+   "year_start": 1949,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1949, he became a monk at Daishu-in under Gotō Zuigan, formerly abbot of Myōshin-ji and at that time abbot of Daitoku-ji.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Morinaga Sōkō",
+   "type": "student_of",
+   "object": "Oda Sessō",
+   "role": "traditional teacher",
+   "place": "Daitoku-ji monastery",
+   "year_start": null,
+   "year_end": 1963,
+   "explicit": true,
+   "evidence": "he entered Daitoku-ji monastery and trained under his elder Dharma brother Oda Sessō Rōshi... Young Sōkō continued training at Daitoku-ji monastery until he received inka shōmei from Sessō Roshi in 1963.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Oda Sessō",
+   "type": "student_of",
+   "object": "Gotō Zuigan",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Oda Sessō Rōshi, who was also a disciple of Gotō Zuigan Rōshi",
+   "quote_ok": true
+  },
+  {
+   "subject": "Oda Sessō",
+   "type": "succeeded",
+   "object": "Gotō Zuigan",
+   "role": "abbot",
+   "place": "Daitoku-ji",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Oda Sessō Rōshi, who was also a disciple of Gotō Zuigan Rōshi and who had succeeded him as abbot of Daitoku-ji.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Myōkyō-ni",
+   "type": "student_of",
+   "object": "Morinaga Sōkō",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": 1984,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1984 he ordained Venerable Myōkyō-ni, head of the Zen Centre and closely affiliated to the London-based Buddhist Society.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shaku Daijō",
+   "type": "student_of",
+   "object": "Morinaga Sōkō",
+   "role": "traditional teacher",
+   "place": "Daishu-in in Kyōto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He had a number of Western students, notably Shaku Daijō and Ursula Jarand, both students of many years at Daishu-in in Kyōto.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ursula Jarand",
+   "type": "student_of",
+   "object": "Morinaga Sōkō",
+   "role": "traditional teacher",
+   "place": "Daishu-in in Kyōto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He had a number of Western students, notably Shaku Daijō and Ursula Jarand, both students of many years at Daishu-in in Kyōto.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Morinaga Sōkō",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q7667599.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Morinaga Sōkō",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

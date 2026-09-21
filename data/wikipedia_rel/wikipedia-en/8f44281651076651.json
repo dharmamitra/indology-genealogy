@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "William Price",
+   "birth_year": 1780,
+   "death_year": 1830,
+   "nationality": "English",
+   "field": "orientalist"
+  },
+  {
+   "name": "Sir Gore Ouseley",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Price",
+   "type": "collaborated_with",
+   "object": "Sir Gore Ouseley",
+   "role": "assistant secretary and interpreter to the embassy",
+   "place": "Persia",
+   "year_start": 1810,
+   "year_end": 1812,
+   "explicit": true,
+   "evidence": "In 1810, he was appointed assistant secretary and interpreter to the embassy of Sir Gore Ouseley to Persia which travelled there from 1811 to 1812.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Price",
+   "type": "position_at",
+   "object": "seminary of his friend, Alexander Humphreys, at Netherstone House, near Worcester",
+   "role": "taught oriental languages",
+   "place": "Netherstone House, near Worcester",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "On his return to England, Price wrote and taught oriental languages at the seminary of his friend, Alexander Humphreys, at Netherstone House, near Worcester.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Price",
+   "type": "position_at",
+   "object": "Royal Asiatic Society of London",
+   "role": "member",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "became a member of the Royal Asiatic Society of London",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Price",
+   "type": "position_at",
+   "object": "Asiatic Society of Calcutta",
+   "role": "member",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "became a member of the Royal Asiatic Society of London and the Asiatic Society of Calcutta.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): William Price (orientalist)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q15302970.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): William Price (orientalist)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

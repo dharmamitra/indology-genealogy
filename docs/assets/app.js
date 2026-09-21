@@ -184,8 +184,8 @@ function draw(msg) {
   // edges run from the elder party (teacher, predecessor, influencer) to the younger
   const dense = GE.length > 4000 && T.k < .6;
   for (const pass of [0, 1]) for (const e of GE) {
-    if (!S.types.has(e.type) || !srcOK(e) || !inG.has(e.s) || !inG.has(e.t)) continue;
     const lit = !!(S.lin && S.lin.has(e.i)); if (lit !== !!pass) continue;
+    if ((!S.types.has(e.type) && !lit) || !srcOK(e) || !inG.has(e.s) || !inG.has(e.t)) continue;
     const dim = !lit && (!!S.hl || !!(Y && !happened(e, Y)));
     if (dim && (dense || S.hl)) { if (S.hl && !dense && !pass) {/* fall through to faint stroke */} else continue; }
     const a = e.T, b = e.S; if (!onScreen(a) && !onScreen(b)) continue;
@@ -394,7 +394,8 @@ function lineage(i) { // academic ancestors and descendants over the visible tea
   const walk = (start, up) => { const st = [start]; while (st.length) { const n = N[st.pop()];
     for (const e of (up ? n.out : n.inc)) { if (e.type !== 'student_of' || !edgeOn(e)) continue; const o = up ? e.t : e.s; es.add(e.i); if (!ids.has(o)) { ids.add(o); st.push(o); } } } };
   walk(i, true); walk(i, false);
-  for (const e of [...N[i].out, ...N[i].inc]) if (PP.has(e.type) && edgeOn(e)) { es.add(e.i); ids.add(e.s); ids.add(e.t); }
+  // every personal link of the selected scholar is shown, whatever the link-type switches say
+  for (const e of [...N[i].out, ...N[i].inc]) if (PP.has(e.type) && srcOK(e) && S.V.has(e.s) && S.V.has(e.t)) { es.add(e.i); ids.add(e.s); ids.add(e.t); }
   return {ids, es};
 }
 function select(i, move) {
@@ -427,9 +428,23 @@ function item(e, o) {
 }
 function section(title, es, pick, key) {
   es = es.filter(srcOK); if (!es.length) return '';
-  es.sort((a, b) => (a.year_start || a.year_end || 9999) - (b.year_start || b.year_end || 9999));
-  const cap = S.open === key ? 1e9 : 40, more = es.length > cap ? `<button class="back more" data-open="${key}">Show all ${es.length}…</button>` : '';
+  const t0 = e => e.year_start || (e.att && e.att[0]) || e.year_end || 9999;
+  es.sort((a, b) => t0(a) - t0(b) || b.n_ev - a.n_ev);
+  const cap = S.open === key ? 1e9 : 60, more = es.length > cap ? `<button class="back more" data-open="${key}">Show all ${es.length}…</button>` : '';
   return `<h3><span>${title}</span><span>${es.length}</span></h3><ul class="items">${es.slice(0, cap).map(e => item(e, pick(e))).join('')}</ul>${more}`;
+}
+function colleagues(n) { // derived, not extracted: people whose posts at the same institution overlap in time
+  const best = new Map();
+  for (const e of n.out) { if (e.type !== 'position_at' || !e.span || !srcOK(e)) continue;
+    for (const f of e.T.inc) { if (f.type !== 'position_at' || !f.span || f.S === n || !srcOK(f)) continue;
+      const a = Math.max(e.span.a, f.span.a), b = Math.min(e.span.b, f.span.b); if (b - a < 1) continue;
+      const cur = best.get(f.s); if (!cur || b - a > cur.b - cur.a) best.set(f.s, {o: f.S, at: e.T, a, b}); } }
+  const rows = [...best.values()].sort((x, y) => (y.b - y.a) - (x.b - x.a) || y.o.deg - x.o.deg);
+  if (!rows.length) return '';
+  const cap = S.open === 'coll' ? 1e9 : 15;
+  return `<h3><span>Colleagues at the same place <span class="c-sub" style="text-transform:none;letter-spacing:0">· derived from overlapping posts</span></span><span>${rows.length}</span></h3><ul class="items">` +
+    rows.slice(0, cap).map(r => `<li><button class="who" data-i="${r.o.i}"><span class="dot" style="background:${fcol(r.o)}"></span>${esc(r.o.label)}</button><span class="meta">${esc(r.at.label)}, ${r.a}–${r.b}</span></li>`).join('') + '</ul>' +
+    (rows.length > cap ? `<button class="back more" data-open="coll">Show all ${rows.length}…</button>` : '');
 }
 function renderPanel() {
   const el = $('panel'), n = S.sel != null && N[S.sel];
@@ -455,7 +470,7 @@ function renderPanel() {
       section('Succeeded', o('succeeded'), tgt, 'succ') + section('Succeeded by', i('succeeded'), src, 'succby') +
       section('Influenced by', o('influenced_by'), tgt, 'infl') + section('Influenced', i('influenced_by'), src, 'infld') +
       section('Worked with', [...o('collaborated_with'), ...i('collaborated_with')], either, 'collab') +
-      section('Founded', o('founded'), tgt, 'founded') + section('Other links: thesis committees, kin, friends, opponents', [...o('other'), ...i('other')], either, 'other');
+      colleagues(n) + section('Founded', o('founded'), tgt, 'founded') + section('Other links: thesis committees, kin, friends, opponents', [...o('other'), ...i('other')], either, 'other');
   } else {
     const inL = es => es.filter(e => S.L.has(e.s));
     el.innerHTML = back + `<h2>${esc(n.label)}</h2><div class="dates">${esc([n.city, n.country].filter(Boolean).join(', '))}${n.inception ? ` · founded ${n.inception}` : ''}</div>` +

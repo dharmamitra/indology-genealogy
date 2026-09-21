@@ -1,0 +1,155 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Max Gebhard Lebrecht Walleser",
+   "birth_year": 1874,
+   "death_year": 1954,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Edward Conze",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Walter Liebenthal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Shwe Zan Aung",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Max Gebhard Lebrecht Walleser",
+   "type": "studied_at",
+   "object": "Universität Heidelberg",
+   "role": null,
+   "place": "Heidelberg",
+   "year_start": 1891,
+   "year_end": 1896,
+   "explicit": true,
+   "evidence": "1891 bis 1896 studierte er neuere Philologie und Philosophie in Heidelberg, Freiburg und Genf.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Gebhard Lebrecht Walleser",
+   "type": "studied_at",
+   "object": "Universität Freiburg",
+   "role": null,
+   "place": "Freiburg",
+   "year_start": 1891,
+   "year_end": 1896,
+   "explicit": true,
+   "evidence": "1891 bis 1896 studierte er neuere Philologie und Philosophie in Heidelberg, Freiburg und Genf.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Gebhard Lebrecht Walleser",
+   "type": "studied_at",
+   "object": "Universität Genf",
+   "role": null,
+   "place": "Genf",
+   "year_start": 1891,
+   "year_end": 1896,
+   "explicit": true,
+   "evidence": "1891 bis 1896 studierte er neuere Philologie und Philosophie in Heidelberg, Freiburg und Genf.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Gebhard Lebrecht Walleser",
+   "type": "studied_at",
+   "object": "Friedrich-Alexanders-Universität Erlangen",
+   "role": "PhD",
+   "place": "Erlangen",
+   "year_start": null,
+   "year_end": 1902,
+   "explicit": true,
+   "evidence": "1902 verteidigte er seine Dissertation mit dem Titel Das Problem des Ich. [...] zugleich: Dissertation, Friedrich-Alexanders-Universität Erlangen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Gebhard Lebrecht Walleser",
+   "type": "position_at",
+   "object": "Universität Heidelberg",
+   "role": "Privatdozent",
+   "place": "Heidelberg",
+   "year_start": 1911,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1911 wurde er Privatdozent an der Universität Heidelberg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Gebhard Lebrecht Walleser",
+   "type": "position_at",
+   "object": "Universität Heidelberg",
+   "role": "außerordentlicher Professor für indische Philologie",
+   "place": "Heidelberg",
+   "year_start": 1918,
+   "year_end": 1936,
+   "explicit": true,
+   "evidence": "wo er 1918 auch zum außerordentlichen Professor für indische Philologie ernannt wurde. [...] Im April 1936 wurde ihm die Lehrbefugnis entzogen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Conze",
+   "type": "student_of",
+   "object": "Max Gebhard Lebrecht Walleser",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zu seinen Schülern zählten Edward Conze und Walter Liebenthal.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Liebenthal",
+   "type": "student_of",
+   "object": "Max Gebhard Lebrecht Walleser",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zu seinen Schülern zählten Edward Conze und Walter Liebenthal.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Gebhard Lebrecht Walleser",
+   "type": "collaborated_with",
+   "object": "Shwe Zan Aung",
+   "role": null,
+   "place": null,
+   "year_start": 1924,
+   "year_end": 1924,
+   "explicit": true,
+   "evidence": "mit Shwe Zan Aung: Dogmatik des modernen südlichen Buddhismus. Institut f. Buddhismus-Kunde, Heidelberg 1924",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Max Walleser",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q17418307.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Max Walleser",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

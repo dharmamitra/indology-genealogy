@@ -1,0 +1,136 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Liu Zaifu",
+   "birth_year": 1941,
+   "death_year": 2026,
+   "nationality": "Chinese",
+   "field": "literature"
+  },
+  {
+   "name": "Li Zehou",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  },
+  {
+   "name": "Lin Gang",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "literature"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Liu Zaifu",
+   "type": "position_at",
+   "object": "University of Chicago",
+   "role": "lecturer",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He lectured at the University of Chicago, University of Colorado, Stockholm University, and the City University of Hong Kong",
+   "quote_ok": true
+  },
+  {
+   "subject": "Liu Zaifu",
+   "type": "position_at",
+   "object": "University of Colorado",
+   "role": "lecturer",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He lectured at the University of Chicago, University of Colorado, Stockholm University, and the City University of Hong Kong",
+   "quote_ok": true
+  },
+  {
+   "subject": "Liu Zaifu",
+   "type": "position_at",
+   "object": "Stockholm University",
+   "role": "lecturer",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He lectured at the University of Chicago, University of Colorado, Stockholm University, and the City University of Hong Kong",
+   "quote_ok": true
+  },
+  {
+   "subject": "Liu Zaifu",
+   "type": "position_at",
+   "object": "City University of Hong Kong",
+   "role": "honorary professor",
+   "place": null,
+   "year_start": 2004,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "City University of Hong Kong, where he served as an honorary professor in 2004.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Liu Zaifu",
+   "type": "studied_at",
+   "object": "Xiamen University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied Chinese literature at Xiamen University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Liu Zaifu",
+   "type": "position_at",
+   "object": "Chinese Academy of Social Sciences",
+   "role": "director of the Institute of Literature",
+   "place": null,
+   "year_start": 1985,
+   "year_end": 1989,
+   "explicit": true,
+   "evidence": "From 1985 to 1989, Liu was the director of the Institute of Literature at the Chinese Academy of Social Sciences.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Liu Zaifu",
+   "type": "collaborated_with",
+   "object": "Li Zehou",
+   "role": "co-authors",
+   "place": null,
+   "year_start": 1995,
+   "year_end": 1995,
+   "explicit": true,
+   "evidence": "Liu and Li Zehou wrote A Farewell to Revolution in 1995.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Liu Zaifu",
+   "type": "collaborated_with",
+   "object": "Lin Gang",
+   "role": "co-authors",
+   "place": null,
+   "year_start": 2002,
+   "year_end": 2002,
+   "explicit": true,
+   "evidence": "Liu's 2002 work with Lin Gang, Guilt and Literature",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Liu Zaifu",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q9110416.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Liu Zaifu",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

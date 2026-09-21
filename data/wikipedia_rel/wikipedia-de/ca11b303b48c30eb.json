@@ -1,0 +1,136 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sergei Fjodorowitsch Oldenburg",
+   "birth_year": 1863,
+   "death_year": 1934,
+   "nationality": "russisch",
+   "field": "Orientalist"
+  },
+  {
+   "name": "Iwan Minajew",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Fjodor Schtscherbatskoi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sergei Fjodorowitsch Oldenburg",
+   "type": "student_of",
+   "object": "Iwan Minajew",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er war Schüler von Iwan Minajew",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fjodor Schtscherbatskoi",
+   "type": "student_of",
+   "object": "Sergei Fjodorowitsch Oldenburg",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "und Lehrer von Fjodor Schtscherbatskoi.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sergei Fjodorowitsch Oldenburg",
+   "type": "position_at",
+   "object": "Universität Sankt Petersburg",
+   "role": "Professor für Orientalistik und Indologie",
+   "place": "Sankt Petersburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Oldenburg war Professor für Orientalistik und Indologie an der Universität Sankt Petersburg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sergei Fjodorowitsch Oldenburg",
+   "type": "position_at",
+   "object": "Russische Akademie der Wissenschaften",
+   "role": "ständiger Sekretär",
+   "place": null,
+   "year_start": 1904,
+   "year_end": 1929,
+   "explicit": true,
+   "evidence": "Er wurde 1900 in die Russische Akademie der Wissenschaften gewählt und fungierte als ihr ständiger Sekretär von 1904 bis 1929.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sergei Fjodorowitsch Oldenburg",
+   "type": "position_at",
+   "object": "Russische Akademie der Wissenschaften",
+   "role": "Leiter",
+   "place": null,
+   "year_start": null,
+   "year_end": 1929,
+   "explicit": true,
+   "evidence": "blieb er bis 1929 auf dem Posten des Leiters, der russischen Akademie der Wissenschaften.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sergei Fjodorowitsch Oldenburg",
+   "type": "position_at",
+   "object": "Sowjetischen Institut für Orientalische Studien",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Den Rest seines Lebens widmete Oldenburg dem Sowjetischen Institut für Orientalische Studien",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sergei Fjodorowitsch Oldenburg",
+   "type": "founded",
+   "object": "Bibliotheca buddhica",
+   "role": null,
+   "place": null,
+   "year_start": 1897,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bereits 1897 hatte Oldenburg eine Sammlung buddhistischer Texte herausgebracht. Diese Bibliotheca buddhica wird bis heute fortgesetzt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sergei Fjodorowitsch Oldenburg",
+   "type": "founded",
+   "object": "Asien-Museum",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "dessen Vorgänger, das Asien-Museum, er selbst initiiert hatte.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Sergei Fjodorowitsch Oldenburg",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q171848.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Sergei Fjodorowitsch Oldenburg",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

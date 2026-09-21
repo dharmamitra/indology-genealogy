@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ferdinand Mongin de Saussure",
+   "birth_year": 1857,
+   "death_year": 1913,
+   "nationality": "Swiss",
+   "field": "linguist, semiotician and philosopher"
+  },
+  {
+   "name": "Claude Lévi-Strauss",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Heymann Steinthal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Claude Lévi-Strauss",
+   "type": "influenced_by",
+   "object": "Ferdinand Mongin de Saussure",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Saussure defined his theory in terms of binary oppositions... These were studied extensively by post-war structuralists such as Claude Lévi-Strauss to explain the organisation of social conceptualisation",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ferdinand Mongin de Saussure",
+   "type": "influenced_by",
+   "object": "Heymann Steinthal",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "This idea is in principle borrowed from Steinthal, so Saussure's concept of a language as a social fact corresponds to \"Volksgeist\"",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Ferdinand de Saussure",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q13230.txt#1",
+ "meta": {
+  "title": "Wikipedia (en): Ferdinand de Saussure",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

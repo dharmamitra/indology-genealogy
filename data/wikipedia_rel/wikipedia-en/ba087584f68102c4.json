@@ -1,0 +1,188 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Matthieu Ricard",
+   "birth_year": 1946,
+   "death_year": null,
+   "nationality": "French",
+   "field": null
+  },
+  {
+   "name": "François Jacob",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "molecular genetics"
+  },
+  {
+   "name": "Kangyur Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Dilgo Khyentse Rinpoche",
+   "birth_year": null,
+   "death_year": 1991,
+   "nationality": null,
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Rabjam Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jean-François Revel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "philosophy"
+  },
+  {
+   "name": "Trinh Xuan Thuan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Matthieu Ricard",
+   "type": "studied_at",
+   "object": "Pasteur Institute",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 1972,
+   "explicit": true,
+   "evidence": "He received a PhD degree in molecular genetics from the Pasteur Institute in 1972.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Matthieu Ricard",
+   "type": "student_of",
+   "object": "François Jacob",
+   "role": "doctoral supervisor",
+   "place": "Pasteur Institute",
+   "year_start": null,
+   "year_end": 1972,
+   "explicit": true,
+   "evidence": "Ricard worked for a PhD degree in molecular genetics at the Pasteur Institute under French Nobel Laureate François Jacob.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Matthieu Ricard",
+   "type": "student_of",
+   "object": "Kangyur Rinpoche",
+   "role": "traditional teacher",
+   "place": "India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ricard then went to India where he lived in the Himalayas studying with the Kangyur Rinpoche and some other teachers of that tradition.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Matthieu Ricard",
+   "type": "student_of",
+   "object": "Dilgo Khyentse Rinpoche",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": 1991,
+   "explicit": true,
+   "evidence": "He became a close student and friend of Dilgo Khyentse Rinpoche until Rinpoche's death in 1991.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Matthieu Ricard",
+   "type": "founded",
+   "object": "Karuna-Shechen",
+   "role": null,
+   "place": null,
+   "year_start": 2000,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Karuna-Shechen, the non-profit organization he co-founded in 2000 with Rabjam Rinpoche.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rabjam Rinpoche",
+   "type": "founded",
+   "object": "Karuna-Shechen",
+   "role": null,
+   "place": null,
+   "year_start": 2000,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Karuna-Shechen, the non-profit organization he co-founded in 2000 with Rabjam Rinpoche.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Matthieu Ricard",
+   "type": "position_at",
+   "object": "Mind and Life Institute",
+   "role": "board member",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ricard is a board member of the Mind and Life Institute",
+   "quote_ok": true
+  },
+  {
+   "subject": "Matthieu Ricard",
+   "type": "other",
+   "object": "Jean-François Revel",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he is the son of the late Jean-François Revel (born Jean-François Ricard), a renowned French philosopher.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Matthieu Ricard",
+   "type": "collaborated_with",
+   "object": "Jean-François Revel",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The dialogue with his father, Jean-Francois Revel, The Monk and the Philosopher, was a best seller in Europe",
+   "quote_ok": true
+  },
+  {
+   "subject": "Matthieu Ricard",
+   "type": "collaborated_with",
+   "object": "Trinh Xuan Thuan",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The Quantum and the Lotus (coauthored with Trinh Xuan Thuan)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Matthieu Ricard",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q732418.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Matthieu Ricard",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,114 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Nanjō Bun'yū (南条文雄)",
+   "birth_year": 1849,
+   "death_year": 1927,
+   "nationality": "Japanese",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Yang Wenhui",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": "Buddhist"
+  },
+  {
+   "name": "Maeda Eun",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "H. Kern",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Nanjō Bun'yū (南条文雄)",
+   "type": "student_of",
+   "object": "Max Müller",
+   "role": "teacher",
+   "place": "England",
+   "year_start": 1876,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "being sent to Europe in 1876 to study Sanskrit and Indian philosophy from European scholars, including Max Müller, under whom Bunyu studied in England.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nanjō Bun'yū (南条文雄)",
+   "type": "collaborated_with",
+   "object": "Yang Wenhui",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "While there he met the Chinese Buddhist Yang Wenhui, whom he helped to acquire some three hundred Chinese Buddhist texts that had been lost in China to be reprinted at Yang's printing house in Nanjing.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nanjō Bun'yū (南条文雄)",
+   "type": "collaborated_with",
+   "object": "Maeda Eun",
+   "role": "co-editor",
+   "place": null,
+   "year_start": 1906,
+   "year_end": 1906,
+   "explicit": true,
+   "evidence": "He did this in part by collaborating with Maeda Eun to compile the Bukkyō Seiten (仏教聖典), also known as the 'Buddhist Bible,' published in 1906 by Sanseidō.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nanjō Bun'yū (南条文雄)",
+   "type": "collaborated_with",
+   "object": "Max Müller",
+   "role": "co-editor",
+   "place": null,
+   "year_start": 1881,
+   "year_end": 1884,
+   "explicit": true,
+   "evidence": "(Co-editor with F. Max Müller) Buddhist Texts from Japan. Oxford: Clarendon Press, 1881–84.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nanjō Bun'yū (南条文雄)",
+   "type": "collaborated_with",
+   "object": "H. Kern",
+   "role": "co-editor",
+   "place": null,
+   "year_start": 1908,
+   "year_end": 1912,
+   "explicit": true,
+   "evidence": "H. Kern; B. Nanjio (ed.); Saddharmapuṇḍarīka; St. Pétersbourg 1908-1912",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Nanjō Bun'yū",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1186145.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Nanjō Bun'yū",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

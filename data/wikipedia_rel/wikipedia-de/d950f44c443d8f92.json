@@ -1,0 +1,95 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sayagyi U Ba Khin",
+   "birth_year": 1899,
+   "death_year": 1971,
+   "nationality": "Myanmar",
+   "field": null
+  },
+  {
+   "name": "Mutter Sayamagyi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Saya Thetgyi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "S. N. Goenka",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sayagyi U Ba Khin",
+   "type": "founded",
+   "object": "Internationale Meditationszentrum in Rangun",
+   "role": null,
+   "place": "Rangun",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Das Internationale Meditationszentrum in Rangun wurde durch Sayagyi U Ba Khin gegründet.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mutter Sayamagyi",
+   "type": "student_of",
+   "object": "Sayagyi U Ba Khin",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Die direkt hieraus entstandenen Zentren werden heute von U Ba Khins Schülerin Mutter Sayamagyi geleitet.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sayagyi U Ba Khin",
+   "type": "student_of",
+   "object": "Saya Thetgyi",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zu den Lehrern U Ba Khins zählte Saya Thetgyi",
+   "quote_ok": true
+  },
+  {
+   "subject": "S. N. Goenka",
+   "type": "student_of",
+   "object": "Sayagyi U Ba Khin",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "zu seinen bekanntesten Schülern S. N. Goenka.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Sayagyi U Ba Khin",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q352360.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Sayagyi U Ba Khin",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

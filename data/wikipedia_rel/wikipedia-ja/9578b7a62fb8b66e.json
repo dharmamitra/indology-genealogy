@@ -1,0 +1,95 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "アルベルト・グリュンヴェーデル",
+   "birth_year": 1856,
+   "death_year": 1935,
+   "nationality": "ドイツ",
+   "field": "東洋学者、考古学者"
+  },
+  {
+   "name": "エルンスト・クーン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ル・コック",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "メーナリング",
+   "birth_year": 1825,
+   "death_year": 1893,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "アルベルト・グリュンヴェーデル",
+   "type": "studied_at",
+   "object": "ミュンヘン大学",
+   "role": null,
+   "place": "ミュンヘン",
+   "year_start": 1876,
+   "year_end": 1879,
+   "explicit": true,
+   "evidence": "1876年から1879年までミュンヘン大学で古典文献学と考古学を学び",
+   "quote_ok": true
+  },
+  {
+   "subject": "アルベルト・グリュンヴェーデル",
+   "type": "student_of",
+   "object": "エルンスト・クーン",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "エルンスト・クーンにサンスクリットとパーリ語を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アルベルト・グリュンヴェーデル",
+   "type": "position_at",
+   "object": "ベルリン民族学博物館",
+   "role": "インド部長",
+   "place": "ベルリン",
+   "year_start": 1904,
+   "year_end": 1921,
+   "explicit": true,
+   "evidence": "その後、ベルリン民族学博物館に勤務した。1904年に同館のインド部長に就任した。1921年に退職した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アルベルト・グリュンヴェーデル",
+   "type": "collaborated_with",
+   "object": "メーナリング",
+   "role": "editor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1898,
+   "explicit": true,
+   "evidence": "メーナリング中将(George Byers Mainwaring, 1825-1893)によるレプチャ語・英語辞典を編集・出版した。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): アルベルト・グリュンヴェーデル",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q65690.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): アルベルト・グリュンヴェーデル",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

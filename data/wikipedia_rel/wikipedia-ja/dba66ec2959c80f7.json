@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "タング・リンポチェ",
+   "birth_year": 1933,
+   "death_year": 2023,
+   "nationality": "チベット",
+   "field": null
+  },
+  {
+   "name": "カルマパ16世",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "カルマパ17世",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ダライ・ラマ14世",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "タング・リンポチェ",
+   "type": "student_of",
+   "object": "カルマパ16世",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "7歳時に、読み書きや儀式の勉強を始め、またカルマパ16世などから灌頂、伝授、教えを受けた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "タング・リンポチェ",
+   "type": "student_of",
+   "object": "カルマパ16世",
+   "role": "traditional teacher",
+   "place": "シッキム",
+   "year_start": 1960,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1960 年以降、シッキムでカルマパ16世に数年間従い、新しいルムテック僧院の建設を支援し、若い僧侶に哲学を教え、この間にカルマパ16世から多くの灌頂、伝授、教えを受けた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "カルマパ17世",
+   "type": "student_of",
+   "object": "タング・リンポチェ",
+   "role": "個人教師",
+   "place": "インド",
+   "year_start": 2000,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "2000年、カルマパ17世がにインドに亡命した時、ダライ・ラマ14世によりカルマパ17世の個人教師に任命された。",
+   "quote_ok": true
+  },
+  {
+   "subject": "タング・リンポチェ",
+   "type": "position_at",
+   "object": "ルムテック僧院",
+   "role": "ケンチェン（大修道院長）",
+   "place": "ルムテック",
+   "year_start": 1967,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ルムテックに戻り、カルマパ16世からケンチェン（大修道院長）の称号を授与された。",
+   "quote_ok": true
+  },
+  {
+   "subject": "タング・リンポチェ",
+   "type": "founded",
+   "object": "タング・ハウス",
+   "role": null,
+   "place": "イギリスのオックスフォード",
+   "year_start": 1981,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1981 年にイギリスのオックスフォードにタング・ハウスを設立し",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): タング・リンポチェ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q3525893.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): タング・リンポチェ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

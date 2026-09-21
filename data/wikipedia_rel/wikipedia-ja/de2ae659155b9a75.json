@@ -1,0 +1,129 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "山口 益",
+   "birth_year": 1895,
+   "death_year": 1976,
+   "nationality": "日本",
+   "field": "仏教学"
+  },
+  {
+   "name": "シルヴァン・レヴィ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "フランス",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "山口 益",
+   "type": "studied_at",
+   "object": "大谷大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1918,
+   "explicit": true,
+   "evidence": "大谷大学で学び、1918年に卒業。",
+   "quote_ok": true
+  },
+  {
+   "subject": "山口 益",
+   "type": "student_of",
+   "object": "シルヴァン・レヴィ",
+   "role": "teacher",
+   "place": "フランス",
+   "year_start": 1927,
+   "year_end": 1929,
+   "explicit": true,
+   "evidence": "1927年から29年にかけてフランスに留学し、シルヴァン・レヴィに師事。",
+   "quote_ok": true
+  },
+  {
+   "subject": "山口 益",
+   "type": "position_at",
+   "object": "大谷大学",
+   "role": "教授",
+   "place": null,
+   "year_start": 1933,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1933年より大谷大学教授。",
+   "quote_ok": true
+  },
+  {
+   "subject": "山口 益",
+   "type": "studied_at",
+   "object": "京都帝国大学",
+   "role": "文学博士",
+   "place": null,
+   "year_start": null,
+   "year_end": 1943,
+   "explicit": true,
+   "evidence": "1943年、京都帝国大学に学位論文『仏教に於ける無と有との対論』を提出して文学博士号を取得。",
+   "quote_ok": true
+  },
+  {
+   "subject": "山口 益",
+   "type": "position_at",
+   "object": "大谷大学",
+   "role": "学長",
+   "place": null,
+   "year_start": 1950,
+   "year_end": 1958,
+   "explicit": true,
+   "evidence": "1950年より1958年まで大谷大学学長を務めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "山口 益",
+   "type": "position_at",
+   "object": "大谷大学",
+   "role": "名誉教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "大谷大学を退任後、名誉教授となった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "山口 益",
+   "type": "position_at",
+   "object": "京都産業大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "また、京都産業大学教授。",
+   "quote_ok": true
+  },
+  {
+   "subject": "山口 益",
+   "type": "position_at",
+   "object": "真宗大谷派真宗教学研究所",
+   "role": "所長",
+   "place": null,
+   "year_start": 1972,
+   "year_end": 1976,
+   "explicit": true,
+   "evidence": "1972年から没時まで真宗大谷派真宗教学研究所長を務めた。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 山口益",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q1069308.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 山口益",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

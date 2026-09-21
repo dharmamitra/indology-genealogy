@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Kang Youwei",
+   "birth_year": 1858,
+   "death_year": 1927,
+   "nationality": "Chinese",
+   "field": null
+  },
+  {
+   "name": "Liang Qichao",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": null
+  },
+  {
+   "name": "Chen Qianqiu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Liang Qichao",
+   "type": "student_of",
+   "object": "Kang Youwei",
+   "role": "teacher",
+   "place": "Guangzhou",
+   "year_start": 1890,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The very next day, Liang formally requested to become Kang’s student and was accepted.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kang Youwei",
+   "type": "founded",
+   "object": "Wanmu Caotang",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At the request of his students, Kang opened the Wanmu Caotang academy, which served as a training ground for the \"backbone\" of the future reform movement.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Kang Youwei",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q360135.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Kang Youwei",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

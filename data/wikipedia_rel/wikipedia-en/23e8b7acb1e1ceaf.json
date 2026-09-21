@@ -1,0 +1,95 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Zhuan Dao",
+   "birth_year": 1871,
+   "death_year": 1943,
+   "nationality": "Chinese",
+   "field": null
+  },
+  {
+   "name": "Hsu Yun",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Tai Xu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hong Choon",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Zhuan Dao",
+   "type": "collaborated_with",
+   "object": "Hsu Yun",
+   "role": null,
+   "place": "Yunnan",
+   "year_start": 1906,
+   "year_end": 1906,
+   "explicit": true,
+   "evidence": "In 1906, he assisted Venerable Hsu Yun to deliver the royal Tripitaka Volume to a monastery in Yunnan.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Zhuan Dao",
+   "type": "founded",
+   "object": "Poo Thor Jee (普陀寺)",
+   "role": null,
+   "place": "Narcis Street in Tanjong Pagar",
+   "year_start": 1911,
+   "year_end": 1911,
+   "explicit": true,
+   "evidence": "Poo Thor Jee (普陀寺) was founded in 1911 by Venerable Zhuan Dao at Narcis Street in Tanjong Pagar",
+   "quote_ok": true
+  },
+  {
+   "subject": "Zhuan Dao",
+   "type": "founded",
+   "object": "Kong Meng San Phor Kark See Monastery",
+   "role": null,
+   "place": "Singapore",
+   "year_start": 1920,
+   "year_end": 1920,
+   "explicit": true,
+   "evidence": "He founded the Phor Kark See Temple in 1920. The temple was built in 1921 on a plot of land donated by Chinese businessman, Tay Woo Seng, and subsequently became known as the Kong Meng San Phor Kark See Monastery",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hong Choon",
+   "type": "succeeded",
+   "object": "Zhuan Dao",
+   "role": null,
+   "place": "Kong Meng San Phor Kark See Monastery",
+   "year_start": 1943,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zhuan Dao died in 1943 at Putuo Monastery at the age of 72 and Kong Meng San Phor Kark See Monastery was succeeded by Venerable Hong Choon.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Zhuan Dao",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q16857046.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Zhuan Dao",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

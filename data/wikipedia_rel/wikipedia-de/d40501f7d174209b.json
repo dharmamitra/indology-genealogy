@@ -1,0 +1,281 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Hajime Tanabe",
+   "birth_year": 1885,
+   "death_year": 1962,
+   "nationality": "Japan",
+   "field": "Philosophie"
+  },
+  {
+   "name": "Kitarō Nishida",
+   "birth_year": 1870,
+   "death_year": 1945,
+   "nationality": "Japan",
+   "field": "Philosophie"
+  },
+  {
+   "name": "Martin Heidegger",
+   "birth_year": 1889,
+   "death_year": 1976,
+   "nationality": null,
+   "field": "Philosophie"
+  },
+  {
+   "name": "Raphael von Koeber",
+   "birth_year": 1848,
+   "death_year": 1923,
+   "nationality": null,
+   "field": "Philosophie"
+  },
+  {
+   "name": "Alois Riehl",
+   "birth_year": 1844,
+   "death_year": 1924,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Heinrich Rickert",
+   "birth_year": 1836,
+   "death_year": 1936,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Edmund Husserl",
+   "birth_year": 1859,
+   "death_year": 1938,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Oskar Becker",
+   "birth_year": 1889,
+   "death_year": 1964,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hartmut Buchner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kōichi Tsujimura",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hajime Tanabe",
+   "type": "student_of",
+   "object": "Kitarō Nishida",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er war Schüler Shinrans, Kitarō Nishidas und Martin Heideggers.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hajime Tanabe",
+   "type": "student_of",
+   "object": "Martin Heidegger",
+   "role": "teacher",
+   "place": "Freiburg im Breisgau",
+   "year_start": 1922,
+   "year_end": 1923,
+   "explicit": true,
+   "evidence": "Also habe ich erst durch Professor Heidegger den Weg des Philosophierens gelernt. In diesem Sinne ist er mein eigentlicher Lehrer",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hajime Tanabe",
+   "type": "student_of",
+   "object": "Raphael von Koeber",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Schüler der Tokioter Philosophen Kitarō Nishida (1870–1945), dessen bedeutendster Nachfolger er war, sowie Raphael von Koebers (1848–1923).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hajime Tanabe",
+   "type": "studied_at",
+   "object": "Kaiserliche Universität Tokio",
+   "role": null,
+   "place": "Tokio",
+   "year_start": 1904,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1904 nahm er an der Kaiserlichen Universität Tokio ein Studium der Mathematik auf, das er zugunsten eines Philosophiestudiums bald aufgab.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hajime Tanabe",
+   "type": "position_at",
+   "object": "Kaiserliche Universität Tōhoku",
+   "role": null,
+   "place": null,
+   "year_start": 1913,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1913 begann er an der Kaiserlichen Universität Tōhoku, Vorträge zur Naturphilosophie und Wissenschaftstheorie (nach Immanuel Kant) zu halten.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hajime Tanabe",
+   "type": "position_at",
+   "object": "Kaiserliche Universität Kyōto",
+   "role": "Assistenzprofessor",
+   "place": null,
+   "year_start": 1919,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1919 erhielt er durch Vermittlung seines japanischen Lehrers einen Ruf als Assistenzprofessor an die Kaiserliche Universität Kyōto.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hajime Tanabe",
+   "type": "student_of",
+   "object": "Alois Riehl",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1922,
+   "year_end": 1924,
+   "explicit": true,
+   "evidence": "studierte an den Universitäten zu Berlin bei Alois Riehl (1844–1924)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hajime Tanabe",
+   "type": "student_of",
+   "object": "Heinrich Rickert",
+   "role": "teacher",
+   "place": "Heidelberg",
+   "year_start": 1922,
+   "year_end": 1924,
+   "explicit": true,
+   "evidence": "in Heidelberg bei Heinrich Rickert (1836–1936)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hajime Tanabe",
+   "type": "student_of",
+   "object": "Edmund Husserl",
+   "role": "teacher",
+   "place": "Freiburg",
+   "year_start": 1922,
+   "year_end": 1924,
+   "explicit": true,
+   "evidence": "und in Freiburg bei Edmund Husserl (1859–1938).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hajime Tanabe",
+   "type": "succeeded",
+   "object": "Kitarō Nishida",
+   "role": "Lehrstuhlnachfolger",
+   "place": "Universität Kyōto",
+   "year_start": 1926,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1926 erfolgte Tanabes Ernennung als Nishidas Lehrstuhlnachfolger an der Universität Kyōto.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hajime Tanabe",
+   "type": "position_at",
+   "object": "Universität Kyōto",
+   "role": "Professor",
+   "place": null,
+   "year_start": 1926,
+   "year_end": 1945,
+   "explicit": true,
+   "evidence": "1945 legte er infolge der Erreichung der Altersgrenze sein Professorat nieder und verließ die Universität",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hartmut Buchner",
+   "type": "student_of",
+   "object": "Martin Heidegger",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in den Jahren von 1958 bis 1962 in Japan lehrenden Fink- und Heidegger-Schüler Hartmut Buchner",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hartmut Buchner",
+   "type": "collaborated_with",
+   "object": "Kōichi Tsujimura",
+   "role": "Übersetzer",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In Zusammenarbeit mit dem in den Jahren von 1958 bis 1962 in Japan lehrenden Fink- und Heidegger-Schüler Hartmut Buchner vom Kyōtoer Tanabe-Schüler Kōichi Tsujimura übersetzt",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kōichi Tsujimura",
+   "type": "student_of",
+   "object": "Hajime Tanabe",
+   "role": null,
+   "place": "Kyōto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "vom Kyōtoer Tanabe-Schüler Kōichi Tsujimura",
+   "quote_ok": true
+  },
+  {
+   "subject": "Martin Heidegger",
+   "type": "position_at",
+   "object": "Universität Freiburg",
+   "role": "Assistent",
+   "place": "Freiburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In Freiburg lernte er Martin Heidegger (1889–1976) und Oskar Becker (1889–1964) als Assistenten Husserls kennen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Oskar Becker",
+   "type": "position_at",
+   "object": "Universität Freiburg",
+   "role": "Assistent",
+   "place": "Freiburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In Freiburg lernte er Martin Heidegger (1889–1976) und Oskar Becker (1889–1964) als Assistenten Husserls kennen.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Hajime Tanabe",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1394797.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Hajime Tanabe",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

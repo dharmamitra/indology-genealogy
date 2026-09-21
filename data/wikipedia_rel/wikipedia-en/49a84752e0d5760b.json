@@ -1,0 +1,93 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Robert Chalmers",
+   "birth_year": 1858,
+   "death_year": 1938,
+   "nationality": "British",
+   "field": "Pali and Buddhist scholar"
+  },
+  {
+   "name": "Thomas William Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Robert Chalmers",
+   "type": "studied_at",
+   "object": "City of London School",
+   "role": null,
+   "place": null,
+   "year_start": 1870,
+   "year_end": 1877,
+   "explicit": true,
+   "evidence": "From the beginning of his schooling at the City of London School from 1870 to 1877, he was very interested in ancient languages",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Chalmers",
+   "type": "studied_at",
+   "object": "Oriel College, Oxford",
+   "role": "BA",
+   "place": null,
+   "year_start": null,
+   "year_end": 1881,
+   "explicit": true,
+   "evidence": "He completed his studies at Oriel College, Oxford, where he obtained the Bachelor of Arts (BA) in 1881.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Chalmers",
+   "type": "student_of",
+   "object": "Thomas William Rhys Davids",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He attended the Pāli classes of Thomas William Rhys Davids, whose enthusiasm won him over",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Chalmers",
+   "type": "position_at",
+   "object": "Royal Asiatic Society",
+   "role": "president",
+   "place": null,
+   "year_start": 1922,
+   "year_end": 1925,
+   "explicit": true,
+   "evidence": "From 1922 to 1925 he was president of the Royal Asiatic Society.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Chalmers",
+   "type": "position_at",
+   "object": "Peterhouse College of the University of Cambridge",
+   "role": "Master / professor",
+   "place": "Cambridge",
+   "year_start": 1924,
+   "year_end": 1931,
+   "explicit": true,
+   "evidence": "In 1924, he was appointed professor at Peterhouse College of the University of Cambridge and taught there until 1931.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Robert Chalmers, 1st Baron Chalmers",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q3815649.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Robert Chalmers, 1st Baron Chalmers",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "エルンスト・ゴンブリッチ",
+   "birth_year": 1909,
+   "death_year": 2001,
+   "nationality": "オーストリア系ユダヤ人",
+   "field": "美術史"
+  },
+  {
+   "name": "アビ・ヴァールブルク",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "マイヤー・シャピロ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "エルンスト・ゴンブリッチ",
+   "type": "studied_at",
+   "object": "ウィーン大学",
+   "role": null,
+   "place": "ウィーン",
+   "year_start": null,
+   "year_end": 1936,
+   "explicit": true,
+   "evidence": "ウィーン大学で学んだ後1936年に英国に渡り",
+   "quote_ok": true
+  },
+  {
+   "subject": "アビ・ヴァールブルク",
+   "type": "founded",
+   "object": "ヴァールブルク研究所",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "アビ・ヴァールブルクの設立したヴァールブルク研究所",
+   "quote_ok": true
+  },
+  {
+   "subject": "エルンスト・ゴンブリッチ",
+   "type": "position_at",
+   "object": "ヴァールブルク研究所",
+   "role": "研究助手",
+   "place": "英国",
+   "year_start": 1936,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1936年に英国に渡り、アビ・ヴァールブルクの設立したヴァールブルク研究所で研究助手の職を得た。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エルンスト・ゴンブリッチ",
+   "type": "position_at",
+   "object": "ロンドン大学",
+   "role": null,
+   "place": null,
+   "year_start": 1956,
+   "year_end": 1959,
+   "explicit": true,
+   "evidence": "戦後はロンドン大学（1956-59年）に移り",
+   "quote_ok": true
+  },
+  {
+   "subject": "エルンスト・ゴンブリッチ",
+   "type": "position_at",
+   "object": "ヴァールブルク研究所",
+   "role": "所長",
+   "place": null,
+   "year_start": 1959,
+   "year_end": 1976,
+   "explicit": true,
+   "evidence": "次いでヴァールブルク研究所(1959-76年)で幾つかの研究員のポストを経て、最終的には所長を務めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エルンスト・ゴンブリッチ",
+   "type": "collaborated_with",
+   "object": "マイヤー・シャピロ",
+   "role": "共著者",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "『様式』マイヤー・シャピロと共著",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): エルンスト・ゴンブリッチ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q78504.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): エルンスト・ゴンブリッチ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

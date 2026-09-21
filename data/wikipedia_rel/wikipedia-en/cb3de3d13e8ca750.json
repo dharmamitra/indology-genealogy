@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Shwe Zan Aung",
+   "birth_year": 1871,
+   "death_year": 1932,
+   "nationality": "Burmese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "U Gandama",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Burmese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Ledi Sayadaw",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Burmese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Mrs. Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Pali studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Shwe Zan Aung",
+   "type": "studied_at",
+   "object": "Rangoon College",
+   "role": "Bachelor of Arts (B.A.)",
+   "place": null,
+   "year_start": 1887,
+   "year_end": 1891,
+   "explicit": true,
+   "evidence": "He then enrolled at Rangoon College and earned a Bachelor of Arts (B.A.) degree in 1891.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shwe Zan Aung",
+   "type": "student_of",
+   "object": "U Gandama",
+   "role": "traditional teacher",
+   "place": "Kyaukse",
+   "year_start": 1895,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1895, he formally studied Buddhist teachings under the guidance of the monastery head monk, U Gandama, and the famous scholar monk Ledi Sayadaw.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shwe Zan Aung",
+   "type": "student_of",
+   "object": "Ledi Sayadaw",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": 1895,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1895, he formally studied Buddhist teachings under the guidance of the monastery head monk, U Gandama, and the famous scholar monk Ledi Sayadaw.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shwe Zan Aung",
+   "type": "collaborated_with",
+   "object": "Mrs. Rhys Davids",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "At her request, U Shwe Zan Aung translated the Abhidhammaᑣᑣhasaᑅgaha into English and sent it to her for review. She studied both his version and the original carefully for about three years.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Mrs. Rhys Davids",
+   "type": "position_at",
+   "object": "Pali Text Society",
+   "role": "president",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mrs. Rhys Davids, who was the president of the Pali Text Society in London.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Shwe Zan Aung",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q13074809.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Shwe Zan Aung",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

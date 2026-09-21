@@ -1,0 +1,93 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Jules Michelet",
+   "birth_year": 1798,
+   "death_year": 1874,
+   "nationality": "French",
+   "field": "History"
+  },
+  {
+   "name": "Edgar Quinet",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jules Michelet",
+   "type": "position_at",
+   "object": "Collège Rollin",
+   "role": "Lehrtätigkeit",
+   "place": "Paris",
+   "year_start": 1821,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nach Lehrtätigkeiten am Collège Rollin (Paris, 1821)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jules Michelet",
+   "type": "position_at",
+   "object": "École normale supérieure",
+   "role": "Lehrtätigkeit",
+   "place": null,
+   "year_start": 1830,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "und an der École normale supérieure (1830)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jules Michelet",
+   "type": "position_at",
+   "object": "Nationalarchiv",
+   "role": "Sektionschef",
+   "place": null,
+   "year_start": 1830,
+   "year_end": 1851,
+   "explicit": true,
+   "evidence": "wurde er Sektionschef am Nationalarchiv... Nach heftigem Streit verlor der überzeugte Republikaner 1851 unter Kaiser Napoleon III. seine Lehraufgabe und die Archivarsstelle.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jules Michelet",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "Professor für Geschichte",
+   "place": null,
+   "year_start": 1838,
+   "year_end": 1851,
+   "explicit": true,
+   "evidence": "1838 wurde er Mitglied der Académie des sciences morales et politiques sowie Professor für Geschichte am Collège de France. Nach heftigem Streit verlor der überzeugte Republikaner 1851 unter Kaiser Napoleon III. seine Lehraufgabe",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jules Michelet",
+   "type": "collaborated_with",
+   "object": "Edgar Quinet",
+   "role": "co-author",
+   "place": null,
+   "year_start": 1843,
+   "year_end": 1843,
+   "explicit": true,
+   "evidence": "zusammen mit Edgar Quinet: Des Jesuites. Paris 1843.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Jules Michelet",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q310791.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Jules Michelet",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

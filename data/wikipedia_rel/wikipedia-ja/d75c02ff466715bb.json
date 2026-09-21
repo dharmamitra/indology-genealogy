@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ゲオルク・ヴィルヘルム・フリードリヒ・フライターク",
+   "birth_year": 1788,
+   "death_year": 1861,
+   "nationality": "ドイツ",
+   "field": "文献学"
+  },
+  {
+   "name": "シルヴェストル・ド・サシ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ゲオルク・ヴィルヘルム・フリードリヒ・フライターク",
+   "type": "studied_at",
+   "object": "ゲッチンゲン大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ゲッチンゲン大学で文献学及び神学を学び",
+   "quote_ok": true
+  },
+  {
+   "subject": "ゲオルク・ヴィルヘルム・フリードリヒ・フライターク",
+   "type": "position_at",
+   "object": "ゲッチンゲン大学",
+   "role": "神学講師",
+   "place": null,
+   "year_start": 1811,
+   "year_end": 1813,
+   "explicit": true,
+   "evidence": "1811年から1813年までは同大学の神学講師として務めた",
+   "quote_ok": true
+  },
+  {
+   "subject": "ゲオルク・ヴィルヘルム・フリードリヒ・フライターク",
+   "type": "student_of",
+   "object": "シルヴェストル・ド・サシ",
+   "role": "teacher",
+   "place": "パリ",
+   "year_start": 1815,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "パリ条約 (1815年)の布告に伴い牧師を辞し、シルヴェストル・ド・サシの下でアラビア語、ペルシア語、及びトルコ語の研究に復帰",
+   "quote_ok": true
+  },
+  {
+   "subject": "ゲオルク・ヴィルヘルム・フリードリヒ・フライターク",
+   "type": "position_at",
+   "object": "ボン大学",
+   "role": "東洋学教授",
+   "place": null,
+   "year_start": 1819,
+   "year_end": 1861,
+   "explicit": true,
+   "evidence": "1819年にボン大学の東洋学教授に就任し、1861年に死去するまで同職に在った。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ゲオルク・フライターク",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q76316.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ゲオルク・フライターク",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

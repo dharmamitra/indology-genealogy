@@ -1,0 +1,214 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Alexander Hamilton",
+   "birth_year": 1762,
+   "death_year": 1824,
+   "nationality": null,
+   "field": "linguist"
+  },
+  {
+   "name": "Sir William Jones",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sir Charles Wilkins",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Constantin Volney",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": null
+  },
+  {
+   "name": "Karl Wilhelm Friedrich Schlegel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jean-Louis Burnouf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Eugene Burnouf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Franz Bopp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "August Wilhelm Schlegel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sir William Jones",
+   "type": "founded",
+   "object": "Asiatic Society of Bengal",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he joined the Asiatic Society of Bengal founded by Sir William Jones and Sir Charles Wilkins",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir Charles Wilkins",
+   "type": "founded",
+   "object": "Asiatic Society of Bengal",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he joined the Asiatic Society of Bengal founded by Sir William Jones and Sir Charles Wilkins",
+   "quote_ok": true
+  },
+  {
+   "subject": "Constantin Volney",
+   "type": "student_of",
+   "object": "Alexander Hamilton",
+   "role": "teacher",
+   "place": "France",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hamilton taught Sanskrit to Volney and others",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Wilhelm Friedrich Schlegel",
+   "type": "student_of",
+   "object": "Alexander Hamilton",
+   "role": "teacher",
+   "place": "France",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hamilton taught Sanskrit to Volney and others, including Karl Wilhelm Friedrich Schlegel and Jean-Louis Burnouf",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean-Louis Burnouf",
+   "type": "student_of",
+   "object": "Alexander Hamilton",
+   "role": "teacher",
+   "place": "France",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hamilton taught Sanskrit to Volney and others, including Karl Wilhelm Friedrich Schlegel and Jean-Louis Burnouf",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander Hamilton",
+   "type": "position_at",
+   "object": "Hertford College",
+   "role": "first Sanskrit professor in Europe",
+   "place": null,
+   "year_start": 1806,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1806 he was appointed at Hertford College, becoming the first Sanskrit professor in Europe.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander Hamilton",
+   "type": "position_at",
+   "object": "Haileybury College",
+   "role": "professor of \"Sanscrit and Hindoo literature\"",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He became professor of \"Sanscrit and Hindoo literature\" at Haileybury College.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander Hamilton",
+   "type": "collaborated_with",
+   "object": "Sir Charles Wilkins",
+   "role": "assistant",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He assisted Wilkins with his revisions to his translation of the Hitopadesha.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Bopp",
+   "type": "student_of",
+   "object": "Alexander Hamilton",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Following the end of the Napoleonic Wars many German scholars came to study with him, notably Franz Bopp and August Wilhelm Schlegel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "August Wilhelm Schlegel",
+   "type": "student_of",
+   "object": "Alexander Hamilton",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Following the end of the Napoleonic Wars many German scholars came to study with him, notably Franz Bopp and August Wilhelm Schlegel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean-Louis Burnouf",
+   "type": "other",
+   "object": "Eugene Burnouf",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Jean-Louis Burnouf, the father of Eugene Burnouf.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Alexander Hamilton (linguist)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q3366228.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Alexander Hamilton (linguist)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

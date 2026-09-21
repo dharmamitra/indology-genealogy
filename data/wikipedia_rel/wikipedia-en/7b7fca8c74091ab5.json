@@ -1,0 +1,117 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Pramod Chandra",
+   "birth_year": 1930,
+   "death_year": 2016,
+   "nationality": "American",
+   "field": "art historian"
+  },
+  {
+   "name": "Moti Chandra",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indologist"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Pramod Chandra",
+   "type": "other",
+   "object": "Moti Chandra",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His father was the museum curator and Indologist, Moti Chandra.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pramod Chandra",
+   "type": "studied_at",
+   "object": "Elphinstone College",
+   "role": null,
+   "place": "Mumbai",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Chandra was born in Varanasi, India, and attended Elphinstone College in Mumbai.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pramod Chandra",
+   "type": "studied_at",
+   "object": "School of Foreign Service, Georgetown University",
+   "role": "Bachelor of Science",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After Elphinstone, Chandra obtained a Bachelor of Science degree from the School of Foreign Service, Georgetown University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pramod Chandra",
+   "type": "position_at",
+   "object": "Prince of Wales Museum",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He then returned to India and joined the Department of Art and Archaeology at the Prince of Wales Museum",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pramod Chandra",
+   "type": "studied_at",
+   "object": "University of Bombay",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 1964,
+   "explicit": true,
+   "evidence": "secured a PhD from the University of Bombay (now Mumbai) in 1964.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pramod Chandra",
+   "type": "position_at",
+   "object": "University of Chicago",
+   "role": "professor",
+   "place": null,
+   "year_start": 1971,
+   "year_end": 1980,
+   "explicit": true,
+   "evidence": "Chandra then moved to the United States to join University of Chicago, where he became a professor in 1971. He remained there until 1980",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pramod Chandra",
+   "type": "position_at",
+   "object": "Harvard University",
+   "role": "George P. Bickford Professor of Indian and South Asian Art",
+   "place": null,
+   "year_start": 1980,
+   "year_end": 2004,
+   "explicit": true,
+   "evidence": "the George P. Bickford Professor of Indian and South Asian Art at Harvard University from 1980 until 2004.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Pramod Chandra",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q96364308.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Pramod Chandra",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

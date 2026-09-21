@@ -1,0 +1,50 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Jason Martin Wirth",
+   "birth_year": 1963,
+   "death_year": null,
+   "nationality": "American",
+   "field": "philosopher"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jason Martin Wirth",
+   "type": "position_at",
+   "object": "Seattle University",
+   "role": "professor of philosophy",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Jason Martin Wirth (born 1963) is an American philosopher and professor of philosophy at Seattle University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jason Martin Wirth",
+   "type": "position_at",
+   "object": "Seattle University",
+   "role": "Theiline Pigott McCone Chair in Humanities",
+   "place": null,
+   "year_start": 2014,
+   "year_end": 2016,
+   "explicit": true,
+   "evidence": "He was the Theiline Pigott McCone Chair in Humanities from 2014 to 2016.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Jason Wirth",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q56824822.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Jason Wirth",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

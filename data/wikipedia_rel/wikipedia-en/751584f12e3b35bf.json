@@ -1,0 +1,62 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Bernhard Kölver",
+   "birth_year": 1938,
+   "death_year": 2001,
+   "nationality": "German",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Bernhard Kölver",
+   "type": "studied_at",
+   "object": "Cologne University",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 1965,
+   "explicit": true,
+   "evidence": "He received his PhD with a dissertation on Tokharian nominal morphology from Cologne University in 1965.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bernhard Kölver",
+   "type": "position_at",
+   "object": "Kiel",
+   "role": "professor of Indology",
+   "place": "Germany",
+   "year_start": 1974,
+   "year_end": 1993,
+   "explicit": true,
+   "evidence": "He was professor of Indology in Kiel, Germany (1974-1993)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bernhard Kölver",
+   "type": "position_at",
+   "object": "Leipzig",
+   "role": "professor of Indology",
+   "place": "Germany",
+   "year_start": 1993,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was professor of Indology in Kiel, Germany (1974-1993) and Leipzig, Germany (1993-).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Bernhard Kölver",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q24680522.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Bernhard Kölver",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

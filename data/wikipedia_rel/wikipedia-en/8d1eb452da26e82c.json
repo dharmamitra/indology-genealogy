@@ -1,0 +1,114 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Chögyam Trungpa",
+   "birth_year": 1939,
+   "death_year": 1987,
+   "nationality": "Tibetan",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Dilgo Khyentse Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Gehlek Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Suzuki Roshi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhism"
+  },
+  {
+   "name": "Sakyong Mipham Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Chögyam Trungpa",
+   "type": "student_of",
+   "object": "Dilgo Khyentse Rinpoche",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Trungpa also received support from one of his own main teachers, Dilgo Khyentse Rinpoche, head of the Nyingma lineage.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gehlek Rinpoche",
+   "type": "collaborated_with",
+   "object": "Chögyam Trungpa",
+   "role": null,
+   "place": "U.S.",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gehlek Rinpoche, who lived with Trungpa when they were young monks in India and later visited and taught with him in the U.S.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Suzuki Roshi",
+   "type": "founded",
+   "object": "San Francisco Zen Center",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Suzuki Roshi, founder of the San Francisco Zen Center and Tassajara Zen Mountain Center",
+   "quote_ok": true
+  },
+  {
+   "subject": "Suzuki Roshi",
+   "type": "founded",
+   "object": "Tassajara Zen Mountain Center",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Suzuki Roshi, founder of the San Francisco Zen Center and Tassajara Zen Mountain Center",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sakyong Mipham Rinpoche",
+   "type": "position_at",
+   "object": "Naropa Institute",
+   "role": "board member",
+   "place": null,
+   "year_start": null,
+   "year_end": 2018,
+   "explicit": true,
+   "evidence": "After the allegations of sexual misconduct, Naropa Institute removed Sakyong Mipham from its board in 2018.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Chögyam Trungpa",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q548323.txt#1",
+ "meta": {
+  "title": "Wikipedia (en): Chögyam Trungpa",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

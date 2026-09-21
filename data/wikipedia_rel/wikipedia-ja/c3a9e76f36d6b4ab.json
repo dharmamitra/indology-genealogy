@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "テオドール・ゴルトシュテュッカー",
+   "birth_year": 1821,
+   "death_year": 1872,
+   "nationality": "ドイツ",
+   "field": "東洋学者、サンスクリット研究者"
+  },
+  {
+   "name": "ホーラス・ヘイマン・ウィルソン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "テオドール・ゴルトシュテュッカー",
+   "type": "studied_at",
+   "object": "ケーニヒスベルク大学",
+   "role": null,
+   "place": null,
+   "year_start": 1836,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1836年よりケーニヒスベルク大学で学問を修め",
+   "quote_ok": true
+  },
+  {
+   "subject": "テオドール・ゴルトシュテュッカー",
+   "type": "studied_at",
+   "object": "ボン大学",
+   "role": null,
+   "place": null,
+   "year_start": 1838,
+   "year_end": 1849,
+   "explicit": true,
+   "evidence": "1838年から1849年までボン大学にて文学、東洋学及び哲学の研究に従事した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "テオドール・ゴルトシュテュッカー",
+   "type": "position_at",
+   "object": "ロンドン大学",
+   "role": "サンスクリット教授",
+   "place": "ロンドン",
+   "year_start": 1851,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ホーラス・ヘイマン・ウィルソンの手引きで1851年ロンドン大学のサンスクリット教授となった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "テオドール・ゴルトシュテュッカー",
+   "type": "collaborated_with",
+   "object": "ホーラス・ヘイマン・ウィルソン",
+   "role": "辞書の改訂",
+   "place": null,
+   "year_start": 1851,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "同時にウィルソンは自身の「サンスクリット語辞典」の改訂をゴルトシュテュッカーに委任したが、Aの部だけで480ページに膨れ上がったために放棄された。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): テーオドール・ゴルトシュテュッカー",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q92103.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): テーオドール・ゴルトシュテュッカー",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

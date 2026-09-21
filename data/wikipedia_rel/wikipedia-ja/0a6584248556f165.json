@@ -1,0 +1,177 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "石井公成",
+   "birth_year": 1950,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "仏教学"
+  },
+  {
+   "name": "平川彰",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "石井公成",
+   "type": "student_of",
+   "object": "平川彰",
+   "role": "teacher",
+   "place": "早稲田大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "早稲田大学に進学。東京大学から出講していた平川彰に師事し、同大学院文学研究科東洋哲学専攻に進学。",
+   "quote_ok": true
+  },
+  {
+   "subject": "石井公成",
+   "type": "studied_at",
+   "object": "早稲田大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "浪人生を経て早稲田大学に進学。",
+   "quote_ok": true
+  },
+  {
+   "subject": "石井公成",
+   "type": "studied_at",
+   "object": "早稲田大学大学院文学研究科東洋哲学専攻",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1985,
+   "explicit": true,
+   "evidence": "同大学院文学研究科東洋哲学専攻に進学。1985年に同博士後期課程単位取得。",
+   "quote_ok": true
+  },
+  {
+   "subject": "石井公成",
+   "type": "studied_at",
+   "object": "早稲田大学",
+   "role": "博士（文学）",
+   "place": null,
+   "year_start": null,
+   "year_end": 1994,
+   "explicit": true,
+   "evidence": "学位は、博士（文学）（早稲田大学・乙種〈論文博士〉・1994年）。",
+   "quote_ok": true
+  },
+  {
+   "subject": "平川彰",
+   "type": "position_at",
+   "object": "東京大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "東京大学から出講していた平川彰に師事し",
+   "quote_ok": true
+  },
+  {
+   "subject": "石井公成",
+   "type": "position_at",
+   "object": "早稲田大学",
+   "role": "助手",
+   "place": null,
+   "year_start": 1985,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1985年に早稲田大学助手となり",
+   "quote_ok": true
+  },
+  {
+   "subject": "石井公成",
+   "type": "position_at",
+   "object": "早稲田大学第二文学部",
+   "role": "非常勤講師",
+   "place": null,
+   "year_start": 1988,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1988年には同大第二文学部の非常勤講師",
+   "quote_ok": true
+  },
+  {
+   "subject": "石井公成",
+   "type": "position_at",
+   "object": "早稲田大学第一文学部",
+   "role": "非常勤講師",
+   "place": null,
+   "year_start": 1991,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "次いで1991年に第一文学部の非常勤講師に。",
+   "quote_ok": true
+  },
+  {
+   "subject": "石井公成",
+   "type": "position_at",
+   "object": "駒澤短期大学仏教科",
+   "role": "助教授",
+   "place": null,
+   "year_start": 1994,
+   "year_end": 1996,
+   "explicit": true,
+   "evidence": "1994年に駒澤短期大学仏教科に転じて助教授となり、翌々年に教授に昇任。",
+   "quote_ok": true
+  },
+  {
+   "subject": "石井公成",
+   "type": "position_at",
+   "object": "駒澤短期大学仏教科",
+   "role": "教授",
+   "place": null,
+   "year_start": 1996,
+   "year_end": 2006,
+   "explicit": true,
+   "evidence": "翌々年に教授に昇任。2006年に駒澤大学仏教学部に転科。",
+   "quote_ok": true
+  },
+  {
+   "subject": "石井公成",
+   "type": "position_at",
+   "object": "駒澤大学仏教学部",
+   "role": "教授・仏教学部長",
+   "place": null,
+   "year_start": 2006,
+   "year_end": 2021,
+   "explicit": true,
+   "evidence": "2006年に駒澤大学仏教学部に転科。その後、仏教学部長に就任し、2021年に定年退任、名誉教授に。",
+   "quote_ok": true
+  },
+  {
+   "subject": "石井公成",
+   "type": "position_at",
+   "object": "駒澤大学",
+   "role": "名誉教授",
+   "place": null,
+   "year_start": 2021,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "2021年に定年退任、名誉教授に。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 石井公成",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q108777125.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 石井公成",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

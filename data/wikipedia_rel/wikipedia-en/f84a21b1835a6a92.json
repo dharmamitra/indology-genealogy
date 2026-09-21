@@ -1,0 +1,195 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Henrik Samuel Nyberg",
+   "birth_year": 1889,
+   "death_year": 1974,
+   "nationality": "Swedish",
+   "field": "Iranology and Arab studies"
+  },
+  {
+   "name": "Geo Widengren",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Iranian Studies"
+  },
+  {
+   "name": "Stig Wikander",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Iranian Studies"
+  },
+  {
+   "name": "Sven S. Hartman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Iranian Studies"
+  },
+  {
+   "name": "Bo Utas",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Iranian Studies"
+  },
+  {
+   "name": "Ingegerd Fries",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Swedish",
+   "field": "Icelandic"
+  },
+  {
+   "name": "Sigrid Kahle",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Swedish",
+   "field": "Orientalist"
+  },
+  {
+   "name": "Paul Kahle",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Henrik Samuel Nyberg",
+   "type": "studied_at",
+   "object": "University of Uppsala",
+   "role": null,
+   "place": "Uppsala",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "When he was 19, he moved to Uppsala to undertake university courses. There, he studied from Classical languages to Sanskrit and to the Semitic idioms.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henrik Samuel Nyberg",
+   "type": "position_at",
+   "object": "Fjellstedt School",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He taught at the Fjellstedt School and Uppsala University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henrik Samuel Nyberg",
+   "type": "position_at",
+   "object": "Uppsala University",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He taught at the Fjellstedt School and Uppsala University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Geo Widengren",
+   "type": "student_of",
+   "object": "Henrik Samuel Nyberg",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nyberg had many distinguished students in Iranian Studies, among them Geo Widengren, Stig Wikander, Sven S. Hartman, and Bo Utas.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stig Wikander",
+   "type": "student_of",
+   "object": "Henrik Samuel Nyberg",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nyberg had many distinguished students in Iranian Studies, among them Geo Widengren, Stig Wikander, Sven S. Hartman, and Bo Utas.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sven S. Hartman",
+   "type": "student_of",
+   "object": "Henrik Samuel Nyberg",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nyberg had many distinguished students in Iranian Studies, among them Geo Widengren, Stig Wikander, Sven S. Hartman, and Bo Utas.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bo Utas",
+   "type": "student_of",
+   "object": "Henrik Samuel Nyberg",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nyberg had many distinguished students in Iranian Studies, among them Geo Widengren, Stig Wikander, Sven S. Hartman, and Bo Utas.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ingegerd Fries",
+   "type": "other",
+   "object": "Henrik Samuel Nyberg",
+   "role": "daughter",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His daughters were the language scholar (Icelandic) and translator Ingegerd Fries and journalist, travel author and Orientalist Sigrid Kahle.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sigrid Kahle",
+   "type": "other",
+   "object": "Henrik Samuel Nyberg",
+   "role": "daughter",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His daughters were the language scholar (Icelandic) and translator Ingegerd Fries and journalist, travel author and Orientalist Sigrid Kahle.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sigrid Kahle",
+   "type": "other",
+   "object": "Paul Kahle",
+   "role": "daughter-in-law",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Kahle married John Kahle, a West German diplomat and son of Paul Kahle",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Henrik Samuel Nyberg",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q940383.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Henrik Samuel Nyberg",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

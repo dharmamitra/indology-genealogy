@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "田中於菟弥",
+   "birth_year": 1903,
+   "death_year": 1989,
+   "nationality": "日本",
+   "field": "インド学・インド文学"
+  },
+  {
+   "name": "辻直四郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "田中於菟弥",
+   "type": "studied_at",
+   "object": "東京帝国大学文学部梵文学科",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "東京帝国大学文学部梵文学科に進学。",
+   "quote_ok": true
+  },
+  {
+   "subject": "田中於菟弥",
+   "type": "student_of",
+   "object": "辻直四郎",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "辻直四郎に師事した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "田中於菟弥",
+   "type": "position_at",
+   "object": "中央大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "卒業後は、中央大学教授を務めた。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 田中於菟弥",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q11575592.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 田中於菟弥",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

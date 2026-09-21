@@ -1,0 +1,181 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "バートン・ワトソン",
+   "birth_year": 1925,
+   "death_year": 2017,
+   "nationality": "アメリカ合衆国",
+   "field": "東洋文学者"
+  },
+  {
+   "name": "吉川幸次郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ドナルド・キーン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ゲイリー・スナイダー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hiroaki Sato",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Philip B. Yampolsky",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "バートン・ワトソン",
+   "type": "studied_at",
+   "object": "コロンビア大学",
+   "role": "修士号",
+   "place": null,
+   "year_start": 1946,
+   "year_end": 1951,
+   "explicit": true,
+   "evidence": "1946年に帰国しコロンビア大学で中国語・中国文学を学ぶ。1951年に修士号を取得する",
+   "quote_ok": true
+  },
+  {
+   "subject": "バートン・ワトソン",
+   "type": "position_at",
+   "object": "同志社大学",
+   "role": "英語教師",
+   "place": null,
+   "year_start": 1951,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "日本へ渡り同志社大学の英語教師、京都大学で吉川幸次郎の研究助手となる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "バートン・ワトソン",
+   "type": "position_at",
+   "object": "京都大学",
+   "role": "研究助手",
+   "place": null,
+   "year_start": 1951,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "京都大学で吉川幸次郎の研究助手となる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "バートン・ワトソン",
+   "type": "student_of",
+   "object": "吉川幸次郎",
+   "role": "研究助手",
+   "place": "京都大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "京都大学で吉川幸次郎の研究助手となる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "バートン・ワトソン",
+   "type": "other",
+   "object": "ゲイリー・スナイダー",
+   "role": "friend",
+   "place": "京都",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "のち京都に住んでいたゲイリー・スナイダーと友人となる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "バートン・ワトソン",
+   "type": "studied_at",
+   "object": "コロンビア大学",
+   "role": "博士号",
+   "place": null,
+   "year_start": null,
+   "year_end": 1956,
+   "explicit": true,
+   "evidence": "1956年、司馬遷の研究でコロンビア大学から博士号を取得する。",
+   "quote_ok": true
+  },
+  {
+   "subject": "バートン・ワトソン",
+   "type": "position_at",
+   "object": "コロンビア大学",
+   "role": "教授",
+   "place": null,
+   "year_start": 1961,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1961年コロンビア大学に戻り教授として中国文学を教え",
+   "quote_ok": true
+  },
+  {
+   "subject": "バートン・ワトソン",
+   "type": "position_at",
+   "object": "スタンフォード大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "スタンフォード大学でも教え",
+   "quote_ok": true
+  },
+  {
+   "subject": "バートン・ワトソン",
+   "type": "collaborated_with",
+   "object": "Hiroaki Sato",
+   "role": null,
+   "place": null,
+   "year_start": 1981,
+   "year_end": 1981,
+   "explicit": true,
+   "evidence": "From the country of eight islands : an anthology of Japanese poetry / edited and translated by Hiroaki Sato and Burton Watson",
+   "quote_ok": true
+  },
+  {
+   "subject": "バートン・ワトソン",
+   "type": "collaborated_with",
+   "object": "Philip B. Yampolsky",
+   "role": null,
+   "place": null,
+   "year_start": 1996,
+   "year_end": 1996,
+   "explicit": true,
+   "evidence": "Letters of Nichiren （日蓮書簡集）/ translated by Burton Watson and others ; edited by Philip B. Yampolsky",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): バートン・ワトソン",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q722246.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): バートン・ワトソン",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

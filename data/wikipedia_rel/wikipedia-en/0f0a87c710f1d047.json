@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Arthur Schopenhauer",
+   "birth_year": 1788,
+   "death_year": 1860,
+   "nationality": "German",
+   "field": "philosopher and writer"
+  },
+  {
+   "name": "Georg Wilhelm Friedrich Hegel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Arthur Schopenhauer",
+   "type": "position_at",
+   "object": "universities in Berlin",
+   "role": "lecturer",
+   "place": "Berlin",
+   "year_start": 1820,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hegel still voted to accept Schopenhauer to the university. Only five students turned up to Schopenhauer's lectures, and he dropped out of academia.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Wilhelm Friedrich Hegel",
+   "type": "position_at",
+   "object": "universities in Berlin",
+   "role": "philosopher",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He scheduled his lectures to coincide with those of the famous philosopher Georg Wilhelm Friedrich Hegel",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Schopenhauer",
+   "type": "other",
+   "object": "Georg Wilhelm Friedrich Hegel",
+   "role": "feud",
+   "place": null,
+   "year_start": 1820,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He scheduled his lectures to coincide with those of the famous philosopher Georg Wilhelm Friedrich Hegel, whom Schopenhauer described as a \"clumsy charlatan\".",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Arthur Schopenhauer",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q38193.txt#1",
+ "meta": {
+  "title": "Wikipedia (en): Arthur Schopenhauer",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

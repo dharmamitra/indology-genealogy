@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Jean-Baptiste Biot",
+   "birth_year": 1774,
+   "death_year": 1862,
+   "nationality": "französischer",
+   "field": "Physiker und Mathematiker"
+  },
+  {
+   "name": "Barnabé Brisson",
+   "birth_year": 1777,
+   "death_year": 1828,
+   "nationality": null,
+   "field": "Ingenieur und Mathematiker"
+  },
+  {
+   "name": "Édouard Biot",
+   "birth_year": 1803,
+   "death_year": 1850,
+   "nationality": null,
+   "field": "Eisenbahningenieur und Sinologe"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jean-Baptiste Biot",
+   "type": "studied_at",
+   "object": "École des Ponts et Chausées",
+   "role": null,
+   "place": null,
+   "year_start": 1794,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er nahm an den Aufnahmeprüfungen für die École des Ponts et Chausées teil und wurde im Januar 1794 aufgenommen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean-Baptiste Biot",
+   "type": "other",
+   "object": "Barnabé Brisson",
+   "role": "Freundschaft",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mit dem Ingenieur und Mathematiker Barnabé Brisson (1777–1828) verband ihn eine Freundschaft",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean-Baptiste Biot",
+   "type": "other",
+   "object": "Édouard Biot",
+   "role": "Vater",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sie hatten zwei Kinder, Blanche Sainte Foy Biot (1799–1866) und Édouard Biot (1803–1850).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean-Baptiste Biot",
+   "type": "position_at",
+   "object": "École Centrale in Beauvais",
+   "role": "Professor für Mathematik",
+   "place": "Beauvais",
+   "year_start": 1797,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1797 wurde er Professor für Mathematik an der École Centrale in Beauvais",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean-Baptiste Biot",
+   "type": "position_at",
+   "object": "Collège de France in Paris",
+   "role": "Professor der Physik",
+   "place": "Paris",
+   "year_start": 1800,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "und im Jahr 1800 zum Professor der Physik ans Collège de France in Paris berufen",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Jean-Baptiste Biot",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q58328.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Jean-Baptiste Biot",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

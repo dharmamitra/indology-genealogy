@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "釈惟覚",
+   "birth_year": 1928,
+   "death_year": 2016,
+   "nationality": "中華民国",
+   "field": null
+  },
+  {
+   "name": "霊泉",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "見灯",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "釈惟覚",
+   "type": "student_of",
+   "object": "霊泉",
+   "role": "traditional teacher",
+   "place": "基隆十方大覚禅寺",
+   "year_start": 1963,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1963年、基隆十方大覚禅寺霊泉長老に就いて剃髪しました。",
+   "quote_ok": true
+  },
+  {
+   "subject": "釈惟覚",
+   "type": "founded",
+   "object": "中台佛教学院",
+   "role": null,
+   "place": null,
+   "year_start": 1993,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1993年5月2日、中台佛教学院を創設した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "見灯",
+   "type": "student_of",
+   "object": "釈惟覚",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "2005年、中台禅寺住職の職務転予弟子の見灯和尚。",
+   "quote_ok": true
+  },
+  {
+   "subject": "見灯",
+   "type": "succeeded",
+   "object": "釈惟覚",
+   "role": "中台禅寺住職",
+   "place": "中台禅寺",
+   "year_start": 2005,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "2005年、中台禅寺住職の職務転予弟子の見灯和尚。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 釈惟覚",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q7979741.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 釈惟覚",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

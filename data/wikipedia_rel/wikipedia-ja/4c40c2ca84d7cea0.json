@@ -1,0 +1,179 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "胡適",
+   "birth_year": 1891,
+   "death_year": 1962,
+   "nationality": "中華民国",
+   "field": "哲学・思想・中国哲学・中国文学・禅宗史"
+  },
+  {
+   "name": "ジョン・デューイ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "アメリカ",
+   "field": "哲学"
+  },
+  {
+   "name": "顧頡剛",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "鈴木大拙",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "禅研究"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "胡適",
+   "type": "student_of",
+   "object": "ジョン・デューイ",
+   "role": "teacher",
+   "place": "コロンビア大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "アメリカの哲学者ジョン・デューイのもとでプラグマティズムを学び",
+   "quote_ok": true
+  },
+  {
+   "subject": "胡適",
+   "type": "studied_at",
+   "object": "コーネル大学",
+   "role": null,
+   "place": "アメリカ",
+   "year_start": 1910,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1910年（宣統2年）、19歳のとき、アメリカに留学し、コーネル大学で農学を学び",
+   "quote_ok": true
+  },
+  {
+   "subject": "胡適",
+   "type": "studied_at",
+   "object": "コロンビア大学",
+   "role": "哲学博士号",
+   "place": null,
+   "year_start": null,
+   "year_end": 1917,
+   "explicit": true,
+   "evidence": "1917年、コロンビア大学にて、論文「古代中国における論理学的方法の発展」（The Development of the Logical Method in Ancient China, 後に書籍化。中国論理学を扱う）で哲学博士号を取得した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "胡適",
+   "type": "position_at",
+   "object": "北京大学",
+   "role": "教授",
+   "place": null,
+   "year_start": 1917,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "同年、北京大学学長だった蔡元培に招かれて帰国、20歳代半ばにして北京大学教授となり",
+   "quote_ok": true
+  },
+  {
+   "subject": "顧頡剛",
+   "type": "influenced_by",
+   "object": "胡適",
+   "role": null,
+   "place": "北京大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "この時、受講生だった顧頡剛に影響を与え、のちに疑古派が生まれるきっかけを作った。",
+   "quote_ok": true
+  },
+  {
+   "subject": "顧頡剛",
+   "type": "student_of",
+   "object": "胡適",
+   "role": "teacher",
+   "place": "北京大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "この時、受講生だった顧頡剛に影響を与え",
+   "quote_ok": true
+  },
+  {
+   "subject": "胡適",
+   "type": "founded",
+   "object": "努力週報",
+   "role": null,
+   "place": null,
+   "year_start": 1922,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1922年（民国11年）、『努力週報』を創刊し",
+   "quote_ok": true
+  },
+  {
+   "subject": "胡適",
+   "type": "founded",
+   "object": "独立評論",
+   "role": null,
+   "place": null,
+   "year_start": 1932,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1932年（民国21年）、『独立評論』を創刊し",
+   "quote_ok": true
+  },
+  {
+   "subject": "胡適",
+   "type": "position_at",
+   "object": "北京大学",
+   "role": "学長",
+   "place": null,
+   "year_start": 1946,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1946年、北京大学学長に就任。",
+   "quote_ok": true
+  },
+  {
+   "subject": "胡適",
+   "type": "position_at",
+   "object": "中央研究院",
+   "role": "院長",
+   "place": "台湾",
+   "year_start": 1957,
+   "year_end": 1962,
+   "explicit": true,
+   "evidence": "1957年（民国46年）から台湾に移り、外交部顧問、中央研究院長（1957-1962年）に就任した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "胡適",
+   "type": "collaborated_with",
+   "object": "鈴木大拙",
+   "role": "討論",
+   "place": "ハワイ大学",
+   "year_start": 1949,
+   "year_end": 1949,
+   "explicit": true,
+   "evidence": "1949年にはハワイ大学で開催された第2回東西哲学者会議で鈴木大拙と禅研究法に関して討論を行った。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 胡適",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q47667.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 胡適",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John Claude White",
+   "birth_year": 1853,
+   "death_year": 1918,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "John Falconer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Claude White",
+   "type": "studied_at",
+   "object": "Rugby School",
+   "role": null,
+   "place": null,
+   "year_start": 1868,
+   "year_end": 1868,
+   "explicit": true,
+   "evidence": "His education included a period at Rugby School for six months in 1868.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Claude White",
+   "type": "studied_at",
+   "object": "Royal Indian Engineering College",
+   "role": null,
+   "place": "Cooper's Hill, Surrey",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "White later studied at the Royal Indian Engineering College in Cooper's Hill, Surrey",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Claude White",
+   "type": "position_at",
+   "object": "Bengal Public Works Department",
+   "role": "Assistant Engineer",
+   "place": null,
+   "year_start": 1876,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "joining the Bengal Public Works Department as Assistant Engineer in 1876.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Falconer",
+   "type": "position_at",
+   "object": "British Library’s Oriental and India Office Collections",
+   "role": "curator of photographs",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "John Falconer, curator of photographs at the British Library’s Oriental and India Office Collections",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): John Claude White",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q21069843.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): John Claude White",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

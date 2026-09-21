@@ -1,0 +1,150 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sakya Trizin Ngawang Kunga",
+   "birth_year": 1945,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Ngawang Kunga Rinchen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Ngawang Lodroe Shenpen Nyingpo",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Ratna Vajra Rinpoche",
+   "birth_year": 1974,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Gyana Vajra Rinpoche",
+   "birth_year": 1979,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetan Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sakya Trizin Ngawang Kunga",
+   "type": "student_of",
+   "object": "Ngawang Kunga Rinchen",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From his father, Vajradhara Ngawang Kunga Rinchen, he received important initiations and teachings in the Sakya lineage.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sakya Trizin Ngawang Kunga",
+   "type": "student_of",
+   "object": "Ngawang Lodroe Shenpen Nyingpo",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He continued intensive training from his main teacher Ngawang Lodroe Shenpen Nyingpo and many other famous Tibetan scholars",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ratna Vajra Rinpoche",
+   "type": "succeeded",
+   "object": "Sakya Trizin Ngawang Kunga",
+   "role": "Sakya Trizin",
+   "place": null,
+   "year_start": 2017,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After passing the throne of the Sakya lineage to his elder son Ratna Vajra Rinpoche who became the 42nd Sakya Trizin on 9 March 2017",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ratna Vajra Rinpoche",
+   "type": "student_of",
+   "object": "Sakya Trizin Ngawang Kunga",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He has trained both of his sons as Buddhists, and they both travel widely, teaching Buddhism throughout the world.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gyana Vajra Rinpoche",
+   "type": "student_of",
+   "object": "Sakya Trizin Ngawang Kunga",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He has trained both of his sons as Buddhists, and they both travel widely, teaching Buddhism throughout the world.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sakya Trizin Ngawang Kunga",
+   "type": "founded",
+   "object": "Sakya Centre",
+   "role": null,
+   "place": "Rajpur, India",
+   "year_start": 1964,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1964, Ngawang Kunga re-established the seat of the Sakya in Rajpur, India, building a monastery known as Sakya Centre.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sakya Trizin Ngawang Kunga",
+   "type": "founded",
+   "object": "Sakya College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He founded and directly guides a number of institutions, including Sakya Monastery in Rajpur, Sakya Institute, Sakya College, Sakya Nunnery, Sakya College for Nuns",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sakya Trizin Ngawang Kunga",
+   "type": "founded",
+   "object": "Sakya Institute",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He founded and directly guides a number of institutions, including Sakya Monastery in Rajpur, Sakya Institute, Sakya College, Sakya Nunnery, Sakya College for Nuns",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Sakya Trizin Ngawang Kunga",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q43367.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Sakya Trizin Ngawang Kunga",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

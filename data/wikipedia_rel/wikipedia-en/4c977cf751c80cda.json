@@ -1,0 +1,74 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Anton Westermann",
+   "birth_year": 1806,
+   "death_year": 1869,
+   "nationality": "German",
+   "field": "classical philology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Anton Westermann",
+   "type": "studied_at",
+   "object": "University of Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": 1825,
+   "year_end": 1830,
+   "explicit": true,
+   "evidence": "From 1825 to 1830, he studied philology at the University of Leipzig",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anton Westermann",
+   "type": "position_at",
+   "object": "University of Leipzig",
+   "role": "associate professor of classical philology",
+   "place": "Leipzig",
+   "year_start": 1833,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "where in 1833 he became an associate professor of classical philology.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anton Westermann",
+   "type": "position_at",
+   "object": "University of Leipzig",
+   "role": "full professor of Greek and Roman literature",
+   "place": "Leipzig",
+   "year_start": 1834,
+   "year_end": 1865,
+   "explicit": true,
+   "evidence": "From 1834 to 1865, he was a full professor of Greek and Roman literature at Leipzig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anton Westermann",
+   "type": "position_at",
+   "object": "University of Leipzig",
+   "role": "dean to the faculty of philosophy",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "On four separate occasions he was dean to the faculty of philosophy.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Anton Westermann",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q104330.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Anton Westermann",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

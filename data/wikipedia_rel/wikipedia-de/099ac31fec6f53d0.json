@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Hsuan Hua",
+   "birth_year": 1918,
+   "death_year": 1995,
+   "nationality": "Chinese",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Chang Zhi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ming Yang",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hsuan Hua",
+   "type": "student_of",
+   "object": "Chang Zhi",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mit 15 Jahren suchte er seine Zuflucht in den Drei Juwelen unter der Anleitung von Chang Zhi.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hsuan Hua",
+   "type": "founded",
+   "object": "Dharma Realm Buddhist Association",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hsuan Hua gründete mehrere Institutionen in den USA. dazu gehören die Dharma Realm Buddhist Association (DRBA)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hsuan Hua",
+   "type": "founded",
+   "object": "Dharma Realm Buddhist University",
+   "role": null,
+   "place": "Ukiah, Kalifornien",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dort gründete Hsuan Hua auch die Dharma Realm Buddhist University und die Buddhist Text Translation Society",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hsuan Hua",
+   "type": "founded",
+   "object": "Buddhist Text Translation Society",
+   "role": null,
+   "place": "Ukiah, Kalifornien",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dort gründete Hsuan Hua auch die Dharma Realm Buddhist University und die Buddhist Text Translation Society",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hsuan Hua",
+   "type": "other",
+   "object": "Ming Yang",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Die Zeremonien wurden von Ming Yang, dem Abt des Longhua-Tempels (上海龙华寺) in Shanghai, einem langjährigen Freund von Hsuan Hua geleitet.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Hsuan Hua",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q711861.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Hsuan Hua",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Basil John Gould",
+   "birth_year": 1883,
+   "death_year": 1956,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Hugh Richardson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Basil John Gould",
+   "type": "studied_at",
+   "object": "Oxford University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was educated at Winchester College and Oxford University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hugh Richardson",
+   "type": "collaborated_with",
+   "object": "Basil John Gould",
+   "role": "commercial representative",
+   "place": "Lhasa",
+   "year_start": 1936,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gould eventually departed Lhasa, but left behind his commercial representative, Hugh Richardson, who had been previously stationed in Gyantse.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Basil Gould",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q4867169.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Basil Gould",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

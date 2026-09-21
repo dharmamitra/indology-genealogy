@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Rahul Peter Das",
+   "birth_year": 1954,
+   "death_year": null,
+   "nationality": null,
+   "field": "South Asian studies"
+  },
+  {
+   "name": "Klaus Ludwig Janert",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Albrecht Wezler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Paul Thieme",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Rahul Peter Das",
+   "type": "position_at",
+   "object": "Martin Luther University of Halle-Wittenberg",
+   "role": "professor of South Asian studies (Südasienkunde)",
+   "place": null,
+   "year_start": null,
+   "year_end": 2020,
+   "explicit": true,
+   "evidence": "Rahul Peter Das (born 7 July 1954 in Haan, North Rhine-Westphalia)... is a former professor of South Asian studies (Südasienkunde) at the Martin Luther University of Halle-Wittenberg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rahul Peter Das",
+   "type": "studied_at",
+   "object": "University of Cologne",
+   "role": null,
+   "place": null,
+   "year_start": 1974,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He returned to Germany in 1974, where he studied Indology, Islamic studies and Tamilology at the University of Cologne and the University of Hamburg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rahul Peter Das",
+   "type": "studied_at",
+   "object": "University of Hamburg",
+   "role": null,
+   "place": null,
+   "year_start": 1974,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he studied Indology, Islamic studies and Tamilology at the University of Cologne and the University of Hamburg, obtaining all his degrees from the latter.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rahul Peter Das",
+   "type": "student_of",
+   "object": "Klaus Ludwig Janert",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Through his teachers Klaus Ludwig Janert and Albrecht Wezler, students of Paul Thieme, he was influenced by the stringent principles of philological research.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rahul Peter Das",
+   "type": "student_of",
+   "object": "Albrecht Wezler",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Through his teachers Klaus Ludwig Janert and Albrecht Wezler, students of Paul Thieme, he was influenced by the stringent principles of philological research.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Klaus Ludwig Janert",
+   "type": "student_of",
+   "object": "Paul Thieme",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Through his teachers Klaus Ludwig Janert and Albrecht Wezler, students of Paul Thieme",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albrecht Wezler",
+   "type": "student_of",
+   "object": "Paul Thieme",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Through his teachers Klaus Ludwig Janert and Albrecht Wezler, students of Paul Thieme",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Rahul Peter Das",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q91594.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Rahul Peter Das",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "William Woodville Rockhill",
+   "birth_year": 1854,
+   "death_year": 1914,
+   "nationality": "United States",
+   "field": null
+  },
+  {
+   "name": "Léon Feer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Orientalist"
+  },
+  {
+   "name": "Nanjo Bunyu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ernst Leumann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Woodville Rockhill",
+   "type": "student_of",
+   "object": "Léon Feer",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rockhill sought out the celebrated Orientalist Léon Feer of the Bibliothèque Nationale, who guided Rockhill's learning about the Far East.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Léon Feer",
+   "type": "position_at",
+   "object": "Bibliothèque Nationale",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Léon Feer of the Bibliothèque Nationale",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Woodville Rockhill",
+   "type": "studied_at",
+   "object": "École spéciale militaire de Saint-Cyr",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rockhill attended the École spéciale militaire de Saint-Cyr, where he studied Tibetan.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Woodville Rockhill",
+   "type": "collaborated_with",
+   "object": "Nanjo Bunyu",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "During this period, he co-authored a biography of the Buddha with Nanjo Bunyu and Ernst Leumann",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Woodville Rockhill",
+   "type": "collaborated_with",
+   "object": "Ernst Leumann",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "During this period, he co-authored a biography of the Buddha with Nanjo Bunyu and Ernst Leumann",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): William Woodville Rockhill",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q2976980.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): William Woodville Rockhill",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

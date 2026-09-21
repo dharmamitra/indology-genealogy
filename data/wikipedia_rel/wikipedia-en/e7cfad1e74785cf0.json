@@ -1,0 +1,121 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Yin Shun",
+   "birth_year": 1906,
+   "death_year": 2005,
+   "nationality": "Chinese",
+   "field": "Madhyamaka scholar"
+  },
+  {
+   "name": "Master Qingnian",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Cheng Yen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Huiyin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sheng-yen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hsing Yun",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Yin Shun",
+   "type": "student_of",
+   "object": "Master Qingnian",
+   "role": "traditional teacher",
+   "place": "Fuzhun Monastery",
+   "year_start": 1930,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Later, on 11 October 1930, the abbot, Master Qingnian (清念和尚), shaved Zhang Luqin's head and gave him the Dharma name of Yin Shun (印順).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Cheng Yen",
+   "type": "student_of",
+   "object": "Yin Shun",
+   "role": "traditional teacher",
+   "place": "Hui Ri Lecture Hall",
+   "year_start": 1963,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "As a contemporary master, he was most popularly known as the mentor of Cheng Yen, the founder of Buddhist Tzu Chi Charity Foundation",
+   "quote_ok": true
+  },
+  {
+   "subject": "Huiyin",
+   "type": "student_of",
+   "object": "Yin Shun",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Huiyin, a student of mine, brought her to the Hui Ri Lecture Hall, where I lived",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sheng-yen",
+   "type": "influenced_by",
+   "object": "Yin Shun",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he has had a decisive influence on others of the new generation of Buddhist monks such as Sheng-yen of Dharma Drum Mountain and Hsing Yun of Fo Guang Shan",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hsing Yun",
+   "type": "influenced_by",
+   "object": "Yin Shun",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he has had a decisive influence on others of the new generation of Buddhist monks such as Sheng-yen of Dharma Drum Mountain and Hsing Yun of Fo Guang Shan",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Yin Shun",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q323312.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Yin Shun",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

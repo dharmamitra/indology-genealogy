@@ -1,0 +1,102 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "青木文教",
+   "birth_year": 1886,
+   "death_year": 1956,
+   "nationality": "Japan",
+   "field": "Tibetology"
+  },
+  {
+   "name": "大谷光瑞",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "ダライ・ラマ13世",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibet",
+   "field": null
+  },
+  {
+   "name": "多田等観",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "河口慧海",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "青木文教",
+   "type": "studied_at",
+   "object": "京都仏教大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "京都府立第二中学校から京都仏教大学（現龍谷大学）に入学。",
+   "quote_ok": true
+  },
+  {
+   "subject": "青木文教",
+   "type": "position_at",
+   "object": "東京大学文学部",
+   "role": "チベット語講師",
+   "place": null,
+   "year_start": 1951,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1951年多田等観の後任として東京大学文学部チベット語講師となった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "青木文教",
+   "type": "succeeded",
+   "object": "多田等観",
+   "role": "チベット語講師",
+   "place": "東京大学文学部",
+   "year_start": 1951,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1951年多田等観の後任として東京大学文学部チベット語講師となった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "青木文教",
+   "type": "other",
+   "object": "河口慧海",
+   "role": "dispute / feud",
+   "place": null,
+   "year_start": 1917,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1917年（大正6年）に河口慧海の持ち帰ったチベット大蔵経の所有権をめぐり、青木文教と慧海との間で論争が起きる（大正の玉手箱事件）。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 青木文教",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q2027973.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 青木文教",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

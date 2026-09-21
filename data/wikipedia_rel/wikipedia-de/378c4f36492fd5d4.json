@@ -1,0 +1,83 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Taixu",
+   "birth_year": 1890,
+   "death_year": 1947,
+   "nationality": "Chinese",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Dongchu 東初",
+   "birth_year": 1907,
+   "death_year": 1977,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Yang Renshan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Don Alvin Pittman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Taixu",
+   "type": "founded",
+   "object": "Vereinigung für den Fortschritt des Buddhismus",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "gründete Taixu die Vereinigung für den Fortschritt des Buddhismus (佛教協進會/佛教协进会 fójiào xiéjìn hùi)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Yang Renshan",
+   "type": "founded",
+   "object": "Sutra Carving Gesellschaft",
+   "role": null,
+   "place": "Nanjing",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sutra Carving Gesellschaft beitreten wollte, die von dem buddhistischen Laien Yang Renshan gegründet worden war.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dongchu 東初",
+   "type": "student_of",
+   "object": "Taixu",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Einer seiner einflussreichen Schüler war Dongchu 東初 (1907–1977)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Taixu",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q795292.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Taixu",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

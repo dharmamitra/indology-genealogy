@@ -1,0 +1,105 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sergey Fyodorovich Oldenburg",
+   "birth_year": 1863,
+   "death_year": 1934,
+   "nationality": "Russian",
+   "field": "orientalist, Buddhist studies"
+  },
+  {
+   "name": "Ivan Minayev",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Russian",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sergey Fyodorovich Oldenburg",
+   "type": "student_of",
+   "object": "Ivan Minayev",
+   "role": "disciple",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a disciple of Ivan Minayev, the founder of Russian Indology.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sergey Fyodorovich Oldenburg",
+   "type": "studied_at",
+   "object": "St. Petersburg University",
+   "role": null,
+   "place": null,
+   "year_start": 1880,
+   "year_end": 1889,
+   "explicit": true,
+   "evidence": "During the 1880s while at St. Petersburg University Oldenburg participated in the Scientific-Literary Association of Students",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sergey Fyodorovich Oldenburg",
+   "type": "position_at",
+   "object": "Russian Academy of Sciences",
+   "role": "permanent Secretary",
+   "place": null,
+   "year_start": 1904,
+   "year_end": 1929,
+   "explicit": true,
+   "evidence": "Oldenburg was elected to the Russian Academy of Sciences in 1900, and he served as its permanent Secretary from 1904 to 1929.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sergey Fyodorovich Oldenburg",
+   "type": "founded",
+   "object": "Bibliotheca Buddhica",
+   "role": null,
+   "place": null,
+   "year_start": 1897,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1897 Oldenburg launched an authoritative edition of Buddhist texts, Bibliotheca Buddhica",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sergey Fyodorovich Oldenburg",
+   "type": "position_at",
+   "object": "Asian Museum",
+   "role": "director",
+   "place": null,
+   "year_start": 1916,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "whose antecedent (the Asian Museum) he had directed since 1916.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sergey Fyodorovich Oldenburg",
+   "type": "position_at",
+   "object": "Soviet Institute of Oriental Studies",
+   "role": "administrator",
+   "place": null,
+   "year_start": null,
+   "year_end": 1934,
+   "explicit": true,
+   "evidence": "Oldenburg devoted the remainder of his life to administrating the Soviet Institute of Oriental Studies",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Sergey Oldenburg",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q171848.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Sergey Oldenburg",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

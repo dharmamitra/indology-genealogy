@@ -1,0 +1,160 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Thích Nhất Hạnh",
+   "birth_year": 1926,
+   "death_year": 2022,
+   "nationality": "Vietnamese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Thanh Quý Chân Thật",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Vietnamese",
+   "field": null
+  },
+  {
+   "name": "Thích Minh Châu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Vietnamese",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Thích Nhất Hạnh",
+   "type": "student_of",
+   "object": "Thanh Quý Chân Thật",
+   "role": "teacher",
+   "place": "Từ Hiếu Temple",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At age 16, Nhất Hạnh entered the monastery at Từ Hiếu Temple, where his primary teacher was Zen Master Thanh Quý Chân Thật",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thích Nhất Hạnh",
+   "type": "studied_at",
+   "object": "Báo Quốc Buddhist Academy",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1950,
+   "explicit": true,
+   "evidence": "Nhất Hạnh attended Báo Quốc Buddhist Academy. Dissatisfied with the academy, which he found lacking in philosophy, literature, and foreign languages, Nhất Hạnh left in 1950",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thích Nhất Hạnh",
+   "type": "studied_at",
+   "object": "Saigon University",
+   "role": "degree in French and Vietnamese Literature",
+   "place": "Saigon",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "attending Saigon University, where he studied literature, philosophy, psychology, and science and received a degree in French and Vietnamese Literature.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thích Nhất Hạnh",
+   "type": "studied_at",
+   "object": "Princeton University",
+   "role": null,
+   "place": null,
+   "year_start": 1960,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nhất Hạnh accepted a Fulbright Fellowship in 1960 to study comparative religion at Princeton University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thích Nhất Hạnh",
+   "type": "studied_at",
+   "object": "Princeton Theological Seminary",
+   "role": null,
+   "place": null,
+   "year_start": 1961,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied at the Princeton Theological Seminary in 1961.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thích Nhất Hạnh",
+   "type": "position_at",
+   "object": "Columbia University",
+   "role": "lecturer in Buddhism",
+   "place": null,
+   "year_start": 1962,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1962 he was appointed lecturer in Buddhism at Columbia University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thích Nhất Hạnh",
+   "type": "position_at",
+   "object": "Cornell University",
+   "role": "lecturer",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "also taught as a lecturer at Cornell University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thích Nhất Hạnh",
+   "type": "founded",
+   "object": "Vạn Hạnh Buddhist University",
+   "role": null,
+   "place": "Saigon",
+   "year_start": 1964,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "On 13 March 1964, Nhất Hạnh and the monks at An Quang Pagoda founded the Institute of Higher Buddhist Studies (Học Viện Phật Giáo Việt Nam)... Renamed Vạn Hạnh Buddhist University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thích Nhất Hạnh",
+   "type": "position_at",
+   "object": "Vạn Hạnh Buddhist University",
+   "role": null,
+   "place": "Saigon",
+   "year_start": 1964,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nhất Hạnh taught Buddhist psychology and prajnaparamita literature there, and helped finance the university by fundraising from supporters.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thích Minh Châu",
+   "type": "position_at",
+   "object": "Vạn Hạnh Buddhist University",
+   "role": "Vice Chancellor",
+   "place": null,
+   "year_start": 1966,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Vice Chancellor Thích Minh Châu dissolved the students' union and removed the SYSS from the university's auspices.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Thích Nhất Hạnh",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q310913.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Thích Nhất Hạnh",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

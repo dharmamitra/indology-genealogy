@@ -1,0 +1,105 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "George Watt",
+   "birth_year": 1851,
+   "death_year": 1930,
+   "nationality": "Scottish",
+   "field": "botanist"
+  },
+  {
+   "name": "Isaac Henry Burkill",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "George Watt",
+   "type": "studied_at",
+   "object": "University of Aberdeen",
+   "role": null,
+   "place": "Aberdeen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "later attended both the University of Aberdeen and the University of Glasgow.",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Watt",
+   "type": "studied_at",
+   "object": "University of Glasgow",
+   "role": "M.B. and C.M.",
+   "place": "Glasgow",
+   "year_start": null,
+   "year_end": 1873,
+   "explicit": true,
+   "evidence": "later attended both the University of Aberdeen and the University of Glasgow. He received the degrees of M.B. and C.M. in 1873.",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Watt",
+   "type": "position_at",
+   "object": "University of Glasgow",
+   "role": "prodissector to the Professor of Anatomy",
+   "place": "Glasgow",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "joined the University of Glasgow as a prodissector to the Professor of Anatomy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Watt",
+   "type": "position_at",
+   "object": "Presidency College, Calcutta University",
+   "role": "Professor of Botany",
+   "place": "Calcutta",
+   "year_start": 1873,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "selected for the post Professor of Botany, at Presidency College, Calcutta University and joined there in 1873–74.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Isaac Henry Burkill",
+   "type": "collaborated_with",
+   "object": "George Watt",
+   "role": "assistant reporter",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "appointed Reporter on Economic Products under the Department of Revenue and Agriculture. Isaac Henry Burkill worked as an assistant reporter.",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Watt",
+   "type": "position_at",
+   "object": "Edinburgh University",
+   "role": "lecturer",
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "For five years he lectured on Indian trees to forestry students at Edinburgh University.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): George Watt (botanist)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q3101998.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): George Watt (botanist)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

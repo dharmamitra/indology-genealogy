@@ -1,0 +1,183 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "安谷白雲",
+   "birth_year": 1885,
+   "death_year": 1973,
+   "nationality": "日本",
+   "field": null
+  },
+  {
+   "name": "西有穆山",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "秋野孝道",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "岸沢惟安",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "野沢達元",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "原田祖岳",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "山田耕雲",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "前角博雄",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "安谷白雲",
+   "type": "student_of",
+   "object": "西有穆山",
+   "role": "師事",
+   "place": null,
+   "year_start": 1899,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1899年から西有穆山、秋野孝道、岸沢惟安、野沢達元らに師事。",
+   "quote_ok": true
+  },
+  {
+   "subject": "安谷白雲",
+   "type": "student_of",
+   "object": "秋野孝道",
+   "role": "師事",
+   "place": null,
+   "year_start": 1899,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1899年から西有穆山、秋野孝道、岸沢惟安、野沢達元らに師事。",
+   "quote_ok": true
+  },
+  {
+   "subject": "安谷白雲",
+   "type": "student_of",
+   "object": "岸沢惟安",
+   "role": "師事",
+   "place": null,
+   "year_start": 1899,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1899年から西有穆山、秋野孝道、岸沢惟安、野沢達元らに師事。",
+   "quote_ok": true
+  },
+  {
+   "subject": "安谷白雲",
+   "type": "student_of",
+   "object": "野沢達元",
+   "role": "師事",
+   "place": null,
+   "year_start": 1899,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1899年から西有穆山、秋野孝道、岸沢惟安、野沢達元らに師事。",
+   "quote_ok": true
+  },
+  {
+   "subject": "安谷白雲",
+   "type": "studied_at",
+   "object": "豊島師範学校",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1914,
+   "explicit": true,
+   "evidence": "1914年、豊島師範学校を卒業し",
+   "quote_ok": true
+  },
+  {
+   "subject": "安谷白雲",
+   "type": "student_of",
+   "object": "原田祖岳",
+   "role": "修行・嗣法",
+   "place": null,
+   "year_start": 1925,
+   "year_end": 1943,
+   "explicit": true,
+   "evidence": "1925年から原田祖岳師の下で修行を始め、1943年に嗣法を受けた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "安谷白雲",
+   "type": "founded",
+   "object": "三宝教団",
+   "role": null,
+   "place": null,
+   "year_start": 1954,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1954年に曹洞宗から独立して三宝教団を起ち上げ",
+   "quote_ok": true
+  },
+  {
+   "subject": "山田耕雲",
+   "type": "student_of",
+   "object": "安谷白雲",
+   "role": "弟子",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "弟子\n山田耕雲",
+   "quote_ok": true
+  },
+  {
+   "subject": "前角博雄",
+   "type": "student_of",
+   "object": "安谷白雲",
+   "role": "弟子",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "弟子\n山田耕雲\n前角博雄",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 安谷白雲",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q5640677.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 安谷白雲",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

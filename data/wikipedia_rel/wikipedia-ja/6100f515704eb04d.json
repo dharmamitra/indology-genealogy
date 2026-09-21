@@ -1,0 +1,143 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "島地黙雷",
+   "birth_year": 1838,
+   "death_year": 1911,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "島地大等",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "大洲鉄然",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "赤松連城",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "島地黙雷",
+   "type": "position_at",
+   "object": "西本願寺",
+   "role": "執行長",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "島地 黙雷（しまじ もくらい、天保9年2月15日（1838年3月10日） - 明治44年（1911年）2月3日）は、明治時代に活躍した浄土真宗本願寺派の僧。西本願寺の執行長。",
+   "quote_ok": true
+  },
+  {
+   "subject": "島地黙雷",
+   "type": "collaborated_with",
+   "object": "大洲鉄然",
+   "role": null,
+   "place": "京都",
+   "year_start": 1868,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1868年（明治元年）、京都で大洲鉄然や赤松連城とともに、坊官制の廃止・門末からの人材登用などの西本願寺の改革を建白し",
+   "quote_ok": true
+  },
+  {
+   "subject": "島地黙雷",
+   "type": "collaborated_with",
+   "object": "赤松連城",
+   "role": null,
+   "place": "京都",
+   "year_start": 1868,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1868年（明治元年）、京都で大洲鉄然や赤松連城とともに、坊官制の廃止・門末からの人材登用などの西本願寺の改革を建白し",
+   "quote_ok": true
+  },
+  {
+   "subject": "島地黙雷",
+   "type": "position_at",
+   "object": "西本願寺",
+   "role": "参政",
+   "place": null,
+   "year_start": 1870,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1870年（明治3年）に、西本願寺の参政となった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "島地黙雷",
+   "type": "founded",
+   "object": "女子文芸学舎",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "また、女子文芸学舎（現：千代田女学園）を創立するなど、社会事業や女子教育にも功績を残した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "島地黙雷",
+   "type": "position_at",
+   "object": "北山願教寺",
+   "role": "第25世住職",
+   "place": "盛岡市",
+   "year_start": 1892,
+   "year_end": 1905,
+   "explicit": true,
+   "evidence": "1892年（明治25年）、盛岡市の北山願教寺第25世住職となった。養嗣子の島地大等が第26世となる。1905年、奥羽開教総監の役名で退隠した",
+   "quote_ok": true
+  },
+  {
+   "subject": "島地大等",
+   "type": "succeeded",
+   "object": "島地黙雷",
+   "role": "第26世住職",
+   "place": "北山願教寺",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1892年（明治25年）、盛岡市の北山願教寺第25世住職となった。養嗣子の島地大等が第26世となる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "島地大等",
+   "type": "other",
+   "object": "島地黙雷",
+   "role": "養嗣子",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "養嗣子の島地大等が第26世となる。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 島地黙雷",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q6605997.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 島地黙雷",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,136 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Leo Karl Heinrich Meyer",
+   "birth_year": 1830,
+   "death_year": 1910,
+   "nationality": "German",
+   "field": "philology"
+  },
+  {
+   "name": "Brothers Grimm",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Nikolai Anderson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Leo Karl Heinrich Meyer",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was educated at Göttingen and Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Leo Karl Heinrich Meyer",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was educated at Göttingen and Berlin, where he was a student of the Brothers Grimm.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Leo Karl Heinrich Meyer",
+   "type": "student_of",
+   "object": "Brothers Grimm",
+   "role": "student",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Berlin, where he was a student of the Brothers Grimm.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Leo Karl Heinrich Meyer",
+   "type": "position_at",
+   "object": "Göttingen",
+   "role": "professor",
+   "place": null,
+   "year_start": 1862,
+   "year_end": 1865,
+   "explicit": true,
+   "evidence": "From 1862 to 1865, he was professor in Göttingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Leo Karl Heinrich Meyer",
+   "type": "position_at",
+   "object": "Imperial University of Dorpat",
+   "role": "professor of comparative philology",
+   "place": "Dorpat",
+   "year_start": 1865,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1865 he became professor of comparative philology at the Imperial University of Dorpat (now Tartu, Estonia).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nikolai Anderson",
+   "type": "student_of",
+   "object": "Leo Karl Heinrich Meyer",
+   "role": "student",
+   "place": "Imperial University of Dorpat",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "One of his students there was Nikolai Anderson.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Leo Karl Heinrich Meyer",
+   "type": "position_at",
+   "object": "Learned Estonian Society",
+   "role": "president",
+   "place": null,
+   "year_start": 1869,
+   "year_end": 1899,
+   "explicit": true,
+   "evidence": "From 1869 to 1899 he was the president of the Learned Estonian Society.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Leo Karl Heinrich Meyer",
+   "type": "position_at",
+   "object": "Göttingen",
+   "role": "chair",
+   "place": null,
+   "year_start": 1898,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1898 he again accepted a chair at Göttingen.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Leo Meyer (philologist)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q78147.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Leo Meyer (philologist)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

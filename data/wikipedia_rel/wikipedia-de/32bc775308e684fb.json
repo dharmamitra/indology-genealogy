@@ -1,0 +1,119 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John Hurrell Crook",
+   "birth_year": 1930,
+   "death_year": 2011,
+   "nationality": "britisch",
+   "field": "Verhaltensforscher"
+  },
+  {
+   "name": "Robert Hinde",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "William Thorpe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Stamati Crook",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Hurrell Crook",
+   "type": "studied_at",
+   "object": "Universität von Southampton",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nach dem Studium der Zoologie an der Universität von Southampton",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Hurrell Crook",
+   "type": "studied_at",
+   "object": "Universität Cambridge",
+   "role": "Doktorarbeit",
+   "place": null,
+   "year_start": 1955,
+   "year_end": 1958,
+   "explicit": true,
+   "evidence": "arbeitete John Crook für seine Doktorarbeit von 1955 bis 1958 an der Universität Cambridge",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Hurrell Crook",
+   "type": "student_of",
+   "object": "Robert Hinde",
+   "role": "doctoral supervisor",
+   "place": "Universität Cambridge",
+   "year_start": 1955,
+   "year_end": 1958,
+   "explicit": true,
+   "evidence": "arbeitete John Crook für seine Doktorarbeit von 1955 bis 1958 an der Universität Cambridge unter Robert Hinde und William Thorpe über Webervögel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Hurrell Crook",
+   "type": "student_of",
+   "object": "William Thorpe",
+   "role": "doctoral supervisor",
+   "place": "Universität Cambridge",
+   "year_start": 1955,
+   "year_end": 1958,
+   "explicit": true,
+   "evidence": "arbeitete John Crook für seine Doktorarbeit von 1955 bis 1958 an der Universität Cambridge unter Robert Hinde und William Thorpe über Webervögel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Hurrell Crook",
+   "type": "position_at",
+   "object": "Bristol",
+   "role": "Lehrer",
+   "place": "Bristol",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "seit den frühen 1960er-Jahren lehrte Crook das Fach Verhaltensforschung an der Fakultät für Psychologie in Bristol.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Hurrell Crook",
+   "type": "collaborated_with",
+   "object": "Stamati Crook",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gemeinsam mit Stamati Crook analysierte er u. a. die Polyandrie der Tibeter unter verhaltensökologischen Gesichtspunkten.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): John Crook (Zoologe)",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q323480.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): John Crook (Zoologe)",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

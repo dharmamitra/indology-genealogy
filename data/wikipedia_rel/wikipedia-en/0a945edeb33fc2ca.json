@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Jacob Samuel Speyer",
+   "birth_year": 1849,
+   "death_year": 1913,
+   "nationality": "Dutch",
+   "field": "philologist and translator from Sanskrit"
+  },
+  {
+   "name": "Hendrik Kern",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jacob Samuel Speyer",
+   "type": "studied_at",
+   "object": "University of Leiden",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1872,
+   "explicit": true,
+   "evidence": "and then Sanskrit at the University of Leiden, from where he awarded a Ph.D. on 21 December 1872.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jacob Samuel Speyer",
+   "type": "position_at",
+   "object": "University of Amsterdam",
+   "role": "lecturer in Sanskrit and comparative philology",
+   "place": null,
+   "year_start": 1877,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "On 15 October 1877, he was appointed lecturer in Sanskrit and comparative philology at the University of Amsterdam",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jacob Samuel Speyer",
+   "type": "position_at",
+   "object": "Gröningen",
+   "role": "professor of Latin",
+   "place": "Gröningen",
+   "year_start": 1888,
+   "year_end": 1903,
+   "explicit": true,
+   "evidence": "he was called to Gröningen as professor of Latin in December 1888. He held this chair until 20 March 1903",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jacob Samuel Speyer",
+   "type": "position_at",
+   "object": "University of Leiden",
+   "role": "professor of Sanskrit",
+   "place": "Leiden",
+   "year_start": 1903,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "when he was appointed to succeed his former teacher Hendrik Kern as professor of Sanskrit at the University of Leiden.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jacob Samuel Speyer",
+   "type": "student_of",
+   "object": "Hendrik Kern",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "succeed his former teacher Hendrik Kern",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jacob Samuel Speyer",
+   "type": "succeeded",
+   "object": "Hendrik Kern",
+   "role": "professor of Sanskrit",
+   "place": "University of Leiden",
+   "year_start": 1903,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "when he was appointed to succeed his former teacher Hendrik Kern as professor of Sanskrit at the University of Leiden.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Jacob Samuel Speyer",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q3172063.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Jacob Samuel Speyer",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

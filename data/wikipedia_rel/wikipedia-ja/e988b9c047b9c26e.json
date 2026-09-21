@@ -1,0 +1,95 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "サラト・チャンドラ・ダス",
+   "birth_year": 1849,
+   "death_year": 1917,
+   "nationality": "インド",
+   "field": "チベット学"
+  },
+  {
+   "name": "ウゲン・ギャツォ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "チャールズ・アルフレッド・ベル",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "河口慧海",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "サラト・チャンドラ・ダス",
+   "type": "studied_at",
+   "object": "プレジデンシー・カレッジ",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "当時カルカッタ大学の一部をなしていたプレジデンシー・カレッジで学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "サラト・チャンドラ・ダス",
+   "type": "position_at",
+   "object": "ダージリンのブーティアボーディングスクール",
+   "role": "校長",
+   "place": "ダージリン",
+   "year_start": 1874,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1874年、ダージリンのブーティアボーディングスクールの校長に任命された。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ウゲン・ギャツォ",
+   "type": "position_at",
+   "object": "ダージリンのブーティアボーディングスクール",
+   "role": "チベット語教師",
+   "place": "ダージリン",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "同学校のチベット語教師であったラマのウゲン・ギャツォ",
+   "quote_ok": true
+  },
+  {
+   "subject": "サラト・チャンドラ・ダス",
+   "type": "collaborated_with",
+   "object": "ウゲン・ギャツォ",
+   "role": null,
+   "place": null,
+   "year_start": 1879,
+   "year_end": 1883,
+   "explicit": true,
+   "evidence": "翌1879年6月、ダスはウゲン・ギャツォとともにダージリンからチベットへと最初の旅に出た。2人はチベットに6か月滞在し、大量のチベット語とサンスクリットの文書を持ってダージリンに帰った。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): サラト・チャンドラ・ダス",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q2471848.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): サラト・チャンドラ・ダス",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

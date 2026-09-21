@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Johannes Emil Otto Klatt",
+   "birth_year": 1852,
+   "death_year": 1908,
+   "nationality": "Prussian-German",
+   "field": "Indologist and librarian"
+  },
+  {
+   "name": "Albrecht Weber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Peter Flügel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Jain studies"
+  },
+  {
+   "name": "Kornelius Krümpelmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Jain studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johannes Emil Otto Klatt",
+   "type": "student_of",
+   "object": "Albrecht Weber",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1868,
+   "year_end": 1872,
+   "explicit": true,
+   "evidence": "From 1868 to 1872, he studied Indology in Berlin under Albrecht Weber.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Emil Otto Klatt",
+   "type": "studied_at",
+   "object": "University of Halle",
+   "role": "doctorate",
+   "place": "Halle",
+   "year_start": null,
+   "year_end": 1873,
+   "explicit": true,
+   "evidence": "In 1873, he finished his doctorate at the University of Halle.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Emil Otto Klatt",
+   "type": "position_at",
+   "object": "Royal Library in Berlin",
+   "role": "part-time staff",
+   "place": "Berlin",
+   "year_start": 1872,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At the Royal Library in Berlin (now the Berlin State Library), Klatt's appointments were as follows. 1872: part-time staff",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Emil Otto Klatt",
+   "type": "position_at",
+   "object": "Royal Library in Berlin",
+   "role": "assistant",
+   "place": "Berlin",
+   "year_start": 1874,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1874: assistant",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Emil Otto Klatt",
+   "type": "position_at",
+   "object": "Royal Library in Berlin",
+   "role": "Kustos (custodian)",
+   "place": "Berlin",
+   "year_start": 1880,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "October 1880: Kustos (custodian)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Emil Otto Klatt",
+   "type": "position_at",
+   "object": "Royal Library in Berlin",
+   "role": "Bibliothecarius (librarian)",
+   "place": "Berlin",
+   "year_start": 1889,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "April 1889: Bibliothecarius (librarian)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Flügel",
+   "type": "collaborated_with",
+   "object": "Kornelius Krümpelmann",
+   "role": "co-editors",
+   "place": null,
+   "year_start": 2016,
+   "year_end": 2016,
+   "explicit": true,
+   "evidence": "The Jaina-Onomasticon was edited and published in 2016 by Peter Flügel and Kornelius Krümpelmann.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Johannes Klatt",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q19214267.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Johannes Klatt",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

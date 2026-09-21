@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "William James",
+   "birth_year": 1842,
+   "death_year": 1910,
+   "nationality": "American",
+   "field": "philosopher and psychologist"
+  },
+  {
+   "name": "Peirce",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Charles Renouvier",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William James",
+   "type": "influenced_by",
+   "object": "Peirce",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In this sense, James's pragmatic influencer Peirce establishes that what counts as a practical consequence or effect is what can affect one's senses",
+   "quote_ok": true
+  },
+  {
+   "subject": "William James",
+   "type": "influenced_by",
+   "object": "Charles Renouvier",
+   "role": null,
+   "place": null,
+   "year_start": 1870,
+   "year_end": 1870,
+   "explicit": true,
+   "evidence": "James was prompted to believe his will was free by reading Charles Renouvier, whose work convinced James to convert from monism to pluralism. In his diary entry of April 30, 1870, James wrote",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): William James",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q125249.txt#1",
+ "meta": {
+  "title": "Wikipedia (en): William James",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

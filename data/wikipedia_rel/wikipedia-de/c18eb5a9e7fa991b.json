@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Friedrich Georg von Adelung",
+   "birth_year": 1768,
+   "death_year": 1843,
+   "nationality": "deutsch-russischer",
+   "field": "Sprachwissenschaftler"
+  },
+  {
+   "name": "Johann Christoph Adelung",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Peter von Köppen",
+   "birth_year": 1793,
+   "death_year": 1864,
+   "nationality": "russischer",
+   "field": "Statistiker und Ethnograph"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Friedrich Georg von Adelung",
+   "type": "other",
+   "object": "Johann Christoph Adelung",
+   "role": "nephew",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Der Lexikograph Johann Christoph Adelung war sein Onkel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Georg von Adelung",
+   "type": "studied_at",
+   "object": "Universität Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": 1787,
+   "year_end": 1790,
+   "explicit": true,
+   "evidence": "studierte von 1787 bis 1790 an der Universität Leipzig Jurisprudenz und Philosophie.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Georg von Adelung",
+   "type": "position_at",
+   "object": "Orientalisches Institut",
+   "role": "Direktor",
+   "place": null,
+   "year_start": 1824,
+   "year_end": 1843,
+   "explicit": true,
+   "evidence": "Von 1824 bis zu seinem Tod war er Direktor des Orientalischen Instituts.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter von Köppen",
+   "type": "other",
+   "object": "Friedrich Georg von Adelung",
+   "role": "son-in-law",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Alexandrine (1802–1872), ⚭ Peter von Köppen (1793–1864), russischer Statistiker und Ethnograph",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Friedrich von Adelung",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q64437.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Friedrich von Adelung",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

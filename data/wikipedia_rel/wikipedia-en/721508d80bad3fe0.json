@@ -1,0 +1,148 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Hermann Sauppe",
+   "birth_year": 1809,
+   "death_year": 1893,
+   "nationality": "German",
+   "field": "classical philologist and epigraphist"
+  },
+  {
+   "name": "Gottfried Hermann",
+   "birth_year": 1772,
+   "death_year": 1848,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Johann Georg Baiter",
+   "birth_year": 1801,
+   "death_year": 1887,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hermann Sauppe",
+   "type": "studied_at",
+   "object": "University of Leipzig",
+   "role": "doctorate",
+   "place": null,
+   "year_start": null,
+   "year_end": 1832,
+   "explicit": true,
+   "evidence": "In 1832 he earned his doctorate from the University of Leipzig",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Sauppe",
+   "type": "student_of",
+   "object": "Gottfried Hermann",
+   "role": "teacher",
+   "place": "University of Leipzig",
+   "year_start": null,
+   "year_end": 1832,
+   "explicit": true,
+   "evidence": "University of Leipzig, where he was a student of Gottfried Hermann (1772–1848), who was a profound influence to Sauppe's career.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Sauppe",
+   "type": "influenced_by",
+   "object": "Gottfried Hermann",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gottfried Hermann (1772–1848), who was a profound influence to Sauppe's career.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Sauppe",
+   "type": "position_at",
+   "object": "university",
+   "role": "associate professor",
+   "place": "Zurich",
+   "year_start": 1838,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "where in 1838 he became an associate professor at the university.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Sauppe",
+   "type": "position_at",
+   "object": "cantonal library at Zurich",
+   "role": "chief librarian",
+   "place": "Zurich",
+   "year_start": 1837,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1837 he was appointed chief librarian at the cantonal library at Zurich.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Sauppe",
+   "type": "position_at",
+   "object": "gymnasium in Weimar",
+   "role": "director",
+   "place": "Weimar",
+   "year_start": 1845,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1845 he became director of the gymnasium in Weimar",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Sauppe",
+   "type": "position_at",
+   "object": "University of Göttingen",
+   "role": "professor of ancient languages",
+   "place": "Göttingen",
+   "year_start": 1856,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and in 1856 was appointed professor of ancient languages at the University of Göttingen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Sauppe",
+   "type": "founded",
+   "object": "Pedagogical Seminary",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At Göttingen he was responsible for establishment of the Pedagogical Seminary.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Sauppe",
+   "type": "collaborated_with",
+   "object": "Johann Georg Baiter",
+   "role": "co-edited",
+   "place": null,
+   "year_start": 1838,
+   "year_end": 1850,
+   "explicit": true,
+   "evidence": "\"Oratores Attici\" (1838–50). The latter work being a collection of fragmentary speeches and tracts by various Attica orators (co-edited with Johann Georg Baiter, 1801–1887).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Hermann Sauppe",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q70084.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Hermann Sauppe",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

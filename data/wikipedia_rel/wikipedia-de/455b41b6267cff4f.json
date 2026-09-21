@@ -1,0 +1,126 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Khenpo Gangshar Wangpo",
+   "birth_year": 1925,
+   "death_year": 1958,
+   "nationality": "Tibet",
+   "field": null
+  },
+  {
+   "name": "Chögyam Trungpa Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "9. Thrangu Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Chime Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibet",
+   "field": null
+  },
+  {
+   "name": "2. Jamgon Kongtrul",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Chögyam Trungpa Rinpoche",
+   "type": "student_of",
+   "object": "Khenpo Gangshar Wangpo",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": 1952,
+   "year_end": 1957,
+   "explicit": true,
+   "evidence": "Khenpo Gangshar Wangpo (* 1925; † 1958?) war ein hoch angesehener Lama aus Ost-Tibet und einer der wichtigsten Lehrer von Chögyam Trungpa Rinpoche (11. Trungpa Tulku)",
+   "quote_ok": true
+  },
+  {
+   "subject": "9. Thrangu Rinpoche",
+   "type": "student_of",
+   "object": "Khenpo Gangshar Wangpo",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "einer der wichtigsten Lehrer von Chögyam Trungpa Rinpoche (11. Trungpa Tulku), ebenso wie vom 9. Thrangu Rinpoche und Chime Rinpoche.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chime Rinpoche",
+   "type": "student_of",
+   "object": "Khenpo Gangshar Wangpo",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Der bekannte tibetische Lama Chime Rinpoche war einer der letzten direkten Schüler von Gangshar Rinpoche.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Khenpo Gangshar Wangpo",
+   "type": "studied_at",
+   "object": "Shechen-Kloster",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Khenpo Gangshar wurde ausgebildet im Shechen-Kloster",
+   "quote_ok": true
+  },
+  {
+   "subject": "Khenpo Gangshar Wangpo",
+   "type": "student_of",
+   "object": "2. Jamgon Kongtrul",
+   "role": "traditional teacher",
+   "place": "Shechen-Kloster",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gangshar Rinpoche vom 2. Jamgon Kongtrul aus dem Shechen-Kloster ausgebildet wurde",
+   "quote_ok": true
+  },
+  {
+   "subject": "Khenpo Gangshar Wangpo",
+   "type": "position_at",
+   "object": "Shechen-Kloster",
+   "role": "Senior-Lehrer",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "und er wurde einer der sechs Senior-Lehrer des Shechen Klosters.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Gangshar Wangpo",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q5521206.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Gangshar Wangpo",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,83 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Bhikkhu Ñāṇavīra Thera",
+   "birth_year": 1920,
+   "death_year": 1965,
+   "nationality": "englisch",
+   "field": null
+  },
+  {
+   "name": "Osbert Moore",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Engländer",
+   "field": null
+  },
+  {
+   "name": "Nyanatiloka",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "deutsch",
+   "field": null
+  },
+  {
+   "name": "Pælæne Siri Vajiranana Maha Nayaka Thera",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Bhikkhu Ñāṇavīra Thera",
+   "type": "other",
+   "object": "Osbert Moore",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zusammen mit seinem Freund Osbert Moore verließ er mit 28 Jahren England in Richtung Ceylon",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bhikkhu Ñāṇavīra Thera",
+   "type": "student_of",
+   "object": "Pælæne Siri Vajiranana Maha Nayaka Thera",
+   "role": "traditional teacher",
+   "place": "Wat Vajirarama in Colombo",
+   "year_start": 1950,
+   "year_end": 1950,
+   "explicit": true,
+   "evidence": "Am 22. Juli 1950 erhielten sie im Wat Vajirarama in Colombo die Mönchsweihe (upasampada) beim ehrwürdigen Pælæne Siri Vajiranana Maha Nayaka Thera",
+   "quote_ok": true
+  },
+  {
+   "subject": "Osbert Moore",
+   "type": "student_of",
+   "object": "Pælæne Siri Vajiranana Maha Nayaka Thera",
+   "role": "traditional teacher",
+   "place": "Wat Vajirarama in Colombo",
+   "year_start": 1950,
+   "year_end": 1950,
+   "explicit": true,
+   "evidence": "Am 22. Juli 1950 erhielten sie im Wat Vajirarama in Colombo die Mönchsweihe (upasampada) beim ehrwürdigen Pælæne Siri Vajiranana Maha Nayaka Thera",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Nanavira Thera",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q434517.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Nanavira Thera",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,138 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Hellmuth Hecker",
+   "birth_year": 1923,
+   "death_year": 2017,
+   "nationality": "German",
+   "field": "Theravada-Buddhismus"
+  },
+  {
+   "name": "Paul Debes",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Bhikkhu Nyanatusita",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Nyanaponika Thera",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Fritz Schäfer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hellmuth Hecker",
+   "type": "studied_at",
+   "object": "Universität Hamburg",
+   "role": null,
+   "place": "Hamburg",
+   "year_start": 1942,
+   "year_end": 1945,
+   "explicit": true,
+   "evidence": "Als Jurastudent an der Universität Hamburg (WS 1942/43 bis WS 1944/45)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hellmuth Hecker",
+   "type": "student_of",
+   "object": "Paul Debes",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1945,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1945 wurde er von seinem Freund Fritz Schäfer mit Paul Debes bekannt gemacht und wurde so dessen Schüler.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hellmuth Hecker",
+   "type": "studied_at",
+   "object": "Universität Hamburg",
+   "role": "PhD",
+   "place": "Hamburg",
+   "year_start": null,
+   "year_end": 1948,
+   "explicit": true,
+   "evidence": "1948 promovierte er an der Universität Hamburg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hellmuth Hecker",
+   "type": "position_at",
+   "object": "Forschungsstelle für Völkerrecht und Ausländisches Öffentliches Recht",
+   "role": "Referent",
+   "place": "Hamburg",
+   "year_start": 1948,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "arbeitete anschließend als Referent an der „Forschungsstelle für Völkerrecht und Ausländisches Öffentliches Recht“",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hellmuth Hecker",
+   "type": "collaborated_with",
+   "object": "Bhikkhu Nyanatusita",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2011,
+   "explicit": true,
+   "evidence": "Biographie auf Englisch: Bhikkhu Nyanatusita, Hellmuth Hecker: Life of Nyanatiloka Thera: The Biography of a Western Buddhist Pioneer, Buddhist Publication Society, Sri Lanka, 28. März 2011",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hellmuth Hecker",
+   "type": "collaborated_with",
+   "object": "Nyanaponika Thera",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2000,
+   "explicit": true,
+   "evidence": "2000 Die Jünger Buddhas. Leben, Werk und Vermächtnis der vierundzwanzig bedeutendsten Schüler und Schülerinnen des Erwachten. (zusammen mit Nyanaponika Thera, zuerst 1997",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hellmuth Hecker",
+   "type": "other",
+   "object": "Fritz Schäfer",
+   "role": "friendship",
+   "place": null,
+   "year_start": 1945,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1945 wurde er von seinem Freund Fritz Schäfer mit Paul Debes bekannt gemacht",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Hellmuth Hecker",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1249662.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Hellmuth Hecker",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

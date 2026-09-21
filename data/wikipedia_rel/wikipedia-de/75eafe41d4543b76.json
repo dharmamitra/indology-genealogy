@@ -1,0 +1,126 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Arthur Coke Burnell",
+   "birth_year": 1840,
+   "death_year": 1882,
+   "nationality": "British",
+   "field": "Indology"
+  },
+  {
+   "name": "Viggo Fausböll",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Danish",
+   "field": "Indology"
+  },
+  {
+   "name": "Theodor Goldstücker",
+   "birth_year": 1821,
+   "death_year": 1872,
+   "nationality": null,
+   "field": "Linguistics"
+  },
+  {
+   "name": "Heinrich August Jäschke",
+   "birth_year": 1817,
+   "death_year": 1883,
+   "nationality": "German",
+   "field": "Tibetology"
+  },
+  {
+   "name": "Henry Yule",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Arthur Coke Burnell",
+   "type": "studied_at",
+   "object": "Bedford School",
+   "role": null,
+   "place": "Bedford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Burnell, ältester Sohn eines Marinebeamten der englischen East India Company, besuchte zunächst die Bedford School in Bedford",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Coke Burnell",
+   "type": "studied_at",
+   "object": "King’s College in London",
+   "role": null,
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "und später das King’s College in London.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Coke Burnell",
+   "type": "student_of",
+   "object": "Viggo Fausböll",
+   "role": "teacher",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sein dortiger Lehrer, Professor Viggo Fausböll aus Kopenhagen, brachte ihn mit der Indologie, der Beschäftigung mit Sprache und Kultur des südasiatischen Subkontinents, in Kontakt",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Coke Burnell",
+   "type": "student_of",
+   "object": "Theodor Goldstücker",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bei dem Sprachwissenschaftler und Kenner des Hindurechts Theodor Goldstücker (1821–1872) studierte er Telugu und Sanskrit.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Coke Burnell",
+   "type": "student_of",
+   "object": "Heinrich August Jäschke",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1868,
+   "year_end": 1868,
+   "explicit": true,
+   "evidence": "lernte auf der Heimreise über Arabien, Ägypten und Nubien bei einem deutschen Mitreisenden, dem Herrnhuter Missionar und Bibelübersetzer Heinrich August Jäschke (1817–1883), Tibetisch",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Coke Burnell",
+   "type": "collaborated_with",
+   "object": "Henry Yule",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "und veröffentlichte, zum Teil in Zusammenarbeit mit Henry Yule (Hobson-Jobson), zahlreiche weitere Werke",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Arthur Coke Burnell",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q4798305.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Arthur Coke Burnell",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

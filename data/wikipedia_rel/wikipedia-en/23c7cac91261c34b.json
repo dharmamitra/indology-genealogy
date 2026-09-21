@@ -1,0 +1,124 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ishwar Chandra Vidyasagar",
+   "birth_year": 1820,
+   "death_year": 1891,
+   "nationality": "Indian",
+   "field": "Sanskrit and philosophy"
+  },
+  {
+   "name": "Dwarakanath Vidyabhusan",
+   "birth_year": 1819,
+   "death_year": 1886,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Rasomoy Dutta",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ishwar Chandra Vidyasagar",
+   "type": "studied_at",
+   "object": "Sanskrit College, Calcutta",
+   "role": null,
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": 1841,
+   "explicit": true,
+   "evidence": "Ishwar Chandra joined the Sanskrit College, Calcutta, and studied there for twelve long years and graduated in 1841",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ishwar Chandra Vidyasagar",
+   "type": "position_at",
+   "object": "Fort William College",
+   "role": "head of the Sanskrit department",
+   "place": null,
+   "year_start": 1841,
+   "year_end": 1846,
+   "explicit": true,
+   "evidence": "In 1841, at the age of twenty-one years, Ishwar Chandra joined Fort William College as head of the Sanskrit department. After five years, in 1846, Vidyasagar left Fort William College",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ishwar Chandra Vidyasagar",
+   "type": "position_at",
+   "object": "Sanskrit College, Calcutta",
+   "role": "Assistant Secretary",
+   "place": "Calcutta",
+   "year_start": 1846,
+   "year_end": 1849,
+   "explicit": true,
+   "evidence": "in 1846, Vidyasagar left Fort William College and joined the Sanskrit College as 'Assistant Secretary'.... In 1849, against the advice of Rasomoy Dutta, he resigned from Sanskrit College",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ishwar Chandra Vidyasagar",
+   "type": "position_at",
+   "object": "Fort William College",
+   "role": "head clerk",
+   "place": null,
+   "year_start": 1849,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1849, against the advice of Rasomoy Dutta, he resigned from Sanskrit College and rejoined Fort William College as a head clerk.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dwarakanath Vidyabhusan",
+   "type": "position_at",
+   "object": "Sanskrit College, Calcutta",
+   "role": "professor",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dwarakanath (1819–1886) was a professor of the Sanskrit College in Calcutta, India.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ishwar Chandra Vidyasagar",
+   "type": "collaborated_with",
+   "object": "Dwarakanath Vidyabhusan",
+   "role": "adviser for Somprakash Patrika",
+   "place": null,
+   "year_start": 1858,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A weekly newspaper, Somprakash Patrika, was started on 15 November 1858... by Dwarakanath Vidyabhusan.... The original plan was mooted by Ishwar Chandra Vidyasagar... who continued to advise Dwarakanath",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rasomoy Dutta",
+   "type": "position_at",
+   "object": "Sanskrit College, Calcutta",
+   "role": "College Secretary",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "This report resulted in a serious altercation between Ishwar Chandra and College Secretary Rasomoy Dutta.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Ishwar Chandra Vidyasagar",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q964111.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Ishwar Chandra Vidyasagar",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Wolfgang Schultz",
+   "birth_year": 1881,
+   "death_year": 1936,
+   "nationality": "österreichisch-deutsch",
+   "field": "Philosophie"
+  },
+  {
+   "name": "Richard Hönigswald",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Philosophie"
+  },
+  {
+   "name": "Walther Wüst",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Wolfgang Schultz",
+   "type": "studied_at",
+   "object": "Wien",
+   "role": "Promotion",
+   "place": "Wien",
+   "year_start": 1899,
+   "year_end": 1904,
+   "explicit": true,
+   "evidence": "Nach der Reifeprüfung 1899 studierte der Sohn eines akademischen Malers Philosophie und Mathematik in Wien. [...] Die Promotion im Dezember 1904 hatte das Thema „Das Farbempfindungssystem der Hellenen“.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wolfgang Schultz",
+   "type": "position_at",
+   "object": "Forschungsinstitut für Osten und Orient",
+   "role": "Verwalter",
+   "place": "Wien",
+   "year_start": 1918,
+   "year_end": 1921,
+   "explicit": true,
+   "evidence": "In den Jahren 1918 bis 1921 war er als Verwalter des „Forschungsinstituts für Osten und Orient“ in Wien tätig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wolfgang Schultz",
+   "type": "succeeded",
+   "object": "Richard Hönigswald",
+   "role": null,
+   "place": "Universität München",
+   "year_start": 1934,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "an der Universität München eine Professur für Philosophie als Nachfolger des emigrierten Richard Hönigswald erhielt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wolfgang Schultz",
+   "type": "position_at",
+   "object": "Universität München",
+   "role": "ordentlicher Professor",
+   "place": "München",
+   "year_start": 1934,
+   "year_end": 1936,
+   "explicit": true,
+   "evidence": "Am 1. November 1934 wurde Schultz schließlich zum ordentlichen Professor ernannt und übernahm den von ihm angestrebten Lehrstuhl.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walther Wüst",
+   "type": "position_at",
+   "object": "Universität München",
+   "role": "Dekan",
+   "place": "München",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "berichtete dorthin über die Aktivitäten in der Fakultät und auch über den Dekan Walther Wüst.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Wolfgang Schultz (Philosoph)",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1459471.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Wolfgang Schultz (Philosoph)",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

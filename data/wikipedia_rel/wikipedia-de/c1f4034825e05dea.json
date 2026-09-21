@@ -1,0 +1,176 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Christian Gottlob Heyne",
+   "birth_year": 1729,
+   "death_year": 1812,
+   "nationality": "German",
+   "field": "Altertumswissenschaft"
+  },
+  {
+   "name": "Johann Matthias Gesner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Johann David Michaelis",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Christoph Wilhelm Mitscherlich",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Karl Otfried Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Georg Ludolf Dissen",
+   "birth_year": null,
+   "death_year": 1837,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Georg Forster",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Christian Gottlob Heyne",
+   "type": "studied_at",
+   "object": "Universität Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": 1748,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studierte er ab 1748 an der Universität Leipzig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Gottlob Heyne",
+   "type": "position_at",
+   "object": "Universität Göttingen",
+   "role": "Professor der Beredsamkeit und Dichtkunst",
+   "place": "Göttingen",
+   "year_start": 1763,
+   "year_end": 1812,
+   "explicit": true,
+   "evidence": "Ab 1763 war er Professor der Beredsamkeit und Dichtkunst an der Universität Göttingen, wo er bis zu seinem Tod tätig war.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Gottlob Heyne",
+   "type": "succeeded",
+   "object": "Johann Matthias Gesner",
+   "role": "Professor der Rhetorik",
+   "place": "Göttingen",
+   "year_start": 1763,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "bis er 1763 als Professor der Rhetorik und Nachfolger von Johann Matthias Gesner nach Göttingen berufen wurde.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Gottlob Heyne",
+   "type": "position_at",
+   "object": "Universitätsbibliothek Göttingen",
+   "role": "Direktor",
+   "place": "Göttingen",
+   "year_start": 1764,
+   "year_end": 1812,
+   "explicit": true,
+   "evidence": "Bereits 1764 erhielt er die Aufsicht der Universitätsbibliothek, zunächst noch zusammen mit dem vorherigen Leiter Johann David Michaelis, danach als alleiniger Direktor.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christoph Wilhelm Mitscherlich",
+   "type": "succeeded",
+   "object": "Christian Gottlob Heyne",
+   "role": "professor eloquentiae",
+   "place": "Göttingen",
+   "year_start": 1812,
+   "year_end": 1835,
+   "explicit": true,
+   "evidence": "Seine Nachfolge wurde nominell an Christoph Wilhelm Mitscherlich übertragen, der bis 1835 professor eloquentiae war.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Otfried Müller",
+   "type": "succeeded",
+   "object": "Christian Gottlob Heyne",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Als faktischer Nachfolger ist jedoch Karl Otfried Müller anzusehen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Otfried Müller",
+   "type": "position_at",
+   "object": "Universität Göttingen",
+   "role": "außerordentlicher Professor / Ordinarius / professor eloquentiae",
+   "place": "Göttingen",
+   "year_start": 1819,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Karl Otfried Müller anzusehen, der 1819 als außerordentlicher Professor nach Göttingen berufen wurde, 1823 zum Ordinarius und nach Georg Ludolf Dissens Tode (1837; Dissen war nomineller Nachfolger Mitscherlichs) zum professor eloquentiae befördert wurde.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Ludolf Dissen",
+   "type": "succeeded",
+   "object": "Christoph Wilhelm Mitscherlich",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": 1837,
+   "explicit": true,
+   "evidence": "Dissen war nomineller Nachfolger Mitscherlichs",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christian Gottlob Heyne",
+   "type": "other",
+   "object": "Georg Forster",
+   "role": "friend and father-in-law",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "die in erster Ehe mit dem Naturforscher Georg Forster, einem Freund ihres Vaters, verheiratet war.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Christian Gottlob Heyne",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q63182.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Christian Gottlob Heyne",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

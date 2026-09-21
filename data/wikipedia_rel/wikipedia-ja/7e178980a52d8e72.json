@@ -1,0 +1,126 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "ロバート・ゴードン・ワッソン",
+   "birth_year": 1898,
+   "death_year": 1986,
+   "nationality": "アメリカ合衆国",
+   "field": "民族菌類学"
+  },
+  {
+   "name": "ヴァレンティーナ・パヴロヴナ・ワッソン",
+   "birth_year": 1901,
+   "death_year": 1958,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ロジェ・エイム",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "植物学"
+  },
+  {
+   "name": "アルバート・ホフマン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "カール・A・P・ラック",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ロバート・ゴードン・ワッソン",
+   "type": "collaborated_with",
+   "object": "ヴァレンティーナ・パヴロヴナ・ワッソン",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1957,
+   "explicit": true,
+   "evidence": "この夫婦は実地調査を開始し、1957年には『キノコ―ロシアの歴史』（未訳、Mushrooms, Russia and History）の出版に至った。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ロバート・ゴードン・ワッソン",
+   "type": "other",
+   "object": "ヴァレンティーナ・パヴロヴナ・ワッソン",
+   "role": "spouse",
+   "place": null,
+   "year_start": 1927,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1927年のキャッツキル山地への新婚旅行中にはじまり、その際に、花嫁のヴァレンティーナ・パヴロヴナ・ワッソン（1901年–1958年、小児科医）が天然の食用キノコを発見したのである。",
+   "quote_ok": true
+  },
+  {
+   "subject": "ロバート・ゴードン・ワッソン",
+   "type": "collaborated_with",
+   "object": "ロジェ・エイム",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ワッソンは植物学者のロジェ・エイムと共に、モエギタケ科(Strophariaceae)とシビレタケ属(Psilocybe)の様々な種を収集し、また同定し",
+   "quote_ok": true
+  },
+  {
+   "subject": "ロバート・ゴードン・ワッソン",
+   "type": "collaborated_with",
+   "object": "アルバート・ホフマン",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1978,
+   "explicit": true,
+   "evidence": "1978年に『エレウシスへの道』（未訳、The Road to Eleusis）がアルバート・ホフマンとカール・A・P・ラックとの共著で出版されており",
+   "quote_ok": true
+  },
+  {
+   "subject": "ロバート・ゴードン・ワッソン",
+   "type": "collaborated_with",
+   "object": "カール・A・P・ラック",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1978,
+   "explicit": true,
+   "evidence": "1978年に『エレウシスへの道』（未訳、The Road to Eleusis）がアルバート・ホフマンとカール・A・P・ラックとの共著で出版されており",
+   "quote_ok": true
+  },
+  {
+   "subject": "アルバート・ホフマン",
+   "type": "collaborated_with",
+   "object": "カール・A・P・ラック",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1978,
+   "explicit": true,
+   "evidence": "1978年に『エレウシスへの道』（未訳、The Road to Eleusis）がアルバート・ホフマンとカール・A・P・ラックとの共著で出版されており",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): ロバート・ゴードン・ワッソン",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q1347053.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): ロバート・ゴードン・ワッソン",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

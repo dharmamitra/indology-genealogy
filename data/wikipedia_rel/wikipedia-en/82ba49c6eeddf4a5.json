@@ -1,0 +1,105 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Chang Shuhong",
+   "birth_year": 1904,
+   "death_year": 1994,
+   "nationality": "Chinese",
+   "field": null
+  },
+  {
+   "name": "Chang Shana",
+   "birth_year": 1931,
+   "death_year": null,
+   "nationality": null,
+   "field": "Dunhuang scholar"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Chang Shuhong",
+   "type": "studied_at",
+   "object": "Industrial School of Zhejiang",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1923,
+   "explicit": true,
+   "evidence": "Chang graduated from the Industrial School of Zhejiang (now Zhejiang University) in 1923.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chang Shuhong",
+   "type": "position_at",
+   "object": "Industrial School of Zhejiang",
+   "role": "instructor in the fine arts",
+   "place": null,
+   "year_start": 1925,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Two years later, in 1925, he became an instructor in the fine arts at his alma mater.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chang Shuhong",
+   "type": "studied_at",
+   "object": "l'institut Franco-chinois de Lyon",
+   "role": null,
+   "place": "Lyon, France",
+   "year_start": 1927,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He initially enrolled in l'institut Franco-chinois de Lyon",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chang Shuhong",
+   "type": "studied_at",
+   "object": "École nationale supérieure des Beaux-Arts",
+   "role": null,
+   "place": "Paris",
+   "year_start": 1928,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1928, Chang moved to Paris to attend the prestigious École nationale supérieure des Beaux-Arts (ENSBA, the National School of Fine Arts).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chang Shuhong",
+   "type": "position_at",
+   "object": "National Art Institute in Beijing",
+   "role": "teaching",
+   "place": "Beijing",
+   "year_start": 1936,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1936, after returning to China, Chang began teaching at the National Art Institute in Beijing.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chang Shana",
+   "type": "other",
+   "object": "Chang Shuhong",
+   "role": "daughter",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Their daughter, Chang Shana, was born in Lyon in 1931... Their daughter Chang Shana remained with her father, growing up among the Mogao Caves. She would eventually follow his path to become a renowned artist and Dunhuang scholar.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Chang Shuhong",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q5071667.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Chang Shuhong",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

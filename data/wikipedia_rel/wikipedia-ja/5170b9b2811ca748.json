@@ -1,0 +1,150 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "服部 正明",
+   "birth_year": 1924,
+   "death_year": null,
+   "nationality": "日本",
+   "field": "仏教学者、古代インド哲学研究者"
+  },
+  {
+   "name": "長尾雅人",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "梶山雄一",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "柳田聖山",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "大地原豊",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "服部 正明",
+   "type": "studied_at",
+   "object": "京都帝国大学文学部哲学科",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "京都帝国大学文学部哲学科に入学し、長尾雅人に師事し、卒業。",
+   "quote_ok": true
+  },
+  {
+   "subject": "服部 正明",
+   "type": "student_of",
+   "object": "長尾雅人",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "長尾雅人に師事し、卒業。",
+   "quote_ok": true
+  },
+  {
+   "subject": "服部 正明",
+   "type": "position_at",
+   "object": "京都大学文学部",
+   "role": "助教授",
+   "place": null,
+   "year_start": 1961,
+   "year_end": 1973,
+   "explicit": true,
+   "evidence": "1961年、京都大学文学部助教授に就いた。1973年に教授昇格。",
+   "quote_ok": true
+  },
+  {
+   "subject": "服部 正明",
+   "type": "position_at",
+   "object": "京都大学",
+   "role": "教授",
+   "place": null,
+   "year_start": 1973,
+   "year_end": 1988,
+   "explicit": true,
+   "evidence": "1973年に教授昇格。同僚には、梶山雄一、柳田聖山、大地原豊がいた。1988年に京都大学を定年退官し、名誉教授となった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "服部 正明",
+   "type": "position_at",
+   "object": "東方学会",
+   "role": "理事長",
+   "place": null,
+   "year_start": 1997,
+   "year_end": 2003,
+   "explicit": true,
+   "evidence": "1997年から2003年まで、東方学会の理事長を務めた(第26～28期)。",
+   "quote_ok": true
+  },
+  {
+   "subject": "梶山雄一",
+   "type": "position_at",
+   "object": "京都大学",
+   "role": "同僚",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "同僚には、梶山雄一、柳田聖山、大地原豊がいた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "柳田聖山",
+   "type": "position_at",
+   "object": "京都大学",
+   "role": "同僚",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "同僚には、梶山雄一、柳田聖山、大地原豊がいた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "大地原豊",
+   "type": "position_at",
+   "object": "京都大学",
+   "role": "同僚",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "同僚には、梶山雄一、柳田聖山、大地原豊がいた。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 服部正明",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q11516956.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 服部正明",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -25,6 +25,7 @@ Shareable state: `#lens=tibetology&view=chairs&sel=P:Giuseppe Tucci`.
 | Histories of the fields: de Jong, *A Brief History of Buddhist Studies in Europe and America*; Jackson, *A History of Tibetan Studies*; Lopez (ed.), *Curators of the Buddha*; Almond, *The British Discovery of Buddhism*; Rocher & Rocher, *The Making of Western Indology*; Yuyama on Burnouf; Oldenberg, *Vedaforschung*; the Whitney Memorial Meeting (JAOS 19); Cabezón, Dreyfus, Kapstein; obituaries (Stein, Bareau, Hertel …) | whole texts | Buddhist studies, Tibetology, America, France, Russia |
 | Prefaces, acknowledgements, *Lebensläufe*, あとがき, 略歴 and contributor notes of ~6,500 books, dissertations, Festschriften and journal issues (two private research corpora: ~20,000 OCRed documents of Indological/Buddhological literature incl. a large Japanese collection, and ~8,000 works of Buddhist-studies and Tibetological reference literature) | only the front/back matter: located by marker phrases and scored locally, then sent to Gemini | the 20th and 21st centuries: supervisors, degrees, posts, teachers — in the scholars' own words |
 | Biography-dense sections anywhere else (obituary notices in JRAS, JAOS, BEFEO, Indian Antiquary …; biographical sketches) | 8k-character windows with enough career vocabulary, max. 8 per document | obituaries, careers |
+| Wikipedia (de / en / ja) biographies of the ~3,200 scholars matched to Wikidata | whole articles, same extraction + verification; every link cites the article | teachers and pupils of 20th-century scholars whose own prefaces are not in the corpus ("studierte bei …", "Zu seinen Schülern zählen …"), posts with stated years |
 | Wikidata | label lookup via SPARQL, life-date agreement | identifiers, life dates, portraits, coordinates, dated *employer* / *educated at* / *student of* statements |
 
 The OCR texts themselves are not part of this repository; short evidence quotes are.
@@ -70,6 +71,24 @@ into one min–max range. The pipeline now has a dedicated stage:
    years are requested only for identifiable scholars (Wikidata id or life dates from text/Wikidata) and rejected when
    they contradict attested years; life dates known only from the model are marked.
 
+### Checking quotes against the page images (`pipeline/verify_pages.py`)
+
+The scanned corpora were OCRed by an LLM, and an LLM OCR occasionally **invents text on blank or unreadable pages** — we
+found a complete German "Vorwort", signed *Hamburg, im Mai 1997, Jens-Uwe Hartmann*, on the blank verso of a half-title in
+an Italian edition. A quote that exists in the OCR text proves nothing in that case. Every quote from the OCRed corpora is
+therefore located on its page (per-page OCR records or `END_OF_PAGE` marks), the page is rendered from the PDF, blank pages
+with OCR text are flagged, and Gemini (vision) confirms that the sentence is printed there; spliced quotes are re-checked
+piece by piece with the neighbouring pages. Of ~17,100 checkable quotes 16,800 were confirmed, 15 sat on blank pages and
+~230 could not be confirmed — those relations are dropped. ~1,050 quotes have no reachable PDF and ~2,200 (corpus without
+page marks) could only partly be located; they are kept. The reference-literature corpus comes from PDF text layers, not
+from an LLM, and is not affected.
+
+### Known gaps
+
+Coverage follows the sources. A teacher–student link is only found where a preface, obituary, history, Wikipedia
+article or Wikidata statement says so: about half of the well-known scholars of the core fields still have no teacher
+recorded, and more have no students. Absence of a link means "not found in these sources", never "did not exist".
+
 ### How far to trust it
 
 Each year on a link records where it comes from (`ys_src` / `ye_src`): `text` (written in the quoted sentence),
@@ -94,7 +113,10 @@ python3 pipeline/extract_relations.py --workers 16            # whole books, cac
 python3 pipeline/build_worklist.py && python3 pipeline/extract_prefaces.py --workers 40 --thinking 0
 python3 pipeline/build_sections.py && python3 pipeline/extract_prefaces.py --worklist data/worklist_sections.jsonl \
         --outdir data/sections --min-score 0 --thinking 0
+python3 pipeline/wikipedia_fetch.py && python3 pipeline/extract_prefaces.py --worklist data/worklist_wikipedia.jsonl \
+        --outdir data/wikipedia_rel --min-score 0 --thinking 0
 python3 pipeline/verify.py                                   # independent check of every relation
+python3 pipeline/verify_pages.py [--corpus=mj-data|mj-new] [--recheck]   # quotes vs. page images
 python3 pipeline/resolve_all.py
 python3 pipeline/wikidata_all.py
 python3 pipeline/merge_all.py

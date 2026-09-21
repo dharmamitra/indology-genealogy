@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sodō Yokoyama",
+   "birth_year": null,
+   "death_year": 1980,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Kodo Sawaki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sodō Yokoyama",
+   "type": "student_of",
+   "object": "Kodo Sawaki",
+   "role": "traditional teacher",
+   "place": "Antai-ji",
+   "year_start": 1949,
+   "year_end": 1957,
+   "explicit": true,
+   "evidence": "He had resided at Antai-ji for eight years from 1949 to 1957 as a student of Kodo Sawaki",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sodō Yokoyama",
+   "type": "studied_at",
+   "object": "Antai-ji",
+   "role": null,
+   "place": null,
+   "year_start": 1949,
+   "year_end": 1957,
+   "explicit": true,
+   "evidence": "He had resided at Antai-ji for eight years from 1949 to 1957 as a student of Kodo Sawaki",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Sodō Yokoyama",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q4022840.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Sodō Yokoyama",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

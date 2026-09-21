@@ -1,0 +1,86 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Samuel Beal",
+   "birth_year": 1825,
+   "death_year": 1889,
+   "nationality": "English",
+   "field": "Oriental scholar"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Samuel Beal",
+   "type": "studied_at",
+   "object": "Trinity College, Cambridge",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1847,
+   "explicit": true,
+   "evidence": "He graduated from Trinity College, Cambridge in 1847.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Samuel Beal",
+   "type": "position_at",
+   "object": "Bramham College, Yorkshire",
+   "role": "headmaster",
+   "place": null,
+   "year_start": 1848,
+   "year_end": 1850,
+   "explicit": true,
+   "evidence": "From 1848 to 1850 he was headmaster of Bramham College, Yorkshire.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Samuel Beal",
+   "type": "position_at",
+   "object": "India Office Library, London",
+   "role": "examine the Buddhist Chinese books",
+   "place": "London",
+   "year_start": 1872,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In September 1872 he was appointed to examine the Buddhist Chinese books in the India Office Library, London.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Samuel Beal",
+   "type": "position_at",
+   "object": "University College, London",
+   "role": "Professor of Chinese",
+   "place": "London",
+   "year_start": 1877,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He retired from the navy in 1877, when he was appointed Professor of Chinese at University College, London.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Samuel Beal",
+   "type": "studied_at",
+   "object": "Durham",
+   "role": "DCL",
+   "place": null,
+   "year_start": null,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "He was awarded DCL (Durham) in 1885 \"in recognition of the value of his researches into Chinese Buddhism.\"",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Samuel Beal",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q5567756.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Samuel Beal",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

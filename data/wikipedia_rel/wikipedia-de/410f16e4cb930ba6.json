@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Arthur Schopenhauer",
+   "birth_year": 1788,
+   "death_year": 1860,
+   "nationality": "deutsch",
+   "field": "Philosophie"
+  },
+  {
+   "name": "Franz Passow",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Friedrich Majer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Arthur Schopenhauer",
+   "type": "student_of",
+   "object": "Franz Passow",
+   "role": "teacher",
+   "place": "Weimar",
+   "year_start": 1807,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Noch im selben Jahr übersiedelte er, wie zuvor seine Mutter und seine Schwester, nach Weimar, wo sein wichtigster Lehrer Franz Passow wurde.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Schopenhauer",
+   "type": "studied_at",
+   "object": "Universität Göttingen",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": 1809,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1809 begann er an der Universität Göttingen ein Studium der Medizin, das er jedoch bald zugunsten der Philosophie aufgab.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Schopenhauer",
+   "type": "studied_at",
+   "object": "Universität Jena",
+   "role": "Doktortitel der Philosophie",
+   "place": "Jena",
+   "year_start": null,
+   "year_end": 1813,
+   "explicit": true,
+   "evidence": "Den Doktortitel der Philosophie an der Universität Jena erhielt Schopenhauer am 2. Oktober 1813 (magna cum laude)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Schopenhauer",
+   "type": "influenced_by",
+   "object": "Friedrich Majer",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Durch Friedrich Majer wurde Schopenhauer mit der altindischen Philosophie des Brahmanismus bekannt gemacht.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Schopenhauer",
+   "type": "position_at",
+   "object": "Universität Berlin",
+   "role": "Dozentur",
+   "place": "Berlin",
+   "year_start": 1820,
+   "year_end": 1821,
+   "explicit": true,
+   "evidence": "1820 begann Schopenhauer die Lehrtätigkeit an der noch jungen Berliner Universität.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Arthur Schopenhauer",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q38193.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Arthur Schopenhauer",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

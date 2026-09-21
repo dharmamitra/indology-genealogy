@@ -1,0 +1,83 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ludwig Noiré",
+   "birth_year": 1829,
+   "death_year": 1889,
+   "nationality": "German",
+   "field": "philosopher"
+  },
+  {
+   "name": "Ernst Cassirer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Alexander Bogdanov",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "F. Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ludwig Noiré",
+   "type": "studied_at",
+   "object": "University of Giessen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He received his education at the University of Giessen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander Bogdanov",
+   "type": "influenced_by",
+   "object": "Ludwig Noiré",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Alexander Bogdanov attributed some of his ideas, formalized as tektology, on the development of a monistic system to Ludwig Noiré.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ludwig Noiré",
+   "type": "collaborated_with",
+   "object": "F. Max Müller",
+   "role": null,
+   "place": null,
+   "year_start": 1881,
+   "year_end": 1881,
+   "explicit": true,
+   "evidence": "Noiré contributed an historical introduction to F. Max Müller’s 1881 translation of Kant’s Critique of Pure Reason.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Ludwig Noiré",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q119589.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Ludwig Noiré",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

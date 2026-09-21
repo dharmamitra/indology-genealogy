@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Cheng Yen",
+   "birth_year": 1937,
+   "death_year": null,
+   "nationality": "Taiwan",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Master Yin Shun",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Cheng Yen",
+   "type": "student_of",
+   "object": "Master Yin Shun",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": 1963,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wurde, nachdem sie 1963 ihren Mentor Master Yin Shun getroffen hatte und von ihm ihren buddhistischen Namen erhalten hatte, zur Nonne geweiht.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Cheng Yen",
+   "type": "founded",
+   "object": "Tzu-Chi-Stiftung",
+   "role": null,
+   "place": null,
+   "year_start": 1966,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Jahr 1966 gründete sie die Tzu-Chi-Stiftung.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Cheng Yen",
+   "type": "founded",
+   "object": "Tzu-Chi-Universität",
+   "role": null,
+   "place": null,
+   "year_start": 2000,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ihre Verdienste um die Medizin resultierten außerdem in der Gründung der Tzu-Chi-Universität im Jahr 2000.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Cheng Yen",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q468308.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Cheng Yen",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

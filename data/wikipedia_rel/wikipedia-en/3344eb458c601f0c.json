@@ -1,0 +1,119 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ṭhānissaro Bhikkhu",
+   "birth_year": 1949,
+   "death_year": null,
+   "nationality": "American",
+   "field": null
+  },
+  {
+   "name": "Ajahn Fuang Jotiko",
+   "birth_year": null,
+   "death_year": 1986,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ajahn Lee",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ajahn Suwat Suvaco",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ṭhānissaro Bhikkhu",
+   "type": "student_of",
+   "object": "Ajahn Fuang Jotiko",
+   "role": "traditional teacher",
+   "place": "Thailand",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he studied for ten years under the forest master Ajahn Fuang Jotiko",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ajahn Fuang Jotiko",
+   "type": "student_of",
+   "object": "Ajahn Lee",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ajahn Fuang Jotiko (himself a student of Ajahn Lee)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ṭhānissaro Bhikkhu",
+   "type": "studied_at",
+   "object": "Oberlin College",
+   "role": "degree in European Intellectual History",
+   "place": null,
+   "year_start": null,
+   "year_end": 1971,
+   "explicit": true,
+   "evidence": "After graduating in 1971 with a degree in European Intellectual History from Oberlin College",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ṭhānissaro Bhikkhu",
+   "type": "founded",
+   "object": "Metta Forest Monastery",
+   "role": "cofounder",
+   "place": "San Diego County, California",
+   "year_start": 1991,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Metta Forest Monastery in San Diego County, California—the first monastery in the Thai Forest Tradition in the U.S.—which he cofounded with Ajahn Suwat Suvaco.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ajahn Suwat Suvaco",
+   "type": "founded",
+   "object": "Metta Forest Monastery",
+   "role": "cofounder",
+   "place": "San Diego County, California",
+   "year_start": 1991,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Metta Forest Monastery in San Diego County, California—the first monastery in the Thai Forest Tradition in the U.S.—which he cofounded with Ajahn Suwat Suvaco.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ṭhānissaro Bhikkhu",
+   "type": "position_at",
+   "object": "Metta Forest Monastery",
+   "role": "abbot",
+   "place": "San Diego County, California",
+   "year_start": 1993,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Since 1993, he has served as abbot of the Metta Forest Monastery in San Diego County, California",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Ṭhānissaro Bhikkhu",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q7710407.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Ṭhānissaro Bhikkhu",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

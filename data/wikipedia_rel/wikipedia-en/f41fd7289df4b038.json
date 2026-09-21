@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Vishvanath Narayan Mandlik",
+   "birth_year": 1833,
+   "death_year": 1899,
+   "nationality": "Indian",
+   "field": "Hindu law"
+  },
+  {
+   "name": "Rao Bahadur Ramachandra Balkrishna",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Patton",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Vishvanath Narayan Mandlik",
+   "type": "student_of",
+   "object": "Rao Bahadur Ramachandra Balkrishna",
+   "role": "teacher",
+   "place": "Ratnagiri",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied under Rao Bahadur Ramachandra Balkrishna at Ratnagiri",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vishvanath Narayan Mandlik",
+   "type": "studied_at",
+   "object": "Elphinstone Institution",
+   "role": null,
+   "place": null,
+   "year_start": 1847,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "at the age of fourteen he joined the Elphinstone Institution where he received the Clare scholarship.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vishvanath Narayan Mandlik",
+   "type": "student_of",
+   "object": "Patton",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "He was advised by professor Patton to study in England and compete for the Indian Civil Service",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vishvanath Narayan Mandlik",
+   "type": "position_at",
+   "object": "Bombay University",
+   "role": "examiner in Marathi and in Law",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mandlik was also a writer and an active member of Bombay University (where he was often an examiner in Marathi and in Law)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Vishvanath Narayan Mandlik",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q40623034.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Vishvanath Narayan Mandlik",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

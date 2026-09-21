@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Friedrich Heiler",
+   "birth_year": 1892,
+   "death_year": 1967,
+   "nationality": "German",
+   "field": "theology and history of religion"
+  },
+  {
+   "name": "Nathan Söderblom",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sadhu Sundar Singh",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Friedrich Heiler",
+   "type": "position_at",
+   "object": "Ludwig-Maximilians-Universität München",
+   "role": "Privatdozent",
+   "place": "München",
+   "year_start": 1918,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1918 he became Privatdozent at the Ludwig-Maximilians-Universität München (LMU)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Heiler",
+   "type": "position_at",
+   "object": "University of Marburg",
+   "role": "professor",
+   "place": "Marburg",
+   "year_start": 1920,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from where he 1920 moved to theological faculty of the University of Marburg, where he became professor 1922.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Heiler",
+   "type": "influenced_by",
+   "object": "Nathan Söderblom",
+   "role": null,
+   "place": null,
+   "year_start": 1919,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he became Lutheran through the Evangelical Catholic influence of liberal Nathan Söderblom after meeting him in Sweden 1919",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Heiler",
+   "type": "other",
+   "object": "Sadhu Sundar Singh",
+   "role": "feud",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He also had a long literary feud with Sadhu Sundar Singh, but nevertheless defended him in time.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Friedrich Heiler",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q65579.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Friedrich Heiler",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

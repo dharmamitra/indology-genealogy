@@ -1,0 +1,105 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "アウグスト・フリードリヒ・ポット",
+   "birth_year": 1802,
+   "death_year": 1887,
+   "nationality": "ドイツ",
+   "field": "言語学、文献学"
+  },
+  {
+   "name": "フランツ・ボップ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "アウグスト・フリードリヒ・ポット",
+   "type": "studied_at",
+   "object": "ゲッティンゲン大学",
+   "role": "博士",
+   "place": null,
+   "year_start": null,
+   "year_end": 1827,
+   "explicit": true,
+   "evidence": "ゲッティンゲン大学で1827年に博士の学位を得た。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アウグスト・フリードリヒ・ポット",
+   "type": "student_of",
+   "object": "フランツ・ボップ",
+   "role": null,
+   "place": "ベルリン大学",
+   "year_start": 1827,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1827年からベルリン大学でフランツ・ボップに学び、1830年に教授資格を得た。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アウグスト・フリードリヒ・ポット",
+   "type": "studied_at",
+   "object": "ベルリン大学",
+   "role": "教授資格",
+   "place": null,
+   "year_start": 1827,
+   "year_end": 1830,
+   "explicit": true,
+   "evidence": "1827年からベルリン大学でフランツ・ボップに学び、1830年に教授資格を得た。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アウグスト・フリードリヒ・ポット",
+   "type": "position_at",
+   "object": "ベルリン大学",
+   "role": "私講師",
+   "place": null,
+   "year_start": null,
+   "year_end": 1833,
+   "explicit": true,
+   "evidence": "ベルリン大学の私講師をつとめた後、1833年にハレ大学の一般言語学教授に就任し",
+   "quote_ok": true
+  },
+  {
+   "subject": "アウグスト・フリードリヒ・ポット",
+   "type": "position_at",
+   "object": "ハレ大学",
+   "role": "一般言語学教授",
+   "place": null,
+   "year_start": 1833,
+   "year_end": 1887,
+   "explicit": true,
+   "evidence": "1833年にハレ大学の一般言語学教授に就任し（はじめ員外教授、1838年に正教授）、没するまでその職にあった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アウグスト・フリードリヒ・ポット",
+   "type": "founded",
+   "object": "ドイツ東洋学会",
+   "role": "創立メンバー",
+   "place": null,
+   "year_start": 1845,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ポットは1845年のドイツ東洋学会創立メンバーのひとりであった。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): アウグスト・フリードリヒ・ポット",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q67335.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): アウグスト・フリードリヒ・ポット",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,143 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ernest Francisco Fenollosa",
+   "birth_year": 1853,
+   "death_year": 1908,
+   "nationality": "US-amerikanisch",
+   "field": "Philosophie und Volkswirtschaftslehre"
+  },
+  {
+   "name": "Edward S. Morse",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Zoologe"
+  },
+  {
+   "name": "Okakura Tenshin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "japanisch",
+   "field": null
+  },
+  {
+   "name": "Ezra Pound",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ernest Francisco Fenollosa",
+   "type": "studied_at",
+   "object": "Harvard",
+   "role": "Abschluss",
+   "place": null,
+   "year_start": null,
+   "year_end": 1874,
+   "explicit": true,
+   "evidence": "Fenollosa erwarb 1874 einen Abschluss in Harvard.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernest Francisco Fenollosa",
+   "type": "position_at",
+   "object": "Universität Tokio",
+   "role": "Dozentenstelle für Philosophie und Wirtschaftswissenschaften",
+   "place": "Tokio",
+   "year_start": 1878,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1878 vermittelte der bereits in Japan wirkende Zoologe Edward S. Morse Fenollosa eine Dozentenstelle für Philosophie und Wirtschaftswissenschaften in Tokio. Er lehrte an der Universität Tokio",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernest Francisco Fenollosa",
+   "type": "position_at",
+   "object": "Universität der Künste Tokio",
+   "role": "Lehrender",
+   "place": "Tokio",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er lehrte an der Universität Tokio, der Universität der Künste Tokio sowie an der Imperial Normal School",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernest Francisco Fenollosa",
+   "type": "position_at",
+   "object": "Imperial Normal School",
+   "role": "Lehrender",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er lehrte an der Universität Tokio, der Universität der Künste Tokio sowie an der Imperial Normal School",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernest Francisco Fenollosa",
+   "type": "position_at",
+   "object": "Kaiserliches Museum in Tokio",
+   "role": "Manager der bildnerischen Kunstabteilung",
+   "place": "Tokio",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "und war Manager der bildnerischen Kunstabteilung des Kaiserlichen Museums in Tokio.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernest Francisco Fenollosa",
+   "type": "collaborated_with",
+   "object": "Okakura Tenshin",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "der sich gemeinsam mit Okakura Tenshin für den Erhalt der traditionellen japanischen Kunst (Nihonga) einsetzte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernest Francisco Fenollosa",
+   "type": "position_at",
+   "object": "Boston Museum of Fine Arts",
+   "role": "Kurator der Oriental Collection",
+   "place": "Boston",
+   "year_start": 1890,
+   "year_end": 1896,
+   "explicit": true,
+   "evidence": "ging 1890 nach Boston zurück, wo er Kurator der Oriental Collection des Boston Museum of Fine Arts wurde. Als er sich von seiner Frau scheiden ließ [...] musste 1896 seine Stelle am Museum aufgeben.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ezra Pound",
+   "type": "collaborated_with",
+   "object": "Ernest Francisco Fenollosa",
+   "role": "Herausgabe des Nachlasses",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Fenollosas Witwe konnte den jungen Ezra Pound für die Herausgabe seines Nachlasses, u. a. über das Noh-Theater, gewinnen.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Ernest Francisco Fenollosa",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q933253.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Ernest Francisco Fenollosa",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

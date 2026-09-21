@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Laurence Austine Waddell",
+   "birth_year": 1854,
+   "death_year": 1938,
+   "nationality": "Scottish",
+   "field": "Tibetan, Chemistry and Pathology, Archaeology"
+  },
+  {
+   "name": "Grafton Elliot Smith",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gabriel Moshenska",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Archaeology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Laurence Austine Waddell",
+   "type": "influenced_by",
+   "object": "Grafton Elliot Smith",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Grafton Elliot Smith who pioneered hyperdiffusionism (but of the Egyptians) was an influential correspondent to Waddell.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gabriel Moshenska",
+   "type": "position_at",
+   "object": "UCL Institute of Archaeology",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gabriel Moshenska of the UCL Institute of Archaeology has noted",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Laurence Waddell",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q2605442.txt#1",
+ "meta": {
+  "title": "Wikipedia (en): Laurence Waddell",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

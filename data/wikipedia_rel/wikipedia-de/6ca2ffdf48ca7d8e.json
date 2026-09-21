@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Nishitani Keiji",
+   "birth_year": 1900,
+   "death_year": 1990,
+   "nationality": "japanisch",
+   "field": "Philosoph"
+  },
+  {
+   "name": "Nishida Kitarō",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Martin Heidegger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Nishitani Keiji",
+   "type": "student_of",
+   "object": "Nishida Kitarō",
+   "role": "Schüler",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nishitani Keiji war Schüler und Nachfolger von Nishida Kitarō, dem Begründer der Kyōto-Schule.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nishitani Keiji",
+   "type": "succeeded",
+   "object": "Nishida Kitarō",
+   "role": "Nachfolger",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nishitani Keiji war Schüler und Nachfolger von Nishida Kitarō, dem Begründer der Kyōto-Schule.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nishitani Keiji",
+   "type": "student_of",
+   "object": "Martin Heidegger",
+   "role": null,
+   "place": "Freiburg im Breisgau",
+   "year_start": 1937,
+   "year_end": 1939,
+   "explicit": true,
+   "evidence": "In den Jahren 1937 bis 1939 hielt er sich zu Studien bei Martin Heidegger in Freiburg im Breisgau auf",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nishitani Keiji",
+   "type": "position_at",
+   "object": "Kyōto",
+   "role": "Professor",
+   "place": "Kyōto",
+   "year_start": 1943,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "lehrte seit 1943 als Professor in Kyōto.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Keiji Nishitani",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1993564.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Keiji Nishitani",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

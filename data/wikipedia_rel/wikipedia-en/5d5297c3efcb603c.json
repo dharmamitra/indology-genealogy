@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Kuno Lorenz",
+   "birth_year": 1932,
+   "death_year": null,
+   "nationality": "German",
+   "field": "philosopher"
+  },
+  {
+   "name": "Paul Lorenzen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Carl Friedrich von Weizsäcker",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Arno Ros",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Kuno Lorenz",
+   "type": "student_of",
+   "object": "Paul Lorenzen",
+   "role": "doctoral supervisor",
+   "place": "Kiel",
+   "year_start": null,
+   "year_end": 1961,
+   "explicit": true,
+   "evidence": "Lorenz earned his  Ph.D. in 1961 under Paul Lorenzen in Kiel with a thesis about Arithmetic and Logic as Games.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kuno Lorenz",
+   "type": "student_of",
+   "object": "Paul Lorenzen",
+   "role": "habilitation supervisor",
+   "place": "Erlangen",
+   "year_start": null,
+   "year_end": 1969,
+   "explicit": true,
+   "evidence": "In 1969 he received his habilitation degree in philosophy also under Lorenzen but this time in Erlangen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kuno Lorenz",
+   "type": "succeeded",
+   "object": "Carl Friedrich von Weizsäcker",
+   "role": null,
+   "place": "University of Hamburg",
+   "year_start": 1970,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1970 he was offered the chair of philosophy at the University of Hamburg to succeed Carl Friedrich von Weizsäcker.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kuno Lorenz",
+   "type": "position_at",
+   "object": "University of Hamburg",
+   "role": "chair of philosophy",
+   "place": null,
+   "year_start": 1970,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1970 he was offered the chair of philosophy at the University of Hamburg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kuno Lorenz",
+   "type": "position_at",
+   "object": "University of Saarland",
+   "role": "taught",
+   "place": "Saarbrücken",
+   "year_start": 1974,
+   "year_end": 1997,
+   "explicit": true,
+   "evidence": "From 1974 till his retirement in 1997 he taught at the University of Saarland in Saarbrücken.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arno Ros",
+   "type": "student_of",
+   "object": "Kuno Lorenz",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among his former students is Arno Ros.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kuno Lorenz",
+   "type": "collaborated_with",
+   "object": "Paul Lorenzen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Lorenz developed (along with Paul Lorenzen) an approach to arithmetic and logic as dialogue games.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Kuno Lorenz",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q88045.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Kuno Lorenz",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

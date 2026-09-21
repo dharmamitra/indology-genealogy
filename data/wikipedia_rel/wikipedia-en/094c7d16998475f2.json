@@ -1,0 +1,183 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Colin Mackenzie",
+   "birth_year": 1754,
+   "death_year": 1821,
+   "nationality": "Scottish",
+   "field": "orientalist and an indologist"
+  },
+  {
+   "name": "Alexander Anderson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kavelli Venkata Boria",
+   "birth_year": null,
+   "death_year": 1803,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Venkata Lechmiah",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Dhurmiah",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Mark Wilks",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "orientalist"
+  },
+  {
+   "name": "Horace Hayman Wilson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sir Alexander Johnston",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Colin Mackenzie",
+   "type": "student_of",
+   "object": "Alexander Anderson",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In his youth he had an interest in mathematics possibly fostered by his schoolmaster, a freemason, Alexander Anderson.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Colin Mackenzie",
+   "type": "position_at",
+   "object": "Surveyor General of Madras Presidency",
+   "role": "Surveyor General",
+   "place": null,
+   "year_start": 1810,
+   "year_end": 1815,
+   "explicit": true,
+   "evidence": "Colin Mackenzie was appointed Surveyor General of Madras Presidency in 1810 but these posts were abolished in 1815.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Colin Mackenzie",
+   "type": "position_at",
+   "object": "Surveyor General of India",
+   "role": "Surveyor General",
+   "place": "Fort William in Calcutta",
+   "year_start": 1815,
+   "year_end": 1821,
+   "explicit": true,
+   "evidence": "On 26 May 1815 he was appointed Surveyor General of India with his headquarters at Fort William in Calcutta",
+   "quote_ok": true
+  },
+  {
+   "subject": "Colin Mackenzie",
+   "type": "collaborated_with",
+   "object": "Kavelli Venkata Boria",
+   "role": null,
+   "place": null,
+   "year_start": 1796,
+   "year_end": 1803,
+   "explicit": true,
+   "evidence": "One of his chief interpreters was a Niyogi Brahmin named Kavelli Venkata Boria... who Mackenzie first met in 1796... Boria died in 1803",
+   "quote_ok": true
+  },
+  {
+   "subject": "Colin Mackenzie",
+   "type": "collaborated_with",
+   "object": "Venkata Lechmiah",
+   "role": null,
+   "place": null,
+   "year_start": 1803,
+   "year_end": 1821,
+   "explicit": true,
+   "evidence": "Boria died in 1803 and Mackenzie took in his brother Venkata Lechmiah... When Mackenzie moved from Madras to Calcutta, Lechmiah was retained.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Colin Mackenzie",
+   "type": "collaborated_with",
+   "object": "Dhurmiah",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Another of Mackenzie's assistant was Dhurmiah... a Jain pandit (scholar) from Maleyur... Dhurmiah provided Mackenzie with Jain insights into the history of India",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir Alexander Johnston",
+   "type": "founded",
+   "object": "Royal Asiatic Society of Great Britain and Ireland",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "their son Alexander Johnston later became a judge in Sri Lanka, founded the Royal Asiatic Society of Great Britain and Ireland",
+   "quote_ok": true
+  },
+  {
+   "subject": "Venkata Lechmiah",
+   "type": "collaborated_with",
+   "object": "Horace Hayman Wilson",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After Mackenzie's death, Lechmiah continued to help Horace Hayman Wilson in cataloguing the collections.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Venkata Lechmiah",
+   "type": "founded",
+   "object": "Madras Hindu Literary Society",
+   "role": null,
+   "place": "Madras",
+   "year_start": 1833,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1833, Lechmiah founded a parallel Madras Hindu Literary Society as a means of continuing his work.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Colin Mackenzie",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q2668210.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Colin Mackenzie",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

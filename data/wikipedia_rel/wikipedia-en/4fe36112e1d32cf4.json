@@ -1,0 +1,98 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Carl Gustav Adolf Siegfried",
+   "birth_year": 1830,
+   "death_year": 1903,
+   "nationality": "German",
+   "field": "theologian"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Carl Gustav Adolf Siegfried",
+   "type": "studied_at",
+   "object": "University of Halle",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied theology and philology at the universities of Halle and Bonn.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Gustav Adolf Siegfried",
+   "type": "studied_at",
+   "object": "University of Bonn",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied theology and philology at the universities of Halle and Bonn.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Gustav Adolf Siegfried",
+   "type": "studied_at",
+   "object": "University of Halle",
+   "role": "doctorate",
+   "place": null,
+   "year_start": null,
+   "year_end": 1859,
+   "explicit": true,
+   "evidence": "In 1859, he received his doctorate from Halle",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Gustav Adolf Siegfried",
+   "type": "position_at",
+   "object": "cathedral gymnasium in Magdeburg",
+   "role": "teacher",
+   "place": "Magdeburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "afterwards worked as a teacher at the cathedral gymnasium in Magdeburg and at the regional school in Pforta.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Gustav Adolf Siegfried",
+   "type": "position_at",
+   "object": "regional school in Pforta",
+   "role": "teacher",
+   "place": "Pforta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "afterwards worked as a teacher at the cathedral gymnasium in Magdeburg and at the regional school in Pforta.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Gustav Adolf Siegfried",
+   "type": "position_at",
+   "object": "University of Jena",
+   "role": "professor of Old Testament theology",
+   "place": "Jena",
+   "year_start": 1875,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1875, he was appointed professor of Old Testament theology at the University of Jena.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Carl Siegfried",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q4191780.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Carl Siegfried",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

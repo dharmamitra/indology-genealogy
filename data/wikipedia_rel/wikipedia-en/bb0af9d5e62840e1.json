@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ernst Waldschmidt",
+   "birth_year": 1897,
+   "death_year": 1985,
+   "nationality": "German",
+   "field": "orientalist and Indologist"
+  },
+  {
+   "name": "Emil Sieg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "indologist"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ernst Waldschmidt",
+   "type": "student_of",
+   "object": "Emil Sieg",
+   "role": "pupil",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a pupil of German indologist Emil Sieg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Waldschmidt",
+   "type": "position_at",
+   "object": "Berlin University",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He taught at Berlin University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Waldschmidt",
+   "type": "position_at",
+   "object": "University of Göttingen",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1936,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "began teaching at the University of Göttingen in 1936.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Waldschmidt",
+   "type": "founded",
+   "object": "Stiftung Ernst Waldschmidt",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He also founded Stiftung Ernst Waldschmidt.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Ernst Waldschmidt",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q91436.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Ernst Waldschmidt",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

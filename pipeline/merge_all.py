@@ -22,6 +22,7 @@ from merge_sources import MODEL_PROMPT, MODEL_SCHEMA, QID_ALIAS, DATED_TYPES
 
 SITE_DATA = os.path.join(ROOT, "docs", "data")
 SRC_RANK = {"text": 3, "wikidata": 2, "model": 1, None: 0}
+CORE = {"indology", "buddhist_studies", "tibetology"}
 # hand corrections of canonical names the model got wrong (initials expanded into something else)
 LABEL_FIX = {"Kuala Lumpur Dhammajoti": "K. L. Dhammajoti"}
 # sitting on a thesis committee is not teaching: such links are kept, but not as teacher -> student
@@ -195,7 +196,15 @@ def main():
             kind = s["kind"]
             if kind in ("student_of", "teacher_of"):
                 other = by_qid.get(s["qid"])
-                if not other or not other.startswith("P:") or other == src0:
+                if not other:  # teacher or pupil known to Wikidata but not (yet) to our texts: add the person
+                    info = wd["labels"].get(s["qid"])
+                    if not info or not info["label"] or re.fullmatch(r"Q\d+", info["label"]) or not (CORE & set(nodes[src0].get("fields") or [])):
+                        continue
+                    other = "P:" + info["label"]
+                    if other not in nodes:
+                        nodes[other] = {"id": other, "type": "person", "label": info["label"], "fields": [], "variants": [], "qid": s["qid"], "wikidata_only": True}
+                    by_qid[s["qid"]] = other
+                if not other.startswith("P:") or other == src0:
                     continue
                 src, tgt, typ = (src0, other, "student_of") if kind == "student_of" else (other, src0, "student_of")
             else:
@@ -379,12 +388,32 @@ def main():
                     ys, ye = r.get("year_start"), r.get("year_end") or e["year_end"]
                     if not ys or not (lo <= ys <= hi) or (ye and ye < ys):
                         continue
-                    if e.get("att_min") and (ys > e["att_min"] or (r.get("year_end") and r["year_end"] < e["att_max"])):
+                    # a recalled START later than the first attestation is a contradiction; a recalled END before the last
+                    # attestation is not (emeriti keep being listed under their university)
+                    if e.get("att_min") and ys > e["att_min"] + 1:
                         note("model years contradict attested years: not used", e, f"(model {ys}-{r.get('year_end')}, attested {e['att_min']}-{e['att_max']})"); continue
                     e["year_start"], e["ys_src"] = ys, "model"; filled += 1
                     if r.get("year_end") and not e["year_end"] and lo <= r["year_end"] <= hi:
                         e["year_end"], e["ye_src"] = r["year_end"], "model"; filled += 1
         print(f"[merge] model filled {filled} years on {sum(len(v) for v in todo.values())} undated relations of identifiable scholars", flush=True)
+    # a stint dated only by the model that overlaps a stint dated by a text or Wikidata is the same stint: fold it in,
+    # without its recalled years (they must not glue separate documented stints together)
+    groups = defaultdict(list)
+    for e in E:
+        groups[(e["source"], e["type"], e["target"])].append(e)
+    folded = []
+    for es in groups.values():
+        hard = [e for e in es if "text" in (e["ys_src"], e["ye_src"]) or "wikidata" in (e["ys_src"], e["ye_src"])]
+        for e in es:
+            if e in hard or e["type"] not in STINT_TYPES or not hard or e["ys_src"] != "model":
+                folded.append(e); continue
+            a0, b0 = e["year_start"], e["year_end"] or e["year_start"]
+            o = next((o for o in hard if interval(o) and a0 <= interval(o)[1] + 1 and b0 >= interval(o)[0] - 1), None)
+            if not o:
+                folded.append(e); continue
+            e["year_start"] = e["year_end"] = e["ys_src"] = e["ye_src"] = None
+            combine(o, e); note("model-dated stint folded into a documented stint", o)
+    E = folded
     json.dump({"counts": dict(rep), "examples": examples}, open(os.path.join(DATA, "coherence_report.json"), "w"), ensure_ascii=False, indent=1)
     print(f"[merge] coherence: {dict(rep)}", flush=True)
     for e in E:

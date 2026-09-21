@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Heinrich Theodor Uhle",
+   "birth_year": 1842,
+   "death_year": 1925,
+   "nationality": "German",
+   "field": "Klassischer Philologe und Indologe"
+  },
+  {
+   "name": "Hermann Brockhaus",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indologie"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Heinrich Theodor Uhle",
+   "type": "studied_at",
+   "object": "Universität Leipzig",
+   "role": "Dr. phil.",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er studierte an der Universität Leipzig u. a. Indologie bei Hermann Brockhaus. Seine Studien schloss er als Dr. phil. ab.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Theodor Uhle",
+   "type": "student_of",
+   "object": "Hermann Brockhaus",
+   "role": "teacher",
+   "place": "Universität Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er studierte an der Universität Leipzig u. a. Indologie bei Hermann Brockhaus.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Theodor Uhle",
+   "type": "position_at",
+   "object": "Kreuzschule",
+   "role": "Lehrer klassische Sprachen",
+   "place": "Dresden",
+   "year_start": 1868,
+   "year_end": 1911,
+   "explicit": true,
+   "evidence": "Er unterrichtete von 1868 bis 1911 als Lehrer klassische Sprachen an der Kreuzschule in Dresden.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Heinrich Uhle",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q95272339.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Heinrich Uhle",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

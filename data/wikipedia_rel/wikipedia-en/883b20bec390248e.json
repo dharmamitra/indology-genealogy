@@ -1,0 +1,193 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Heinrich Julius Eggeling",
+   "birth_year": 1842,
+   "death_year": 1918,
+   "nationality": "German",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Adolf Friedrich Stenzler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Albrecht Weber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Theodor Aufrecht",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Heinrich Julius Eggeling",
+   "type": "position_at",
+   "object": "University of Edinburgh",
+   "role": "professor of Sanskrit, Regius Chair of Sanskrit",
+   "place": "Edinburgh",
+   "year_start": 1875,
+   "year_end": 1914,
+   "explicit": true,
+   "evidence": "Heinrich Julius Eggeling (12 July 1842 – 13 March 1918) was German-born professor of Sanskrit at the University of Edinburgh from 1875 to 1914, second holder of its Regius Chair of Sanskrit",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Julius Eggeling",
+   "type": "position_at",
+   "object": "Royal Asiatic Society, London",
+   "role": "Secretary",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and Secretary of the Royal Asiatic Society, London.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Julius Eggeling",
+   "type": "studied_at",
+   "object": "University of Breslau",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he studied classical philology at the University of Breslau.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Julius Eggeling",
+   "type": "student_of",
+   "object": "Adolf Friedrich Stenzler",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Along with Rhys Davids, he studied Sanskrit under Adolf Friedrich Stenzler.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rhys Davids",
+   "type": "student_of",
+   "object": "Adolf Friedrich Stenzler",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Along with Rhys Davids, he studied Sanskrit under Adolf Friedrich Stenzler.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Julius Eggeling",
+   "type": "studied_at",
+   "object": "Berlin University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He then went to Berlin University to study under Albrecht Weber",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Julius Eggeling",
+   "type": "student_of",
+   "object": "Albrecht Weber",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He then went to Berlin University to study under Albrecht Weber",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Julius Eggeling",
+   "type": "collaborated_with",
+   "object": "Max Müller",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He then worked with Max Müller.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Julius Eggeling",
+   "type": "position_at",
+   "object": "University College, London",
+   "role": "professor of Sanskrit",
+   "place": "London",
+   "year_start": 1873,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He also became a professor of Sanskrit at the University College, London, in 1873.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Julius Eggeling",
+   "type": "succeeded",
+   "object": "Theodor Aufrecht",
+   "role": null,
+   "place": "Edinburgh",
+   "year_start": 1875,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He moved to Edinburgh in 1875, replacing Theodor Aufrecht.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Julius Eggeling",
+   "type": "position_at",
+   "object": "University Library",
+   "role": "curator",
+   "place": "Edinburgh",
+   "year_start": 1900,
+   "year_end": 1913,
+   "explicit": true,
+   "evidence": "curator of the University Library from 1900 to 1913.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Julius Eggeling",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q5627765.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Julius Eggeling",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

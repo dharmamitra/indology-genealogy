@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Tirumalai Krishnamacharya Venkata Desikachar",
+   "birth_year": 1938,
+   "death_year": 2016,
+   "nationality": "indischer",
+   "field": "Yoga"
+  },
+  {
+   "name": "T. Krishnamacharya",
+   "birth_year": null,
+   "death_year": 1989,
+   "nationality": null,
+   "field": "Yoga"
+  },
+  {
+   "name": "Kausthub Desikachar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Tirumalai Krishnamacharya Venkata Desikachar",
+   "type": "student_of",
+   "object": "T. Krishnamacharya",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": 1989,
+   "explicit": true,
+   "evidence": "Er war Schüler seines Vaters bis zu dessen Tod 1989.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tirumalai Krishnamacharya Venkata Desikachar",
+   "type": "other",
+   "object": "T. Krishnamacharya",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er war der Sohn von Sri T. Krishnamacharya und Srimathi T. Namagiriammal",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tirumalai Krishnamacharya Venkata Desikachar",
+   "type": "founded",
+   "object": "Krishnamacharya Yoga Mandiram (KYM)",
+   "role": null,
+   "place": "Madras",
+   "year_start": 1976,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1976 gründete Desikachar die Schule Krishnamacharya Yoga Mandiram (KYM) in Madras.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kausthub Desikachar",
+   "type": "other",
+   "object": "Tirumalai Krishnamacharya Venkata Desikachar",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "darunter sein Sohn Kausthub Desikachar, der nach eigener Aussage das Erbe seines Vaters und Großvaters fortführt",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kausthub Desikachar",
+   "type": "founded",
+   "object": "Viniyoga Singapore",
+   "role": null,
+   "place": null,
+   "year_start": 2016,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "dies seit Desikachars Tod 2016 jedoch in eigenen Instituten, nämlich Viniyoga Singapore und der Krishnamacharya Healing and Yoga Foundation (KHYF)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kausthub Desikachar",
+   "type": "founded",
+   "object": "Krishnamacharya Healing and Yoga Foundation (KHYF)",
+   "role": null,
+   "place": null,
+   "year_start": 2016,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "dies seit Desikachars Tod 2016 jedoch in eigenen Instituten, nämlich Viniyoga Singapore und der Krishnamacharya Healing and Yoga Foundation (KHYF)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): T. K. V. Desikachar",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q3511915.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): T. K. V. Desikachar",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

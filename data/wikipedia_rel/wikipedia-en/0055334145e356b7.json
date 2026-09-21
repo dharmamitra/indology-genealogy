@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Francis Buchanan",
+   "birth_year": 1762,
+   "death_year": 1829,
+   "nationality": "Scottish",
+   "field": "botany, zoology, geography"
+  },
+  {
+   "name": "John Hope",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "botany"
+  },
+  {
+   "name": "Antoine Laurent de Jussieu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "botany"
+  },
+  {
+   "name": "William Roxburgh",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "botany"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Francis Buchanan",
+   "type": "studied_at",
+   "object": "University of Edinburgh",
+   "role": "MD",
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": 1783,
+   "explicit": true,
+   "evidence": "Buchanan studied medicine at the University of Edinburgh, graduating MD in 1783.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francis Buchanan",
+   "type": "student_of",
+   "object": "John Hope",
+   "role": "teacher",
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He also studied botany under John Hope in Edinburgh.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Hope",
+   "type": "student_of",
+   "object": "Antoine Laurent de Jussieu",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hope was among the first to teach the Linnean system of botanical nomenclature, although he knew of several others having been trained under Antoine Laurent de Jussieu.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francis Buchanan",
+   "type": "position_at",
+   "object": "Bengal Medical Service",
+   "role": null,
+   "place": null,
+   "year_start": 1794,
+   "year_end": 1815,
+   "explicit": true,
+   "evidence": "served in the Bengal Medical Service from 1794 to 1815.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francis Buchanan",
+   "type": "position_at",
+   "object": "Institution for Promoting the Natural History of India",
+   "role": "superintendent",
+   "place": "Barrackpore",
+   "year_start": 1804,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1804, he was in charge of the Institution for Promoting the Natural History of India founded by Wellesley at Barrackpore.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francis Buchanan",
+   "type": "succeeded",
+   "object": "William Roxburgh",
+   "role": "superintendent",
+   "place": "Calcutta botanical garden",
+   "year_start": 1814,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He succeeded William Roxburgh to become the superintendent of the Calcutta botanical garden in 1814",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francis Buchanan",
+   "type": "succeeded",
+   "object": "William Roxburgh",
+   "role": "official Keeper",
+   "place": "Royal Botanic Garden, Edinburgh",
+   "year_start": 1814,
+   "year_end": 1829,
+   "explicit": true,
+   "evidence": "From 1814 until 1829 he was the official Keeper of the Royal Botanic Garden, Edinburgh, succeeding William Roxburgh.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Francis Buchanan-Hamilton",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q536945.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Francis Buchanan-Hamilton",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

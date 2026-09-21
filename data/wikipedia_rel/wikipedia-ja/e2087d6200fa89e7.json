@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Cornelis Petrus Tiele",
+   "birth_year": 1830,
+   "death_year": 1902,
+   "nationality": "オランダ",
+   "field": "神学・宗教学・宗教史学"
+  },
+  {
+   "name": "フリードリヒ・マックス・ミュラー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "近代宗教学"
+  },
+  {
+   "name": "姉崎正治",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "日本",
+   "field": "宗教学"
+  },
+  {
+   "name": "加藤玄智",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "日本",
+   "field": "宗教学"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Cornelis Petrus Tiele",
+   "type": "position_at",
+   "object": "ロッテルダムのアルミニウス派教会",
+   "role": "牧師",
+   "place": "ロッテルダム",
+   "year_start": 1856,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1856年からロッテルダムのアルミニウス派教会で牧師を務め",
+   "quote_ok": true
+  },
+  {
+   "subject": "Cornelis Petrus Tiele",
+   "type": "position_at",
+   "object": "アムステルダムとライデンの神学校",
+   "role": "教授",
+   "place": null,
+   "year_start": 1873,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1873年にアムステルダムとライデンの神学校の教授となる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "Cornelis Petrus Tiele",
+   "type": "position_at",
+   "object": "ライデン大学",
+   "role": "教授（宗教史・宗教哲学講座を担当）",
+   "place": "ライデン",
+   "year_start": 1877,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1877年からライデン大学の教授に就任、新設された宗教史・宗教哲学講座を担当した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "姉崎正治",
+   "type": "influenced_by",
+   "object": "Cornelis Petrus Tiele",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "姉崎正治、加藤玄智など、日本の初期の宗教学者にも大きな影響を与えた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "加藤玄智",
+   "type": "influenced_by",
+   "object": "Cornelis Petrus Tiele",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "姉崎正治、加藤玄智など、日本の初期の宗教学者にも大きな影響を与えた。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): コルネーリス・ティーレ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q2308882.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): コルネーリス・ティーレ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

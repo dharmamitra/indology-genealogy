@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "James Sutherland Cotton",
+   "birth_year": 1847,
+   "death_year": 1918,
+   "nationality": "British",
+   "field": "Indian life and history"
+  },
+  {
+   "name": "William Wilson Hunter",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indian life and history"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Sutherland Cotton",
+   "type": "studied_at",
+   "object": "Trinity College, Oxford",
+   "role": null,
+   "place": "Oxford",
+   "year_start": 1867,
+   "year_end": 1870,
+   "explicit": true,
+   "evidence": "in 1867, he was elected a scholar of Trinity College, Oxford, where he graduated in 1870",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Sutherland Cotton",
+   "type": "position_at",
+   "object": "Queen's College",
+   "role": "Fellow and Lecturer",
+   "place": "Oxford",
+   "year_start": 1871,
+   "year_end": 1874,
+   "explicit": true,
+   "evidence": "From 1871 to 1874 he was a Fellow and Lecturer of Queen's College.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Sutherland Cotton",
+   "type": "collaborated_with",
+   "object": "William Wilson Hunter",
+   "role": "principal assistant",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "For many years he was the principal assistant of William Wilson Hunter in his manifold literary undertakings in exposition of Indian life and history. He helped Hunter to compile the first general gazetteer of India",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): James Sutherland Cotton",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q11927161.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): James Sutherland Cotton",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

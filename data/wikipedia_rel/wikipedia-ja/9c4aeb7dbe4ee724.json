@@ -1,0 +1,162 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "アンリ・マスペロ",
+   "birth_year": 1883,
+   "death_year": 1945,
+   "nationality": "フランス",
+   "field": "東洋学者"
+  },
+  {
+   "name": "ガストン・マスペロ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "エジプト学者"
+  },
+  {
+   "name": "エドゥアール・シャヴァンヌ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "マルセル・グラネ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "エーリヒ・ヘンシュ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "ドイツ",
+   "field": "中国学"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "アンリ・マスペロ",
+   "type": "other",
+   "object": "ガストン・マスペロ",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "父はエジプト学者のガストン・マスペロ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アンリ・マスペロ",
+   "type": "student_of",
+   "object": "エドゥアール・シャヴァンヌ",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "エドゥアール・シャヴァンヌに師事して中国語や東アジアの言語を学んだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アンリ・マスペロ",
+   "type": "position_at",
+   "object": "フランス極東学院のハノイ支部",
+   "role": "勤務",
+   "place": null,
+   "year_start": 1908,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1908年からフランス極東学院のハノイ支部に勤務、東南アジア諸民族の言語や風習を研究した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アンリ・マスペロ",
+   "type": "position_at",
+   "object": "コレージュ・ド・フランス",
+   "role": "中国学教授",
+   "place": null,
+   "year_start": 1918,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1918年にシャヴァンヌの後任としてコレージュ・ド・フランスの中国学教授となる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アンリ・マスペロ",
+   "type": "succeeded",
+   "object": "エドゥアール・シャヴァンヌ",
+   "role": "中国学教授",
+   "place": "コレージュ・ド・フランス",
+   "year_start": 1918,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1918年にシャヴァンヌの後任としてコレージュ・ド・フランスの中国学教授となる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "アンリ・マスペロ",
+   "type": "position_at",
+   "object": "ソルボンヌ大学",
+   "role": "中国学教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "マルセル・グラネの後任としてソルボンヌ大学中国学教授となり",
+   "quote_ok": true
+  },
+  {
+   "subject": "アンリ・マスペロ",
+   "type": "succeeded",
+   "object": "マルセル・グラネ",
+   "role": "中国学教授",
+   "place": "ソルボンヌ大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "マルセル・グラネの後任としてソルボンヌ大学中国学教授となり",
+   "quote_ok": true
+  },
+  {
+   "subject": "アンリ・マスペロ",
+   "type": "position_at",
+   "object": "高等研究実習院",
+   "role": "中国宗教学部長",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "高等研究実習院中国宗教学部長に就任した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "エーリヒ・ヘンシュ",
+   "type": "position_at",
+   "object": "フリードリヒ＝ヴィルヘルム大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "フリードリヒ＝ヴィルヘルム大学教授エーリヒ・ヘンシュ",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): アンリ・マスペロ",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q345265.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): アンリ・マスペロ",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

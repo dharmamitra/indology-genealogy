@@ -1,0 +1,95 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "釈虚雲",
+   "birth_year": 1840,
+   "death_year": 1959,
+   "nationality": "中国",
+   "field": null
+  },
+  {
+   "name": "常開",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "妙蓮",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "耀成",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "釈虚雲",
+   "type": "student_of",
+   "object": "常開",
+   "role": "師事",
+   "place": "福建省鼓山湧泉寺",
+   "year_start": 1859,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "19歳で福建省鼓山湧泉寺にて出家得度、常開師事。",
+   "quote_ok": true
+  },
+  {
+   "subject": "釈虚雲",
+   "type": "student_of",
+   "object": "妙蓮",
+   "role": "具足戒",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "妙蓮師のもとで具足戒を受ける。1892年、妙蓮は、虚雲に臨済宗衣法を授けた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "釈虚雲",
+   "type": "student_of",
+   "object": "耀成",
+   "role": "衣法授与",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "耀成和尚は、虚雲に曹洞宗衣法を授けた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "釈虚雲",
+   "type": "position_at",
+   "object": "中国仏教協会",
+   "role": "名誉会長",
+   "place": "北京",
+   "year_start": 1953,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1953年6月3日、中国仏教協会創立、名誉会長に就任。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 釈虚雲",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q855508.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 釈虚雲",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

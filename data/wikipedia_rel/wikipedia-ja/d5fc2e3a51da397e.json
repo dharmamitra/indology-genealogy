@@ -1,0 +1,143 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "金関寿夫",
+   "birth_year": 1918,
+   "death_year": 1996,
+   "nationality": "Japan",
+   "field": "英文学者"
+  },
+  {
+   "name": "金関丈夫",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "人類学"
+  },
+  {
+   "name": "金関毅",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "医学"
+  },
+  {
+   "name": "金関恕",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "考古学"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "金関寿夫",
+   "type": "studied_at",
+   "object": "同志社大学文学部英文科",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "同志社大学文学部英文科に入学し、アメリカ文学および文化を専攻した。",
+   "quote_ok": true
+  },
+  {
+   "subject": "金関寿夫",
+   "type": "position_at",
+   "object": "神戸大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "神戸大学教授、旧・東京都立大学教授、駒澤大学教授を務めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "金関寿夫",
+   "type": "position_at",
+   "object": "東京都立大学",
+   "role": "名誉教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "東京都立大学名誉教授。",
+   "quote_ok": true
+  },
+  {
+   "subject": "金関寿夫",
+   "type": "position_at",
+   "object": "駒澤大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "神戸大学教授、旧・東京都立大学教授、駒澤大学教授を務めた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "金関毅",
+   "type": "position_at",
+   "object": "佐賀医科大学",
+   "role": "名誉教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "甥：金関毅は医師。佐賀医科大学名誉教授。",
+   "quote_ok": true
+  },
+  {
+   "subject": "金関寿夫",
+   "type": "other",
+   "object": "金関丈夫",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "兄：金関丈夫は医師、人類学者。",
+   "quote_ok": true
+  },
+  {
+   "subject": "金関寿夫",
+   "type": "other",
+   "object": "金関毅",
+   "role": "nephew",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "甥：金関毅は医師。佐賀医科大学名誉教授。",
+   "quote_ok": true
+  },
+  {
+   "subject": "金関寿夫",
+   "type": "other",
+   "object": "金関恕",
+   "role": "nephew",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "甥：金関恕は考古学者。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 金関寿夫",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q11647985.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 金関寿夫",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

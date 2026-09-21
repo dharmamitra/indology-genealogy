@@ -1,0 +1,167 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Georg Curtius",
+   "birth_year": 1820,
+   "death_year": 1885,
+   "nationality": "German",
+   "field": "comparativist"
+  },
+  {
+   "name": "Ernst Curtius",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "historian and archeologist"
+  },
+  {
+   "name": "Karl Brugmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ernst Windisch",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Georg Curtius",
+   "type": "other",
+   "object": "Ernst Curtius",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Curtius was born in Lübeck, and was the brother of the historian and archeologist Ernst Curtius.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Curtius",
+   "type": "studied_at",
+   "object": "Bonn",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After an education at Bonn and Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Curtius",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After an education at Bonn and Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Curtius",
+   "type": "position_at",
+   "object": "Berlin University",
+   "role": "privatdocent",
+   "place": null,
+   "year_start": 1845,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "until (in 1845) he returned to Berlin University as a privatdocent.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Curtius",
+   "type": "position_at",
+   "object": "Philological Seminary at Prague",
+   "role": "in charge",
+   "place": "Prague",
+   "year_start": 1849,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1849 he was placed in charge of the Philological Seminary at Prague",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Curtius",
+   "type": "position_at",
+   "object": "Prague University",
+   "role": "professor of classical philology",
+   "place": "Prague",
+   "year_start": 1851,
+   "year_end": 1854,
+   "explicit": true,
+   "evidence": "two years later was appointed professor of classical philology in Prague University. In 1854, he moved from Prague",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Curtius",
+   "type": "position_at",
+   "object": "Kiel",
+   "role": "professor",
+   "place": "Kiel",
+   "year_start": 1854,
+   "year_end": 1862,
+   "explicit": true,
+   "evidence": "In 1854, he moved from Prague to a similar appointment at Kiel, and again in 1862 from Kiel to Leipzig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Curtius",
+   "type": "position_at",
+   "object": "Leipzig",
+   "role": "professor",
+   "place": "Leipzig",
+   "year_start": 1862,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "and again in 1862 from Kiel to Leipzig. He was teaching lndo-European and the historical grammar of the classical languages at Leipzig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Brugmann",
+   "type": "student_of",
+   "object": "Georg Curtius",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and was succeeded at Leipzig by his studentKarl Brugmann.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Brugmann",
+   "type": "succeeded",
+   "object": "Georg Curtius",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": 1885,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Curtius died in Hermsdorf am Kynast, aged 65, and was succeeded at Leipzig by his studentKarl Brugmann.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Georg Curtius",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q72861.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Georg Curtius",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

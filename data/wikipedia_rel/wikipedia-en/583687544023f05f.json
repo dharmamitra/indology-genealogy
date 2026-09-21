@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Shi Nenghai",
+   "birth_year": 1886,
+   "death_year": 1967,
+   "nationality": "Chinese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Zhang Kecheng",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": null
+  },
+  {
+   "name": "Khangsar Rinpoché",
+   "birth_year": 1890,
+   "death_year": 1941,
+   "nationality": "Tibetan",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Shi Nenghai",
+   "type": "student_of",
+   "object": "Zhang Kecheng",
+   "role": "teacher",
+   "place": "Peking University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After half year, Nenghai returned to China and studied Buddhism under Zhang Kecheng (張克誠) at Peking University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shi Nenghai",
+   "type": "studied_at",
+   "object": "Peking University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After half year, Nenghai returned to China and studied Buddhism under Zhang Kecheng (張克誠) at Peking University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shi Nenghai",
+   "type": "founded",
+   "object": "Shaocheng Society of Buddhist Studies",
+   "role": null,
+   "place": "Chengdu",
+   "year_start": 1917,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1917, Nenghai moved to Chengdu, capital of Sichuan province, founded the Shaocheng Society of Buddhist Studies (少城佛學社).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shi Nenghai",
+   "type": "student_of",
+   "object": "Khangsar Rinpoché",
+   "role": "traditional teacher",
+   "place": "Drepung monastery",
+   "year_start": 1928,
+   "year_end": 1932,
+   "explicit": true,
+   "evidence": "He became the main Chinese disciple of Khangsar Rinpoché (1890–1941) at Drepung monastery and was initiated into the tantric deities of Yellow Mañjuśrī and Yamāntaka-Vajrabhairava.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shi Nenghai",
+   "type": "position_at",
+   "object": "Buddhist Association of China",
+   "role": "vice-president",
+   "place": null,
+   "year_start": 1953,
+   "year_end": 1966,
+   "explicit": true,
+   "evidence": "He was a member of the Permanent Committee and vice-president of the Chinese Buddhist Association from 1953 to 1966.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Shi Nenghai",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q15909583.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Shi Nenghai",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

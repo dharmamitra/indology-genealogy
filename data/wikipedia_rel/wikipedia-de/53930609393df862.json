@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Tenzin Namdak",
+   "birth_year": 1925,
+   "death_year": 2025,
+   "nationality": "Tibet",
+   "field": null
+  },
+  {
+   "name": "Tsultrim Gyaltsen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "David Snellgrove",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Tenzin Namdak",
+   "type": "student_of",
+   "object": "Tsultrim Gyaltsen",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "lebte er acht Jahre lang als Einsiedler unter Ausbildung und Aufsicht durch den berühmten Bön-Meister Tsultrim Gyaltsen auf einer Insel im Namtso-See. Von Tsultrim Gyaltsen erhielt er alle relevanten Lehren",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tenzin Namdak",
+   "type": "studied_at",
+   "object": "Tingchen Kloster",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mit sieben trat er in das örtliche Tingchen Kloster ein, wo er lesen und schreiben lernte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tenzin Namdak",
+   "type": "studied_at",
+   "object": "Yungdrung Ling",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zur weiteren Ausbildung trat er mit fünfzehn Jahren als Künstler ins zentraltibetische Bön-Kloster Yungdrung Ling ein.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tenzin Namdak",
+   "type": "studied_at",
+   "object": "Kloster Menri",
+   "role": "Geshe",
+   "place": null,
+   "year_start": 1950,
+   "year_end": 1953,
+   "explicit": true,
+   "evidence": "1950 trat er dem Kloster Menri bei, graduierte 1953 zum Geshe",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tenzin Namdak",
+   "type": "position_at",
+   "object": "Kloster Menri",
+   "role": "Lopön",
+   "place": null,
+   "year_start": 1953,
+   "year_end": 1957,
+   "explicit": true,
+   "evidence": "und wurde Lopön des Klosters Menri (das heißt Leiter der Ausbildung der Mönche), von welcher Funktion er sich nach vier Jahren zu einer Meditation zurückzog.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tenzin Namdak",
+   "type": "collaborated_with",
+   "object": "David Snellgrove",
+   "role": null,
+   "place": null,
+   "year_start": 1961,
+   "year_end": 1964,
+   "explicit": true,
+   "evidence": "verfasste in Zusammenarbeit mit Professor David Snellgrove das Standardwerk über die Bön-Religion in englischer Sprache: The Nine Ways of Bön.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Tenzin Namdak",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q330109.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Tenzin Namdak",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

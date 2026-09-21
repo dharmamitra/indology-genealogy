@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Jon Kabat-Zinn",
+   "birth_year": 1944,
+   "death_year": null,
+   "nationality": "American",
+   "field": "Molekularbiologie"
+  },
+  {
+   "name": "Elvin A. Kabat",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Immunologie"
+  },
+  {
+   "name": "Salvador Edward Luria",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Medizin"
+  },
+  {
+   "name": "Philip Kapleau",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jon Kabat-Zinn",
+   "type": "position_at",
+   "object": "University of Massachusetts Medical School in Worcester",
+   "role": "emeritierter Professor",
+   "place": "Worcester",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Jon Kabat-Zinn (* 5. Juni 1944 in New York City) ist emeritierter Professor an der University of Massachusetts Medical School in Worcester.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jon Kabat-Zinn",
+   "type": "studied_at",
+   "object": "MIT",
+   "role": "Ph.D. in Molekularbiologie",
+   "place": null,
+   "year_start": null,
+   "year_end": 1971,
+   "explicit": true,
+   "evidence": "erhielt 1971 einen Ph.D. in Molekularbiologie vom MIT",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jon Kabat-Zinn",
+   "type": "student_of",
+   "object": "Salvador Edward Luria",
+   "role": "doctoral supervisor",
+   "place": "MIT",
+   "year_start": null,
+   "year_end": 1971,
+   "explicit": true,
+   "evidence": "vom MIT, wo er bei dem Medizin-Nobelpreisträger Salvador Edward Luria studierte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jon Kabat-Zinn",
+   "type": "other",
+   "object": "Elvin A. Kabat",
+   "role": "son of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Kabat-Zinn, der als Sohn des Immunologen Elvin A. Kabat geboren wurde",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jon Kabat-Zinn",
+   "type": "founded",
+   "object": "Stress Reduction Clinic",
+   "role": null,
+   "place": null,
+   "year_start": 1979,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1979 gründete er die mittlerweile renommierte Stress Reduction Clinic",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jon Kabat-Zinn",
+   "type": "position_at",
+   "object": "Stress Reduction Clinic",
+   "role": "Geschäftsführer",
+   "place": null,
+   "year_start": 1979,
+   "year_end": 1995,
+   "explicit": true,
+   "evidence": "deren Geschäftsführer er bis 1995 war",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jon Kabat-Zinn",
+   "type": "founded",
+   "object": "Center for Mindfulness in Medicine, Health Care and Society (CFM)",
+   "role": null,
+   "place": "University of Massachusetts Medical School",
+   "year_start": 1995,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Kabat-Zinn ist Gründer und ehemaliger Geschäftsführer des 1995 etablierten Center for Mindfulness in Medicine, Health Care and Society (CFM) ... an der University of Massachusetts Medical School.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Jon Kabat-Zinn",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1381788.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Jon Kabat-Zinn",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

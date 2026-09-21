@@ -1,0 +1,126 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Walther Schubring",
+   "birth_year": 1881,
+   "death_year": 1969,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Julius Schubring",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "classical philology"
+  },
+  {
+   "name": "Ernst Leumann",
+   "birth_year": 1859,
+   "death_year": 1931,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Wilhelm Gundert",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Annemarie Schimmel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Walther Schubring",
+   "type": "other",
+   "object": "Julius Schubring",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Walther Schubring war ein Sohn des Altphilologen Julius Schubring.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walther Schubring",
+   "type": "student_of",
+   "object": "Ernst Leumann",
+   "role": "teacher",
+   "place": "Straßburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Als Schüler von Ernst Leumann (1859–1931) in Straßburg spezialisierte er sich in der Jainismus-Forschung.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walther Schubring",
+   "type": "position_at",
+   "object": "Preußischen Staatsbibliothek",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1907,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Von 1907 an war er an Preußischen Staatsbibliothek in Berlin tätig, deren Jaina-Handschriften er später katalogisierte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walther Schubring",
+   "type": "position_at",
+   "object": "Universität Hamburg",
+   "role": "Indologie-Lehrstuhl",
+   "place": "Hamburg",
+   "year_start": 1920,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1917 habilitierte er sich und wurde 1920 auf den Indologie-Lehrstuhl der Universität Hamburg berufen, wo er bis zu seiner Emeritierung lehrte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walther Schubring",
+   "type": "collaborated_with",
+   "object": "Wilhelm Gundert",
+   "role": "co-editor",
+   "place": null,
+   "year_start": 1952,
+   "year_end": 1952,
+   "explicit": true,
+   "evidence": "als Herausgeber gemeinsam mit Wilhelm Gundert, Annemarie Schimmel: Lyrik des Ostens. München: Hanser 1952.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walther Schubring",
+   "type": "collaborated_with",
+   "object": "Annemarie Schimmel",
+   "role": "co-editor",
+   "place": null,
+   "year_start": 1952,
+   "year_end": 1952,
+   "explicit": true,
+   "evidence": "als Herausgeber gemeinsam mit Wilhelm Gundert, Annemarie Schimmel: Lyrik des Ostens. München: Hanser 1952.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Walther Schubring",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1287403.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Walther Schubring",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

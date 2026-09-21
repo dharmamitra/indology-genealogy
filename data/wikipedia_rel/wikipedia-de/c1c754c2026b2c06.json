@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Agwan Dorschijew",
+   "birth_year": 1854,
+   "death_year": 1938,
+   "nationality": "Russian",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Thubten Gyatsho",
+   "birth_year": null,
+   "death_year": 1933,
+   "nationality": "Tibetan",
+   "field": null
+  },
+  {
+   "name": "Ceveen Zhamsranov",
+   "birth_year": 1880,
+   "death_year": 1940,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Agwan Dorschijew",
+   "type": "studied_at",
+   "object": "Gomang-Fakultät des Drepung-Klosters",
+   "role": "Geshe-Lharampa",
+   "place": "Tibet",
+   "year_start": 1880,
+   "year_end": 1888,
+   "explicit": true,
+   "evidence": "Ab 1880 studierte bis 1888 an der Gomang-Fakultät des Drepung-Klosters, um den Grad als Geshe, den höchsten Grad im tibetischen Buddhismus zu erreichen. Diesen schloss er mit dem höchstmöglichen Rang als Geshe-Lharampa ab",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thubten Gyatsho",
+   "type": "student_of",
+   "object": "Agwan Dorschijew",
+   "role": "teacher",
+   "place": "Tibet",
+   "year_start": 1888,
+   "year_end": 1905,
+   "explicit": true,
+   "evidence": "wurde er einer der wichtigsten Lehrer des noch jungen 13. Dalai Lama (Thubten Gyatsho)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Agwan Dorschijew",
+   "type": "collaborated_with",
+   "object": "Ceveen Zhamsranov",
+   "role": null,
+   "place": null,
+   "year_start": 1905,
+   "year_end": 1905,
+   "explicit": true,
+   "evidence": "Zusammen mit Ceveen Zhamsranov (1880–1940?) schuf Dorschijew 1905 die Vagindra-Schrift",
+   "quote_ok": true
+  },
+  {
+   "subject": "Agwan Dorschijew",
+   "type": "founded",
+   "object": "Sankt Petersburger Gunsetschoinei-Dazan",
+   "role": "Mitbegründer",
+   "place": "Sankt Petersburg",
+   "year_start": 1908,
+   "year_end": 1913,
+   "explicit": true,
+   "evidence": "bekannt als Mitbegründer des Sankt Petersburger Gunsetschoinei-Dazan.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Agwan Dorschijew",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q551586.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Agwan Dorschijew",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

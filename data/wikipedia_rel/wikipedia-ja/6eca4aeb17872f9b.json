@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "釈宗活",
+   "birth_year": 1871,
+   "death_year": 1954,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "今北洪川",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "釈宗演",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "釈宗活",
+   "type": "student_of",
+   "object": "今北洪川",
+   "role": "traditional teacher",
+   "place": "麟祥院",
+   "year_start": 1889,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1889年、20歳のときに叔母の紹介で、東京市本郷区湯島の麟祥院において鎌倉円覚寺管長の今北洪川に参ずる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "釈宗活",
+   "type": "student_of",
+   "object": "釈宗演",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": 1893,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "洪川の没後、1893年8月に釈宗演のもとで得度した。1898年に印可を受け",
+   "quote_ok": true
+  },
+  {
+   "subject": "釈宗活",
+   "type": "founded",
+   "object": "東京両忘会",
+   "role": null,
+   "place": null,
+   "year_start": 1901,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1901年、東京両忘会を設立。",
+   "quote_ok": true
+  },
+  {
+   "subject": "釈宗活",
+   "type": "founded",
+   "object": "北米両忘会道場",
+   "role": null,
+   "place": "サンフランシスコ",
+   "year_start": 1906,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1906年に渡米。サンフランシスコのポスト街に北米両忘会道場を開き",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 釈宗活",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q7706912.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 釈宗活",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

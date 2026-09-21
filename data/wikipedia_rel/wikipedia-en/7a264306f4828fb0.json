@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "George Turnour Jnr",
+   "birth_year": 1799,
+   "death_year": 1843,
+   "nationality": "British",
+   "field": "scholar and a historian"
+  },
+  {
+   "name": "James Prinsep",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Captain Edward Smith",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "George Turnour Jnr",
+   "type": "collaborated_with",
+   "object": "James Prinsep",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Along with James Prinsep and Captain Edward Smith, he began to decipher the inscriptions on the first discovered Pillar of Ashoka.",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Turnour Jnr",
+   "type": "collaborated_with",
+   "object": "Captain Edward Smith",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Along with James Prinsep and Captain Edward Smith, he began to decipher the inscriptions on the first discovered Pillar of Ashoka.",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Turnour Jnr",
+   "type": "position_at",
+   "object": "Ceylon Civil Service",
+   "role": "Assistant to the Commissioner of Revenue",
+   "place": "Ceylon",
+   "year_start": 1820,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "On his return in 1820, he was appointed to the Ceylon Civil Service as Assistant to the Commissioner of Revenue.",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Turnour Jnr",
+   "type": "position_at",
+   "object": "Royal Asiatic Society of Great Britain and Ireland",
+   "role": "honorary member",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was elected an honorary member of the Royal Asiatic Society of Great Britain and Ireland.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): George Turnour",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q3533426.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): George Turnour",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

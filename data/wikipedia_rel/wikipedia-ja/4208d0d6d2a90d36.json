@@ -1,0 +1,157 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "大村西崖",
+   "birth_year": 1868,
+   "death_year": 1927,
+   "nationality": "日本",
+   "field": "美術史・美術評論"
+  },
+  {
+   "name": "新間雲屏",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "田島志一",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "森林太郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "森鷗外",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "田辺孝次",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "大村西崖",
+   "type": "student_of",
+   "object": "新間雲屏",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "新間雲屏に師事して絵画・彫刻・鑑定を学ぶ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "大村西崖",
+   "type": "studied_at",
+   "object": "東京美術学校彫刻科",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "1893年に東京美術学校彫刻科を卒業（第1回の卒業生であった）",
+   "quote_ok": true
+  },
+  {
+   "subject": "大村西崖",
+   "type": "position_at",
+   "object": "東京美術学校",
+   "role": "助教授",
+   "place": null,
+   "year_start": 1896,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1896年に母校である東京美術学校の助教授に採用される。",
+   "quote_ok": true
+  },
+  {
+   "subject": "大村西崖",
+   "type": "position_at",
+   "object": "東京美術学校",
+   "role": "教授",
+   "place": null,
+   "year_start": 1905,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "一時退職していたが、1898年に復職して、1905年に教授にすすんだ。",
+   "quote_ok": true
+  },
+  {
+   "subject": "大村西崖",
+   "type": "collaborated_with",
+   "object": "田島志一",
+   "role": null,
+   "place": null,
+   "year_start": 1906,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1906年には田島志一と審美書院を設立し",
+   "quote_ok": true
+  },
+  {
+   "subject": "大村西崖",
+   "type": "collaborated_with",
+   "object": "森林太郎",
+   "role": null,
+   "place": null,
+   "year_start": 1899,
+   "year_end": 1899,
+   "explicit": true,
+   "evidence": "『審美綱領』森林太郎同編 春陽堂、1899年6月",
+   "quote_ok": true
+  },
+  {
+   "subject": "大村西崖",
+   "type": "collaborated_with",
+   "object": "森鷗外",
+   "role": null,
+   "place": null,
+   "year_start": 1909,
+   "year_end": 1909,
+   "explicit": true,
+   "evidence": "『阿育王事蹟』森鷗外共著 春陽堂、1909年1月",
+   "quote_ok": true
+  },
+  {
+   "subject": "大村西崖",
+   "type": "collaborated_with",
+   "object": "田辺孝次",
+   "role": null,
+   "place": null,
+   "year_start": 1933,
+   "year_end": 1933,
+   "explicit": true,
+   "evidence": "『東洋美術史』上下巻、田辺孝次共著、平凡社、1933年",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 大村西崖",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q9917668.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 大村西崖",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,105 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Edward Joseph Thomas",
+   "birth_year": 1869,
+   "death_year": 1958,
+   "nationality": "English",
+   "field": "classicist, librarian and author of several books on the history of Buddhism"
+  },
+  {
+   "name": "John Burnet",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Edward Joseph Thomas",
+   "type": "student_of",
+   "object": "John Burnet",
+   "role": "master's supervisor",
+   "place": "University of St Andrews",
+   "year_start": 1896,
+   "year_end": 1901,
+   "explicit": true,
+   "evidence": "In 1896, he enrolled and under the supervision of John Burnet obtained a master's degree in classics from the University of St Andrews in 1900–1901.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Joseph Thomas",
+   "type": "studied_at",
+   "object": "University of St Andrews",
+   "role": "master's degree",
+   "place": null,
+   "year_start": 1896,
+   "year_end": 1901,
+   "explicit": true,
+   "evidence": "In 1896, he enrolled and under the supervision of John Burnet obtained a master's degree in classics from the University of St Andrews in 1900–1901.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Joseph Thomas",
+   "type": "studied_at",
+   "object": "Emmanuel College, Cambridge",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied linguistics at Emmanuel College, Cambridge",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Joseph Thomas",
+   "type": "studied_at",
+   "object": "University of Cambridge",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1905,
+   "explicit": true,
+   "evidence": "graduated from the University of Cambridge in 1905.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Joseph Thomas",
+   "type": "position_at",
+   "object": "University of Cambridge",
+   "role": "curator of the university's library",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was the curator of the university's library for many years and was appointed Dean of the Oriental Languages Department.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Joseph Thomas",
+   "type": "position_at",
+   "object": "University of Cambridge",
+   "role": "Dean of the Oriental Languages Department",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "was appointed Dean of the Oriental Languages Department.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Edward J. Thomas",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q15487113.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Edward J. Thomas",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

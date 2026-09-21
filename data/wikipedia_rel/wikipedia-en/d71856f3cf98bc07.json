@@ -1,0 +1,45 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Uray Géza",
+   "birth_year": 1921,
+   "death_year": 1991,
+   "nationality": "Hungarian",
+   "field": "tibetologist"
+  },
+  {
+   "name": "Louis Ligeti",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Uray Géza",
+   "type": "student_of",
+   "object": "Louis Ligeti",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied under Louis Ligeti, writing his dissertation on Tibetan dialects.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Uray Géza",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q756159.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Uray Géza",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

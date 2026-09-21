@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Stephen Fuchs",
+   "birth_year": 1908,
+   "death_year": 2000,
+   "nationality": "Austrian",
+   "field": "anthropology"
+  },
+  {
+   "name": "Wilhelm Schmidt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Yoshio Sugimoto",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Stephen Fuchs",
+   "type": "studied_at",
+   "object": "University of Vienna",
+   "role": "Ph.D. in ethnology and Indology",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": 1950,
+   "explicit": true,
+   "evidence": "After obtaining a Ph.D. in ethnology and Indology from the University of Vienna in 1950",
+   "quote_ok": false
+  },
+  {
+   "subject": "Stephen Fuchs",
+   "type": "founded",
+   "object": "Department of Anthropology at St. Xavier's College in Bombay",
+   "role": null,
+   "place": "Bombay",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Fuchs moved to India where he assisted in founding the Department of Anthropology at St. Xavier's College in Bombay.",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Wikipedia (en): Stephen Fuchs",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q2344721.txt#1",
+ "meta": {
+  "title": "Wikipedia (en): Stephen Fuchs",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,157 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sándor Csoma de Kőrös",
+   "birth_year": 1784,
+   "death_year": 1842,
+   "nationality": "Hungarian",
+   "field": "philologist and Orientalist"
+  },
+  {
+   "name": "Samuel Hegedüs",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ádám Herepei",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Johann Gottfried Eichhorn",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Fiorillo",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sangs-rgyas-phun-tshogs",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sándor Csoma de Kőrös",
+   "type": "studied_at",
+   "object": "Bethlen Kollégium",
+   "role": null,
+   "place": "Nagyenyed",
+   "year_start": 1799,
+   "year_end": 1815,
+   "explicit": true,
+   "evidence": "In 1799, he went to Nagyenyed (present-day Aiud) to join the boarding school Bethlen Kollégium... In 1815 he passed the public rigorosum in his studies at Bethlen Kollégium.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sándor Csoma de Kőrös",
+   "type": "influenced_by",
+   "object": "Samuel Hegedüs",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Here he was influenced by the professor Samuel Hegedüs.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sándor Csoma de Kőrös",
+   "type": "student_of",
+   "object": "Ádám Herepei",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "continued university studies, taking an interest in history, a subject made popular by Professor Ádám Herepei.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sándor Csoma de Kőrös",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": 1816,
+   "year_end": 1818,
+   "explicit": true,
+   "evidence": "A scholarship allowed him to continue to Göttingen, where he began to learn English under Professor Fiorillo... Between 1816 and 1818 he studied Oriental languages.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sándor Csoma de Kőrös",
+   "type": "student_of",
+   "object": "Fiorillo",
+   "role": "teacher",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "where he began to learn English under Professor Fiorillo.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sándor Csoma de Kőrös",
+   "type": "influenced_by",
+   "object": "Johann Gottfried Eichhorn",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Csoma de Kőrős also came under the influence of Professor Johann Gottfried Eichhorn.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sándor Csoma de Kőrös",
+   "type": "student_of",
+   "object": "Sangs-rgyas-phun-tshogs",
+   "role": "traditional teacher",
+   "place": "Zanskar",
+   "year_start": 1823,
+   "year_end": 1824,
+   "explicit": true,
+   "evidence": "he was immersed in an intense sixteen-month study of the Tibetan language and the Indo-Tibetan Buddhism at the core of its literature, with a local lama, Sangs-rgyas-phun-tshogs.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sándor Csoma de Kőrös",
+   "type": "position_at",
+   "object": "Asiatic Society",
+   "role": "Librarian",
+   "place": "Calcutta",
+   "year_start": 1837,
+   "year_end": 1841,
+   "explicit": true,
+   "evidence": "From 1837 to 1841, he worked as Librarian of the Asiatic Society.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Sándor Kőrösi Csoma",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q355291.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Sándor Kőrösi Csoma",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

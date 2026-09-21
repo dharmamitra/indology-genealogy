@@ -1,0 +1,45 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Geshe Wangyal",
+   "birth_year": 1901,
+   "death_year": 1983,
+   "nationality": "kalmückischer Mongole",
+   "field": "Tibetischer Buddhismus"
+  },
+  {
+   "name": "Agvan Dorzhiev",
+   "birth_year": 1854,
+   "death_year": 1938,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Geshe Wangyal",
+   "type": "student_of",
+   "object": "Agvan Dorzhiev",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er war ein Schüler von Agvan Dorzhiev (1854–1938)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Geshe Wangyal",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q463996.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Geshe Wangyal",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

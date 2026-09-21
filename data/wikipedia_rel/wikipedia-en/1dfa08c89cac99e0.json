@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "William Wilson Hunter",
+   "birth_year": 1840,
+   "death_year": 1900,
+   "nationality": "Scottish",
+   "field": "historian, statistician"
+  },
+  {
+   "name": "Brian Houghton Hodgson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Bankim Chandra Chattopadhyay",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Wilson Hunter",
+   "type": "studied_at",
+   "object": "University of Glasgow",
+   "role": "BA",
+   "place": null,
+   "year_start": null,
+   "year_end": 1860,
+   "explicit": true,
+   "evidence": "He was educated at the University of Glasgow (BA 1860), Paris and Bonn, acquiring a knowledge of Sanskrit, LL.D.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Wilson Hunter",
+   "type": "position_at",
+   "object": "University of Calcutta",
+   "role": "vice-chancellor",
+   "place": null,
+   "year_start": 1886,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1886 he was elected vice-chancellor of the University of Calcutta.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bankim Chandra Chattopadhyay",
+   "type": "influenced_by",
+   "object": "William Wilson Hunter",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The Annals of Rural Bengal, which influenced the historical romances of Bankim Chandra Chattopadhyay.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Wilson Hunter",
+   "type": "influenced_by",
+   "object": "Brian Houghton Hodgson",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He also compiled A Comparative Dictionary of the Non-Aryan Languages of India, a glossary of dialects based mainly upon the collections of Brian Houghton Hodgson",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): William Wilson Hunter",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q724677.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): William Wilson Hunter",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

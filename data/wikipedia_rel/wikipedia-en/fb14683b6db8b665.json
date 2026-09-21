@@ -1,0 +1,198 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Jan Gonda",
+   "birth_year": 1905,
+   "death_year": 1991,
+   "nationality": "Dutch",
+   "field": "Indology"
+  },
+  {
+   "name": "Willem Caland",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "J. A. B. van Buitenen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Henk Bodewitz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "F. B. J. Kuiper",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Dutch",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jan Gonda",
+   "type": "student_of",
+   "object": "Willem Caland",
+   "role": null,
+   "place": "Rijksuniversiteit, Utrecht",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied with Willem Caland at Rijksuniversiteit, Utrecht",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Gonda",
+   "type": "studied_at",
+   "object": "Rijksuniversiteit, Utrecht",
+   "role": null,
+   "place": "Utrecht",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied with Willem Caland at Rijksuniversiteit, Utrecht (since 1990 Universiteit Utrecht)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Gonda",
+   "type": "position_at",
+   "object": "Utrecht",
+   "role": "positions",
+   "place": "Utrecht",
+   "year_start": 1932,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1932 held positions at Utrecht and Leiden.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Gonda",
+   "type": "position_at",
+   "object": "Leiden",
+   "role": "positions",
+   "place": "Leiden",
+   "year_start": 1932,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1932 held positions at Utrecht and Leiden.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Gonda",
+   "type": "position_at",
+   "object": "Utrecht",
+   "role": "Chair of Sanskrit",
+   "place": "Utrecht",
+   "year_start": 1929,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He held the positions of Chair of Sanskrit succeeding Caland from 1929",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Gonda",
+   "type": "succeeded",
+   "object": "Willem Caland",
+   "role": "Chair of Sanskrit",
+   "place": "Utrecht",
+   "year_start": 1929,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He held the positions of Chair of Sanskrit succeeding Caland from 1929",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Gonda",
+   "type": "position_at",
+   "object": "Utrecht",
+   "role": "Indology",
+   "place": "Utrecht",
+   "year_start": 1932,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "as well as of Indology from 1932.",
+   "quote_ok": true
+  },
+  {
+   "subject": "J. A. B. van Buitenen",
+   "type": "student_of",
+   "object": "Jan Gonda",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among his many students was J. A. B. van Buitenen",
+   "quote_ok": true
+  },
+  {
+   "subject": "J. A. B. van Buitenen",
+   "type": "position_at",
+   "object": "University of Chicago",
+   "role": null,
+   "place": "Chicago",
+   "year_start": 1961,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "J. A. B. van Buitenen, who moved to the University of Chicago in 1961.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henk Bodewitz",
+   "type": "succeeded",
+   "object": "Jan Gonda",
+   "role": "chair of Sanskrit",
+   "place": "Utrecht",
+   "year_start": 1976,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Henk Bodewitz succeeded Gonda as the chair of Sanskrit at Utrecht in 1976.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henk Bodewitz",
+   "type": "position_at",
+   "object": "Utrecht",
+   "role": "chair of Sanskrit",
+   "place": "Utrecht",
+   "year_start": 1976,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Henk Bodewitz succeeded Gonda as the chair of Sanskrit at Utrecht in 1976.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Gonda",
+   "type": "position_at",
+   "object": "Royal Netherlands Academy of Arts and Sciences",
+   "role": "member",
+   "place": null,
+   "year_start": 1957,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Royal Netherlands Academy of Arts and Sciences, of which he was member since 1957",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Jan Gonda",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q1022375.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Jan Gonda",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sarah Elizabeth Harding",
+   "birth_year": 1951,
+   "death_year": null,
+   "nationality": "American",
+   "field": "Tibetan Buddhism"
+  },
+  {
+   "name": "Kalu Rinpoche",
+   "birth_year": 1905,
+   "death_year": 1989,
+   "nationality": "Tibetan",
+   "field": "Tibetan Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sarah Elizabeth Harding",
+   "type": "student_of",
+   "object": "Kalu Rinpoche",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": 1972,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Since 1972, she has been a student and translator of Kalu Rinpoche (1905-1989).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sarah Elizabeth Harding",
+   "type": "position_at",
+   "object": "Naropa University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2018,
+   "explicit": true,
+   "evidence": "She retired from Naropa University in 2018",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sarah Elizabeth Harding",
+   "type": "position_at",
+   "object": "Tsadra Foundation",
+   "role": "fellow",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "She is currently working on translations of Tibetan Buddhist texts as a fellow of the Tsadra Foundation.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Sarah Harding (lama)",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q7422365.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Sarah Harding (lama)",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

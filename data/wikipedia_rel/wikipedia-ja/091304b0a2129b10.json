@@ -1,0 +1,155 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "秋野孝道",
+   "birth_year": 1858,
+   "death_year": 1934,
+   "nationality": "日本",
+   "field": "仏教学"
+  },
+  {
+   "name": "伊藤慶道",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "加藤玄裔",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "西有穆山",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "秋野孝道",
+   "type": "student_of",
+   "object": "伊藤慶道",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": 1872,
+   "explicit": true,
+   "evidence": "1872年（明治5年）伊藤慶道について得度。",
+   "quote_ok": true
+  },
+  {
+   "subject": "秋野孝道",
+   "type": "studied_at",
+   "object": "曹洞宗大学専門本校",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "曹洞宗大学専門本校（のち駒澤大学）卒業。",
+   "quote_ok": true
+  },
+  {
+   "subject": "秋野孝道",
+   "type": "student_of",
+   "object": "加藤玄裔",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": 1880,
+   "explicit": true,
+   "evidence": "1880年兄弟子の加藤玄裔に嗣法。",
+   "quote_ok": true
+  },
+  {
+   "subject": "秋野孝道",
+   "type": "student_of",
+   "object": "西有穆山",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "西有穆山に師事し「正法眼蔵」を研究。",
+   "quote_ok": true
+  },
+  {
+   "subject": "秋野孝道",
+   "type": "position_at",
+   "object": "曹洞宗大学林",
+   "role": "学監",
+   "place": null,
+   "year_start": 1892,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1892年（明治25年）曹洞宗大学林学監",
+   "quote_ok": true
+  },
+  {
+   "subject": "秋野孝道",
+   "type": "position_at",
+   "object": "曹洞宗大学林",
+   "role": "教頭",
+   "place": null,
+   "year_start": 1900,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1900年教頭",
+   "quote_ok": true
+  },
+  {
+   "subject": "秋野孝道",
+   "type": "position_at",
+   "object": "曹洞宗大学林",
+   "role": "総監",
+   "place": null,
+   "year_start": 1902,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1902年総監となる。",
+   "quote_ok": true
+  },
+  {
+   "subject": "秋野孝道",
+   "type": "position_at",
+   "object": "曹洞宗大学",
+   "role": "学長",
+   "place": null,
+   "year_start": 1909,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1909年（明治42年）母校・曹洞宗大学（のち駒澤大学）学長に就任。",
+   "quote_ok": true
+  },
+  {
+   "subject": "秋野孝道",
+   "type": "position_at",
+   "object": "東京帝国大学",
+   "role": "特別講座講師",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "晩年、東京帝国大学で「正法眼蔵」の特別講座を開催。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (ja): 秋野孝道",
+ "corpus": "wikipedia-ja",
+ "path": "wikipedia/ja/Q77810860.txt#0",
+ "meta": {
+  "title": "Wikipedia (ja): 秋野孝道",
+  "author": "",
+  "year": null,
+  "language": "ja"
+ },
+ "model": "gemini-flash-latest"
+}

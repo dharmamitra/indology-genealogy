@@ -1,0 +1,95 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Rasmus Christian Rask",
+   "birth_year": 1787,
+   "death_year": 1832,
+   "nationality": "dänisch",
+   "field": "Indogermanist und Polyglott"
+  },
+  {
+   "name": "Franz Bopp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Carl Christian Rafn",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jacob Grimm",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "deutsch",
+   "field": "Sprachforscher"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Rasmus Christian Rask",
+   "type": "position_at",
+   "object": "Universität Kopenhagen",
+   "role": "Professor der Literaturgeschichte, später der Orientalistik",
+   "place": "Kopenhagen",
+   "year_start": 1823,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nach seiner Rückkehr an die Universität Kopenhagen im Jahr 1823 wurde er zum Professor der Literaturgeschichte, später der Orientalistik ernannt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rasmus Christian Rask",
+   "type": "founded",
+   "object": "Nordische Altschriftgesellschaft",
+   "role": null,
+   "place": null,
+   "year_start": 1825,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1825 gründete er zusammen mit Carl Christian Rafn die Nordische Altschriftgesellschaft.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Christian Rafn",
+   "type": "collaborated_with",
+   "object": "Rasmus Christian Rask",
+   "role": null,
+   "place": null,
+   "year_start": 1825,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1825 gründete er zusammen mit Carl Christian Rafn die Nordische Altschriftgesellschaft.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jacob Grimm",
+   "type": "influenced_by",
+   "object": "Rasmus Christian Rask",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Briefe, Rezensionen und zahlreiche Hinweise zeugen von einem Einfluss Rasks auf die Brüder Grimm",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Rasmus Christian Rask",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q310958.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Rasmus Christian Rask",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

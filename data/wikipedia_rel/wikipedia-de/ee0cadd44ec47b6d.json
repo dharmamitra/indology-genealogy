@@ -1,0 +1,174 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Karl Friedrich Geldner",
+   "birth_year": 1852,
+   "death_year": 1929,
+   "nationality": "German",
+   "field": "Orientalist"
+  },
+  {
+   "name": "Hermann Oldenberg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Richard Pischel",
+   "birth_year": 1849,
+   "death_year": 1908,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Roth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kägi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Karl Friedrich Geldner",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studierte in Leipzig und Tübingen Avesta und Sanskrit",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Friedrich Geldner",
+   "type": "studied_at",
+   "object": "Tübingen",
+   "role": null,
+   "place": "Tübingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studierte in Leipzig und Tübingen Avesta und Sanskrit",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Friedrich Geldner",
+   "type": "position_at",
+   "object": "Halle (Saale)",
+   "role": "Professor",
+   "place": "Halle (Saale)",
+   "year_start": 1887,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wurde 1887 Professor in Halle (Saale).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Friedrich Geldner",
+   "type": "position_at",
+   "object": "Berlin",
+   "role": "Lehrstuhl für Indologie",
+   "place": "Berlin",
+   "year_start": 1890,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1890 übernahm er als Nachfolger von Hermann Oldenberg den Lehrstuhl für Indologie in Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Friedrich Geldner",
+   "type": "succeeded",
+   "object": "Hermann Oldenberg",
+   "role": "Lehrstuhl für Indologie",
+   "place": "Berlin",
+   "year_start": 1890,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1890 übernahm er als Nachfolger von Hermann Oldenberg den Lehrstuhl für Indologie in Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Friedrich Geldner",
+   "type": "position_at",
+   "object": "Universität Marburg",
+   "role": null,
+   "place": "Marburg",
+   "year_start": 1907,
+   "year_end": 1929,
+   "explicit": true,
+   "evidence": "unterrichtete ab 1907 an der Universität Marburg, wo er bis an sein Lebensende wirkte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Friedrich Geldner",
+   "type": "collaborated_with",
+   "object": "Richard Pischel",
+   "role": null,
+   "place": null,
+   "year_start": 1889,
+   "year_end": 1901,
+   "explicit": true,
+   "evidence": "brachte mit ihm zusammen den ersten Band Vedische Studien heraus",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Friedrich Geldner",
+   "type": "other",
+   "object": "Richard Pischel",
+   "role": "friendship",
+   "place": "Halle",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Während seiner Zeit in Halle begründete er eine Freundschaft mit Richard Pischel (1849–1908)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Friedrich Geldner",
+   "type": "collaborated_with",
+   "object": "Roth",
+   "role": null,
+   "place": null,
+   "year_start": 1875,
+   "year_end": 1875,
+   "explicit": true,
+   "evidence": "Siebenzig Lieder des Rigveda, zusammen mit Roth und Kägi, 1875",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Friedrich Geldner",
+   "type": "collaborated_with",
+   "object": "Kägi",
+   "role": null,
+   "place": null,
+   "year_start": 1875,
+   "year_end": 1875,
+   "explicit": true,
+   "evidence": "Siebenzig Lieder des Rigveda, zusammen mit Roth und Kägi, 1875",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Karl Friedrich Geldner",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q71625.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Karl Friedrich Geldner",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

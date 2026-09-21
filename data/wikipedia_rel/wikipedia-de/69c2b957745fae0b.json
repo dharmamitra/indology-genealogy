@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Thrijang Rinpoche Lobsang Yeshe Tendzin Gyatsho",
+   "birth_year": 1901,
+   "death_year": 1981,
+   "nationality": "tibetisch",
+   "field": "tibetischen Buddhismus"
+  },
+  {
+   "name": "Phabongkha Dechen Nyingpo",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Tendzin Gyatsho",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Thrijang Rinpoche Lobsang Yeshe Tendzin Gyatsho",
+   "type": "student_of",
+   "object": "Phabongkha Dechen Nyingpo",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Er war Schüler des Phabongkha Dechen Nyingpo",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tendzin Gyatsho",
+   "type": "student_of",
+   "object": "Thrijang Rinpoche Lobsang Yeshe Tendzin Gyatsho",
+   "role": "philosophischer Berater sowie Junior-Tutor (tib. yongs 'dzin)",
+   "place": null,
+   "year_start": 1951,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "mehr als vierzig Jahre lang philosophischer Berater sowie Junior-Tutor (tib. yongs 'dzin) des vierzehnten Dalai Lama Tendzin Gyatsho ab 1951",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (de): Lobsang Yeshe Tendzin Gyatsho",
+ "corpus": "wikipedia-de",
+ "path": "wikipedia/de/Q1389294.txt#0",
+ "meta": {
+  "title": "Wikipedia (de): Lobsang Yeshe Tendzin Gyatsho",
+  "author": "",
+  "year": null,
+  "language": "de"
+ },
+ "model": "gemini-flash-latest"
+}

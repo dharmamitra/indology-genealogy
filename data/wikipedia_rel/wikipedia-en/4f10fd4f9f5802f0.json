@@ -1,0 +1,50 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Dorje Tseten",
+   "birth_year": 1926,
+   "death_year": 2013,
+   "nationality": "Chinese",
+   "field": "Tibetology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Dorje Tseten",
+   "type": "studied_at",
+   "object": "Beijing Normal University",
+   "role": "degree in education",
+   "place": null,
+   "year_start": null,
+   "year_end": 1948,
+   "explicit": true,
+   "evidence": "In September 1948, Tseten graduated from Beijing Normal University with a degree in education.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dorje Tseten",
+   "type": "position_at",
+   "object": "China Tibetology Research Center",
+   "role": "director",
+   "place": "Beijing",
+   "year_start": 1986,
+   "year_end": 2000,
+   "explicit": true,
+   "evidence": "He was appointed as the director of China Tibetology Research Center in Beijing, and he remained in this position until 2000.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wikipedia (en): Dorje Tseten",
+ "corpus": "wikipedia-en",
+ "path": "wikipedia/en/Q2903744.txt#0",
+ "meta": {
+  "title": "Wikipedia (en): Dorje Tseten",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}
