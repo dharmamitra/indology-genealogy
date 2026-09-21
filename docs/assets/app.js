@@ -51,15 +51,19 @@ for (let pass = 0; pass < 3; pass++) for (const p of people) {
   for (const e of p.inc) { const o = e.S; if (e.type === 'student_of' && o.yr) g.push(o.yr - 28); else if (o.yr) g.push(o.yr); }
   if (g.length) p.yr = Math.round(d3.mean(g));
 }
-// span of a post / period of study; open ends are closed with a guess and drawn faded
+// span of a post / period of study. Stated years are hard edges; "attested" years (publications that mention the
+// affiliation) only prove presence, so such ends are drawn faded; a missing end is closed with a modelled guess.
 for (const e of E) {
   if (e.type !== 'position_at' && e.type !== 'studied_at') continue;
-  let a = e.year_start, b = e.year_end; if (!a && !b) continue;
-  const p = e.S, sp = {openL: !a, openR: !b};
-  if (e.type === 'studied_at') { if (!a) a = b - 3; if (!b) b = a + 3; }
-  else { if (!a) a = b - 6;
-    if (!b) { const next = p.out.filter(x => x.type === 'position_at' && x !== e && x.year_start > a).map(x => x.year_start);
-      b = Math.min(...next, p.death_year || 9999, (p.birth_year || p.yr || a - 35) + 68, a + 35, 2025); } }
+  let a = e.year_start, b = e.year_end; const att = e.att; if (!a && !b && !att) continue;
+  const p = e.S, sp = {openL: !a, openR: !b, attOnly: !a && !b};
+  if (!a) a = att ? Math.min(att[0], b || 9999) : b - (e.type === 'studied_at' ? 3 : 6);
+  if (!b) {
+    if (sp.attOnly) b = att[1];
+    else if (e.type === 'studied_at') b = Math.max(a + 3, att ? att[1] : 0);
+    else { const next = p.out.filter(x => x.type === 'position_at' && x !== e && x.year_start > a).map(x => x.year_start);
+      b = Math.max(att ? att[1] : 0, Math.min(...next, p.death_year || 9999, (p.birth_year || p.yr || a - 35) + 68, a + 35, 2025)); }
+  }
   sp.a = a; sp.b = Math.max(a, b); e.span = sp;
 }
 
@@ -272,11 +276,11 @@ function drawChairs() {
   const model = b => b.e.ys_src === 'model' || (!b.e.ys_src && b.e.ye_src === 'model');
   g.append('rect').attr('class', b => 'bar-r' + (model(b) ? ' model' : '') + (b.lab ? '' : ' study'))
     .attr('fill', b => model(b) ? css('--halo') : fcol(b.e.S)).attr('stroke', b => model(b) ? fcol(b.e.S) : null)
-    .attr('fill-opacity', b => (b.e.ys_src || b.e.ye_src) === 'wikidata' ? .72 : 1)
+    .attr('fill-opacity', b => b.e.span.attOnly ? .5 : (b.e.ys_src || b.e.ye_src) === 'wikidata' ? .78 : 1)
     .attr('x', b => b.x0).attr('y', b => b.y).attr('width', b => b.x1 - b.x0).attr('height', b => b.h).attr('rx', 1.5)
     .attr('mask', b => b.x1 - b.x0 > 12 && (b.e.span.openL || b.e.span.openR) ? `url(#fade${b.e.span.openL ? 'L' : ''}${b.e.span.openR ? 'R' : ''})` : null)
     .on('click', (ev, b) => select(b.e.s))
-    .on('pointerenter', (ev, b) => showTip(ev, `${b.e.S.label} · ${(b.e.roles || [])[0] || (b.lab ? 'post' : 'student')} · ${b.e.span.openL ? '?' : b.e.span.a}–${b.e.span.openR ? '?' : b.e.span.b}${model(b) ? ' (approx.)' : ''}`))
+    .on('pointerenter', (ev, b) => showTip(ev, `${b.e.S.label} · ${(b.e.roles || [])[0] || (b.lab ? 'post' : 'student')} · ${b.e.span.attOnly ? 'attested ' + yrs(b.e.att[0], b.e.att[1]) : (b.e.span.openL ? '?' : b.e.span.a) + '–' + (b.e.span.openR ? '?' : b.e.span.b)}${model(b) ? ' (approx.)' : ''}`))
     .on('pointermove', moveTip).on('pointerleave', () => { tip.hidden = true; });
   g.filter(b => b.lab).append('text').attr('class', b => 'bar-t' + (b.inside && !model(b) ? ' in' : '')).attr('x', b => b.inside ? b.x0 + 4 : b.x1 + 4).attr('y', b => b.y + 11).text(b => b.name);
   const ax = c.append('g').attr('class', 'c-axis'); // the decade axis stays in view while the list scrolls
@@ -402,15 +406,19 @@ function select(i, move) {
   if (i != null && move && matchMedia('(max-width:860px)').matches) $('panel').scrollIntoView({behavior: reduced ? 'auto' : 'smooth'});
 }
 const yrs = (a, b) => a && b && a !== b ? `${a}–${b}` : a ? `${a}` : b ? `until ${b}` : '';
+const ATT = '<span class="tag" title="Publications of these years mention the affiliation as current. They prove presence, not when it began or ended.">attested</span>';
 function when(e) {
-  const y = yrs(e.year_start, e.year_end); if (!y) return ''; const src = new Set([e.ys_src, e.ye_src]);
+  const y = yrs(e.year_start, e.year_end);
+  if (!y) return e.att ? yrs(e.att[0], e.att[1]) + ATT : '';
+  const src = new Set([e.ys_src, e.ye_src]);
+  if (e.att && !e.year_end && e.att[1] > (e.year_start || 0)) return (src.has('model') ? 'c. ' : '') + `${e.year_start}– (still in ${e.att[1]})` + (src.has('model') ? '<span class="tag model">model</span>' : '');
   return (src.has('model') ? 'c. ' : '') + y + (src.has('wikidata') ? '<span class="tag" title="Year from Wikidata">Wikidata</span>' : '') +
     (src.has('model') ? '<span class="tag model" title="Year recalled by the language model, not found in the publications or in Wikidata — approximate">model</span>' : '');
 }
 function item(e, o) {
   const ev = EV && EV[e.i] && EV[e.i][0];
   const meta = [esc((e.roles || []).join(' · ')), when(e), e.type !== 'position_at' && ev && ev.place ? esc(ev.place) : ''].filter(Boolean).join(', ');
-  const q = e.books ? (ev ? `<span class="q">“${esc(ev.evidence)}” <span class="src">— ${esc(ev.source)}${e.n_ev > 1 ? ` +${e.n_ev - 1}` : ''}</span>${ev.explicit === false ? ' <span class="inferred">inferred</span>' : ''}</span>` : '<span class="meta">…</span>')
+  const q = e.books ? (ev ? `<span class="q">“${esc(ev.evidence)}” <span class="src">— ${esc(ev.source)}${e.n_ev > 1 ? ` +${e.n_ev - 1}` : ''}</span>${ev.explicit === false ? ' <span class="inferred">inferred</span>' : ''}${e.suspect ? ' <span class="inferred">check: teacher younger than student</span>' : ''}</span>` : '<span class="meta">…</span>')
     : `<span class="meta">Wikidata statement${e.S.qid ? ` · <a href="https://www.wikidata.org/wiki/${esc(e.S.qid)}" target="_blank" rel="noopener">source</a>` : ''}</span>`;
   return `<li class="${S.year && activeIn(e, S.year) ? 'now' : ''}"><button class="who${o.type === 'institution' ? ' inst' : ''}" data-i="${o.i}">${o.type === 'person' ? `<span class="dot" style="background:${fcol(o)}"></span>` : ''}${esc(o.label)}</button>` +
     (meta ? `<span class="meta">${meta}</span>` : '') + q + '</li>';
@@ -431,7 +439,7 @@ function renderPanel() {
     n.dewiki && !n.enwiki && `<a href="https://de.wikipedia.org/wiki/${encodeURIComponent(n.dewiki)}" target="_blank" rel="noopener">Wikipedia (de)</a>`,
     n.jawiki && `<a href="https://ja.wikipedia.org/wiki/${encodeURIComponent(n.jawiki)}" target="_blank" rel="noopener">Wikipedia (ja)</a>`].filter(Boolean).join('');
   if (n.type === 'person') {
-    const life = n.birth_year || n.death_year ? `${n.birth_year || '?'} – ${n.death_year || ''}` : '';
+    const life = n.birth_year || n.death_year ? `${n.dates_model ? 'c. ' : ''}${n.birth_year || '?'} – ${n.death_year || ''}${n.dates_model ? ' <span class="tag model" title="Life dates recalled by the language model, not confirmed by Wikidata or the texts">model</span>' : ''}` : '';
     const where = [n.birth_place && `b. ${n.birth_place}`, n.death_place && `d. ${n.death_place}`].filter(Boolean).join(' · ');
     const career = [...o('studied_at'), ...o('position_at')];
     el.innerHTML = back + `<div class="head">${n.image ? `<img alt="" loading="lazy" src="https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(n.image)}?width=180">` : ''}<div>` +
@@ -470,7 +478,7 @@ function overview() {
   <h3><span>Places</span><span>scholars</span></h3>
   <ul class="rank">${pl.map(([n, c]) => `<li><button class="who inst" data-i="${n.i}">${esc(n.label)}</button><span class="n">${c}</span></li>`).join('')}</ul>
   <h3><span>How to read this</span></h3>
-  <p class="note">Relations were extracted with Gemini and kept only when the quoted evidence was found verbatim in the source text. Name variants (including kanji and romanised forms) were merged automatically, matched to Wikidata, and checked again for duplicates; mistakes remain. Years come in three grades: unmarked years are stated in a publication; <span class="tag">Wikidata</span> years come from dated Wikidata statements; <span class="tag model">model</span> years were recalled by the language model and are approximate. Bars that fade out have an unknown end. Hollow dots are scholars without a known birth year, placed by their neighbours. Fields and career summaries are assigned automatically. Faded dots in a lens are teachers or pupils from neighbouring fields.</p>
+  <p class="note">Relations were extracted with Gemini and kept only when the quoted evidence was found verbatim in the source text. Name variants (including kanji and romanised forms) were merged automatically, matched to Wikidata, and checked again for duplicates; mistakes remain. Every extracted link was checked a second time by an independent model pass against its quote, and a year counts only if it is written in the quote. Years come in four grades: unmarked years are stated in a publication; <span class="tag">attested</span> means publications of those years mention the affiliation as current (presence, not start or end); <span class="tag">Wikidata</span> years come from dated Wikidata statements; <span class="tag model">model</span> years were recalled by the language model and are approximate. Bars that fade out have an unknown end. Hollow dots are scholars without a known birth year, placed by their neighbours. Fields and career summaries are assigned automatically. Faded dots in a lens are teachers or pupils from neighbouring fields.</p>
   <p class="note">Code and data: <a href="https://github.com/dharmamitra/indology-genealogy">github.com/dharmamitra/indology-genealogy</a></p>`;
 }
 $('panel').addEventListener('click', ev => { const m = ev.target.closest('[data-open]'); if (m) { S.open = m.dataset.open; const t = $('panel').scrollTop; renderPanel(); $('panel').scrollTop = t; return; }
@@ -481,7 +489,7 @@ function renderTools() {
   const t = $('tools');
   const sw = k => `<svg class="swatch-l" width="22" height="8"><line x1="0" y1="4" x2="22" y2="4" stroke="currentColor" stroke-width="${k === 'student_of' ? 2 : 1.4}" stroke-dasharray="${EDGE_STYLE[k][1].join(' ')}"/></svg>`;
   if (S.view === 'lineages') t.innerHTML = TYPES.map(([k, l]) => `<label class="tg"><input type="checkbox" id="tg-${k}" data-t="${k}" ${S.types.has(k) ? 'checked' : ''}>${sw(k)}${l}</label>`).join('') + '<span>· left to right is year of birth · colour is field</span>';
-  else if (S.view === 'chairs') t.innerHTML = '<span class="key"><span class="swatch" style="background:var(--f-indology)"></span>years from publications</span><span class="key"><span class="swatch" style="background:var(--f-indology);opacity:.7"></span>from Wikidata</span><span class="key"><span class="swatch model"></span>recalled by the model</span>' +
+  else if (S.view === 'chairs') t.innerHTML = '<span class="key"><span class="swatch" style="background:var(--f-indology)"></span>years from publications</span><span class="key"><span class="swatch" style="background:var(--f-indology);opacity:.7"></span>from Wikidata</span><span class="key"><span class="swatch" style="background:var(--f-indology);opacity:.45"></span>attested only</span><span class="key"><span class="swatch model"></span>recalled by the model</span>' +
     `<label class="tg"><input type="checkbox" id="tg-students" ${S.students ? 'checked' : ''}><span class="swatch study"></span>students</label><label class="tg"><input type="checkbox" id="tg-min2" ${S.min2 ? 'checked' : ''}><span></span>only places with 2+ dated posts</label>`;
   else if (S.view === 'map') t.innerHTML = '<span class="key"><span class="dot" style="background:var(--f-indology)"></span>people holding a post</span><span class="key"><span class="dot ring"></span>people studying</span><span class="regions">' +
     Object.keys(REGIONS).map(r => `<button data-region="${r}">${{america: 'N. America'}[r] || r[0].toUpperCase() + r.slice(1)}</button>`).join('') + '</span>';

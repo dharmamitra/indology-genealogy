@@ -1,0 +1,305 @@
+{
+ "asked": 900,
+ "answered_high_or_medium": 795,
+ "all": {
+  "n": 795,
+  "exact": 0.454,
+  "within_1": 0.595,
+  "within_2": 0.683,
+  "within_5": 0.858,
+  "off_by_more_than_10": 0.05,
+  "median_abs_error": 1
+ },
+ "confidence_high": {
+  "n": 448,
+  "exact": 0.578,
+  "within_1": 0.703,
+  "within_2": 0.772,
+  "within_5": 0.904,
+  "off_by_more_than_10": 0.04,
+  "median_abs_error": 0.0
+ },
+ "confidence_medium": {
+  "n": 347,
+  "exact": 0.294,
+  "within_1": 0.455,
+  "within_2": 0.568,
+  "within_5": 0.798,
+  "off_by_more_than_10": 0.063,
+  "median_abs_error": 2
+ },
+ "with_wikidata_id": {
+  "n": 751,
+  "exact": 0.466,
+  "within_1": 0.606,
+  "within_2": 0.695,
+  "within_5": 0.862,
+  "off_by_more_than_10": 0.052,
+  "median_abs_error": 1
+ },
+ "without_wikidata_id": {
+  "n": 44,
+  "exact": 0.25,
+  "within_1": 0.409,
+  "within_2": 0.477,
+  "within_5": 0.795,
+  "off_by_more_than_10": 0.023,
+  "median_abs_error": 3.0
+ },
+ "by_type": {
+  "position_at": {
+   "n": 562,
+   "exact": 0.463,
+   "within_1": 0.591,
+   "within_2": 0.673,
+   "within_5": 0.82,
+   "off_by_more_than_10": 0.068,
+   "median_abs_error": 1.0
+  },
+  "studied_at": {
+   "n": 127,
+   "exact": 0.472,
+   "within_1": 0.638,
+   "within_2": 0.748,
+   "within_5": 0.961,
+   "off_by_more_than_10": 0.0,
+   "median_abs_error": 1
+  },
+  "student_of": {
+   "n": 106,
+   "exact": 0.387,
+   "within_1": 0.566,
+   "within_2": 0.66,
+   "within_5": 0.934,
+   "off_by_more_than_10": 0.019,
+   "median_abs_error": 1.0
+  }
+ },
+ "worst": [
+  {
+   "who": "Junsho Kato",
+   "type": "position_at",
+   "at": "Nishogakusha University",
+   "truth": 1972,
+   "model": 2005,
+   "confidence": "medium",
+   "wikidata": false
+  },
+  {
+   "who": "Joe Cribb",
+   "type": "position_at",
+   "at": "British Museum",
+   "truth": 1970,
+   "model": 2003,
+   "confidence": "high",
+   "wikidata": true
+  },
+  {
+   "who": "Hermann Brockhaus",
+   "type": "position_at",
+   "at": "Leipzig University",
+   "truth": 1872,
+   "model": 1841,
+   "confidence": "high",
+   "wikidata": true
+  },
+  {
+   "who": "Hu Shih",
+   "type": "position_at",
+   "at": "Peking University",
+   "truth": 1946,
+   "model": 1917,
+   "confidence": "medium",
+   "wikidata": true
+  },
+  {
+   "who": "Daya Ram Sahni",
+   "type": "position_at",
+   "at": "Archaeological Survey of India",
+   "truth": 1931,
+   "model": 1903,
+   "confidence": "medium",
+   "wikidata": true
+  },
+  {
+   "who": "E. Gene Smith",
+   "type": "position_at",
+   "at": "Library of Congress",
+   "truth": 1994,
+   "model": 1968,
+   "confidence": "high",
+   "wikidata": true
+  },
+  {
+   "who": "Fazun",
+   "type": "position_at",
+   "at": "Buddhist Academy of China",
+   "truth": 1980,
+   "model": 1956,
+   "confidence": "medium",
+   "wikidata": true
+  },
+  {
+   "who": "Charles Rockwell Lanman",
+   "type": "position_at",
+   "at": "Harvard University",
+   "truth": 1903,
+   "model": 1880,
+   "confidence": "high",
+   "wikidata": true
+  },
+  {
+   "who": "John Brough",
+   "type": "position_at",
+   "at": "St John's College, Cambridge",
+   "truth": 1945,
+   "model": 1967,
+   "confidence": "high",
+   "wikidata": true
+  },
+  {
+   "who": "Józef Kowalewski",
+   "type": "position_at",
+   "at": "Kazan Federal University",
+   "truth": 1855,
+   "model": 1833,
+   "confidence": "medium",
+   "wikidata": true
+  },
+  {
+   "who": "Edward Byles Cowell",
+   "type": "position_at",
+   "at": "University of Cambridge",
+   "truth": 1887,
+   "model": 1867,
+   "confidence": "high",
+   "wikidata": true
+  },
+  {
+   "who": "Hermann Brunnhofer",
+   "type": "position_at",
+   "at": "University of Bern",
+   "truth": 1901,
+   "model": 1881,
+   "confidence": "medium",
+   "wikidata": true
+  },
+  {
+   "who": "Robert A. F. Thurman",
+   "type": "student_of",
+   "at": "Tenzin Gyatso, 14th Dalai Lama",
+   "truth": 1984,
+   "model": 1964,
+   "confidence": "high",
+   "wikidata": true
+  },
+  {
+   "who": "Étienne Lamotte",
+   "type": "position_at",
+   "at": "Mélanges chinois et bouddhiques",
+   "truth": 1964,
+   "model": 1945,
+   "confidence": "medium",
+   "wikidata": true
+  },
+  {
+   "who": "Seishi Karashima",
+   "type": "student_of",
+   "at": "Yoshitaka Iriya",
+   "truth": 1995,
+   "model": 1976,
+   "confidence": "medium",
+   "wikidata": true
+  },
+  {
+   "who": "Debi Prasanna Pattanayak",
+   "type": "position_at",
+   "at": "Central Institute of Indian Languages",
+   "truth": 1988,
+   "model": 1969,
+   "confidence": "high",
+   "wikidata": true
+  },
+  {
+   "who": "Henry Thomas Colebrooke",
+   "type": "position_at",
+   "at": "Fort William College",
+   "truth": 1782,
+   "model": 1801,
+   "confidence": "medium",
+   "wikidata": true
+  },
+  {
+   "who": "André Padoux",
+   "type": "position_at",
+   "at": "Centre National de la Recherche Scientifique",
+   "truth": 1982,
+   "model": 1964,
+   "confidence": "medium",
+   "wikidata": true
+  },
+  {
+   "who": "Yongtong Tang",
+   "type": "position_at",
+   "at": "Peking University",
+   "truth": 1949,
+   "model": 1931,
+   "confidence": "high",
+   "wikidata": true
+  },
+  {
+   "who": "Harry Falk",
+   "type": "position_at",
+   "at": "Free University of Berlin",
+   "truth": 2010,
+   "model": 1993,
+   "confidence": "high",
+   "wikidata": true
+  },
+  {
+   "who": "William Wright",
+   "type": "position_at",
+   "at": "University of Cambridge",
+   "truth": 1887,
+   "model": 1870,
+   "confidence": "high",
+   "wikidata": true
+  },
+  {
+   "who": "Ernst Steinkellner",
+   "type": "position_at",
+   "at": "Kyoto University",
+   "truth": 1982,
+   "model": 1999,
+   "confidence": "medium",
+   "wikidata": true
+  },
+  {
+   "who": "John D. Dunne",
+   "type": "position_at",
+   "at": "University of Wisconsin-Madison",
+   "truth": 1999,
+   "model": 2016,
+   "confidence": "high",
+   "wikidata": true
+  },
+  {
+   "who": "Akira Suganuma",
+   "type": "position_at",
+   "at": "Toyo University",
+   "truth": 1991,
+   "model": 1974,
+   "confidence": "medium",
+   "wikidata": true
+  },
+  {
+   "who": "James H. Austin",
+   "type": "position_at",
+   "at": "National Hospital for Neurology and Neurosurgery",
+   "truth": 1981,
+   "model": 1965,
+   "confidence": "medium",
+   "wikidata": true
+  }
+ ]
+}

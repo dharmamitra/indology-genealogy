@@ -18,6 +18,9 @@ from google import genai
 
 from extract_relations import load_key, DATA
 from resolve_entities import llm_json, strip_acc, surname_key, batches, PERSON_OBJ, SRC_SHORT
+from verify import year_in
+
+STINT_TYPES = {"position_at", "studied_at"}
 
 FIELDS = ["indology", "buddhist_studies", "tibetology", "sinology", "japanology", "iranian_central_asian", "linguistics",
           "religious_studies", "philosophy", "history_archaeology", "other"]
@@ -102,16 +105,87 @@ def fold(s):
     return re.sub(r"[^a-z ]", "", strip_acc(s).lower().replace("-", " "))
 
 
+def trusted_years(r):
+    """Years are used only when they are written in (or right next to) the evidence quote; the verifier's reading of the
+    quote wins over the first pass. The publication year of a statement in the present tense is an attestation, not a date."""
+    v, q, out = r["v"], r["evidence"], {}
+    for f, vf, lf in (("year_start", "ys", "ys_lit"), ("year_end", "ye", "ye_lit")):
+        y = None
+        if v.get("verdict"):  # checked: only the verifier's reading of the quote counts, and the year must be written in it
+            if v.get(vf) and year_in(v[vf], q):
+                y = v[vf]
+        elif r.get(f) and v.get(lf) == "quote":  # unchecked (verifier batch failed): first-pass year, if written in the quote
+            y = r[f]
+        out[f] = y
+    if out["year_start"] and out["year_end"] and out["year_end"] < out["year_start"]:
+        out["year_start"], out["year_end"] = None, None
+    out["attested"] = v.get("doc_year") if v.get("current") and v.get("doc_year") and 1700 < v["doc_year"] < 2030 else None
+    return out
+
+
+def stints(evs):
+    """Group the evidence for one (person, relation, institution) into separate periods instead of one min-max range:
+    Hamburg 2000-2002 and Hamburg 2006- stay two stints; 'was there in 2016' only attests the period it falls into."""
+    P = []
+    new = lambda a, b: P.append({"a": a, "b": b, "att": [], "ev": []}) or P[-1]
+    for x in sorted((x for x in evs if x["year_start"] and x["year_end"]), key=lambda x: x["year_start"]):
+        p = next((p for p in P if x["year_start"] <= p["b"] + 1 and x["year_end"] >= p["a"] - 1), None)
+        if p:
+            p["a"], p["b"] = min(p["a"], x["year_start"]), max(p["b"], x["year_end"])
+        else:
+            p = new(x["year_start"], x["year_end"])
+        p["ev"].append(x)
+    for x in sorted((x for x in evs if x["year_start"] and not x["year_end"]), key=lambda x: x["year_start"]):
+        y = x["year_start"]
+        p = next((p for p in P if p["a"] and p["a"] - 1 <= y <= (p["b"] or p["a"]) + 1), None) or new(y, None)
+        p["ev"].append(x)
+    for x in sorted((x for x in evs if x["year_end"] and not x["year_start"]), key=lambda x: x["year_end"]):
+        y = x["year_end"]
+        p = next((p for p in P if p["b"] and (p["a"] or p["b"]) - 1 <= y <= p["b"] + 1), None)
+        if not p:  # closes the latest open period that started before it, unless another period begins in between
+            op = [p for p in P if p["a"] and not p["b"] and p["a"] <= y and not any(q["a"] and p["a"] < q["a"] <= y for q in P)]
+            p = op[-1] if op else None
+            if p:
+                p["b"] = y
+        (p or new(None, y))["ev"].append(x)
+    loose = []
+    for x in (x for x in evs if not x["year_start"] and not x["year_end"]):
+        y = x.get("attested")
+        if not y:
+            loose.append(x); continue
+        p = next((p for p in P if (p["a"] or p["b"] - 15) - 1 <= y <= (p["b"] or 9999) + 1
+                  and not (not p["b"] and any(q["a"] and p["a"] < q["a"] <= y for q in P))), None)
+        if p and (p["a"] or p["b"]):
+            p["att"].append(y); p["ev"].append(x)
+        else:
+            loose.append(x)
+    att = sorted((x for x in loose if x.get("attested")), key=lambda x: x["attested"])
+    cur = None
+    for x in att:  # attested-only evidence: runs of publication years without long gaps
+        if cur and x["attested"] - max(cur["att"]) <= 8:
+            cur["att"].append(x["attested"]); cur["ev"].append(x)
+        else:
+            cur = new(None, None); cur["att"].append(x["attested"]); cur["ev"].append(x)
+    rest = [x for x in loose if not x.get("attested")]
+    if rest:
+        (max(P, key=lambda p: len(p["ev"])) if P else new(None, None))["ev"].extend(rest)
+    return sorted(P, key=lambda p: p["a"] or p["b"] or (min(p["att"]) if p["att"] else 9999))
+
+
 def main():
     rels, seen, people_info, dropped = [], set(), defaultdict(list), 0
     files = sorted(glob.glob(os.path.join(DATA, "chunks", "*", "*.json")) + glob.glob(os.path.join(DATA, "prefaces", "*", "*.json"))
                    + glob.glob(os.path.join(DATA, "sections", "*", "*.json")))
+    vpath = os.path.join(DATA, "verdicts.json")
+    verdicts = json.load(open(vpath)) if os.path.exists(vpath) else {}
     for p in files:
         d = json.load(open(p))
         src = cite(d)
+        vs = verdicts.get(os.path.relpath(p, DATA)) or []
         for pe in d.get("people", []):
             people_info[pe["name"]].append(pe)
-        for r in d["relations"]:
+        for j, r in enumerate(d["relations"]):
+            r["v"] = (vs[j] if j < len(vs) else None) or {}
             if not r.get("quote_ok"):
                 dropped += 1; continue
             k = (r["subject"], r["type"], r["object"], re.sub(r"\W+", "", r["evidence"])[:60])
@@ -193,7 +267,7 @@ def main():
             m["canonical"] = first["canonical"]
 
     # 4. graph
-    nodes, edges = {}, defaultdict(lambda: {"evidence": []})
+    nodes = {}
 
     def pnode(n):
         m = pmap.get(n)
@@ -204,7 +278,9 @@ def main():
                                     "death_year": None, "fields": Counter(), "country": Counter(), "japanese": 0, "variants": []})
         nd["native"] = nd["native"] or m.get("native")
         for f in ("birth_year", "death_year"):
-            nd[f] = nd[f] or m.get(f)
+            if not nd[f] and m.get(f):
+                txt = any(i.get(f) == m[f] for i in people_info.get(n, []))
+                nd[f], nd[f[:5] + "_src"] = m[f], "text" if txt else "model"
         nd["fields"].update(m.get("fields") or [])
         if m.get("country"):
             nd["country"][m["country"]] += 1
@@ -226,26 +302,38 @@ def main():
             nd["variants"].append(n)
         return nid
 
-    skipped = Counter()
+    skipped, raw = Counter(), defaultdict(list)
     for r in rels:
-        s = pnode(r["subject"])
-        o = pnode(r["object"]) if r["type"] in PERSON_OBJ else inode(r["object"])
+        v, typ, sub, obj = r["v"], r["type"], r["subject"], r["object"]
+        if v.get("verdict") == "not_supported":
+            skipped["verifier: quote does not support it"] += 1; continue
+        if v.get("verdict") == "wrong_type" and v.get("type") and v["type"] != typ:
+            if (v["type"] in PERSON_OBJ) != (typ in PERSON_OBJ):
+                skipped["verifier: other kind of relation"] += 1; continue
+            typ = v["type"]; skipped["(type corrected by verifier)"] += 1
+        if v.get("verdict") == "reversed":  # the verifier's direction calls proved unreliable on inspection: leave the link out
+            skipped["verifier: direction disputed"] += 1; continue
+        s = pnode(sub)
+        o = pnode(obj) if typ in PERSON_OBJ else inode(obj)
         if not s or not o or s == o:
-            skipped[(pmap.get(r["subject"]) or {}).get("kind", "unresolved") if not s else "object unresolved"] += 1
+            skipped[(pmap.get(sub) or {}).get("kind", "unresolved") if not s else "object unresolved"] += 1
             continue
-        if r["type"] == "collaborated_with" and o < s:
+        if typ == "collaborated_with" and o < s:
             s, o = o, s
-        e = edges[(s, r["type"], o)]
-        e.update(source=s, type=r["type"], target=o)
-        e["evidence"].append({k: r.get(k) for k in ("evidence", "role", "place", "year_start", "year_end", "explicit", "source", "doc")})
-    for e in edges.values():
-        ev = e["evidence"]
-        e["roles"] = sorted({x["role"] for x in ev if x.get("role")})[:4]
-        ys = [x["year_start"] for x in ev if x.get("year_start")]
-        ye = [x["year_end"] for x in ev if x.get("year_end")]
-        e["year_start"], e["year_end"] = (min(ys) if ys else None), (max(ye) if ye else None)
-        e["explicit"] = any(x["explicit"] for x in ev)
-        e["sources"] = sorted({x["source"] for x in ev})
+        raw[(s, typ, o)].append({**{k: r.get(k) for k in ("evidence", "role", "place", "explicit", "source", "doc")}, **trusted_years(r)})
+    edges = []
+    for (s, typ, o), evs in raw.items():
+        if typ in STINT_TYPES:
+            groups = stints(evs)
+        else:  # one link; stated years only
+            ys = [x["year_start"] for x in evs if x["year_start"]]; ye = [x["year_end"] for x in evs if x["year_end"]]
+            groups = [{"a": min(ys) if ys else None, "b": max(ye) if ye else None, "att": [x["attested"] for x in evs if x.get("attested")], "ev": evs}]
+        for k, p in enumerate(groups):
+            ev = p["ev"]
+            edges.append({"source": s, "type": typ, "target": o, "stint": k, "evidence": ev,
+                          "roles": sorted({x["role"] for x in ev if x.get("role")})[:4], "year_start": p["a"], "year_end": p["b"],
+                          "att_min": min(p["att"]) if p["att"] else None, "att_max": max(p["att"]) if p["att"] else None,
+                          "explicit": any(x["explicit"] for x in ev), "sources": sorted({x["source"] for x in ev})})
     for n in nodes.values():
         if n["type"] == "person":
             n["fields"] = [f for f, _ in n["fields"].most_common(3)]
@@ -255,10 +343,10 @@ def main():
     # 5. relevance: core-field scholars and everyone tied to them by a person-person link
     core = {n["id"] for n in nodes.values() if n["type"] == "person" and CORE & set(n["fields"])}
     keep = set(core)
-    for e in edges.values():
+    for e in edges:
         if e["type"] in PERSON_OBJ and (e["source"] in core or e["target"] in core):
             keep.update((e["source"], e["target"]))
-    E = [e for e in edges.values() if e["source"] in keep and (e["target"] in keep or e["target"].startswith("I:"))]
+    E = [e for e in edges if e["source"] in keep and (e["target"] in keep or e["target"].startswith("I:"))]
     used = {e["source"] for e in E} | {e["target"] for e in E}
     graph = {"nodes": [n for n in nodes.values() if n["id"] in used], "edges": E}
     json.dump(graph, open(os.path.join(DATA, "graph_extracted.json"), "w"), ensure_ascii=False, indent=1)

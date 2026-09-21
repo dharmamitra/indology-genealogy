@@ -48,15 +48,41 @@ The OCR texts themselves are not part of this repository; short evidence quotes 
    every merge is logged in `data/harmonize_merges.json`; Wikidata statements are added; missing years are filled from
    the model's own knowledge (marked); short career summaries are written from the collected facts only.
 
+### Verification and coherence (added after the first release produced wrong date ranges)
+
+The first release showed, e.g., *Harunaga Isaacson – Professor, University of Hamburg, 2000–2016*. Every sentence behind it
+was extracted correctly (teaching posts in Hamburg 2000–2002; appointed professor 2006; listed as examiner in a 2016
+thesis), but (a) the extractor had put the **publication year** of present-tense mentions into `year_end` (37% of all end
+years), (b) years were sometimes inferred rather than read, and (c) all evidence for one person and place was collapsed
+into one min–max range. The pipeline now has a dedicated stage:
+
+1. `pipeline/verify.py` – a second, independent Gemini pass over **every** relation, judging only the quote: supported /
+   wrong type / not supported (about 10% rejected — mostly committee members, mere thanks and name co-occurrences),
+   whether the statement was *current at publication* or retrospective, and which years the quote itself states.
+2. **Literal-year rule** – a year is used only if it is written in the evidence quote (Western digits, abbreviated
+   ranges, kanji digits or Japanese era years). Anything else is discarded.
+3. **Attestation instead of fake end dates** – a present-tense mention in a publication of year Y becomes
+   `att: [first, last]` (“attested”): proof of presence, never a start or end.
+4. **Stints** – posts and studies at the same place are kept as separate periods unless they overlap
+   (Hamburg 2000–2002 and Hamburg 2006–, still there in 2022).
+5. **Coherence rules** (`data/coherence_report.json`): years outside a person's lifetime are dropped; a teacher ≥10 years
+   younger than the student drops the link, a younger teacher flags it; end before start drops both years; model-recalled
+   years are requested only for identifiable scholars (Wikidata id or life dates from text/Wikidata) and rejected when
+   they contradict attested years; life dates known only from the model are marked.
+
 ### How far to trust it
 
-Each year on a link records where it comes from (`ys_src` / `ye_src`): `text` (stated in a publication), `wikidata`,
-or `model` (**recalled by the language model**, kept only at self-reported high/medium confidence, shown as "c." with a
-dashed tag/bar — approximate leads, not citations). Open-ended periods are closed with a modelled end (next post,
-death, or a cap) and drawn fading out. Fields, countries and summaries are assigned automatically. Name merging makes
-mistakes in both directions (namesakes merged, variants left apart); acknowledgements also thank people who were not
-teachers, and although the prompt excludes mere thanks, some will have slipped through as `student_of`. Evidence quotes
-let you check every book-derived link.
+Each year on a link records where it comes from (`ys_src` / `ye_src`): `text` (written in the quoted sentence),
+`wikidata`, or `model` (**recalled by the language model**, shown as “c.” with a dashed tag/bar); `att` holds attested years.
+Model years were tested on a hold-out (`pipeline/eval_model_dates.py`, `data/model_date_eval.json`): for 795 relations
+whose start year is stated in a text, the hidden year was recalled exactly in 45% of cases, within ±2 years in
+68%, within ±5 in 86%, and was off by more than ten years in 5%
+(high-confidence answers: 58% exact / 90% within ±5; medium: 29% / 80%).
+Many of the large misses are different stints at the same place (first appointment vs. a later chair), so this is a
+lower bound — but model years remain approximate leads, not citations.
+Open-ended periods are closed with a modelled end (next post, death, or a cap; never before the last attestation) and
+drawn fading out. Fields, countries and summaries are assigned automatically. Name merging makes mistakes in both
+directions. Evidence quotes let you check every publication-derived link.
 
 ## Re-running
 
@@ -68,6 +94,7 @@ python3 pipeline/extract_relations.py --workers 16            # whole books, cac
 python3 pipeline/build_worklist.py && python3 pipeline/extract_prefaces.py --workers 40 --thinking 0
 python3 pipeline/build_sections.py && python3 pipeline/extract_prefaces.py --worklist data/worklist_sections.jsonl \
         --outdir data/sections --min-score 0 --thinking 0
+python3 pipeline/verify.py                                   # independent check of every relation
 python3 pipeline/resolve_all.py
 python3 pipeline/wikidata_all.py
 python3 pipeline/merge_all.py

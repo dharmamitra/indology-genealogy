@@ -100,11 +100,6 @@
   "why": "same Wikidata id Q1855273"
  },
  {
-  "keep": "P:Lopon Tenzin Namdak",
-  "drop": "P:Tenzin Namdak",
-  "why": "same Wikidata id Q330109"
- },
- {
   "keep": "P:Thinley Norbu Rinpoche",
   "drop": "P:Thinley Norbu",
   "why": "same Wikidata id Q3524655"
@@ -113,11 +108,6 @@
   "keep": "P:Kazuo Okabe",
   "drop": "P:Kazue Okabe",
   "why": "same Wikidata id Q51167128"
- },
- {
-  "keep": "P:Per Kjeld Sørensen",
-  "drop": "P:Per K. Sørensen",
-  "why": "same Wikidata id Q21597581"
  },
  {
   "keep": "P:Sakyong Mipham",
@@ -255,11 +245,6 @@
   "why": "same Wikidata id Q5248851"
  },
  {
-  "keep": "I:Institut Français de Pondichéry",
-  "drop": "I:French Institute of Pondicherry",
-  "why": "same Wikidata id Q3030311"
- },
- {
   "keep": "I:École des hautes études en sciences sociales",
   "drop": "I:École des Hautes Études en Sciences Sociales",
   "why": "same Wikidata id Q273518"
@@ -295,11 +280,6 @@
   "why": "same Wikidata id Q153006"
  },
  {
-  "keep": "I:SIT Graduate Institute",
-  "drop": "I:School for International Training",
-  "why": "same Wikidata id Q7390511"
- },
- {
   "keep": "I:UMass Chan Medical School",
   "drop": "I:University of Massachusetts Medical School",
   "why": "same Wikidata id Q7895715"
@@ -320,64 +300,22 @@
   "why": "same Wikidata id Q691283"
  },
  {
+  "keep": "P:Sreeramula Rajeswara Sarma",
+  "drop": "P:S. S. R. Sarma",
+  "why": "harmonise (Gemini)",
+  "canonical": "Sreeramula Rajeswara Sarma"
+ },
+ {
+  "keep": "P:Tsultrim Gyamtso Rinpoche",
+  "drop": "P:Khenpo Tsültrim Gyamtso Rinpoche",
+  "why": "harmonise (Gemini)",
+  "canonical": "Khenpo Tsültrim Gyamtso Rinpoche"
+ },
+ {
   "keep": "P:Nobuchiyo Kotani",
   "drop": "P:Nobuchiyo Odani",
   "why": "harmonise (Gemini)",
   "canonical": "Nobuchiyo Odani"
- },
- {
-  "keep": "P:Hirofusa Amano",
-  "drop": "P:Koei H. Amano",
-  "why": "harmonise (Gemini)",
-  "canonical": "Hirofusa Amano"
- },
- {
-  "keep": "P:Lobsang Gyatso",
-  "drop": "P:Geshe Lobsang Gyatso",
-  "why": "harmonise (Gemini)",
-  "canonical": "Geshe Lobsang Gyatso"
- },
- {
-  "keep": "P:Taiko Harada",
-  "drop": "P:Yasunori Harada",
-  "why": "harmonise (Gemini)",
-  "canonical": "Yasunori Harada"
- },
- {
-  "keep": "P:Lopon Tenzin Namdak",
-  "drop": "P:Yongdzin Tenzin Namdak",
-  "why": "harmonise (Gemini)",
-  "canonical": "Lopon Tenzin Namdak"
- },
- {
-  "keep": "P:Hakuyu Hadano",
-  "drop": "P:Hakuyu Hatano",
-  "why": "harmonise (Gemini)",
-  "canonical": "Hakuyu Hadano"
- },
- {
-  "keep": "P:Geshe Lhundub Sopa",
-  "drop": "P:Geshe Lhundup Sopa",
-  "why": "harmonise (Gemini)",
-  "canonical": "Geshe Lhundub Sopa"
- },
- {
-  "keep": "P:Vasudev Vishwanath Gokhale",
-  "drop": "P:V. V. Gokhale",
-  "why": "harmonise (Gemini)",
-  "canonical": "Vasudev Vishwanath Gokhale"
- },
- {
-  "keep": "P:Vindhyeshvari Prasada Dube",
-  "drop": "P:Vindhyeshwari Prasad Dube",
-  "why": "harmonise (Gemini)",
-  "canonical": "Vindhyeshwari Prasad Dube"
- },
- {
-  "keep": "P:Nobumasa Miyazaki",
-  "drop": "P:Tensho Miyazaki",
-  "why": "harmonise (Gemini)",
-  "canonical": "Tensho Miyazaki"
  },
  {
   "keep": "P:Alak Zenkar Rinpoche Thubten Nyima",
@@ -392,10 +330,142 @@
   "canonical": "Alak Zenkar Rinpoche Thubten Nyima"
  },
  {
+  "keep": "P:Lobsang Gyatso",
+  "drop": "P:Geshe Lobsang Gyatso",
+  "why": "harmonise (Gemini)",
+  "canonical": "Geshe Lobsang Gyatso"
+ },
+ {
+  "keep": "P:Geshe Thubten Gyatso",
+  "drop": "P:Thubten Gyatso",
+  "why": "harmonise (Gemini)",
+  "canonical": "Geshe Thubten Gyatso"
+ },
+ {
+  "keep": "P:Seongcheol Kim",
+  "drop": "P:Sung-chul Kim",
+  "why": "harmonise (Gemini)",
+  "canonical": "Seongcheol Kim"
+ },
+ {
+  "keep": "P:Drakgyab Lodro",
+  "drop": "P:Khenpo Dragyab Lodro",
+  "why": "harmonise (Gemini)",
+  "canonical": "Khenpo Dragyab Lodrö"
+ },
+ {
+  "keep": "P:Jampel Shenpen",
+  "drop": "P:Gyumay Kensur Jambel Shenpen",
+  "why": "harmonise (Gemini)",
+  "canonical": "Gyumay Kensur Jambel Shenpen"
+ },
+ {
+  "keep": "P:Chongfeng Li",
+  "drop": "P:Congfeng Li",
+  "why": "harmonise (Gemini)",
+  "canonical": "Chongfeng Li"
+ },
+ {
+  "keep": "P:Ngawang Lekden",
+  "drop": "P:Khensur Ngawang Lekden",
+  "why": "harmonise (Gemini)",
+  "canonical": "Khensur Ngawang Lekden"
+ },
+ {
   "keep": "P:Chhimed Rigdzin Lama",
   "drop": "P:C. R. Lama",
   "why": "harmonise (Gemini)",
   "canonical": "Chhimed Rigdzin Lama"
+ },
+ {
+  "keep": "P:Brian D. Ruppert",
+  "drop": "P:Brian Ruppert",
+  "why": "harmonise (Gemini)",
+  "canonical": "Brian D. Ruppert"
+ },
+ {
+  "keep": "P:Margarita Iosifovna Vorobyova-Desyatovskaya",
+  "drop": "P:Margarita I. Vorobyova-Desyatovskaya",
+  "why": "harmonise (Gemini)",
+  "canonical": "Margarita Iosifovna Vorobyova-Desyatovskaya"
+ },
+ {
+  "keep": "P:Geshe Lhundub Sopa",
+  "drop": "P:Geshe Lhundup Sopa",
+  "why": "harmonise (Gemini)",
+  "canonical": "Geshe Lhundub Sopa"
+ },
+ {
+  "keep": "P:Khunu Lama Tenzin Gyaltsen",
+  "drop": "P:Kunu Lama Tenzin Gyaltsen",
+  "why": "harmonise (Gemini)",
+  "canonical": "Khunu Lama Tenzin Gyaltsen"
+ },
+ {
+  "keep": "P:Vindhyeshvari Prasada Dube",
+  "drop": "P:Vindhyeshwari Prasad Dube",
+  "why": "harmonise (Gemini)",
+  "canonical": "Vindhyeshwari Prasad Dube"
+ },
+ {
+  "keep": "P:Soonil Hwang",
+  "drop": "P:Soon-il Hwang",
+  "why": "harmonise (Gemini)",
+  "canonical": "Soonil Hwang"
+ },
+ {
+  "keep": "P:Shechen Gyaltsap Gyurme Pema Namgyal",
+  "drop": "P:Shechen Gyaltsap Pema Namgyal",
+  "why": "harmonise (Gemini)",
+  "canonical": "Shechen Gyaltsap Gyurme Pema Namgyal"
+ },
+ {
+  "keep": "P:Kalikinkar Datta",
+  "drop": "P:Kali Kinkar Datta",
+  "why": "harmonise (Gemini)",
+  "canonical": "Kalikinkar Datta"
+ },
+ {
+  "keep": "P:Taiko Harada",
+  "drop": "P:Yasunori Harada",
+  "why": "harmonise (Gemini)",
+  "canonical": "Yasunori Harada"
+ },
+ {
+  "keep": "P:Tairyu Tsunoda",
+  "drop": "P:Taitaka Tsunoda",
+  "why": "harmonise (Gemini)",
+  "canonical": "Tairyu Tsunoda"
+ },
+ {
+  "keep": "P:Nobumasa Miyazaki",
+  "drop": "P:Tensho Miyazaki",
+  "why": "harmonise (Gemini)",
+  "canonical": "Nobumasa Miyazaki"
+ },
+ {
+  "keep": "P:Mahesh A. Deokar",
+  "drop": "P:Mahesh Deokar",
+  "why": "harmonise (Gemini)",
+  "canonical": "Mahesh A. Deokar"
+ },
+ {
+  "keep": "P:Myōsei Tatsuguchi",
+  "drop": "P:Akio Tatsuguchi",
+  "why": "harmonise (Gemini)",
+  "canonical": "Myōsei Tatsuguchi"
+ },
+ {
+  "keep": "P:Kodo Kato",
+  "drop": "P:Hiromichi Kato",
+  "why": "harmonise (Gemini)",
+  "canonical": "Kodo Kato"
+ },
+ {
+  "keep": "P:Takanori Kimura",
+  "drop": "P:Ryutoku Kimura",
+  "why": "harmonise (Gemini)",
+  "canonical": "Takanori Kimura"
  },
  {
   "keep": "P:Situ Pema Wangchok Gyalpo",
@@ -404,10 +474,76 @@
   "canonical": "Tai Situ Pema Wangchok Gyalpo"
  },
  {
+  "keep": "P:Shingo Einoo",
+  "drop": "P:Shingo Enonoo",
+  "why": "harmonise (Gemini)",
+  "canonical": "Shingo Einoo"
+ },
+ {
+  "keep": "P:Vasudev Vishwanath Gokhale",
+  "drop": "P:V. V. Gokhale",
+  "why": "harmonise (Gemini)",
+  "canonical": "Vasudev Vishwanath Gokhale"
+ },
+ {
+  "keep": "P:Toshio Horiuchi",
+  "drop": "P:Toshiro Horiuchi",
+  "why": "harmonise (Gemini)",
+  "canonical": "Toshiro Horiuchi"
+ },
+ {
   "keep": "P:Chi-fu Li",
   "drop": "P:Zhifu Li",
   "why": "harmonise (Gemini)",
   "canonical": "Zhifu Li"
+ },
+ {
+  "keep": "P:Chado Rinpoche",
+  "drop": "P:Jado Rinpoche",
+  "why": "harmonise (Gemini)",
+  "canonical": "Jado Rinpoche"
+ },
+ {
+  "keep": "P:Dudjom Rinpoche Jigdral Yeshe Dorje",
+  "drop": "P:Dudjom Jigdral Yeshe Dorje",
+  "why": "harmonise (Gemini)",
+  "canonical": "Dudjom Jigdral Yeshe Dorje"
+ },
+ {
+  "keep": "P:Jan Willem de Jong",
+  "drop": "P:J. W. de Jong",
+  "why": "harmonise (Gemini)",
+  "canonical": "Jan Willem de Jong"
+ },
+ {
+  "keep": "P:Geshe Lobsang Tsetan",
+  "drop": "P:Khenpo Lobsang Tsetan",
+  "why": "harmonise (Gemini)",
+  "canonical": "Geshe Lobsang Tsetan"
+ },
+ {
+  "keep": "P:Geshe Yeshe Thabkhe",
+  "drop": "P:Yeshe Thabkhe",
+  "why": "harmonise (Gemini)",
+  "canonical": "Geshe Yeshe Thabkhe"
+ },
+ {
+  "keep": "P:Lobsang Jamspal",
+  "drop": "P:Lozang Jamspal",
+  "why": "harmonise (Gemini)",
+  "canonical": "Lobsang Jamspal"
+ },
+ {
+  "keep": "P:Cheon-hak Kim",
+  "drop": "P:Cheonhak Kim",
+  "why": "harmonise (Gemini)",
+  "canonical": "Cheon-hak Kim"
+ },
+ {
+  "keep": "P:Jun Ohrui",
+  "drop": "P:Jun Orui",
+  "why": "harmonise (Gemini)",
+  "canonical": "Jun Ohrui"
  },
  {
   "keep": "P:P. Sarveswara Sharma",
@@ -428,196 +564,16 @@
   "canonical": "Sergei Fedorovich Oldenburg"
  },
  {
-  "keep": "P:Gongga Rinpoche",
-  "drop": "P:Gangkar Rinpoche",
+  "keep": "P:Amdo Geshe Jampal Rölwé Lodrö",
+  "drop": "P:Amdo Geshe Jampel Rölwé Lodrö",
   "why": "harmonise (Gemini)",
-  "canonical": "Gangkar Rinpoche"
+  "canonical": "Amdo Geshe Jampal Rölwé Lodrö"
  },
  {
-  "keep": "P:Yu-min Li",
-  "drop": "P:Yumin Li",
+  "keep": "P:Lopon Tenzin Namdak",
+  "drop": "P:Yongdzin Tenzin Namdak",
   "why": "harmonise (Gemini)",
-  "canonical": "Yu-min Li"
- },
- {
-  "keep": "P:Toshio Horiuchi",
-  "drop": "P:Toshiro Horiuchi",
-  "why": "harmonise (Gemini)",
-  "canonical": "Toshiro Horiuchi"
- },
- {
-  "keep": "P:Tairyu Tsunoda",
-  "drop": "P:Taitaka Tsunoda",
-  "why": "harmonise (Gemini)",
-  "canonical": "Taitaka Tsunoda"
- },
- {
-  "keep": "P:Seongcheol Kim",
-  "drop": "P:Sung-chul Kim",
-  "why": "harmonise (Gemini)",
-  "canonical": "Sung-chul Kim"
- },
- {
-  "keep": "P:Mipham Chokyi Lodro",
-  "drop": "P:Shamarpa Mipham Chokyi Lodro",
-  "why": "harmonise (Gemini)",
-  "canonical": "Shamarpa Mipham Chokyi Lodro"
- },
- {
-  "keep": "P:Margarita Iosifovna Vorobyova-Desyatovskaya",
-  "drop": "P:Margarita I. Vorobyova-Desyatovskaya",
-  "why": "harmonise (Gemini)",
-  "canonical": "Margarita Iosifovna Vorobyova-Desyatovskaya"
- },
- {
-  "keep": "P:Shechen Gyaltsap Gyurme Pema Namgyal",
-  "drop": "P:Shechen Gyaltsap Pema Namgyal",
-  "why": "harmonise (Gemini)",
-  "canonical": "Shechen Gyaltsap Gyurme Pema Namgyal"
- },
- {
-  "keep": "P:Takanori Kimura",
-  "drop": "P:Ryutoku Kimura",
-  "why": "harmonise (Gemini)",
-  "canonical": "Takanori Kimura"
- },
- {
-  "keep": "P:Jun Ohrui",
-  "drop": "P:Jun Orui",
-  "why": "harmonise (Gemini)",
-  "canonical": "Jun Ohrui"
- },
- {
-  "keep": "P:Chongfeng Li",
-  "drop": "P:Congfeng Li",
-  "why": "harmonise (Gemini)",
-  "canonical": "Chongfeng Li"
- },
- {
-  "keep": "P:Tsultrim Gyamtso Rinpoche",
-  "drop": "P:Khenpo Tsültrim Gyamtso Rinpoche",
-  "why": "harmonise (Gemini)",
-  "canonical": "Khenpo Tsültrim Gyamtso Rinpoche"
- },
- {
-  "keep": "P:Soonil Hwang",
-  "drop": "P:Soon-il Hwang",
-  "why": "harmonise (Gemini)",
-  "canonical": "Soon-il Hwang"
- },
- {
-  "keep": "P:Dudjom Rinpoche Jigdral Yeshe Dorje",
-  "drop": "P:Dudjom Jigdral Yeshe Dorje",
-  "why": "harmonise (Gemini)",
-  "canonical": "Dudjom Jigdral Yeshe Dorje"
- },
- {
-  "keep": "P:Geshe Yeshe Thabkhe",
-  "drop": "P:Yeshe Thabkhe",
-  "why": "harmonise (Gemini)",
-  "canonical": "Geshe Yeshe Thabkhe"
- },
- {
-  "keep": "P:Drakgyab Lodro",
-  "drop": "P:Khenpo Dragyab Lodro",
-  "why": "harmonise (Gemini)",
-  "canonical": "Khenpo Dragyab Lodro"
- },
- {
-  "keep": "P:Kodo Kato",
-  "drop": "P:Hiromichi Kato",
-  "why": "harmonise (Gemini)",
-  "canonical": "Hiromichi Kato"
- },
- {
-  "keep": "P:Jan Willem de Jong",
-  "drop": "P:J. W. de Jong",
-  "why": "harmonise (Gemini)",
-  "canonical": "Jan Willem de Jong"
- },
- {
-  "keep": "P:Ngawang Lekden",
-  "drop": "P:Khensur Ngawang Lekden",
-  "why": "harmonise (Gemini)",
-  "canonical": "Ngawang Lekden"
- },
- {
-  "keep": "P:Osamu Takata",
-  "drop": "P:Osamu Takada",
-  "why": "harmonise (Gemini)",
-  "canonical": "Osamu Takata"
- },
- {
-  "keep": "P:Taku Fukuda",
-  "drop": "P:Takumi Fukuda",
-  "why": "harmonise (Gemini)",
-  "canonical": "Takumi Fukuda"
- },
- {
-  "keep": "P:Jampel Shenpen",
-  "drop": "P:Gyumay Kensur Jambel Shenpen",
-  "why": "harmonise (Gemini)",
-  "canonical": "Jampel Shenpen"
- },
- {
-  "keep": "P:Lobsang Jamspal",
-  "drop": "P:Lozang Jamspal",
-  "why": "harmonise (Gemini)",
-  "canonical": "Lobsang Jamspal"
- },
- {
-  "keep": "P:Chado Rinpoche",
-  "drop": "P:Jado Rinpoche",
-  "why": "harmonise (Gemini)",
-  "canonical": "Jado Rinpoche"
- },
- {
-  "keep": "P:Yoshihiro Ohara",
-  "drop": "P:Yoshitoyo Ohara",
-  "why": "harmonise (Gemini)",
-  "canonical": "Yoshitoyo Ohara"
- },
- {
-  "keep": "P:Myōsei Tatsuguchi",
-  "drop": "P:Akio Tatsuguchi",
-  "why": "harmonise (Gemini)",
-  "canonical": "Myōsei Tatsuguchi"
- },
- {
-  "keep": "P:Geshe Lobsang Tsetan",
-  "drop": "P:Khenpo Lobsang Tsetan",
-  "why": "harmonise (Gemini)",
-  "canonical": "Geshe Lobsang Tsetan"
- },
- {
-  "keep": "P:Mahesh A. Deokar",
-  "drop": "P:Mahesh Deokar",
-  "why": "harmonise (Gemini)",
-  "canonical": "Mahesh A. Deokar"
- },
- {
-  "keep": "P:Khunu Lama Tenzin Gyaltsen",
-  "drop": "P:Kunu Lama Tenzin Gyaltsen",
-  "why": "harmonise (Gemini)",
-  "canonical": "Khunu Lama Tenzin Gyaltsen"
- },
- {
-  "keep": "P:Brian D. Ruppert",
-  "drop": "P:Brian Ruppert",
-  "why": "harmonise (Gemini)",
-  "canonical": "Brian D. Ruppert"
- },
- {
-  "keep": "P:Cheon-hak Kim",
-  "drop": "P:Cheonhak Kim",
-  "why": "harmonise (Gemini)",
-  "canonical": "Cheon-hak Kim"
- },
- {
-  "keep": "P:Shingo Einoo",
-  "drop": "P:Shingo Enonoo",
-  "why": "harmonise (Gemini)",
-  "canonical": "Shingo Einoo"
+  "canonical": "Yongdzin Lopön Tenzin Namdak"
  },
  {
   "keep": "P:Kakkapaliya Anuruddha",
@@ -626,16 +582,16 @@
   "canonical": "Kakkapalliye Anuruddha"
  },
  {
-  "keep": "P:Kalikinkar Datta",
-  "drop": "P:Kali Kinkar Datta",
+  "keep": "P:Yu-min Li",
+  "drop": "P:Yumin Li",
   "why": "harmonise (Gemini)",
-  "canonical": "Kali Kinkar Datta"
+  "canonical": "Li Yu-min"
  },
  {
-  "keep": "P:Amdo Geshe Jampal Rölwé Lodrö",
-  "drop": "P:Amdo Geshe Jampel Rölwé Lodrö",
+  "keep": "P:Yoshihiro Ohara",
+  "drop": "P:Yoshitoyo Ohara",
   "why": "harmonise (Gemini)",
-  "canonical": "Amdo Geshe Jampel Rölwé Lodrö"
+  "canonical": "Yoshitoyo Ohara"
  },
  {
   "keep": "I:Mélanges chinois et bouddhiques",
@@ -656,12 +612,6 @@
   "canonical": "Göttingen Academy of Sciences and Humanities"
  },
  {
-  "keep": "I:Abhinavagupta Research Library",
-  "drop": "I:Saṃvidālaya: Abhinavagupta Research Library",
-  "why": "harmonise (Gemini)",
-  "canonical": "Saṃvidālaya: Abhinavagupta Research Library"
- },
- {
   "keep": "I:Court of Nepal",
   "drop": "I:Royal Court of Nepal",
   "why": "harmonise (Gemini)",
@@ -671,7 +621,7 @@
   "keep": "I:Russian Academy of Sciences",
   "drop": "I:Saint Petersburg Academy of Sciences",
   "why": "harmonise (Gemini)",
-  "canonical": "Saint Petersburg Academy of Sciences"
+  "canonical": "Russian Academy of Sciences"
  },
  {
   "keep": "I:KU Leuven",
@@ -680,16 +630,28 @@
   "canonical": "KU Leuven"
  },
  {
+  "keep": "I:Abhinavagupta Research Library",
+  "drop": "I:Saṃvidālaya: Abhinavagupta Research Library",
+  "why": "harmonise (Gemini)",
+  "canonical": "Saṃvidālaya: Abhinavagupta Research Library"
+ },
+ {
+  "keep": "I:Sampurnanand Sanskrit University",
+  "drop": "I:Benares Sanskrit College",
+  "why": "harmonise (Gemini)",
+  "canonical": "Sampurnanand Sanskrit University"
+ },
+ {
+  "keep": "I:Sampurnanand Sanskrit University",
+  "drop": "I:Queen's College",
+  "why": "harmonise (Gemini)",
+  "canonical": "Sampurnanand Sanskrit University"
+ },
+ {
   "keep": "I:German University in Prague",
   "drop": "I:German University of Prague",
   "why": "harmonise (Gemini)",
-  "canonical": "German University in Prague"
- },
- {
-  "keep": "I:Chisan Denpoin",
-  "drop": "I:Chisan Denpōin",
-  "why": "harmonise (Gemini)",
-  "canonical": "Chisan Denpōin"
+  "canonical": "German University of Prague"
  },
  {
   "keep": "I:Toho Gakuin",
@@ -698,10 +660,10 @@
   "canonical": "Tōhō Gakuin"
  },
  {
-  "keep": "I:Free University of Brussels",
-  "drop": "I:Université libre de Bruxelles",
+  "keep": "I:Chisan Denpoin",
+  "drop": "I:Chisan Denpōin",
   "why": "harmonise (Gemini)",
-  "canonical": "Université libre de Bruxelles"
+  "canonical": "Chisan Denpōin"
  },
  {
   "keep": "I:First Zen Institute of America",
@@ -713,7 +675,19 @@
   "keep": "I:Association for the Study of the History of Indian Thought",
   "drop": "I:Society for the Study of the History of Indian Thought",
   "why": "harmonise (Gemini)",
-  "canonical": "Society for the Study of the History of Indian Thought"
+  "canonical": "Association for the Study of the History of Indian Thought"
+ },
+ {
+  "keep": "I:University of Virginia",
+  "drop": "I:University of Virginia Library",
+  "why": "harmonise (Gemini)",
+  "canonical": "University of Virginia"
+ },
+ {
+  "keep": "I:Kongoju",
+  "drop": "I:Kongojushinkai",
+  "why": "harmonise (Gemini)",
+  "canonical": "Kongojushinkai"
  },
  {
   "keep": "I:University of Chicago",
@@ -728,10 +702,22 @@
   "canonical": "University of Peradeniya"
  },
  {
-  "keep": "I:National Institute of Technology, Sendai College",
-  "drop": "I:Sendai National College of Technology",
+  "keep": "I:Minobusan University",
+  "drop": "I:Minobusan Junior College",
   "why": "harmonise (Gemini)",
-  "canonical": "National Institute of Technology, Sendai College"
+  "canonical": "Minobusan University"
+ },
+ {
+  "keep": "I:Chikushi Jogakuen University",
+  "drop": "I:Chikushi Jogakuen Junior College",
+  "why": "harmonise (Gemini)",
+  "canonical": "Chikushi Jogakuen University"
+ },
+ {
+  "keep": "I:Kobe University of Commerce",
+  "drop": "I:University of Hyogo",
+  "why": "harmonise (Gemini)",
+  "canonical": "University of Hyogo"
  },
  {
   "keep": "I:Numata Center for Buddhist Translation and Research",
@@ -743,7 +729,7 @@
   "keep": "I:Rutgers University",
   "drop": "I:Rutgers University–New Brunswick",
   "why": "harmonise (Gemini)",
-  "canonical": "Rutgers University"
+  "canonical": "Rutgers University–New Brunswick"
  },
  {
   "keep": "I:Kyushu Ryukoku Junior College",
@@ -758,6 +744,12 @@
   "canonical": "University of Manchester"
  },
  {
+  "keep": "I:Manpuku-ji",
+  "drop": "I:Ōbaku Bunkaden",
+  "why": "harmonise (Gemini)",
+  "canonical": "Manpuku-ji"
+ },
+ {
   "keep": "I:Institute of Buddhist Dialectics",
   "drop": "I:School of Buddhist Dialectics",
   "why": "harmonise (Gemini)",
@@ -768,6 +760,18 @@
   "drop": "I:University of Hawaii at Manoa",
   "why": "harmonise (Gemini)",
   "canonical": "University of Hawaiʻi at Mānoa"
+ },
+ {
+  "keep": "I:National Institute of Technology, Sendai College",
+  "drop": "I:Sendai National College of Technology",
+  "why": "harmonise (Gemini)",
+  "canonical": "National Institute of Technology, Sendai College"
+ },
+ {
+  "keep": "I:Free University of Brussels",
+  "drop": "I:Université libre de Bruxelles",
+  "why": "harmonise (Gemini)",
+  "canonical": "Université libre de Bruxelles"
  },
  {
   "keep": "I:Ganden Shartse Monastery",
@@ -785,13 +789,13 @@
   "keep": "I:Kashi Prasad Jayaswal Research Institute",
   "drop": "I:K. P. Jayaswal Research Institute",
   "why": "harmonise (Gemini)",
-  "canonical": "Kashi Prasad Jayaswal Research Institute"
+  "canonical": "K. P. Jayaswal Research Institute"
  },
  {
-  "keep": "I:Antioch University",
-  "drop": "I:Antioch College",
+  "keep": "I:California State University",
+  "drop": "I:California State University, Long Beach",
   "why": "harmonise (Gemini)",
-  "canonical": "Antioch University"
+  "canonical": "California State University, Long Beach"
  },
  {
   "keep": "I:UMass Chan Medical School",
@@ -803,7 +807,7 @@
   "keep": "I:Institute of Mongolian, Buddhist and Tibetan Studies",
   "drop": "I:Institute for Mongolian, Buddhist and Tibetan Studies",
   "why": "harmonise (Gemini)",
-  "canonical": "Institute for Mongolian, Buddhist and Tibetan Studies"
+  "canonical": "Institute of Mongolian, Buddhist and Tibetan Studies"
  },
  {
   "keep": "I:Saga Medical School",
@@ -839,13 +843,13 @@
   "keep": "I:China Inner Learning College",
   "drop": "I:Chinese Institute of Inner Studies",
   "why": "harmonise (Gemini)",
-  "canonical": "Chinese Institute of Inner Studies"
+  "canonical": "China Inner Learning College"
  },
  {
   "keep": "I:China Inner Learning College",
   "drop": "I:Chinese Institute of Metaphysics",
   "why": "harmonise (Gemini)",
-  "canonical": "Chinese Institute of Inner Studies"
+  "canonical": "China Inner Learning College"
  },
  {
   "keep": "I:Sino-Tibetan Buddhist Institute",
