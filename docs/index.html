@@ -7,7 +7,7 @@
 <meta name="description" content="An academic genealogy of Indology: who studied under whom, who taught where and when, from the 17th century to today — Indology, Buddhist studies, Tibetology and their Japanese traditions.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap">
-<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="assets/style.css?v=3">
 </head>
 <body>
 <div class="app">
@@ -56,6 +56,8 @@
 </div>
 <script src="vendor/d3.min.js"></script>
 <script src="vendor/topojson-client.min.js"></script>
-<script src="assets/app.js"></script>
+<script>/* load the app with the data build stamp, so a new deploy is not masked by a cached script */
+fetch('data/version.json', {cache: 'no-store'}).then(r => r.json()).catch(() => ({v: Date.now()})).then(b => {
+  const s = document.createElement('script'); s.src = 'assets/app.js?v=' + b.v; document.body.appendChild(s); });</script>
 </body>
 </html>

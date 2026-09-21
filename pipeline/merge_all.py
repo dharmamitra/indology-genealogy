@@ -24,6 +24,8 @@ SITE_DATA = os.path.join(ROOT, "docs", "data")
 SRC_RANK = {"text": 3, "wikidata": 2, "model": 1, None: 0}
 # hand corrections of canonical names the model got wrong (initials expanded into something else)
 LABEL_FIX = {"Kuala Lumpur Dhammajoti": "K. L. Dhammajoti"}
+# sitting on a thesis committee is not teaching: such links are kept, but not as teacher -> student
+COMMITTEE = re.compile(r"committee|examin|\breader\b|referee|gutachter|jury|rapporteur|opponent|審査|副査", re.I)
 
 DUP_PROMPT = """Each group below lists records of {what} from a database built automatically from many publications. \
 Records in a group have similar names and MAY be duplicates (spelling variants, initials vs full names, with/without \
@@ -332,6 +334,9 @@ def main():
         e["att_min"], e["att_max"] = (e.get("att_min") or e.get("att_max")), (e.get("att_max") or e.get("att_min"))
         if e["year_start"] and e["year_end"] and e["year_end"] < e["year_start"]:
             note("end before start: both years dropped", e); e["year_start"] = e["year_end"] = e["ys_src"] = e["ye_src"] = None
+        if e["type"] == "student_of" and e["roles"] and all(COMMITTEE.search(r) for r in e["roles"]):
+            e["type"], e["roles"] = "other", ["thesis committee / examiner"]
+            note("committee member or examiner only: no longer counted as teacher", e)
         if e["type"] == "student_of":
             t = nodes[e["target"]]
             sb, tb = p.get("birth_year"), t.get("birth_year")
@@ -449,6 +454,8 @@ def main():
         for k in [k for k, v in n.items() if v in (None, [], "", False)]:
             del n[k]
     os.makedirs(SITE_DATA, exist_ok=True)
+    import time  # build stamp: the site asks for it uncached and appends it to the data URLs, so browsers never show stale data
+    json.dump({"v": int(time.time()), "built": time.strftime("%Y-%m-%d %H:%M")}, open(os.path.join(SITE_DATA, "version.json"), "w"))
     json.dump({"nodes": N, "edges": E}, open(os.path.join(SITE_DATA, "graph.json"), "w"), ensure_ascii=False, separators=(",", ":"))
     json.dump(evidence, open(os.path.join(SITE_DATA, "evidence.json"), "w"), ensure_ascii=False, separators=(",", ":"))
     P = [n for n in N if n["type"] == "person"]

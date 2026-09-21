@@ -3,14 +3,16 @@
 (async function () {
 const $ = id => document.getElementById(id);
 $('panel').innerHTML = '<p class="note">Loading the graph…</p>';
-const [DATA, WORLD] = await Promise.all([d3.json('data/graph.json'), d3.json('vendor/countries-50m.json')]);
+// the build stamp is fetched uncached and appended to the data URLs: a rebuilt graph is never masked by a cached copy
+const BUILD = await fetch('data/version.json', {cache: 'no-store'}).then(r => r.json()).catch(() => ({v: Date.now(), built: ''}));
+const [DATA, WORLD] = await Promise.all([d3.json('data/graph.json?v=' + BUILD.v), d3.json('vendor/countries-50m.json')]);
 let EV = null; // evidence quotes, loaded after the first paint
-d3.json('data/evidence.json').then(d => { EV = d; if (S.sel != null) renderPanel(); });
+d3.json('data/evidence.json?v=' + BUILD.v).then(d => { EV = d; if (S.sel != null) renderPanel(); });
 
 const N = DATA.nodes, E = DATA.edges;
 const TYPES = [
   ['student_of', 'Teacher → student', true], ['succeeded', 'Successor in a chair', true],
-  ['influenced_by', 'Influence', false], ['collaborated_with', 'Collaboration', false], ['other', 'Kin, friends, feuds', false]];
+  ['influenced_by', 'Influence', false], ['collaborated_with', 'Collaboration', false], ['other', 'Committees, kin, friends, feuds', false]];
 const PP = new Set(TYPES.map(t => t[0]));
 const FIELDS = [
   ['indology', 'Indology'], ['buddhist_studies', 'Buddhist studies'], ['tibetology', 'Tibetology'], ['sinology', 'Sinology'],
@@ -453,7 +455,7 @@ function renderPanel() {
       section('Succeeded', o('succeeded'), tgt, 'succ') + section('Succeeded by', i('succeeded'), src, 'succby') +
       section('Influenced by', o('influenced_by'), tgt, 'infl') + section('Influenced', i('influenced_by'), src, 'infld') +
       section('Worked with', [...o('collaborated_with'), ...i('collaborated_with')], either, 'collab') +
-      section('Founded', o('founded'), tgt, 'founded') + section('Kin, friends, opponents', [...o('other'), ...i('other')], either, 'other');
+      section('Founded', o('founded'), tgt, 'founded') + section('Other links: thesis committees, kin, friends, opponents', [...o('other'), ...i('other')], either, 'other');
   } else {
     const inL = es => es.filter(e => S.L.has(e.s));
     el.innerHTML = back + `<h2>${esc(n.label)}</h2><div class="dates">${esc([n.city, n.country].filter(Boolean).join(', '))}${n.inception ? ` · founded ${n.inception}` : ''}</div>` +
@@ -479,7 +481,7 @@ function overview() {
   <ul class="rank">${pl.map(([n, c]) => `<li><button class="who inst" data-i="${n.i}">${esc(n.label)}</button><span class="n">${c}</span></li>`).join('')}</ul>
   <h3><span>How to read this</span></h3>
   <p class="note">Relations were extracted with Gemini and kept only when the quoted evidence was found verbatim in the source text. Name variants (including kanji and romanised forms) were merged automatically, matched to Wikidata, and checked again for duplicates; mistakes remain. Every extracted link was checked a second time by an independent model pass against its quote, and a year counts only if it is written in the quote. Years come in four grades: unmarked years are stated in a publication; <span class="tag">attested</span> means publications of those years mention the affiliation as current (presence, not start or end); <span class="tag">Wikidata</span> years come from dated Wikidata statements; <span class="tag model">model</span> years were recalled by the language model and are approximate. Bars that fade out have an unknown end. Hollow dots are scholars without a known birth year, placed by their neighbours. Fields and career summaries are assigned automatically. Faded dots in a lens are teachers or pupils from neighbouring fields.</p>
-  <p class="note">Code and data: <a href="https://github.com/dharmamitra/indology-genealogy">github.com/dharmamitra/indology-genealogy</a></p>`;
+  <p class="note">Data build: ${esc(BUILD.built || '—')}. Code and data: <a href="https://github.com/dharmamitra/indology-genealogy">github.com/dharmamitra/indology-genealogy</a></p>`;
 }
 $('panel').addEventListener('click', ev => { const m = ev.target.closest('[data-open]'); if (m) { S.open = m.dataset.open; const t = $('panel').scrollTop; renderPanel(); $('panel').scrollTop = t; return; }
   const b = ev.target.closest('[data-i]'); if (b) { S.open = null; select(b.dataset.i === '' ? null : +b.dataset.i, true); } });
