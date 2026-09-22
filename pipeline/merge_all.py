@@ -22,7 +22,7 @@ from merge_sources import MODEL_PROMPT, MODEL_SCHEMA, QID_ALIAS, DATED_TYPES
 
 SITE_DATA = os.path.join(ROOT, "docs", "data")
 SRC_RANK = {"text": 3, "wikidata": 2, "model": 1, None: 0}
-CORE = {"indology", "buddhist_studies", "tibetology"}
+CORE = {"indology", "buddhist_studies", "tibetology", "computational"}
 # hand corrections of canonical names the model got wrong (initials expanded into something else)
 LABEL_FIX = {"Kuala Lumpur Dhammajoti": "K. L. Dhammajoti"}
 # sitting on a thesis committee is not teaching: such links are kept, but not as teacher -> student
@@ -227,7 +227,18 @@ def main():
     E = merge_edges(E, uf, nodes)
     print(f"[merge] wikidata statements added: {dict(stats)}; {len(log)} QID merges; {len(E)} edges", flush=True)
 
-    # ---- 4. harmonise
+    # ---- 4a. editorial merges (data/manual/merges.tsv: keep<TAB>drop) — e.g. Wylie vs phonetic spellings of Tibetan names
+    mpath = os.path.join(DATA, "manual", "merges.tsv")
+    if os.path.exists(mpath):
+        for line in open(mpath, encoding="utf-8"):
+            if not line.strip() or line.startswith("#"):
+                continue
+            keep, drop = [("P:" if not x.startswith(("P:", "I:")) else "") + x.strip() for x in line.rstrip("\n").split("\t")[:2]]
+            keep, drop = uf.find(keep), uf.find(drop)
+            if keep in nodes and drop in nodes and keep != drop:
+                log.append({"keep": keep, "drop": drop, "why": "editorial merge"}); uf.union(keep, drop); absorb(nodes, keep, drop)
+        E = merge_edges(E, uf, nodes)
+    # ---- 4b. harmonise
     nbrs = defaultdict(Counter)
     for e in E:
         nbrs[e["source"]][nodes[e["target"]]["label"]] += 1; nbrs[e["target"]][nodes[e["source"]]["label"]] += 1

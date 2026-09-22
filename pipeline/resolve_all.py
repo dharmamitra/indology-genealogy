@@ -22,9 +22,9 @@ from verify import year_in
 
 STINT_TYPES = {"position_at", "studied_at"}
 
-FIELDS = ["indology", "buddhist_studies", "tibetology", "sinology", "japanology", "iranian_central_asian", "linguistics",
+FIELDS = ["indology", "buddhist_studies", "tibetology", "computational", "sinology", "japanology", "iranian_central_asian", "linguistics",
           "religious_studies", "philosophy", "history_archaeology", "other"]
-CORE = {"indology", "buddhist_studies", "tibetology"}
+CORE = {"indology", "buddhist_studies", "tibetology", "computational"}
 CJK = re.compile(r"[぀-ヿ㐀-鿿]")
 
 ROMAN_PROMPT = """Romanise these East Asian personal names of modern scholars (mostly Japanese; some Chinese or Korean). \
@@ -52,7 +52,7 @@ For every input string return:
 "not_relevant" (family member, typist, editor at a press, funder, politician, meditation student etc.), \
 "ambiguous" (bare surname or initials that could be several people and the context does not decide), \
 "premodern" (lived before 1700), "not_person" (institution, group, deity)
-- "fields": one to three of {fields} — what the person mainly works on. Use the context; use your knowledge if you know the scholar.
+- "fields": one to three of {fields} — what the person mainly works on ("computational" = computational linguistics / NLP / digital philology of Sanskrit, Pali, Tibetan or Buddhist texts; combine it with the philological field). Use the context; use your knowledge if you know the scholar.
 - "country": the country where the person mainly worked (modern name, e.g. "Japan", "Germany", "United States", "India"), or null
 - "japanese": true if the person is a Japanese scholar or spent the career in Japanese academia
 - "birth_year" / "death_year": from the context if given, otherwise from your knowledge ONLY if you are sure; else null. \
@@ -109,6 +109,8 @@ def trusted_years(r):
     """Years are used only when they are written in (or right next to) the evidence quote; the verifier's reading of the
     quote wins over the first pass. The publication year of a statement in the present tense is an attestation, not a date."""
     v, q, out = r["v"], r["evidence"], {}
+    if q.startswith("[editorial addition"):
+        return {"year_start": r.get("year_start"), "year_end": r.get("year_end"), "attested": None}
     for f, vf, lf in (("year_start", "ys", "ys_lit"), ("year_end", "ye", "ye_lit")):
         y = None
         if v.get("verdict"):  # checked: only the verifier's reading of the quote counts, and the year must be written in it
@@ -176,7 +178,7 @@ def stints(evs):
 
 
 def main():
-    rels, seen, people_info, dropped = [], set(), defaultdict(list), 0
+    rels, seen, people_info, dropped, d_corpus = [], set(), defaultdict(list), 0, {}
     files = sorted(glob.glob(os.path.join(DATA, "chunks", "*", "*.json")) + glob.glob(os.path.join(DATA, "prefaces", "*", "*.json"))
                    + glob.glob(os.path.join(DATA, "sections", "*", "*.json"))
                    + glob.glob(os.path.join(DATA, "wikipedia_rel", "*", "*.json")))
@@ -201,6 +203,7 @@ def main():
                 continue
             seen.add(k)
             r["source"], r["doc"], r["doc_year"] = src, d["docid"][:120], d.get("doc_year") or (d.get("meta") or {}).get("year")
+            d_corpus[d["docid"][:120]] = d.get("corpus")
             rels.append(r)
     print(f"[resolve] {len(files)} records, {len(rels)} relations ({dropped} dropped: quote not found)", flush=True)
 
@@ -313,6 +316,8 @@ def main():
     skipped, raw = Counter(), defaultdict(list)
     for r in rels:
         v, typ, sub, obj = r["v"], r["type"], r["subject"], r["object"]
+        if d_corpus.get(r["doc"]) == "manual":  # editorial additions carry their own citation; the verifier does not apply
+            v = {"verdict": "ok"}; r["v"] = v
         if r.get("page") in ("blank_page", "not_printed"):  # the OCR text is not on the scanned page: invented by the OCR model
             skipped["page check: quote not on the scanned page"] += 1; continue
         if v.get("verdict") == "not_supported":

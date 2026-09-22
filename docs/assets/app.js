@@ -15,7 +15,7 @@ const TYPES = [
   ['influenced_by', 'Influence', false], ['collaborated_with', 'Collaboration', false], ['other', 'Committees, kin, friends, feuds', false]];
 const PP = new Set(TYPES.map(t => t[0]));
 const FIELDS = [
-  ['indology', 'Indology'], ['buddhist_studies', 'Buddhist studies'], ['tibetology', 'Tibetology'], ['sinology', 'Sinology'],
+  ['indology', 'Indology'], ['buddhist_studies', 'Buddhist studies'], ['tibetology', 'Tibetology'], ['computational', 'Computational'], ['sinology', 'Sinology'],
   ['japanology', 'Japanology'], ['iranian_central_asian', 'Iranian & Central Asian'], ['linguistics', 'Linguistics'],
   ['religious_studies', 'Religious studies'], ['philosophy', 'Philosophy'], ['history_archaeology', 'History & archaeology'], ['other', 'Other']];
 const FLABEL = Object.fromEntries(FIELDS);
@@ -24,6 +24,7 @@ const LENSES = {
   indology: ['Indology', p => has(p, 'indology')],
   buddhist: ['Buddhist studies', p => has(p, 'buddhist_studies')],
   tibetology: ['Tibetology', p => has(p, 'tibetology')],
+  computational: ['Computational philology', p => has(p, 'computational')],
   jp_indology: ['Japan · Indology', p => p.japanese && has(p, 'indology')],
   jp_buddhist: ['Japan · Buddhist studies', p => p.japanese && has(p, 'buddhist_studies')],
   all: ['All fields', () => true]};
@@ -550,9 +551,10 @@ $('play').onclick = () => { if (timer) return stop(); let y = S.year && S.year <
   timer = setInterval(() => { setYear(y); if (++y > 2025) stop(); }, 160); };
 
 // search with suggestions (labels, native-script names and spelling variants)
-const SEARCH = N.map(n => ({n, keys: [n.label, n.native, ...(n.variants || [])].filter(Boolean).map(s => s.toLowerCase())}));
+const fold = s => s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/ő/g, 'o').replace(/ű/g, 'u').replace(/ø/g, 'o').replace(/ł/g, 'l').replace(/ß/g, 'ss'); // search ignores diacritics: Koros finds Kőrös
+const SEARCH = N.map(n => ({n, keys: [n.label, n.native, ...(n.variants || [])].filter(Boolean).map(fold)}));
 const sug = $('suggest'), box = $('search');
-function suggest() { const q = box.value.trim().toLowerCase(); if (q.length < 2) { sug.hidden = true; return; }
+function suggest() { const q = fold(box.value.trim()); if (q.length < 2) { sug.hidden = true; return; }
   const hits = []; for (const r of SEARCH) { const k = r.keys.find(k => k.includes(q)); if (k) hits.push([k.startsWith(q) ? 0 : 1, -(r.n.deg || r.n.inc.length), r.n]); if (hits.length > 400) break; }
   hits.sort((a, b) => a[0] - b[0] || a[1] - b[1]);
   sug.innerHTML = hits.slice(0, 12).map(([, , n]) => `<li><button data-i="${n.i}">${n.type === 'person' ? `<span class="dot" style="background:${fcol(n)}"></span>` : '<span class="dot sq"></span>'}${esc(n.label)}${n.native ? ` <span class="c-sub">${esc(n.native)}</span>` : ''}${n.birth_year ? ` <span class="c-sub">${n.birth_year}–${n.death_year || ''}</span>` : ''}</button></li>`).join('') || '<li class="none">No match</li>';
