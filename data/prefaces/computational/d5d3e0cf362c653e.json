@@ -1,0 +1,45 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "N J Karthika",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jahanvi Purohit",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "N J Karthika",
+   "type": "studied_at",
+   "object": "IIT Bombay",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Author N J Karthika was supported by TCS Research Fellowship during her Ph.D. at IIT Bombay.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "arxiv:68ff28931d8c6f93cae0b1c7c1d697eaa291a25b",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/arxiv/68ff28931d8c6f93cae0b1c7c1d697eaa291a25b.txt",
+ "meta": {
+  "title": "Samas¯amayik: A Parallel Dataset for Hindi-Sanskrit Machine Translation N J Karthika1, Keerthana Suryanarayanan*2, Jahanvi Purohit1, Ganesh Ramakrishn",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

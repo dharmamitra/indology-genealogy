@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2018,
+ "people": [
+  {
+   "name": "Thomas Graf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Linguistics"
+  },
+  {
+   "name": "Connor Mayer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Linguistics"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Thomas Graf",
+   "type": "position_at",
+   "object": "Stony Brook University",
+   "role": null,
+   "place": "Stony Brook, NY, USA",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Thomas Graf Department of Linguistics Stony Brook University Stony Brook, NY 11794, USA",
+   "quote_ok": false
+  },
+  {
+   "subject": "Connor Mayer",
+   "type": "position_at",
+   "object": "University of California, Los Angeles",
+   "role": null,
+   "place": "Los Angeles, CA, USA",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Connor Mayer Department of Linguistics University of California, Los Angeles Los Angeles, CA 90046, USA",
+   "quote_ok": false
+  },
+  {
+   "subject": "Thomas Graf",
+   "type": "collaborated_with",
+   "object": "Connor Mayer",
+   "role": "co-authors",
+   "place": null,
+   "year_start": 2018,
+   "year_end": 2018,
+   "explicit": true,
+   "evidence": "Sanskrit n-Retroﬂexion is Input-Output Tier-Based Strictly Local Thomas Graf ... Connor Mayer",
+   "quote_ok": false
+  }
+ ],
+ "docid": "acl:graf-mayer-2018-sanskrit",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/acl/graf-mayer-2018-sanskrit.txt",
+ "meta": {
+  "title": "Proceedings of the 15th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology, pages 151–160 Brussels, Belgium, Octobe",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

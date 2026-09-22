@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2024,
+ "people": [
+  {
+   "name": "Sven Sellmer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Oliver Hellwig",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sven Sellmer",
+   "type": "collaborated_with",
+   "object": "Oliver Hellwig",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2024,
+   "explicit": true,
+   "evidence": "The Vedic Compound Dataset Sven Sellmer, Oliver Hellwig",
+   "quote_ok": false
+  },
+  {
+   "subject": "Sven Sellmer",
+   "type": "position_at",
+   "object": "Institute of Oriental Studies, Adam Mickiewicz University Poznań",
+   "role": null,
+   "place": "Poznań",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sven Sellmer, Oliver Hellwig Institute of Oriental Studies, Adam Mickiewicz University Poznań",
+   "quote_ok": false
+  },
+  {
+   "subject": "Oliver Hellwig",
+   "type": "position_at",
+   "object": "University of Zürich",
+   "role": null,
+   "place": "Zürich",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Department of Comparative Language Science, University of Zürich",
+   "quote_ok": false
+  }
+ ],
+ "docid": "acl:sellmer-hellwig-2024-vedic",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/acl/sellmer-hellwig-2024-vedic.txt",
+ "meta": {
+  "title": "Proceedings of the Joint Workshop on Multiword Expressions and Universal Dependencies (MWE-UD 2024) @LREC-COLING-2024, pages 50–55. May 25, 2024. ©Eur",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,102 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Nikolai Nevsky",
+   "birth_year": 1892,
+   "death_year": 1937,
+   "nationality": "Russian",
+   "field": "Tangutology"
+  },
+  {
+   "name": "Ishihama Juntarō",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Hirose Toku",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Viacheslav Zaytsev",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Chung-pui Tai",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Viacheslav Zaytsev",
+   "type": "collaborated_with",
+   "object": "Chung-pui Tai",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "18 Viacheslav Zaytsev, Chung-pui Tai Nikolai Nevsky, Ishihama Juntarō, and the Lost “Extended Manual” of Tangut Characters with Tibetan Phonetic Glosses",
+   "quote_ok": false
+  },
+  {
+   "subject": "Nikolai Nevsky",
+   "type": "collaborated_with",
+   "object": "Ishihama Juntarō",
+   "role": "co-authors",
+   "place": null,
+   "year_start": 1927,
+   "year_end": 1933,
+   "explicit": true,
+   "evidence": "NEVSKY & ISHIHAMA 1927a: Nikorai Nefusuki ニコライ・ネフスキ, Ishihama Juntarō 石濱純太郞. “Seikabun Hannyakyō no danpen”",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nikolai Nevsky",
+   "type": "collaborated_with",
+   "object": "Hirose Toku",
+   "role": "co-authors",
+   "place": null,
+   "year_start": 1933,
+   "year_end": 1933,
+   "explicit": true,
+   "evidence": "NEVSKY, ISHIHAMA, HIROSE 1933: Nicolas Nevsky, Ishihama Juntarō 石濱純太郞, Hirose Toku 廣瀨督.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ishihama Juntarō",
+   "type": "collaborated_with",
+   "object": "Hirose Toku",
+   "role": "co-authors",
+   "place": null,
+   "year_start": 1933,
+   "year_end": 1933,
+   "explicit": true,
+   "evidence": "NEVSKY, ISHIHAMA, HIROSE 1933: Nicolas Nevsky, Ishihama Juntarō 石濱純太郞, Hirose Toku 廣瀨督.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "arxiv:97ab78325efb4c9d53cc900d5d997bf4003e076d",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/arxiv/97ab78325efb4c9d53cc900d5d997bf4003e076d.txt",
+ "meta": {
+  "title": "18 Viacheslav Zaytsev, Chung-pui Tai Nikolai Nevsky, Ishihama Juntarō, and the Lost “Extended Manual” of Tangut Characters with Tibetan Phonetic Gloss",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

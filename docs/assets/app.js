@@ -357,10 +357,12 @@ function drawFields() {
   // the meta view compares fields, so it looks past the single-field lenses: everybody, or everybody in Japan
   const jp = S.lens.startsWith('jp_'), inB = p => !jp || p.japanese, scope = jp ? 'Japan' : 'all fields';
   const P = people.filter(p => inB(p) && (p.birth_year || p.yr));
-  const years = d3.range(1780, 2021, 5);
+  const years = d3.range(1780, 2001, 5); // the lifespan curve stops in 2000: later it is driven by missing birth years, not by the field
   const rows = years.map(Y => { const r = {Y}; for (const k of keys) r[k] = 0; for (const p of P) { const b = p.birth_year || p.yr; if (Y >= b + 25 && Y <= (p.death_year || b + 78)) r[(p.fields || ['other'])[0]]++; } return r; });
+  // second measure, no birth year needed: someone whose dated post, degree or attestation covers the year
+  const P2 = people.filter(inB), dated = d3.range(1780, 2026, 5).map(Y => ({Y, n: P2.filter(p => p.out.some(e => (e.type === 'position_at' || e.type === 'studied_at') && e.span && Y >= e.span.a && Y <= e.span.b && !(e.ys_src === 'model' && e.ye_src === 'model'))).length}));
   const series = d3.stack().keys(keys)(rows), h = 300, m = {l: 44, r: 16, t: 14, b: 26};
-  const x = d3.scaleLinear().domain([1780, 2020]).range([m.l, w - m.r]), y = d3.scaleLinear().domain([0, d3.max(series[series.length - 1], d => d[1]) || 1]).nice().range([h - m.b, m.t]);
+  const x = d3.scaleLinear().domain([1780, 2025]).range([m.l, w - m.r]), y = d3.scaleLinear().domain([0, Math.max(d3.max(series[series.length - 1], d => d[1]) || 1, d3.max(dated, d => d.n))]).nice().range([h - m.b, m.t]);
   const area = d3.area().x(d => x(d.data.Y)).y0(d => y(d[0])).y1(d => y(d[1])).curve(d3.curveMonotoneX);
   // teacher field -> student field
   const M = {}, tot = {}; let mx = 1;
@@ -368,7 +370,7 @@ function drawFields() {
   const used = keys.filter(k => tot[k]), cs = Math.min(46, (w - 220) / Math.max(1, used.length)), mh2 = used.length * cs + 150;
   const byCountry = d3.rollups(people.filter(p => inB(p) && p.country), v => v.length, p => p.country).sort((a, b) => b[1] - a[1]).slice(0, 14);
   el.innerHTML = `<h2>The fields at a glance <span class="c-sub">· ${scope}</span></h2>
-    <p class="note">Colour means field of study everywhere on this site. A scholar counts as active from age 25 to death (or 78); each is counted once, under the first field assigned.</p>
+    <p class="note">Colour means field of study everywhere on this site. A scholar counts as active from age 25 to death (or 78); each is counted once, under the first field assigned. <b>Read the right-hand end with care:</b> the curve stops in 2000 because birth years are known for most dead and eminent scholars but for few living ones, so it would fall off for lack of data, not for lack of scholars. The grey line counts instead everybody whose dated post, degree or attestation covers the year — it needs no birth year, but it fades out where posts have no known end.</p>
     <div class="legend inline">${FIELDS.map(([k, l]) => `<span class="key"><span class="dot" style="background:var(--f-${k})"></span>${l}</span>`).join('')}</div>
     <h3>Active scholars in the data, by field</h3><div class="scrollx"><svg id="f-area" width="${w}" height="${h}"></svg></div>
     <h3>Who taught whom across fields <span class="c-sub">rows: teacher’s field · columns: student’s field · number of documented teacher–student links</span></h3>
@@ -378,6 +380,8 @@ function drawFields() {
   a.append('g').attr('class', 'c-grid').selectAll('line').data(y.ticks(5)).join('line').attr('x1', m.l).attr('x2', w - m.r).attr('y1', d => y(d)).attr('y2', d => y(d));
   a.append('g').selectAll('path').data(series).join('path').attr('d', area).attr('fill', d => `var(--f-${d.key})`).attr('stroke', 'var(--ground)').attr('stroke-width', .6)
     .on('pointermove', (ev, d) => { const Y = Math.round(x.invert(d3.pointer(ev)[0]) / 5) * 5, r = rows.find(r => r.Y === Y); if (r) showTip(ev, `${FLABEL[d.key]} · ${Y}: ${r[d.key]}`); }).on('pointerleave', () => { tip.hidden = true; });
+  const xd = d3.scaleLinear().domain([1780, 2025]).range([m.l, w - m.r]);
+  a.append('path').attr('d', d3.line().x(d => xd(d.Y)).y(d => y(Math.min(d.n, y.domain()[1]))).curve(d3.curveMonotoneX)(dated)).attr('fill', 'none').attr('stroke', 'var(--grey)').attr('stroke-width', 1.6).attr('stroke-dasharray', '5 3');
   a.append('g').attr('class', 'c-axis').selectAll('text').data(d3.range(1780, 2021, 20)).join('text').attr('x', d => x(d)).attr('y', h - 8).attr('text-anchor', 'middle').text(d => d);
   a.append('g').attr('class', 'c-axis').selectAll('text').data(y.ticks(5)).join('text').attr('x', m.l - 6).attr('y', d => y(d) + 4).attr('text-anchor', 'end').text(d => d);
   const g = d3.select('#f-mat').append('g').attr('transform', 'translate(200,130)');

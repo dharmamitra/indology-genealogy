@@ -1,0 +1,162 @@
+{
+ "author": "Oliver Hellwig",
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Oliver Hellwig",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sven Sellmer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sebastian Nehrdich",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Paul Widmer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rico Sennrich",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Oliver Hellwig",
+   "type": "position_at",
+   "object": "University of Zurich",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Oliver Hellwig ISLE / University of Zurich oliver.hellwig@uzh.ch",
+   "quote_ok": false
+  },
+  {
+   "subject": "Sven Sellmer",
+   "type": "position_at",
+   "object": "Adam Mickiewicz University Poznań",
+   "role": null,
+   "place": "Poznań",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sven Sellmer Institute of Oriental Studies Adam Mickiewicz University Poznań sven@amu.edu.pl",
+   "quote_ok": false
+  },
+  {
+   "subject": "Sebastian Nehrdich",
+   "type": "position_at",
+   "object": "Tohoku University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sebastian Nehrdich Center for Integrated Japanese Studies Tohoku University nehrdich@tohoku.ac.jp",
+   "quote_ok": false
+  },
+  {
+   "subject": "Paul Widmer",
+   "type": "position_at",
+   "object": "University of Zurich",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Paul Widmer ISLE / University of Zurich paul.widmer@uzh.ch",
+   "quote_ok": false
+  },
+  {
+   "subject": "Rico Sennrich",
+   "type": "position_at",
+   "object": "University of Zurich",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rico Sennrich Department of Computational Linguistics University of Zurich rico.sennrich@uzh.ch",
+   "quote_ok": false
+  },
+  {
+   "subject": "Oliver Hellwig",
+   "type": "collaborated_with",
+   "object": "Sven Sellmer",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sanskrit Word Sense Disambiguation Based on Lexicographic Definitions Oliver Hellwig ISLE / University of Zurich oliver.hellwig@uzh.ch Sven Sellmer",
+   "quote_ok": false
+  },
+  {
+   "subject": "Oliver Hellwig",
+   "type": "collaborated_with",
+   "object": "Sebastian Nehrdich",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Oliver Hellwig ISLE / University of Zurich oliver.hellwig@uzh.ch Sven Sellmer Institute of Oriental Studies Adam Mickiewicz University Poznań sven@amu.edu.pl Sebastian Nehrdich",
+   "quote_ok": false
+  },
+  {
+   "subject": "Oliver Hellwig",
+   "type": "collaborated_with",
+   "object": "Paul Widmer",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Oliver Hellwig ISLE / University of Zurich oliver.hellwig@uzh.ch ... Paul Widmer ISLE / University of Zurich paul.widmer@uzh.ch",
+   "quote_ok": false
+  },
+  {
+   "subject": "Oliver Hellwig",
+   "type": "collaborated_with",
+   "object": "Rico Sennrich",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Oliver Hellwig ISLE / University of Zurich oliver.hellwig@uzh.ch ... Rico Sennrich Department of Computational Linguistics University of Zurich",
+   "quote_ok": false
+  }
+ ],
+ "docid": "acl:hellwig-etal-2026-sanskrit",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/acl/hellwig-etal-2026-sanskrit.txt",
+ "meta": {
+  "title": "Sanskrit Word Sense Disambiguation Based on Lexicographic Definitions Oliver Hellwig ISLE / University of Zurich oliver.hellwig@uzh.ch Sven Sellmer In",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2023,
+ "people": [
+  {
+   "name": "Chiara Zanchi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Erica Biagetti",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Silvia Luraghi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Chiara Zanchi",
+   "type": "collaborated_with",
+   "object": "Erica Biagetti",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "This article results from the joint work of the authors. For academic purposes, Chiara Zanchi is responsible of sections 1, 2 and 3, Erica Biagetti of sections 4 and 6, and Silvia Luraghi of section 5.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chiara Zanchi",
+   "type": "collaborated_with",
+   "object": "Silvia Luraghi",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "This article results from the joint work of the authors. For academic purposes, Chiara Zanchi is responsible of sections 1, 2 and 3, Erica Biagetti of sections 4 and 6, and Silvia Luraghi of section 5.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Erica Biagetti",
+   "type": "collaborated_with",
+   "object": "Silvia Luraghi",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "This article results from the joint work of the authors. For academic purposes, Chiara Zanchi is responsible of sections 1, 2 and 3, Erica Biagetti of sections 4 and 6, and Silvia Luraghi of section 5.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "acl:biagetti-etal-2023-linking",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/acl/biagetti-etal-2023-linking.txt",
+ "meta": {
+  "title": "1 Abstract The Sanskrit WordNet is a resource currently under development, whose core was induced from a Vedic text sample semantically annotated by m",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

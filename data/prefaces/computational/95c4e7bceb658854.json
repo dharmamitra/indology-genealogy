@@ -1,0 +1,162 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Amrith Krishna",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Bishal Santra",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ashim Gupta",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Pavankumar Satuluri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Pawan Goyal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Amrith Krishna",
+   "type": "position_at",
+   "object": "University of Cambridge",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Amrith Krishna∗ Department of Computer Science and Technology University of Cambridge",
+   "quote_ok": false
+  },
+  {
+   "subject": "Bishal Santra",
+   "type": "position_at",
+   "object": "Indian Institute of Technology Kharagpur",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bishal Santra Department of Computer Science and Engineering Indian Institute of Technology Kharagpur",
+   "quote_ok": false
+  },
+  {
+   "subject": "Ashim Gupta",
+   "type": "position_at",
+   "object": "University of Utah",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ashim Gupta† School of Computing University of Utah",
+   "quote_ok": false
+  },
+  {
+   "subject": "Pavankumar Satuluri",
+   "type": "position_at",
+   "object": "Chinmaya Vishwavidyapeeth",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pavankumar Satuluri School of Linguistics & Literary Studies Chinmaya Vishwavidyapeeth",
+   "quote_ok": false
+  },
+  {
+   "subject": "Pawan Goyal",
+   "type": "position_at",
+   "object": "Indian Institute of Technology Kharagpur",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pawan Goyal Department of Computer Science and Engineering Indian Institute of Technology Kharagpur",
+   "quote_ok": false
+  },
+  {
+   "subject": "Amrith Krishna",
+   "type": "collaborated_with",
+   "object": "Bishal Santra",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A Graph-Based Framework for Structured Prediction Tasks in Sanskrit Amrith Krishna∗ Department of Computer Science and Technology University of Cambridge ak2329@cam.ac.uk Bishal Santra",
+   "quote_ok": false
+  },
+  {
+   "subject": "Amrith Krishna",
+   "type": "collaborated_with",
+   "object": "Ashim Gupta",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Amrith Krishna∗ ... Bishal Santra ... Ashim Gupta†",
+   "quote_ok": false
+  },
+  {
+   "subject": "Amrith Krishna",
+   "type": "collaborated_with",
+   "object": "Pavankumar Satuluri",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Amrith Krishna∗ ... Pavankumar Satuluri",
+   "quote_ok": false
+  },
+  {
+   "subject": "Amrith Krishna",
+   "type": "collaborated_with",
+   "object": "Pawan Goyal",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Amrith Krishna∗ ... Pawan Goyal",
+   "quote_ok": false
+  }
+ ],
+ "docid": "acl:krishna-etal-2020-graph",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/acl/krishna-etal-2020-graph.txt",
+ "meta": {
+  "title": "A Graph-Based Framework for Structured Prediction Tasks in Sanskrit Amrith Krishna∗ Department of Computer Science and Technology University of Cambri",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

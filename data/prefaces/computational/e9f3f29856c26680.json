@@ -1,0 +1,124 @@
+{
+ "author": "Yuzuki Tsukagoshi",
+ "doc_kind": "article",
+ "doc_year": 2025,
+ "people": [
+  {
+   "name": "Yuzuki Tsukagoshi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ryo Kuroiwa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ikki Ohmukai",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Yuzuki Tsukagoshi",
+   "type": "position_at",
+   "object": "The University of Tokyo",
+   "role": null,
+   "place": "Tokyo, Japan",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Yuzuki Tsukagoshi The University of Tokyo / Tokyo, Japan",
+   "quote_ok": false
+  },
+  {
+   "subject": "Ryo Kuroiwa",
+   "type": "position_at",
+   "object": "National Institute of Informatics",
+   "role": null,
+   "place": "Tokyo, Japan",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ryo Kuroiwa National Institute of Informatics / SOKENDAI / Tokyo, Japan",
+   "quote_ok": false
+  },
+  {
+   "subject": "Ryo Kuroiwa",
+   "type": "position_at",
+   "object": "SOKENDAI",
+   "role": null,
+   "place": "Tokyo, Japan",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ryo Kuroiwa National Institute of Informatics / SOKENDAI / Tokyo, Japan",
+   "quote_ok": false
+  },
+  {
+   "subject": "Ikki Ohmukai",
+   "type": "position_at",
+   "object": "The University of Tokyo",
+   "role": null,
+   "place": "Tokyo, Japan",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ikki Ohmukai The University of Tokyo / Tokyo, Japan",
+   "quote_ok": false
+  },
+  {
+   "subject": "Yuzuki Tsukagoshi",
+   "type": "collaborated_with",
+   "object": "Ryo Kuroiwa",
+   "role": "co-author",
+   "place": null,
+   "year_start": 2025,
+   "year_end": 2025,
+   "explicit": true,
+   "evidence": "Towards Accent-Aware Vedic Sanskrit Optical Character Recognition Based on Transformer Models Yuzuki Tsukagoshi The University of Tokyo / Tokyo, Japan yuzuki@l.u-tokyo.ac.jp Ryo Kuroiwa",
+   "quote_ok": false
+  },
+  {
+   "subject": "Yuzuki Tsukagoshi",
+   "type": "collaborated_with",
+   "object": "Ikki Ohmukai",
+   "role": "co-author",
+   "place": null,
+   "year_start": 2025,
+   "year_end": 2025,
+   "explicit": true,
+   "evidence": "Towards Accent-Aware Vedic Sanskrit Optical Character Recognition Based on Transformer Models Yuzuki Tsukagoshi The University of Tokyo / Tokyo, Japan ... Ikki Ohmukai",
+   "quote_ok": false
+  },
+  {
+   "subject": "Ryo Kuroiwa",
+   "type": "collaborated_with",
+   "object": "Ikki Ohmukai",
+   "role": "co-author",
+   "place": null,
+   "year_start": 2025,
+   "year_end": 2025,
+   "explicit": true,
+   "evidence": "Ryo Kuroiwa National Institute of Informatics / SOKENDAI / Tokyo, Japan kuroiwa@nii.ac.jp Ikki Ohmukai The University of Tokyo / Tokyo, Japan",
+   "quote_ok": false
+  }
+ ],
+ "docid": "acl:tsukagoshi-etal-2025-towards",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/acl/tsukagoshi-etal-2025-towards.txt",
+ "meta": {
+  "title": "Towards Accent-Aware Vedic Sanskrit Optical Character Recognition Based on Transformer Models Yuzuki Tsukagoshi The University of Tokyo / Tokyo, Japan",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

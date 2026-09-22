@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2016,
+ "people": [
+  {
+   "name": "Debarati Das",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Bhaskarjyoti Das",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Kavi Mahesh",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Debarati Das",
+   "type": "studied_at",
+   "object": "PES Institute of Technology",
+   "role": "UG student",
+   "place": "Karnataka, India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Debarati Das UG student,Dept. of CSE PES Institute of Technology Karnataka, India",
+   "quote_ok": false
+  },
+  {
+   "subject": "Bhaskarjyoti Das",
+   "type": "studied_at",
+   "object": "Visvesvaraya Technological University",
+   "role": "PG Student",
+   "place": "Karnataka, India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bhaskarjyoti Das PG Student, Dept. of CSE Visvesvaraya Technological University Karnataka, India",
+   "quote_ok": false
+  },
+  {
+   "subject": "Kavi Mahesh",
+   "type": "position_at",
+   "object": "PES University",
+   "role": "Dean of Research and Director KAnOE-Center for Knowledge Analytics and Ontological Engineering",
+   "place": "Bangalore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Kavi Mahesh Dean of Research and Director KAnOE-Center for Knowledge Analytics and Ontological Engineering PES University, Bangalore",
+   "quote_ok": false
+  },
+  {
+   "subject": "Debarati Das",
+   "type": "collaborated_with",
+   "object": "Bhaskarjyoti Das",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2016,
+   "explicit": true,
+   "evidence": "A computational analysis of Mahabharata Debarati Das UG student,Dept. of CSE PES Institute of Technology Karnataka, India Debarati.d1994 @gmail.com Bhaskarjyoti Das",
+   "quote_ok": false
+  },
+  {
+   "subject": "Debarati Das",
+   "type": "collaborated_with",
+   "object": "Kavi Mahesh",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2016,
+   "explicit": true,
+   "evidence": "A computational analysis of Mahabharata Debarati Das ... Bhaskarjyoti Das ... Kavi Mahesh Dean of Research and Director",
+   "quote_ok": false
+  },
+  {
+   "subject": "Bhaskarjyoti Das",
+   "type": "collaborated_with",
+   "object": "Kavi Mahesh",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2016,
+   "explicit": true,
+   "evidence": "Bhaskarjyoti Das ... Kavi Mahesh Dean of Research and Director KAnOE-Center for Knowledge Analytics and Ontological Engineering PES University, Bangalore",
+   "quote_ok": false
+  }
+ ],
+ "docid": "acl:das-etal-2016-computational",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/acl/das-etal-2016-computational.txt",
+ "meta": {
+  "title": "D S Sharma, R Sangal and A K Singh. Proc. of the 13th Intl. Conference on Natural Language Processing, pages 219–228, Varanasi, India. December 2016. ",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

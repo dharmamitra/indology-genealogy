@@ -1,0 +1,119 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Hrishikesh Terdalkar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Computer Science"
+  },
+  {
+   "name": "Arnab Bhattacharya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Computer Science"
+  },
+  {
+   "name": "Sai Susarla",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Pralay Manna",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hrishikesh Terdalkar",
+   "type": "collaborated_with",
+   "object": "Arnab Bhattacharya",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Framework for Question-Answering in Sanskrit through Automated Construction of Knowledge Graphs Hrishikesh Terdalkar Arnab Bhattacharya",
+   "quote_ok": false
+  },
+  {
+   "subject": "Hrishikesh Terdalkar",
+   "type": "position_at",
+   "object": "Indian Institute of Technology Kanpur",
+   "role": null,
+   "place": "Kanpur, India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hrishikesh Terdalkar Arnab Bhattacharya hrishirt@cse.iitk.ac.in arnabb@cse.iitk.ac.in Dept. of Computer Science and Engineering, Indian Institute of Technology Kanpur, India.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Arnab Bhattacharya",
+   "type": "position_at",
+   "object": "Indian Institute of Technology Kanpur",
+   "role": null,
+   "place": "Kanpur, India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hrishikesh Terdalkar Arnab Bhattacharya hrishirt@cse.iitk.ac.in arnabb@cse.iitk.ac.in Dept. of Computer Science and Engineering, Indian Institute of Technology Kanpur, India.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Sai Susarla",
+   "type": "position_at",
+   "object": "Maharshi Veda Vyas MIT School of Vedic Sciences",
+   "role": "Dean",
+   "place": "Pune, India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "We thank Dr. Sai Susarla, Dean at Maharshi Veda Vyas MIT School of Vedic Sciences, Pune, India, and his team",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hrishikesh Terdalkar",
+   "type": "student_of",
+   "object": "Pralay Manna",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "We thank our saṃskṛta teacher Pralay Manna for enabling us in understanding the language better.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arnab Bhattacharya",
+   "type": "student_of",
+   "object": "Pralay Manna",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "We thank our saṃskṛta teacher Pralay Manna for enabling us in understanding the language better.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "arxiv:1a233e5ed5dffa21eb1471848d54b0465d82d385",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/arxiv/1a233e5ed5dffa21eb1471848d54b0465d82d385.txt",
+ "meta": {
+  "title": "Framework for Question-Answering in Sanskrit through Automated Construction of Knowledge Graphs Hrishikesh Terdalkar Arnab Bhattacharya hrishirt@cse.i",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

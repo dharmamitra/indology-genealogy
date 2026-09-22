@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Marieke Meelen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Élie Roux",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Marieke Meelen",
+   "type": "position_at",
+   "object": "University of Cambridge",
+   "role": null,
+   "place": "Cambridge, UK",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Marieke Meelen University of Cambridge Trinity Hall, Trinity Lane Cambridge, UK",
+   "quote_ok": false
+  },
+  {
+   "subject": "Élie Roux",
+   "type": "position_at",
+   "object": "Buddhist Digital Resource Center",
+   "role": null,
+   "place": "Cambridge, MA, USA",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Élie Roux Buddhist Digital Resource Center 1430 Massachusetts Ave., 5th floor Cambridge, MA, USA",
+   "quote_ok": false
+  },
+  {
+   "subject": "Marieke Meelen",
+   "type": "collaborated_with",
+   "object": "Élie Roux",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Meta-dating the PArsed Corpus of Tibetan (PACTib) Marieke Meelen ... Élie Roux",
+   "quote_ok": false
+  }
+ ],
+ "docid": "acl:meelen-roux-2020-meta",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/acl/meelen-roux-2020-meta.txt",
+ "meta": {
+  "title": "Meta-dating the PArsed Corpus of Tibetan (PACTib) Marieke Meelen University of Cambridge Trinity Hall, Trinity Lane Cambridge, UK, CB2 1TJ mm986@cam.a",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

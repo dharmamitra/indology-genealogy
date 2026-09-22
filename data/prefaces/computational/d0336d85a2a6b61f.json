@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ayush Maheshwari",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ashim Gupta",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ganesh Ramakrishnan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ayush Maheshwari",
+   "type": "studied_at",
+   "object": "IIT Bombay",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ayush Maheshwari was supported by a fellow- ship from the Ekal Foundation during his Ph.D. at IIT Bombay.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ganesh Ramakrishnan",
+   "type": "position_at",
+   "object": "IIT Bombay",
+   "role": "Institute Chair Professorship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ganesh Ramakrishnan is also grate- ful to the National Language Translation Mission (NLTM): Bhashini project by Government of India and IIT Bombay Institute Chair Professorship",
+   "quote_ok": true
+  }
+ ],
+ "docid": "arxiv:d1e7b054578ae0606effe63ab8402861ec54a49e",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/arxiv/d1e7b054578ae0606effe63ab8402861ec54a49e.txt",
+ "meta": {
+  "title": "Sāmayik: A Benchmark and Dataset for English-Sanskrit Translation Ayush Maheshwari1∗, Ashim Gupta2, Amrith Krishna3, Atul Kumar Singh4, Ganesh Ramakri",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

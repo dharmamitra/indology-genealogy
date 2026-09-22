@@ -1,0 +1,119 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 1993,
+ "people": [
+  {
+   "name": "Akshar Bharati",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "computational linguistics"
+  },
+  {
+   "name": "Rajeev Sangal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "computational linguistics"
+  },
+  {
+   "name": "Vineet Chaitanya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "K.V. Ramakrishnamacharyulu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Akshar Bharati",
+   "type": "collaborated_with",
+   "object": "Rajeev Sangal",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Parsing Free Word Order Languages in the Paninian Framework Akshar Bharati Rajeev Sangal",
+   "quote_ok": false
+  },
+  {
+   "subject": "Akshar Bharati",
+   "type": "collaborated_with",
+   "object": "Vineet Chaitanya",
+   "role": "co-author",
+   "place": null,
+   "year_start": 1990,
+   "year_end": 1992,
+   "explicit": true,
+   "evidence": "Bharati, Akshar, Vineet Chaitanya, and Rajeev Sangal, A Computational Grammar for Indian Languages Processing, Journal of Indian Linguistics, IL-51. (Also available as TRCS-90-96",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rajeev Sangal",
+   "type": "collaborated_with",
+   "object": "Vineet Chaitanya",
+   "role": "co-author",
+   "place": null,
+   "year_start": 1990,
+   "year_end": 1992,
+   "explicit": true,
+   "evidence": "Bharati, Akshar, Vineet Chaitanya, and Rajeev Sangal, A Computational Grammar for Indian Languages Processing, Journal of Indian Linguistics, IL-51. (Also available as TRCS-90-96",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rajeev Sangal",
+   "type": "position_at",
+   "object": "Indian Institute of Technology Kanpur",
+   "role": null,
+   "place": "Kanpur",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rajeev Sangal Department of Computer Science and Engineering Indian Institute of Technology Kanpur",
+   "quote_ok": false
+  },
+  {
+   "subject": "Akshar Bharati",
+   "type": "position_at",
+   "object": "Indian Institute of Technology Kanpur",
+   "role": null,
+   "place": "Kanpur",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Akshar Bharati Rajeev Sangal Department of Computer Science and Engineering Indian Institute of Technology Kanpur",
+   "quote_ok": false
+  },
+  {
+   "subject": "K.V. Ramakrishnamacharyulu",
+   "type": "position_at",
+   "object": "Rashtriya Sanskrit Sansthan",
+   "role": null,
+   "place": "Tirupati",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "K.V. Ramakrishnamacharyulu of Rashtriya San- skrit Sansthan, Tirupati",
+   "quote_ok": true
+  }
+ ],
+ "docid": "acl:bharati-sangal-1993-parsing",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/acl/bharati-sangal-1993-parsing.txt",
+ "meta": {
+  "title": "Parsing Free Word Order Languages in the Paninian Framework Akshar Bharati Rajeev Sangal Department of Computer Science and Engineering Indian Institu",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

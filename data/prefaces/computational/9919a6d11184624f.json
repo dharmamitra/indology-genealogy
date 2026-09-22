@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Máté Metzger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Hungarian",
+   "field": null
+  },
+  {
+   "name": "Nadnapang Phophichit",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hansa Dhammahaso",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Nadnapang Phophichit",
+   "type": "position_at",
+   "object": "Nibbana Meditation Centre",
+   "role": null,
+   "place": "Thailand",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nadnapang Phophichit, Nibbana Meditation Centre, Thailand",
+   "quote_ok": false
+  },
+  {
+   "subject": "Hansa Dhammahaso",
+   "type": "position_at",
+   "object": "Nibbana Meditation Centre",
+   "role": null,
+   "place": "Thailand",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hansa Dhammahaso, Nibbana Meditation Centre, Thailand",
+   "quote_ok": false
+  },
+  {
+   "subject": "Máté Metzger",
+   "type": "collaborated_with",
+   "object": "Nadnapang Phophichit",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From Outliers to Errors: Auditing Pali-to-English LLM Translations with Multi-Reference Adjudication Máté Metzger, Independent Researcher, Hungary Nadnapang Phophichit",
+   "quote_ok": false
+  },
+  {
+   "subject": "Máté Metzger",
+   "type": "collaborated_with",
+   "object": "Hansa Dhammahaso",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From Outliers to Errors: Auditing Pali-to-English LLM Translations with Multi-Reference Adjudication Máté Metzger, Independent Researcher, Hungary Nadnapang Phophichit, Nibbana Meditation Centre, Thailand Hansa Dhammahaso",
+   "quote_ok": false
+  },
+  {
+   "subject": "Nadnapang Phophichit",
+   "type": "collaborated_with",
+   "object": "Hansa Dhammahaso",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nadnapang Phophichit, Nibbana Meditation Centre, Thailand Hansa Dhammahaso, Nibbana Meditation Centre, Thailand",
+   "quote_ok": false
+  }
+ ],
+ "docid": "arxiv:4f6cbb894e7ca6e3e1b04fdab6af31051df87c6f",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/arxiv/4f6cbb894e7ca6e3e1b04fdab6af31051df87c6f.txt",
+ "meta": {
+  "title": "From Outliers to Errors: Auditing Pali-to-English LLM Translations with Multi-Reference Adjudication Máté Metzger, Independent Researcher, Hungary Nad",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,119 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ayush Maheshwari",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Nikhil Singh",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Amrith Krishna",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ganesh Ramakrishnan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ayush Maheshwari",
+   "type": "collaborated_with",
+   "object": "Nikhil Singh",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A Benchmark and Dataset for Post-OCR text correction in Sanskrit Ayush Maheshwari1, Nikhil Singh∗, Amrith Krishna2 and Ganesh Ramakrishnan1",
+   "quote_ok": false
+  },
+  {
+   "subject": "Ayush Maheshwari",
+   "type": "collaborated_with",
+   "object": "Amrith Krishna",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A Benchmark and Dataset for Post-OCR text correction in Sanskrit Ayush Maheshwari1, Nikhil Singh∗, Amrith Krishna2 and Ganesh Ramakrishnan1",
+   "quote_ok": false
+  },
+  {
+   "subject": "Ayush Maheshwari",
+   "type": "collaborated_with",
+   "object": "Ganesh Ramakrishnan",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A Benchmark and Dataset for Post-OCR text correction in Sanskrit Ayush Maheshwari1, Nikhil Singh∗, Amrith Krishna2 and Ganesh Ramakrishnan1",
+   "quote_ok": false
+  },
+  {
+   "subject": "Ayush Maheshwari",
+   "type": "position_at",
+   "object": "Indian Institute of Technology Bombay",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ayush Maheshwari1, Nikhil Singh∗, Amrith Krishna2 and Ganesh Ramakrishnan1 ... 1Indian Institute of Technology Bombay",
+   "quote_ok": false
+  },
+  {
+   "subject": "Ganesh Ramakrishnan",
+   "type": "position_at",
+   "object": "Indian Institute of Technology Bombay",
+   "role": "Institute Chair Professorship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ganesh Ramakrishnan is grateful to NLTM OCR Bhashini project as well as the IIT Bombay Institute Chair Professorship for their support and sponsorship.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Amrith Krishna",
+   "type": "position_at",
+   "object": "Uniphore",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Amrith Krishna2 and Ganesh Ramakrishnan1 ... 2Uniphore",
+   "quote_ok": false
+  }
+ ],
+ "docid": "arxiv:d50b9db750ded246bde13e2c263e341bcbd8a335",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/arxiv/d50b9db750ded246bde13e2c263e341bcbd8a335.txt",
+ "meta": {
+  "title": "A Benchmark and Dataset for Post-OCR text correction in Sanskrit Ayush Maheshwari1, Nikhil Singh∗, Amrith Krishna2 and Ganesh Ramakrishnan1 {ayusham,g",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

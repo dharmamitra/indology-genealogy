@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2023,
+ "people": [
+  {
+   "name": "Vishvajitsinh Bakrola",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jitendra Nasariwala",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Shripad Damodar Satwalekar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit language"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Vishvajitsinh Bakrola",
+   "type": "collaborated_with",
+   "object": "Jitendra Nasariwala",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "SAHAAYAK 2023 - the Multi Domain Bilingual Parallel Corpus of Sanskrit to Hindi for Machine Translation Vishvajitsinh Bakrola 1 Dr. Jitendra Nasariwala 2",
+   "quote_ok": false
+  },
+  {
+   "subject": "Vishvajitsinh Bakrola",
+   "type": "influenced_by",
+   "object": "Shripad Damodar Satwalekar",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "showing deep gratitude towards Maharshi Panini, the complete source of inspiration to work in the direction of Sanskrit based computational linguistics and Padmabhusan Shripad Damodar Satwalekar",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jitendra Nasariwala",
+   "type": "influenced_by",
+   "object": "Shripad Damodar Satwalekar",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "showing deep gratitude towards Maharshi Panini, the complete source of inspiration to work in the direction of Sanskrit based computational linguistics and Padmabhusan Shripad Damodar Satwalekar",
+   "quote_ok": true
+  }
+ ],
+ "docid": "arxiv:da12e99ca26d9c91b086fa8410ec01c4963895c1",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/arxiv/da12e99ca26d9c91b086fa8410ec01c4963895c1.txt",
+ "meta": {
+  "title": "SAHAAYAK 2023 - the Multi Domain Bilingual Parallel Corpus of Sanskrit to Hindi for Machine Translation Vishvajitsinh Bakrola 1 Dr. Jitendra Nasariwal",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

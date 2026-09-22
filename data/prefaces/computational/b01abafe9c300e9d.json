@@ -1,0 +1,124 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Zewang Kuanzhuo",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Computational Linguistics"
+  },
+  {
+   "name": "Lin Li",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Computer Science"
+  },
+  {
+   "name": "Weina Zhao",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Computer Science"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Zewang Kuanzhuo",
+   "type": "collaborated_with",
+   "object": "Lin Li",
+   "role": "co-author",
+   "place": null,
+   "year_start": 2020,
+   "year_end": 2020,
+   "explicit": true,
+   "evidence": "SimpleNLG-TI: Adapting SimpleNLG to Tibetan Zewang Kuanzhuo ... Lin Li ... Weina Zhao",
+   "quote_ok": false
+  },
+  {
+   "subject": "Zewang Kuanzhuo",
+   "type": "collaborated_with",
+   "object": "Weina Zhao",
+   "role": "co-author",
+   "place": null,
+   "year_start": 2020,
+   "year_end": 2020,
+   "explicit": true,
+   "evidence": "SimpleNLG-TI: Adapting SimpleNLG to Tibetan Zewang Kuanzhuo ... Lin Li ... Weina Zhao",
+   "quote_ok": false
+  },
+  {
+   "subject": "Lin Li",
+   "type": "collaborated_with",
+   "object": "Weina Zhao",
+   "role": "co-author",
+   "place": null,
+   "year_start": 2020,
+   "year_end": 2020,
+   "explicit": true,
+   "evidence": "SimpleNLG-TI: Adapting SimpleNLG to Tibetan Zewang Kuanzhuo ... Lin Li ... Weina Zhao",
+   "quote_ok": false
+  },
+  {
+   "subject": "Zewang Kuanzhuo",
+   "type": "position_at",
+   "object": "Qinghai Normal University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zewang Kuanzhuo Tibetan information processing and Machine Translation Key Laboratory of Qinghai Province, Qinghai Normal University",
+   "quote_ok": false
+  },
+  {
+   "subject": "Lin Li",
+   "type": "position_at",
+   "object": "Utrecht University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Lin Li Information and Computing Sciences, Utrecht University",
+   "quote_ok": false
+  },
+  {
+   "subject": "Lin Li",
+   "type": "position_at",
+   "object": "Qinghai Normal University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Lin Li ... Department of Computer Science, Qinghai Normal University",
+   "quote_ok": false
+  },
+  {
+   "subject": "Weina Zhao",
+   "type": "position_at",
+   "object": "Qinghai Normal University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Weina Zhao Department of Computer Science, Qinghai Normal University",
+   "quote_ok": false
+  }
+ ],
+ "docid": "acl:kuanzhuo-etal-2020-simplenlg",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/acl/kuanzhuo-etal-2020-simplenlg.txt",
+ "meta": {
+  "title": "Proceedings of The 13th International Conference on Natural Language Generation, pages 86–90, Dublin, Ireland, 15-18 December, 2020. c⃝2020 Associatio",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

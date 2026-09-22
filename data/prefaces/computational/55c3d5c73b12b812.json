@@ -1,0 +1,126 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2014,
+ "people": [
+  {
+   "name": "Pawan Goyal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Computational Linguistics"
+  },
+  {
+   "name": "Amba Kulkarni",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Gérard Huet",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Emilie Aussant",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sylvie Archaimbault",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Pawan Goyal",
+   "type": "collaborated_with",
+   "object": "Amba Kulkarni",
+   "role": null,
+   "place": null,
+   "year_start": 2014,
+   "year_end": 2014,
+   "explicit": true,
+   "evidence": "Converting Phrase Structures to Dependency Structures in Sanskrit Pawan Goyal Department of CSE Indian Institute of Technology Kharagpur ... Amba Kulkarni Department of Sanskrit Studies",
+   "quote_ok": false
+  },
+  {
+   "subject": "Pawan Goyal",
+   "type": "position_at",
+   "object": "Indian Institute of Technology Kharagpur",
+   "role": null,
+   "place": "Kharagpur, India",
+   "year_start": null,
+   "year_end": 2014,
+   "explicit": true,
+   "evidence": "Pawan Goyal Department of CSE Indian Institute of Technology Kharagpur, India – 721302",
+   "quote_ok": false
+  },
+  {
+   "subject": "Amba Kulkarni",
+   "type": "position_at",
+   "object": "University of Hyderabad",
+   "role": null,
+   "place": "Hyderabad, India",
+   "year_start": null,
+   "year_end": 2014,
+   "explicit": true,
+   "evidence": "Amba Kulkarni Department of Sanskrit Studies University of Hyderabad Hyderabad, India – 500046",
+   "quote_ok": false
+  },
+  {
+   "subject": "Gérard Huet",
+   "type": "position_at",
+   "object": "INRIA Paris Rocquencourt",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2014,
+   "explicit": true,
+   "evidence": "G´erard Huet, INRIA Paris Rocquencourt",
+   "quote_ok": true
+  },
+  {
+   "subject": "Emilie Aussant",
+   "type": "position_at",
+   "object": "Université Paris Diderot",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2014,
+   "explicit": true,
+   "evidence": "Emilie Aussant and Sylvie Archaimbault, laboratoire HTL, Universit´e Paris Diderot.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sylvie Archaimbault",
+   "type": "position_at",
+   "object": "Université Paris Diderot",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2014,
+   "explicit": true,
+   "evidence": "Emilie Aussant and Sylvie Archaimbault, laboratoire HTL, Universit´e Paris Diderot.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "acl:goyal-kulkarni-2014-converting",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/acl/goyal-kulkarni-2014-converting.txt",
+ "meta": {
+  "title": "Proceedings of COLING 2014, the 25th International Conference on Computational Linguistics: Technical Papers, pages 1834–1843, Dublin, Ireland, August",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,123 @@
+{
+ "author": "Enbo Hu",
+ "doc_kind": "article",
+ "doc_year": 2023,
+ "people": [
+  {
+   "name": "Enbo Hu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Zhen Liu 劉震",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Johannes Schneider",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jens-Uwe Hartmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Junjiro Takakusu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kaigyoku Watanabe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Otto Böhtlingk",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rudolf Roth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Enbo Hu",
+   "type": "student_of",
+   "object": "Johannes Schneider",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "the paper has also benefitted from Prof. Johannes Schneider’s seminar regarding the manuscripts pertaining to the “Liu-Schneider-Hymns”.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Zhen Liu 劉震",
+   "type": "collaborated_with",
+   "object": "Johannes Schneider",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": 2022,
+   "explicit": true,
+   "evidence": "Liu, Zhen 劉震 and Johannes Schneider 2022. Buddhist Hymns: A New Collection.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Junjiro Takakusu",
+   "type": "collaborated_with",
+   "object": "Kaigyoku Watanabe",
+   "role": "co-editors",
+   "place": null,
+   "year_start": 1924,
+   "year_end": 1934,
+   "explicit": true,
+   "evidence": "Taishō Shinshū Daizōkyō (大正新修大藏經, The Tripiṭaka in Chinese). Ed. by Junjiro Takakusu and Kaigyoku Watanabe. 100 vols. Tokyo: Taisho Issaikyo Kankokai, 1924–1934.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Böhtlingk",
+   "type": "collaborated_with",
+   "object": "Rudolf Roth",
+   "role": "co-authors",
+   "place": null,
+   "year_start": 1855,
+   "year_end": 1875,
+   "explicit": true,
+   "evidence": "Böhtlingk, Otto and Rudolf Roth 1855‒1875. Sanskrit-Wörterbuch. 7 vols.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "arxiv:6569d835cae9e5610d9612fe89377a7f4849456b",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/arxiv/6569d835cae9e5610d9612fe89377a7f4849456b.txt",
+ "meta": {
+  "title": "Acta Asiatica Varsoviensia 36 (2023): 69–90 https://doi.org/10.60018/AcAsVa.spvj9399 Study of a Newly Identified Sanskrit Manuscript of the Saptajinas",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

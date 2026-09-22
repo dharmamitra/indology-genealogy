@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2023,
+ "people": [
+  {
+   "name": "Congjun Long",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Bo An",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "John Timothy King",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "linguistics"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Congjun Long",
+   "type": "collaborated_with",
+   "object": "Bo An",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": 2023,
+   "explicit": true,
+   "evidence": "On the Development of Interlinearized Ancient Literature of Ethnic Minorities: A Case Study of the Interlinearization of Ancient Written Tibetan Literature Congjun Long and Bo An",
+   "quote_ok": false
+  },
+  {
+   "subject": "Congjun Long",
+   "type": "position_at",
+   "object": "Institute of Ethnology and Anthropology,Chinese Academy of Social Sciences",
+   "role": null,
+   "place": "Beijing, China",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Congjun Long and Bo An Institute of Ethnology and Anthropology,Chinese Academy of Social Sciences",
+   "quote_ok": false
+  },
+  {
+   "subject": "Bo An",
+   "type": "position_at",
+   "object": "Institute of Ethnology and Anthropology,Chinese Academy of Social Sciences",
+   "role": null,
+   "place": "Beijing, China",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Congjun Long and Bo An Institute of Ethnology and Anthropology,Chinese Academy of Social Sciences",
+   "quote_ok": false
+  },
+  {
+   "subject": "John Timothy King",
+   "type": "studied_at",
+   "object": "Leiden University",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 2008,
+   "explicit": true,
+   "evidence": "John Timothy King. 2008. A grammar of Dhimal. Ph.D. thesis, Leiden University.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "acl:long-an-2023-development",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/acl/long-an-2023-development.txt",
+ "meta": {
+  "title": "Proceedings of the Ancient Language Processing Workshop associated with RANLP-2023, pages 222–231, held in Varna Bulgaria, Sept 8, 2023. https://doi.o",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

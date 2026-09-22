@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2025,
+ "people": [
+  {
+   "name": "Siddhant Gupta",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Siddh Singhal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Azmine Toushik Wasi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Siddhant Gupta",
+   "type": "collaborated_with",
+   "object": "Siddh Singhal",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2025,
+   "explicit": true,
+   "evidence": "Siddhant Gupta1, Siddh Singhal1, and Azmine Toushik Wasi2",
+   "quote_ok": false
+  },
+  {
+   "subject": "Siddhant Gupta",
+   "type": "collaborated_with",
+   "object": "Azmine Toushik Wasi",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2025,
+   "explicit": true,
+   "evidence": "Siddhant Gupta1, Siddh Singhal1, and Azmine Toushik Wasi2",
+   "quote_ok": false
+  },
+  {
+   "subject": "Siddh Singhal",
+   "type": "collaborated_with",
+   "object": "Azmine Toushik Wasi",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2025,
+   "explicit": true,
+   "evidence": "Siddhant Gupta1, Siddh Singhal1, and Azmine Toushik Wasi2",
+   "quote_ok": false
+  },
+  {
+   "subject": "Siddhant Gupta",
+   "type": "position_at",
+   "object": "Indian Institute of Technology, Roorkee",
+   "role": null,
+   "place": "India",
+   "year_start": null,
+   "year_end": 2025,
+   "explicit": true,
+   "evidence": "Siddhant Gupta1, Siddh Singhal1... 1Indian Institute of Technology, Roorkee, India",
+   "quote_ok": false
+  },
+  {
+   "subject": "Siddh Singhal",
+   "type": "position_at",
+   "object": "Indian Institute of Technology, Roorkee",
+   "role": null,
+   "place": "India",
+   "year_start": null,
+   "year_end": 2025,
+   "explicit": true,
+   "evidence": "Siddh Singhal1... 1Indian Institute of Technology, Roorkee, India",
+   "quote_ok": false
+  },
+  {
+   "subject": "Azmine Toushik Wasi",
+   "type": "studied_at",
+   "object": "Shahjalal University of Science and Technology",
+   "role": null,
+   "place": "Sylhet, Bangladesh",
+   "year_start": null,
+   "year_end": 2025,
+   "explicit": true,
+   "evidence": "Azmine Toushik Wasi2 2Shahjalal University of Science and Technology, Sylhet, Bangladesh siddhant_g@me.iitr.ac.in, siddh_s@ee.iitr.ac.in, azmine32@student.sust.edu",
+   "quote_ok": false
+  }
+ ],
+ "docid": "acl:gupta-etal-2025-iitr",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/acl/gupta-etal-2025-iitr.txt",
+ "meta": {
+  "title": "Proceedings of the First Workshop on Challenges in Processing South Asian Languages (CHiPSAL 2025), pages 295–300 January 19, 2025. ©2025 Internationa",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

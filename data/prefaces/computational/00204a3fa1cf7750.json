@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Amrith Krishna",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Computer Science"
+  },
+  {
+   "name": "Bodhisattwa Prasad Majumder",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Computer Science"
+  },
+  {
+   "name": "Rajesh Shreedhar Bhat",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Pawan Goyal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Computer Science"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Amrith Krishna",
+   "type": "collaborated_with",
+   "object": "Bodhisattwa Prasad Majumder",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Upcycle Your OCR: Reusing OCRs for Post-OCR Text Correction in Romanised Sanskrit Amrith Krishna#, Bodhisattwa Prasad Majumder*, Rajesh Shreedhar Bhat**, and Pawan Goyal#",
+   "quote_ok": false
+  },
+  {
+   "subject": "Amrith Krishna",
+   "type": "collaborated_with",
+   "object": "Rajesh Shreedhar Bhat",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Upcycle Your OCR: Reusing OCRs for Post-OCR Text Correction in Romanised Sanskrit Amrith Krishna#, Bodhisattwa Prasad Majumder*, Rajesh Shreedhar Bhat**, and Pawan Goyal#",
+   "quote_ok": false
+  },
+  {
+   "subject": "Amrith Krishna",
+   "type": "collaborated_with",
+   "object": "Pawan Goyal",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Upcycle Your OCR: Reusing OCRs for Post-OCR Text Correction in Romanised Sanskrit Amrith Krishna#, Bodhisattwa Prasad Majumder*, Rajesh Shreedhar Bhat**, and Pawan Goyal#",
+   "quote_ok": false
+  },
+  {
+   "subject": "Amrith Krishna",
+   "type": "position_at",
+   "object": "IIT Kharagpur",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Amrith Krishna#, Bodhisattwa Prasad Majumder*, Rajesh Shreedhar Bhat**, and Pawan Goyal# #Dept. of Computer Science and Engineering, IIT Kharagpur",
+   "quote_ok": false
+  },
+  {
+   "subject": "Pawan Goyal",
+   "type": "position_at",
+   "object": "IIT Kharagpur",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Amrith Krishna#, Bodhisattwa Prasad Majumder*, Rajesh Shreedhar Bhat**, and Pawan Goyal# #Dept. of Computer Science and Engineering, IIT Kharagpur",
+   "quote_ok": false
+  },
+  {
+   "subject": "Bodhisattwa Prasad Majumder",
+   "type": "position_at",
+   "object": "University of California, San Diego",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bodhisattwa Prasad Majumder*, Rajesh Shreedhar Bhat**, and Pawan Goyal# ... *Dept. of Computer Science, University of California, San Diego",
+   "quote_ok": false
+  },
+  {
+   "subject": "Rajesh Shreedhar Bhat",
+   "type": "position_at",
+   "object": "Walmart Labs, India",
+   "role": null,
+   "place": "India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rajesh Shreedhar Bhat**, and Pawan Goyal# ... **Walmart Labs, India",
+   "quote_ok": false
+  }
+ ],
+ "docid": "arxiv:fee5ba6841a176a8f5d039542a86f59bed1f1bbf",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/arxiv/fee5ba6841a176a8f5d039542a86f59bed1f1bbf.txt",
+ "meta": {
+  "title": "Upcycle Your OCR: Reusing OCRs for Post-OCR Text Correction in Romanised Sanskrit Amrith Krishna#, Bodhisattwa Prasad Majumder*, Rajesh Shreedhar Bhat",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

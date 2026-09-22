@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2023,
+ "people": [
+  {
+   "name": "Kartik Bhatnagar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Computer Science"
+  },
+  {
+   "name": "Sampath Lonka",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Computer Science"
+  },
+  {
+   "name": "Jammi Kunal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Computer Science"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Kartik Bhatnagar",
+   "type": "position_at",
+   "object": "Sri Sathya Sai Institute of Higher Learning",
+   "role": null,
+   "place": "Prashanti Nilayam, Andra Pradesh, IN",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Kartik Bhatnagar Department of Mathematics and Computer Science Sri Sathya Sai Institute of Higher Learning Prashanti Nilayam, Andra Pradesh, IN",
+   "quote_ok": false
+  },
+  {
+   "subject": "Sampath Lonka",
+   "type": "position_at",
+   "object": "Sri Sathya Sai Institute of Higher Learning",
+   "role": null,
+   "place": "Prashanti Nilayam, Andra Pradesh, IN",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sampath Lonka Department of Mathematics and Computer Science Sri Sathya Sai Institute of Higher Learning Prashanti Nilayam, Andra Pradesh, IN",
+   "quote_ok": false
+  },
+  {
+   "subject": "Jammi Kunal",
+   "type": "position_at",
+   "object": "Sri Sathya Sai Institute of Higher Learning",
+   "role": null,
+   "place": "Prashanti Nilayam, Andra Pradesh, IN",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Jammi Kunal Department of Mathematics and Computer Science Sri Sathya Sai Institute of Higher Learning Prashanti Nilayam, Andra Pradesh, IN",
+   "quote_ok": false
+  },
+  {
+   "subject": "Kartik Bhatnagar",
+   "type": "collaborated_with",
+   "object": "Sampath Lonka",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "SAN-BERT: EXTRACTIVE SUMMARIZATION FOR SANSKRIT DOCUMENTS USING BERT AND ITS VARIANTS Kartik Bhatnagar... Sampath Lonka... Jammi Kunal",
+   "quote_ok": false
+  },
+  {
+   "subject": "Kartik Bhatnagar",
+   "type": "collaborated_with",
+   "object": "Jammi Kunal",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "SAN-BERT: EXTRACTIVE SUMMARIZATION FOR SANSKRIT DOCUMENTS USING BERT AND ITS VARIANTS Kartik Bhatnagar... Sampath Lonka... Jammi Kunal",
+   "quote_ok": false
+  }
+ ],
+ "docid": "arxiv:2ecafa04db2825561d21c73b71f12e11a533daeb",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/arxiv/2ecafa04db2825561d21c73b71f12e11a533daeb.txt",
+ "meta": {
+  "title": "SAN-BERT: EXTRACTIVE SUMMARIZATION FOR SANSKRIT DOCUMENTS USING BERT AND ITS VARIANTS Kartik Bhatnagar Department of Mathematics and Computer Science ",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

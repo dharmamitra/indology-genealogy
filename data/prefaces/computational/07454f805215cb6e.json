@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Leander Girrbach",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jingwen Li",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Leander Girrbach",
+   "type": "collaborated_with",
+   "object": "Jingwen Li",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Word Segmentation and Morphological Parsing for Sanskrit Leander Girrbach and Jingwen Li",
+   "quote_ok": false
+  },
+  {
+   "subject": "Leander Girrbach",
+   "type": "studied_at",
+   "object": "University of Tübingen",
+   "role": "student",
+   "place": "Germany",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Leander Girrbach and Jingwen Li University of Tübingen, Germany {leander.girrbach, jingwen.li}@student.uni-tuebingen.de",
+   "quote_ok": false
+  },
+  {
+   "subject": "Jingwen Li",
+   "type": "studied_at",
+   "object": "University of Tübingen",
+   "role": "student",
+   "place": "Germany",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Leander Girrbach and Jingwen Li University of Tübingen, Germany {leander.girrbach, jingwen.li}@student.uni-tuebingen.de",
+   "quote_ok": false
+  }
+ ],
+ "docid": "arxiv:fa75f13266a99793352c2c1fb14e6ee3901a55a1",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/arxiv/fa75f13266a99793352c2c1fb14e6ee3901a55a1.txt",
+ "meta": {
+  "title": "Word Segmentation and Morphological Parsing for Sanskrit Leander Girrbach and Jingwen Li University of Tübingen, Germany {leander.girrbach, jingwen.li",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,90 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Guangrong Zhou",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Claus Peter Zoller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hong Luo",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Suping Dang",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Yinghua Liu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Claus Peter Zoller",
+   "type": "collaborated_with",
+   "object": "Hong Luo",
+   "role": "editors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "REDIGENDA CURAVERUNT CLAUS PETER ZOLLER & HONG LUO",
+   "quote_ok": true
+  },
+  {
+   "subject": "Suping Dang",
+   "type": "collaborated_with",
+   "object": "Yinghua Liu",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "SUPING DANG & YINGHUA LIU: Textual Study on the Relationship between Season and Disease",
+   "quote_ok": true
+  },
+  {
+   "subject": "Guangrong Zhou",
+   "type": "position_at",
+   "object": "Institute of World Religions, Chinese Academy of Social Sciences",
+   "role": null,
+   "place": "Beijing",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Guangrong Zhou Institute of World Religions, Chinese Academy of Social Sciences",
+   "quote_ok": true
+  }
+ ],
+ "docid": "arxiv:ef05a17afa8a66440d7db7a5e1aa2805da525ac1",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/arxiv/ef05a17afa8a66440d7db7a5e1aa2805da525ac1.txt",
+ "meta": {
+  "title": "ACTA ORIENTALIA EDIDERUNT SOCIETATES ORIENTALES DANICA FENNICA NORVEGIA SVECIA CURANTIBUS DIWAKAR ACHARYA, OXFORD SHRIKANT BAHULKAR, PUNE SAROJA BHATE",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

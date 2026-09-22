@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2025,
+ "people": [
+  {
+   "name": "Shuheng Liu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Computational Linguistics"
+  },
+  {
+   "name": "Michael Best",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Computational Linguistics"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Shuheng Liu",
+   "type": "collaborated_with",
+   "object": "Michael Best",
+   "role": "co-author",
+   "place": null,
+   "year_start": 2025,
+   "year_end": 2025,
+   "explicit": true,
+   "evidence": "A Survey of NLP Progress in Sino-Tibetan Low-Resource Languages Shuheng Liu and Michael Best Georgia Institute of Technology",
+   "quote_ok": false
+  },
+  {
+   "subject": "Shuheng Liu",
+   "type": "position_at",
+   "object": "Georgia Institute of Technology",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Shuheng Liu and Michael Best Georgia Institute of Technology sliu775@gatech.edu, mikeb@gatech.edu",
+   "quote_ok": false
+  },
+  {
+   "subject": "Michael Best",
+   "type": "position_at",
+   "object": "Georgia Institute of Technology",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Shuheng Liu and Michael Best Georgia Institute of Technology sliu775@gatech.edu, mikeb@gatech.edu",
+   "quote_ok": false
+  }
+ ],
+ "docid": "acl:liu-best-2025-survey",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/acl/liu-best-2025-survey.txt",
+ "meta": {
+  "title": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologie",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

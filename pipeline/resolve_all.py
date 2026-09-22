@@ -24,7 +24,9 @@ STINT_TYPES = {"position_at", "studied_at"}
 
 FIELDS = ["indology", "buddhist_studies", "tibetology", "computational", "sinology", "japanology", "iranian_central_asian", "linguistics",
           "religious_studies", "philosophy", "history_archaeology", "other"]
-CORE = {"indology", "buddhist_studies", "tibetology", "computational"}
+CORE = {"indology", "buddhist_studies", "tibetology"}
+# "computational" counts as core only together with a philological field: an arXiv acknowledgement also thanks CS advisors
+is_core = lambda fields: bool(CORE & set(fields))
 CJK = re.compile(r"[぀-ヿ㐀-鿿]")
 
 ROMAN_PROMPT = """Romanise these East Asian personal names of modern scholars (mostly Japanese; some Chinese or Korean). \
@@ -318,6 +320,8 @@ def main():
         v, typ, sub, obj = r["v"], r["type"], r["subject"], r["object"]
         if d_corpus.get(r["doc"]) == "manual":  # editorial additions carry their own citation; the verifier does not apply
             v = {"verdict": "ok"}; r["v"] = v
+        if d_corpus.get(r["doc"]) == "web":  # a listing on a department's people page: an attestation for the crawl year
+            v = {"verdict": "ok", "current": True, "doc_year": r.get("doc_year")}; r["v"] = v
         if r.get("page") in ("blank_page", "not_printed"):  # the OCR text is not on the scanned page: invented by the OCR model
             skipped["page check: quote not on the scanned page"] += 1; continue
         if v.get("verdict") == "not_supported":
@@ -356,7 +360,7 @@ def main():
             n["japanese"] = n["japanese"] > 0
 
     # 5. relevance: core-field scholars and everyone tied to them by a person-person link
-    core = {n["id"] for n in nodes.values() if n["type"] == "person" and CORE & set(n["fields"])}
+    core = {n["id"] for n in nodes.values() if n["type"] == "person" and is_core(n["fields"])}
     keep = set(core)
     for e in edges:
         if e["type"] in PERSON_OBJ and (e["source"] in core or e["target"] in core):

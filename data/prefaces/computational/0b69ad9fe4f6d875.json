@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ram Sarkar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Computer Science"
+  },
+  {
+   "name": "Bibhash Sen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Computer Science"
+  },
+  {
+   "name": "Nibaran Das",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Computer Science"
+  },
+  {
+   "name": "Subhadip Basu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Computer Science"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ram Sarkar",
+   "type": "position_at",
+   "object": "MCKV Institute of Engineering",
+   "role": null,
+   "place": "Liluah, Howrah-711204, India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ram Sarkar 1ξ ... 1Computer Sc. & Engg. Dept., MCKV Institute of Engineering, Liluah, Howrah-711204, India.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Bibhash Sen",
+   "type": "position_at",
+   "object": "Cognizant Technology Solutions",
+   "role": null,
+   "place": "Sector V, Kolkata, India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bibhash Sen2 ... 2Cognizant Technology Solutions, Sector V, Kolkata, India.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Nibaran Das",
+   "type": "position_at",
+   "object": "Jadavpur University",
+   "role": null,
+   "place": "Kolkata-700032, India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nibaran Das3 ... 3Computer Sc. & Engg. Dept., Jadavpur University, Kolkata-700032, India.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Subhadip Basu",
+   "type": "position_at",
+   "object": "Jadavpur University",
+   "role": null,
+   "place": "Kolkata-700032, India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Subhadip Basu3 1Computer Sc. & Engg. Dept. ... 3Computer Sc. & Engg. Dept., Jadavpur University, Kolkata-700032, India.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Ram Sarkar",
+   "type": "collaborated_with",
+   "object": "Bibhash Sen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Handwritten Devanagari Script Segmentation: A Non-linear Fuzzy Approach Ram Sarkar 1ξ, Bibhash Sen2, Nibaran Das3, Subhadip Basu3",
+   "quote_ok": false
+  },
+  {
+   "subject": "Ram Sarkar",
+   "type": "collaborated_with",
+   "object": "Nibaran Das",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Handwritten Devanagari Script Segmentation: A Non-linear Fuzzy Approach Ram Sarkar 1ξ, Bibhash Sen2, Nibaran Das3, Subhadip Basu3",
+   "quote_ok": false
+  },
+  {
+   "subject": "Ram Sarkar",
+   "type": "collaborated_with",
+   "object": "Subhadip Basu",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Handwritten Devanagari Script Segmentation: A Non-linear Fuzzy Approach Ram Sarkar 1ξ, Bibhash Sen2, Nibaran Das3, Subhadip Basu3",
+   "quote_ok": false
+  }
+ ],
+ "docid": "arxiv:34126af8f455399cb5a5e4d7e7b257e2aa47f11f",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/arxiv/34126af8f455399cb5a5e4d7e7b257e2aa47f11f.txt",
+ "meta": {
+  "title": "Handwritten Devanagari Script Segmentation: A Non-linear Fuzzy Approach Ram Sarkar 1ξ, Bibhash Sen2, Nibaran Das3, Subhadip Basu3 1Computer Sc. & Engg",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

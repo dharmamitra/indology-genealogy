@@ -1,0 +1,162 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2022,
+ "people": [
+  {
+   "name": "Alexander Gutkin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Cibu Johny",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Raiomond Doctor",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lawrence Wolf-Sonkin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Brian Roark",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Alexander Gutkin",
+   "type": "collaborated_with",
+   "object": "Cibu Johny",
+   "role": "co-author",
+   "place": null,
+   "year_start": 2022,
+   "year_end": 2022,
+   "explicit": true,
+   "evidence": "Alexander Gutkin†, Cibu Johny†, Raiomond Doctor‡∗, Lawrence Wolf-Sonkin◦, Brian Roark◦",
+   "quote_ok": false
+  },
+  {
+   "subject": "Alexander Gutkin",
+   "type": "collaborated_with",
+   "object": "Raiomond Doctor",
+   "role": "co-author",
+   "place": null,
+   "year_start": 2022,
+   "year_end": 2022,
+   "explicit": true,
+   "evidence": "Alexander Gutkin†, Cibu Johny†, Raiomond Doctor‡∗, Lawrence Wolf-Sonkin◦, Brian Roark◦",
+   "quote_ok": false
+  },
+  {
+   "subject": "Alexander Gutkin",
+   "type": "collaborated_with",
+   "object": "Lawrence Wolf-Sonkin",
+   "role": "co-author",
+   "place": null,
+   "year_start": 2022,
+   "year_end": 2022,
+   "explicit": true,
+   "evidence": "Alexander Gutkin†, Cibu Johny†, Raiomond Doctor‡∗, Lawrence Wolf-Sonkin◦, Brian Roark◦",
+   "quote_ok": false
+  },
+  {
+   "subject": "Alexander Gutkin",
+   "type": "collaborated_with",
+   "object": "Brian Roark",
+   "role": "co-author",
+   "place": null,
+   "year_start": 2022,
+   "year_end": 2022,
+   "explicit": true,
+   "evidence": "Alexander Gutkin†, Cibu Johny†, Raiomond Doctor‡∗, Lawrence Wolf-Sonkin◦, Brian Roark◦",
+   "quote_ok": false
+  },
+  {
+   "subject": "Alexander Gutkin",
+   "type": "position_at",
+   "object": "Google Research",
+   "role": null,
+   "place": "United Kingdom",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Alexander Gutkin†, Cibu Johny†, Raiomond Doctor‡∗, Lawrence Wolf-Sonkin◦, Brian Roark◦ Google Research †United Kingdom",
+   "quote_ok": false
+  },
+  {
+   "subject": "Cibu Johny",
+   "type": "position_at",
+   "object": "Google Research",
+   "role": null,
+   "place": "United Kingdom",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Alexander Gutkin†, Cibu Johny†, Raiomond Doctor‡∗, Lawrence Wolf-Sonkin◦, Brian Roark◦ Google Research †United Kingdom",
+   "quote_ok": false
+  },
+  {
+   "subject": "Raiomond Doctor",
+   "type": "position_at",
+   "object": "Google Research",
+   "role": null,
+   "place": "India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Alexander Gutkin†, Cibu Johny†, Raiomond Doctor‡∗, Lawrence Wolf-Sonkin◦, Brian Roark◦ Google Research †United Kingdom ‡India",
+   "quote_ok": false
+  },
+  {
+   "subject": "Lawrence Wolf-Sonkin",
+   "type": "position_at",
+   "object": "Google Research",
+   "role": null,
+   "place": "United States",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Alexander Gutkin†, Cibu Johny†, Raiomond Doctor‡∗, Lawrence Wolf-Sonkin◦, Brian Roark◦ Google Research ... ◦United States",
+   "quote_ok": false
+  },
+  {
+   "subject": "Brian Roark",
+   "type": "position_at",
+   "object": "Google Research",
+   "role": null,
+   "place": "United States",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Alexander Gutkin†, Cibu Johny†, Raiomond Doctor‡∗, Lawrence Wolf-Sonkin◦, Brian Roark◦ Google Research ... ◦United States",
+   "quote_ok": false
+  }
+ ],
+ "docid": "acl:gutkin-etal-2022-extensions",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/acl/gutkin-etal-2022-extensions.txt",
+ "meta": {
+  "title": "Proceedings of the 13th Conference on Language Resources and Evaluation (LREC 2022), pages 6450–6460 Marseille, 20-25 June 2022 © European Language Re",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

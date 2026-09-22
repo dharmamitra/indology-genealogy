@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2025,
+ "people": [
+  {
+   "name": "Yuzuki Tsukagoshi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ikki Ohmukai",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Yuzuki Tsukagoshi",
+   "type": "collaborated_with",
+   "object": "Ikki Ohmukai",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": 2025,
+   "explicit": true,
+   "evidence": "Automatic Accent Restoration in Vedic Sanskrit with Neural Language Models\nYuzuki Tsukagoshi and Ikki Ohmukai",
+   "quote_ok": false
+  },
+  {
+   "subject": "Yuzuki Tsukagoshi",
+   "type": "position_at",
+   "object": "The University of Tokyo",
+   "role": null,
+   "place": "Tokyo, Japan",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Yuzuki Tsukagoshi and Ikki Ohmukai\nThe University of Tokyo / Tokyo, Japan",
+   "quote_ok": false
+  },
+  {
+   "subject": "Ikki Ohmukai",
+   "type": "position_at",
+   "object": "The University of Tokyo",
+   "role": null,
+   "place": "Tokyo, Japan",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Yuzuki Tsukagoshi and Ikki Ohmukai\nThe University of Tokyo / Tokyo, Japan",
+   "quote_ok": false
+  }
+ ],
+ "docid": "acl:tsukagoshi-ohmukai-2025-automatic",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/acl/tsukagoshi-ohmukai-2025-automatic.txt",
+ "meta": {
+  "title": "Proceedings of the 1st Workshop on Benchmarks, Harmonization, Annotation, and Standardization for Human-Centric AI in Indian Languages (BHASHA 2025), ",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

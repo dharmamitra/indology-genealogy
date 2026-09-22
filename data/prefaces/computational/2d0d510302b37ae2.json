@@ -1,0 +1,107 @@
+{
+ "author": "Md Maruf Hasan",
+ "doc_kind": "article",
+ "doc_year": 1995,
+ "people": [
+  {
+   "name": "Md Maruf Hasan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Computer Science"
+  },
+  {
+   "name": "Mao Yu Heng",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Automation"
+  },
+  {
+   "name": "Dai Mei Er",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Computer Science"
+  },
+  {
+   "name": "Lua Kim Teng",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Md Maruf Hasan",
+   "type": "position_at",
+   "object": "Dept. of Information System & Computer Science National University of Singapore",
+   "role": null,
+   "place": "Singapore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Md Maruf Hasan Dept. of Information System & Computer Science National University of Singapore",
+   "quote_ok": false
+  },
+  {
+   "subject": "Mao Yu Heng",
+   "type": "position_at",
+   "object": "Department of Automation, Tsinghua University",
+   "role": "Prof",
+   "place": "China",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof Mao Yu Heng , Department of Automation, Tsinghua University, China",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dai Mei Er",
+   "type": "position_at",
+   "object": "Department of Computer Science, Tsinghua University",
+   "role": "Assosiate professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mrs Dai Mei Er, Assosiate professor, Department of Computer Science, Tsinghua University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Md Maruf Hasan",
+   "type": "student_of",
+   "object": "Dai Mei Er",
+   "role": "supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mrs Dai Mei Er, Assosiate professor, Department of Computer Science, Tsinghua University, for her kind supervision.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Md Maruf Hasan",
+   "type": "student_of",
+   "object": "Lua Kim Teng",
+   "role": "supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I am also indebted to Dr Lua Kim Teng, my present supervisor",
+   "quote_ok": true
+  }
+ ],
+ "docid": "arxiv:cb829f3cbcb34b69123c30fd75e48dfbea156dd0",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/arxiv/cb829f3cbcb34b69123c30fd75e48dfbea156dd0.txt",
+ "meta": {
+  "title": "cmp-lg/9510002 27 Sep 1995 Using Chinese Text Processing Technique for the Processing of Sanskrit Based Indian Languages: Maximum Resource Utilization",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

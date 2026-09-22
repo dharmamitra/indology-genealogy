@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Adam Farris",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Aryaman Arora",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Asoka Premaratne",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Adam Farris",
+   "type": "position_at",
+   "object": "San Mateo High School",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Adam Farris∗ San Mateo High School adamfarris@gmail.com",
+   "quote_ok": false
+  },
+  {
+   "subject": "Aryaman Arora",
+   "type": "position_at",
+   "object": "Georgetown University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Aryaman Arora∗ Georgetown University aa2190@georgetown.edu",
+   "quote_ok": false
+  },
+  {
+   "subject": "Aryaman Arora",
+   "type": "collaborated_with",
+   "object": "Adam Farris",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "For the Purpose of Curry: A UD Treebank for Ashokan Prakrit Adam Farris∗ San Mateo High School adamfarris@gmail.com Aryaman Arora∗ Georgetown University",
+   "quote_ok": false
+  },
+  {
+   "subject": "Asoka Premaratne",
+   "type": "studied_at",
+   "object": "School of Oriental and African Studies, University of London",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 1969,
+   "explicit": true,
+   "evidence": "Asoka Premaratne. 1969. The Verb in Early Sinhalese. Ph.D. thesis, School of Oriental and African Studies, University of London.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "arxiv:1202d03f62183ec0a228d8ec373274eba72cb154",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/arxiv/1202d03f62183ec0a228d8ec373274eba72cb154.txt",
+ "meta": {
+  "title": "For the Purpose of Curry: A UD Treebank for Ashokan Prakrit Adam Farris∗ San Mateo High School adamfarris@gmail.com Aryaman Arora∗ Georgetown Universi",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2025,
+ "people": [
+  {
+   "name": "Akhil Rajeev P",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Annarao Kulkarni",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sinchana Bhat",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Classical Sanskrit Linguistics"
+  },
+  {
+   "name": "Archana Bhat",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Classical Sanskrit Linguistics"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Akhil Rajeev P",
+   "type": "collaborated_with",
+   "object": "Annarao Kulkarni",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": 2025,
+   "explicit": true,
+   "evidence": "Accent Placement Models for Rigvedic Sanskrit Text Akhil Rajeev P and Annarao Kulkarni",
+   "quote_ok": false
+  },
+  {
+   "subject": "Akhil Rajeev P",
+   "type": "position_at",
+   "object": "Centre for Development of Advanced Computing (C-DAC), Bangalore",
+   "role": null,
+   "place": "Bangalore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Akhil Rajeev P and Annarao Kulkarni Indian Heritage Language Computing Team Special and Strategic Projects (SSP) Group Centre for Development of Advanced Computing (C DAC), Bangalore",
+   "quote_ok": false
+  },
+  {
+   "subject": "Annarao Kulkarni",
+   "type": "position_at",
+   "object": "Centre for Development of Advanced Computing (C-DAC), Bangalore",
+   "role": null,
+   "place": "Bangalore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Akhil Rajeev P and Annarao Kulkarni Indian Heritage Language Computing Team Special and Strategic Projects (SSP) Group Centre for Development of Advanced Computing (C DAC), Bangalore",
+   "quote_ok": false
+  },
+  {
+   "subject": "Sinchana Bhat",
+   "type": "position_at",
+   "object": "Centre for Development of Advanced Computing (C-DAC), Bangalore",
+   "role": "Classical Sanskrit Linguist",
+   "place": "Bangalore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sinchana Bhat and Archana Bhat, Classical Sanskrit Linguists at C-DAC Bangalore",
+   "quote_ok": true
+  },
+  {
+   "subject": "Archana Bhat",
+   "type": "position_at",
+   "object": "Centre for Development of Advanced Computing (C-DAC), Bangalore",
+   "role": "Classical Sanskrit Linguist",
+   "place": "Bangalore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sinchana Bhat and Archana Bhat, Classical Sanskrit Linguists at C-DAC Bangalore",
+   "quote_ok": true
+  }
+ ],
+ "docid": "acl:p-kulkarni-2025-accent",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/acl/p-kulkarni-2025-accent.txt",
+ "meta": {
+  "title": "Proceedings of the 1st Workshop on Benchmarks, Harmonization, Annotation, and Standardization for Human-Centric AI in Indian Languages (BHASHA 2025), ",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

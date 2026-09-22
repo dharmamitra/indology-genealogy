@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2008,
+ "people": [
+  {
+   "name": "Aasish Pappu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ratna Sanyal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Aasish Pappu",
+   "type": "collaborated_with",
+   "object": "Ratna Sanyal",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Vaakkriti: Sanskrit Tokenizer Aasish Pappu and Ratna Sanyal",
+   "quote_ok": false
+  },
+  {
+   "subject": "Aasish Pappu",
+   "type": "position_at",
+   "object": "Indian Institute of Information Technology, Allahabad",
+   "role": null,
+   "place": "Allahabad (U.P.), India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Aasish Pappu and Ratna Sanyal Indian Institute of Information Technology, Allahabad (U.P.), India",
+   "quote_ok": false
+  },
+  {
+   "subject": "Ratna Sanyal",
+   "type": "position_at",
+   "object": "Indian Institute of Information Technology, Allahabad",
+   "role": null,
+   "place": "Allahabad (U.P.), India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Aasish Pappu and Ratna Sanyal Indian Institute of Information Technology, Allahabad (U.P.), India",
+   "quote_ok": false
+  }
+ ],
+ "docid": "acl:pappu-sanyal-2008-vaakkriti",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/acl/pappu-sanyal-2008-vaakkriti.txt",
+ "meta": {
+  "title": "Vaakkriti: Sanskrit Tokenizer Aasish Pappu and Ratna Sanyal Indian Institute of Information Technology, Allahabad (U.P.), India { akpappu b03, rsanyal",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2015,
+ "people": [
+  {
+   "name": "Amrith Krishna",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit computational linguistics"
+  },
+  {
+   "name": "Pawan Goyal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit computational linguistics"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Amrith Krishna",
+   "type": "position_at",
+   "object": "Department of CSE, Indian Institute of Technology, Kharagpur",
+   "role": null,
+   "place": "Kharagpur, India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Amrith Krishna Department of CSE, Indian Institute of Technology, Kharagpur, India amrith@iitkgp.ac.in",
+   "quote_ok": false
+  },
+  {
+   "subject": "Pawan Goyal",
+   "type": "position_at",
+   "object": "Department of CSE, Indian Institute of Technology, Kharagpur",
+   "role": null,
+   "place": "Kharagpur, India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pawan Goyal Department of CSE, Indian Institute of Technology, Kharagpur, India pawang@cse.iitkgp.ernet.in",
+   "quote_ok": false
+  },
+  {
+   "subject": "Amrith Krishna",
+   "type": "collaborated_with",
+   "object": "Pawan Goyal",
+   "role": "co-author",
+   "place": null,
+   "year_start": 2015,
+   "year_end": 2015,
+   "explicit": true,
+   "evidence": "Towards automating the generation of derivative nouns in Sanskrit by simulating Pāṇini Amrith Krishna Department of CSE, Indian Institute of Technology, Kharagpur, India amrith@iitkgp.ac.in Pawan Goyal",
+   "quote_ok": false
+  }
+ ],
+ "docid": "arxiv:7dee5a27c229b6b4ebca1e96db2a6252f71d4287",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/arxiv/7dee5a27c229b6b4ebca1e96db2a6252f71d4287.txt",
+ "meta": {
+  "title": "Towards automating the generation of derivative nouns in Sanskrit by simulating Pāṇini Amrith Krishna Department of CSE, Indian Institute of Technolog",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

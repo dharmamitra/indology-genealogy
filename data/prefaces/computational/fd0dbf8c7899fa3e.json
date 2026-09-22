@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2023,
+ "people": [
+  {
+   "name": "Xi Cao",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Dolma Dawa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Nuo Qun",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Trashi Nyima",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Xi Cao",
+   "type": "collaborated_with",
+   "object": "Dolma Dawa",
+   "role": null,
+   "place": null,
+   "year_start": 2023,
+   "year_end": 2023,
+   "explicit": true,
+   "evidence": "Xi Cao1, 2, Dolma Dawa1, 2, Nuo Qun1, 2 *, Trashi Nyima1, 2",
+   "quote_ok": false
+  },
+  {
+   "subject": "Xi Cao",
+   "type": "collaborated_with",
+   "object": "Nuo Qun",
+   "role": null,
+   "place": null,
+   "year_start": 2023,
+   "year_end": 2023,
+   "explicit": true,
+   "evidence": "Xi Cao1, 2, Dolma Dawa1, 2, Nuo Qun1, 2 *, Trashi Nyima1, 2",
+   "quote_ok": false
+  },
+  {
+   "subject": "Xi Cao",
+   "type": "collaborated_with",
+   "object": "Trashi Nyima",
+   "role": null,
+   "place": null,
+   "year_start": 2023,
+   "year_end": 2023,
+   "explicit": true,
+   "evidence": "Xi Cao1, 2, Dolma Dawa1, 2, Nuo Qun1, 2 *, Trashi Nyima1, 2",
+   "quote_ok": false
+  },
+  {
+   "subject": "Xi Cao",
+   "type": "position_at",
+   "object": "Tibet University",
+   "role": null,
+   "place": "Lhasa, Tibet, China",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Xi Cao1, 2 ... 1School of Information Science and Technology, Tibet University, Lhasa, Tibet 850000, China",
+   "quote_ok": false
+  },
+  {
+   "subject": "Dolma Dawa",
+   "type": "position_at",
+   "object": "Tibet University",
+   "role": null,
+   "place": "Lhasa, Tibet, China",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dolma Dawa1, 2 ... 1School of Information Science and Technology, Tibet University, Lhasa, Tibet 850000, China",
+   "quote_ok": false
+  },
+  {
+   "subject": "Nuo Qun",
+   "type": "position_at",
+   "object": "Tibet University",
+   "role": null,
+   "place": "Lhasa, Tibet, China",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nuo Qun1, 2 ... 1School of Information Science and Technology, Tibet University, Lhasa, Tibet 850000, China",
+   "quote_ok": false
+  },
+  {
+   "subject": "Trashi Nyima",
+   "type": "position_at",
+   "object": "Tibet University",
+   "role": null,
+   "place": "Lhasa, Tibet, China",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Trashi Nyima1, 2 ... 1School of Information Science and Technology, Tibet University, Lhasa, Tibet 850000, China",
+   "quote_ok": false
+  }
+ ],
+ "docid": "acl:cao-etal-2023-pay-attention",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/acl/cao-etal-2023-pay-attention.txt",
+ "meta": {
+  "title": "Proceedings of the 3rd Workshop on Trustworthy Natural Language Processing (TrustNLP 2023), pages 35–46 July 14, 2023 ©2023 Association for Computatio",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

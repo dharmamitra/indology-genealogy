@@ -1,0 +1,119 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2026,
+ "people": [
+  {
+   "name": "Johan Paul",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gayathri Sepuri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sriram Krishnan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Amba Kulkarni",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johan Paul",
+   "type": "collaborated_with",
+   "object": "Gayathri Sepuri",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Johan Paul1, Gayathri Sepuri1, Sriram Krishnan2,3 and Amba Kulkarni4",
+   "quote_ok": false
+  },
+  {
+   "subject": "Johan Paul",
+   "type": "collaborated_with",
+   "object": "Sriram Krishnan",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Johan Paul1, Gayathri Sepuri1, Sriram Krishnan2,3 and Amba Kulkarni4",
+   "quote_ok": false
+  },
+  {
+   "subject": "Johan Paul",
+   "type": "collaborated_with",
+   "object": "Amba Kulkarni",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Johan Paul1, Gayathri Sepuri1, Sriram Krishnan2,3 and Amba Kulkarni4",
+   "quote_ok": false
+  },
+  {
+   "subject": "Sriram Krishnan",
+   "type": "position_at",
+   "object": "Central Sanskrit University, Prayagraj",
+   "role": null,
+   "place": "Prayagraj",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sriram Krishnan2,3 ... 2 Central Sanskrit University, Prayagraj",
+   "quote_ok": false
+  },
+  {
+   "subject": "Sriram Krishnan",
+   "type": "position_at",
+   "object": "IIIT, Hyderabad",
+   "role": null,
+   "place": "Hyderabad",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sriram Krishnan2,3 ... 3 IIIT, Hyderabad",
+   "quote_ok": false
+  },
+  {
+   "subject": "Amba Kulkarni",
+   "type": "position_at",
+   "object": "University of Hyderabad",
+   "role": null,
+   "place": "Hyderabad",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Amba Kulkarni4 ... 4 Department of Sanskrit Studies, University of Hyderabad",
+   "quote_ok": false
+  }
+ ],
+ "docid": "acl:paul-etal-2026-dependency",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/acl/paul-etal-2026-dependency.txt",
+ "meta": {
+  "title": "Dependency Analysis of Ṛgveda-Saṃhitā: An alignment of the Universal Dependencies framework with the Śābdabodha-based Saṃsādhanī framework Johan Paul1",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

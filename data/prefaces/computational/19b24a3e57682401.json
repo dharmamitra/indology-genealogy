@@ -1,0 +1,107 @@
+{
+ "author": "Gérard Huet",
+ "doc_kind": "article",
+ "doc_year": 2014,
+ "people": [
+  {
+   "name": "G´erard Huet",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Amba Kulkarni",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Peter Scharf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Pawan Goyal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "G´erard Huet",
+   "type": "position_at",
+   "object": "Inria Paris-Rocquencourt",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "G´erard Huet Inria Paris-Rocquencourt gerard.huet@inria.fr",
+   "quote_ok": false
+  },
+  {
+   "subject": "Amba Kulkarni",
+   "type": "position_at",
+   "object": "University of Hyderabad",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Amba Kulkarni University of Hyderabad apksh@uohyd.ernet.in",
+   "quote_ok": false
+  },
+  {
+   "subject": "G´erard Huet",
+   "type": "collaborated_with",
+   "object": "Amba Kulkarni",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sanskrit Linguistics Web Services G´erard Huet Inria Paris-Rocquencourt gerard.huet@inria.fr Amba Kulkarni University of Hyderabad",
+   "quote_ok": false
+  },
+  {
+   "subject": "G´erard Huet",
+   "type": "collaborated_with",
+   "object": "Peter Scharf",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "We wish also to thank Peter Scharf for his cooperation on the Sanskrit Library interface.",
+   "quote_ok": true
+  },
+  {
+   "subject": "G´erard Huet",
+   "type": "collaborated_with",
+   "object": "Pawan Goyal",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The Inria ‘Sanskrit Heritage’ platform beneﬁted from important contributions of Pawan Goyal, notably in its graphical interface.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "acl:huet-kulkarni-2014-sanskrit",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/acl/huet-kulkarni-2014-sanskrit.txt",
+ "meta": {
+  "title": "Proceedings of COLING 2014, the 25th International Conference on Computational Linguistics: System Demonstrations, pages 48–51, Dublin, Ireland, Augus",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

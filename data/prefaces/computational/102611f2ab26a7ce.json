@@ -1,0 +1,124 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2022,
+ "people": [
+  {
+   "name": "Christian Faggionato",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Nathan Hill",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Marieke Meelen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Christian Faggionato",
+   "type": "position_at",
+   "object": "University of Cambridge",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1Christian Faggionato, 2Nathan Hill, 1Marieke Meelen 1University of Cambridge & 2SOAS University of London and Trinity College Dublin",
+   "quote_ok": false
+  },
+  {
+   "subject": "Marieke Meelen",
+   "type": "position_at",
+   "object": "University of Cambridge",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1Christian Faggionato, 2Nathan Hill, 1Marieke Meelen 1University of Cambridge & 2SOAS University of London and Trinity College Dublin",
+   "quote_ok": false
+  },
+  {
+   "subject": "Nathan Hill",
+   "type": "position_at",
+   "object": "SOAS University of London",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1Christian Faggionato, 2Nathan Hill, 1Marieke Meelen 1University of Cambridge & 2SOAS University of London and Trinity College Dublin",
+   "quote_ok": false
+  },
+  {
+   "subject": "Nathan Hill",
+   "type": "position_at",
+   "object": "Trinity College Dublin",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1Christian Faggionato, 2Nathan Hill, 1Marieke Meelen 1University of Cambridge & 2SOAS University of London and Trinity College Dublin",
+   "quote_ok": false
+  },
+  {
+   "subject": "Christian Faggionato",
+   "type": "collaborated_with",
+   "object": "Nathan Hill",
+   "role": "co-authors",
+   "place": null,
+   "year_start": 2022,
+   "year_end": 2022,
+   "explicit": true,
+   "evidence": "NLP Pipeline for Annotating (Endangered) Tibetan and Newar Varieties 1Christian Faggionato, 2Nathan Hill, 1Marieke Meelen",
+   "quote_ok": false
+  },
+  {
+   "subject": "Christian Faggionato",
+   "type": "collaborated_with",
+   "object": "Marieke Meelen",
+   "role": "co-authors",
+   "place": null,
+   "year_start": 2022,
+   "year_end": 2022,
+   "explicit": true,
+   "evidence": "NLP Pipeline for Annotating (Endangered) Tibetan and Newar Varieties 1Christian Faggionato, 2Nathan Hill, 1Marieke Meelen",
+   "quote_ok": false
+  },
+  {
+   "subject": "Nathan Hill",
+   "type": "collaborated_with",
+   "object": "Marieke Meelen",
+   "role": "co-authors",
+   "place": null,
+   "year_start": 2022,
+   "year_end": 2022,
+   "explicit": true,
+   "evidence": "NLP Pipeline for Annotating (Endangered) Tibetan and Newar Varieties 1Christian Faggionato, 2Nathan Hill, 1Marieke Meelen",
+   "quote_ok": false
+  }
+ ],
+ "docid": "acl:faggionato-etal-2022-nlp",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/acl/faggionato-etal-2022-nlp.txt",
+ "meta": {
+  "title": "Proceedings of the EURALI Workshop @LREC2020, pages 1–6 Marseille, 20 June 2022 © European Language Resources Association (ELRA), licensed under CC-BY",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

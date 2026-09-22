@@ -22,7 +22,7 @@ from merge_sources import MODEL_PROMPT, MODEL_SCHEMA, QID_ALIAS, DATED_TYPES
 
 SITE_DATA = os.path.join(ROOT, "docs", "data")
 SRC_RANK = {"text": 3, "wikidata": 2, "model": 1, None: 0}
-CORE = {"indology", "buddhist_studies", "tibetology", "computational"}
+CORE = {"indology", "buddhist_studies", "tibetology"}  # Wikidata-only teachers/pupils are added for these fields only
 # hand corrections of canonical names the model got wrong (initials expanded into something else)
 LABEL_FIX = {"Kuala Lumpur Dhammajoti": "K. L. Dhammajoti"}
 # sitting on a thesis committee is not teaching: such links are kept, but not as teacher -> student

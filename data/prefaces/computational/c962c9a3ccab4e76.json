@@ -1,0 +1,188 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Sushant Dave",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Arun Kumar Singh",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Prathosh A. P.",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Brejesh Lall",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Girish Nath Jha",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Amba Kulkarni",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gerard Huet",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sushant Dave",
+   "type": "collaborated_with",
+   "object": "Arun Kumar Singh",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sushant Dave, Arun Kumar Singh, Dr. Prathosh A. P., and Prof. Brejesh Lall",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sushant Dave",
+   "type": "collaborated_with",
+   "object": "Prathosh A. P.",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sushant Dave, Arun Kumar Singh, Dr. Prathosh A. P., and Prof. Brejesh Lall",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sushant Dave",
+   "type": "collaborated_with",
+   "object": "Brejesh Lall",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sushant Dave, Arun Kumar Singh, Dr. Prathosh A. P., and Prof. Brejesh Lall",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sushant Dave",
+   "type": "position_at",
+   "object": "Indian Institute of Technology - Delhi",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sushant Dave Indian Institute of Technology - Delhi",
+   "quote_ok": false
+  },
+  {
+   "subject": "Arun Kumar Singh",
+   "type": "position_at",
+   "object": "Indian Institute of Technology - Delhi",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Arun Kumar Singh Indian Institute of Technology - Delhi",
+   "quote_ok": false
+  },
+  {
+   "subject": "Prathosh A. P.",
+   "type": "position_at",
+   "object": "Indian Institute of Technology - Delhi",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Prathosh A. P. Indian Institute of Technology - Delhi",
+   "quote_ok": false
+  },
+  {
+   "subject": "Brejesh Lall",
+   "type": "position_at",
+   "object": "Indian Institute of Technology - Delhi",
+   "role": "Prof.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. Brejesh Lall Indian Institute of Technology - Delhi",
+   "quote_ok": false
+  },
+  {
+   "subject": "Girish Nath Jha",
+   "type": "position_at",
+   "object": "JawaharLal Nehru University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "This application has been developed under the supervision of Dr. Girish Nath Jha from JawaharLal Nehru University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Amba Kulkarni",
+   "type": "position_at",
+   "object": "University of Hyderabad",
+   "role": "Prof.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "These tools were developed at the Department of Sanskrit Studies, University of Hyderabad under the supervision of Prof. Amba Kulkarni",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gerard Huet",
+   "type": "position_at",
+   "object": "INRIA",
+   "role": "Prof.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Called as Sandhi Engine and developed under the guidance of Prof. Gerard Huet at INRIA.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "arxiv:3c771274887745441da6095fd2888e428da66c2e",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/arxiv/3c771274887745441da6095fd2888e428da66c2e.txt",
+ "meta": {
+  "title": "Neural Compound-Word (Sandhi) Generation and Splitting in Sanskrit Language Sushant Dave Indian Institute of Technology - Delhi sushant.dave@gmail.com",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

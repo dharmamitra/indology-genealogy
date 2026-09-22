@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2015,
+ "people": [
+  {
+   "name": "Anoop Kunchukuttan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ratish Puduppully",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Pushpak Bhattacharyya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Anoop Kunchukuttan",
+   "type": "collaborated_with",
+   "object": "Ratish Puduppully",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": 2015,
+   "explicit": true,
+   "evidence": "Brahmi-Net: A transliteration and script conversion system for languages of the Indian subcontinent Anoop Kunchukuttan ∗ IIT Bombay anoopk@cse.iitb.ac.in Ratish Puduppully ∗† IIIT Hyderabad",
+   "quote_ok": false
+  },
+  {
+   "subject": "Anoop Kunchukuttan",
+   "type": "collaborated_with",
+   "object": "Pushpak Bhattacharyya",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": 2015,
+   "explicit": true,
+   "evidence": "Anoop Kunchukuttan ∗ IIT Bombay anoopk@cse.iitb.ac.in Ratish Puduppully ∗† IIIT Hyderabad ratish.surendran @research.iiit.ac.in Pushpak Bhattacharyya IIT Bombay pb@cse.iitb.ac.in",
+   "quote_ok": false
+  },
+  {
+   "subject": "Ratish Puduppully",
+   "type": "collaborated_with",
+   "object": "Pushpak Bhattacharyya",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": 2015,
+   "explicit": true,
+   "evidence": "Ratish Puduppully ∗† IIIT Hyderabad ratish.surendran @research.iiit.ac.in Pushpak Bhattacharyya IIT Bombay pb@cse.iitb.ac.in",
+   "quote_ok": false
+  },
+  {
+   "subject": "Anoop Kunchukuttan",
+   "type": "position_at",
+   "object": "IIT Bombay",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Anoop Kunchukuttan ∗ IIT Bombay anoopk@cse.iitb.ac.in",
+   "quote_ok": false
+  },
+  {
+   "subject": "Ratish Puduppully",
+   "type": "position_at",
+   "object": "IIIT Hyderabad",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ratish Puduppully ∗† IIIT Hyderabad ratish.surendran @research.iiit.ac.in",
+   "quote_ok": false
+  },
+  {
+   "subject": "Pushpak Bhattacharyya",
+   "type": "position_at",
+   "object": "IIT Bombay",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pushpak Bhattacharyya IIT Bombay pb@cse.iitb.ac.in",
+   "quote_ok": false
+  }
+ ],
+ "docid": "acl:kunchukuttan-etal-2015-brahmi",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/acl/kunchukuttan-etal-2015-brahmi.txt",
+ "meta": {
+  "title": "Proceedings of NAACL-HLT 2015, pages 81–85, Denver, Colorado, May 31 – June 5, 2015. c⃝2015 Association for Computational Linguistics Brahmi-Net: A tr",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

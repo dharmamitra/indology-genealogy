@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2024,
+ "people": [
+  {
+   "name": "Yuzuki Tsukagoshi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ikki Ohmukai",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Yuzuki Tsukagoshi",
+   "type": "position_at",
+   "object": "Univeristy of Tokyo",
+   "role": null,
+   "place": "Tokyo, Japan",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Yuzuki Tsukagoshi Univeristy of Tokyo / Tokyo, Japan",
+   "quote_ok": false
+  },
+  {
+   "subject": "Ikki Ohmukai",
+   "type": "position_at",
+   "object": "Univeristy of Tokyo",
+   "role": null,
+   "place": "Tokyo, Japan",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ikki Ohmukai Univeristy of Tokyo / Tokyo, Japan",
+   "quote_ok": false
+  },
+  {
+   "subject": "Yuzuki Tsukagoshi",
+   "type": "collaborated_with",
+   "object": "Ikki Ohmukai",
+   "role": "co-authors",
+   "place": null,
+   "year_start": 2024,
+   "year_end": 2024,
+   "explicit": true,
+   "evidence": "The Metronome Approach to Sanskrit Meter: Analysis for the Rigveda Yuzuki Tsukagoshi Univeristy of Tokyo / Tokyo, Japan yuzuki@l.u-tokyo.ac.jp Ikki Ohmukai",
+   "quote_ok": false
+  }
+ ],
+ "docid": "acl:tsukagoshi-ohmukai-2024-metronome",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/acl/tsukagoshi-ohmukai-2024-metronome.txt",
+ "meta": {
+  "title": "Proceedings of the 1st Workshop on Machine Learning for Ancient Languages (ML4AL 2024), pages 219–223 August 15, 2024 ©2024 Association for Computatio",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,57 @@
+{
+ "author": "Ayla Karakaş",
+ "doc_kind": "article",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Ayla Karakaş",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Linguistics"
+  },
+  {
+   "name": "Thomas Graf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ayla Karakaş",
+   "type": "position_at",
+   "object": "Stony Brook University",
+   "role": null,
+   "place": "Stony Brook, NY, USA",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ayla Karakas¸ Department of Linguistics Stony Brook University Stony Brook, NY 11794, USA",
+   "quote_ok": false
+  },
+  {
+   "subject": "Ayla Karakaş",
+   "type": "student_of",
+   "object": "Thomas Graf",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "I would like to express my deepest gratitude to Thomas Graf, for his end- less insights and patient guidance.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "acl:karakas-2020-ibsp",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/acl/karakas-2020-ibsp.txt",
+ "meta": {
+  "title": "An IBSP Description of Sanskrit /n/-Retroﬂexion Ayla Karakas¸ Department of Linguistics Stony Brook University Stony Brook, NY 11794, USA ayla.karakas",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

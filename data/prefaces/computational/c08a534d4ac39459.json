@@ -1,0 +1,69 @@
+{
+ "author": "Jing Zhang",
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Jing Zhang",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Miguel Pérez-Milans",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jing Zhang",
+   "type": "position_at",
+   "object": "The University of Hong Kong",
+   "role": null,
+   "place": "Hong Kong",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Jing Zhang (corresponding author), The University of Hong Kong, Room 668, Meng Wah Complex, The University of Hong Kong, Pokfulam, Hong Kong",
+   "quote_ok": false
+  },
+  {
+   "subject": "Miguel Pérez-Milans",
+   "type": "position_at",
+   "object": "UCL Institute of Education",
+   "role": null,
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Miguel Pérez-Milans, UCL Institute of Education University College London Room 620A, 20 Bedford Way London WC1H OAL, UK",
+   "quote_ok": false
+  },
+  {
+   "subject": "Jing Zhang",
+   "type": "collaborated_with",
+   "object": "Miguel Pérez-Milans",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Author information: Jing Zhang (corresponding author), The University of Hong Kong... Miguel Pérez-Milans, UCL Institute of Education",
+   "quote_ok": false
+  }
+ ],
+ "docid": "arxiv:a2f2e0a709d75b3665b00fdea14f57d99d1061ec",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/arxiv/a2f2e0a709d75b3665b00fdea14f57d99d1061ec.txt",
+ "meta": {
+  "title": "1 Paper Title: Structures of feeling in language policy: The case of Tibetan in China Author information: Jing Zhang (corresponding author), The Unive",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

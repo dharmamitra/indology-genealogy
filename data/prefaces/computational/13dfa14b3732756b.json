@@ -1,0 +1,131 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Rahul Aralikatte",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Miryam de Lhoneux",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Anoop Kunchukuttan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Anders Søgaard",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Rahul Aralikatte",
+   "type": "collaborated_with",
+   "object": "Miryam de Lhoneux",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": 2021,
+   "explicit": true,
+   "evidence": "Rahul Aralikatte1 Miryam de Lhoneux1 Anoop Kunchukuttan2 Anders Søgaard1",
+   "quote_ok": false
+  },
+  {
+   "subject": "Rahul Aralikatte",
+   "type": "collaborated_with",
+   "object": "Anoop Kunchukuttan",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": 2021,
+   "explicit": true,
+   "evidence": "Rahul Aralikatte1 Miryam de Lhoneux1 Anoop Kunchukuttan2 Anders Søgaard1",
+   "quote_ok": false
+  },
+  {
+   "subject": "Rahul Aralikatte",
+   "type": "collaborated_with",
+   "object": "Anders Søgaard",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": 2021,
+   "explicit": true,
+   "evidence": "Rahul Aralikatte1 Miryam de Lhoneux1 Anoop Kunchukuttan2 Anders Søgaard1",
+   "quote_ok": false
+  },
+  {
+   "subject": "Rahul Aralikatte",
+   "type": "position_at",
+   "object": "University of Copenhagen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rahul Aralikatte1 Miryam de Lhoneux1 Anoop Kunchukuttan2 Anders Søgaard1 1University of Copenhagen",
+   "quote_ok": false
+  },
+  {
+   "subject": "Miryam de Lhoneux",
+   "type": "position_at",
+   "object": "University of Copenhagen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rahul Aralikatte1 Miryam de Lhoneux1 Anoop Kunchukuttan2 Anders Søgaard1 1University of Copenhagen",
+   "quote_ok": false
+  },
+  {
+   "subject": "Anoop Kunchukuttan",
+   "type": "position_at",
+   "object": "Microsoft AI and Research",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Anoop Kunchukuttan2 ... 2Microsoft AI and Research",
+   "quote_ok": false
+  },
+  {
+   "subject": "Anders Søgaard",
+   "type": "position_at",
+   "object": "University of Copenhagen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rahul Aralikatte1 Miryam de Lhoneux1 Anoop Kunchukuttan2 Anders Søgaard1 1University of Copenhagen",
+   "quote_ok": false
+  }
+ ],
+ "docid": "acl:aralikatte-etal-2021-itihasa",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/acl/aralikatte-etal-2021-itihasa.txt",
+ "meta": {
+  "title": "Itih¯asa: A large-scale corpus for Sanskrit to English translation Rahul Aralikatte1 Miryam de Lhoneux1 Anoop Kunchukuttan2 Anders Søgaard1 1Universit",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2023,
+ "people": [
+  {
+   "name": "Oliver Hellwig",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sebastian Nehrdich",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sven Sellmer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Oliver Hellwig",
+   "type": "collaborated_with",
+   "object": "Sebastian Nehrdich",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": 2023,
+   "explicit": true,
+   "evidence": "Data‑driven dependency parsing of Vedic Sanskrit Oliver Hellwig1,2 · Sebastian Nehrdich1,3 · Sven Sellmer1,4",
+   "quote_ok": false
+  },
+  {
+   "subject": "Oliver Hellwig",
+   "type": "collaborated_with",
+   "object": "Sven Sellmer",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": 2023,
+   "explicit": true,
+   "evidence": "Data‑driven dependency parsing of Vedic Sanskrit Oliver Hellwig1,2 · Sebastian Nehrdich1,3 · Sven Sellmer1,4",
+   "quote_ok": false
+  },
+  {
+   "subject": "Sebastian Nehrdich",
+   "type": "collaborated_with",
+   "object": "Sven Sellmer",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": 2023,
+   "explicit": true,
+   "evidence": "Data‑driven dependency parsing of Vedic Sanskrit Oliver Hellwig1,2 · Sebastian Nehrdich1,3 · Sven Sellmer1,4",
+   "quote_ok": false
+  }
+ ],
+ "docid": "arxiv:f97dcdca384c683dcd5f661a975700f1b4c85cba",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/arxiv/f97dcdca384c683dcd5f661a975700f1b4c85cba.txt",
+ "meta": {
+  "title": "Vol.:(0123456789) Language Resources and Evaluation (2023) 57:1173–1206 https://doi.org/10.1007/s10579-023-09636-5 1 3 Data‑driven dependency parsing ",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

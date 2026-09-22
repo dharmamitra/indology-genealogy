@@ -1,0 +1,95 @@
+{
+ "author": "象本",
+ "doc_kind": "article",
+ "doc_year": 2016,
+ "people": [
+  {
+   "name": "象本",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Jens Braarvig",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "松田和信",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "落合俊典",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jens Braarvig",
+   "type": "position_at",
+   "object": "オスロ大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "オスロ大学のイェンス・ ブロールビック（Jens Braarvig）教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "松田和信",
+   "type": "position_at",
+   "object": "佛教大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "佛教大学の松田和信教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jens Braarvig",
+   "type": "collaborated_with",
+   "object": "松田和信",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "校訂テキストがオスロ大学のイェンス・ ブロールビック（Jens Braarvig）教授や佛教大学の松田和信教授らによって準備され近々出版される予定である",
+   "quote_ok": true
+  },
+  {
+   "subject": "落合俊典",
+   "type": "position_at",
+   "object": "国際仏教学大学院大学",
+   "role": "先生",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "国際仏教学大学院大学の落合俊典先生",
+   "quote_ok": true
+  }
+ ],
+ "docid": "arxiv:1d084c615b648c08b7062def46defdd61ebf9313",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/arxiv/1d084c615b648c08b7062def46defdd61ebf9313.txt",
+ "meta": {
+  "title": "梵文『菩薩蔵経』と漢蔵訳本の関係について ――前四品，第十一品，第十二品を中心に―― 象 本（XIANG Ben） 1．はじめに 宝積部の第12 経『菩薩蔵経』（Bodhisattvapiṭaka-sūtra）の梵文写本がラサのポタラ 宮に保存されている．この写本に基づく校訂テキストがオスロ大学のイ",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

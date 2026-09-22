@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Adam Farris",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Aryaman Arora",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "John Peterson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Adam Farris",
+   "type": "collaborated_with",
+   "object": "Aryaman Arora",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "For the Purpose of Curry: A UD Treebank for Ashokan Prakrit Adam Farris∗ San Mateo High School adamfarris@gmail.com Aryaman Arora∗ Georgetown University",
+   "quote_ok": false
+  },
+  {
+   "subject": "Adam Farris",
+   "type": "position_at",
+   "object": "San Mateo High School",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Adam Farris∗ San Mateo High School",
+   "quote_ok": false
+  },
+  {
+   "subject": "Aryaman Arora",
+   "type": "position_at",
+   "object": "Georgetown University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Aryaman Arora∗ Georgetown University",
+   "quote_ok": false
+  },
+  {
+   "subject": "Adam Farris",
+   "type": "student_of",
+   "object": "John Peterson",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "We thank John Peterson for his continuous guidance in our work on Ashokan Prakrit",
+   "quote_ok": true
+  },
+  {
+   "subject": "Aryaman Arora",
+   "type": "student_of",
+   "object": "John Peterson",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "We thank John Peterson for his continuous guidance in our work on Ashokan Prakrit",
+   "quote_ok": true
+  }
+ ],
+ "docid": "acl:farris-arora-2021-purpose",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/acl/farris-arora-2021-purpose.txt",
+ "meta": {
+  "title": "For the Purpose of Curry: A UD Treebank for Ashokan Prakrit Adam Farris∗ San Mateo High School adamfarris@gmail.com Aryaman Arora∗ Georgetown Universi",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

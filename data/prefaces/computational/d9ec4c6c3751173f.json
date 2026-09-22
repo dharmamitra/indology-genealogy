@@ -1,0 +1,157 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2025,
+ "people": [
+  {
+   "name": "Sujeet Kumar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Pretam Ray",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Abhinay Beerukuri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Shrey Kamoji",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Manoj Balaji Jagadeeshan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Pawan Goyal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sujeet Kumar",
+   "type": "position_at",
+   "object": "Indian Institute of Technology, Kharagpur",
+   "role": null,
+   "place": "Kharagpur",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sujeet Kumar1,2... 1Indian Institute of Technology, Kharagpur",
+   "quote_ok": false
+  },
+  {
+   "subject": "Sujeet Kumar",
+   "type": "position_at",
+   "object": "B P Mandal College of Engineering",
+   "role": null,
+   "place": "Madhepura",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sujeet Kumar1,2... 2B P Mandal College of Engineering, Madhepura",
+   "quote_ok": false
+  },
+  {
+   "subject": "Pretam Ray",
+   "type": "position_at",
+   "object": "Indian Institute of Technology, Kharagpur",
+   "role": null,
+   "place": "Kharagpur",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pretam Ray1... 1Indian Institute of Technology, Kharagpur",
+   "quote_ok": false
+  },
+  {
+   "subject": "Abhinay Beerukuri",
+   "type": "position_at",
+   "object": "Indian Institute of Technology, Kharagpur",
+   "role": null,
+   "place": "Kharagpur",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Abhinay Beerukuri1... 1Indian Institute of Technology, Kharagpur",
+   "quote_ok": false
+  },
+  {
+   "subject": "Shrey Kamoji",
+   "type": "position_at",
+   "object": "Indian Institute of Technology, Kharagpur",
+   "role": null,
+   "place": "Kharagpur",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Shrey Kamoji1... 1Indian Institute of Technology, Kharagpur",
+   "quote_ok": false
+  },
+  {
+   "subject": "Manoj Balaji Jagadeeshan",
+   "type": "position_at",
+   "object": "Indian Institute of Technology, Kharagpur",
+   "role": null,
+   "place": "Kharagpur",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Manoj Balaji Jagadeeshan1... 1Indian Institute of Technology, Kharagpur",
+   "quote_ok": false
+  },
+  {
+   "subject": "Pawan Goyal",
+   "type": "position_at",
+   "object": "Indian Institute of Technology, Kharagpur",
+   "role": null,
+   "place": "Kharagpur",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pawan Goyal1 1Indian Institute of Technology, Kharagpur",
+   "quote_ok": false
+  },
+  {
+   "subject": "Sujeet Kumar",
+   "type": "collaborated_with",
+   "object": "Pawan Goyal",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Vedavani: A Benchmark Corpus for ASR on Vedic Sanskrit Poetry Sujeet Kumar1,2, Pretam Ray1, Abhinay Beerukuri1, Shrey Kamoji1, Manoj Balaji Jagadeeshan1, Pawan Goyal1",
+   "quote_ok": false
+  }
+ ],
+ "docid": "acl:kumar-etal-2025-vedavani",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/acl/kumar-etal-2025-vedavani.txt",
+ "meta": {
+  "title": "Vedavani: A Benchmark Corpus for ASR on Vedic Sanskrit Poetry Sujeet Kumar1,2, Pretam Ray1, Abhinay Beerukuri1, Shrey Kamoji1, Manoj Balaji Jagadeesha",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

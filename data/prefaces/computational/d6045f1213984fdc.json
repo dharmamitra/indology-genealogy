@@ -1,0 +1,186 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2025,
+ "people": [
+  {
+   "name": "Lei Yang",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Leiyu Pan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Bojian Xiong",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Renren Jin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Shaowei Zhang",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Yue Chen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ling Shi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jiang Zhou",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Junru Wu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Zhen Wang",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jianxiang Peng",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Juesi Xiao",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Tianyu Dong",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Zhuowen Han",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Zhuo Chen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Yuqi Ren",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Deyi Xiong",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Lei Yang",
+   "type": "collaborated_with",
+   "object": "Leiyu Pan",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Continual Pre-training of Dense and MoE Large Language Models for Tibetan Lei Yang*, Leiyu Pan*, Bojian Xiong, Renren Jin, Shaowei Zhang Yue Chen, Ling Shi, Jiang Zhou, Junru Wu, Zhen Wang, Jianxiang Peng Juesi Xiao, Tianyu Dong, Zhuowen Han, Zhuo Chen, Yuqi Ren, Deyi Xiong",
+   "quote_ok": false
+  },
+  {
+   "subject": "Lei Yang",
+   "type": "position_at",
+   "object": "Tianjin University",
+   "role": null,
+   "place": "China",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Lei Yang*, Leiyu Pan*, Bojian Xiong, Renren Jin, Shaowei Zhang Yue Chen, Ling Shi, Jiang Zhou, Junru Wu, Zhen Wang, Jianxiang Peng Juesi Xiao, Tianyu Dong, Zhuowen Han, Zhuo Chen, Yuqi Ren, Deyi Xiong† TJUNLP Lab, School of Computer Science and Technology, Tianjin University, China",
+   "quote_ok": false
+  },
+  {
+   "subject": "Leiyu Pan",
+   "type": "position_at",
+   "object": "Tianjin University",
+   "role": null,
+   "place": "China",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Lei Yang*, Leiyu Pan*, Bojian Xiong, Renren Jin, Shaowei Zhang Yue Chen, Ling Shi, Jiang Zhou, Junru Wu, Zhen Wang, Jianxiang Peng Juesi Xiao, Tianyu Dong, Zhuowen Han, Zhuo Chen, Yuqi Ren, Deyi Xiong† TJUNLP Lab, School of Computer Science and Technology, Tianjin University, China",
+   "quote_ok": false
+  },
+  {
+   "subject": "Deyi Xiong",
+   "type": "position_at",
+   "object": "Tianjin University",
+   "role": null,
+   "place": "China",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Lei Yang*, Leiyu Pan*, Bojian Xiong, Renren Jin, Shaowei Zhang Yue Chen, Ling Shi, Jiang Zhou, Junru Wu, Zhen Wang, Jianxiang Peng Juesi Xiao, Tianyu Dong, Zhuowen Han, Zhuo Chen, Yuqi Ren, Deyi Xiong† TJUNLP Lab, School of Computer Science and Technology, Tianjin University, China",
+   "quote_ok": false
+  }
+ ],
+ "docid": "arxiv:71d1ac7dc89a4eb9fab27fdc5d05e7ba8214a69a",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/arxiv/71d1ac7dc89a4eb9fab27fdc5d05e7ba8214a69a.txt",
+ "meta": {
+  "title": "From Curated Data to Scalable Models: Continual Pre-training of Dense and MoE Large Language Models for Tibetan Lei Yang*, Leiyu Pan*, Bojian Xiong, R",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

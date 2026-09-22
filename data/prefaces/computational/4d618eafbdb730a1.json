@@ -1,0 +1,119 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2023,
+ "people": [
+  {
+   "name": "Luca Brigada Villa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Erica Biagetti",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Riccardo Ginevra",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Chiara Zanchi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Luca Brigada Villa",
+   "type": "collaborated_with",
+   "object": "Erica Biagetti",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "This article results from the joint work of the authors. For academic purposes, Luca Brigada Villa is responsible of sections 1 and 3, Erica Biagetti of sections 4.1, 4.3 and 5",
+   "quote_ok": true
+  },
+  {
+   "subject": "Luca Brigada Villa",
+   "type": "collaborated_with",
+   "object": "Riccardo Ginevra",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "This article results from the joint work of the authors. For academic purposes, Luca Brigada Villa is responsible of sections 1 and 3... Riccardo Ginevra of section 4.2",
+   "quote_ok": true
+  },
+  {
+   "subject": "Luca Brigada Villa",
+   "type": "collaborated_with",
+   "object": "Chiara Zanchi",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "This article results from the joint work of the authors. For academic purposes, Luca Brigada Villa is responsible of sections 1 and 3... and Chiara Zanchi of section 2.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Erica Biagetti",
+   "type": "collaborated_with",
+   "object": "Riccardo Ginevra",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "This article results from the joint work of the authors. For academic purposes, Luca Brigada Villa is responsible of sections 1 and 3, Erica Biagetti of sections 4.1, 4.3 and 5, Riccardo Ginevra of section 4.2",
+   "quote_ok": true
+  },
+  {
+   "subject": "Erica Biagetti",
+   "type": "collaborated_with",
+   "object": "Chiara Zanchi",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "This article results from the joint work of the authors. For academic purposes, Luca Brigada Villa is responsible of sections 1 and 3, Erica Biagetti of sections 4.1, 4.3 and 5, Riccardo Ginevra of section 4.2, and Chiara Zanchi of section 2.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Riccardo Ginevra",
+   "type": "collaborated_with",
+   "object": "Chiara Zanchi",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "This article results from the joint work of the authors. For academic purposes... Riccardo Ginevra of section 4.2, and Chiara Zanchi of section 2.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "acl:villa-etal-2023-combining",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/acl/villa-etal-2023-combining.txt",
+ "meta": {
+  "title": "Abstract This paper shows how WordNets can be employed in tandem with morpho-syntactically annotated corpora to study poetic formulas. Pairing the lex",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

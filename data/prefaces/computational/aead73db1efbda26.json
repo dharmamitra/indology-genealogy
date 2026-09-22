@@ -1,0 +1,164 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Orna Almogi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lena Dankin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Nachum Dershowitz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lior Wolf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Marco Büchler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Daniel Labenski",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Eric Werner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Orna Almogi",
+   "type": "position_at",
+   "object": "Universität Hamburg",
+   "role": null,
+   "place": "Germany",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Orna Almogi1, Lena Dankin2*, Nachum Dershowitz2,3, Lior Wolf2 1Universität Hamburg, Germany",
+   "quote_ok": false
+  },
+  {
+   "subject": "Lena Dankin",
+   "type": "position_at",
+   "object": "Tel Aviv University",
+   "role": null,
+   "place": "Israel",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Lena Dankin2*, Nachum Dershowitz2,3, Lior Wolf2 1Universität Hamburg, Germany 2Tel Aviv University, Israel",
+   "quote_ok": false
+  },
+  {
+   "subject": "Nachum Dershowitz",
+   "type": "position_at",
+   "object": "Tel Aviv University",
+   "role": null,
+   "place": "Israel",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nachum Dershowitz2,3, Lior Wolf2 1Universität Hamburg, Germany 2Tel Aviv University, Israel 3Institut d’Études Avancées de Paris, France",
+   "quote_ok": false
+  },
+  {
+   "subject": "Nachum Dershowitz",
+   "type": "position_at",
+   "object": "Institut d’Études Avancées de Paris",
+   "role": null,
+   "place": "France",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nachum Dershowitz2,3 ... 3Institut d’Études Avancées de Paris, France",
+   "quote_ok": false
+  },
+  {
+   "subject": "Lior Wolf",
+   "type": "position_at",
+   "object": "Tel Aviv University",
+   "role": null,
+   "place": "Israel",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Lior Wolf2 1Universität Hamburg, Germany 2Tel Aviv University, Israel",
+   "quote_ok": false
+  },
+  {
+   "subject": "Marco Büchler",
+   "type": "studied_at",
+   "object": "Universität Leipzig",
+   "role": "PhD",
+   "place": "Germany",
+   "year_start": null,
+   "year_end": 2013,
+   "explicit": true,
+   "evidence": "Marco Büchler, Informationstechnische Aspekte des Historical Text Re-use, Ph.D. thesis, Fakultät für Mathematik und Informatik, Universität Leipzig, Germany, March 2013.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daniel Labenski",
+   "type": "studied_at",
+   "object": "Tel Aviv University",
+   "role": "M.Sc.",
+   "place": "Israel",
+   "year_start": null,
+   "year_end": 2016,
+   "explicit": true,
+   "evidence": "Daniel Labenski, Finding Inter-textual Relations in Historical Texts, M.Sc. thesis, School of Computer Science, Tel Aviv University, Israel, 2016.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eric Werner",
+   "type": "studied_at",
+   "object": "University of Hamburg",
+   "role": "M.A.",
+   "place": "Germany",
+   "year_start": null,
+   "year_end": 2014,
+   "explicit": true,
+   "evidence": "Eric Werner, Phywa-pa Chos-kyi-seng-ge’s (1109–1169) depiction of Mahāyāna philosophy... M.A. thesis, University of Hamburg, Germany, 2014.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "arxiv:857b06bd6971f791207829aaa03718e74653352e",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/arxiv/857b06bd6971f791207829aaa03718e74653352e.txt",
+ "meta": {
+  "title": "1 Journal of Data Mining and Digital Humanities http://jdmdh.episciences.org ISSN 2416-5999, an open-access journal A Hackathon for Classical Tibetan ",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

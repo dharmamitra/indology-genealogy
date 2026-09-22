@@ -1,0 +1,126 @@
+{
+ "author": "Erica Biagetti",
+ "doc_kind": "article",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Erica Biagetti",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Oliver Hellwig",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Salvatore Scarlata",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Elia Ackermann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Paul Widmer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Erica Biagetti",
+   "type": "position_at",
+   "object": "University of Pavia",
+   "role": null,
+   "place": "Pavia",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Erica Biagetti University of Pavia erica.biagetti01@universitadipavia.it",
+   "quote_ok": false
+  },
+  {
+   "subject": "Erica Biagetti",
+   "type": "studied_at",
+   "object": "University of Pavia",
+   "role": "PhD",
+   "place": "Pavia",
+   "year_start": null,
+   "year_end": 2021,
+   "explicit": true,
+   "evidence": "Biagetti, Erica. 2021. R̥ gvedic similes: a corpus-based analysis of their forms and functions. PhD thesis. University of Pavia.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Erica Biagetti",
+   "type": "collaborated_with",
+   "object": "Oliver Hellwig",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2021,
+   "explicit": true,
+   "evidence": "Biagetti, Erica, Oliver Hellwig, Salvatore Scarlata, Elia Ackermann, and Paul Widmer. 2021. Evaluating Syntactic Annotation of Ancient Languages: Lessons from the Vedic Treebank.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Erica Biagetti",
+   "type": "collaborated_with",
+   "object": "Salvatore Scarlata",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2021,
+   "explicit": true,
+   "evidence": "Biagetti, Erica, Oliver Hellwig, Salvatore Scarlata, Elia Ackermann, and Paul Widmer. 2021. Evaluating Syntactic Annotation of Ancient Languages: Lessons from the Vedic Treebank.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Erica Biagetti",
+   "type": "collaborated_with",
+   "object": "Elia Ackermann",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2021,
+   "explicit": true,
+   "evidence": "Biagetti, Erica, Oliver Hellwig, Salvatore Scarlata, Elia Ackermann, and Paul Widmer. 2021. Evaluating Syntactic Annotation of Ancient Languages: Lessons from the Vedic Treebank.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Erica Biagetti",
+   "type": "collaborated_with",
+   "object": "Paul Widmer",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2021,
+   "explicit": true,
+   "evidence": "Biagetti, Erica, Oliver Hellwig, Salvatore Scarlata, Elia Ackermann, and Paul Widmer. 2021. Evaluating Syntactic Annotation of Ancient Languages: Lessons from the Vedic Treebank.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "acl:biagetti-2021-rigveda",
+ "corpus": "computational",
+ "path": "/home/sebastian/code/indology-genealogy/data/computational/acl/biagetti-2021-rigveda.txt",
+ "meta": {
+  "title": "The RigVeda goes “universal”: annotation and analysis of equative constructions in Vedic and beyond Erica Biagetti University of Pavia erica.biagetti0",
+  "author": "",
+  "year": null,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}
