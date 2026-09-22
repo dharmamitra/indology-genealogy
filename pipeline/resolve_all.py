@@ -268,6 +268,27 @@ def main():
             [{"name": n, "context": [c[:140] for c in ctx[n][:2]]} for n in b], ensure_ascii=False, indent=0)), INST_SCHEMA), b), ib))
     pmap = {x["name"]: x for res in pres for x in res}
     imap = {x["name"]: x for res in ires for x in res if x.get("canonical")}
+    # the model sometimes drops names from a batch answer: ask again for whatever is missing, in small batches
+    for rnd in range(3):
+        miss_p = [n for n in pnames if n not in pmap]
+        miss_i = [n for n in inames if n not in imap and n not in {x["name"] for res in ires for x in res}]
+        if not miss_p and not miss_i:
+            break
+        print(f"[resolve] retry {rnd}: {len(miss_p)} person and {len(miss_i)} institution strings missing from batch answers", flush=True)
+        pb2 = [miss_p[i:i + 15] for i in range(0, len(miss_p), 15)]
+        ib2 = [miss_i[i:i + 30] for i in range(0, len(miss_i), 30)]
+        with ThreadPoolExecutor(32) as ex:
+            pres2 = list(ex.map(lambda b: safe(lambda b: llm_json(client, pp.replace("{items}", json.dumps([pitem(n) for n in b], ensure_ascii=False, indent=0) + f"\n(retry {rnd})"), PERSON_SCHEMA), b), pb2))
+            ires2 = list(ex.map(lambda b: safe(lambda b: llm_json(client, INST_PROMPT.replace("{items}", json.dumps(
+                [{"name": n, "context": [c[:140] for c in ctx[n][:2]]} for n in b], ensure_ascii=False, indent=0) + f"\n(retry {rnd})"), INST_SCHEMA), b), ib2))
+        for res in pres2:
+            for x in res:
+                pmap.setdefault(x["name"], x)
+        for res in ires2:
+            for x in res:
+                if x.get("canonical"):
+                    imap.setdefault(x["name"], x)
+        ires += ires2
 
     # canonical strings that differ only by diacritics / token order are one person unless their dates conflict
     canon_by_fold = {}
@@ -324,6 +345,8 @@ def main():
             v = {"verdict": "ok", "current": True, "doc_year": r.get("doc_year")}; r["v"] = v
         if r.get("page") in ("blank_page", "not_printed"):  # the OCR text is not on the scanned page: invented by the OCR model
             skipped["page check: quote not on the scanned page"] += 1; continue
+        if os.getenv("DEBUG_NAME") and os.environ["DEBUG_NAME"] in sub + obj:
+            print("[debug-pre]", sub, typ, obj, "| verdict", v.get("verdict"), "| page", r.get("page"), flush=True)
         if v.get("verdict") == "not_supported":
             skipped["verifier: quote does not support it"] += 1; continue
         if v.get("verdict") == "wrong_type" and v.get("type") and v["type"] != typ:
@@ -334,6 +357,8 @@ def main():
             skipped["verifier: direction disputed"] += 1; continue
         s = pnode(sub)
         o = pnode(obj) if typ in PERSON_OBJ else inode(obj)
+        if os.getenv("DEBUG_NAME") and os.environ["DEBUG_NAME"] in sub + obj:
+            print("[debug]", sub, typ, obj, "->", s, o, "| kinds:", (pmap.get(sub) or {}).get("kind"), (pmap.get(obj) or imap.get(obj) or {}).get("kind"), flush=True)
         if not s or not o or s == o:
             skipped[(pmap.get(sub) or {}).get("kind", "unresolved") if not s else "object unresolved"] += 1
             continue
