@@ -12,9 +12,14 @@ from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor
 
 import requests
-from google import genai
+try:
+    from google import genai
+    from google.genai import types
+except ImportError:  # only needed for the Gemini backend; see llm.py
+    genai = types = None
 
 from extract_relations import load_key, DATA
+import llm
 from resolve_entities import llm_json
 from wikidata_enrich import api, entities, claim_vals, first_year, qid_of, label, coords, year, PROPS, SCHOLARLY, UA, CACHE
 
@@ -141,7 +146,7 @@ def main():
     items = [{"id": n["id"], "name": n["label"], "city": n.get("city"), "kind": n.get("kind"),
               "candidates": [{"qid": q, "label": label(ients.get(q, {})), "description": ients.get(q, {}).get("descriptions", {}).get("en", {}).get("value")} for q in ic[n["id"]]]}
              for n in insts if ic[n["id"]]]
-    client = genai.Client(api_key=load_key())
+    client = llm.make_client()
     schema = {"type": "ARRAY", "items": {"type": "OBJECT", "properties": {"id": {"type": "STRING"}, "qid": {"type": "STRING", "nullable": True}}, "required": ["id"]}}
     chunks = [items[i:i + 50] for i in range(0, len(items), 50)]
 
