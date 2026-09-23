@@ -1,0 +1,109 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1900,
+ "people": [
+  {
+   "name": "Richard Carnac Temple",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Paul Deussen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Karl Friedrich Burkhardt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Geo. A. Grierson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Thomas Lambert Barlow",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Fred. McNair",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Richard Carnac Temple",
+   "type": "position_at",
+   "object": "Indian Antiquary",
+   "role": "Editor",
+   "place": null,
+   "year_start": 1900,
+   "year_end": 1900,
+   "explicit": true,
+   "evidence": "THE INDIAN ANTIQUARY... EDITED BY RICHARD CARNAC TEMPLE, C.I.E.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Paul Deussen",
+   "type": "position_at",
+   "object": "University of Kiel",
+   "role": "Professor",
+   "place": "Kiel",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. PAUL DEUSSEN, Professor at the University of Kiel",
+   "quote_ok": true
+  },
+  {
+   "subject": "Geo. A. Grierson",
+   "type": "collaborated_with",
+   "object": "Karl Friedrich Burkhardt",
+   "role": "translator and editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Essays on Kashmiri Grammar, by the late Karl Friedrich Burkhardt, translated and edited with Notes and additions",
+   "quote_ok": false
+  },
+  {
+   "subject": "Thomas Lambert Barlow",
+   "type": "collaborated_with",
+   "object": "Fred. McNair",
+   "role": "joint collector",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Folk-Tales from the Indus Valley (collected by Thomas Lambert Barlow and Major Fred. McNair",
+   "quote_ok": false
+  }
+ ],
+ "docid": "indian_antiquary_29_1900",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Indian Antiquary/indian_antiquary_29_1900.pdf.txt",
+ "meta": {
+  "category": "Indian Antiquary",
+  "pdf_pages": 447,
+  "script": "latin",
+  "kd_docid": "ce4a6604__indian_antiquary_29_1900"
+ },
+ "model": "gemini-flash-latest"
+}

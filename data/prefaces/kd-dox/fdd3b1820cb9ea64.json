@@ -1,0 +1,76 @@
+{
+ "author": "K. Balasubrahmanyam",
+ "doc_kind": "text_edition",
+ "doc_year": 1912,
+ "people": [
+  {
+   "name": "K. Balasubrahmanyam",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Brahmasri Subrahmanya Sastrigal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Vedanta"
+  },
+  {
+   "name": "Brahmasri Vaidyanatha Sastrigal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Mimamsa"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Brahmasri Subrahmanya Sastrigal",
+   "type": "position_at",
+   "object": "Sanskrit Institute of Bangalore",
+   "role": "Professor of Vedanta",
+   "place": "Bangalore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Brahmasrt Subrahmanya Sastrigal, Professor of Vedanta at the Sans- krit Institute of Bangalore",
+   "quote_ok": true
+  },
+  {
+   "subject": "Brahmasri Vaidyanatha Sastrigal",
+   "type": "position_at",
+   "object": "Sanskrit Institute of Bangalore",
+   "role": "Professor of Mimamsa",
+   "place": "Bangalore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Brahmaysri Vuidyanatha Sastrigal, Professor of Mimamsa at the Sanskrit Institute of Bangalore",
+   "quote_ok": true
+  },
+  {
+   "subject": "K. Balasubrahmanyam",
+   "type": "collaborated_with",
+   "object": "Brahmasri Vaidyanatha Sastrigal",
+   "role": "editor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1912,
+   "explicit": true,
+   "evidence": "We have also to specially thank Brahmaysri Vuidyanatha Sastrigal, Professor of Mimamsa at the Sanskrit Institute of Bangalore, but for whose invaluable help in editing, we could not have brought out this precious work.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Vada Nakshatra Mala",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Vada Nakshatra Mala.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 362,
+  "script": "deva",
+  "kd_docid": "551dc265__Vada_Nakshatra_Mala"
+ },
+ "model": "gemini-flash-latest"
+}

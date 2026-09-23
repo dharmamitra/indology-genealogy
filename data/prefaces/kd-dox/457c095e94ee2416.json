@@ -1,0 +1,64 @@
+{
+ "author": "Yutaka Iwamoto",
+ "doc_kind": "text_edition",
+ "doc_year": 1937,
+ "people": [
+  {
+   "name": "Yutaka Iwamoto",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "G. Tokiwa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "R. Sakaki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Yutaka Iwamoto",
+   "type": "student_of",
+   "object": "G. Tokiwa",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "tochverehrten Lehlern ( Herrn Baron Dr. G. TOKIWA ... in der herzlichsten Dankbarkeit ... gewidmet",
+   "quote_ok": true
+  },
+  {
+   "subject": "Yutaka Iwamoto",
+   "type": "student_of",
+   "object": "R. Sakaki",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "tochverehrten Lehlern ( ... Herrn emerit. Prof. R. SAKAKI ... in der herzlichsten Dankbarkeit ... gewidmet",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Iwamoto Yutaka_岩本裕_1937_Kleinere Dharani Texte",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Iwamoto Yutaka_岩本裕_1937_Kleinere Dharani Texte.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 10,
+  "script": "latin",
+  "kd_docid": "2c5d61f6__Iwamoto_Yutaka_岩本裕_1937_Kleinere_Dharani_Texte"
+ },
+ "model": "gemini-flash-latest"
+}

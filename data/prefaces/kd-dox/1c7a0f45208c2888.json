@@ -1,0 +1,57 @@
+{
+ "author": "Charles Ramble",
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Charles Ramble",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lobsang Phuntshog",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Charles Ramble",
+   "type": "studied_at",
+   "object": "University of Oxford",
+   "role": "D. Phil.",
+   "place": null,
+   "year_start": 1981,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The research for this article was carried out in Nepal in 1981-2 towards a D. Phil. degree for the University of Oxford.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Ramble",
+   "type": "collaborated_with",
+   "object": "Lobsang Phuntshog",
+   "role": "translation",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "This text, of which a translation is currently being prepared... I wish to acknowledge the considerable help given me by Lobsang Phuntshog in making the translation.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "kailash_09_04_03",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/From Silk/Journals/Kailash/kailash_09_04_03.pdf.txt",
+ "meta": {
+  "category": "From Silk",
+  "pdf_pages": 26,
+  "script": "latin",
+  "kd_docid": "d28f194a__kailash_09_04_03"
+ },
+ "model": "gemini-flash-latest"
+}

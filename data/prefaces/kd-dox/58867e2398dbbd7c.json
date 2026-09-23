@@ -1,0 +1,64 @@
+{
+ "author": "Ernst Steinkellner",
+ "doc_kind": "article",
+ "doc_year": 2003,
+ "people": [
+  {
+   "name": "Ernst Steinkellner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Erich Frauwallner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Tilmann Vetter",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ernst Steinkellner",
+   "type": "student_of",
+   "object": "Erich Frauwallner",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. Frauwallner, my teacher, used to translate the term by ‘richtige Erkenntnis’",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tilmann Vetter",
+   "type": "studied_at",
+   "object": "University of Vienna",
+   "role": "PhD",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": 1964,
+   "explicit": false,
+   "evidence": "A benign kind of circularity was first formulated in VETTER’s Vienna dissertation2",
+   "quote_ok": true
+  }
+ ],
+ "docid": "JIP-31-1-323",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/From Silk/Journals/JIP-unfiled/JIP-31-1-323.pdf.txt",
+ "meta": {
+  "category": "From Silk",
+  "pdf_pages": 19,
+  "script": "latin",
+  "kd_docid": "ce38d51c__JIP-31-1-323"
+ },
+ "model": "gemini-flash-latest"
+}

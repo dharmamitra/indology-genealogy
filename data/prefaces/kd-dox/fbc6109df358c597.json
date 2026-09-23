@@ -1,0 +1,57 @@
+{
+ "author": "Unrai Wogihara",
+ "doc_kind": "text_edition",
+ "doc_year": 1935,
+ "people": [
+  {
+   "name": "Unrai Wogihara",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "E. Leumann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Unrai Wogihara",
+   "type": "position_at",
+   "object": "Taisho College",
+   "role": "Professor of Sanscrit",
+   "place": "Tokyo",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "EDITED BY UNRAI WOGIHARA Professor of Sanscrit, Taisho College Tokyo.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Unrai Wogihara",
+   "type": "student_of",
+   "object": "E. Leumann",
+   "role": "teacher",
+   "place": "Germany",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Thirty-four years ago, when I was staying in Germany as a student, through the kind favour of my hono- ured Professor E. Leumann, I had the loan of this manuscript",
+   "quote_ok": true
+  }
+ ],
+ "docid": "AAAa_Wogihara_1932-1935_1",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Abhisamayaalamkaara_materials/AAAa_Wogihara_1932-1935_1.pdf.txt",
+ "meta": {
+  "category": "Abhisamayaalamkaara_materials",
+  "pdf_pages": 19,
+  "script": "latin",
+  "kd_docid": "00282f46__AAAa_Wogihara_1932-1935_1"
+ },
+ "model": "gemini-flash-latest"
+}

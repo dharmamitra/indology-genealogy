@@ -1,0 +1,181 @@
+{
+ "author": null,
+ "doc_kind": "monograph",
+ "doc_year": 1947,
+ "people": [
+  {
+   "name": "LOUIS RENOU",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Indology"
+  },
+  {
+   "name": "JEAN FILLIOZAT",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Indology"
+  },
+  {
+   "name": "PIERRE MEILE",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Indology"
+  },
+  {
+   "name": "ANNE-MARIE ESNOUL",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Indology"
+  },
+  {
+   "name": "LILIANE SILBURN",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Indology"
+  },
+  {
+   "name": "Sylvain Lévi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "LOUIS RENOU",
+   "type": "position_at",
+   "object": "Faculté des Lettres",
+   "role": "Professeur",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "LOUIS: RENOU... Professeur a la Faculté des Lettres.",
+   "quote_ok": true
+  },
+  {
+   "subject": "JEAN FILLIOZAT",
+   "type": "position_at",
+   "object": "Ecole des Hautes Etudes",
+   "role": "Directeur d'études",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "JEAN. FILLIOZAT Membre de l'Institut Directeur. d'études 4 Ecole des Hautes Etudes.",
+   "quote_ok": true
+  },
+  {
+   "subject": "PIERRE MEILE",
+   "type": "position_at",
+   "object": "Ecole des Langues Orientales",
+   "role": "Professeur",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "PIERRE: MEILE Professeur a l'Ecole des Langues Orientales",
+   "quote_ok": true
+  },
+  {
+   "subject": "ANNE-MARIE ESNOUL",
+   "type": "position_at",
+   "object": "Centre de la recherche scientifique",
+   "role": "Boursière",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ANNE-MARIE ESNOUL Boursiére-du Centre de la recherche scientifique.",
+   "quote_ok": true
+  },
+  {
+   "subject": "LILIANE SILBURN",
+   "type": "position_at",
+   "object": "Centre de la recherche scientifique",
+   "role": "Boursière",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "LILIANE SILBURN Boursiére du Centre de la recherche scientifique.",
+   "quote_ok": true
+  },
+  {
+   "subject": "LOUIS RENOU",
+   "type": "collaborated_with",
+   "object": "JEAN FILLIOZAT",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1947,
+   "explicit": true,
+   "evidence": "LINDE CLASSIQUE MANUEL DES BTUDES INDIENNES PAR LOUIS: RENOU. et JEAN. FILLIOZAT",
+   "quote_ok": true
+  },
+  {
+   "subject": "LOUIS RENOU",
+   "type": "student_of",
+   "object": "Sylvain Lévi",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A des générations diverses, les auteurs se sentent les élèves de Sylvain Lévi et les tributaires de sa pensée.",
+   "quote_ok": false
+  },
+  {
+   "subject": "JEAN FILLIOZAT",
+   "type": "student_of",
+   "object": "Sylvain Lévi",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A des générations diverses, les auteurs se sentent les élèves de Sylvain Lévi et les tributaires de sa pensée.",
+   "quote_ok": false
+  },
+  {
+   "subject": "LOUIS RENOU",
+   "type": "influenced_by",
+   "object": "Sylvain Lévi",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A des générations diverses, les auteurs se sentent les élèves de Sylvain Lévi et les tributaires de sa pensée.",
+   "quote_ok": false
+  },
+  {
+   "subject": "JEAN FILLIOZAT",
+   "type": "influenced_by",
+   "object": "Sylvain Lévi",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A des générations diverses, les auteurs se sentent les élèves de Sylvain Lévi et les tributaires de sa pensée.",
+   "quote_ok": false
+  }
+ ],
+ "docid": "renou_filliozat_-_l_inde_classique",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/renou_filliozat_-_l_inde_classique.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 690,
+  "script": "latin",
+  "kd_docid": "0c6b27c3__renou_filliozat_-_l_inde_classique"
+ },
+ "model": "gemini-flash-latest"
+}

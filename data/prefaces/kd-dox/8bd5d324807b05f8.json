@@ -1,0 +1,83 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Mahadeva Shastri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "Kunhan Raja",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "P. K. Telang",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "F. O. Schrader",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Kunhan Raja",
+   "type": "studied_at",
+   "object": "University of Oxford",
+   "role": "D. Phil.",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Kunhan Raja, M.A., D. Phil. (Oxon.)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mahadeva Shastri",
+   "type": "position_at",
+   "object": "Adyar Library",
+   "role": "Director",
+   "place": "Adyar",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the late lamented Director Pandit A. Mahadeva Shastri",
+   "quote_ok": true
+  },
+  {
+   "subject": "P. K. Telang",
+   "type": "position_at",
+   "object": "Adyar Library",
+   "role": "Officiating Director",
+   "place": "Adyar",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "an Officiating Director of the Library... P. K. TELANG, Officiating Director",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Adyar_Cat_I",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/from Andrey/Manuscript Catalogues/Adyar_Cat_I.pdf.txt",
+ "meta": {
+  "category": "from Andrey",
+  "pdf_pages": 261,
+  "script": "deva",
+  "kd_docid": "6d9443e2__Adyar_Cat_I"
+ },
+ "model": "gemini-flash-latest"
+}

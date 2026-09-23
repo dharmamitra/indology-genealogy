@@ -1,0 +1,90 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 1934,
+ "people": [
+  {
+   "name": "E. M. Hare",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Mrs. Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "F. L. Woodward",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "T. W. Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "H. Oldenberg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Mrs. Rhys Davids",
+   "type": "position_at",
+   "object": "Pali Text Society",
+   "role": "President",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "THE Pali Text Society during its fifty-two years of life has had its ups and downs, and these have reverberated in the spiritual thermometers of its Presidents.",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. M. Hare",
+   "type": "collaborated_with",
+   "object": "F. L. Woodward",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mr. Woodward, who has given us five of such volumes, and who may yet give us the last of this, the Anguttara Collection, has handed over this and the next volume to Mr. Hare.",
+   "quote_ok": true
+  },
+  {
+   "subject": "T. W. Rhys Davids",
+   "type": "collaborated_with",
+   "object": "H. Oldenberg",
+   "role": "co-translators",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rhys Davids has recorded on the fly-leaf that he, and not H. Oldenberg, was responsible for this portion (S.B.E. Vinaya Texts).",
+   "quote_ok": false
+  }
+ ],
+ "docid": "PTS_Gradual_Sayings_III",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/books/PTS_Gradual_Sayings_III.pdf.txt",
+ "meta": {
+  "category": "books",
+  "pdf_pages": 169,
+  "script": "latin",
+  "kd_docid": "805a388a__PTS_Gradual_Sayings_III"
+ },
+ "model": "gemini-flash-latest"
+}

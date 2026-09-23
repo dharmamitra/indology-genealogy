@@ -1,0 +1,150 @@
+{
+ "author": "Hans Bakker",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Hans Bakker",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jan Gonda",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jacob Ensink",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Annette Bieringa-Gonda",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Claudine Bautze-Picron",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Robert Bracey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hans Bakker",
+   "type": "other",
+   "object": "Jan Gonda",
+   "role": "grand-pupil (praśiṣya)",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I am his praśis.ya, grand-pupil, through his pupil Jacob Ensink.",
+   "quote_ok": true,
+   "page": 4,
+   "gloss_en": null
+  },
+  {
+   "subject": "Jacob Ensink",
+   "type": "student_of",
+   "object": "Jan Gonda",
+   "role": "teacher (unspecified)",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "through his pupil Jacob Ensink",
+   "quote_ok": true,
+   "page": 4,
+   "gloss_en": null
+  },
+  {
+   "subject": "Hans Bakker",
+   "type": "student_of",
+   "object": "Jacob Ensink",
+   "role": "teacher (unspecified)",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I am his praśis.ya, grand-pupil, through his pupil Jacob Ensink.",
+   "quote_ok": true,
+   "page": 4,
+   "gloss_en": null
+  },
+  {
+   "subject": "Hans Bakker",
+   "type": "position_at",
+   "object": "University of Groningen",
+   "role": "Gonda Chair (professor)",
+   "place": null,
+   "year_start": 1996,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The Gonda Chair had been endowed to the University of Groningen by the J. Gonda Fund Foundation, which administers Gonda's bequest to the Royal Netherlands Academy of Arts and Sciences since 1992.",
+   "quote_ok": true,
+   "page": 4,
+   "gloss_en": null
+  },
+  {
+   "subject": "Jan Gonda",
+   "type": "position_at",
+   "object": "School of Oriental and African Studies",
+   "role": "visiting: Jordan Lectures",
+   "place": null,
+   "year_start": 1969,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the Jordan Lectures that Jan Gonda had presented at the School of Oriental and African Studies in 1969",
+   "quote_ok": true,
+   "page": 4,
+   "gloss_en": null
+  },
+  {
+   "subject": "Annette Bieringa-Gonda",
+   "type": "other",
+   "object": "Jan Gonda",
+   "role": "niece",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Annette Bieringa-Gonda, a niece of Jan Gonda",
+   "quote_ok": true,
+   "page": 4,
+   "gloss_en": null
+  }
+ ],
+ "docid": "Bakker Gonda Lecture 20170619-gondalezing-bakker-web",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Bakker Gonda Lecture 20170619-gondalezing-bakker-web.pdf.txt",
+ "meta": {
+  "title": "Monuments of Hope, Gloom, and Glory in the Age of the Hunnic Wars. 50 years that changed India (484–534)",
+  "author": "Hans Bakker",
+  "year": 2017,
+  "language": "English",
+  "kd_docid": "0a39fd62__Bakker_Gonda_Lecture_20170619-gondalezing-bakker-web",
+  "category": "(root)",
+  "pdf_pages": 67,
+  "dissertation": null,
+  "preface_signed": null
+ },
+ "model": "claude:sonnet (kd pass 1)"
+}

@@ -1,0 +1,126 @@
+{
+ "author": "Teignmouth",
+ "doc_kind": "monograph",
+ "doc_year": 1804,
+ "people": [
+  {
+   "name": "William Jones",
+   "birth_year": null,
+   "death_year": 1793,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Teignmouth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Anna Maria",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jonathan Shipley",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Flaxman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Wilford",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Anna Maria",
+   "type": "other",
+   "object": "Jonathan Shipley",
+   "role": "daughter",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ANNA. MARIA. FILIA. JONATHAN. SHIPLEY. EPIS. ASAPIL",
+   "quote_ok": true,
+   "page": 19,
+   "gloss_en": "Anna Maria, daughter of Jonathan Shipley, Bishop of St Asaph"
+  },
+  {
+   "subject": "Anna Maria",
+   "type": "other",
+   "object": "William Jones",
+   "role": "wife; erected monument to her husband",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "CONIVGI. SVO. B. M. P. C.",
+   "quote_ok": true,
+   "page": 19,
+   "gloss_en": "To her well-deserving husband, [she] had this erected"
+  },
+  {
+   "subject": "Flaxman",
+   "type": "other",
+   "object": "Anna Maria",
+   "role": "sculpted the monument, commissioned/paid for by Lady Jones",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The inscription on the elegant monutnent executed by Flaxman, at the expense of Lady Jones, and placed in the anti-chamber to the 'Chapel of University College,. Oxford",
+   "quote_ok": true,
+   "page": 17,
+   "gloss_en": null
+  },
+  {
+   "subject": "William Jones",
+   "type": "position_at",
+   "object": "Bengal",
+   "role": "Judge",
+   "place": "Bengal",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "CVM; A. PROVINCIA. BENGALA. VBI. IVDICIS. • INTEGERRIMI. MVNVS. PER. DECENNIVM. OBIERAT.",
+   "quote_ok": true,
+   "page": 19,
+   "gloss_en": "Since he had held the office of a most upright judge in the province of Bengal for ten years"
+  }
+ ],
+ "docid": "17223",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/17223.pdf.txt",
+ "meta": {
+  "title": "Memoirs of the Life, Writings, and Correspondence of Sir William Jones",
+  "author": "Teignmouth",
+  "year": 1804,
+  "language": "English",
+  "kd_docid": "ee375b44__17223",
+  "category": "(root)",
+  "pdf_pages": 554,
+  "dissertation": null,
+  "preface_signed": {
+   "place": null,
+   "date_text": null,
+   "year": null
+  }
+ },
+ "model": "claude:sonnet (kd pass 1)"
+}

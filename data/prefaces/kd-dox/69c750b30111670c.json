@@ -1,0 +1,63 @@
+{
+ "author": "Arnold C. Taylor",
+ "doc_kind": "text_edition",
+ "doc_year": 1979,
+ "people": [
+  {
+   "name": "Arnold C. Taylor",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Mrs. Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Mrs. Rhys Davids",
+   "type": "other",
+   "object": "Arnold C. Taylor",
+   "role": "reviewed his edition of Vol. I in JRAS, January 1906",
+   "place": null,
+   "year_start": 1906,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mrs. Rhys Davids, in her kindly notice of my edition of Vol. I. (J. R. A. S. for January, 1906), remarked that the ‘Patisambhidamagga’ has apparently ‘strayed from what should be its proper collection...",
+   "quote_ok": true,
+   "page": 4,
+   "gloss_en": null
+  }
+ ],
+ "docid": "Patis2",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Editions Series/Patis2.pdf.txt",
+ "meta": {
+  "title": "Patisambhidamagga, Vol. II",
+  "author": "Arnold C. Taylor",
+  "year": 1979,
+  "language": "English",
+  "kd_docid": "bca2b851__Patis2",
+  "category": "Editions Series",
+  "pdf_pages": 267,
+  "dissertation": null,
+  "preface_signed": {
+   "place": null,
+   "date_text": "November, 1907.",
+   "year": 1907
+  }
+ },
+ "model": "claude:sonnet (kd pass 1)"
+}

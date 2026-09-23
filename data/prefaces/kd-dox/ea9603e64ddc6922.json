@@ -1,0 +1,83 @@
+{
+ "author": "Hermann Brockhaus",
+ "doc_kind": "text_edition",
+ "doc_year": 1839,
+ "people": [
+  {
+   "name": "Hermann Brockhaus",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Franz Bopp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Friedrich Rosen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Robert Lenz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Franz Bopp",
+   "type": "position_at",
+   "object": "Berlin",
+   "role": "Prof.",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Noth muss ich dankbar des Herrn Prof. Bopp in Berlin crwihnen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Brockhaus",
+   "type": "other",
+   "object": "Friedrich Rosen",
+   "role": "friendship",
+   "place": "England",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "meine beiden Freunde Friedrich Rosen und Robert Lenz, die mit steter Theilnahme lange Zeit hindurch in England meine Arbeit firderten, mit denen ich im innigsten geistigen und freundschaftlichen Verkehre gelebt habe",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Brockhaus",
+   "type": "other",
+   "object": "Robert Lenz",
+   "role": "friendship",
+   "place": "England",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "meine beiden Freunde Friedrich Rosen und Robert Lenz, die mit steter Theilnahme lange Zeit hindurch in England meine Arbeit firderten, mit denen ich im innigsten geistigen und freundschaftlichen Verkehre gelebt habe",
+   "quote_ok": true
+  }
+ ],
+ "docid": "kathasaritsagar1",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/kathasaritsagar1.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 621,
+  "script": "deva",
+  "kd_docid": "445bb2a4__kathasaritsagar1"
+ },
+ "model": "gemini-flash-latest"
+}

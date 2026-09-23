@@ -1,0 +1,57 @@
+{
+ "author": "K. T. Fann",
+ "doc_kind": "monograph",
+ "doc_year": 1970,
+ "people": [
+  {
+   "name": "K. T. Fann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Max Fisch",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "K. T. Fann",
+   "type": "studied_at",
+   "object": "University of Illinois",
+   "role": "M.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1963,
+   "explicit": true,
+   "evidence": "It was written in 1963 as my M.A. thesis at the University of Illinois.",
+   "quote_ok": true
+  },
+  {
+   "subject": "K. T. Fann",
+   "type": "student_of",
+   "object": "Max Fisch",
+   "role": "MA supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1963,
+   "explicit": false,
+   "evidence": "I should like to acknowledge my indebtedness to Dr. Max Fisch who broached this topic to me and who advised me continuously through its development",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Fann_K_T_1970",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Fann_K_T_1970.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 36,
+  "script": "latin",
+  "kd_docid": "95fdd5eb__Fann_K_T_1970"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,57 @@
+{
+ "author": "A. L. Basham",
+ "doc_kind": "monograph",
+ "doc_year": 1953,
+ "people": [
+  {
+   "name": "A. L. Basham",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "History of India"
+  },
+  {
+   "name": "L. D. Barnett",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "A. L. Basham",
+   "type": "position_at",
+   "object": "University of London",
+   "role": "Reader in the History of India",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A. L. BASHAM B.A., Ph.D., F.R.A.S. READER IN THE HISTORY OF INDIA IN THE UNIVERSITY OF LONDON",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. L. Basham",
+   "type": "student_of",
+   "object": "L. D. Barnett",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. L. D. Barnett (my respected teacher, whose Antiquities of India, written over forty years ago, has to some extent served as a model for this book)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "basham_india",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/basham_india.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 551,
+  "script": "latin",
+  "kd_docid": "af82c7f7__basham_india"
+ },
+ "model": "gemini-flash-latest"
+}

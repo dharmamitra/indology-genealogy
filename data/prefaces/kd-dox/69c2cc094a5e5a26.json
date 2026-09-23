@@ -1,0 +1,85 @@
+{
+ "author": "Kazuo Kano",
+ "doc_kind": "article",
+ "doc_year": 2016,
+ "people": [
+  {
+   "name": "Kazuo Kano",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indology"
+  },
+  {
+   "name": "Ekai Kawaguchi",
+   "birth_year": 1866,
+   "death_year": 1945,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Rahula Sankrtyayana",
+   "birth_year": 1893,
+   "death_year": 1963,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "dGe 'dun chos 'phel",
+   "birth_year": 1903,
+   "death_year": 1951,
+   "nationality": "Tibetan",
+   "field": null
+  },
+  {
+   "name": "Carmen Meinert",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Ruhr University Bochum",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Rahula Sankrtyayana",
+   "type": "collaborated_with",
+   "object": "dGe 'dun chos 'phel",
+   "role": null,
+   "place": "Retreng",
+   "year_start": 1934,
+   "year_end": 1934,
+   "explicit": true,
+   "evidence": "on 5 August 1934 Sankrtyayana and Gendün chöpel, after careful preparations, together visited the monastery",
+   "quote_ok": false
+  },
+  {
+   "subject": "Carmen Meinert",
+   "type": "position_at",
+   "object": "Ruhr University Bochum",
+   "role": "Fellow",
+   "place": "Bochum",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "discussions with my colleagues from the Buddhism in Motion group at the Center for Religious Studies (CERES) at Ruhr University Bochum; ... During a year of fellowship at the Kate Hamburger Kolleg",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Transmission_of_Sanskrit_manuscripts_fr",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/books/Transmission_of_Sanskrit_manuscripts_fr.pdf.txt",
+ "meta": {
+  "category": "books",
+  "pdf_pages": 20,
+  "script": "latin",
+  "kd_docid": "be2e4ab3__Transmission_of_Sanskrit_manuscripts_fr"
+ },
+ "model": "gemini-flash-latest"
+}

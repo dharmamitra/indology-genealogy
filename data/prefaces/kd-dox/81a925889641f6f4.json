@@ -1,0 +1,69 @@
+{
+ "author": "Adam Hardy",
+ "doc_kind": "article",
+ "doc_year": 2001,
+ "people": [
+  {
+   "name": "Adam Hardy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Architectural History"
+  },
+  {
+   "name": "Ajay J. Sinha",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Architectural History"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Adam Hardy",
+   "type": "position_at",
+   "object": "De Montfort University, Leicester",
+   "role": null,
+   "place": "Leicester",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ADAM HARDY\n  De Montfort University, Leicester",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adam Hardy",
+   "type": "studied_at",
+   "object": "Council for National Academic Awards",
+   "role": "PhD",
+   "place": "U.K.",
+   "year_start": null,
+   "year_end": 1991,
+   "explicit": true,
+   "evidence": "This is based on my Ph.D. dissertation, \"The Karnata Dravida Tradition: Development of Indian Temple Architecture in Karnataka, 7th to 13th Centuries,\" Council for National Academic Awards (U.K., 1991).",
+   "quote_ok": false
+  },
+  {
+   "subject": "Ajay J. Sinha",
+   "type": "studied_at",
+   "object": "University of Pennsylvania",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 1993,
+   "explicit": true,
+   "evidence": "Ajay J. Sinha, based on his Ph.D. dissertation, \"Originality and Origination of Vesara Architecture\" (University of Pennsylvania, 1993)",
+   "quote_ok": false
+  }
+ ],
+ "docid": "991703",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/991703.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 21,
+  "script": "latin",
+  "kd_docid": "e5ab6471__991703"
+ },
+ "model": "gemini-flash-latest"
+}

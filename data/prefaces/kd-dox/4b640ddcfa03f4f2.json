@@ -1,0 +1,56 @@
+{
+ "author": "Francis Gladwin",
+ "doc_kind": "text_edition",
+ "doc_year": 1800,
+ "people": [
+  {
+   "name": "Francis Gladwin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Warren Hastings",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Francis Gladwin",
+   "type": "other",
+   "object": "Warren Hastings",
+   "role": "dedicatee (patron)",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "THIS WORK (tranflated under his Patronage) IS MOST HUMBLY DEDICATED BY HIS MOST OBLIGED AND DEVOTED HUMBLE SERVANT, THE TRANSLATOR.",
+   "quote_ok": true,
+   "page": 8,
+   "gloss_en": null
+  }
+ ],
+ "docid": "2015.69722.Ayeen-Akbery-Vol1_text",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/2015.69722.Ayeen-Akbery-Vol1_text.pdf.txt",
+ "meta": {
+  "title": "Ayeen Akbery, or, The Institutes of the Emperor Akber",
+  "author": "Francis Gladwin",
+  "year": 1800,
+  "language": "English",
+  "kd_docid": "2e1efb7a__2015_69722_Ayeen-Akbery-Vol1_text",
+  "category": "(root)",
+  "pdf_pages": 422,
+  "dissertation": null,
+  "preface_signed": {
+   "place": "Calcutta",
+   "date_text": "Sept. 21, 1785",
+   "year": 1785
+  }
+ },
+ "model": "claude:sonnet (kd pass 1)"
+}

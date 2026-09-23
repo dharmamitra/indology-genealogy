@@ -1,0 +1,102 @@
+{
+ "author": "Th. Stcherbatsky",
+ "doc_kind": "text_edition",
+ "doc_year": 1918,
+ "people": [
+  {
+   "name": "Th. Stcherbatsky",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Dr. Denison Ross",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Prof. S. Lévi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "S. d'Oldenburg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Mr. O. Rosenberg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Dr. Denison Ross",
+   "type": "position_at",
+   "object": "Medresse College at Calcutta",
+   "role": "director",
+   "place": "Calcutta",
+   "year_start": 1911,
+   "year_end": 1911,
+   "explicit": true,
+   "evidence": "Dr. Denison Ross, at that time director of the Medresse College at Calcutta",
+   "quote_ok": true
+  },
+  {
+   "subject": "S. d'Oldenburg",
+   "type": "position_at",
+   "object": "Academy of Sciences of Petrograd",
+   "role": "Perpetual Secretary and Member",
+   "place": "Petrograd",
+   "year_start": null,
+   "year_end": 1918,
+   "explicit": true,
+   "evidence": "the Academy of Sciences of Petrograd and its Perpetual Secretary and Member S. d'Oldenburg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Th. Stcherbatsky",
+   "type": "collaborated_with",
+   "object": "Prof. S. Lévi",
+   "role": "co-editor",
+   "place": null,
+   "year_start": 1912,
+   "year_end": 1918,
+   "explicit": true,
+   "evidence": "so it came that the present part appears without a revision by Prof. S. Lévi, under the sole responsibility of the joint editor",
+   "quote_ok": true
+  },
+  {
+   "subject": "Th. Stcherbatsky",
+   "type": "collaborated_with",
+   "object": "Mr. O. Rosenberg",
+   "role": "collaborator",
+   "place": null,
+   "year_start": null,
+   "year_end": 1918,
+   "explicit": true,
+   "evidence": "These references to the Chinese are the contribution of Mr. O. Rosenberg; to him also as well as to S. d'Oldenburg I am indebted for assistance in reading the proofs.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "abhidharmakosa_vyakhya_vol_1_1918",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/abhidharmakosa_vyakhya_vol_1_1918.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 56,
+  "script": "deva",
+  "kd_docid": "cb783824__abhidharmakosa_vyakhya_vol_1_1918"
+ },
+ "model": "gemini-flash-latest"
+}

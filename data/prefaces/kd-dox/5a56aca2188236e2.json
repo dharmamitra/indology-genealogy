@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 1891,
+ "people": [
+  {
+   "name": "Arthur Venis",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Indology"
+  },
+  {
+   "name": "Eamasastei Bhagayaticbakya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Arthur Venis",
+   "type": "position_at",
+   "object": "Sanskrit College, Benares",
+   "role": "Principal",
+   "place": "Benares",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ARTHUR VENIS M. A. OXON. PRINCIPAL, SAKSKRIT COLLEGE, BENARES.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eamasastei Bhagayaticbakya",
+   "type": "position_at",
+   "object": "Sanskrit College, Benares",
+   "role": "Assistant Professor",
+   "place": "Benares",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "EDITED BY > EAMASASTEI BHAGAYATiCHAKYA, fjq ASSISTAJIT PEOFBSSOE, SANSKEIT COLLESE, BENAEES.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Pancapadika",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Pancapadika.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 430,
+  "script": "latin",
+  "kd_docid": "384a0d92__Pancapadika"
+ },
+ "model": "gemini-flash-latest"
+}

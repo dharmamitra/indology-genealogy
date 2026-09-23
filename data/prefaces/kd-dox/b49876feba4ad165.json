@@ -1,0 +1,64 @@
+{
+ "author": "George Cardona",
+ "doc_kind": "article",
+ "doc_year": 1967,
+ "people": [
+  {
+   "name": "George Cardona",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Ambika Prasad Upadhyay",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit grammar"
+  },
+  {
+   "name": "K. S. Krishnamurti Sastri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit grammar"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "George Cardona",
+   "type": "student_of",
+   "object": "Ambika Prasad Upadhyay",
+   "role": "traditional teacher",
+   "place": "Varanasi",
+   "year_start": 1965,
+   "year_end": 1966,
+   "explicit": true,
+   "evidence": "Pandit Ambika Prasad Upadhyay of Varanasi, with whom I studied the Mahabhasya and appertaining commentarics",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Cardona",
+   "type": "student_of",
+   "object": "K. S. Krishnamurti Sastri",
+   "role": "traditional teacher",
+   "place": "Madras",
+   "year_start": 1965,
+   "year_end": 1966,
+   "explicit": true,
+   "evidence": "MM. K. S. Krishnamurti , Sastri of Madras, with whom I studied the Moaiijiisd.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Cardona_G_1967",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Cardona_G_1967.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 23,
+  "script": "latin",
+  "kd_docid": "bc8fc913__Cardona_G_1967"
+ },
+ "model": "gemini-flash-latest"
+}

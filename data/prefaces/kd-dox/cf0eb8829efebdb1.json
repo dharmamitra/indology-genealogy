@@ -1,0 +1,64 @@
+{
+ "author": "Alex Watson",
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Alex Watson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Harunaga Isaacson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kei Kataoka",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Alex Watson",
+   "type": "collaborated_with",
+   "object": "Harunaga Isaacson",
+   "role": "reading text together",
+   "place": null,
+   "year_start": 1998,
+   "year_end": 1999,
+   "explicit": true,
+   "evidence": "Harunaga Isaacson, with whom I read, in 1998/9, the part of the Nyāyāmañjarī on which this article is based",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alex Watson",
+   "type": "collaborated_with",
+   "object": "Kei Kataoka",
+   "role": "co-authors",
+   "place": null,
+   "year_start": 2010,
+   "year_end": 2010,
+   "explicit": true,
+   "evidence": "Watson, A. and Kataoka, K. (2010) “Bhaṭṭa Jayanta’s Refutation of the Yogācāra Buddhist Doctrine of Vijñānavāda: Annotated Translation and Analysis.”",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Four Mīmāṃsaka Views",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Four Mīmāṃsaka Views.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 28,
+  "script": "latin",
+  "kd_docid": "875c504c__Four_Mīmāṃsaka_Views"
+ },
+ "model": "gemini-flash-latest"
+}

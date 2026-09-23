@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1912,
+ "people": [
+  {
+   "name": "Richard Carnac Temple",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Devadatta Ramkrishna Bhandarkar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Richard Carnac Temple",
+   "type": "collaborated_with",
+   "object": "Devadatta Ramkrishna Bhandarkar",
+   "role": "co-editors",
+   "place": null,
+   "year_start": 1912,
+   "year_end": 1912,
+   "explicit": true,
+   "evidence": "EDITED BY SIR RICHARD CARNAC TEMPLE, BART. C.I.E. ... AND DEVADATTA RAMKRISHNA BHANDARKAR, M.A.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Richard Carnac Temple",
+   "type": "position_at",
+   "object": "Trinity Hall, Cambridge",
+   "role": "Honorary Fellow",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "HON. FELLOW, TRIN. HALL, CAMBRIDGE",
+   "quote_ok": true
+  }
+ ],
+ "docid": "indian_antiquary_41_1912",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Indian Antiquary/indian_antiquary_41_1912.pdf.txt",
+ "meta": {
+  "category": "Indian Antiquary",
+  "pdf_pages": 286,
+  "script": "latin",
+  "kd_docid": "1784d6bd__indian_antiquary_41_1912"
+ },
+ "model": "gemini-flash-latest"
+}

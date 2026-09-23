@@ -1,0 +1,119 @@
+{
+ "author": "A. Loiseleur Deslongchamps",
+ "doc_kind": "text_edition",
+ "doc_year": 1839,
+ "people": [
+  {
+   "name": "A. Loiseleur Deslongchamps",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "H.T. Colebrooke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Wilson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Guillaume de Schlegel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Bentley",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Letronne",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Wilkins",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "A. Loiseleur Deslongchamps",
+   "type": "other",
+   "object": "H.T. Colebrooke",
+   "role": "based his new edition on Colebrooke's earlier edition and translation of the Amarakocha",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Je me suis attaché d'abord à revoir avec soin le texte déjà fort correct donné par Colebrooke, en collationnant ce texte premièrement avec une nouvelle édition de l'Amarakocha publiée à Calcutta en 1813, puis avec deux manuscrits...",
+   "quote_ok": true,
+   "page": 14,
+   "gloss_en": "The editor took Colebrooke's already correct text as the basis, collating it with a Calcutta edition and manuscripts."
+  },
+  {
+   "subject": "Wilson",
+   "type": "other",
+   "object": "Bentley",
+   "role": "refuted Bentley's chronological system for dating Amarasinha",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ce système... a été refuté victorieusement et fort en détail par M. Wilson dans la préface de la 1ère édition de son dictionnaire sanskrit.",
+   "quote_ok": false,
+   "page": 8,
+   "gloss_en": "Wilson thoroughly and victoriously refuted Bentley's system in the preface of his Sanskrit dictionary."
+  },
+  {
+   "subject": "Guillaume de Schlegel",
+   "type": "other",
+   "object": "Letronne",
+   "role": "published a Latin dissertation in response to Letronne's memoir on the antiquity of the zodiac",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "M. Guillaume de Schlegel, au contraire, pense que le zodiaque a été connu des Indiens de toute antiquité, et il a publié, en réponse à M. Letronne, une dissertation écrite en latin...",
+   "quote_ok": false,
+   "page": 12,
+   "gloss_en": "Schlegel, disagreeing, published in Latin a dissertation replying to Letronne on the antiquity of the zodiac among the Indians."
+  }
+ ],
+ "docid": "Amarakosa 1893 teil 01 u 02",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Amarakosa 1893 teil 01 u 02.pdf.txt",
+ "meta": {
+  "title": "Amarakocha ou Vocabulaire d'Amarasinha, publié en sanskrit avec une traduction française, des notes et un index",
+  "author": "A. Loiseleur Deslongchamps",
+  "year": 1839,
+  "language": "French",
+  "kd_docid": "26c73b33__Amarakosa_1893_teil_01_u_02",
+  "category": "(root)",
+  "pdf_pages": 744,
+  "dissertation": null,
+  "preface_signed": {
+   "place": null,
+   "date_text": null,
+   "year": null
+  }
+ },
+ "model": "claude:sonnet (kd pass 1)"
+}

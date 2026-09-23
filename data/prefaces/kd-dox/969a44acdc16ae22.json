@@ -1,0 +1,64 @@
+{
+ "author": "Akira Hirakawa",
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Akira Hirakawa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Taitetsu Unno",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Mizuno Kogen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Taitetsu Unno",
+   "type": "collaborated_with",
+   "object": "Akira Hirakawa",
+   "role": "translator",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "(Translated from the Japanese by Taitetsu Unno)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Akira Hirakawa",
+   "type": "influenced_by",
+   "object": "Mizuno Kogen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I am especially indebted to Professor Mizuno’s studies, but I have gathered new materials and attempted a new interpretation.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Hirakawa - The Rise of Mahayana Buddhism",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Monographien-Buddhismus/Hirakawa - The Rise of Mahayana Buddhism.pdf.txt",
+ "meta": {
+  "category": "Monographien-Buddhismus",
+  "pdf_pages": 48,
+  "script": "latin",
+  "kd_docid": "7dc66c5f__Hirakawa_-_The_Rise_of_Mahayana_Buddhism"
+ },
+ "model": "gemini-flash-latest"
+}

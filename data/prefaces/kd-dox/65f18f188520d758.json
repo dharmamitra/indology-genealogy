@@ -1,0 +1,55 @@
+{
+ "people": [
+  {
+   "name": "S. K. RAMANATHA SASTRI",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "C. KUNHAN RAJA",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "S. K. RAMANATHA SASTRI",
+   "type": "position_at",
+   "object": "University of Madras",
+   "role": "Junior Lecturer in Sanskrit",
+   "place": "Madras",
+   "year_start": null,
+   "year_end": 1931,
+   "explicit": true,
+   "evidence": "EDITED BY Vedavisarada S. K. RAMANATHA SASTRI | : Jucier Lecturer in Sanskrit . | ` ~ © University’ of Madras",
+   "quote_ok": true
+  },
+  {
+   "subject": "C. KUNHAN RAJA",
+   "type": "position_at",
+   "object": "University of Madras",
+   "role": "Reader in Sanskrit",
+   "place": "Madras",
+   "year_start": null,
+   "year_end": 1931,
+   "explicit": true,
+   "evidence": "C. KUNHAN RAJA, Madras University, Reader in Sanskrit. 20th Dec., 1931.",
+   "quote_ok": false
+  }
+ ],
+ "author": null,
+ "docid": "Sphotasiddhi",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Sphotasiddhi.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 161,
+  "script": "deva",
+  "kd_docid": "9645d7e2__Sphotasiddhi"
+ },
+ "model": "gemini-flash-latest"
+}

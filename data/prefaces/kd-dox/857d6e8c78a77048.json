@@ -1,0 +1,91 @@
+{
+ "author": "J. A. B. van Buitenen",
+ "doc_kind": "text_edition",
+ "doc_year": 1981,
+ "people": [
+  {
+   "name": "J. A. B. van Buitenen",
+   "birth_year": null,
+   "death_year": 1979,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Haven O'More",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "James Fitzgerald",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "J. A. B. van Buitenen",
+   "type": "other",
+   "object": "Haven O'More",
+   "role": "dedicatee (patron and friend)",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "For Haven O'More, patron and friend",
+   "quote_ok": true,
+   "page": 5,
+   "gloss_en": null
+  },
+  {
+   "subject": "James Fitzgerald",
+   "type": "student_of",
+   "object": "J. A. B. van Buitenen",
+   "role": "teacher (unspecified)",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the considerable efforts of one of his students, James Fitzgerald of the University of Tennessee, in correcting proofs and in matching the translation to the text.",
+   "quote_ok": true,
+   "page": 12,
+   "gloss_en": null
+  },
+  {
+   "subject": "James Fitzgerald",
+   "type": "position_at",
+   "object": "University of Tennessee",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "James Fitzgerald of the University of Tennessee",
+   "quote_ok": true,
+   "page": 12,
+   "gloss_en": null
+  }
+ ],
+ "docid": "Bhagavadgita_Buitenen_1981",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Bhagavadgita_Buitenen_1981.pdf.txt",
+ "meta": {
+  "title": "The Bhagavadgītā in the Mahābhārata",
+  "author": "J. A. B. van Buitenen",
+  "year": 1981,
+  "language": "English",
+  "kd_docid": "efeee05d__Bhagavadgita_Buitenen_1981",
+  "category": "(root)",
+  "pdf_pages": 192,
+  "dissertation": null,
+  "preface_signed": {
+   "place": "Chicago",
+   "date_text": "October 23, 1978",
+   "year": 1978
+  }
+ },
+ "model": "claude:sonnet (kd pass 1)"
+}

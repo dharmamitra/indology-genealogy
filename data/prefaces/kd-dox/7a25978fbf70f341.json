@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 1894,
+ "people": [
+  {
+   "name": "A. Mahādeva S'āstri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "K. Rangacharya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Weber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "A. Mahādeva S'āstri",
+   "type": "position_at",
+   "object": "Government Oriental Library, Mysore",
+   "role": "Curator",
+   "place": "Mysore",
+   "year_start": null,
+   "year_end": 1894,
+   "explicit": true,
+   "evidence": "A. MAHA’DEVA S’A’STRI, 2, 1 Curator, Government Oriental Library",
+   "quote_ok": false
+  },
+  {
+   "subject": "K. Rangacharya",
+   "type": "position_at",
+   "object": "Government Oriental Library, Mysore",
+   "role": "Pandit",
+   "place": "Mysore",
+   "year_start": null,
+   "year_end": 1894,
+   "explicit": true,
+   "evidence": "Panprranatwam K. RANGACHARYA, Pandit, Government Oriental Library, Mysore.",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. Mahādeva S'āstri",
+   "type": "collaborated_with",
+   "object": "K. Rangacharya",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1894,
+   "explicit": true,
+   "evidence": "EDITED BY ` ^. MAHA’DEVA S’A’STRI, ... AND Panprranatwam K. RANGACHARYA",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Taittirīyasaṃhitā1",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Taittirīyasaṃhitā1.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 377,
+  "script": "deva",
+  "kd_docid": "6275a6a4__Taittirīyasaṃhitā1"
+ },
+ "model": "gemini-flash-latest"
+}

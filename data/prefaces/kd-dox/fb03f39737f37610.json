@@ -1,0 +1,76 @@
+{
+ "author": "Herbert Franke",
+ "doc_kind": "article",
+ "doc_year": 1994,
+ "people": [
+  {
+   "name": "Herbert Franke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Anna Seidel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Michael Friedrich",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Anna Seidel",
+   "type": "student_of",
+   "object": "Herbert Franke",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "This article is written in memory of my friend and former student Anna Seidel.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Herbert Franke",
+   "type": "other",
+   "object": "Anna Seidel",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "This article is written in memory of my friend and former student Anna Seidel.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Michael Friedrich",
+   "type": "position_at",
+   "object": "München University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I am grateful to Michael Friedrich of München University for having lent me a copy.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "AM3-7-1994-Franke-WhiteStupa",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/From Silk/Journals/Asia Major/AM3/AM3-7-1994-Franke-WhiteStupa.pdf.txt",
+ "meta": {
+  "category": "From Silk",
+  "pdf_pages": 16,
+  "script": "latin",
+  "kd_docid": "6cd2c007__AM3-7-1994-Franke-WhiteStupa"
+ },
+ "model": "gemini-flash-latest"
+}

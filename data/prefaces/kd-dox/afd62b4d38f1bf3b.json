@@ -1,0 +1,64 @@
+{
+ "author": "I. B. Horner",
+ "doc_kind": "text_edition",
+ "doc_year": 1969,
+ "people": [
+  {
+   "name": "I. B. Horner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "U Narada",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Burmese",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Thein Nyun",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Burmese",
+   "field": "Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "U Narada",
+   "type": "collaborated_with",
+   "object": "Thein Nyun",
+   "role": "translator and assistant",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A Translation by U NARADA MULA PATTHANA SAYADAW (of Rangoon, Burma) Originator of Abhidhamma Charts Assisted by THEIN NYUN",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thein Nyun",
+   "type": "collaborated_with",
+   "object": "U Narada",
+   "role": "fellow-worker / assistant",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the Mila Patthana Sayadaw and his fellow-worker, U Thein Nyun, feel it important to devote so much of their time and effort to translating the Abhidhamma.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "PTS_Conditional_Relations_I",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/books/PTS_Conditional_Relations_I.pdf.txt",
+ "meta": {
+  "category": "books",
+  "pdf_pages": 316,
+  "script": "latin",
+  "kd_docid": "b00d7a7b__PTS_Conditional_Relations_I"
+ },
+ "model": "gemini-flash-latest"
+}

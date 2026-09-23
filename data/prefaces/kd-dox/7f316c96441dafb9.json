@@ -1,0 +1,107 @@
+{
+ "author": "Harry Falk",
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Harry Falk",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Alois Anton Führer",
+   "birth_year": 1853,
+   "death_year": 1930,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Georg Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "J. Jolly",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Alois Anton Führer",
+   "type": "student_of",
+   "object": "J. Jolly",
+   "role": "doctoral supervisor",
+   "place": "University of Würzburg",
+   "year_start": null,
+   "year_end": 1879,
+   "explicit": true,
+   "evidence": "handed in a dissertation in 1879 on script and writing in the Bṛhaspatidharmaśāstra at the University of Würzburg under Prof J. Jolly.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alois Anton Führer",
+   "type": "studied_at",
+   "object": "University of Würzburg",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 1879,
+   "explicit": true,
+   "evidence": "handed in a dissertation in 1879 on script and writing in the Bṛhaspatidharmaśāstra at the University of Würzburg under Prof J. Jolly.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alois Anton Führer",
+   "type": "influenced_by",
+   "object": "Georg Bühler",
+   "role": "mentor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the inscriptions he found were reported to his mentor Georg Bühler at the University of Vienna, who published them",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Bühler",
+   "type": "position_at",
+   "object": "University of Vienna",
+   "role": null,
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "his mentor Georg Bühler at the University of Vienna",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alois Anton Führer",
+   "type": "position_at",
+   "object": "St. Xavier's College",
+   "role": null,
+   "place": "Bombay",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Once in Bombay, he was placed into the German Jesuit St. Xavier’s College",
+   "quote_ok": true
+  }
+ ],
+ "docid": "The_Ashes_of_the_Buddha",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/The_Ashes_of_the_Buddha.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 35,
+  "script": "latin",
+  "kd_docid": "a911b0a5__The_Ashes_of_the_Buddha"
+ },
+ "model": "gemini-flash-latest"
+}

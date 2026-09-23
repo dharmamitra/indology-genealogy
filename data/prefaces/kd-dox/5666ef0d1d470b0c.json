@@ -1,0 +1,95 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 1858,
+ "people": [
+  {
+   "name": "Otto Böhtlingk",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rudolph Roth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Weber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kern",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Otto Böhtlingk",
+   "type": "collaborated_with",
+   "object": "Rudolph Roth",
+   "role": null,
+   "place": null,
+   "year_start": 1856,
+   "year_end": 1858,
+   "explicit": true,
+   "evidence": "SAIKRIT-WÖRTERBUCH HERAUSGEGEBEN VON DER KAISEKLICHEN AKADEMIE DER WISSENSCHAFTEN, BEARBEITET Otto Böhtlingk und Rudolph Roth. ZWEITER THEIL. (1856 — 1858)",
+   "quote_ok": false
+  },
+  {
+   "subject": "Kern",
+   "type": "student_of",
+   "object": "Weber",
+   "role": "Schüler",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Herrn Dr. Kern in Groenlo, einem tüchtigen Schüler Weber's",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Böhtlingk",
+   "type": "other",
+   "object": "Weber",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nicht nur die Bearbeiter des Wörterbuchs selbst, sondern auch ihr Freund Weber",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rudolph Roth",
+   "type": "other",
+   "object": "Weber",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nicht nur die Bearbeiter des Wörterbuchs selbst, sondern auch ihr Freund Weber",
+   "quote_ok": true
+  }
+ ],
+ "docid": "sanskritwrterb02bhuoft",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/books_g/dictionaries-indexes/Boehtlingk-Roth/PW/sanskritwrterb02bhuoft.pdf.txt",
+ "meta": {
+  "category": "Tohoku",
+  "pdf_pages": 572,
+  "script": "latin",
+  "kd_docid": "f1260dbc__sanskritwrterb02bhuoft"
+ },
+ "model": "gemini-flash-latest"
+}

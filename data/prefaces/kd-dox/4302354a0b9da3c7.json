@@ -1,0 +1,90 @@
+{
+ "author": "H. Grassmann",
+ "doc_kind": "text_edition",
+ "doc_year": 1876,
+ "people": [
+  {
+   "name": "H. Grassmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "B. Delbrück",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "R. Roth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "K. Geldner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "A. Kaegi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "H. Grassmann",
+   "type": "collaborated_with",
+   "object": "B. Delbrück",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1876,
+   "explicit": true,
+   "evidence": "Herr Professor B. Delbrück hat sowol den ersten Entwurf meiner Uebersetzung, als auch die neue Ausarbeitung für den Druck, ja auch die Correcturbogen genau revidirt [...] dass ihm ein wesentlicher Antheil an diesem Werke zugeschrieben werden muss.",
+   "quote_ok": true
+  },
+  {
+   "subject": "K. Geldner",
+   "type": "student_of",
+   "object": "R. Roth",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "von ihm und seinen Schülern in selbst den „Siebzig Liedern des Ilig-Yeda, übersetzt von K. Geldner und A. Kaegi mit Beiträgen von R. Roth“",
+   "quote_ok": false
+  },
+  {
+   "subject": "A. Kaegi",
+   "type": "student_of",
+   "object": "R. Roth",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "von ihm und seinen Schülern in selbst den „Siebzig Liedern des Ilig-Yeda, übersetzt von K. Geldner und A. Kaegi mit Beiträgen von R. Roth“",
+   "quote_ok": false
+  }
+ ],
+ "docid": "rigvedabersetz01grasuoft_bw",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/books_g/Grassmann/rigvedabersetz01grasuoft_bw.pdf.txt",
+ "meta": {
+  "category": "Tohoku",
+  "pdf_pages": 612,
+  "script": "latin",
+  "kd_docid": "f88c1ed8__rigvedabersetz01grasuoft_bw"
+ },
+ "model": "gemini-flash-latest"
+}

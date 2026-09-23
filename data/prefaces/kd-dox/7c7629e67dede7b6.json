@@ -1,0 +1,128 @@
+{
+ "author": "Ananta Krishna Shastri",
+ "doc_kind": "text_edition",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ananta Krishna Shastri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "Krishna Sastri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "Ramanath Sastri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Mimamsa"
+  },
+  {
+   "name": "Kuppuswami Shastrigal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "Ganganath Jha",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "Pashupatinath Shastri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "Gopinath Kaviraj",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Krishna Sastri",
+   "type": "position_at",
+   "object": "Calcutta University",
+   "role": "Lecturer",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "EDITED BY KRISHNA SASTRI LECTURER, CALCUTTA UNIVERSITY",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ramanath Sastri",
+   "type": "position_at",
+   "object": "Sanskrit College, Kozbur",
+   "role": "Professor of Mimamsa",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "RAMANATH SASTRI, Veda-visarada, PROFESSOR OF MIMAMSA, SANSKRIT COLLEGE, KOZBUR.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Krishna Sastri",
+   "type": "collaborated_with",
+   "object": "Ramanath Sastri",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "EDITED BY KRISHNA SASTRI ... AND RAMANATH SASTRI",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ananta Krishna Shastri",
+   "type": "student_of",
+   "object": "Kuppuswami Shastrigal",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "our revered preceptor, Prof. Kuppuswami Shastrigal",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kuppuswami Shastrigal",
+   "type": "position_at",
+   "object": "Madras Oriental Manuscript Library",
+   "role": null,
+   "place": "Madras",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof, Shastrigal has in his command the Madras Oriental Manuscript Library",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Prabhaakaravijaya",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/miimaamsaa_primary_literature_scans/Prabhaakaravijaya.pdf.txt",
+ "meta": {
+  "category": "miimaamsaa_primary_literature_scans",
+  "pdf_pages": 63,
+  "script": "deva",
+  "kd_docid": "51e6b6cf__Prabhaakaravijaya"
+ },
+ "model": "gemini-flash-latest"
+}

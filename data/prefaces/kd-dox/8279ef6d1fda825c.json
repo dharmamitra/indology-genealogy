@@ -1,0 +1,76 @@
+{
+ "author": "Alexis Sanderson",
+ "doc_kind": "other",
+ "doc_year": 2023,
+ "people": [
+  {
+   "name": "Alexis Sanderson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Astrid Zotter",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Manik Bajracharya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Astrid Zotter",
+   "type": "position_at",
+   "object": "Südasien-Institut, Heidelberg",
+   "role": null,
+   "place": "Heidelberg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Astrid Zotter and Dr. Manik Bajracharya of Heidelberg’s Südasien-Institut",
+   "quote_ok": true
+  },
+  {
+   "subject": "Manik Bajracharya",
+   "type": "position_at",
+   "object": "Südasien-Institut, Heidelberg",
+   "role": null,
+   "place": "Heidelberg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Astrid Zotter and Dr. Manik Bajracharya of Heidelberg’s Südasien-Institut",
+   "quote_ok": true
+  },
+  {
+   "subject": "Astrid Zotter",
+   "type": "studied_at",
+   "object": "University of Leipzig",
+   "role": "PhD",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": 2010,
+   "explicit": true,
+   "evidence": "Zotter, Astrid. . Von Blüten, Göttern und Gelehrten. [...] Ph.D. thesis, University of Leipzig.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Taishō Lecture 6 Handout",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Taishō Lecture 6 Handout.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 19,
+  "script": "latin",
+  "kd_docid": "de4970d2__Taishō_Lecture_6_Handout"
+ },
+ "model": "gemini-flash-latest"
+}

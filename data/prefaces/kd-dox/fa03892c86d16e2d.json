@@ -1,0 +1,95 @@
+{
+ "author": "M. A. Stein",
+ "doc_kind": "text_edition",
+ "doc_year": 1892,
+ "people": [
+  {
+   "name": "M. A. Stein",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Pandit Hari Krishna Kaul",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Fred H. Andrews",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Pandit Damodar",
+   "birth_year": null,
+   "death_year": 1892,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Pandit Hari Krishna Kaul",
+   "type": "student_of",
+   "object": "M. A. Stein",
+   "role": "pupil",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pandit Hari Krishna Kaul, M.A-, then my pupil, and now a promising young officer in the Statutory. Civil Service of the Punjab.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fred H. Andrews",
+   "type": "position_at",
+   "object": "Lahore School of Arts",
+   "role": "Vice-Principal",
+   "place": "Lahore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "my friend Fred H. Andrews, Esq., Vice-Principal of the Lahore School of Arts",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pandit Damodar",
+   "type": "position_at",
+   "object": "H. H. the Maharaja’s School, Srinagar",
+   "role": "Head Pandit",
+   "place": "Srinagar",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The MS. then in possession of Pangit Damodar, Head Pandit of H. H. the Maharaja’s School, Srinagar.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fred H. Andrews",
+   "type": "collaborated_with",
+   "object": "M. A. Stein",
+   "role": null,
+   "place": "Kashmir",
+   "year_start": 1891,
+   "year_end": 1891,
+   "explicit": true,
+   "evidence": "my friend Fred H. Andrews, Esq., Vice-Principal of the Lahore School of Arts, who gave me his valuable help during part of last year's archaeological tour in Kashmir.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Raajataranginii_Stein_vol3",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Raajataranginii_Stein_vol3.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 153,
+  "script": "deva",
+  "kd_docid": "72f87e2e__Raajataranginii_Stein_vol3"
+ },
+ "model": "gemini-flash-latest"
+}

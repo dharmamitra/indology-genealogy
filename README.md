@@ -24,6 +24,7 @@ Shareable state: `#lens=tibetology&view=chairs&sel=P:Giuseppe Tucci`.
 | Ernst Windisch, *Geschichte der Sanskrit-Philologie und indischen Altertumskunde* (1917–20); Moriz Winternitz, *Geschichte der indischen Litteratur* (1908–20) | whole books | the 18th–19th century core |
 | Histories of the fields: de Jong, *A Brief History of Buddhist Studies in Europe and America*; Jackson, *A History of Tibetan Studies*; Lopez (ed.), *Curators of the Buddha*; Almond, *The British Discovery of Buddhism*; Rocher & Rocher, *The Making of Western Indology*; Yuyama on Burnouf; Oldenberg, *Vedaforschung*; the Whitney Memorial Meeting (JAOS 19); Cabezón, Dreyfus, Kapstein; obituaries (Stein, Bareau, Hertel …) | whole texts | Buddhist studies, Tibetology, America, France, Russia |
 | Prefaces, acknowledgements, *Lebensläufe*, あとがき, 略歴 and contributor notes of ~6,500 books, dissertations, Festschriften and journal issues (two private research corpora: ~20,000 OCRed documents of Indological/Buddhological literature incl. a large Japanese collection, and ~8,000 works of Buddhist-studies and Tibetological reference literature) | only the front/back matter: located by marker phrases and scored locally, then sent to Gemini | the 20th and 21st centuries: supervisors, degrees, posts, teachers — in the scholars' own words |
+| Front matter of a third private library (~12,000 PDFs of Indological, Buddhological and Japanese scholarship; text layers and Tesseract OCR): title page, imprint, dedication, preface / acknowledgements / colophon located page by page, with headings in nine languages including Sanskrit and Hindi (prastāvanā, bhūmikā) — 2,354 documents beyond the two corpora above (corpus `kd-dox`) | `pipeline/locate_frontmatter.py`, then the same extractor; quotes carry the PDF page | supervisors, teachers, posts; Indian editors' prefaces and their paṇḍits |
 | Biography-dense sections anywhere else (obituary notices in JRAS, JAOS, BEFEO, Indian Antiquary …; biographical sketches) | 8k-character windows with enough career vocabulary, max. 8 per document | obituaries, careers |
 | Wikipedia (de / en / ja) biographies of the ~3,200 scholars matched to Wikidata | whole articles, same extraction + verification; every link cites the article | teachers and pupils of 20th-century scholars whose own prefaces are not in the corpus ("studierte bei …", "Zu seinen Schülern zählen …"), posts with stated years |
 | Department websites of the ~160 institutions with the most recent posts (people / staff / 教員紹介 pages, one level of personal pages) | found with Gemini + Google Search, fetched politely, read by Gemini; each listing is an **attestation for the crawl date** (`pipeline/crawl_departments.py`) | who is where now: current faculty, fellows and doctoral students, and their supervisors where a page says so |
@@ -125,6 +126,18 @@ python3 pipeline/wikidata_all.py
 python3 pipeline/merge_all.py
 python3 -m http.server -d docs 8000
 ```
+
+**Another library as a corpus.** `pipeline/locate_frontmatter.py --ocr-dir DIR --worklist data/worklist_NAME.jsonl --corpus NAME`
+cuts the front matter out of a directory of page-separated OCR texts (`<relpath>.pdf.txt`, pages divided by form feeds,
+as `pdftotext` and Tesseract write them) into a worklist that `extract_prefaces.py --worklist ...` consumes unchanged;
+`pipeline/run_chain.sh` then runs verification, resolution, Wikidata and merge. Identities of an earlier run are pinned by
+`data/resolve_prior.json` (`build_resolve_prior.py`, from the answer cache): only new strings are asked, with the known
+names of the surname group as anchors.
+
+**Without a Gemini key.** `INDOLOGY_LLM=claude` sends every call through the `claude` CLI (subscription auth, no key;
+`pipeline/llm.py`), with the same prompts and schemas; `INDOLOGY_LLM_WORKERS` caps the parallelism. Cached answers of
+either backend are reused. Evidence quotes are accepted verbatim or, when OCR interleaves columns or garbles single
+characters, by an in-order word match (Latin scripts) or character trigrams (CJK, Indic) — `extract_relations.quote_match`.
 
 To add a source (e.g. obituaries, Festschriften, Stache-Rosen's *German Indologists*), add its docid to
 `SOURCES` in `extract_relations.py` and a short name to `SRC_SHORT` in `resolve_entities.py`, then re-run.

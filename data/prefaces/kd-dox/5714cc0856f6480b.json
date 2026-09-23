@@ -1,0 +1,38 @@
+{
+ "people": [
+  {
+   "name": "T. Ganapati Sastri",
+   "nationality": "Indian",
+   "field": "Sanskrit/Indology"
+  },
+  {
+   "name": "Sylvain Levi",
+   "nationality": "French",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sylvain Levi",
+   "type": "position_at",
+   "object": "College de France",
+   "role": "Professor",
+   "explicit": true,
+   "evidence": "Prof. Sylvain Levi, Professor au College de France wrote to me",
+   "quote_ok": true
+  }
+ ],
+ "doc_kind": "text_edition",
+ "doc_year": 1920,
+ "author": "T. Ganapati Sastri",
+ "docid": "Manjusrimulakalpa_TSS_1",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Manjusrimulakalpa_TSS_1.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 125,
+  "script": "deva",
+  "kd_docid": "7579ff10__Manjusrimulakalpa_TSS_1"
+ },
+ "model": "claude:sonnet"
+}

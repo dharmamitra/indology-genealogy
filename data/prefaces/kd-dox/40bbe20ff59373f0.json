@@ -1,0 +1,104 @@
+{
+ "author": "Gustav Roth",
+ "doc_kind": "other",
+ "doc_year": 1979,
+ "people": [
+  {
+   "name": "Gustav Roth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "P. Cachia",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "David Seyfort Ruegg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Heinz Bechert",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "O. von Hinüber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ernst Waldschmidt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Georg von Simson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "P. Cachia",
+   "type": "position_at",
+   "object": "Columbia University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "P. CACHIA\n  COLUMBIA UNIVERSITY",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinz Bechert",
+   "type": "position_at",
+   "object": "Akademie der Wissenschaften in Göttingen",
+   "role": "Prof.",
+   "place": "Göttingen",
+   "year_start": 1977,
+   "year_end": 1977,
+   "explicit": true,
+   "evidence": "Arbeitstagung 1977 der Kommission fur buddhistische Studien der Akademie der Wissenschaften in Gottingen (June 16-18, 1977), convened by Prof. Bechert.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg von Simson",
+   "type": "collaborated_with",
+   "object": "Heinz Bechert",
+   "role": "bearbeitet von / herausgegeben von",
+   "place": null,
+   "year_start": null,
+   "year_end": 1976,
+   "explicit": true,
+   "evidence": "herausgegeben von Heinz Bechert. 2. Lieferung: antar-ha/avadata-varna bearbeitet von Georg von Simson.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "598990",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/598990.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 10,
+  "script": "latin",
+  "kd_docid": "5a77379e__598990"
+ },
+ "model": "gemini-flash-latest"
+}

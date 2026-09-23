@@ -1,0 +1,57 @@
+{
+ "author": "Achim Bayer",
+ "doc_kind": "dissertation",
+ "doc_year": 1999,
+ "people": [
+  {
+   "name": "Achim Bayer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "David Jackson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Achim Bayer",
+   "type": "studied_at",
+   "object": "Universität Hamburg",
+   "role": "Magister Artium",
+   "place": "Hamburg",
+   "year_start": null,
+   "year_end": 1999,
+   "explicit": true,
+   "evidence": "Wissenschaftliche Hausarbeit zur Erlangung des akademischen Grades eines Magister Artium der Universitat Hamburg vorgelegt von Achim Bayer aus Hameln Hamburg, 1999.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Achim Bayer",
+   "type": "student_of",
+   "object": "David Jackson",
+   "role": "MA supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1999,
+   "explicit": false,
+   "evidence": "I would like to express my gratitude first of all to Professor David Jackson who has accompanied with his expertise all the different stages of my research",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Achim MA",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Achim MA.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 247,
+  "script": "latin",
+  "kd_docid": "e81068ef__Achim_MA"
+ },
+ "model": "gemini-flash-latest"
+}

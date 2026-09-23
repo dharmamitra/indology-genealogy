@@ -14,9 +14,14 @@ import argparse, difflib, json, os, re
 from collections import defaultdict, Counter
 from concurrent.futures import ThreadPoolExecutor
 
-from google import genai
+try:
+    from google import genai
+    from google.genai import types
+except ImportError:  # only needed for the Gemini backend; see llm.py
+    genai = types = None
 
 from extract_relations import load_key, DATA, ROOT
+import llm
 from resolve_entities import llm_json, strip_acc, PERSON_OBJ
 from merge_sources import MODEL_PROMPT, MODEL_SCHEMA, QID_ALIAS, DATED_TYPES
 
@@ -155,7 +160,7 @@ def main():
     uf, log = UF(), []
     for n in nodes.values():
         n["label"] = LABEL_FIX.get(n["label"], n["label"])
-    client = genai.Client(api_key=load_key())
+    client = llm.make_client()
 
     # ---- 1+2. wikidata attributes, QID merges
     by_qid = {}

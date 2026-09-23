@@ -1,0 +1,67 @@
+{
+ "people": [
+  {
+   "name": "Charles H. Tawney",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "F. W. Thomas",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Charles H. Tawney",
+   "type": "position_at",
+   "object": "India Office Library",
+   "role": "Librarian",
+   "place": "London",
+   "year_start": null,
+   "year_end": 1903,
+   "explicit": true,
+   "evidence": "COMPILED BY CHARLES H. TAWNEY, M.A., C.I.E., Librarian, AND F. W. THOMAS, M.A., Assistant Librarian.",
+   "quote_ok": true
+  },
+  {
+   "subject": "F. W. Thomas",
+   "type": "position_at",
+   "object": "India Office Library",
+   "role": "Assistant Librarian",
+   "place": "London",
+   "year_start": null,
+   "year_end": 1903,
+   "explicit": true,
+   "evidence": "COMPILED BY CHARLES H. TAWNEY, M.A., C.I.E., Librarian, AND F. W. THOMAS, M.A., Assistant Librarian.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles H. Tawney",
+   "type": "collaborated_with",
+   "object": "F. W. Thomas",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1903,
+   "explicit": true,
+   "evidence": "COMPILED BY CHARLES H. TAWNEY, M.A., C.I.E., Librarian, AND F. W. THOMAS, M.A., Assistant Librarian.",
+   "quote_ok": true
+  }
+ ],
+ "author": null,
+ "docid": "sanskritmanus00greauoft_bw",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/from Andrey/Manuscript Catalogues/India_Office/sanskritmanus00greauoft_bw.pdf.txt",
+ "meta": {
+  "category": "from Andrey",
+  "pdf_pages": 74,
+  "script": "latin",
+  "kd_docid": "02b21b98__sanskritmanus00greauoft_bw"
+ },
+ "model": "gemini-flash-latest"
+}

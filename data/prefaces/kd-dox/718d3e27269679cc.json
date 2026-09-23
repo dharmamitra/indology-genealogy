@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Polgampola Piyananda",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhism"
+  },
+  {
+   "name": "Richard Chia",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Polgampola Piyananda",
+   "type": "position_at",
+   "object": "Sri Lankaramaya Buddhist Temple",
+   "role": "Chief Resident Monk",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ven. Polgampola Piyananda\n  Chief Resident Monk\n  Sri Lankaramaya Buddhist Temple",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Chia",
+   "type": "student_of",
+   "object": "Polgampola Piyananda",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bro. Vajiro (Richard) Chia and his team have put in their untiring efforts in getting this book to its present form... As their Mentor, I am proud of their spiritual fervour",
+   "quote_ok": true
+  }
+ ],
+ "docid": "PaliChantingBook",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/books/PaliChantingBook.pdf.txt",
+ "meta": {
+  "category": "books",
+  "pdf_pages": 209,
+  "script": "latin",
+  "kd_docid": "3bff3580__PaliChantingBook"
+ },
+ "model": "gemini-flash-latest"
+}

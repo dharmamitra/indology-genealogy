@@ -1,0 +1,64 @@
+{
+ "author": "Richard Salomon",
+ "doc_kind": "other",
+ "doc_year": 2015,
+ "people": [
+  {
+   "name": "Richard Salomon",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lin Qian",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Zhao Fei",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Lin Qian",
+   "type": "student_of",
+   "object": "Richard Salomon",
+   "role": "former student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Finally, I thank Lin Qian and Zhao Fei, my former and current students respectively",
+   "quote_ok": true
+  },
+  {
+   "subject": "Zhao Fei",
+   "type": "student_of",
+   "object": "Richard Salomon",
+   "role": "current student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Finally, I thank Lin Qian and Zhao Fei, my former and current students respectively",
+   "quote_ok": true
+  }
+ ],
+ "docid": "20161128-GondaLecture_23-2015-salomon",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/20161128-GondaLecture_23-2015-salomon.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 53,
+  "script": "latin",
+  "kd_docid": "818c8d4e__20161128-GondaLecture_23-2015-salomon"
+ },
+ "model": "gemini-flash-latest"
+}

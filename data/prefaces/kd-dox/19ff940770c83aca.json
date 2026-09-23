@@ -1,0 +1,157 @@
+{
+ "author": "Bunyiu Nanjio (南条文雄)",
+ "doc_kind": "text_edition",
+ "doc_year": 1923,
+ "people": [
+  {
+   "name": "Bunyiu Nanjio",
+   "birth_year": 1848,
+   "death_year": null,
+   "field": "Sanskrit Buddhist studies",
+   "nationality": "Japanese"
+  },
+  {
+   "name": "Kenjiu Kasawara",
+   "birth_year": 1851,
+   "death_year": 1883,
+   "field": "Sanskrit Buddhist studies",
+   "nationality": "Japanese"
+  },
+  {
+   "name": "Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "field": "Sanskrit",
+   "nationality": null
+  },
+  {
+   "name": "Macdonell",
+   "birth_year": null,
+   "death_year": null,
+   "field": "Sanskrit",
+   "nationality": null
+  },
+  {
+   "name": "Zengi Koyasu",
+   "birth_year": null,
+   "death_year": null,
+   "field": null,
+   "nationality": "Japanese"
+  },
+  {
+   "name": "Unrai Wogihara",
+   "birth_year": null,
+   "death_year": null,
+   "field": "Sanskrit Buddhist studies",
+   "nationality": "Japanese"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Bunyiu Nanjio",
+   "type": "student_of",
+   "object": "Max Müller",
+   "role": "teacher",
+   "place": "Oxford",
+   "year_start": 1880,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1880 on we pursued together the study of Sanskrit under Professor Max Miiller, to whose house we went every other day",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kenjiu Kasawara",
+   "type": "student_of",
+   "object": "Max Müller",
+   "role": "teacher",
+   "place": "Oxford",
+   "year_start": 1880,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1880 on we pursued together the study of Sanskrit under Professor Max Miiller",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bunyiu Nanjio",
+   "type": "studied_at",
+   "object": "Oxford",
+   "role": null,
+   "place": "Oxford",
+   "year_start": 1879,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was quite sympathetic and urged me to come to Oxford at once. Thus encouraged I made up my mind to settle there.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bunyiu Nanjio",
+   "type": "student_of",
+   "object": "Macdonell",
+   "role": "informal tutor",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I was helped in my study by Professor Macdonell who was then still a student at Oxford.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bunyiu Nanjio",
+   "type": "collaborated_with",
+   "object": "Kenjiu Kasawara",
+   "role": "joint study of Sanskrit texts",
+   "place": "Oxford",
+   "year_start": 1880,
+   "year_end": 1882,
+   "explicit": true,
+   "evidence": "In October, Kasawara joined me and from 1880 on we pursued together the study of Sanskrit under Professor Max Miiller",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bunyiu Nanjio",
+   "type": "collaborated_with",
+   "object": "Zengi Koyasu",
+   "role": "collation of Chinese translations with Sanskrit text",
+   "place": "Tokyo",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mr Zengi Koyasu while in Tokyo made a thorough collation of the three Chinese translations with the Sanskrit text, and corrections were entered. He read the whole text with me.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bunyiu Nanjio",
+   "type": "collaborated_with",
+   "object": "Unrai Wogihara",
+   "role": "revision of edition with aid of Tibetan translation",
+   "place": null,
+   "year_start": 1914,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I earnestly entreated Dr Wogihara to revise my copy by the aid of the Tibetan translation. He was willing to undertake the task.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Müller",
+   "type": "position_at",
+   "object": "Oxford",
+   "role": "Professor",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Max Miiller at Oxford",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Lankavatara,Nanjio,1923,rescanned_400dpi",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Lankavatara,Nanjio,1923,rescanned_400dpi.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 385,
+  "script": "deva",
+  "kd_docid": "3e0d3a3d__Lankavatara_Nanjio_1923_rescanned_400dpi"
+ },
+ "model": "claude:sonnet"
+}

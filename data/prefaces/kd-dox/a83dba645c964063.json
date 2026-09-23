@@ -1,0 +1,150 @@
+{
+ "author": "矢野道雄",
+ "doc_kind": "monograph",
+ "doc_year": 1986,
+ "people": [
+  {
+   "name": "矢野道雄",
+   "birth_year": 1944,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "インド学および科学史"
+  },
+  {
+   "name": "O・ノイゲバウアー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "森田葉信",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "D・ピングリー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "USA",
+   "field": null
+  },
+  {
+   "name": "藪内清",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "矢野道雄",
+   "type": "studied_at",
+   "object": "京都大学文学部",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "京都大学文学部卒業。",
+   "quote_ok": true
+  },
+  {
+   "subject": "矢野道雄",
+   "type": "studied_at",
+   "object": "京都大学大学院",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "同大学院博士課程修了。",
+   "quote_ok": false
+  },
+  {
+   "subject": "矢野道雄",
+   "type": "position_at",
+   "object": "京都産業大学",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "現在京都産業大学教授。",
+   "quote_ok": true
+  },
+  {
+   "subject": "矢野道雄",
+   "type": "position_at",
+   "object": "京都大学文学部",
+   "role": "講義",
+   "place": null,
+   "year_start": 1981,
+   "year_end": 1981,
+   "explicit": true,
+   "evidence": "これは昭和五六年度に京都大学文学部で講義を行った時、たまたま受講生の希望などによって『宿曜経』を読む機会があったことに端を発している。",
+   "quote_ok": true
+  },
+  {
+   "subject": "矢野道雄",
+   "type": "influenced_by",
+   "object": "O・ノイゲバウアー",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "そのような関心をもつようになったのは、O・ノイゲバウアーの『古代の精密科学』という書物において、数理天文学の伝播の様子がいきいきと描写されているのを読んで強烈な感銘を受けたからである。",
+   "quote_ok": true
+  },
+  {
+   "subject": "矢野道雄",
+   "type": "student_of",
+   "object": "D・ピングリー",
+   "role": "恩師",
+   "place": "米国ブラウン大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "インド天文学と占星術についての筆者の知識は、米国ブラウン大学における恩師D・ピングリー教授に負うところが大きい。",
+   "quote_ok": true
+  },
+  {
+   "subject": "D・ピングリー",
+   "type": "position_at",
+   "object": "ブラウン大学",
+   "role": "教授",
+   "place": "米国",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "米国ブラウン大学における恩師D・ピングリー教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "矢野道雄",
+   "type": "student_of",
+   "object": "藪内清",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "中国の天文学・占星術と西方のそれとの関係は藪内清先生の業績をぬきにしては考えられない。インド天文学を勉強しはじめたおかげで先生の講義の末席に列することができて幸せであった。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Yano_矢野道雄_1986_密教占星術",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Yano_矢野道雄_1986_密教占星術.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 98,
+  "script": "cjk",
+  "kd_docid": "61184122__Yano_矢野道雄_1986_密教占星術"
+ },
+ "model": "gemini-flash-latest"
+}

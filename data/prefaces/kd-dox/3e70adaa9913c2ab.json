@@ -1,0 +1,57 @@
+{
+ "author": "दुर्गाप्रसादद्विवेदी",
+ "doc_kind": "text_edition",
+ "doc_year": 1916,
+ "people": [
+  {
+   "name": "दुर्गाप्रसादद्विवेदी",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit, Mathematics, Jyotiṣa"
+  },
+  {
+   "name": "माधवशास्त्री पुरोहित",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit, Jyotiṣa"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "दुर्गाप्रसादद्विवेदी",
+   "type": "position_at",
+   "object": "संस्कृतपाठशाला",
+   "role": "संस्कृतपाठशालाध्यक्ष (Principal / Head)",
+   "place": "जयपुर",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "जयपुरमहाराजाश्रितेन संस्कृतपाठशालाध्यक्षेण श्रीदुर्गाप्रसादद्विवेदेन",
+   "quote_ok": true
+  },
+  {
+   "subject": "माधवशास्त्री पुरोहित",
+   "type": "student_of",
+   "object": "दुर्गाप्रसादद्विवेदी",
+   "role": "disciple / student",
+   "place": "जयपुर",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "इसका संशोधन और गणित हमारे प्रिय शिष्य श्रीमाधवशास्त्री पुरोहित ने किया ।",
+   "quote_ok": false
+  }
+ ],
+ "docid": "bijaganita",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/bijaganita.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 552,
+  "script": "deva",
+  "kd_docid": "20793a8c__bijaganita"
+ },
+ "model": "gemini-flash-latest"
+}

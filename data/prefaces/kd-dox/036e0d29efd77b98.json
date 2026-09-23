@@ -1,0 +1,102 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 1966,
+ "people": [
+  {
+   "name": "जम्बूविजय",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "भुवनविजय",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "विजयसिद्धिसूरीश्वर",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "पुण्यविजयजी",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "ए० फ्राउवाल्नेर",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Austrian",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "जम्बूविजय",
+   "type": "student_of",
+   "object": "भुवनविजय",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "पूज्यपादमुनिराजश्रीभुवनविजयस्यान्तेवासी मुनि जम्बूविजय",
+   "quote_ok": true
+  },
+  {
+   "subject": "भुवनविजय",
+   "type": "student_of",
+   "object": "विजयसिद्धिसूरीश्वर",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "पूज्यपादाचार्यमहाराजश्रीमद्विजयसिद्धिसूरीश्वरप्रशिष्यस्य पूज्यपादमुनिराजश्रीभुवनविजयस्यान्तेवासी",
+   "quote_ok": true
+  },
+  {
+   "subject": "जम्बूविजय",
+   "type": "influenced_by",
+   "object": "पुण्यविजयजी",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "पूज्यपाद आगम प्रभाकर मुनि महाराजश्री पुण्यविजयजी महाराजना परम अनुरोधना ... वि. सं २००१ मा पूज्य मुनिश्री पुण्यविजयजी महाराजे पूज्य मुनिश्री जम्बूविजयजीने आगमोना संपादनने बदले आ आकर ग्रंथनुं संपादन करवा आदेश कर्यो",
+   "quote_ok": true
+  },
+  {
+   "subject": "ए० फ्राउवाल्नेर",
+   "type": "position_at",
+   "object": "वियेना युनिवर्सिटी",
+   "role": "विद्वान प्रोफेसर",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "वियेना युनिवर्सिटीना विख्यात प्रोफेसर विद्वान डा० ए० फ्राउवाल्नेर साहेबे अंग्रेजी प्रस्तावना (Introduction) लखी आपेल छे",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Dvādaśāraṃ Nayacakram edited by Jambuvijaya 446102-Dvadasaram Nayacakram",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Dvādaśāraṃ Nayacakram edited by Jambuvijaya 446102-Dvadasaram Nayacakram.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 627,
+  "script": "deva",
+  "kd_docid": "2c8a36d7__Dvādaśāraṃ_Nayacakram_edited_by_Jambuvijaya_446102-Dvadasara"
+ },
+ "model": "gemini-flash-latest"
+}

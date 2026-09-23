@@ -13,8 +13,12 @@ Key: $GEMINI_API_KEY, else ~/code/mitra-evaluation/.secrets.env. OCR texts: $IND
 import argparse, json, os, re, sys, time, threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-from google import genai
-from google.genai import types
+try:
+    from google import genai
+    from google.genai import types
+except ImportError:  # only needed for the Gemini backend; see llm.py
+    genai = types = None
+import llm
 
 MODEL = os.getenv("INDOLOGY_GEMINI_MODEL", "gemini-flash-latest")
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -96,13 +100,7 @@ SCHEMA = {
 
 
 def load_key():
-    if os.getenv("GEMINI_API_KEY"):
-        return os.environ["GEMINI_API_KEY"]
-    for line in open(os.path.expanduser("~/code/mitra-evaluation/.secrets.env")):
-        line = line.strip()
-        if line.startswith("GEMINI_API_KEY="):
-            return line.split("=", 1)[1].strip().strip('"').strip("'")
-    raise SystemExit("No GEMINI_API_KEY found")
+    return llm.load_key()
 
 
 def chunk_text(text):
@@ -125,10 +123,61 @@ def _norm(s):
     return re.sub(r"[\W_]+", "", s.lower())
 
 
-def quote_ok(evidence, chunk_norm):
-    """True if the evidence (or, for quotes with '...', each longer piece) occurs in the chunk."""
+def _words(s):
+    return [w for w in re.findall(r"\w+", s.lower()) if not w.isdigit() or len(w) > 2]
+
+
+# CJK (no word boundaries) and Indic scripts (vowel signs are combining marks, so \w+ cuts every word) are matched
+# by character trigrams instead of words
+CJK_RX = re.compile(r"[\u3040-\u30ff\u3400-\u9fff\uf900-\ufaff\u0900-\u0dff]")
+
+
+def _subseq(qw, tw, max_gap=12):
+    """Best share of the quote's words found in order in the text, allowing gaps: the OCR of two-column or facing
+    pages interleaves lines of the other column into a sentence."""
+    if not qw:
+        return 0.0
+    starts = [i for i, w in enumerate(tw) if w == qw[0]] or ([i for i, w in enumerate(tw) if w == qw[1]] if len(qw) > 1 else [])
+    best = 0.0
+    for st in starts[:50]:
+        i, hit = st, 0
+        for w in qw:
+            j = i
+            while j < min(i + max_gap, len(tw)) and tw[j] != w:
+                j += 1
+            if j < min(i + max_gap, len(tw)):
+                hit += 1; i = j + 1
+        best = max(best, hit / len(qw))
+        if best == 1.0:
+            break
+    return best
+
+
+def quote_match(evidence, text, text_norm=None):
+    """1.0 for exact normalised containment; else an in-order word match (Latin scripts) or a character-trigram
+    containment (CJK), in [0, 1]. Accepted at >= 0.85 / 0.7 (see quote_ok)."""
+    tn = text_norm if text_norm is not None else _norm(text)
     parts = [p for p in re.split(r"\.\.\.|…|\[\.\.\.\]", evidence) if len(_norm(p)) >= 12] or [evidence]
-    return all(_norm(p) in chunk_norm for p in parts)
+    if all(_norm(p) in tn for p in parts):
+        return 1.0
+    ne = _norm(evidence)
+    if len(CJK_RX.findall(ne)) >= 0.3 * max(1, len(ne)):
+        grams = {ne[i:i + 3] for i in range(len(ne) - 2)}
+        return sum(1 for g in grams if g in tn) / len(grams) if grams and len(ne) >= 8 else 0.0
+    qw = _words(evidence)
+    return _subseq(qw, _words(text)) if len(qw) >= 4 else 0.0
+
+
+def quote_ok(evidence, chunk_norm, chunk=None):
+    """True if the evidence (or, for quotes with '...', each longer piece) occurs in the chunk. With the raw chunk
+    given, a fuzzy match is accepted too (0.85 for Latin scripts, 0.7 for CJK): OCR column interleaving and
+    garbled characters otherwise cost about a tenth of all relations."""
+    parts = [p for p in re.split(r"\.\.\.|…|\[\.\.\.\]", evidence) if len(_norm(p)) >= 12] or [evidence]
+    if all(_norm(p) in chunk_norm for p in parts):
+        return True
+    if chunk is None:
+        return False
+    return quote_match(evidence, chunk, chunk_norm) >= (0.7 if CJK_RX.search(evidence) else 0.85)
 
 
 def run_chunk(client, docid, idx, chunk):
@@ -180,7 +229,7 @@ def main():
         print(f"[extract] {docid}: {len(chunks)} chunks, running {len(sel)}", flush=True)
         tasks += [(docid, i, c) for i, c in sel]
 
-    client = genai.Client(api_key=load_key())
+    client = llm.make_client()
     lock, done, tin, tout, failed = threading.Lock(), 0, 0, 0, []
     with ThreadPoolExecutor(args.workers) as ex:
         futs = {ex.submit(run_chunk, client, d, i, c): (d, i) for d, i, c in tasks}

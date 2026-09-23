@@ -1,0 +1,71 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1923,
+ "people": [
+  {
+   "name": "H. Krishna Sastri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Epigraphy"
+  },
+  {
+   "name": "Robert Sewell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "H. Jacobi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Archaeological Survey of India",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "H. Krishna Sastri",
+   "type": "position_at",
+   "object": "Archaeological Survey of India",
+   "role": "Government Epigraphist for India",
+   "place": "India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "EDITED BY Rao Bahadur H. KRISHNA SASTRI, B.A., GOVERNMENT EPIGRAPHIST FOR INDIA",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Sewell",
+   "type": "influenced_by",
+   "object": "H. Jacobi",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Results of calculation carried out by the present Tables will be found to correspond with those worked by use of Professor H. Jacobi's skeleton Tables... All I have done is to follow in his footsteps",
+   "quote_ok": true
+  }
+ ],
+ "docid": "epigraphia-indica-vol-17",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Epigraphia Indica/epigraphia-indica-vol-17.pdf.txt",
+ "meta": {
+  "category": "Epigraphia Indica",
+  "pdf_pages": 424,
+  "script": "latin",
+  "kd_docid": "4b794a2e__epigraphia-indica-vol-17"
+ },
+ "model": "gemini-flash-latest"
+}

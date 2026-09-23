@@ -1,0 +1,114 @@
+{
+ "author": "岡野潔",
+ "doc_kind": "article",
+ "doc_year": 1998,
+ "people": [
+  {
+   "name": "岡野潔",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "ジークリンデ・ディーッ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Germany",
+   "field": "Indology"
+  },
+  {
+   "name": "パーサーディカ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "ミヒャエル・ハーン",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Germany",
+   "field": "Indology"
+  },
+  {
+   "name": "山崎守一",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "パーサーディカ",
+   "type": "collaborated_with",
+   "object": "岡野潔",
+   "role": null,
+   "place": "Arolsen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "比丘はさらに授業の外にヘッセンのアロルゼンの家で二度にわたり早朝から夕方までかけて︑私と一緒に立世阿毘曇論のテキストを調べ︑ドイツ語訳を手伝って下さった︒",
+   "quote_ok": true
+  },
+  {
+   "subject": "岡野潔",
+   "type": "student_of",
+   "object": "パーサーディカ",
+   "role": "teacher",
+   "place": "Marburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "比丘パーサーディカｅ﹃．︑巨穴穴言も蔚且弄巴はマールブルクで二学期の間︑ローカパンニャッティのテキストを私のために一対一で講読して下さった︒",
+   "quote_ok": true
+  },
+  {
+   "subject": "パーサーディカ",
+   "type": "position_at",
+   "object": "マールブルク大学",
+   "role": null,
+   "place": "Marburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "比丘によるマールブルク大学での授業を実現させて下さったのはミヒャエル・ハーン博士",
+   "quote_ok": true
+  },
+  {
+   "subject": "ミヒャエル・ハーン",
+   "type": "position_at",
+   "object": "マールブルク大学",
+   "role": "Professor",
+   "place": "Marburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "比丘によるマールブルク大学での授業を実現させて下さったのはミヒャエル・ハーン博士ｅ﹃︑三斤富里国四言︶の親切心である︒比丘パーサーディカ博士とハーン教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "山崎守一",
+   "type": "position_at",
+   "object": "仙台電波工業高等専門学校",
+   "role": "Professor",
+   "place": "Sendai",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "山崎守一博士︵仙台電波工業高等専門学校教授︶",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Okano1998Lokaprajnaptisastra",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Okano1998Lokaprajnaptisastra.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 39,
+  "script": "cjk",
+  "kd_docid": "8aef848f__Okano1998Lokaprajnaptisastra"
+ },
+ "model": "gemini-flash-latest"
+}

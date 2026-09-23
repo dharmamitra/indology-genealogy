@@ -1,0 +1,76 @@
+{
+ "author": "राम शंकर भट्टाचार्य",
+ "doc_kind": "text_edition",
+ "doc_year": 1974,
+ "people": [
+  {
+   "name": "राम शंकर भट्टाचार्य",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "स्वामी धर्ममेघ आरण्य",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Yoga"
+  },
+  {
+   "name": "सुरमा दासगुप्ता",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "राम शंकर भट्टाचार्य",
+   "type": "student_of",
+   "object": "स्वामी धर्ममेघ आरण्य",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "योगविद्या के क्षेत्र मे मेरे गुरु स्वामी धर्ममेघ आरण्य (कपिलाश्रम के वर्तमान अध्यक्ष) ने मुझको कृपापूर्वक आदेश दिया",
+   "quote_ok": true
+  },
+  {
+   "subject": "स्वामी धर्ममेघ आरण्य",
+   "type": "position_at",
+   "object": "कपिलाश्रम",
+   "role": "अध्यक्ष",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "स्वामी धर्ममेघ आरण्य (कपिलाश्रम के वर्तमान अध्यक्ष)",
+   "quote_ok": true
+  },
+  {
+   "subject": "सुरमा दासगुप्ता",
+   "type": "collaborated_with",
+   "object": "राम शंकर भट्टाचार्य",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1974,
+   "explicit": false,
+   "evidence": "मोतीलाल बनारसी दास के प्रख्यात प्रकाशनसंस्थानसे इस ग्रन्थ को प्रकाशित करने के लिए जो सफल प्रयास माननीया अध्यापिका डा० सुरमा दासगुप्ता ने किया तदर्थं वे अवश्य ही धन्यवादा हैं।",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Patanjala Yoga Darsana Swami Hariharananda Aranya Ram Shankar Bhattacharya",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Yogadarśana Materials/Patanjala Yoga Darsana Swami Hariharananda Aranya Ram Shankar Bhattacharya.pdf.txt",
+ "meta": {
+  "category": "Yogadarśana Materials",
+  "pdf_pages": 494,
+  "script": "deva",
+  "kd_docid": "7d996062__Patanjala_Yoga_Darsana_Swami_Hariharananda_Aranya_Ram_Shanka"
+ },
+ "model": "gemini-flash-latest"
+}

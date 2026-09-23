@@ -1,0 +1,84 @@
+{
+ "author": "Hermann Kopp",
+ "doc_kind": "text_edition",
+ "doc_year": 1936,
+ "people": [
+  {
+   "name": "Hermann Kopp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Edmund Hardy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "V. Trenckner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "T. W. Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hermann Kopp",
+   "type": "other",
+   "object": "Edmund Hardy",
+   "role": "used a transcript left by Hardy",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From a transcript left. hy Edmund Hard y, which alternates between both of the Morris MSS. and consists mainly of portions of the Fifth Nipata, I have imported the methods of the lost MS. M,.",
+   "quote_ok": true,
+   "page": 5,
+   "gloss_en": "Kopp used a transcript left by Edmund Hardy for parts of the edition."
+  },
+  {
+   "subject": "V. Trenckner",
+   "type": "other",
+   "object": "T. W. Rhys Davids",
+   "role": "made manuscript copy for",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The carefully executed copy of. the Turnour Manuscript, made by V. Trenckner in 1878 for T. W. Rhys Davids, has been of good service to me in the compilation of the Sixth Nipata.",
+   "quote_ok": true,
+   "page": 5,
+   "gloss_en": "Trenckner copied the Turnour Manuscript in 1878 for Rhys Davids."
+  }
+ ],
+ "docid": "AN-a3",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Editions Series/AN-a3.pdf.txt",
+ "meta": {
+  "title": "Manorathapūraṇī: Commentary on the Aṅguttara Nikāya, Vol. III. Catukka-Pañcaka-Chakka-Nipāta-Vaṇṇanā",
+  "author": "Hermann Kopp",
+  "year": 1936,
+  "language": "English",
+  "kd_docid": "bce1897c__AN-a3",
+  "category": "Editions Series",
+  "pdf_pages": 401,
+  "dissertation": null,
+  "preface_signed": {
+   "place": "Mannheim",
+   "date_text": "Mannheim, 1935.",
+   "year": 1935
+  }
+ },
+ "model": "claude:sonnet (kd pass 1)"
+}
