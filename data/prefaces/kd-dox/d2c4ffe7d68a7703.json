@@ -1,0 +1,45 @@
+{
+ "author": "那須良彦",
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "那須良彦",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "本庄良文",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "那須良彦",
+   "type": "other",
+   "object": "本庄良文",
+   "role": "consulted on Sanskrit reconstruction",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "しかし本庄良文先生より、 sya と śca が字形が似ていることから、チベット訳者が tadvyāpārasya を誤って...ご教示を受け、還元梵文を訂正し...本庄先生に感謝いたします。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "ick15_nasuyoshihiko",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/ick15_nasuyoshihiko.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 29,
+  "script": "cjk",
+  "kd_docid": "ee697e69__ick15_nasuyoshihiko"
+ },
+ "model": "gemini-flash-latest"
+}

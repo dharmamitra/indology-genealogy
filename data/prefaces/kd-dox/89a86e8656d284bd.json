@@ -1,0 +1,119 @@
+{
+ "author": "D. Srinivasachar",
+ "doc_kind": "text_edition",
+ "doc_year": 1931,
+ "people": [
+  {
+   "name": "D. Srinivasachar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "S. Narasimhachar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "R. Shama Sastry",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Srinivasagopalachar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "D. Srinivasachar",
+   "type": "position_at",
+   "object": "Maharaja's College",
+   "role": "Professor of Sanskrit",
+   "place": "Mysore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "D. SRINIVASACHAR, m.a., Professor of Sanskrit, Maharaja's College",
+   "quote_ok": true
+  },
+  {
+   "subject": "D. Srinivasachar",
+   "type": "position_at",
+   "object": "Government Oriental Library, Mysore",
+   "role": "Curator",
+   "place": "Mysore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Curator, Government Oriental Library, Mysore",
+   "quote_ok": true
+  },
+  {
+   "subject": "S. Narasimhachar",
+   "type": "position_at",
+   "object": "Government Oriental Library, Mysore",
+   "role": "Vidwan / Pandit",
+   "place": "Mysore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "VIDWAN 8. NARASIMHACHAR, Government Oriental Library, Mysore",
+   "quote_ok": true
+  },
+  {
+   "subject": "D. Srinivasachar",
+   "type": "collaborated_with",
+   "object": "S. Narasimhachar",
+   "role": "Co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1931,
+   "explicit": true,
+   "evidence": "EDITED BY D. SRINIVASACHAR, m.a., ... AND VIDWAN 8. NARASIMHACHAR",
+   "quote_ok": true
+  },
+  {
+   "subject": "D. Srinivasachar",
+   "type": "succeeded",
+   "object": "R. Shama Sastry",
+   "role": "Curator",
+   "place": "Government Oriental Library, Mysore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The work of editing the Sulba Sutra of Apasthamba, was begun by my predecessor, Mahamahopadhyaya Dr. R. Shama Sastry... I continued the work after I took charge of the Oriental Library on his retirement.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Srinivasagopalachar",
+   "type": "position_at",
+   "object": "Government Oriental Library, Mysore",
+   "role": "Pandit",
+   "place": "Mysore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pandit Srinivasagopalachar of the Oriental Library prepared the press copy",
+   "quote_ok": true
+  }
+ ],
+ "docid": "ApastambaShulbhaSutra",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/texts-translations/Apastamba/ApastambaShulbhaSutra.pdf.txt",
+ "meta": {
+  "category": "Tohoku",
+  "pdf_pages": 328,
+  "script": "deva",
+  "kd_docid": "1020884e__ApastambaShulbhaSutra"
+ },
+ "model": "gemini-flash-latest"
+}

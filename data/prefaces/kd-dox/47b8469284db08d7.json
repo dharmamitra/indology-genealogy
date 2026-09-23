@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1921,
+ "people": [
+  {
+   "name": "D. R. Bhandarkar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Romesh Chandra Majumdar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "History"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Romesh Chandra Majumdar",
+   "type": "position_at",
+   "object": "Calcutta University",
+   "role": null,
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mr. R. C. Majumdar of the Calcutta Univermty has kindly offered the suggestion",
+   "quote_ok": true
+  },
+  {
+   "subject": "Romesh Chandra Majumdar",
+   "type": "collaborated_with",
+   "object": "D. R. Bhandarkar",
+   "role": "assistant",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof D. R. Bhandarkar states that omginally he thought that the word pautirasya had been omitted... but now he is inclined to agree with his assistant Dr. Romesh Chandra Majumdar",
+   "quote_ok": true
+  }
+ ],
+ "docid": "epigraphia-indica-vol-16",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Epigraphia Indica/epigraphia-indica-vol-16.pdf.txt",
+ "meta": {
+  "category": "Epigraphia Indica",
+  "pdf_pages": 447,
+  "script": "latin",
+  "kd_docid": "3c35f60c__epigraphia-indica-vol-16"
+ },
+ "model": "gemini-flash-latest"
+}

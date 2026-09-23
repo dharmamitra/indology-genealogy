@@ -1,0 +1,159 @@
+{
+ "author": "Leopold von Schroeder",
+ "doc_kind": "text_edition",
+ "doc_year": 1881,
+ "people": [
+  {
+   "name": "Leopold von Schroeder",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Otto Böhtlingk",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Georg Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rudolf von Roth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Delbrück",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "A. Weber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "R. Rost",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Petersen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Otto Böhtlingk",
+   "type": "position_at",
+   "object": "Akademie der Wissenschaften zu St. Petersburg",
+   "role": "Mitglied",
+   "place": "St. Petersburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Herrn Geheimrath Otto Bohtlingk, Excellenz, Mitglied der Akademie der Wissenschaften zu St, Petersburg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Bühler",
+   "type": "position_at",
+   "object": "Wien",
+   "role": "Professor Dr.",
+   "place": "Wien",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Herrn Professor Dr. Georg Bühler in Wien",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rudolf von Roth",
+   "type": "position_at",
+   "object": "Tübingen",
+   "role": "Professor Dr.",
+   "place": "Tübingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Herrn Professor Dr. Rudolf von Roth in Tiibingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Leopold von Schroeder",
+   "type": "student_of",
+   "object": "Rudolf von Roth",
+   "role": "teacher",
+   "place": "Tübingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "verdanke ich meinem hochverehrten Lehrer, Herrn Professor R. v. Roth in Tiibingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. Weber",
+   "type": "position_at",
+   "object": "Berlin",
+   "role": "Professor",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Herr Professor A. Weber in Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "R. Rost",
+   "type": "position_at",
+   "object": "India Office in London",
+   "role": "Oberbibliothekar",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Herrn Oberbibliothekar R. Rost am India Office in London",
+   "quote_ok": true
+  },
+  {
+   "subject": "Petersen",
+   "type": "position_at",
+   "object": "Universität Bombay",
+   "role": "Registrar",
+   "place": "Bombay",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Herrn Registrar Petersen an der Universitat Bombay",
+   "quote_ok": true
+  }
+ ],
+ "docid": "MAITRAYANI SAMHITA-1",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/books_y/MAITRAYANI　SAMHITA-1/MAITRAYANI SAMHITA-1.pdf.txt",
+ "meta": {
+  "category": "Tohoku",
+  "pdf_pages": 192,
+  "script": "deva",
+  "kd_docid": "db9b7ce3__MAITRAYANI_SAMHITA-1"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,76 @@
+{
+ "author": "Dines Chandra Sircar",
+ "doc_kind": "text_edition",
+ "doc_year": 1983,
+ "people": [
+  {
+   "name": "Dines Chandra Sircar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "D. R. Das",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "S. Bandyopadhyay",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Dines Chandra Sircar",
+   "type": "position_at",
+   "object": "University of Calcutta",
+   "role": null,
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I also had to leave the University of Calcutta within afew years thereafter and became involved in various pursuits.",
+   "quote_ok": true
+  },
+  {
+   "subject": "D. R. Das",
+   "type": "student_of",
+   "object": "Dines Chandra Sircar",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I am extremely grateful to my pupil, Dr. 0. R. Das, for help in revising the volume for the press.",
+   "quote_ok": true
+  },
+  {
+   "subject": "S. Bandyopadhyay",
+   "type": "student_of",
+   "object": "Dines Chandra Sircar",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I have also received some assistance from Dr. इ. Bandyopadhyay, another pupil of mine.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "sircar_select_inscriptions_2",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/sircar_select_inscriptions_2.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 875,
+  "script": "deva",
+  "kd_docid": "58d350b4__sircar_select_inscriptions_2"
+ },
+ "model": "gemini-flash-latest"
+}

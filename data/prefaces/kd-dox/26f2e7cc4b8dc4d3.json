@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 1975,
+ "people": [
+  {
+   "name": "Amritlal M. Bhojak",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "Nagin J. Shah",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "Dalsukh Malvania",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Amritlal M. Bhojak",
+   "type": "collaborated_with",
+   "object": "Nagin J. Shah",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1975,
+   "explicit": true,
+   "evidence": "EDITED BY Pt. AMRITLAL M. BHOJAK NAGIN J. SHAH",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dalsukh Malvania",
+   "type": "position_at",
+   "object": "L. D. Institute of Indology",
+   "role": "Director",
+   "place": "Ahmedabad",
+   "year_start": null,
+   "year_end": 1975,
+   "explicit": true,
+   "evidence": "Pt. Shri Dalsukhbhai Malvania, Director of the L. D. Institute of Indology",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Gaharayanakosa",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Gaharayanakosa.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 58,
+  "script": "deva",
+  "kd_docid": "8036eff9__Gaharayanakosa"
+ },
+ "model": "gemini-flash-latest"
+}

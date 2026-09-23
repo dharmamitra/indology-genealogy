@@ -1,0 +1,107 @@
+{
+ "author": "Sita Krishna Nambiar",
+ "doc_kind": "text_edition",
+ "doc_year": 1971,
+ "people": [
+  {
+   "name": "Sita Krishna Nambiar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Paul Hacker",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Sheila Uttam Singh",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ranga Kapoor",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sita Krishna Nambiar",
+   "type": "student_of",
+   "object": "Paul Hacker",
+   "role": "doctoral supervisor",
+   "place": "university of Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "When I was working for my thesis ^Prahodhacandrodaya- A Philosophical and Theological Analysis under Prof. Paul Hacker at the university of Bonn",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sita Krishna Nambiar",
+   "type": "studied_at",
+   "object": "university of Bonn",
+   "role": null,
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "When I was working for my thesis ^Prahodhacandrodaya- A Philosophical and Theological Analysis under Prof. Paul Hacker at the university of Bonn",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sita Krishna Nambiar",
+   "type": "position_at",
+   "object": "Indraprastha College for Women, Delhi",
+   "role": null,
+   "place": "Delhi",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Sita Krishna Nambiar Department of Sanskrit Indraprastha College for Women, Delhi",
+   "quote_ok": false
+  },
+  {
+   "subject": "Sheila Uttam Singh",
+   "type": "position_at",
+   "object": "Indraprastha College for Women, Delhi",
+   "role": null,
+   "place": "Delhi",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "I am also beholden to my friend and colleague Dr. (miss) Sheila Uttam Singh",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ranga Kapoor",
+   "type": "position_at",
+   "object": "Indraprastha College for Women, Delhi",
+   "role": null,
+   "place": "Delhi",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "I owe special thanks to my young friend and colleague Mrs. Ranga Kapoor",
+   "quote_ok": true
+  }
+ ],
+ "docid": "108198-Prabodhacandrodaya_text",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/108198-Prabodhacandrodaya_text.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 20,
+  "script": "latin",
+  "kd_docid": "74121144__108198-Prabodhacandrodaya_text"
+ },
+ "model": "gemini-flash-latest"
+}

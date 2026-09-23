@@ -1,0 +1,76 @@
+{
+ "author": "Abdul Samad",
+ "doc_kind": "dissertation",
+ "doc_year": 2010,
+ "people": [
+  {
+   "name": "Abdul Samad",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Pakistan",
+   "field": null
+  },
+  {
+   "name": "Harry Falk",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ute Franke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Abdul Samad",
+   "type": "studied_at",
+   "object": "Freie Universität Berlin",
+   "role": "Doktorgrad",
+   "place": null,
+   "year_start": null,
+   "year_end": 2010,
+   "explicit": true,
+   "evidence": "Zur Erlangung des Doktorgrades eingereicht am Fachbereich Geschichts- und Kulturwissenschaften der Freien Universität Berlin Im August 2010 Vorgelegt von Abdul Samad",
+   "quote_ok": true
+  },
+  {
+   "subject": "Abdul Samad",
+   "type": "student_of",
+   "object": "Harry Falk",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 2011,
+   "explicit": true,
+   "evidence": "1. Gutachter: Prof. Dr. Harry Falk.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Abdul Samad",
+   "type": "student_of",
+   "object": "Ute Franke",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 2011,
+   "explicit": true,
+   "evidence": "2. Gutachterin: PD Dr. Ute Franke.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Samad_PhD.final",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Samad_PhD.final.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 151,
+  "script": "latin",
+  "kd_docid": "f29afb0c__Samad_PhD_final"
+ },
+ "model": "gemini-flash-latest"
+}

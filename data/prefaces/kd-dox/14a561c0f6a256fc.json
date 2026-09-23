@@ -1,0 +1,64 @@
+{
+ "author": "F. Max Müller",
+ "doc_kind": "text_edition",
+ "doc_year": 1849,
+ "people": [
+  {
+   "name": "F. Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "H. H. Wilson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "E. Burnouf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "F. Max Müller",
+   "type": "student_of",
+   "object": "H. H. Wilson",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "To have been allowed to enjoy his acquaintance, and to avail myself of his instruction, will always be to me the best compensation",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. Burnouf",
+   "type": "position_at",
+   "object": "France",
+   "role": "Professor",
+   "place": "France",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor E. Burnouf in France",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Muller1890_RV-prefaces",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/books_g/Muller_Max/Muller1890_RV-prefaces.pdf.txt",
+ "meta": {
+  "category": "Tohoku",
+  "pdf_pages": 61,
+  "script": "latin",
+  "kd_docid": "5d3efd41__Muller1890_RV-prefaces"
+ },
+ "model": "gemini-flash-latest"
+}

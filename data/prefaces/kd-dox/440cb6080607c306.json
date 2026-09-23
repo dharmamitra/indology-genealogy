@@ -1,0 +1,105 @@
+{
+ "author": "M. Hofinger",
+ "doc_kind": "monograph",
+ "doc_year": 1946,
+ "people": [
+  {
+   "name": "M. Hofinger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "E. Lamotte",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "A. Carnoy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Th. Lefort",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "J. Przyluski",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "M. Hofinger",
+   "type": "student_of",
+   "object": "E. Lamotte",
+   "role": "teacher (unspecified)",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Monsieur le professeur E. Lamotte, qui nous guida dans nos recherches",
+   "quote_ok": true,
+   "page": 7,
+   "gloss_en": null
+  },
+  {
+   "subject": "M. Hofinger",
+   "type": "studied_at",
+   "object": "Université de Louvain",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Messieurs les professeurs de la Faculté de Philosophie et Lettres et de l'Institut Orientaliste de l'Université de Louvain, qui nous ont formé aux études avec un dévouement infatigable",
+   "quote_ok": true,
+   "page": 8,
+   "gloss_en": null
+  },
+  {
+   "subject": "M. Hofinger",
+   "type": "influenced_by",
+   "object": "J. Przyluski",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "les importantes recherches de J. Przyluski ont, voici quelque vingt ans, montré la voie. Nous nous sommes efforcé d'appliquer sa méthode d'interprétation aux récits du second concile",
+   "quote_ok": true,
+   "page": 6,
+   "gloss_en": null
+  }
+ ],
+ "docid": "Hofinger_M_1946",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Hofinger_M_1946.pdf.txt",
+ "meta": {
+  "title": "Étude sur le concile de Vaiśālī",
+  "author": "M. Hofinger",
+  "year": 1946,
+  "language": "fr",
+  "kd_docid": "beef6839__Hofinger_M_1946",
+  "category": "(root)",
+  "pdf_pages": 272,
+  "dissertation": null,
+  "preface_signed": {
+   "place": null,
+   "date_text": null,
+   "year": null
+  }
+ },
+ "model": "claude:sonnet (kd pass 1)"
+}

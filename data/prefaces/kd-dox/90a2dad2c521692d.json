@@ -1,0 +1,76 @@
+{
+ "author": "山崎守一",
+ "doc_kind": "article",
+ "doc_year": 1980,
+ "people": [
+  {
+   "name": "山崎守一",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indology"
+  },
+  {
+   "name": "K. R. Norman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "United Kingdom",
+   "field": "Indology"
+  },
+  {
+   "name": "塚本啓祥",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "山崎守一",
+   "type": "studied_at",
+   "object": "ケンブリッジ大学",
+   "role": null,
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "本論は筆者のケンブリッジ大学留学中に K. R. Norman 先生より直接御教授いただいたものの一つである。",
+   "quote_ok": true
+  },
+  {
+   "subject": "山崎守一",
+   "type": "student_of",
+   "object": "K. R. Norman",
+   "role": "teacher",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "本論は筆者のケンブリッジ大学留学中に K. R. Norman 先生より直接御教授いただいたものの一つである。",
+   "quote_ok": true
+  },
+  {
+   "subject": "塚本啓祥",
+   "type": "position_at",
+   "object": "塚本啓祥教授",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "また本稿の作成に当たって塚本啓祥教授の助言を仰いだ。",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Yamazaki_山崎守一_1980",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Yamazaki_山崎守一_1980.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 13,
+  "script": "cjk",
+  "kd_docid": "393cc404__Yamazaki_山崎守一_1980"
+ },
+ "model": "gemini-flash-latest"
+}

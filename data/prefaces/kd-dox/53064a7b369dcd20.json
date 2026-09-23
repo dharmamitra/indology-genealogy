@@ -1,0 +1,95 @@
+{
+ "author": "Rudolph Roth",
+ "doc_kind": "text_edition",
+ "doc_year": 1919,
+ "people": [
+  {
+   "name": "Rudolph Roth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "D. Mackichan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Heinrich von Ewald",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Theodor Benfey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "D. Mackichan",
+   "type": "position_at",
+   "object": "Wilson College, Bombay",
+   "role": "Principal",
+   "place": "Bombay",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Translated by the Rev. D. MACKICHAN, M.A., D.D., LL.D., Principal, Wilson College, Bombay, some time Vice-Chancellor of the University of Bombay.",
+   "quote_ok": false
+  },
+  {
+   "subject": "D. Mackichan",
+   "type": "position_at",
+   "object": "University of Bombay",
+   "role": "Vice-Chancellor",
+   "place": "Bombay",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Translated by the Rev. D. MACKICHAN, M.A., D.D., LL.D., Principal, Wilson College, Bombay, some time Vice-Chancellor of the University of Bombay.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Rudolph Roth",
+   "type": "student_of",
+   "object": "Heinrich von Ewald",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I am under especial obligations to my honoured teacher, Heinrich von Ewald, to whom it is due in more than one respect that I have been able to begin and so far com- plete this work.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rudolph Roth",
+   "type": "other",
+   "object": "Theodor Benfey",
+   "role": "friend",
+   "place": "Gottingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "My friend, Dr. Theodor Benfey in Gottingen has not only undertaken the troublesome task of passing the work through the press",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Roth1919_Introduction-to-Nirukta=introductiontoni00rothrich_bw",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/books_g/Roth/Roth1919_Introduction-to-Nirukta=introductiontoni00rothrich_bw.pdf.txt",
+ "meta": {
+  "category": "Tohoku",
+  "pdf_pages": 58,
+  "script": "latin",
+  "kd_docid": "07e6d54f__Roth1919_Introduction-to-Nirukta_introductiontoni00rothrich_"
+ },
+ "model": "gemini-flash-latest"
+}

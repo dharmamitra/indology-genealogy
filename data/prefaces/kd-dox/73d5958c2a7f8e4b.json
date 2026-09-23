@@ -1,0 +1,138 @@
+{
+ "author": "A. Foucher",
+ "doc_kind": "text_edition",
+ "doc_year": 1949,
+ "people": [
+  {
+   "name": "A. Foucher",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Indology"
+  },
+  {
+   "name": "Abel Bergaigne",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Indology"
+  },
+  {
+   "name": "Arthur Venis",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "D. B. Spooner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "Archaeology"
+  },
+  {
+   "name": "André Lalande",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "A. Foucher",
+   "type": "position_at",
+   "object": "Université de Paris",
+   "role": "Professeur honoraire",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A. FOUCHER MEMBRE DE L'INSTITUT, PROFESSEUR HONORAIRE A L'UNIVERSITÉ DE PARIS",
+   "quote_ok": false
+  },
+  {
+   "subject": "A. Foucher",
+   "type": "student_of",
+   "object": "Abel Bergaigne",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Je suis l'un des derniers survivants de ceux qui ont passé sous la direction d'Abel Bergaigne par la sévère, mais profitable discipline de son « Manuel pour étudier la langue sanscrite ».",
+   "quote_ok": false
+  },
+  {
+   "subject": "Arthur Venis",
+   "type": "position_at",
+   "object": "Sanskrit College",
+   "role": "principal",
+   "place": "Benares",
+   "year_start": null,
+   "year_end": 1895,
+   "explicit": true,
+   "evidence": "En visitant le « Sanskrit College » de Bénarès sous la conduite de son principal qui était alors M. le Prof. Venis",
+   "quote_ok": false
+  },
+  {
+   "subject": "A. Foucher",
+   "type": "student_of",
+   "object": "Arthur Venis",
+   "role": "teacher",
+   "place": "Benares",
+   "year_start": 1895,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "C'est ici que M. le Prof. Venis vint à mon secours en me guidant à travers une littérature spéciale qu'il connaissait admirablement",
+   "quote_ok": false
+  },
+  {
+   "subject": "D. B. Spooner",
+   "type": "studied_at",
+   "object": "Sanskrit College",
+   "role": null,
+   "place": "Benares",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "passer la série des examens du « Sanskrit College » : je ne connais qu'un seul scholar — un Américain, le Dr D. B. Spooner... — qui ait eu le loisir et le courage d'accomplir ce véritable tour de force.",
+   "quote_ok": false
+  },
+  {
+   "subject": "D. B. Spooner",
+   "type": "position_at",
+   "object": "Service archéologique de l'Inde",
+   "role": "Directeur p. i.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "mort prématurément comme Directeur p. i. du Service archéologique de l'Inde",
+   "quote_ok": false
+  },
+  {
+   "subject": "A. Foucher",
+   "type": "collaborated_with",
+   "object": "André Lalande",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "nous devons exprimer tous nos remercîments à notre confrère, M. André Lalande, qui a bien voulu prendre connaissance de notre manuscrit et nous faire profiter de sa compétence sans rivale en matière de logique.",
+   "quote_ok": false
+  }
+ ],
+ "docid": "A Foucher 1949 Le Compendium des Topiques (Tarka-Saṃgraha) d'Annambhaṭṭa-OCR",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/A Foucher 1949 Le Compendium des Topiques (Tarka-Saṃgraha) d'Annambhaṭṭa-OCR.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 104,
+  "script": "latin",
+  "kd_docid": "17f94fdf__A_Foucher_1949_Le_Compendium_des_Topiques_Tarka-Saṃgraha_d_A"
+ },
+ "model": "gemini-flash-latest"
+}

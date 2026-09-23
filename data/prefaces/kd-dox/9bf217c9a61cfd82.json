@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 1936,
+ "people": [
+  {
+   "name": "V. VIJAYARAGHAVACHARYA",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Epigraphy"
+  },
+  {
+   "name": "G.A. NARAYAN",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Archaeology"
+  },
+  {
+   "name": "Sadhu Subrahmanya Sastry",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Epigraphy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "V. VIJAYARAGHAVACHARYA",
+   "type": "position_at",
+   "object": "Tirumala Tirupati Devasthanams",
+   "role": "Devasthanam Epigraphist",
+   "place": "Tirupati",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pandit. V. VIJAYARAGHAVACHARYA\n  Devasthanam Epigraphist",
+   "quote_ok": true
+  },
+  {
+   "subject": "G.A. NARAYAN",
+   "type": "position_at",
+   "object": "Tirumala Tirupati Devasthanams",
+   "role": "Devasthanam Archaeological Assistant",
+   "place": "Tirupati",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "G.A. NARAYAN, B A.,\n  Devasthanam Archaeological Assistant",
+   "quote_ok": true
+  },
+  {
+   "subject": "V. VIJAYARAGHAVACHARYA",
+   "type": "collaborated_with",
+   "object": "G.A. NARAYAN",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Translated and Edited by\n\n  Pandit. V. VIJAYARAGHAVACHARYA\n  Devasthanam Epigraphist\n\n  .Assisted by\n\n  G.A. NARAYAN, B A.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "TiruTDevasthInsc.4",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/inscr and Icono/Epigraphy/MiscInscriptions/TiruTDevasthInsc.4.pdf.txt",
+ "meta": {
+  "category": "inscr and Icono",
+  "pdf_pages": 469,
+  "script": "latin",
+  "kd_docid": "a2ba86b5__TiruTDevasthInsc_4"
+ },
+ "model": "gemini-flash-latest"
+}

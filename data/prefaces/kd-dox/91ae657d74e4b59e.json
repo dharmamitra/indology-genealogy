@@ -1,0 +1,88 @@
+{
+ "author": "Johan van Manen",
+ "doc_kind": "text_edition",
+ "doc_year": 1916,
+ "people": [
+  {
+   "name": "M. D. Ramanujacarya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "F. Otto Schrader",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Johan van Manen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "M. D. Ramanujacarya",
+   "type": "position_at",
+   "object": "Adyar Library",
+   "role": "Head Pandit",
+   "place": "Adyar, Madras",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "EDITED FOR THE ADYAR LIBRARY BY M._D, RAMANUJACARYA Head Pandit, Adyar Library",
+   "quote_ok": false
+  },
+  {
+   "subject": "F. Otto Schrader",
+   "type": "position_at",
+   "object": "Adyar Library",
+   "role": "Director",
+   "place": "Adyar, Madras",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "F. OTTO SCHRADER, Ph.D. Director, Adyar Library",
+   "quote_ok": false
+  },
+  {
+   "subject": "Johan van Manen",
+   "type": "position_at",
+   "object": "Adyar Library",
+   "role": "Assistant Director",
+   "place": "Adyar",
+   "year_start": null,
+   "year_end": 1916,
+   "explicit": true,
+   "evidence": "JOHAN VAN MANEN, Assistant Director, Adyar Library. ADYAR, May 1916.",
+   "quote_ok": false
+  },
+  {
+   "subject": "M. D. Ramanujacarya",
+   "type": "collaborated_with",
+   "object": "F. Otto Schrader",
+   "role": "editor under supervision",
+   "place": null,
+   "year_start": null,
+   "year_end": 1916,
+   "explicit": true,
+   "evidence": "EDITED FOR THE ADYAR LIBRARY BY M._D, RAMANUJACARYA Head Pandit, Adyar Library UNDER THE SUPERVISION OF F. OTTO SCHRADER, Ph.D.",
+   "quote_ok": false
+  }
+ ],
+ "docid": "ahirbudhnyasamhita1",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/ahirbudhnyasamhita1.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 346,
+  "script": "deva",
+  "kd_docid": "3c350bfc__ahirbudhnyasamhita1"
+ },
+ "model": "gemini-flash-latest"
+}

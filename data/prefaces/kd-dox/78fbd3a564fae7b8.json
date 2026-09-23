@@ -1,0 +1,121 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1966,
+ "people": [
+  {
+   "name": "Jaina Muni JAMBUVIJAYA",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Jaina studies"
+  },
+  {
+   "name": "Bhuvanavijaya Maharaja",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Jainism"
+  },
+  {
+   "name": "SHOTARO IIDA",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "R.H. Robinson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "V.V. Gokhale",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "H. Kikuchi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jaina Muni JAMBUVIJAYA",
+   "type": "student_of",
+   "object": "Bhuvanavijaya Maharaja",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Jaina Muni JAMBUVIJAYA The disciple of HLH. Muniraja Sri Bhuvanavijaya Maharaja",
+   "quote_ok": true
+  },
+  {
+   "subject": "R.H. Robinson",
+   "type": "position_at",
+   "object": "University of Wisconsin",
+   "role": "Professor",
+   "place": "Wisconsin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor R.H. Robinson of University of Wisconsin",
+   "quote_ok": true
+  },
+  {
+   "subject": "V.V. Gokhale",
+   "type": "position_at",
+   "object": "Delhi University",
+   "role": "Prof.",
+   "place": "Delhi",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. V.V. Gokhale at Delhi University",
+   "quote_ok": true
+  },
+  {
+   "subject": "H. Kikuchi",
+   "type": "student_of",
+   "object": "V.V. Gokhale",
+   "role": "teacher",
+   "place": "Delhi University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mr. H. Kikuchi, a research student of Prof. V.V. Gokhale at Delhi University",
+   "quote_ok": true
+  },
+  {
+   "subject": "H. Kikuchi",
+   "type": "studied_at",
+   "object": "Delhi University",
+   "role": "research student",
+   "place": "Delhi",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mr. H. Kikuchi, a research student of Prof. V.V. Gokhale at Delhi University",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Jambuvijaya_1966",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Jambuvijaya_1966.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 5,
+  "script": "latin",
+  "kd_docid": "7e6bdc8e__Jambuvijaya_1966"
+ },
+ "model": "gemini-flash-latest"
+}

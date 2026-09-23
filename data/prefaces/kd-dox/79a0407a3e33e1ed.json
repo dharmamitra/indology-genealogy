@@ -1,0 +1,90 @@
+{
+ "author": "Johannes Bronkhorst",
+ "doc_kind": "text_edition",
+ "doc_year": 1987,
+ "people": [
+  {
+   "name": "Johannes Bronkhorst",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "R. N. Dandekar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "K. V. Abhyankar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "V. P. Limaye",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "S. D. Laddu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "R. N. Dandekar",
+   "type": "position_at",
+   "object": "Bhandarkar Oriental Research Institute",
+   "role": "Secretary",
+   "place": "Poona",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Published by R. N. Dandekar, Secretary, Bhandarkar Oriental Research Institute",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Bronkhorst",
+   "type": "collaborated_with",
+   "object": "K. V. Abhyankar",
+   "role": "reading text together",
+   "place": "Poona",
+   "year_start": 1976,
+   "year_end": 1976,
+   "explicit": true,
+   "evidence": "In 1976, while studying in Poona, I approached Professor K. V. Abhyankar — one of the editors of this text — with the request to read the Bipik\u0000\u0000a with me. Professor Abhyankar kindly agreed",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Bronkhorst",
+   "type": "collaborated_with",
+   "object": "S. D. Laddu",
+   "role": "project collaboration",
+   "place": "Poona",
+   "year_start": 1984,
+   "year_end": 1984,
+   "explicit": true,
+   "evidence": "I thank Prof. Laddu for working with me on this interesting project",
+   "quote_ok": true
+  }
+ ],
+ "docid": "B4-book",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/books/B4-book.pdf.txt",
+ "meta": {
+  "category": "books",
+  "pdf_pages": 152,
+  "script": "latin",
+  "kd_docid": "48d4edad__B4-book"
+ },
+ "model": "gemini-flash-latest"
+}

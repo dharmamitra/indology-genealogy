@@ -1,0 +1,76 @@
+{
+ "author": "VISHVA BANDHU",
+ "doc_kind": "text_edition",
+ "doc_year": 1953,
+ "people": [
+  {
+   "name": "VISHVA BANDHU",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Ludwik Sternbach",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Bhim Dev",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "VISHVA BANDHU",
+   "type": "position_at",
+   "object": "VISHVESHVARANAND VEDIC RESEARCH INSTITUTE",
+   "role": null,
+   "place": "Hoshiarpur",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "V. V. र. Institute, Hoshiarpur, VISHVA BANDHU June 24, 1953.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bhim Dev",
+   "type": "position_at",
+   "object": "VISHVESHVARANAND VEDIC RESEARCH INSTITUTE",
+   "role": "assistant",
+   "place": "Hoshiarpur",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I very much appreciate the hard work that my immediate assistant, Prof, Bhim Dev and other colleagues... had to do in connection with the final preparation and publication of this book.",
+   "quote_ok": true
+  },
+  {
+   "subject": "VISHVA BANDHU",
+   "type": "collaborated_with",
+   "object": "Ludwik Sternbach",
+   "role": "editor",
+   "place": null,
+   "year_start": 1951,
+   "year_end": 1953,
+   "explicit": true,
+   "evidence": "Towards the end of March, 1951, he requested the present writer that a compilation of some 700 original texts which he had made from Classical Sanskrit literature... might be included in our Institute publications.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "courtezans",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/courtezans.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 191,
+  "script": "deva",
+  "kd_docid": "51039d06__courtezans"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 2003,
+ "people": [
+  {
+   "name": "Stefan Baums",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Andrew Glass",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Doug Hitch",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Linguistics"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Stefan Baums",
+   "type": "collaborated_with",
+   "object": "Andrew Glass",
+   "role": "co-requesters",
+   "place": null,
+   "year_start": 2003,
+   "year_end": 2003,
+   "explicit": true,
+   "evidence": "Proposal for the Encoding of Brāhmī in Plane 1 of ISO/IEC 10646. 2. Requesters' names: Stefan Baums, Andrew Glass.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stefan Baums",
+   "type": "position_at",
+   "object": "University of Washington",
+   "role": null,
+   "place": "Seattle, WA, USA",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Stefan Baums. If available now, identify source(s) for the font (include address, e-mail, ftp-site, etc.) and indicate the tools used: Department of Asian Languages and Literature, University of Washington",
+   "quote_ok": true
+  },
+  {
+   "subject": "Doug Hitch",
+   "type": "studied_at",
+   "object": "University of Calgary",
+   "role": "MA",
+   "place": null,
+   "year_start": null,
+   "year_end": 1981,
+   "explicit": true,
+   "evidence": "Hitch, Doug, 1981. Central Asian Brahmi palaeography: the relationships among the Tocharian, Khotanese, and Old Turkic Gupta scripts. MA thesis, Department of Linguistics, University of Calgary.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "brahmi-proposal",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/brahmi-proposal.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 22,
+  "script": "latin",
+  "kd_docid": "b98cd4ca__brahmi-proposal"
+ },
+ "model": "gemini-flash-latest"
+}

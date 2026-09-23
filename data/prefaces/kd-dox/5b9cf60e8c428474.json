@@ -1,0 +1,84 @@
+{
+ "author": "Arnold C. Taylor",
+ "doc_kind": "text_edition",
+ "doc_year": 1979,
+ "people": [
+  {
+   "name": "Arnold C. Taylor",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "T. W. Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "C. H. Tawney",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Morris",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Arnold C. Taylor",
+   "type": "other",
+   "object": "T. W. Rhys Davids",
+   "role": "dedicatee",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "PROFESSORI T. W. RHYS DAVIDS HANC REDACTIONEM DEDICO, PALICARUM LITTERARUM VETERANO INEXERCITATUS, AMICUS AMICO.",
+   "quote_ok": true,
+   "page": 4,
+   "gloss_en": null
+  },
+  {
+   "subject": "C. H. Tawney",
+   "type": "position_at",
+   "object": "India Office",
+   "role": "Librarian",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor C. H. Tawney, Librarian of the India Office",
+   "quote_ok": true,
+   "page": 7,
+   "gloss_en": null
+  }
+ ],
+ "docid": "Kv1-2",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Editions Series/Kv1-2.pdf.txt",
+ "meta": {
+  "title": "Kathavatthu, Vols. I, II",
+  "author": "Arnold C. Taylor",
+  "year": 1979,
+  "language": "English",
+  "kd_docid": "5dc4dd1c__Kv1-2",
+  "category": "Editions Series",
+  "pdf_pages": 628,
+  "dissertation": null,
+  "preface_signed": {
+   "place": "London",
+   "date_text": "London, August, 1897",
+   "year": 1897
+  }
+ },
+ "model": "claude:sonnet (kd pass 1)"
+}

@@ -1,0 +1,121 @@
+{
+ "author": "平川彰",
+ "doc_kind": "article",
+ "doc_year": 1953,
+ "people": [
+  {
+   "name": "平川彰",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "宮本",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "西",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "坂本",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "舟橋一哉",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "井ノ口泰淳",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "平川彰",
+   "type": "student_of",
+   "object": "宮本",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "附記 ローゼンベルグの著書は、宮本先生の御蔵書を拝借することができた。先生の御厚意に厚く感謝申し上げる次第である。",
+   "quote_ok": true
+  },
+  {
+   "subject": "西",
+   "type": "position_at",
+   "object": "西・坂本両教授",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "西・坂本両教授の『国訳大毘婆沙論』",
+   "quote_ok": false
+  },
+  {
+   "subject": "坂本",
+   "type": "position_at",
+   "object": "西・坂本両教授",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "西・坂本両教授の『国訳大毘婆沙論』",
+   "quote_ok": false
+  },
+  {
+   "subject": "舟橋一哉",
+   "type": "position_at",
+   "object": "舟橋一哉教授",
+   "role": "教授",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "舟橋一哉教授の『倶舎論索引』",
+   "quote_ok": false
+  },
+  {
+   "subject": "井ノ口泰淳",
+   "type": "position_at",
+   "object": "龍谷大学",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "井ノ口泰淳氏『…』龍谷大学",
+   "quote_ok": false
+  }
+ ],
+ "docid": "2_P1-19",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/2_P1-19.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 19,
+  "script": "cjk",
+  "kd_docid": "933cfa73__2_P1-19"
+ },
+ "model": "gemini-flash-latest"
+}

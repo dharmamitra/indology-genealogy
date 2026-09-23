@@ -1,0 +1,83 @@
+{
+ "author": "F. L. Woodward",
+ "doc_kind": "text_edition",
+ "doc_year": 1936,
+ "people": [
+  {
+   "name": "F. L. Woodward",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Indology"
+  },
+  {
+   "name": "Mrs. Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "E. M. Hare",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Max Müller",
+   "type": "founded",
+   "object": "Sacred Books of the Buddhists",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Five of the fifteen appeared in the series Sacred Books of the Buddhists, a series started by Max Miiller after he had stopped his earlier series Sacred Books of the East",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Müller",
+   "type": "founded",
+   "object": "Sacred Books of the East",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "a series started by Max Miiller after he had stopped his earlier series Sacred Books of the East",
+   "quote_ok": true
+  },
+  {
+   "subject": "F. L. Woodward",
+   "type": "collaborated_with",
+   "object": "E. M. Hare",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "for Mr. E. M. Hare, who translated Vols. III and IV, found it impossible to give the necessary time to the work. I owe him thanks for sending me the draft of a few early suttas",
+   "quote_ok": true
+  }
+ ],
+ "docid": "PTS_Gradual_Sayings_V",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/books/PTS_Gradual_Sayings_V.pdf.txt",
+ "meta": {
+  "category": "books",
+  "pdf_pages": 121,
+  "script": "latin",
+  "kd_docid": "c1c0e0e2__PTS_Gradual_Sayings_V"
+ },
+ "model": "gemini-flash-latest"
+}

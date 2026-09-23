@@ -1,0 +1,83 @@
+{
+ "author": "N. M. Penzer",
+ "doc_kind": "text_edition",
+ "doc_year": 1924,
+ "people": [
+  {
+   "name": "N. M. Penzer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Charles Henry Tawney",
+   "birth_year": null,
+   "death_year": 1922,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "George A. Grierson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "L. D. Barnett",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Charles Henry Tawney",
+   "type": "position_at",
+   "object": "Sanskrit College",
+   "role": "Principal",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "It was in Calcutta, in 1880, that I first met Charles Henry Tawney, who was then Principal of the Sanskrit College",
+   "quote_ok": true
+  },
+  {
+   "subject": "George A. Grierson",
+   "type": "other",
+   "object": "Charles Henry Tawney",
+   "role": "friendship",
+   "place": null,
+   "year_start": 1880,
+   "year_end": 1922,
+   "explicit": true,
+   "evidence": "recollections of a cordial friendship extending over more than forty years. It was in Calcutta, in 1880, that I first met Charles Henry Tawney... till his lamented death two years ago",
+   "quote_ok": true
+  },
+  {
+   "subject": "L. D. Barnett",
+   "type": "collaborated_with",
+   "object": "N. M. Penzer",
+   "role": "proofreader and translator of revised passages",
+   "place": null,
+   "year_start": null,
+   "year_end": 1924,
+   "explicit": true,
+   "evidence": "Dr L. D. Barnett has again read through all my proofs, and has not only given me the advantage of his inexhaustible store of Sanskrit knowledge, but has translated afresh those passages which needed revision",
+   "quote_ok": true
+  }
+ ],
+ "docid": "oceanofstorybein02somauoft_bw",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/texts-translations/Katha-sarit-sagara/Katha-sarit-sagara_tr_Tawney/oceanofstorybein02somauoft_bw.pdf.txt",
+ "meta": {
+  "category": "Tohoku",
+  "pdf_pages": 408,
+  "script": "latin",
+  "kd_docid": "c10d47f1__oceanofstorybein02somauoft_bw"
+ },
+ "model": "gemini-flash-latest"
+}

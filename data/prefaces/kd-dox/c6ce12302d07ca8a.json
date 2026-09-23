@@ -1,0 +1,92 @@
+{
+ "author": "Bunyiu Nanjio",
+ "doc_kind": "monograph",
+ "doc_year": 1883,
+ "people": [
+  {
+   "name": "Bunyiu Nanjio",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Dr. Rost",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Professor Legge",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Y. Ymaizoumi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Kenjiu Kasawara",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Yang Wen-hoei",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Chinese",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Bunyiu Nanjio",
+   "type": "student_of",
+   "object": "Max Müller",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1879,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I have to thank most sincerely my teacher. Professor  Max Miiller, for his kind instruction and help... I did not know any Sanskrit at all before February 1879, when I became his pupil",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dr. Rost",
+   "type": "position_at",
+   "object": "India Office",
+   "role": "Librarian",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Rost, the Librarian of the India Office",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Nanjyo_Catalogue Chinese Tripitaka",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/books/Nanjyo_Catalogue Chinese Tripitaka.pdf.txt",
+ "meta": {
+  "category": "books",
+  "pdf_pages": 298,
+  "script": "latin",
+  "kd_docid": "c588132c__Nanjyo_Catalogue_Chinese_Tripitaka"
+ },
+ "model": "gemini-flash-latest"
+}

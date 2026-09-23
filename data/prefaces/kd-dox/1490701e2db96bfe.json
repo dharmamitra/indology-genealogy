@@ -1,0 +1,57 @@
+{
+ "author": "Sushil Kumar De",
+ "doc_kind": "text_edition",
+ "doc_year": 1940,
+ "people": [
+  {
+   "name": "Sushil Kumar De",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Vishnu S. Sukthankar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sushil Kumar De",
+   "type": "position_at",
+   "object": "University of Dacca",
+   "role": "Professor of Sanskrit",
+   "place": "Dacca",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "CRITICALLY EDITED BY SUSHIL KUMAR DE PROFESSOR OF SANSKRIT, UNIVERSITY OF DACCA",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sushil Kumar De",
+   "type": "collaborated_with",
+   "object": "Vishnu S. Sukthankar",
+   "role": "co-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1940,
+   "explicit": true,
+   "evidence": "THE MAHABHARATA FOR THE FIRST TIME CRITICALLY EDITED BY VISHNU S. SUKTHANKAR WITH THE CO-OPERATION OF ... S. K. DE",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Mahabharata_05",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/texts-translations/Mahabharata_PDF/Mahabharata_05.pdf.txt",
+ "meta": {
+  "category": "Books_and_Articles_on_iCloud",
+  "pdf_pages": 382,
+  "script": "deva",
+  "kd_docid": "c1247c55__Mahabharata_05"
+ },
+ "model": "gemini-flash-latest"
+}

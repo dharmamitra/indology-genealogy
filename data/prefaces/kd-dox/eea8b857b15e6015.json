@@ -1,0 +1,102 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 1931,
+ "people": [
+  {
+   "name": "गणनाथसेन सरस्वती",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Ayurveda"
+  },
+  {
+   "name": "यादवजी त्रिक्रमजी आचार्य",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Ayurveda"
+  },
+  {
+   "name": "नन्दकिशोर शर्मा",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Ayurveda"
+  },
+  {
+   "name": "श्यामसुन्दर शर्मा",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "मधुसूदन गुप्त",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Ayurveda"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "यादवजी त्रिक्रमजी आचार्य",
+   "type": "collaborated_with",
+   "object": "नन्दकिशोर शर्मा",
+   "role": "co-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1931,
+   "explicit": true,
+   "evidence": "Edited by Vaidya Yadavaji Trikamji Acharya And Pt. Nandakishor Sharma Bhishagacharya",
+   "quote_ok": true
+  },
+  {
+   "subject": "नन्दकिशोर शर्मा",
+   "type": "position_at",
+   "object": "जयपुरराजकीयसंस्कृतमहाविद्यालय",
+   "role": "आयुर्वेदाध्यापक (प्रधानाध्यापक)",
+   "place": "Jaipur",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "जयपुरराजकीयसंस्कृतमहाविद्यालयायुर्वेदप्रधानाध्यापकेन प० नन्दकिशोरशर्मणा भिषगाचार्येण",
+   "quote_ok": true
+  },
+  {
+   "subject": "श्यामसुन्दर शर्मा",
+   "type": "position_at",
+   "object": "आगरा युनिवर्सिटी",
+   "role": "रजिस्ट्रार",
+   "place": "Agra",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "रजिस्ट्रार, आगरा युनिवर्सिटी, आगरा",
+   "quote_ok": false
+  },
+  {
+   "subject": "मधुसूदन गुप्त",
+   "type": "position_at",
+   "object": "संस्कृतमहाविद्यालय",
+   "role": "आयुर्वेदाध्यापक",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "कलकत्तामहानगर्यां... सद्यःप्रतिष्ठितसंस्कृतमहाविद्यालयस्य आयुर्वेदाध्यापकेन प० मधुसूदनगुप्तेनकारि",
+   "quote_ok": true
+  }
+ ],
+ "docid": "suśruta edition, sutrasthana (jaipur 1931)",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/suśruta edition, sutrasthana (jaipur 1931).pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 450,
+  "script": "deva",
+  "kd_docid": "744578ec__suśruta_edition_sutrasthana_jaipur_1931"
+ },
+ "model": "gemini-flash-latest"
+}

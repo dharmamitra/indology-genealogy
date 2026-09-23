@@ -1,0 +1,57 @@
+{
+ "author": "Yael Bentor",
+ "doc_kind": "article",
+ "doc_year": 1995,
+ "people": [
+  {
+   "name": "Yael Bentor",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gregory Schopen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Yael Bentor",
+   "type": "position_at",
+   "object": "Hebrew University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "YAEL BENTOR\n\nTHE HEBREW UNIVERSITY",
+   "quote_ok": true
+  },
+  {
+   "subject": "Yael Bentor",
+   "type": "student_of",
+   "object": "Gregory Schopen",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "I would like to express my gratitude to Prof. Gregory Schopen, who both initiated and guided my research on this topic while I was a graduate student.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "JAOS-115-2-248",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/From Silk/Journals/JAOS/JAOS-115-2-248.pdf.txt",
+ "meta": {
+  "category": "From Silk",
+  "pdf_pages": 15,
+  "script": "latin",
+  "kd_docid": "8188c922__JAOS-115-2-248"
+ },
+ "model": "gemini-flash-latest"
+}

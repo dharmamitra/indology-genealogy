@@ -1,0 +1,105 @@
+{
+ "author": "William Pruitt",
+ "doc_kind": "text_edition",
+ "doc_year": 2001,
+ "people": [
+  {
+   "name": "William Pruitt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "K.R. Norman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Peter Nyunt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Margaret Cone",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Nanatussita Bhikkhu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Pruitt",
+   "type": "collaborated_with",
+   "object": "K.R. Norman",
+   "role": "joint production of edition and translation",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "We both read and commented on each other's contributions. so the result can be regards as a joint production.",
+   "quote_ok": true,
+   "page": 34,
+   "gloss_en": null
+  },
+  {
+   "subject": "K.R. Norman",
+   "type": "collaborated_with",
+   "object": "William Pruitt",
+   "role": "joint production of edition and translation",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "We both read and commented on each other's contributions. so the result can be regards as a joint production.",
+   "quote_ok": true,
+   "page": 34,
+   "gloss_en": null
+  },
+  {
+   "subject": "Margaret Cone",
+   "type": "position_at",
+   "object": "Pali Text Society",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "unpublished material from the Pali Text Society's New Pali-English Dictionary",
+   "quote_ok": true,
+   "page": 34,
+   "gloss_en": null
+  }
+ ],
+ "docid": "Vin_patim",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Editions Series/Vin_patim.pdf.txt",
+ "meta": {
+  "title": "The Patimokkha",
+  "author": "William Pruitt; K.R. Norman",
+  "year": 2001,
+  "language": "English",
+  "kd_docid": "fb877a8f__Vin_patim",
+  "category": "Editions Series",
+  "pdf_pages": 343,
+  "dissertation": null,
+  "preface_signed": {
+   "place": null,
+   "date_text": null,
+   "year": null
+  }
+ },
+ "model": "claude:sonnet (kd pass 1)"
+}

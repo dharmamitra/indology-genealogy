@@ -1,0 +1,57 @@
+{
+ "author": "Louis de la Vallée Poussin",
+ "people": [
+  {
+   "name": "L. de la Vallée Poussin",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "E. J. Rapson",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "E. J. Thomas",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "L. de la Vallée Poussin",
+   "type": "position_at",
+   "object": "Université de Gand",
+   "role": "professeur",
+   "explicit": true,
+   "evidence": "professeur a 1 Universite de Gand",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. J. Rapson",
+   "type": "position_at",
+   "object": "Université de Cambridge",
+   "role": "professeur de Sanscrit",
+   "explicit": true,
+   "evidence": "M. E. J. Rapson, professeur de Sanscrit a 1 Universite de Cambridge",
+   "quote_ok": true
+  },
+  {
+   "subject": "L. de la Vallée Poussin",
+   "type": "collaborated_with",
+   "object": "E. J. Thomas",
+   "explicit": true,
+   "evidence": "M. E. J. Thomas qui a laisse sa marque sur toutes les pages du manuscrit",
+   "quote_ok": true
+  }
+ ],
+ "doc_kind": "monograph",
+ "doc_year": 1917,
+ "docid": "Louis de la Vallée Poussin, The Way to Nirvāṇa, Hibbert Lecture 1916, Cambridge",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Louis de la Vallée Poussin, The Way to Nirvāṇa, Hibbert Lecture 1916, Cambridge.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 192,
+  "script": "latin",
+  "kd_docid": "faea45d6__Louis_de_la_Vallée_Poussin_The_Way_to_Nirvāṇa_Hibbert_Lectur"
+ },
+ "model": "claude:sonnet"
+}

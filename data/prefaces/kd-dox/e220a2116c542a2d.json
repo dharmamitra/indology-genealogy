@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "monograph",
+ "doc_year": 1981,
+ "people": [
+  {
+   "name": "辻直四郎",
+   "birth_year": 1900,
+   "death_year": 1979,
+   "nationality": "Japanese",
+   "field": "Indology"
+  },
+  {
+   "name": "岩本裕",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indology"
+  },
+  {
+   "name": "高楠順次郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "辻直四郎",
+   "type": "student_of",
+   "object": "高楠順次郎",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "著者はその若き日に, 恩師高楠順次郎博士の監修された『ウパニシャット全書 (全9巻) 』 の企画に参加し",
+   "quote_ok": true
+  },
+  {
+   "subject": "岩本裕",
+   "type": "student_of",
+   "object": "辻直四郎",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "博士の逝去後日ならずして, 当然のことながら門弟の間にこの種の動議がもちあがった。...下記三名は...昭和56年9月 岩本 裕",
+   "quote_ok": true
+  }
+ ],
+ "docid": "辻直四郎著作集(1)",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/books_g/Tsuji_Naoshiro/辻直四郎著作集(1).pdf.txt",
+ "meta": {
+  "category": "Tohoku",
+  "pdf_pages": 251,
+  "script": "cjk",
+  "kd_docid": "c66c362f__辻直四郎著作集_1"
+ },
+ "model": "gemini-flash-latest"
+}

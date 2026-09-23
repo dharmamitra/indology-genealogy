@@ -1,0 +1,57 @@
+{
+ "author": "M. Winternitz",
+ "doc_kind": "monograph",
+ "doc_year": 1920,
+ "people": [
+  {
+   "name": "M. Winternitz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Otto Stein",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "M. Winternitz",
+   "type": "position_at",
+   "object": "Deutsche Universität in Prag",
+   "role": "ord. Professor",
+   "place": "Prag",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. M. Winternitz, ord. Professor an der Deutschen Universität in Pias",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Stein",
+   "type": "student_of",
+   "object": "M. Winternitz",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Meinem Schüler Dr. Otto Stein bin ich für die bei der . Korrektur der zweiten Hälfte dieses Bandes und bei der Revision des Index geleistete Hilfe zu Dank verpflichtet.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "geschichtederind02wintuoft_bw",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/books_g/Winternitz/geschichtederind02wintuoft_bw.pdf.txt",
+ "meta": {
+  "category": "Tohoku",
+  "pdf_pages": 424,
+  "script": "latin",
+  "kd_docid": "04a15268__geschichtederind02wintuoft_bw"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,57 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2019,
+ "people": [
+  {
+   "name": "Nick Patterson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "David Reich",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "genetics"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Nick Patterson",
+   "type": "position_at",
+   "object": "Radcliffe Institute for Advanced Study at Harvard University",
+   "role": "fellow",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "N.P. carried out this work while a fellow at the Radcliffe Institute for Advanced Study at Harvard University.",
+   "quote_ok": false
+  },
+  {
+   "subject": "David Reich",
+   "type": "position_at",
+   "object": "Howard Hughes Medical Institute",
+   "role": "Investigator",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "D.Re. is an Investigator of the Howard Hughes Medical Institute",
+   "quote_ok": true
+  }
+ ],
+ "docid": "eaat7487.full",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/eaat7487.full.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 18,
+  "script": "latin",
+  "kd_docid": "4b184873__eaat7487_full"
+ },
+ "model": "gemini-flash-latest"
+}

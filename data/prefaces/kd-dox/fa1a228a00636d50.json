@@ -1,0 +1,51 @@
+{
+ "author": "Daisetz Teitaro Suzuki",
+ "doc_kind": "text_edition",
+ "doc_year": 1932,
+ "people": [
+  {
+   "name": "Daisetz Teitaro Suzuki",
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Hokei Idzumi",
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Yenga Teramoto",
+   "nationality": "Japanese",
+   "field": "Tibetan studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Daisetz Teitaro Suzuki",
+   "type": "collaborated_with",
+   "object": "Hokei Idzumi",
+   "explicit": true,
+   "evidence": "Mr Hokei Idzumi who gave helpful suggestions in the reading of the original text",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daisetz Teitaro Suzuki",
+   "type": "collaborated_with",
+   "object": "Yenga Teramoto",
+   "role": "Professor",
+   "explicit": true,
+   "evidence": "Professor Yenga Teramoto for his ungrudging cooperation along the line of Tibetan knowledge",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Lankavatara_Suzuki,Mahayana,Routledge_1956,161pp",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Monographien-Buddhismus/Lankavatara_Suzuki,Mahayana,Routledge_1956,161pp.pdf.txt",
+ "meta": {
+  "category": "Monographien-Buddhismus",
+  "pdf_pages": 153,
+  "script": "latin",
+  "kd_docid": "2ad40727__Lankavatara_Suzuki_Mahayana_Routledge_1956_161pp"
+ },
+ "model": "claude:sonnet"
+}

@@ -1,0 +1,76 @@
+{
+ "author": null,
+ "doc_kind": "monograph",
+ "doc_year": 1910,
+ "people": [
+  {
+   "name": "T. W. Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Comparative Religion"
+  },
+  {
+   "name": "C. A. F. Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "F. Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "T. W. Rhys Davids",
+   "type": "position_at",
+   "object": "University of Manchester",
+   "role": "Professor of Comparative Religion",
+   "place": "Manchester",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "T. W. RHYS DAVIDS LL.D., Ph.D., D.Sc, F.B.A. PROFESSOR OF COMPARATIVE RELIGION AT THE UNIVERSITY OF MANCHESTER",
+   "quote_ok": true
+  },
+  {
+   "subject": "T. W. Rhys Davids",
+   "type": "collaborated_with",
+   "object": "C. A. F. Rhys Davids",
+   "role": "co-translators",
+   "place": null,
+   "year_start": null,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "TRANSLATED FROM THE PALI OF THE DIG HA NIK A YA BY T. W. and C. A. F. RHYS DAVIDS",
+   "quote_ok": true
+  },
+  {
+   "subject": "F. Max Müller",
+   "type": "founded",
+   "object": "Sacred Books of the Buddhists",
+   "role": "founder of series",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "F. MAX MULLER WHO FOUNDED THIS SERIES OF THE SACRED BOOKS OF THE BUDDHISTS",
+   "quote_ok": true
+  }
+ ],
+ "docid": "dialogues of the buddha part 2",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/books/dialogues of the buddha part 2.pdf.txt",
+ "meta": {
+  "category": "books",
+  "pdf_pages": 400,
+  "script": "latin",
+  "kd_docid": "70d2b0f8__dialogues_of_the_buddha_part_2"
+ },
+ "model": "gemini-flash-latest"
+}

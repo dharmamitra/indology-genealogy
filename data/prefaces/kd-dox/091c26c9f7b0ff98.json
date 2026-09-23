@@ -1,0 +1,76 @@
+{
+ "author": "William L. Ames",
+ "doc_kind": "article",
+ "doc_year": 1995,
+ "people": [
+  {
+   "name": "William L. Ames",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "David Seyfort Ruegg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "David Eckel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William L. Ames",
+   "type": "student_of",
+   "object": "David Seyfort Ruegg",
+   "role": "teacher",
+   "place": "University of Washington",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I would like to express my thanks to David Seyfort Ruegg, in whose class at the University of Washington I read part of chapter two, for a number of helpful comments and insights.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William L. Ames",
+   "type": "studied_at",
+   "object": "University of Washington",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "David Seyfort Ruegg, in whose class at the University of Washington I read part of chapter two",
+   "quote_ok": true
+  },
+  {
+   "subject": "David Seyfort Ruegg",
+   "type": "position_at",
+   "object": "University of Washington",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "David Seyfort Ruegg, in whose class at the University of Washington I read part of chapter two",
+   "quote_ok": true
+  }
+ ],
+ "docid": "JIP-23-3-295",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/From Silk/Journals/JIP-unfiled/JIP-23-3-295.pdf.txt",
+ "meta": {
+  "category": "From Silk",
+  "pdf_pages": 68,
+  "script": "latin",
+  "kd_docid": "1c0fb7a9__JIP-23-3-295"
+ },
+ "model": "gemini-flash-latest"
+}

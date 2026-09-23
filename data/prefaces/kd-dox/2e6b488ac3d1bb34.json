@@ -1,0 +1,77 @@
+{
+ "author": "Arnold C. Taylor",
+ "doc_kind": "text_edition",
+ "doc_year": 1979,
+ "people": [
+  {
+   "name": "Arnold C. Taylor",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hardy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hardy",
+   "type": "position_at",
+   "object": "Wurzburg",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the late Professor Hardy of Wurzburg, in the last volume of his edition of the Atiguttara-Nikaya",
+   "quote_ok": true,
+   "page": 3,
+   "gloss_en": null
+  },
+  {
+   "subject": "Arnold C. Taylor",
+   "type": "other",
+   "object": "Hardy",
+   "role": "cited Hardy's scholarly opinion on manuscript traditions",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the late Professor Hardy of Wurzburg, in the last volume of his edition of the Atiguttara-Nikaya, gave it as his opinion that... the Siamese text held an intermediate place between the Sinhalese and Burmese versions",
+   "quote_ok": true,
+   "page": 3,
+   "gloss_en": null
+  }
+ ],
+ "docid": "Patis1",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Editions Series/Patis1.pdf.txt",
+ "meta": {
+  "title": "Patisambhidamagga, Vol. I",
+  "author": "Arnold C. Taylor",
+  "year": 1979,
+  "language": "English",
+  "kd_docid": "052af9f2__Patis1",
+  "category": "Editions Series",
+  "pdf_pages": 192,
+  "dissertation": null,
+  "preface_signed": {
+   "place": null,
+   "date_text": "July, 1905",
+   "year": 1905
+  }
+ },
+ "model": "claude:sonnet (kd pass 1)"
+}

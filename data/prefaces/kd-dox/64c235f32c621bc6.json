@@ -1,0 +1,35 @@
+{
+ "people": [
+  {
+   "name": "Friedrich Weller",
+   "field": "Indology/Tibetology/Sinology"
+  },
+  {
+   "name": "Lin Li-kuang"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Friedrich Weller",
+   "type": "other",
+   "object": "Lin Li-kuang",
+   "role": "friendship",
+   "explicit": true,
+   "evidence": "will, 1 think, be published before long by my friend, Mr. Lin Li-kuang",
+   "quote_ok": true
+  }
+ ],
+ "doc_kind": "text_edition",
+ "doc_year": 1934,
+ "author": "Friedrich Weller",
+ "docid": "Kaasyapaparivarta_Tib_Index_Weller",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Mahayana/Prajnaapaaramitaa/Kaasyapaparivarta_Tib_Index_Weller.pdf.txt",
+ "meta": {
+  "category": "Mahayana",
+  "pdf_pages": 245,
+  "script": "latin",
+  "kd_docid": "1e5c79c4__Kaasyapaparivarta_Tib_Index_Weller"
+ },
+ "model": "claude:sonnet"
+}

@@ -1,0 +1,119 @@
+{
+ "author": "Harry Falk",
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Harry Falk",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Alois Anton Führer",
+   "birth_year": 1853,
+   "death_year": 1930,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "J. Jolly",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Georg Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Alois Anton Führer",
+   "type": "studied_at",
+   "object": "University of Würzburg",
+   "role": "dissertation",
+   "place": null,
+   "year_start": null,
+   "year_end": 1879,
+   "explicit": true,
+   "evidence": "handed in a dissertation in 1879 on script and writing in the Bṛhaspatidharmaśāstra at the University of Würzburg under Prof J. Jolly.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alois Anton Führer",
+   "type": "student_of",
+   "object": "J. Jolly",
+   "role": "doctoral supervisor",
+   "place": "University of Würzburg",
+   "year_start": null,
+   "year_end": 1879,
+   "explicit": true,
+   "evidence": "handed in a dissertation in 1879 on script and writing in the Bṛhaspatidharmaśāstra at the University of Würzburg under Prof J. Jolly.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alois Anton Führer",
+   "type": "student_of",
+   "object": "Georg Bühler",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the inscriptions he found were reported to his mentor Georg Bühler at the University of Vienna",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Bühler",
+   "type": "position_at",
+   "object": "University of Vienna",
+   "role": null,
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "his mentor Georg Bühler at the University of Vienna",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alois Anton Führer",
+   "type": "position_at",
+   "object": "Archaeological Survey of India",
+   "role": "Assistant Archaeological Surveyor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the German subject Dr. Alois Anton Führer, employed as a rather low-grade “Assistant Archaeological Surveyor” in the service of the ASI",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alois Anton Führer",
+   "type": "position_at",
+   "object": "St. Xavier’s College",
+   "role": null,
+   "place": "Bombay",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Once in Bombay, he was placed into the German Jesuit St. Xavier’s College",
+   "quote_ok": true
+  }
+ ],
+ "docid": "falk-2017-ashes-buddha-ocr",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/falk-2017-ashes-buddha-ocr.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 35,
+  "script": "latin",
+  "kd_docid": "dc201fbb__falk-2017-ashes-buddha-ocr"
+ },
+ "model": "gemini-flash-latest"
+}

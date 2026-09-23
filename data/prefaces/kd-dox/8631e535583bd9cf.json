@@ -1,0 +1,104 @@
+{
+ "author": "Bhikkhu Bodhi",
+ "doc_kind": "text_edition",
+ "doc_year": 2000,
+ "people": [
+  {
+   "name": "Bhikkhu Bodhi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Balangoda Ananda Maitreya Mahanayaka Thera",
+   "birth_year": 1896,
+   "death_year": 1998,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Nyanaponika Mahathera",
+   "birth_year": 1901,
+   "death_year": 1994,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Piyadassi Nayaka Thera",
+   "birth_year": 1914,
+   "death_year": 1998,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Richard Gombrich",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Pali Text Society",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "William Pruitt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Pali studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Bhikkhu Bodhi",
+   "type": "student_of",
+   "object": "Balangoda Ananda Maitreya Mahanayaka Thera",
+   "role": "ordination teacher",
+   "place": null,
+   "year_start": 1973,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "my ordination teacher, Ven. Balangoda Ananda Maitreya Mahanayaka Thera (with whom I first studied the Sagathavagga back in 1973)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Gombrich",
+   "type": "position_at",
+   "object": "Pali Text Society",
+   "role": "president",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Richard Gombrich, the present president of the Pali Text Society",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Pruitt",
+   "type": "position_at",
+   "object": "Pali Text Society",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "William Pruitt of the Pali Text Society reviewed the entire work",
+   "quote_ok": false
+  }
+ ],
+ "docid": "[Bodhi]_The_Connected_Discourses_of_the_Buddha_A_(Bookos.org)",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/books/[Bodhi]_The_Connected_Discourses_of_the_Buddha_A_(Bookos.org).pdf.txt",
+ "meta": {
+  "category": "books",
+  "pdf_pages": 557,
+  "script": "latin",
+  "kd_docid": "b073bd5f__Bodhi__The_Connected_Discourses_of_the_Buddha_A__Bookos_org"
+ },
+ "model": "gemini-flash-latest"
+}

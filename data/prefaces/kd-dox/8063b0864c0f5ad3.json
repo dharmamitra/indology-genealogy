@@ -1,0 +1,162 @@
+{
+ "author": "Bunyiu Nanjio",
+ "doc_kind": "text_edition",
+ "doc_year": 1923,
+ "people": [
+  {
+   "name": "Bunyiu Nanjio",
+   "nationality": "Japanese",
+   "field": "Buddhist Sanskrit studies"
+  },
+  {
+   "name": "Kenjiu Kasawara",
+   "birth_year": 1851,
+   "death_year": 1883,
+   "nationality": "Japanese",
+   "field": "Sanskrit Buddhist studies"
+  },
+  {
+   "name": "Max Muller",
+   "nationality": "German/British",
+   "field": "Sanskrit, comparative philology"
+  },
+  {
+   "name": "Macdonell",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Unrai Wogihara",
+   "nationality": "Japanese",
+   "field": "Sanskrit Buddhist studies"
+  },
+  {
+   "name": "Zengi Koyasu",
+   "nationality": "Japanese"
+  },
+  {
+   "name": "Wenzel"
+  },
+  {
+   "name": "Junjiro Takakusu",
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Bunyiu Nanjio",
+   "type": "student_of",
+   "object": "Max Muller",
+   "role": "teacher",
+   "explicit": true,
+   "evidence": "we pursued together the study of Sanskrit under Professor Max Muller, to whose house we went every other day",
+   "year_start": 1880,
+   "year_end": 1882,
+   "quote_ok": true
+  },
+  {
+   "subject": "Kenjiu Kasawara",
+   "type": "student_of",
+   "object": "Max Muller",
+   "role": "teacher",
+   "explicit": true,
+   "evidence": "we pursued together the study of Sanskrit under Professor Max Muller",
+   "year_start": 1880,
+   "year_end": 1882,
+   "quote_ok": true
+  },
+  {
+   "subject": "Bunyiu Nanjio",
+   "type": "studied_at",
+   "object": "Oxford",
+   "role": null,
+   "explicit": true,
+   "evidence": "He was quite sympathetic and urged me to come to Oxford at once. Thus encouraged I made up my mind to settle there.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kenjiu Kasawara",
+   "type": "studied_at",
+   "object": "Oxford",
+   "role": null,
+   "explicit": true,
+   "evidence": "In October, Kasawara joined me and from 1880 on we pursued together the study of Sanskrit under Professor Max Muller",
+   "year_start": 1880,
+   "year_end": null,
+   "quote_ok": true
+  },
+  {
+   "subject": "Bunyiu Nanjio",
+   "type": "student_of",
+   "object": "Macdonell",
+   "role": "teacher",
+   "explicit": true,
+   "evidence": "I was helped in my study by Professor Macdonell who was then still a student at Oxford.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Macdonell",
+   "type": "studied_at",
+   "object": "Oxford",
+   "role": "student",
+   "explicit": true,
+   "evidence": "Professor Macdonell who was then still a student at Oxford",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bunyiu Nanjio",
+   "type": "collaborated_with",
+   "object": "Kenjiu Kasawara",
+   "role": null,
+   "explicit": true,
+   "evidence": "we pursued together the study of Sanskrit under Professor Max Muller",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bunyiu Nanjio",
+   "type": "collaborated_with",
+   "object": "Unrai Wogihara",
+   "role": null,
+   "explicit": true,
+   "evidence": "I earnestly entreated Dr Wogihara to revise my copy by the aid of the Tibetan translation. He was willing to undertake the task.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bunyiu Nanjio",
+   "type": "collaborated_with",
+   "object": "Zengi Koyasu",
+   "role": null,
+   "explicit": true,
+   "evidence": "Mr Zengi Koyasu while in Tokyo made a thorough collation of the three Chinese translations with the Sanskrit text... He read the whole text with me.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Muller",
+   "type": "position_at",
+   "object": "Oxford",
+   "role": "Professor",
+   "explicit": true,
+   "evidence": "I paid my first visit to Professor Max Muller at Oxford",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Muller",
+   "type": "collaborated_with",
+   "object": "Wenzel",
+   "role": null,
+   "explicit": true,
+   "evidence": "The Dharmasangraha as a posthumous work of his was edited by Professor Max Miiller and Dr Wenzel",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Lankavatara (Nanjio Edition)",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Monographien-Buddhismus/Lankavatara (Nanjio Edition).pdf.txt",
+ "meta": {
+  "category": "Monographien-Buddhismus",
+  "pdf_pages": 368,
+  "script": "deva",
+  "kd_docid": "6a8ae23a__Lankavatara_Nanjio_Edition"
+ },
+ "model": "claude:sonnet"
+}

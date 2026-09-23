@@ -1,0 +1,102 @@
+{
+ "author": "Hans T. Bakker",
+ "doc_kind": "article",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Hans T. Bakker",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Yuko Yokochi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indology"
+  },
+  {
+   "name": "Manoj Kumar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Archaeology"
+  },
+  {
+   "name": "Ranvir Sashtri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Laxshmi Rose Greaves",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Art History"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Yuko Yokochi",
+   "type": "position_at",
+   "object": "Kyoto University",
+   "role": "Prof.",
+   "place": "Kyoto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "I am particularly grate- ful to Prof. Yuko Yokochi (Kyoto) for her critical observations.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Manoj Kumar",
+   "type": "position_at",
+   "object": "Kurukshetra University",
+   "role": null,
+   "place": null,
+   "year_start": 2012,
+   "year_end": 2013,
+   "explicit": true,
+   "evidence": "by Manoj Kumar of Kurukshetra University in 2012 and 2013, under the direc- tion of Ranvir Sashtri, has shown.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Manoj Kumar",
+   "type": "student_of",
+   "object": "Ranvir Sashtri",
+   "role": null,
+   "place": null,
+   "year_start": 2012,
+   "year_end": 2013,
+   "explicit": true,
+   "evidence": "by Manoj Kumar of Kurukshetra University in 2012 and 2013, under the direc- tion of Ranvir Sashtri, has shown.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Laxshmi Rose Greaves",
+   "type": "studied_at",
+   "object": "Cardiff University",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 2015,
+   "explicit": true,
+   "evidence": "Greaves, Laxshmi Rose. “Brick Foundations: North Indian Brick Temple Architecture and Terracotta Art of the Fourth to Sixth Centuries CE.” PhD diss., Cardiff University, 2015.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "The_Skandapuraa_and_Baa_s_Haracarita",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/The_Skandapuraa_and_Baa_s_Haracarita.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 21,
+  "script": "latin",
+  "kd_docid": "c2595264__The_Skandapuraa_and_Baa_s_Haracarita"
+ },
+ "model": "gemini-flash-latest"
+}

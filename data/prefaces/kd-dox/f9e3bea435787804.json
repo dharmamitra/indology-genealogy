@@ -1,0 +1,130 @@
+{
+ "author": null,
+ "doc_kind": "edited_volume",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Patrick McAllister"
+  },
+  {
+   "name": "Birgit Kellner"
+  },
+  {
+   "name": "Alex Watson"
+  },
+  {
+   "name": "Kei Kataoka"
+  },
+  {
+   "name": "Dan Bertoni"
+  },
+  {
+   "name": "Tyler Neill"
+  },
+  {
+   "name": "Parimal Patil"
+  },
+  {
+   "name": "Ben Williams"
+  },
+  {
+   "name": "Ole Holten Pind"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Birgit Kellner",
+   "type": "position_at",
+   "object": "Institut für Kultur- und Geistesgeschichte Asiens",
+   "role": "Leitung",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "HERAUSGEGEBEN VOM INSTITUT FÜR KULTUR- UND GEISTESGESCHICHTE ASIENS UNTER DER LEITUNG VON BIRGIT KELLNER",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alex Watson",
+   "type": "collaborated_with",
+   "object": "Kei Kataoka",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The Apoha Section of the Nyāyamañjarī Alex Watson and Kei Kataoka Introduction",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alex Watson",
+   "type": "collaborated_with",
+   "object": "Dan Bertoni",
+   "role": "reading group",
+   "place": "Harvard",
+   "year_start": 2013,
+   "year_end": 2013,
+   "explicit": true,
+   "evidence": "people with whom Alex Watson read the text in Harvard in the 2013 Spring Term: Dan Bertoni, Tyler Neill, Parimal Patil, Ben Williams.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alex Watson",
+   "type": "collaborated_with",
+   "object": "Tyler Neill",
+   "role": "reading group",
+   "place": "Harvard",
+   "year_start": 2013,
+   "year_end": 2013,
+   "explicit": true,
+   "evidence": "people with whom Alex Watson read the text in Harvard in the 2013 Spring Term: Dan Bertoni, Tyler Neill, Parimal Patil, Ben Williams.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alex Watson",
+   "type": "collaborated_with",
+   "object": "Parimal Patil",
+   "role": "reading group",
+   "place": "Harvard",
+   "year_start": 2013,
+   "year_end": 2013,
+   "explicit": true,
+   "evidence": "people with whom Alex Watson read the text in Harvard in the 2013 Spring Term: Dan Bertoni, Tyler Neill, Parimal Patil, Ben Williams.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alex Watson",
+   "type": "collaborated_with",
+   "object": "Ben Williams",
+   "role": "reading group",
+   "place": "Harvard",
+   "year_start": 2013,
+   "year_end": 2013,
+   "explicit": true,
+   "evidence": "people with whom Alex Watson read the text in Harvard in the 2013 Spring Term: Dan Bertoni, Tyler Neill, Parimal Patil, Ben Williams.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ole Holten Pind",
+   "type": "studied_at",
+   "object": "University of Vienna",
+   "role": "PhD",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": 2009,
+   "explicit": true,
+   "evidence": "Pind, Ole Holten (2009). “Dignāga’s Philosophy of Language. Dignāga on apoha: Pramāṇasamuccaya V; Texts Translation, and Annotation”. PhD dissertation. Vienna: University of Vienna.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Apoha",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Apoha.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 25,
+  "script": "latin",
+  "kd_docid": "3fccf894__Apoha"
+ },
+ "model": "gemini-flash-latest"
+}

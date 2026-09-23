@@ -1,0 +1,112 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 2016,
+ "people": [
+  {
+   "name": "Maciej Eder",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jan Rybicki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Mike Kestemont",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Maciej Eder",
+   "type": "collaborated_with",
+   "object": "Jan Rybicki",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2016,
+   "explicit": true,
+   "evidence": "Stylometry with R: A Package for Computational Text Analysis by Maciej Eder, Jan Rybicki and Mike Kestemont",
+   "quote_ok": true
+  },
+  {
+   "subject": "Maciej Eder",
+   "type": "collaborated_with",
+   "object": "Mike Kestemont",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2016,
+   "explicit": true,
+   "evidence": "Stylometry with R: A Package for Computational Text Analysis by Maciej Eder, Jan Rybicki and Mike Kestemont",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Rybicki",
+   "type": "collaborated_with",
+   "object": "Mike Kestemont",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2016,
+   "explicit": true,
+   "evidence": "Stylometry with R: A Package for Computational Text Analysis by Maciej Eder, Jan Rybicki and Mike Kestemont",
+   "quote_ok": true
+  },
+  {
+   "subject": "Maciej Eder",
+   "type": "position_at",
+   "object": "Institute of Polish Language Polish Academy of Sciences",
+   "role": null,
+   "place": "Kraków",
+   "year_start": null,
+   "year_end": 2016,
+   "explicit": true,
+   "evidence": "Maciej Eder\n  Institute of Polish Language\n  Polish Academy of Sciences\n  al. Mickiewicza 31, 31-120 Kraków\n  Poland",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Rybicki",
+   "type": "position_at",
+   "object": "Institute of English Studies Jagiellonian University",
+   "role": null,
+   "place": "Kraków",
+   "year_start": null,
+   "year_end": 2016,
+   "explicit": true,
+   "evidence": "Jan Rybicki\n  Institute of English Studies\n  Jagiellonian University\n  al. Mickiewicza 9A, 31-120 Kraków\n  Poland",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mike Kestemont",
+   "type": "position_at",
+   "object": "Department of Literature University of Antwerp",
+   "role": null,
+   "place": "Antwerp",
+   "year_start": null,
+   "year_end": 2016,
+   "explicit": true,
+   "evidence": "Mike Kestemont\n  Department of Literature\n  University of Antwerp\n  Prinsstraat 13, B-2000 Antwerp\n  Belgium",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Stylometry with R: A Package for Computational Text Analysis RJ-2016-007",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Stylometry with R: A Package for Computational Text Analysis RJ-2016-007.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 15,
+  "script": "latin",
+  "kd_docid": "150a8d5e__Stylometry_with_R_A_Package_for_Computational_Text_Analysis_"
+ },
+ "model": "gemini-flash-latest"
+}

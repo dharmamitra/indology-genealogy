@@ -1,0 +1,69 @@
+{
+ "author": "Minoru Hara",
+ "doc_kind": "dissertation",
+ "doc_year": 1966,
+ "people": [
+  {
+   "name": "Minoru Hara",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit and Indian Studies"
+  },
+  {
+   "name": "Daniel H. H. Ingalls",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Minoru Hara",
+   "type": "studied_at",
+   "object": "Harvard University",
+   "role": "Doctor of Philosophy",
+   "place": "Cambridge, Massachusetts",
+   "year_start": 1955,
+   "year_end": 1966,
+   "explicit": true,
+   "evidence": "A thesis presented by ... to The Department of Sanskrit and Indian Studies in partial fulfillment of the requirements for the degree of Doctor of Philosophy ... Harvard University ... September 1966",
+   "quote_ok": false
+  },
+  {
+   "subject": "Minoru Hara",
+   "type": "student_of",
+   "object": "Daniel H. H. Ingalls",
+   "role": "doctoral supervisor",
+   "place": "Harvard University",
+   "year_start": null,
+   "year_end": 1966,
+   "explicit": false,
+   "evidence": "In completing this thesis, I would like to express my deepest thanks to Professor Daniel H. H. Ingalls of Harvard University. He took the trouble of reading through my original manuscript",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daniel H. H. Ingalls",
+   "type": "position_at",
+   "object": "Harvard University",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1966,
+   "explicit": true,
+   "evidence": "Professor Daniel H. H. Ingalls of Harvard University.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Hara_1966_pazupata",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/books_g/Hara_M/Hara_1966_pazupata.pdf.txt",
+ "meta": {
+  "category": "Tohoku",
+  "pdf_pages": 585,
+  "script": "latin",
+  "kd_docid": "d20beda9__Hara_1966_pazupata"
+ },
+ "model": "gemini-flash-latest"
+}

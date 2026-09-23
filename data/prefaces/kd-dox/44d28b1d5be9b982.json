@@ -1,0 +1,57 @@
+{
+ "author": "C. Kunhan Raja",
+ "doc_kind": "text_edition",
+ "doc_year": 1933,
+ "people": [
+  {
+   "name": "C. Kunhan Raja",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "F. O. Schrader",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "C. Kunhan Raja",
+   "type": "position_at",
+   "object": "Adyar Library",
+   "role": "Hon. Director",
+   "place": "Adyar",
+   "year_start": null,
+   "year_end": 1933,
+   "explicit": true,
+   "evidence": "DR. C. KUNHAN RAJA HON, DIRECTOR OF ADYAR LIBRARY",
+   "quote_ok": true
+  },
+  {
+   "subject": "F. O. Schrader",
+   "type": "position_at",
+   "object": "Adyar Library",
+   "role": null,
+   "place": "Adyar",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "The manuscripts of the Adyar Library which have been utilised for this edition are described in the Descriptive Catalogue of the Library prepared by Dr. F. O. Schrader.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "UnpublishedUpanishads-AdayarLibraryEdition",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/UnpublishedUpanishads-AdayarLibraryEdition.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 512,
+  "script": "deva",
+  "kd_docid": "cd6a19ec__UnpublishedUpanishads-AdayarLibraryEdition"
+ },
+ "model": "gemini-flash-latest"
+}

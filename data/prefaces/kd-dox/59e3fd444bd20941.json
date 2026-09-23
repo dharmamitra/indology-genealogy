@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1923,
+ "people": [
+  {
+   "name": "H. Krishna Sastri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "epigraphy"
+  },
+  {
+   "name": "Robert Sewell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Indology"
+  },
+  {
+   "name": "H. Jacobi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "H. Krishna Sastri",
+   "type": "position_at",
+   "object": "Government of India",
+   "role": "Government Epigraphist for India",
+   "place": "India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "EDITED BY Rao Bahadur H. KRISHNA SASTRI, B.A., GOVERNMENT EPIGRAPHIST FOR INDIA",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Sewell",
+   "type": "influenced_by",
+   "object": "H. Jacobi",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "There is no need for me to dwell on the great services he has rendered to the cause of Indian history and epigraphy. These are well known. All I have done is to follow in his footsteps",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Epigraphia Indica Vol 17",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Epigraphia Indica/Epigraphia Indica Vol 17.pdf.txt",
+ "meta": {
+  "category": "Epigraphia Indica",
+  "pdf_pages": 424,
+  "script": "latin",
+  "kd_docid": "1e9ee7e1__Epigraphia_Indica_Vol_17"
+ },
+ "model": "gemini-flash-latest"
+}

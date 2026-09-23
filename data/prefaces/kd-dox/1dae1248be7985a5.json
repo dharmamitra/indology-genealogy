@@ -1,0 +1,69 @@
+{
+ "author": "T. Ganapati Sastri",
+ "doc_kind": "text_edition",
+ "doc_year": 1920,
+ "people": [
+  {
+   "name": "T. Ganapati Sastri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Sylvain Lévi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "T. Ganapati Sastri",
+   "type": "position_at",
+   "object": "Department for the publication of Sanskrit Manuscripts, Trivandrum",
+   "role": "Curator",
+   "place": "Trivandrum",
+   "year_start": null,
+   "year_end": 1920,
+   "explicit": true,
+   "evidence": "T. GANAPATI SASTRI Curator of the Department Sor the publication of Sanskrit Manuscripts, Tricandrum",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sylvain Lévi",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "Professor",
+   "place": "France",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof, Sylvain Levi, Professor au College de France wrote to me to say that he had seen only a Chinese translation of the Manjusrimdla-Kalpa",
+   "quote_ok": true
+  },
+  {
+   "subject": "T. Ganapati Sastri",
+   "type": "influenced_by",
+   "object": "Sylvain Lévi",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Having learnt from me the discovery of the manuscript, a few years ago, Prof, Sylvain Levi, Professor au College de France wrote to me to say... that this rare work should be published without delay.",
+   "quote_ok": false
+  }
+ ],
+ "docid": "TSS-070_Aryamanjusrimulakalpa_Part_1_-_TG_Sastri_1920",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/books_y/TrivandrumSS/TSS-070_Aryamanjusrimulakalpa_Part_1_-_TG_Sastri_1920.pdf.txt",
+ "meta": {
+  "category": "Tohoku",
+  "pdf_pages": 246,
+  "script": "deva",
+  "kd_docid": "14cafe79__TSS-070_Aryamanjusrimulakalpa_Part_1_-_TG_Sastri_1920"
+ },
+ "model": "gemini-flash-latest"
+}
