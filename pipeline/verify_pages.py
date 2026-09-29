@@ -112,6 +112,17 @@ def main():
             meta = os.path.join(MJ, "ocr-qnap", "out", docid + ".json")
             src = json.load(open(meta)).get("source") if os.path.exists(meta) else None
             pdfs[docid] = os.path.join(SNAP, src) if src else None
+    elif CORPUS == "kd-dox":  # pdftotext / Tesseract texts with form feeds between pages; PDFs on the QNAP under the same relative path
+        span = 1
+        for docid in need:
+            t = paths[docid]
+            rel = t.split("/dox-text/txt/", 1)[1][:-4] if "/dox-text/txt/" in t and t.endswith(".pdf.txt") else None
+            pdfs[docid] = os.path.join("/qnap/kengo/dox", rel) if rel else None
+            try:
+                for k, pg in enumerate(open(t, encoding="utf-8", errors="ignore").read().split("\f")):
+                    units[docid][k] = pg
+            except OSError:
+                pass
     else:  # older OCR runs: PDFs by file name; pages from END_OF_PAGE markers (mj-data) or by proportion (mj-new)
         import fitz
         index = {}
@@ -160,7 +171,7 @@ def main():
                 by_unit[s].append(q)
         if by_unit:
             ends = {s: (starts[k + 1] if k + 1 < len(starts) else s + span) for k, s in enumerate(starts)}
-            pad = (1 if RECHECK else 0) + (0 if CORPUS == "mj-qnap" else 1)  # neighbouring pages: sentences run across page breaks
+            pad = (1 if RECHECK else 0) + (0 if CORPUS in ("mj-qnap", "kd-dox") else 1)  # neighbouring pages: sentences run across page breaks
             jobs.append({"pdf": pdf, "units": [{"start": max(0, s - pad), "end": min(ends[s], s + span) + pad, "quotes": v} for s, v in sorted(by_unit.items())]})
     print(f"[pages] {len(jobs)} documents with locatable quotes; {sum(len(j['units']) for j in jobs)} page units", flush=True)
     done = 0

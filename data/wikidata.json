@@ -1,5 +1,113 @@
 {
  "people": {
+  "P:Dugald Mackichan": {
+   "qid": "Q33019637",
+   "birth": 1851,
+   "death": 1932,
+   "birth_place": null,
+   "death_place": null,
+   "image": null,
+   "enwiki": "Dugald Mackichan",
+   "dewiki": null,
+   "jawiki": null,
+   "description": "Scottish minister and missionary in India",
+   "statements": [
+    {
+     "prop": "P108",
+     "kind": "position_at",
+     "qid": "Q406402",
+     "start": 1888,
+     "end": 1891,
+     "label": "University of Mumbai"
+    },
+    {
+     "prop": "P69",
+     "kind": "studied_at",
+     "qid": "Q192775",
+     "start": null,
+     "end": null,
+     "label": "University of Glasgow"
+    }
+   ]
+  },
+  "P:Charles Johnston": {
+   "qid": "Q1065094",
+   "birth": 1867,
+   "death": 1931,
+   "birth_place": "Downpatrick",
+   "death_place": "New York City",
+   "image": "Charles Johnston003.png",
+   "enwiki": "Charles Johnston (Theosophist)",
+   "dewiki": "Charles Johnston (Theosoph)",
+   "jawiki": null,
+   "description": "Irish writer (1867–1931)",
+   "statements": []
+  },
+  "P:Har Bilas Sarda": {
+   "qid": "Q22018625",
+   "birth": 1867,
+   "death": 1955,
+   "birth_place": "Ajmer",
+   "death_place": null,
+   "image": null,
+   "enwiki": "Har Bilas Sarda",
+   "dewiki": null,
+   "jawiki": null,
+   "description": "Indian academic, judge and politician (1867–1955)",
+   "statements": [
+    {
+     "prop": "P69",
+     "kind": "studied_at",
+     "qid": "Q1145306",
+     "start": null,
+     "end": null,
+     "label": "University of Calcutta"
+    }
+   ]
+  },
+  "P:Chandradhar Sharma Guleri": {
+   "qid": "Q5071329",
+   "birth": 1883,
+   "death": 1922,
+   "birth_place": "Jaipur",
+   "death_place": "Varanasi",
+   "image": null,
+   "enwiki": "Chandradhar Sharma Guleri",
+   "dewiki": null,
+   "jawiki": null,
+   "description": "Indian writer",
+   "statements": [
+    {
+     "prop": "P108",
+     "kind": "position_at",
+     "qid": "Q806116",
+     "start": null,
+     "end": null,
+     "label": "Banaras Hindu University"
+    },
+    {
+     "prop": "P69",
+     "kind": "studied_at",
+     "qid": "Q2005647",
+     "start": null,
+     "end": null,
+     "label": "University of Allahabad"
+    }
+   ]
+  },
+  "P:Thakur Sen Negi": {
+   "qid": "Q28840438",
+   "birth": 1908,
+   "death": 2002,
+   "birth_place": null,
+   "death_place": null,
+   "image": null,
+   "enwiki": "Thakur Sen Negi",
+   "dewiki": null,
+   "jawiki": null,
+   "description": "Indian politician and writer (1908–2002)",
+   "statements": []
+  },
   "P:Hendrik van Rheede": {
    "qid": "Q741104",
    "birth": 1637,
@@ -19231,7 +19339,7 @@
    "qid": "Q48301",
    "birth": 1889,
    "death": 1976,
-   "birth_place": "Messkirch",
+   "birth_place": "Meßkirch",
    "death_place": "Freiburg im Breisgau",
    "image": "Heidegger 2 (1960).jpg",
    "enwiki": "Martin Heidegger",
@@ -32529,7 +32637,7 @@
      "qid": "Q9061",
      "start": 1835,
      "end": null,
-     "label": "Q9061"
+     "label": "Karl Marx"
     },
     {
      "prop": "P802",
@@ -63770,7 +63878,7 @@
      "qid": "Q9358",
      "start": null,
      "end": null,
-     "label": "Q9358"
+     "label": "Friedrich Nietzsche"
     },
     {
      "prop": "P802",
@@ -66695,7 +66803,7 @@
    "birth": 1892,
    "death": 1978,
    "birth_place": "Christiania",
-   "death_place": "Q585",
+   "death_place": "Oslo",
    "image": "NO-NB BLDSA GM2b217n.jpg",
    "enwiki": "Georg Morgenstierne",
    "dewiki": "Georg Valentin von Munthe af Morgenstierne",
@@ -66725,7 +66833,7 @@
    "birth": 1867,
    "death": 1948,
    "birth_place": "Sør-Aurdal",
-   "death_place": "Q585",
+   "death_place": "Oslo",
    "image": "StenKonow.jpg",
    "enwiki": "Sten Konow",
    "dewiki": "Sten Konow",
@@ -69749,7 +69857,7 @@
    "qid": "Q10306662",
    "birth": 1948,
    "death": null,
-   "birth_place": "Q585",
+   "birth_place": "Oslo",
    "death_place": null,
    "image": "Jens Erland Braarvig (cropped).jpg",
    "enwiki": null,
@@ -90916,6 +91024,14 @@
      "start": null,
      "end": null,
      "label": "Yeshi Silvano Namkhai"
+    },
+    {
+     "prop": "P802",
+     "kind": "teacher_of",
+     "qid": "Q141557435",
+     "start": null,
+     "end": null,
+     "label": "Raimondo Bultrini"
     }
    ]
   },
@@ -105137,7 +105253,7 @@
    "enwiki": null,
    "dewiki": "Meinrad Scheller",
    "jawiki": null,
-   "description": "born:1921|died:1991|; Scheller, M.",
+   "description": "Swiss linguist, Sanskrit and Indo-European scholar",
    "statements": []
   },
   "P:Dorji Wangchuk": {
@@ -107383,7 +107499,7 @@
    "enwiki": "Stella Kramrisch",
    "dewiki": "Stella Kramrisch",
    "jawiki": null,
-   "description": "Czech art historian (1896-1993)",
+   "description": "Czech-Austrian-American cosmopolitan art historian (1896–1993)",
    "statements": [
     {
      "prop": "P108",
@@ -114100,7 +114216,7 @@
    "enwiki": "Oleg Grabar",
    "dewiki": "Oleg Grabar",
    "jawiki": "オレグ・グラバール",
-   "description": "French-born American art historian (1929–2011)",
+   "description": "French-born American art historian and archaeologist (1929–2011)",
    "statements": [
     {
      "prop": "P108",
@@ -118591,7 +118707,7 @@
    "enwiki": "Vidya Dehejia",
    "dewiki": null,
    "jawiki": null,
-   "description": "American academic",
+   "description": "Indian-born American art historian (born 1942)",
    "statements": [
     {
      "prop": "P108",
@@ -119531,7 +119647,7 @@
    "qid": "Q18402477",
    "birth": 1953,
    "death": null,
-   "birth_place": null,
+   "birth_place": "Kyirong",
    "death_place": null,
    "image": "Ngodup Tsering, Geshe Lhakdor and Geshe Lobsang Monlam.jpg",
    "enwiki": null,
@@ -121361,7 +121477,7 @@
    "qid": "Q1855273",
    "birth": 1945,
    "death": null,
-   "birth_place": "Q585",
+   "birth_place": "Oslo",
    "death_place": null,
    "image": null,
    "enwiki": "Per Kværne",
@@ -121392,7 +121508,7 @@
    "birth": 1942,
    "death": 2025,
    "birth_place": "Tinn",
-   "death_place": "Q585",
+   "death_place": "Oslo",
    "image": null,
    "enwiki": "Signe Howell",
    "dewiki": null,
@@ -121648,7 +121764,7 @@
    "enwiki": "John M. Rosenfield",
    "dewiki": "John M. Rosenfield",
    "jawiki": "ジョン・マックス・ローゼンフィールド",
-   "description": "American art historian",
+   "description": "American art historian and East Asian scholar (1924–2013)",
    "statements": [
     {
      "prop": "P108",
@@ -123501,6 +123617,14 @@
      "label": "National Center for Scientific Research"
     },
     {
+     "prop": "P108",
+     "kind": "position_at",
+     "qid": "Q1667022",
+     "start": null,
+     "end": null,
+     "label": "Musée Cernuschi"
+    },
+    {
      "prop": "P69",
      "kind": "studied_at",
      "qid": "Q273534",
@@ -123523,6 +123647,14 @@
      "start": null,
      "end": null,
      "label": "Académie Julian"
+    },
+    {
+     "prop": "P69",
+     "kind": "studied_at",
+     "qid": "Q91096397",
+     "start": null,
+     "end": null,
+     "label": "Institut de civilisation indienne"
     }
    ]
   },
@@ -125476,7 +125608,7 @@
    "birth": 1928,
    "death": 2016,
    "birth_place": "Leipzig",
-   "death_place": "Q585",
+   "death_place": "Oslo",
    "image": "Fredrik Barth.jpg",
    "enwiki": "Fredrik Barth",
    "dewiki": "Fredrik Barth",
@@ -135091,7 +135223,7 @@
      "qid": "Q9358",
      "start": null,
      "end": null,
-     "label": "Q9358"
+     "label": "Friedrich Nietzsche"
     },
     {
      "prop": "P802",
@@ -135484,44 +135616,6 @@
     }
    ]
   },
-  "P:John Fraser": {
-   "qid": "Q6234027",
-   "birth": 1882,
-   "death": 1945,
-   "birth_place": "Inverness",
-   "death_place": null,
-   "image": null,
-   "enwiki": "John Fraser (Celticist)",
-   "dewiki": null,
-   "jawiki": null,
-   "description": "academic and Celticist from Scotland (1882–1945)",
-   "statements": [
-    {
-     "prop": "P108",
-     "kind": "position_at",
-     "qid": "Q34433",
-     "start": null,
-     "end": null,
-     "label": "University of Oxford"
-    },
-    {
-     "prop": "P108",
-     "kind": "position_at",
-     "qid": "Q270532",
-     "start": null,
-     "end": null,
-     "label": "University of Aberdeen"
-    },
-    {
-     "prop": "P69",
-     "kind": "studied_at",
-     "qid": "Q332342",
-     "start": null,
-     "end": null,
-     "label": "Trinity College"
-    }
-   ]
-  },
   "P:Genmyō Ono": {
    "qid": "Q16904897",
    "birth": 1883,
@@ -135868,44 +135962,6 @@
    "description": "Pali scholar and translator of Buddhist texts (1893-1955)",
    "statements": []
   },
-  "P:Kazuo Enoki": {
-   "qid": "Q11541767",
-   "birth": 1913,
-   "death": 1989,
-   "birth_place": "Kobe",
-   "death_place": null,
-   "image": null,
-   "enwiki": null,
-   "dewiki": null,
-   "jawiki": "榎一雄",
-   "description": "Japanese historian",
-   "statements": [
-    {
-     "prop": "P108",
-     "kind": "position_at",
-     "qid": "Q7842",
-     "start": null,
-     "end": null,
-     "label": "University of Tokyo"
-    },
-    {
-     "prop": "P69",
-     "kind": "studied_at",
-     "qid": "Q11524659",
-     "start": null,
-     "end": null,
-     "label": "Tokyo University"
-    },
-    {
-     "prop": "P69",
-     "kind": "studied_at",
-     "qid": "Q7842",
-     "start": null,
-     "end": null,
-     "label": "University of Tokyo"
-    }
-   ]
-  },
   "P:Kalika Prasad Shukla": {
    "qid": "Q31315769",
    "birth": 1921,
@@ -136079,19 +136135,6 @@
    "description": "Bengali scholar",
    "statements": []
   },
-  "P:Narendra Nath Law": {
-   "qid": "Q113802875",
-   "birth": 1889,
-   "death": 1964,
-   "birth_place": null,
-   "death_place": null,
-   "image": "Narendranath Laha.png",
-   "enwiki": null,
-   "dewiki": null,
-   "jawiki": null,
-   "description": "Indian historian",
-   "statements": []
-  },
   "P:Ludwik Sternbach": {
    "qid": "Q59530834",
    "birth": 1909,
@@ -136207,19 +136250,6 @@
      "label": "Trinity College"
     }
    ]
-  },
-  "P:Iwayumi Suzuki": {
-   "qid": "Q133612076",
-   "birth": 1951,
-   "death": null,
-   "birth_place": null,
-   "death_place": null,
-   "image": null,
-   "enwiki": null,
-   "dewiki": null,
-   "jawiki": null,
-   "description": null,
-   "statements": []
   },
   "P:Dayanand Bhargava": {
    "qid": "Q113399420",
@@ -137009,28 +137039,6 @@
      "start": null,
      "end": null,
      "label": "Utrecht University"
-    }
-   ]
-  },
-  "P:L. A. Ravi Varma": {
-   "qid": "Q42887455",
-   "birth": 1884,
-   "death": 1958,
-   "birth_place": "Changanassery",
-   "death_place": null,
-   "image": null,
-   "enwiki": "L. A. Ravi Varma",
-   "dewiki": null,
-   "jawiki": null,
-   "description": "Historian, ophthalmologist, philosopher",
-   "statements": [
-    {
-     "prop": "P69",
-     "kind": "studied_at",
-     "qid": "Q3520640",
-     "start": null,
-     "end": null,
-     "label": "Madras Medical College"
     }
    ]
   },
@@ -138586,44 +138594,6 @@
    "description": "Indian writer",
    "statements": []
   },
-  "P:Alan Butterworth": {
-   "qid": "Q56366486",
-   "birth": 1864,
-   "death": 1937,
-   "birth_place": "Southport",
-   "death_place": "London",
-   "image": null,
-   "enwiki": null,
-   "dewiki": null,
-   "jawiki": null,
-   "description": "British Indian civil servant",
-   "statements": [
-    {
-     "prop": "P108",
-     "kind": "position_at",
-     "qid": "Q1661231",
-     "start": null,
-     "end": null,
-     "label": "Indian Civil Service"
-    },
-    {
-     "prop": "P69",
-     "kind": "studied_at",
-     "qid": "Q805285",
-     "start": null,
-     "end": null,
-     "label": "Balliol College"
-    },
-    {
-     "prop": "P69",
-     "kind": "studied_at",
-     "qid": "Q5362612",
-     "start": null,
-     "end": null,
-     "label": "Elizabeth College"
-    }
-   ]
-  },
   "P:S. S. Raghavachar": {
    "qid": "Q113791407",
    "birth": 1913,
@@ -139055,80 +139025,6 @@
    "description": null,
    "statements": []
   },
-  "P:R. Champakalakshmi": {
-   "qid": "Q20738022",
-   "birth": 1932,
-   "death": 2024,
-   "birth_place": null,
-   "death_place": null,
-   "image": "Kalakshetra Foundation - R. Champakalakshmi, Romila Thapar, and N. Gopalaswami.png",
-   "enwiki": "R. Champakalakshmi",
-   "dewiki": null,
-   "jawiki": null,
-   "description": "Indian historian and social scientist (1932–2024)",
-   "statements": []
-  },
-  "P:Richard M. Eaton": {
-   "qid": "Q102076348",
-   "birth": 1940,
-   "death": null,
-   "birth_place": "Grand Rapids",
-   "death_place": null,
-   "image": "২০১৬ সালে ঢাকায় রিচার্ড ইটন.jpg",
-   "enwiki": "Richard M. Eaton",
-   "dewiki": null,
-   "jawiki": null,
-   "description": "American historian",
-   "statements": [
-    {
-     "prop": "P69",
-     "kind": "studied_at",
-     "qid": "Q1109093",
-     "start": null,
-     "end": null,
-     "label": "College of Wooster"
-    }
-   ]
-  },
-  "P:Brajadulal Chattopadhyaya": {
-   "qid": "Q112468764",
-   "birth": 1939,
-   "death": 2022,
-   "birth_place": null,
-   "death_place": "Kolkata",
-   "image": null,
-   "enwiki": null,
-   "dewiki": null,
-   "jawiki": null,
-   "description": null,
-   "statements": []
-  },
-  "P:Pitambar Datt Barthwal": {
-   "qid": "Q140226617",
-   "birth": 1901,
-   "death": 1944,
-   "birth_place": null,
-   "death_place": null,
-   "image": null,
-   "enwiki": null,
-   "dewiki": null,
-   "jawiki": null,
-   "description": "Indian Hindi scholar and literary critic (1901–1944); first PhD in Hindi from BHU",
-   "statements": []
-  },
-  "P:Hazari Prasad Dwivedi": {
-   "qid": "Q2723584",
-   "birth": 1907,
-   "death": 1979,
-   "birth_place": "Ballia district",
-   "death_place": "Delhi",
-   "image": "Hazari Prasad Dwivedi 1997 stamp of India.jpg",
-   "enwiki": "Hazari Prasad Dwivedi",
-   "dewiki": null,
-   "jawiki": null,
-   "description": "Hindi novelist, literary historian, essayist, critic and scholar from India",
-   "statements": []
-  },
   "P:S. Srinivasa Sarma": {
    "qid": "Q31315730",
    "birth": null,
@@ -139171,19 +139067,6 @@
      "label": "University of California, Berkeley"
     }
    ]
-  },
-  "P:Thomas E. Wood": {
-   "qid": "Q94622769",
-   "birth": 1946,
-   "death": null,
-   "birth_place": null,
-   "death_place": null,
-   "image": null,
-   "enwiki": null,
-   "dewiki": null,
-   "jawiki": null,
-   "description": null,
-   "statements": []
   },
   "P:Nayaraj Pant": {
    "qid": "Q13182502",
@@ -139521,159 +139404,6 @@
    "jawiki": null,
    "description": "Indian writer",
    "statements": []
-  },
-  "P:Józef Maria Bocheński": {
-   "qid": "Q673672",
-   "birth": 1902,
-   "death": 1995,
-   "birth_place": "Czuszów",
-   "death_place": "Fribourg",
-   "image": "Ojciec Bocheński.jpg",
-   "enwiki": "Józef Maria Bocheński",
-   "dewiki": "Joseph Maria Bocheński",
-   "jawiki": null,
-   "description": "Polish philosopher (1902-1995)",
-   "statements": [
-    {
-     "prop": "P185",
-     "kind": "teacher_of",
-     "qid": "Q102235230",
-     "start": null,
-     "end": null,
-     "label": "Ignacio Angelelli"
-    },
-    {
-     "prop": "P108",
-     "kind": "position_at",
-     "qid": "Q36188",
-     "start": null,
-     "end": null,
-     "label": "University of Fribourg"
-    },
-    {
-     "prop": "P108",
-     "kind": "position_at",
-     "qid": "Q246887",
-     "start": null,
-     "end": null,
-     "label": "Pontifical University of Saint Thomas Aquinas"
-    },
-    {
-     "prop": "P69",
-     "kind": "studied_at",
-     "qid": "Q36188",
-     "start": null,
-     "end": null,
-     "label": "University of Fribourg"
-    },
-    {
-     "prop": "P69",
-     "kind": "studied_at",
-     "qid": "Q246887",
-     "start": null,
-     "end": null,
-     "label": "Pontifical University of Saint Thomas Aquinas"
-    },
-    {
-     "prop": "P69",
-     "kind": "studied_at",
-     "qid": "Q189441",
-     "start": null,
-     "end": null,
-     "label": "Jagiellonian University"
-    }
-   ]
-  },
-  "P:Louis-Bertrand Geiger": {
-   "qid": "Q54887553",
-   "birth": 1906,
-   "death": 1983,
-   "birth_place": null,
-   "death_place": null,
-   "image": null,
-   "enwiki": null,
-   "dewiki": "Louis-Bertrand Geiger",
-   "jawiki": null,
-   "description": "Catholic priest, friar, philosopher (1906-1983)",
-   "statements": []
-  },
-  "P:Emmanuel Levinas": {
-   "qid": "Q153034",
-   "birth": 1906,
-   "death": 1995,
-   "birth_place": "Kaunas",
-   "death_place": "Clichy",
-   "image": "Emmanuel Levinas.jpg",
-   "enwiki": "Emmanuel Levinas",
-   "dewiki": "Emmanuel Levinas",
-   "jawiki": "エマニュエル・レヴィナス",
-   "description": "Jewish-French-Lithuanian philosopher (1906-1995)",
-   "statements": [
-    {
-     "prop": "P1066",
-     "kind": "student_of",
-     "qid": "Q3157543",
-     "start": null,
-     "end": null,
-     "label": "Jacob Gordin"
-    },
-    {
-     "prop": "P1066",
-     "kind": "student_of",
-     "qid": "Q48301",
-     "start": null,
-     "end": null,
-     "label": "Q48301"
-    },
-    {
-     "prop": "P185",
-     "kind": "teacher_of",
-     "qid": "Q17350668",
-     "start": null,
-     "end": null,
-     "label": "Jacques Colette"
-    },
-    {
-     "prop": "P108",
-     "kind": "position_at",
-     "qid": "Q661056",
-     "start": null,
-     "end": null,
-     "label": "University of Poitiers"
-    },
-    {
-     "prop": "P108",
-     "kind": "position_at",
-     "qid": "Q209842",
-     "start": null,
-     "end": null,
-     "label": "University of Paris"
-    },
-    {
-     "prop": "P108",
-     "kind": "position_at",
-     "qid": "Q36188",
-     "start": null,
-     "end": null,
-     "label": "University of Fribourg"
-    },
-    {
-     "prop": "P69",
-     "kind": "studied_at",
-     "qid": "Q153987",
-     "start": null,
-     "end": null,
-     "label": "University of Freiburg"
-    },
-    {
-     "prop": "P69",
-     "kind": "studied_at",
-     "qid": "Q157575",
-     "start": null,
-     "end": null,
-     "label": "University of Strasbourg"
-    }
-   ]
   },
   "P:Gisela Freund": {
    "qid": "Q28737702",
@@ -140280,7 +140010,7 @@
      "qid": "Q48301",
      "start": null,
      "end": null,
-     "label": "Q48301"
+     "label": "Martin Heidegger"
     },
     {
      "prop": "P802",
@@ -147928,6 +147658,14 @@
      "start": null,
      "end": null,
      "label": "Yeshi Silvano Namkhai"
+    },
+    {
+     "prop": "P802",
+     "kind": "teacher_of",
+     "qid": "Q141557435",
+     "start": null,
+     "end": null,
+     "label": "Raimondo Bultrini"
     }
    ]
   },
@@ -149484,6 +149222,27 @@
   }
  },
  "institutions": {
+  "I:Indraprastha College for Women": {
+   "qid": "Q12060731",
+   "label": "Indraprastha College for Women",
+   "lat": 28.6806,
+   "lon": 77.224,
+   "inception": 1924
+  },
+  "I:Government of Rajasthan": {
+   "qid": "Q5589304",
+   "label": "Government of Rajasthan",
+   "lat": null,
+   "lon": null,
+   "inception": null
+  },
+  "I:Endeavor Weekly": {
+   "qid": "Q106946570",
+   "label": "Endeavor Weekly",
+   "lat": null,
+   "lon": null,
+   "inception": null
+  },
   "I:Royal Library of Berlin": {
    "qid": "Q170109",
    "label": "Berlin State Library",
@@ -149715,13 +149474,6 @@
    "lon": 139.636,
    "inception": 1967
   },
-  "I:Verzeichnis der orientalischen Handschriften in Deutschland": {
-   "qid": "Q107019937",
-   "label": "Verzeichnis der orientalischen Handschriften in Deutschland",
-   "lat": null,
-   "lon": null,
-   "inception": null
-  },
   "I:Naturalis Biodiversity Center": {
    "qid": "Q641676",
    "label": "Naturalis Biodiversity Center",
@@ -149833,13 +149585,6 @@
    "lat": 48.8567,
    "lon": 2.3522,
    "inception": 1925
-  },
-  "I:Nordisk Tidsskrift for Filologi": {
-   "qid": "Q11991830",
-   "label": "Nordisk Tidsskrift for Filologi",
-   "lat": null,
-   "lon": null,
-   "inception": null
   },
   "I:Monumenta Serica Institute": {
    "qid": "Q21040598",
@@ -151080,13 +150825,6 @@
    "lon": -121.6372,
    "inception": 1962
   },
-  "I:Grundriss der indo-arischen Philologie und Altertumskunde": {
-   "qid": "Q34065841",
-   "label": "Grundriss der indo-arischen Philologie und Altertumskunde",
-   "lat": null,
-   "lon": null,
-   "inception": null
-  },
   "I:Tokai Gakuen University Junior College": {
    "qid": "Q7813466",
    "label": "Tokai Gakuen Women's College",
@@ -151142,13 +150880,6 @@
    "lat": null,
    "lon": null,
    "inception": 1915
-  },
-  "I:Beiträge zur vergleichenden Sprachforschung auf dem Gebiete der arischen, celtischen und slawischen Sprachen": {
-   "qid": "Q136534308",
-   "label": "Beiträge zur vergleichenden Sprachforschung auf dem Gebiete der arischen, celtischen und slawischen Sprachen",
-   "lat": null,
-   "lon": null,
-   "inception": null
   },
   "I:Marienstiftsgymnasium": {
    "qid": "Q1897949",
@@ -161468,13 +161199,6 @@
    "lon": -78.7892,
    "inception": 1846
   },
-  "I:Matsusaka Women's Junior College": {
-   "qid": "Q11357653",
-   "label": "Q11357653",
-   "lat": null,
-   "lon": null,
-   "inception": null
-  },
   "I:Gakushuin University": {
    "qid": "Q1372362",
    "label": "Gakushuin University",
@@ -164900,7 +164624,7 @@
   },
   "I:Virginia Wesleyan University": {
    "qid": "Q7934661",
-   "label": "Virginia Wesleyan University",
+   "label": "Batten University",
    "lat": 36.868,
    "lon": -76.1876,
    "inception": 1961
@@ -167950,13 +167674,6 @@
    "lon": 76,
    "inception": null
   },
-  "I:American Board of Commissioners for Foreign Missions": {
-   "qid": "Q463587",
-   "label": "American Board of Commissioners for Foreign Missions",
-   "lat": null,
-   "lon": null,
-   "inception": 1812
-  },
   "I:Sacred Books of the Buddhists": {
    "qid": "Q123763703",
    "label": "Sacred Books of the Buddhists",
@@ -168160,26 +167877,12 @@
    "lon": 3.8721,
    "inception": 1220
   },
-  "I:Gargi College": {
-   "qid": "Q5523187",
-   "label": "Gargi College",
-   "lat": 28.5547,
-   "lon": 77.2183,
-   "inception": 1967
-  },
   "I:Rashtriya Sanskrit Vidyapeetha": {
    "qid": "Q15693660",
    "label": "National Sanskrit University",
    "lat": 13.6357,
    "lon": 79.4071,
    "inception": 1956
-  },
-  "I:California State University, Fresno": {
-   "qid": "Q1026919",
-   "label": "California State University, Fresno",
-   "lat": 36.8133,
-   "lon": -119.75,
-   "inception": 1911
   },
   "I:Gandantegchinlen Monastery": {
    "qid": "Q965633",
@@ -170100,12 +169803,6 @@
    "lon": null,
    "inception": null
   },
-  "Q102235230": {
-   "label": "Ignacio Angelelli",
-   "lat": null,
-   "lon": null,
-   "inception": null
-  },
   "Q102235489": {
    "label": "Wilhelm Paul Schumann",
    "lat": null,
@@ -170694,6 +170391,12 @@
    "lon": -73.9833,
    "inception": 1961
   },
+  "Q1024917": {
+   "label": "Downpatrick",
+   "lat": 54.322,
+   "lon": -5.703,
+   "inception": null
+  },
   "Q1025016": {
    "label": "Cooperstown",
    "lat": 42.6972,
@@ -170789,12 +170492,6 @@
    "lat": 37.6569,
    "lon": -122.0578,
    "inception": 1957
-  },
-  "Q1026919": {
-   "label": "California State University, Fresno",
-   "lat": 36.8133,
-   "lon": -119.75,
-   "inception": 1911
   },
   "Q1026925": {
    "label": "California State University, Fullerton",
@@ -174108,6 +173805,12 @@
    "lon": 135.7819,
    "inception": 1949
   },
+  "Q106946570": {
+   "label": "Endeavor Weekly",
+   "lat": null,
+   "lon": null,
+   "inception": null
+  },
   "Q1069994": {
    "label": "Tokyo University of Science",
    "lat": 35.6994,
@@ -174130,12 +173833,6 @@
    "label": "Honzan Senju-ji Temple",
    "lat": 34.7184,
    "lon": 136.5058,
-   "inception": null
-  },
-  "Q107019937": {
-   "label": "Verzeichnis der orientalischen Handschriften in Deutschland",
-   "lat": null,
-   "lon": null,
    "inception": null
   },
   "Q1070333": {
@@ -174724,6 +174421,12 @@
    "label": "Bruno Schindler",
    "lat": null,
    "lon": null,
+   "inception": null
+  },
+  "Q10917441": {
+   "label": "Kyirong",
+   "lat": 28.3969,
+   "lon": 85.3269,
    "inception": null
   },
   "Q109178191": {
@@ -175613,12 +175316,6 @@
    "lat": 35.6894,
    "lon": 139.6917,
    "inception": 1880
-  },
-  "Q11357653": {
-   "label": "Q11357653",
-   "lat": null,
-   "lon": null,
-   "inception": null
   },
   "Q11357654": {
    "label": "Mie Chukyo University",
@@ -177918,12 +177615,6 @@
    "lon": 12.5713,
    "inception": 1968
   },
-  "Q11991830": {
-   "label": "Nordisk Tidsskrift for Filologi",
-   "lat": null,
-   "lon": null,
-   "inception": null
-  },
   "Q1199713": {
    "label": "Batavia",
    "lat": -6.1348,
@@ -178049,6 +177740,12 @@
    "lat": 35.6823,
    "lon": 139.734,
    "inception": 1988
+  },
+  "Q12060731": {
+   "label": "Indraprastha College for Women",
+   "lat": 28.6806,
+   "lon": 77.224,
+   "inception": 1924
   },
   "Q12061441": {
    "label": "MIT World Peace University",
@@ -180402,12 +180099,6 @@
    "lon": null,
    "inception": null
   },
-  "Q136534308": {
-   "label": "Beiträge zur vergleichenden Sprachforschung auf dem Gebiete der arischen, celtischen und slawischen Sprachen",
-   "lat": null,
-   "lon": null,
-   "inception": null
-  },
   "Q1365433": {
    "label": "Taixing",
    "lat": 32.1724,
@@ -180935,6 +180626,12 @@
    "lat": 50.7361,
    "lon": -3.535,
    "inception": 1955
+  },
+  "Q141557435": {
+   "label": "Raimondo Bultrini",
+   "lat": null,
+   "lon": null,
+   "inception": null
   },
   "Q1416493": {
    "label": "Peshawar Museum",
@@ -183526,7 +183223,7 @@
    "label": "Diekirch",
    "lat": 49.8681,
    "lon": 6.1567,
-   "inception": null
+   "inception": 1795
   },
   "Q16061290": {
    "label": "Carolinum Zürich",
@@ -185226,12 +184923,6 @@
    "lon": -6.25,
    "inception": null
   },
-  "Q17350668": {
-   "label": "Jacques Colette",
-   "lat": null,
-   "lon": null,
-   "inception": null
-  },
   "Q1736198": {
    "label": "Wilhelm Capelle",
    "lat": null,
@@ -186401,12 +186092,6 @@
    "lat": 51.5072,
    "lon": -0.1275,
    "inception": 1909
-  },
-  "Q184587": {
-   "label": "Grand Rapids",
-   "lat": 42.9633,
-   "lon": -85.6678,
-   "inception": 1826
   },
   "Q184746": {
    "label": "Jane Goodall",
@@ -187998,12 +187683,6 @@
    "lon": -2.7544,
    "inception": 1189
   },
-  "Q201982": {
-   "label": "Clichy",
-   "lat": 48.9036,
-   "lon": 2.3056,
-   "inception": null
-  },
   "Q2021166": {
    "label": "University of Natal",
    "lat": -29.8583,
@@ -188928,12 +188607,6 @@
    "lon": 2.4825,
    "inception": null
   },
-  "Q2126853": {
-   "label": "Czuszów",
-   "lat": 50.25,
-   "lon": 20.35,
-   "inception": null
-  },
   "Q212793": {
    "label": "Charenton-le-Pont",
    "lat": 48.8214,
@@ -189854,8 +189527,8 @@
   },
   "Q22905": {
    "label": "Bradford",
-   "lat": 53.794,
-   "lon": -1.751,
+   "lat": 53.7944,
+   "lon": -1.7519,
    "inception": null
   },
   "Q22908244": {
@@ -190456,7 +190129,7 @@
    "label": "Brussels",
    "lat": 50.8467,
    "lon": 4.3517,
-   "inception": 1795
+   "inception": null
   },
   "Q239303": {
    "label": "Art Institute of Chicago",
@@ -194358,12 +194031,6 @@
    "lon": 17.0333,
    "inception": 1702
   },
-  "Q3157543": {
-   "label": "Jacob Gordin",
-   "lat": null,
-   "lon": null,
-   "inception": null
-  },
   "Q3157822": {
    "label": "Jacqueline de La Fontinelle",
    "lat": null,
@@ -195641,12 +195308,6 @@
    "lat": 52.5878,
    "lon": -0.725,
    "inception": 1584
-  },
-  "Q34065841": {
-   "label": "Grundriss der indo-arischen Philologie und Altertumskunde",
-   "lat": null,
-   "lon": null,
-   "inception": null
   },
   "Q3407280": {
    "label": "Tibetan Nuns Project",
@@ -197934,12 +197595,6 @@
    "lon": null,
    "inception": 1847
   },
-  "Q4115712": {
-   "label": "Kaunas",
-   "lat": 54.9,
-   "lon": 23.9333,
-   "inception": null
-  },
   "Q4115810": {
    "label": "National Defense Academy of Japan",
    "lat": 35.2577,
@@ -198836,8 +198491,8 @@
   },
   "Q43433": {
    "label": "Chandigarh",
-   "lat": 30.7364,
-   "lon": 76.7883,
+   "lat": 30.7333,
+   "lon": 76.7797,
    "inception": 1953
   },
   "Q4345832": {
@@ -199529,12 +199184,6 @@
    "lat": null,
    "lon": null,
    "inception": null
-  },
-  "Q463587": {
-   "label": "American Board of Commissioners for Foreign Missions",
-   "lat": null,
-   "lon": null,
-   "inception": 1812
   },
   "Q46378450": {
    "label": "Hub Schnackers",
@@ -200263,7 +199912,7 @@
    "inception": 1939
   },
   "Q48301": {
-   "label": "Q48301",
+   "label": "Martin Heidegger",
    "lat": null,
    "lon": null,
    "inception": null
@@ -202776,12 +202425,6 @@
    "lon": null,
    "inception": null
   },
-  "Q5362612": {
-   "label": "Elizabeth College",
-   "lat": 49.4566,
-   "lon": -2.5403,
-   "inception": 1563
-  },
   "Q536280": {
    "label": "National University of Laos",
    "lat": 18.0365,
@@ -203304,12 +202947,6 @@
    "lon": null,
    "inception": null
   },
-  "Q5523187": {
-   "label": "Gargi College",
-   "lat": 28.5547,
-   "lon": 77.2183,
-   "inception": 1967
-  },
   "Q5523962": {
    "label": "Garrett–Evangelical Theological Seminary",
    "lat": 42.0562,
@@ -203590,6 +203227,12 @@
    "label": "Government of Nepal",
    "lat": 27.6983,
    "lon": 85.3253,
+   "inception": null
+  },
+  "Q5589304": {
+   "label": "Government of Rajasthan",
+   "lat": null,
+   "lon": null,
    "inception": null
   },
   "Q5589327": {
@@ -204444,12 +204087,6 @@
    "lon": 77.222,
    "inception": null
   },
-  "Q584644": {
-   "label": "Ballia district",
-   "lat": 25.8307,
-   "lon": 84.1857,
-   "inception": null
-  },
   "Q58468953": {
    "label": "Peter Skilling",
    "lat": null,
@@ -204463,7 +204100,7 @@
    "inception": null
   },
   "Q585": {
-   "label": "Q585",
+   "label": "Oslo",
    "lat": 59.9133,
    "lon": 10.7389,
    "inception": 1048
@@ -212305,7 +211942,7 @@
    "inception": null
   },
   "Q7934661": {
-   "label": "Virginia Wesleyan University",
+   "label": "Batten University",
    "lat": 36.868,
    "lon": -76.1876,
    "inception": 1961
@@ -213217,7 +212854,7 @@
    "inception": null
   },
   "Q82724": {
-   "label": "Messkirch",
+   "label": "Meßkirch",
    "lat": 47.9928,
    "lon": 9.1125,
    "inception": null
@@ -214146,12 +213783,6 @@
    "lon": 121.4692,
    "inception": 751
   },
-  "Q868647": {
-   "label": "Southport",
-   "lat": 53.6469,
-   "lon": -3.0081,
-   "inception": null
-  },
   "Q86998": {
    "label": "Mark Lidzbarski",
    "lat": null,
@@ -214366,12 +213997,6 @@
    "label": "Mirzapur-cum-Vindhyachal",
    "lat": 25.145,
    "lon": 82.5653,
-   "inception": null
-  },
-  "Q889300": {
-   "label": "Changanassery",
-   "lat": 9.4667,
-   "lon": 76.55,
    "inception": null
   },
   "Q88959": {
@@ -214627,7 +214252,7 @@
    "inception": null
   },
   "Q9061": {
-   "label": "Q9061",
+   "label": "Karl Marx",
    "lat": null,
    "lon": null,
    "inception": null
@@ -215203,7 +214828,7 @@
    "inception": null
   },
   "Q9358": {
-   "label": "Q9358",
+   "label": "Friedrich Nietzsche",
    "lat": null,
    "lon": null,
    "inception": null
@@ -216172,7 +215797,7 @@
    "label": "Boevange-sur-Attert",
    "lat": 49.7756,
    "lon": 6.0128,
-   "inception": null
+   "inception": 1795
   },
   "Q98687032": {
    "label": "Bristol Baptist Academy",
