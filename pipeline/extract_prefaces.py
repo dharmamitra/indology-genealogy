@@ -131,7 +131,7 @@ def run(client, rec, model, thinking):
                 data.setdefault("people", []).append({"name": m["subject"], "birth_year": m.get("birth_year"), "death_year": m.get("death_year")})
             cn = _norm(wins)
             for r in data["relations"]:
-                r["quote_ok"] = quote_ok(r["evidence"], cn, wins)
+                r["quote_ok"] = quote_ok(r["evidence"], cn, wins, (r.get("subject"), r.get("object")))
             data.update(docid=rec["docid"], corpus=rec["corpus"], path=rec["path"], meta=rec.get("meta"),
                         model=model if client is not None else llm.model_name())
             os.makedirs(os.path.dirname(path), exist_ok=True)

@@ -10,7 +10,7 @@ Results are cached per chunk in data/chunks/<docid>/<n>.json, so reruns only do 
 Evidence quotes are checked against the chunk text (quote_ok) to catch hallucinated relations.
 Key: $GEMINI_API_KEY, else ~/code/mitra-evaluation/.secrets.env. OCR texts: $INDOLOGY_OCR_DIR.
 """
-import argparse, json, os, re, sys, time, threading
+import argparse, json, os, re, sys, time, threading, unicodedata
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 try:
@@ -123,6 +123,14 @@ def _norm(s):
     return re.sub(r"[\W_]+", "", s.lower())
 
 
+def _fold(s, sep=""):
+    """For comparing names: lower case without diacritics or width variants (Wasō = waso, Ｗ = w), as OCR drops macrons
+    and accents at random, but with Indic vowel signs kept (_norm drops them); words joined by `sep`."""
+    s = "".join(c if c.isalnum() or unicodedata.category(c)[0] == "M" else " "
+                for c in unicodedata.normalize("NFKD", s.lower()) if not unicodedata.combining(c))
+    return sep.join(s.split())
+
+
 def _words(s):
     return [w for w in re.findall(r"\w+", s.lower()) if not w.isdigit() or len(w) > 2]
 
@@ -130,6 +138,7 @@ def _words(s):
 # CJK (no word boundaries) and Indic scripts (vowel signs are combining marks, so \w+ cuts every word) are matched
 # by character trigrams instead of words
 CJK_RX = re.compile(r"[\u3040-\u30ff\u3400-\u9fff\uf900-\ufaff\u0900-\u0dff]")
+HAN_KANA_RX = re.compile(r"[\u3040-\u30ff\u3400-\u9fff\uf900-\ufaff]")  # scripts that write names without spaces
 
 
 def _subseq(qw, tw, max_gap=12):
@@ -168,10 +177,10 @@ def quote_match(evidence, text, text_norm=None):
     return _subseq(qw, _words(text)) if len(qw) >= 4 else 0.0
 
 
-def quote_ok(evidence, chunk_norm, chunk=None):
+def quote_ok(evidence, chunk_norm, chunk=None, names=()):
     """True if the evidence (or, for quotes with '...', each longer piece) occurs in the chunk. With the raw chunk
     given, a fuzzy match is accepted too (0.85 for Latin scripts, 0.7 for CJK): OCR column interleaving and
-    garbled characters otherwise cost about a tenth of all relations."""
+    garbled characters otherwise cost about a tenth of all relations. `names` are the relation's subject and object."""
     parts = [p for p in re.split(r"\.\.\.|…|\[\.\.\.\]", evidence) if len(_norm(p)) >= 12] or [evidence]
     if all(_norm(p) in chunk_norm for p in parts):
         return True
@@ -179,11 +188,45 @@ def quote_ok(evidence, chunk_norm, chunk=None):
         return False
     if quote_match(evidence, chunk, chunk_norm) < (0.7 if CJK_RX.search(evidence) else 0.85):
         return False
-    # a fuzzy match must not let a quote through whose NAMES differ from the page: every capitalised word of a Latin
-    # quote, and every run of 2-4 CJK characters, has to occur in the text (a swapped teacher's name scores 0.88 otherwise)
-    names = re.findall(r"(?<![\w.])[A-ZÀ-ÝĀ-Ž][\w'-]{2,}", evidence) if not CJK_RX.search(evidence) else \
-        [evidence[i:i + 2] for i in range(len(evidence) - 1) if CJK_RX.match(evidence[i]) and CJK_RX.match(evidence[i + 1])]
-    return all(_norm(n) in chunk_norm for n in names)
+    # a fuzzy match must not let a quote through whose NAMES differ from the page (a swapped teacher's name scores 0.88
+    # otherwise): the parts of the relation's subject and object that the quote spells out -- a Chinese or Japanese name
+    # whole, others word by word, initials aside -- have to occur in the text, diacritics and case aside, with a little
+    # room for OCR damage (Tesseract gives विश्वविद्यालय as विरवविद्यालय, Pondicherry as Pondicheny). A Latin word must
+    # match a whole word of the text (Hare is not in "share"), with no edit up to five letters. The rest of the quote is
+    # left to the fuzzy match.
+    ef, tf, tw = _fold(evidence), _fold(chunk), f" {_fold(chunk, ' ')} "
+    for n in names:
+        for p in ([n] if HAN_KANA_RX.search(n or "") else re.split(r"[\s,;/()\-–]+", n or "")):
+            p = _fold(p)
+            if len(p) < 2 or p not in ef:
+                continue
+            if CJK_RX.search(p):
+                if not _near(p, tf, len(p) // 4):
+                    return False
+            elif not _near(f" {p} ", tw, max(0, len(p) - 2) // 4):
+                return False
+    return True
+
+
+def _near(p, t, k):
+    """True if some substring of t is within edit distance k of p. Such a substring contains one of k + 1 pieces of p
+    unchanged, so only the stretches of t around those pieces go through Sellers' algorithm."""
+    if k == 0:
+        return p in t
+    step = len(p) // (k + 1)
+    for j in range(k + 1):
+        piece = p[j * step:(j + 1) * step if j < k else len(p)]
+        at = t.find(piece)
+        while at >= 0:
+            col = list(range(len(p) + 1))
+            for c in t[max(0, at - j * step - k):at + len(p) + k]:
+                prev, col[0] = col[0], 0
+                for i, pc in enumerate(p, 1):
+                    prev, col[i] = col[i], min(col[i] + 1, col[i - 1] + 1, prev + (pc != c))
+                if col[-1] <= k:
+                    return True
+            at = t.find(piece, at + 1)
+    return False
 
 
 def run_chunk(client, docid, idx, chunk):
