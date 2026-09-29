@@ -10,7 +10,7 @@ Results are cached per chunk in data/chunks/<docid>/<n>.json, so reruns only do 
 Evidence quotes are checked against the chunk text (quote_ok) to catch hallucinated relations.
 Key: $GEMINI_API_KEY, else ~/code/mitra-evaluation/.secrets.env. OCR texts: $INDOLOGY_OCR_DIR.
 """
-import argparse, json, os, re, sys, time, threading, unicodedata
+import argparse, functools, json, os, re, sys, time, threading, unicodedata
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 try:
@@ -181,29 +181,42 @@ def quote_ok(evidence, chunk_norm, chunk=None, names=()):
     """True if the evidence (or, for quotes with '...', each longer piece) occurs in the chunk. With the raw chunk
     given, a fuzzy match is accepted too (0.85 for Latin scripts, 0.7 for CJK): OCR column interleaving and
     garbled characters otherwise cost about a tenth of all relations. `names` are the relation's subject and object."""
-    parts = [p for p in re.split(r"\.\.\.|…|\[\.\.\.\]", evidence) if len(_norm(p)) >= 12] or [evidence]
+    pieces = re.split(r"\.\.\.|…|\[\.\.\.\]", evidence)
+    parts = [p for p in pieces if len(_norm(p)) >= 12] or [evidence]
     if all(_norm(p) in chunk_norm for p in parts):
-        return True
+        # the pieces under 12 characters are not looked for, so a name between two '...' is checked on its own
+        skipped = any(0 < len(_norm(p)) < 12 for p in pieces)
+        return not (skipped and chunk is not None) or _names_ok(evidence, chunk, names)
     if chunk is None:
         return False
     if quote_match(evidence, chunk, chunk_norm) < (0.7 if CJK_RX.search(evidence) else 0.85):
         return False
-    # a fuzzy match must not let a quote through whose NAMES differ from the page (a swapped teacher's name scores 0.88
-    # otherwise): the parts of the relation's subject and object that the quote spells out -- a Chinese or Japanese name
-    # whole, others word by word, initials aside -- have to occur in the text, diacritics and case aside, with a little
-    # room for OCR damage (Tesseract gives विश्वविद्यालय as विरवविद्यालय, Pondicherry as Pondicheny). A Latin word must
-    # match a whole word of the text (Hare is not in "share"), with no edit up to five letters. The rest of the quote is
-    # left to the fuzzy match.
-    ef, tf, tw = _fold(evidence), _fold(chunk), f" {_fold(chunk, ' ')} "
+    return _names_ok(evidence, chunk, names)
+
+
+@functools.lru_cache(maxsize=4)
+def _fold_text(chunk):
+    return _fold(chunk), f" {_fold(chunk, ' ')} "
+
+
+def _names_ok(evidence, chunk, names):
+    """A fuzzy match must not let a quote through whose NAMES differ from the page (a swapped teacher's name scores 0.88
+    otherwise): the parts of the relation's subject and object that the quote spells out -- a Chinese or Japanese name
+    whole, others word by word, initials aside -- have to occur in the text, diacritics and case aside, with a little
+    room for OCR damage (Tesseract gives विश्वविद्यालय as विरवविद्यालय, Pondicherry as Pondicheny). A Latin word must
+    match a whole word of the text (Hare is not in "share"), with no edit up to five letters. The rest of the quote is
+    left to the fuzzy match."""
+    ef, ew = _fold(evidence), f" {_fold(evidence, ' ')} "
+    tf, tw = _fold_text(chunk)
     for n in names:
         for p in ([n] if HAN_KANA_RX.search(n or "") else re.split(r"[\s,;/()\-–]+", n or "")):
             p = _fold(p)
-            if len(p) < 2 or p not in ef:
+            if len(p) < 2:
                 continue
             if CJK_RX.search(p):
-                if not _near(p, tf, len(p) // 4):
+                if p in ef and not _near(p, tf, len(p) // 4):
                     return False
-            elif not _near(f" {p} ", tw, max(0, len(p) - 2) // 4):
+            elif f" {p} " in ew and not _near(f" {p} ", tw, max(0, len(p) - 2) // 4):
                 return False
     return True
 
