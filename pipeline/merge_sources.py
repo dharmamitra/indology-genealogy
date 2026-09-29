@@ -12,9 +12,14 @@ Every year carries its provenance: ys_src / ye_src in {"text", "wikidata", "mode
 import argparse, json, os
 from collections import defaultdict, Counter
 
-from google import genai
+try:
+    from google import genai
+    from google.genai import types
+except ImportError:  # only needed for the Gemini backend; see llm.py
+    genai = types = None
 
 from extract_relations import load_key, DATA, ROOT
+import llm
 from resolve_entities import llm_json
 
 OUT = DATA
@@ -133,7 +138,7 @@ def main():
             if e["type"] in DATED_TYPES and not e["year_start"]:
                 todo[e["source"]].append(i)
         persons = sorted(todo)
-        client = genai.Client(api_key=load_key())
+        client = llm.make_client()
         filled = 0
         for b in range(0, len(persons), 12):
             items = []

@@ -5,9 +5,14 @@ import json, os, random, statistics
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor
 
-from google import genai
+try:
+    from google import genai
+    from google.genai import types
+except ImportError:  # only needed for the Gemini backend; see llm.py
+    genai = types = None
 
 from extract_relations import load_key, DATA, ROOT
+import llm
 from resolve_entities import llm_json
 from merge_sources import MODEL_PROMPT, MODEL_SCHEMA
 
@@ -22,7 +27,7 @@ for i in sample:
     by[E[i]["s"]].append(i)
 persons = sorted(by)
 calls = [persons[b:b + 12] for b in range(0, len(persons), 12)]
-client = genai.Client(api_key=load_key())
+client = llm.make_client()
 
 
 def ask(ch):

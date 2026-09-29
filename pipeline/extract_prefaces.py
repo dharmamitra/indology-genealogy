@@ -7,14 +7,20 @@ Output: data/prefaces/<corpus>/<sha1>.json, one per document, same record shape 
 
   python3 pipeline/extract_prefaces.py --limit 12 --model gemini-flash-lite-latest   # pilot
   python3 pipeline/extract_prefaces.py --workers 32
+  INDOLOGY_LLM=claude python3 pipeline/extract_prefaces.py --worklist data/worklist_kd-dox.jsonl --workers 6
+      # same prompt and schema through the Claude CLI (subscription auth, no key); see llm.py
 """
 import argparse, hashlib, json, os, sys, threading, time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-from google import genai
-from google.genai import types
+try:
+    from google import genai
+    from google.genai import types
+except ImportError:  # only needed for the Gemini backend; see llm.py
+    genai = types = None
 
 from extract_relations import load_key, DATA, REL_TYPES, _norm, quote_ok
+import llm
 
 OUT_DIR = os.path.join(DATA, "prefaces")
 
@@ -91,6 +97,18 @@ SCHEMA = {
 }
 
 
+def author_name(a):
+    """The CLI backend sometimes answers {"name": ..., "note": ...} or that as a JSON string; keep the name."""
+    if isinstance(a, str) and a.strip().startswith("{"):
+        try:
+            a = json.loads(a)
+        except ValueError:
+            return a
+    if isinstance(a, dict):
+        return a.get("name")
+    return a
+
+
 def out_path(rec):
     h = hashlib.sha1(rec["path"].encode()).hexdigest()[:16]
     return os.path.join(OUT_DIR, rec["corpus"], h + ".json")
@@ -103,24 +121,21 @@ def run(client, rec, model, thinking):
     wins = "\n\n".join(f"--- excerpt {i + 1} ({w['where']} matter) ---\n{w['text']}" for i, w in enumerate(rec["windows"]))
     prompt = PROMPT.format(docid=rec["docid"][:150], meta=json.dumps(rec.get("meta") or {}, ensure_ascii=False),
                            head=rec["head"][:600], windows=wins)
-    cfg = dict(temperature=0.0, response_mime_type="application/json", response_schema=SCHEMA, max_output_tokens=16384)
-    if thinking is not None:
-        cfg["thinking_config"] = types.ThinkingConfig(thinking_budget=thinking)
     last = None
     for attempt in range(5):
         try:
-            resp = client.models.generate_content(model=model, contents=prompt, config=types.GenerateContentConfig(**cfg))
-            data = json.loads(resp.text)
+            data, tin, tout = llm.generate_json(client, prompt, SCHEMA, model=model, thinking=thinking, max_output_tokens=16384)
+            data["author"] = author_name(data.get("author"))
             cn = _norm(wins)
             for r in data["relations"]:
-                r["quote_ok"] = quote_ok(r["evidence"], cn)
-            data.update(docid=rec["docid"], corpus=rec["corpus"], path=rec["path"], meta=rec.get("meta"), model=model)
+                r["quote_ok"] = quote_ok(r["evidence"], cn, wins)
+            data.update(docid=rec["docid"], corpus=rec["corpus"], path=rec["path"], meta=rec.get("meta"),
+                        model=model if client is not None else llm.model_name())
             os.makedirs(os.path.dirname(path), exist_ok=True)
             with open(path + ".tmp", "w") as f:
                 json.dump(data, f, ensure_ascii=False, indent=1)
             os.replace(path + ".tmp", path)
-            um = resp.usage_metadata
-            return "ok", um.prompt_token_count or 0, (um.candidates_token_count or 0) + (um.thoughts_token_count or 0)
+            return "ok", tin, tout
         except Exception as e:
             last = e
             time.sleep(min(60, 3 * 2 ** attempt))
@@ -130,7 +145,7 @@ def run(client, rec, model, thinking):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--worklist", default=os.path.join(DATA, "worklist_prefaces.jsonl"))
-    ap.add_argument("--workers", type=int, default=32)
+    ap.add_argument("--workers", type=int, default=llm.workers(32))
     ap.add_argument("--limit", type=int)
     ap.add_argument("--min-score", type=int, default=6)
     ap.add_argument("--model", default=os.getenv("INDOLOGY_PREFACE_MODEL", "gemini-flash-latest"))
@@ -150,7 +165,8 @@ def main():
         step = max(1, len(recs) // args.limit)
         recs = recs[::step][:args.limit]
     print(f"[prefaces] {len(recs)} documents | model={args.model} thinking={args.thinking}", flush=True)
-    client = genai.Client(api_key=load_key())
+    client = llm.make_client()
+    print(f"[prefaces] backend {llm.model_name()}", flush=True)
     lock, done, tin, tout, failed = threading.Lock(), 0, 0, 0, []
     with ThreadPoolExecutor(args.workers) as ex:
         futs = {ex.submit(run, client, r, args.model, args.thinking): r for r in recs}

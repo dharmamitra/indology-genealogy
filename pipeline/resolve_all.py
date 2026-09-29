@@ -8,15 +8,22 @@
 4. canonicalise institutions to university level (Gemini)
 5. keep scholars of the core fields (Indology, Buddhist studies, Tibetology) plus everybody directly tied to them
 
-All LLM answers are cached in data/resolve_cache/.
+All LLM answers are cached in data/resolve_cache/. data/resolve_prior.json (built from that cache by
+build_resolve_prior.py) pins the answers of an earlier run: known strings are not re-asked, so identities stay stable
+when new corpora or another model come in; the known canonical names of a surname group are shown to the model as anchors.
 """
 import glob, json, os, re
 from collections import defaultdict, Counter
 from concurrent.futures import ThreadPoolExecutor
 
-from google import genai
+try:
+    from google import genai
+    from google.genai import types
+except ImportError:  # only needed for the Gemini backend; see llm.py
+    genai = types = None
 
 from extract_relations import load_key, DATA
+import llm
 from resolve_entities import llm_json, strip_acc, surname_key, batches, PERSON_OBJ, SRC_SHORT
 from verify import year_in
 
@@ -61,7 +68,6 @@ For every input string return:
 Never guess dates for living or little-known people.
 Do not merge different people (namesakes, fathers and sons). Use the context to decide.
 
-INPUT:
 {items}"""
 PERSON_SCHEMA = {"type": "ARRAY", "items": {"type": "OBJECT", "properties": {
     "name": {"type": "STRING"}, "canonical": {"type": "STRING"}, "native": {"type": "STRING", "nullable": True},
@@ -216,15 +222,20 @@ def main():
         (pnames if r["type"] in PERSON_OBJ else inames)[r["object"]] += 1
         ctx[r["object"]].append(f'[{r["subject"][:30]} {r["type"]}] {r["evidence"]}')
     print(f"[resolve] {len(pnames)} person strings, {len(inames)} institution strings", flush=True)
-    client = genai.Client(api_key=load_key())
+    client = llm.make_client()
+
+    prior_path = os.path.join(DATA, "resolve_prior.json")
+    prior = json.load(open(prior_path)) if os.path.exists(prior_path) else {"people": {}, "institutions": {}, "roman": {}}
 
     # 2. romanise CJK names
     cjk = sorted(n for n in pnames if CJK.search(n))
-    cb = [cjk[i:i + 150] for i in range(0, len(cjk), 150)]
-    with ThreadPoolExecutor(16) as ex:
+    roman = {n: prior["roman"][n] for n in cjk if n in prior["roman"] and prior["roman"][n].get("family")}
+    todo = [n for n in cjk if n not in prior["roman"]]
+    cb = [todo[i:i + 150] for i in range(0, len(todo), 150)]
+    with ThreadPoolExecutor(llm.workers(16)) as ex:
         rres = list(ex.map(lambda b: llm_json(client, ROMAN_PROMPT.format(items=json.dumps(b, ensure_ascii=False)), ROMAN_SCHEMA), cb))
-    roman = {x["name"]: x for res in rres for x in res if x.get("family")}
-    print(f"[resolve] romanised {len(roman)}/{len(cjk)} CJK names", flush=True)
+    roman.update({x["name"]: x for res in rres for x in res if x.get("family")})
+    print(f"[resolve] romanised {len(roman)}/{len(cjk)} CJK names ({len(todo)} new)", flush=True)
 
     # 3. people
     def key(n):
@@ -244,17 +255,30 @@ def main():
         if fld:
             it["field_in_text"] = fld
         return it
+    pmap = {n: prior["people"][n] for n in pnames if n in prior["people"]}
+    imap = {n: prior["institutions"][n] for n in inames if n in prior["institutions"] and prior["institutions"][n].get("canonical")}
+    known = defaultdict(set)   # surname key -> canonical names already assigned in the prior
+    for m in prior["people"].values():
+        if m.get("kind") == "scholar" and m.get("canonical"):
+            known[key(m["name"])].add(m["canonical"])
     groups = defaultdict(list)
     for n in pnames:
-        groups[key(n)].append(n)
+        if n not in pmap:
+            groups[key(n)].append(n)
     glist = []
     for k in sorted(groups):
         g = sorted(groups[k], key=lambda n: fold(roman[n].get("given", "") if n in roman else n))
         glist += [g[i:i + 70] for i in range(0, len(g), 70)]  # very common surnames are split, neighbours share initials
     pb = batches(glist, 60)
-    ib = batches([[n] for n in sorted(inames, key=lambda s: strip_acc(s).lower())], 110)
-    print(f"[resolve] {len(pb)} person batches, {len(ib)} institution batches", flush=True)
+    ib = batches([[n] for n in sorted(inames, key=lambda s: strip_acc(s).lower()) if n not in imap], 110)
+    print(f"[resolve] prior: {len(pmap)} person and {len(imap)} institution strings; "
+          f"{sum(map(len, pb))} / {sum(map(len, ib))} new in {len(pb)} person batches, {len(ib)} institution batches", flush=True)
     pp = PERSON_PROMPT.replace("{fields}", ", ".join(FIELDS))
+
+    def anchors(b):
+        ks = sorted({c for n in b for c in known.get(key(n), ())})
+        return ("\nKNOWN PERSONS already in the database (reuse these exact canonical strings for the same person):\n"
+                + json.dumps(ks, ensure_ascii=False) + "\n") if ks else ""
 
     def safe(fn, b):
         try:
@@ -262,12 +286,12 @@ def main():
         except Exception as e:
             print(f"[resolve] batch failed: {e!r}"[:200], flush=True)
             return []
-    with ThreadPoolExecutor(64) as ex:
-        pres = list(ex.map(lambda b: safe(lambda b: llm_json(client, pp.replace("{items}", json.dumps([pitem(n) for n in b], ensure_ascii=False, indent=0)), PERSON_SCHEMA), b), pb))
+    with ThreadPoolExecutor(llm.workers(64)) as ex:
+        pres = list(ex.map(lambda b: safe(lambda b: llm_json(client, pp.replace("{items}", anchors(b) + "INPUT:\n" + json.dumps([pitem(n) for n in b], ensure_ascii=False, indent=0)), PERSON_SCHEMA), b), pb))
         ires = list(ex.map(lambda b: safe(lambda b: llm_json(client, INST_PROMPT.replace("{items}", json.dumps(
             [{"name": n, "context": [c[:140] for c in ctx[n][:2]]} for n in b], ensure_ascii=False, indent=0)), INST_SCHEMA), b), ib))
-    pmap = {x["name"]: x for res in pres for x in res}
-    imap = {x["name"]: x for res in ires for x in res if x.get("canonical")}
+    pmap.update({x["name"]: x for res in pres for x in res if x["name"] not in pmap})
+    imap.update({x["name"]: x for res in ires for x in res if x.get("canonical") and x["name"] not in imap})
     # the model sometimes drops names from a batch answer: ask again for whatever is missing, in small batches
     for rnd in range(3):
         miss_p = [n for n in pnames if n not in pmap]
@@ -277,8 +301,8 @@ def main():
         print(f"[resolve] retry {rnd}: {len(miss_p)} person and {len(miss_i)} institution strings missing from batch answers", flush=True)
         pb2 = [miss_p[i:i + 15] for i in range(0, len(miss_p), 15)]
         ib2 = [miss_i[i:i + 30] for i in range(0, len(miss_i), 30)]
-        with ThreadPoolExecutor(32) as ex:
-            pres2 = list(ex.map(lambda b: safe(lambda b: llm_json(client, pp.replace("{items}", json.dumps([pitem(n) for n in b], ensure_ascii=False, indent=0) + f"\n(retry {rnd})"), PERSON_SCHEMA), b), pb2))
+        with ThreadPoolExecutor(llm.workers(32)) as ex:
+            pres2 = list(ex.map(lambda b: safe(lambda b: llm_json(client, pp.replace("{items}", anchors(b) + "INPUT:\n" + json.dumps([pitem(n) for n in b], ensure_ascii=False, indent=0) + f"\n(retry {rnd})"), PERSON_SCHEMA), b), pb2))
             ires2 = list(ex.map(lambda b: safe(lambda b: llm_json(client, INST_PROMPT.replace("{items}", json.dumps(
                 [{"name": n, "context": [c[:140] for c in ctx[n][:2]]} for n in b], ensure_ascii=False, indent=0) + f"\n(retry {rnd})"), INST_SCHEMA), b), ib2))
         for res in pres2:

@@ -12,15 +12,23 @@ For each relation (data/chunks, data/prefaces, data/sections) we record in data/
             year they become an attestation ("was there in 2016"), otherwise they are dropped.
 
 Why: the first pass often put the publication year into year_end, or inferred years that the text does not give.
+
+Incremental: records that already have verdicts of the right length in data/verdicts.json are kept as they are (their
+batches would otherwise shift and be re-asked whenever a corpus is added); --all re-verifies everything.
 """
-import glob, json, os, re, sys
+import argparse, glob, json, os, re, sys
 from collections import Counter
 from concurrent.futures import ThreadPoolExecutor
 
-from google import genai
+try:
+    from google import genai
+    from google.genai import types
+except ImportError:  # only needed for the Gemini backend; see llm.py
+    genai = types = None
 
 from extract_relations import load_key, DATA, SRC_DIR, _norm, REL_TYPES
 from resolve_entities import llm_json
+import llm
 
 PROMPT = """You are checking a database of academic relations that another model extracted from publications. For each \
 item judge ONLY what the evidence quote says (plus who the author of the publication is, to resolve "I"/"my"/私).
@@ -110,11 +118,19 @@ def main():
     files = sorted(glob.glob(os.path.join(DATA, "chunks", "*", "*.json")) + glob.glob(os.path.join(DATA, "prefaces", "*", "*.json"))
                    + glob.glob(os.path.join(DATA, "sections", "*", "*.json"))
                    + glob.glob(os.path.join(DATA, "wikipedia_rel", "*", "*.json")))
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--all", action="store_true", help="re-verify records that already have verdicts")
+    args = ap.parse_args()
+    vpath = os.path.join(DATA, "verdicts.json")
+    old = json.load(open(vpath)) if os.path.exists(vpath) and not args.all else {}
     items, where = [], []
-    verdicts = {}
+    verdicts, kept = {}, 0
     for f in files:
         d = json.load(open(f))
         rel = os.path.relpath(f, DATA)
+        if rel in old and len(old[rel]) == len(d["relations"]) and all(v is None or v.get("verdict") for v in old[rel]):
+            verdicts[rel] = old[rel]; kept += 1
+            continue
         dy = d.get("doc_year") or (d.get("meta") or {}).get("year") or (1917 if d["docid"].startswith("Win917") else None)
         verdicts[rel] = [None] * len(d["relations"])
         for j, r in enumerate(d["relations"]):
@@ -125,8 +141,8 @@ def main():
             items.append({"k": len(items), "publication_author": d.get("author"), "publication_year": dy, "kind": d.get("doc_kind"),
                           "subject": r["subject"], "type": r["type"], "object": r["object"], "role": r.get("role"), "quote": r["evidence"]})
             where.append((rel, j))
-    print(f"[verify] {len(items)} relations in {len(files)} records", flush=True)
-    client = genai.Client(api_key=load_key())
+    print(f"[verify] {len(items)} relations to check in {len(files) - kept} records ({kept} records keep their verdicts)", flush=True)
+    client = llm.make_client()
     calls = [items[i:i + 25] for i in range(0, len(items), 25)]
 
     def one(ch):
@@ -139,7 +155,7 @@ def main():
             print("[verify] batch failed:", repr(e)[:150], flush=True)
             return []
     done = 0
-    with ThreadPoolExecutor(64) as ex:
+    with ThreadPoolExecutor(llm.workers(64)) as ex:
         for res in ex.map(one, calls):
             for k, r in res:
                 rel, j = where[k]
@@ -148,7 +164,7 @@ def main():
             done += 1
             if done % 100 == 0:
                 print(f"[verify] {done}/{len(calls)} batches", flush=True)
-    json.dump(verdicts, open(os.path.join(DATA, "verdicts.json"), "w"), ensure_ascii=False)
+    json.dump(verdicts, open(vpath, "w"), ensure_ascii=False)
     c = Counter(v.get("verdict", "unchecked") for vs in verdicts.values() for v in vs if v)
     print("[verify] verdicts:", dict(c))
     yl = Counter((f, v[f]) for vs in verdicts.values() for v in vs if v for f in ("ys_lit", "ye_lit"))

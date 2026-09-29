@@ -13,10 +13,14 @@ import argparse, glob, hashlib, json, os, re, unicodedata
 from collections import defaultdict, Counter
 from concurrent.futures import ThreadPoolExecutor
 
-from google import genai
-from google.genai import types
+try:
+    from google import genai
+    from google.genai import types
+except ImportError:  # only needed for the Gemini backend; see llm.py
+    genai = types = None
 
 from extract_relations import load_key, DATA, MODEL
+import llm
 
 OUT = DATA
 CACHE = os.path.join(DATA, "resolve_cache")
@@ -83,22 +87,8 @@ def surname_key(name):
 
 
 def llm_json(client, prompt, schema):
-    os.makedirs(CACHE, exist_ok=True)
-    path = os.path.join(CACHE, hashlib.sha1((MODEL + prompt).encode()).hexdigest() + ".json")
-    if os.path.exists(path):
-        return json.load(open(path))
-    for attempt in range(5):
-        try:
-            cfg = dict(temperature=0.0, response_mime_type="application/json", response_schema=schema, max_output_tokens=65536)
-            if os.getenv("INDOLOGY_THINKING"):  # cap the thinking budget for bulk jobs (tokens; 0 = off)
-                cfg["thinking_config"] = types.ThinkingConfig(thinking_budget=int(os.environ["INDOLOGY_THINKING"]))
-            resp = client.models.generate_content(model=MODEL, contents=prompt, config=types.GenerateContentConfig(**cfg))
-            data = json.loads(resp.text)
-            json.dump(data, open(path, "w"), ensure_ascii=False, indent=1)
-            return data
-        except Exception as e:
-            last = e
-    raise RuntimeError(f"resolve call failed: {last!r}")
+    """Cached structured call on the active backend (Gemini or the Claude CLI), see llm.py."""
+    return llm.llm_json(client, prompt, schema)
 
 
 def batches(groups, max_items):
@@ -147,7 +137,7 @@ def main():
         ctx[r["object"]].append(f'[{r["subject"]} {r["type"]}] ' + r["evidence"])
     print(f"[resolve] {len(pnames)} person strings, {len(inames)} institution strings")
 
-    client = genai.Client(api_key=load_key())
+    client = llm.make_client()
 
     # 2. persons, batched by surname
     def pitem(n):

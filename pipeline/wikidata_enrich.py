@@ -14,9 +14,14 @@ import hashlib, json, os, re, time, threading
 from concurrent.futures import ThreadPoolExecutor
 
 import requests
-from google import genai
+try:
+    from google import genai
+    from google.genai import types
+except ImportError:  # only needed for the Gemini backend; see llm.py
+    genai = types = None
 
 from extract_relations import load_key, DATA
+import llm
 from resolve_entities import llm_json
 
 OUT = DATA
@@ -151,7 +156,7 @@ def main():
         return out[:8]
     with ThreadPoolExecutor(6) as ex:
         ic = dict(zip((n["id"] for n in insts), ex.map(icands, insts)))
-    client = genai.Client(api_key=load_key())
+    client = llm.make_client()
     items = [{"id": n["id"], "name": n["label"], "city": n.get("city"), "kind": n.get("kind"), "candidates": ic[n["id"]]}
              for n in insts if ic[n["id"]]]
     schema = {"type": "ARRAY", "items": {"type": "OBJECT", "properties": {
