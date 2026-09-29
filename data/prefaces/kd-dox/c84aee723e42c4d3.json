@@ -1,0 +1,58 @@
+{
+ "author": "Robert Kritzer",
+ "doc_kind": "monograph",
+ "doc_year": 2005,
+ "people": [
+  {
+   "name": "Robert Kritzer",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "Yamabe Nobuyoshi",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "Fukuda Takumi",
+   "field": "Buddhist Studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Robert Kritzer",
+   "type": "student_of",
+   "object": "Yamabe Nobuyoshi",
+   "role": "teacher",
+   "explicit": false,
+   "evidence": "I would like to thank Professor Yamabe Nobuyoshi for his constant advice and encouragement at every stage of my project... patiently explained innumerable difficult Sanskrit and Chinese passages.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Kritzer",
+   "type": "student_of",
+   "object": "Fukuda Takumi",
+   "role": "teacher",
+   "explicit": false,
+   "evidence": "Both he and Professor Fukuda Takumi patiently explained innumerable difficult Sanskrit and Chinese passages.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Kritzer",
+   "type": "position_at",
+   "object": "Kyoto Notre Dame University",
+   "role": null,
+   "explicit": false,
+   "evidence": "Kyoto Notre Dame University generously subsidized the cost of preparing the manuscript.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Kritzer_2005_Vasubandhu_and_the_Yogacarabhumi",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Kritzer_2005_Vasubandhu_and_the_Yogacarabhumi.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 218,
+  "script": "latin",
+  "kd_docid": "72102110__Kritzer_2005_Vasubandhu_and_the_Yogacarabhumi"
+ },
+ "model": "claude:sonnet"
+}

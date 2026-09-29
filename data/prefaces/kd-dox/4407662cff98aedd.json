@@ -1,0 +1,72 @@
+{
+ "author": "Auguste Barth",
+ "doc_kind": "monograph",
+ "doc_year": 1908,
+ "people": [
+  {
+   "name": "Auguste Barth",
+   "nationality": "French",
+   "field": "Indology / Sanskrit studies"
+  },
+  {
+   "name": "Lucien Fournereau",
+   "death_year": 1906,
+   "nationality": "French",
+   "field": "archaeology (Siam)"
+  },
+  {
+   "name": "R. P. Schmitt",
+   "nationality": "French",
+   "field": "missionary, Pali/Siamese philology"
+  },
+  {
+   "name": "Léon Feer",
+   "nationality": "French",
+   "field": "Pali/Buddhist studies (jataka literature)"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Lucien Fournereau",
+   "type": "collaborated_with",
+   "object": "R. P. Schmitt",
+   "explicit": true,
+   "evidence": "les transcriptions... que le R. P. Schmitt, avec son infaligable obligeance, avait fournies al'auteur",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lucien Fournereau",
+   "type": "collaborated_with",
+   "object": "Léon Feer",
+   "explicit": true,
+   "evidence": "les analyses des jatakas, qui onl été fournies par un autre disparu le regretté Léon Feer",
+   "quote_ok": true
+  },
+  {
+   "subject": "Auguste Barth",
+   "type": "collaborated_with",
+   "object": "Lucien Fournereau",
+   "explicit": true,
+   "evidence": "il m’avait remis le manuscrit de son travail interrompu depuis plusicurs années, en ine priant dv le mettre au point et den assurer la publication",
+   "quote_ok": true
+  },
+  {
+   "subject": "Auguste Barth",
+   "type": "collaborated_with",
+   "object": "Léon Feer",
+   "explicit": true,
+   "evidence": "J'ai coinbls cette lacune et ajoulé cette analyse d'aprés 16 texte pili... en suivant le texte de plus prés",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Lucien Fournereau, Le Siam Ancien 1908 (Annales du Musée Guimet, Tome 31)",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Lucien Fournereau, Le Siam Ancien 1908 (Annales du Musée Guimet, Tome 31).pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 233,
+  "script": "latin",
+  "kd_docid": "1c72efb1__Lucien_Fournereau_Le_Siam_Ancien_1908_Annales_du_Musée_Guime"
+ },
+ "model": "claude:sonnet"
+}

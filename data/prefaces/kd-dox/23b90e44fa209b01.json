@@ -1,0 +1,78 @@
+{
+ "author": "O. Böhtlingk",
+ "doc_kind": "text_edition",
+ "doc_year": 1890,
+ "people": [
+  {
+   "name": "O. Böhtlingk",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Pischel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Maheschandra Nyāyaratna",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Premachandra Tarkavāgīśa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Rhetorik"
+  },
+  {
+   "name": "Cappeller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Premachandra Tarkavāgīśa",
+   "type": "position_at",
+   "object": "Sanskrit College, Calcutta",
+   "role": "Professor der Rhetorik",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pandita Premachandra Tarkabigiga, Professor der Rhetorik am Sanskrit College, Calcutta",
+   "quote_ok": true
+  },
+  {
+   "subject": "Cappeller",
+   "type": "collaborated_with",
+   "object": "O. Böhtlingk",
+   "role": "proofreading/corrections",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Freund Cappeller, der bereitwilligst eine Correctur zu lesen tibernahm, hat bei seinem feline Sprachgefiihl mir auch hier und da einen passenderen Ausdruck zur Hand gegeben",
+   "quote_ok": true
+  }
+ ],
+ "docid": "kaavyaadarsa_ed_boehtlingk",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/primary_literature_alamkaara_scans/kaavyaadarsa_ed_boehtlingk.pdf.txt",
+ "meta": {
+  "category": "primary_literature_alamkaara_scans",
+  "pdf_pages": 69,
+  "script": "deva",
+  "kd_docid": "a98ed8d0__kaavyaadarsa_ed_boehtlingk"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 1990,
+ "people": [
+  {
+   "name": "Shiv Kumar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "D.N. Bhargava",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Shiv Kumar",
+   "type": "position_at",
+   "object": "Centre of Advanced Study in Sanskrit, University of Poona",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "DR. SHIV KUMAR\nCentre of Advanced Study in Sanskrit, University of Poona",
+   "quote_ok": true
+  },
+  {
+   "subject": "D.N. Bhargava",
+   "type": "position_at",
+   "object": "Deptt. of Sanskrit, Jodhpur University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. D.N. BHARGAVA\nDeptt. of Sanskrit, Jodhpur University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Shiv Kumar",
+   "type": "collaborated_with",
+   "object": "D.N. Bhargava",
+   "role": "co-editors / co-translators",
+   "place": null,
+   "year_start": 1990,
+   "year_end": 1990,
+   "explicit": true,
+   "evidence": "YUKTIDIPIKA VOL. I DR. SHIV KUMAR ... and Dr. D.N. BHARGAVA",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Yuktidipika_ed. and trans. Shiv Kumar & D.N. Bhargava_v1",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Sāṃkhyakārikā commentaries/Yuktidīpikā editions/Yuktidipika_ed. and trans. Shiv Kumar & D.N. Bhargava_v1.pdf.txt",
+ "meta": {
+  "category": "Sāṃkhyakārikā commentaries",
+  "pdf_pages": 113,
+  "script": "deva",
+  "kd_docid": "57eeee0f__Yuktidipika_ed_and_trans_Shiv_Kumar_D_N_Bhargava_v1"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,155 @@
+{
+ "author": "Bunyiu Nanjio",
+ "doc_kind": "text_edition",
+ "doc_year": 1923,
+ "people": [
+  {
+   "name": "Bunyiu Nanjio",
+   "nationality": "Japanese",
+   "field": "Sanskrit/Buddhist studies"
+  },
+  {
+   "name": "Kenjiu Kasawara",
+   "birth_year": 1851,
+   "death_year": 1883,
+   "nationality": "Japanese",
+   "field": "Sanskrit/Buddhist studies"
+  },
+  {
+   "name": "Max Müller",
+   "field": "Sanskrit/Comparative philology"
+  },
+  {
+   "name": "Macdonell",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Zengi Koyasu",
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Unrai Wogihara",
+   "nationality": "Japanese",
+   "field": "Sanskrit/Buddhist studies"
+  },
+  {
+   "name": "Junjiro Takakusu",
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Ekai Kawaguchi",
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Bunyiu Nanjio",
+   "type": "student_of",
+   "object": "Max Müller",
+   "role": "teacher",
+   "explicit": true,
+   "evidence": "we pursued together the study of Sanskrit under Professor Max Miiller, to whose house we went every other day",
+   "year_start": 1880,
+   "year_end": null,
+   "place": "Oxford",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bunyiu Nanjio",
+   "type": "studied_at",
+   "object": "Oxford (University of Oxford)",
+   "role": null,
+   "explicit": true,
+   "evidence": "He was quite sympathetic and urged me to come to Oxford at once. Thus encouraged I made up my mind to settle there.",
+   "year_start": 1879,
+   "year_end": 1884,
+   "place": "Oxford",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bunyiu Nanjio",
+   "type": "student_of",
+   "object": "Macdonell",
+   "role": "informal help with study",
+   "explicit": true,
+   "evidence": "I was helped in my study by Professor Macdonell who was then still a student at Oxford.",
+   "year_start": null,
+   "year_end": null,
+   "place": "Oxford",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bunyiu Nanjio",
+   "type": "collaborated_with",
+   "object": "Kenjiu Kasawara",
+   "role": null,
+   "explicit": true,
+   "evidence": "In October, Kasawara joined me and from 1880 on we pursued together the study of Sanskrit under Professor Max Miiller",
+   "year_start": 1880,
+   "year_end": 1882,
+   "place": "Oxford",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bunyiu Nanjio",
+   "type": "collaborated_with",
+   "object": "Zengi Koyasu",
+   "role": null,
+   "explicit": true,
+   "evidence": "He read the whole text with me.",
+   "year_start": null,
+   "year_end": null,
+   "place": "Tokyo",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bunyiu Nanjio",
+   "type": "collaborated_with",
+   "object": "Unrai Wogihara",
+   "role": null,
+   "explicit": true,
+   "evidence": "I earnestly entreated Dr Wogihara to revise my copy by the aid of the Tibetan translation. He was willing to undertake the task.",
+   "year_start": null,
+   "year_end": null,
+   "place": null,
+   "quote_ok": true
+  },
+  {
+   "subject": "Bunyiu Nanjio",
+   "type": "collaborated_with",
+   "object": "Junjiro Takakusu",
+   "role": null,
+   "explicit": true,
+   "evidence": "When Professor Junjiro Takakusu also brought back from Nepal in 1914 some palm-leaf fragments of the present Satra, I availed myself of the opportunity for another revision of my copy",
+   "year_start": 1914,
+   "year_end": null,
+   "place": null,
+   "quote_ok": true
+  },
+  {
+   "subject": "Bunyiu Nanjio",
+   "type": "collaborated_with",
+   "object": "Ekai Kawaguchi",
+   "role": null,
+   "explicit": true,
+   "evidence": "When later Rev Ekai Kawaguchi brought a Nepalese copy of the Lankavatara, this was used to clear up some obscure points in my MS.",
+   "year_start": null,
+   "year_end": null,
+   "place": null,
+   "quote_ok": true
+  }
+ ],
+ "docid": "Nanjo Laṅkāvatārasūtra MN40145ucmf_2",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Nanjo Laṅkāvatārasūtra MN40145ucmf_2.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 413,
+  "script": "latin",
+  "kd_docid": "64d5a02c__Nanjo_Laṅkāvatārasūtra_MN40145ucmf_2"
+ },
+ "model": "claude:sonnet"
+}

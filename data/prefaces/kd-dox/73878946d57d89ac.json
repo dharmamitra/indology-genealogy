@@ -1,0 +1,81 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 1933,
+ "people": [
+  {
+   "name": "D. SRINIVASACHAR",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "S. NARASIMHACHAR",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "D. SRINIVASACHAR",
+   "type": "collaborated_with",
+   "object": "S. NARASIMHACHAR",
+   "role": "co-editor",
+   "place": "Mysore",
+   "year_start": null,
+   "year_end": 1933,
+   "explicit": true,
+   "evidence": "EDITED BY D. SRINIVASACHAR, m.a., Professor of Sanskrit, Maharaja's College, and Curator, Govt. Oriental Library, Mysore AND Vidwan S. NARASIMHACHAR, Govt. Oriental Library, Mysore",
+   "quote_ok": true
+  },
+  {
+   "subject": "D. SRINIVASACHAR",
+   "type": "position_at",
+   "object": "Maharaja's College",
+   "role": "Professor of Sanskrit",
+   "place": "Mysore",
+   "year_start": null,
+   "year_end": 1933,
+   "explicit": true,
+   "evidence": "D. SRINIVASACHAR, m.a., Professor of Sanskrit, Maharaja's College, and Curator, Govt. Oriental Library, Mysore",
+   "quote_ok": true
+  },
+  {
+   "subject": "D. SRINIVASACHAR",
+   "type": "position_at",
+   "object": "Govt. Oriental Library, Mysore",
+   "role": "Curator",
+   "place": "Mysore",
+   "year_start": null,
+   "year_end": 1933,
+   "explicit": true,
+   "evidence": "D. SRINIVASACHAR, m.a., Professor of Sanskrit, Maharaja's College, and Curator, Govt. Oriental Library, Mysore",
+   "quote_ok": true
+  },
+  {
+   "subject": "S. NARASIMHACHAR",
+   "type": "position_at",
+   "object": "Govt. Oriental Library, Mysore",
+   "role": null,
+   "place": "Mysore",
+   "year_start": null,
+   "year_end": 1933,
+   "explicit": true,
+   "evidence": "Vidwan S. NARASIMHACHAR, Govt. Oriental Library, Mysore",
+   "quote_ok": true
+  }
+ ],
+ "docid": "tattvamuktaakalaapa_1",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/primary_literature_vedaanta_scans/tattvamuktaakalaapa_1.pdf.txt",
+ "meta": {
+  "category": "primary_literature_vedaanta_scans",
+  "pdf_pages": 707,
+  "script": "deva",
+  "kd_docid": "9569fc20__tattvamuktaakalaapa_1"
+ },
+ "model": "gemini-flash-latest"
+}

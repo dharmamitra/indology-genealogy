@@ -1,0 +1,83 @@
+{
+ "author": "Raniero Gnoli",
+ "doc_kind": "text_edition",
+ "doc_year": 1956,
+ "people": [
+  {
+   "name": "Giuseppe Tucci",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Italian",
+   "field": null
+  },
+  {
+   "name": "Raniero Gnoli",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Italian",
+   "field": null
+  },
+  {
+   "name": "L. Petech",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "History"
+  },
+  {
+   "name": "B. Ch. Chhabra",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Epigraphy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Giuseppe Tucci",
+   "type": "position_at",
+   "object": "Serie Orientale Roma",
+   "role": "direzione",
+   "place": "Rome",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "SERIE ORIENTALE ROMA SOTTO LA DIREZIONE DI GIUSEPPE TUCCI",
+   "quote_ok": true
+  },
+  {
+   "subject": "Raniero Gnoli",
+   "type": "collaborated_with",
+   "object": "Giuseppe Tucci",
+   "role": "co-translators",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A second volume will include the English translation, made by Dr. R. Gnoli and myself",
+   "quote_ok": true
+  },
+  {
+   "subject": "Giuseppe Tucci",
+   "type": "collaborated_with",
+   "object": "L. Petech",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The historical comment will follow, written by Prof. L. Petech and myself.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "gnoli_gupta_inscription_text.pdf",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/gnoli_gupta_inscription_text.pdf.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 156,
+  "script": "latin",
+  "kd_docid": "32876a3f__gnoli_gupta_inscription_text_pdf"
+ },
+ "model": "gemini-flash-latest"
+}

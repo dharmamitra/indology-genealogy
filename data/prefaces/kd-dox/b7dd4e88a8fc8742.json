@@ -1,0 +1,57 @@
+{
+ "author": "N. M. Penzer",
+ "doc_kind": "text_edition",
+ "doc_year": 1925,
+ "people": [
+  {
+   "name": "F. W. Thomas",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "C. H. Tawney",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "F. W. Thomas",
+   "type": "position_at",
+   "object": "India Office",
+   "role": "Librarian",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr F. W. THOMAS, Ph.D. LIBRARIAN, INDIA OFFICE",
+   "quote_ok": true
+  },
+  {
+   "subject": "F. W. Thomas",
+   "type": "succeeded",
+   "object": "C. H. Tawney",
+   "role": "Librarian",
+   "place": "India Office",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr Thomas succeeded Mr Tawney as Librarian at the India Office.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "oceanofstorybein04somauoft",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/texts-translations/Katha-sarit-sagara/Katha-sarit-sagara_tr_Tawney/oceanofstorybein04somauoft.pdf.txt",
+ "meta": {
+  "category": "Tohoku",
+  "pdf_pages": 344,
+  "script": "latin",
+  "kd_docid": "8637f16a__oceanofstorybein04somauoft"
+ },
+ "model": "gemini-flash-latest"
+}

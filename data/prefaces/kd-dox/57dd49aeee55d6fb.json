@@ -1,0 +1,83 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 1976,
+ "people": [
+  {
+   "name": "Heinz Bechert",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Georg von Simson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ernst Waldschmidt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ernst Steinkellner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Heinz Bechert",
+   "type": "collaborated_with",
+   "object": "Georg von Simson",
+   "role": "co-editor / co-author",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": 1976,
+   "explicit": true,
+   "evidence": "herausgegeben von Heinz Bechert 2. Lieferung antar-ha / avadata-varna bearbeitet von Georg von Simson",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinz Bechert",
+   "type": "collaborated_with",
+   "object": "Ernst Waldschmidt",
+   "role": "continuer of dictionary project",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sanskrit-Wörterbuch der buddhistischen Texte aus den Turfan-Funden Begonnen von Ernst Waldschmidt ... herausgegeben von Heinz Bechert",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Steinkellner",
+   "type": "position_at",
+   "object": "Wien",
+   "role": "Professor",
+   "place": "Wien",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Besonderer Dank gebührt Herrn Professor Ernst Steinkellner (Wien)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "SWBTTF_02_antar-haa-",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/SWBTTF/SWBTTF_02_antar-haa-.pdf.txt",
+ "meta": {
+  "category": "SWBTTF",
+  "pdf_pages": 83,
+  "script": "latin",
+  "kd_docid": "7daa0f9e__SWBTTF_02_antar-haa-"
+ },
+ "model": "gemini-flash-latest"
+}

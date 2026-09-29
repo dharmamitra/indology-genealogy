@@ -1,0 +1,64 @@
+{
+ "author": "J. Muir",
+ "doc_kind": "monograph",
+ "doc_year": 1868,
+ "people": [
+  {
+   "name": "J. Muir",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "H. H. Wilson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Aufrecht",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "H. H. Wilson",
+   "type": "position_at",
+   "object": "University of Oxford",
+   "role": "Professor",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "See Professor H. H. Wilson's Essaj on the Padma Parana... and the same author's Oxford Lectures, p. 21.",
+   "quote_ok": true
+  },
+  {
+   "subject": "J. Muir",
+   "type": "collaborated_with",
+   "object": "Aufrecht",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in particular to Professor Aufrecht, whose name recurs perpetually in the following pages, and who has favoured me with the most valuable suggestions and information in*respect particularly to the sense of the Yedic texts",
+   "quote_ok": true
+  }
+ ],
+ "docid": "originalsanskrit04muir_bw",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/books_g/Muir/originalsanskrit04muir_bw.pdf.txt",
+ "meta": {
+  "category": "Tohoku",
+  "pdf_pages": 546,
+  "script": "latin",
+  "kd_docid": "c25555fe__originalsanskrit04muir_bw"
+ },
+ "model": "gemini-flash-latest"
+}

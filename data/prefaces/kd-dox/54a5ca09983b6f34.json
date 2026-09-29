@@ -1,0 +1,57 @@
+{
+ "author": "遠藤康",
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "遠藤康",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indian Philosophy"
+  },
+  {
+   "name": "榎本文雄",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist Studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "遠藤康",
+   "type": "position_at",
+   "object": "名古屋大学",
+   "role": null,
+   "place": "名古屋",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "遠  藤  康\n  (名 古 屋 大 学)",
+   "quote_ok": true
+  },
+  {
+   "subject": "榎本文雄",
+   "type": "position_at",
+   "object": "大阪大学",
+   "role": null,
+   "place": "大阪",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "この点については大阪大学の榎本文雄先生にご指摘を頂いた。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "72_27",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/72_27.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 12,
+  "script": "cjk",
+  "kd_docid": "330e2356__72_27"
+ },
+ "model": "gemini-flash-latest"
+}

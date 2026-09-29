@@ -1,0 +1,95 @@
+{
+ "author": "Wang Zhenping",
+ "doc_kind": "article",
+ "doc_year": 1994,
+ "people": [
+  {
+   "name": "Wang Zhenping",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Denis Twitchett",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Martin Collcutt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ryusaku Tsunoda",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Wang Zhenping",
+   "type": "student_of",
+   "object": "Denis Twitchett",
+   "role": null,
+   "place": "Princeton University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "THE AUTHOR expresses his gratitude to Denis Twitchett and Martin Collcutt of Princeton University for their guidance and assistance.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wang Zhenping",
+   "type": "student_of",
+   "object": "Martin Collcutt",
+   "role": null,
+   "place": "Princeton University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "THE AUTHOR expresses his gratitude to Denis Twitchett and Martin Collcutt of Princeton University for their guidance and assistance.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Denis Twitchett",
+   "type": "position_at",
+   "object": "Princeton University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Denis Twitchett and Martin Collcutt of Princeton University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Martin Collcutt",
+   "type": "position_at",
+   "object": "Princeton University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Denis Twitchett and Martin Collcutt of Princeton University",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Wang_1994_ChonensPilgrimage",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Journals/AsiaMajor/Wang_1994_ChonensPilgrimage.pdf.txt",
+ "meta": {
+  "category": "Journals",
+  "pdf_pages": 18,
+  "script": "latin",
+  "kd_docid": "541f522d__Wang_1994_ChonensPilgrimage"
+ },
+ "model": "gemini-flash-latest"
+}

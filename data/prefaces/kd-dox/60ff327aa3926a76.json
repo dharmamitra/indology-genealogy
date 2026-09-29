@@ -1,0 +1,45 @@
+{
+ "author": "Arthur Berriedale Keith",
+ "doc_kind": "text_edition",
+ "doc_year": 1908,
+ "people": [
+  {
+   "name": "Arthur Berriedale Keith",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Professor Eggeling",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Arthur Berriedale Keith",
+   "type": "student_of",
+   "object": "Professor Eggeling",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Eggeling, under whom I commenced to learn Sanskrit",
+   "quote_ok": true
+  }
+ ],
+ "docid": "sankhayanaaranya015788mbp",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/books_g/Keith/sankhayanaaranya015788mbp.pdf.txt",
+ "meta": {
+  "category": "Tohoku",
+  "pdf_pages": 99,
+  "script": "latin",
+  "kd_docid": "01260815__sankhayanaaranya015788mbp"
+ },
+ "model": "gemini-flash-latest"
+}

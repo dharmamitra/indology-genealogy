@@ -1,0 +1,45 @@
+{
+ "author": "Imre Galambos",
+ "doc_kind": "article",
+ "doc_year": 2019,
+ "people": [
+  {
+   "name": "Imre Galambos",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Nathalie Monnet",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Nathalie Monnet",
+   "type": "position_at",
+   "object": "BnF",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I am grateful to Nathalie Monnet of the BnF for verifying that the binding of P.3932 seen in the digital images is in fact the original one.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "10.1515_9783110645989-002",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/10.1515_9783110645989-002.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 22,
+  "script": "latin",
+  "kd_docid": "4b964d8d__10_1515_9783110645989-002"
+ },
+ "model": "gemini-flash-latest"
+}

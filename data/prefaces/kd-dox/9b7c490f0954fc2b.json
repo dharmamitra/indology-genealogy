@@ -1,0 +1,118 @@
+{
+ "author": "谷貞志",
+ "doc_kind": "article",
+ "doc_year": 1998,
+ "people": [
+  {
+   "name": "谷貞志"
+  },
+  {
+   "name": "桂"
+  },
+  {
+   "name": "沖"
+  },
+  {
+   "name": "小川"
+  },
+  {
+   "name": "宇野"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "桂",
+   "type": "position_at",
+   "object": "広島大学",
+   "role": "教授",
+   "place": "広島大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "桂教授等との広島大学でのディスカッションにおいて明確になった",
+   "quote_ok": true
+  },
+  {
+   "subject": "沖",
+   "type": "position_at",
+   "object": "広島大学",
+   "role": "教授",
+   "place": "広島大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "広島大学でのディスカッションにおいて明確になった。桂教授をはじめ沖教授、小川助教授、宇野氏の正確な理解によるもるのである",
+   "quote_ok": true
+  },
+  {
+   "subject": "小川",
+   "type": "position_at",
+   "object": "広島大学",
+   "role": "助教授",
+   "place": "広島大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "広島大学でのディスカッションにおいて明確になった。桂教授をはじめ沖教授、小川助教授、宇野氏の正確な理解によるもるのである",
+   "quote_ok": true
+  },
+  {
+   "subject": "谷貞志",
+   "type": "collaborated_with",
+   "object": "桂",
+   "role": null,
+   "place": "広島大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "特に上記の二つのセクションのテクストの部分は, 桂教授等との広島大学でのディスカッションにおいて明確になった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "谷貞志",
+   "type": "collaborated_with",
+   "object": "沖",
+   "role": null,
+   "place": "広島大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "桂教授をはじめ沖教授, 小川助教授, 宇野氏の正確な理解によるもるのである. 旧訳を改訳できたことに感謝したい.",
+   "quote_ok": true
+  },
+  {
+   "subject": "谷貞志",
+   "type": "collaborated_with",
+   "object": "小川",
+   "role": null,
+   "place": "広島大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "桂教授をはじめ沖教授, 小川助教授, 宇野氏の正確な理解によるもるのである. 旧訳を改訳できたことに感謝したい.",
+   "quote_ok": true
+  },
+  {
+   "subject": "谷貞志",
+   "type": "collaborated_with",
+   "object": "宇野",
+   "role": null,
+   "place": "広島大学",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "桂教授をはじめ沖教授, 小川助教授, 宇野氏の正確な理解によるもるのである. 旧訳を改訳できたことに感謝したい.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Tani_谷貞志_1998",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tani_谷貞志_1998.PDF.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 35,
+  "script": "cjk",
+  "kd_docid": "83409c08__Tani_谷貞志_1998"
+ },
+ "model": "gemini-flash-latest"
+}

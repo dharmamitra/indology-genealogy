@@ -1,0 +1,64 @@
+{
+ "author": "प. ल. वैद्य",
+ "doc_kind": "text_edition",
+ "doc_year": 1960,
+ "people": [
+  {
+   "name": "प. ल. वैद्य",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "Cecil Bendall",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Indology"
+  },
+  {
+   "name": "W. H. D. Rouse",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "प. ल. वैद्य",
+   "type": "position_at",
+   "object": "मिथिलाविद्यापीठ",
+   "role": "प्रधान (Director)",
+   "place": "दरभंगा",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "मिथिलाविद्यापीठप्रधानेन प्रकाशितः।",
+   "quote_ok": false
+  },
+  {
+   "subject": "Cecil Bendall",
+   "type": "collaborated_with",
+   "object": "W. H. D. Rouse",
+   "role": "translators",
+   "place": "लंदन",
+   "year_start": null,
+   "year_end": 1922,
+   "explicit": true,
+   "evidence": "इस ग्रन्थ का अंग्रेजी अनुवाद बेंडाल ने मि. एच्‌. डी. राउज़ के सहयोग से लंदन में १९२२ में इंडियन टेक्स्ट सीरीज़ में प्रकाशित किया है।",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Siksa Samuccaya Of Santideva Shiksha Vaidya P.L. Mithila Institute Darbhanga_text",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Siksa Samuccaya Of Santideva Shiksha Vaidya P.L. Mithila Institute Darbhanga_text.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 227,
+  "script": "deva",
+  "kd_docid": "814ece47__Siksa_Samuccaya_Of_Santideva_Shiksha_Vaidya_P_L_Mithila_Inst"
+ },
+ "model": "gemini-flash-latest"
+}

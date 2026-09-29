@@ -1,0 +1,88 @@
+{
+ "author": "सुधाकरद्विवेदी",
+ "doc_kind": "text_edition",
+ "doc_year": 1897,
+ "people": [
+  {
+   "name": "सुधाकरद्विवेदी",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit, Mathematics, Astronomy"
+  },
+  {
+   "name": "Arthur Venis",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Indology"
+  },
+  {
+   "name": "Muralidhara Jha",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Jyotiṣa"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "सुधाकरद्विवेदी",
+   "type": "position_at",
+   "object": "Sanskrit College, Benares",
+   "role": "Professor of Mathematics and Astronomy",
+   "place": "Benares",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "MAHAMAHOPADHYAYA SUDHAKARA DVIVEDI PROFESSOR OF MATHEMATICS AND ASTRONOMY, SANSKRIT COLLEGE, BENARES",
+   "quote_ok": false
+  },
+  {
+   "subject": "सुधाकरद्विवेदी",
+   "type": "position_at",
+   "object": "Allahabad University",
+   "role": "Fellow",
+   "place": "Allahabad",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "AND FELLOW OF ALLAHABAD UNIVERSITY.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Arthur Venis",
+   "type": "position_at",
+   "object": "Sanskrit College, Benares",
+   "role": "Principal",
+   "place": "Benares",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ARTHUR VENIS M. A. Oxon. PRINCIPAL, SANSKRIT COLLEGE, BENARES.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Muralidhara Jha",
+   "type": "student_of",
+   "object": "सुधाकरद्विवेदी",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pandit Muralidhara Jha, Jyautishacharya, one of my worthy students",
+   "quote_ok": true
+  }
+ ],
+ "docid": "brhatsamhita_2_2",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/brhatsamhita_2_2.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 330,
+  "script": "deva",
+  "kd_docid": "8d20d95d__brhatsamhita_2_2"
+ },
+ "model": "gemini-flash-latest"
+}

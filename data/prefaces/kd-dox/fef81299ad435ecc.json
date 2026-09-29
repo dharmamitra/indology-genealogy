@@ -1,0 +1,95 @@
+{
+ "people": [
+  {
+   "name": "Ernst Waldschmidt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Heinrich Lüders",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Ludwig Alsdorf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Helmut Hoffmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ernst Waldschmidt",
+   "type": "position_at",
+   "object": "Universität Hamburg, Seminar für Kultur und Geschichte Indiens",
+   "role": null,
+   "place": "Hamburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Universität Homburg Seminar für Kultur und G«ci-iich)e fnditn* — Homburg —",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Waldschmidt",
+   "type": "other",
+   "object": "Heinrich Lüders",
+   "role": "posthumous editor of manuscript (Nachlass)",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "eine erste Abschrift dos Luders'sehen Manuskriptes her-zurteilent",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ludwig Alsdorf",
+   "type": "position_at",
+   "object": "Hamburg",
+   "role": null,
+   "place": "Hamburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Meinen Kollegen Ludwig Alsdorf-Hamburg und Helmut Hoffmann-Münchent",
+   "quote_ok": true
+  },
+  {
+   "subject": "Helmut Hoffmann",
+   "type": "position_at",
+   "object": "München",
+   "role": null,
+   "place": "München",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Meinen Kollegen Ludwig Alsdorf-Hamburg und Helmut Hoffmann-Münchent",
+   "quote_ok": true
+  }
+ ],
+ "author": "Ernst Waldschmidt",
+ "doc_kind": "monograph",
+ "doc_year": 1954,
+ "docid": "Luders 1954 Beobachtungen uber die Sprache des buddhistischen Urkanons_text",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Luders 1954 Beobachtungen uber die Sprache des buddhistischen Urkanons_text.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 197,
+  "script": "latin",
+  "kd_docid": "3930ac9b__Luders_1954_Beobachtungen_uber_die_Sprache_des_buddhistische"
+ },
+ "model": "claude:sonnet"
+}

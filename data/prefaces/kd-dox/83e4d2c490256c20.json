@@ -1,0 +1,83 @@
+{
+ "author": "Alexander von Rospatt",
+ "doc_kind": "article",
+ "doc_year": 2013,
+ "people": [
+  {
+   "name": "Alexander von Rospatt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "SUGAWARA Yasunori",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Daniel Stuart",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Stefan Baums",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "SUGAWARA Yasunori",
+   "type": "studied_at",
+   "object": "Hamburg University",
+   "role": "PhD",
+   "place": "Hamburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "SUGAWARA Yasunori has edited the Sanskrit text and collated it with the Tibetan and Chinese translation as part of a Ph.D. thesis at Hamburg University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander von Rospatt",
+   "type": "position_at",
+   "object": "Berkeley",
+   "role": null,
+   "place": "Berkeley",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I have benefited from reading this text with my graduate students at Berkeley.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daniel Stuart",
+   "type": "student_of",
+   "object": "Alexander von Rospatt",
+   "role": "teacher",
+   "place": "Berkeley",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "reading this text with my graduate students at Berkeley. Among them, I am especially thankful to Daniel STUART",
+   "quote_ok": true
+  }
+ ],
+ "docid": "AvRospatt 2013 Bhavanamayi Bhumi",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Yogācārabhūmi publicatins from Martin/Yogacarabhumi_volume_2013/AvRospatt 2013 Bhavanamayi Bhumi.pdf.txt",
+ "meta": {
+  "category": "Yogācārabhūmi publicatins from Martin",
+  "pdf_pages": 21,
+  "script": "latin",
+  "kd_docid": "b6894544__AvRospatt_2013_Bhavanamayi_Bhumi"
+ },
+ "model": "gemini-flash-latest"
+}

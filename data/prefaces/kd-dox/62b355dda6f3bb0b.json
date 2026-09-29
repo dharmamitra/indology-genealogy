@@ -1,0 +1,38 @@
+{
+ "author": "Sylvain Lévi",
+ "doc_kind": "text_edition",
+ "doc_year": 1907,
+ "people": [
+  {
+   "name": "Sylvain Lévi",
+   "nationality": "French",
+   "field": "Indology, Buddhist studies"
+  },
+  {
+   "name": "Finot",
+   "nationality": "French",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sylvain Lévi",
+   "type": "other",
+   "object": "Finot",
+   "explicit": true,
+   "role": "friend and colleague",
+   "evidence": "Mon ami et collégue M. Finot a pris la peine de relire aussi toutes les épreuves.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "MSA_Levi",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/MSA_Levi.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 101,
+  "script": "deva",
+  "kd_docid": "9fbbaaf1__MSA_Levi"
+ },
+ "model": "claude:sonnet"
+}

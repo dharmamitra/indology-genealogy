@@ -1,0 +1,56 @@
+{
+ "people": [
+  {
+   "name": "Daisetz Teitaro Suzuki",
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Hokei Idzumi",
+   "nationality": "Japanese",
+   "field": "Buddhist studies / Sanskrit"
+  },
+  {
+   "name": "Yenga Teramoto",
+   "nationality": "Japanese",
+   "field": "Tibetan studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Daisetz Teitaro Suzuki",
+   "type": "collaborated_with",
+   "object": "Hokei Idzumi",
+   "explicit": true,
+   "evidence": "Mr Hokei Idzumi who gave helpful suggestions in the reading of the original text",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "quote_ok": true
+  },
+  {
+   "subject": "Daisetz Teitaro Suzuki",
+   "type": "collaborated_with",
+   "object": "Yenga Teramoto",
+   "explicit": true,
+   "evidence": "Professor Yenga Teramoto for his ungrudging cooperation along the line of Tibetan knowledge",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "quote_ok": true
+  }
+ ],
+ "author": null,
+ "docid": "Lankavatara (Suzuki)",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Monographien-Buddhismus/Lankavatara (Suzuki).pdf.txt",
+ "meta": {
+  "category": "Monographien-Buddhismus",
+  "pdf_pages": 146,
+  "script": "latin",
+  "kd_docid": "a6488917__Lankavatara_Suzuki"
+ },
+ "model": "claude:sonnet"
+}

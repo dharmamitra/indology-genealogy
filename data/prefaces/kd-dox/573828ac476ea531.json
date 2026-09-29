@@ -1,0 +1,45 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 1906,
+ "people": [
+  {
+   "name": "T. R. Krishnacharya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "T. R. Vyasacharya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "T. R. Krishnacharya",
+   "type": "collaborated_with",
+   "object": "T. R. Vyasacharya",
+   "role": "co-editors",
+   "place": "Kumbakonam",
+   "year_start": null,
+   "year_end": 1906,
+   "explicit": true,
+   "evidence": "EDITED BY T. R. KRISHNACHARYA & T. R. VYASACHARYA, Proprietors, Madhva Vilas Book Depot, Kumbakonam",
+   "quote_ok": false
+  }
+ ],
+ "docid": "mahaabhaarata_southern_aadi",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/mahaabhaarata_southern_aadi.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 418,
+  "script": "deva",
+  "kd_docid": "3450f8b4__mahaabhaarata_southern_aadi"
+ },
+ "model": "gemini-flash-latest"
+}

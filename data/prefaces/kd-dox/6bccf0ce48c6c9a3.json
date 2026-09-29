@@ -1,0 +1,89 @@
+{
+ "author": "K V Rangaswami Aiyangar",
+ "doc_kind": "text_edition",
+ "doc_year": 1944,
+ "people": [
+  {
+   "name": "K V Rangaswami Aiyangar",
+   "field": "Sanskrit / Dharmaśāstra",
+   "nationality": "Indian"
+  },
+  {
+   "name": "A N Krishna Aiyangar",
+   "field": "Sanskrit",
+   "nationality": "Indian"
+  },
+  {
+   "name": "T R Chintamani",
+   "field": "Sanskrit",
+   "nationality": "Indian"
+  },
+  {
+   "name": "B Bhattacharyya",
+   "field": "Sanskrit / Buddhist Studies",
+   "nationality": "Indian"
+  },
+  {
+   "name": "S Sankararama Sastri",
+   "field": "Sanskrit",
+   "nationality": "Indian"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "A N Krishna Aiyangar",
+   "type": "student_of",
+   "object": "K V Rangaswami Aiyangar",
+   "role": "pupil",
+   "explicit": true,
+   "evidence": "I have received more help than I can forget from my former pupil, Mr A N Krishna Atyangar, MA, LT, of the Adyar Library",
+   "quote_ok": true
+  },
+  {
+   "subject": "A N Krishna Aiyangar",
+   "type": "position_at",
+   "object": "Adyar Library",
+   "role": null,
+   "explicit": true,
+   "evidence": "my former pupil, Mr A N Krishna Atyangar, MA, LT, of the Adyar Library",
+   "quote_ok": true
+  },
+  {
+   "subject": "T R Chintamani",
+   "type": "position_at",
+   "object": "University of Madras",
+   "role": null,
+   "explicit": true,
+   "evidence": "I have benefited by the learning of Dr T R Chintamam, MA, PhD of the University of Madras",
+   "quote_ok": false
+  },
+  {
+   "subject": "B Bhattacharyya",
+   "type": "position_at",
+   "object": "Gaekwad's Oriental Series",
+   "role": "General Editor",
+   "explicit": true,
+   "evidence": "Rajyaratna, J#anayyoti, Dr B Bhattacharyya, MA, PhD the General Editor of the Gaekwads Oriental Series",
+   "quote_ok": true
+  },
+  {
+   "subject": "S Sankararama Sastri",
+   "type": "position_at",
+   "object": "Travancore University",
+   "role": "Pandit",
+   "explicit": true,
+   "evidence": "my former Pandit, S Sankararama Sastri, now of the Travan-core University",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Gṛhastha 2015.487491.krtyakalpataru-ii",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Kṛtyakalpataru/Gṛhastha 2015.487491.krtyakalpataru-ii.pdf.txt",
+ "meta": {
+  "category": "Kṛtyakalpataru",
+  "pdf_pages": 630,
+  "script": "latin",
+  "kd_docid": "c525afe8__Gṛhastha_2015_487491_krtyakalpataru-ii"
+ },
+ "model": "claude:sonnet"
+}

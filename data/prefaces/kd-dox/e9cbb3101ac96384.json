@@ -1,0 +1,88 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 1964,
+ "people": [
+  {
+   "name": "Bhogilal J. Sandesara",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Gujarati"
+  },
+  {
+   "name": "Ramanlal Nagarji Mehta",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Museology"
+  },
+  {
+   "name": "E. D. Kulkarni",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Bhogilal J. Sandesara",
+   "type": "collaborated_with",
+   "object": "Ramanlal Nagarji Mehta",
+   "role": "co-editor",
+   "place": null,
+   "year_start": 1964,
+   "year_end": 1964,
+   "explicit": true,
+   "evidence": "Bhogilal J. Sandesara... and Ramanlal Nagarji Mehta... Baroda B. J. Sandesara, R. N. Mehta",
+   "quote_ok": false
+  },
+  {
+   "subject": "Bhogilal J. Sandesara",
+   "type": "position_at",
+   "object": "M. S. University of Baroda",
+   "role": "Professor & Head of the Department of Gujarati",
+   "place": "Baroda",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor & Head of the Department of Gujarati, M. S. University of Baroda.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bhogilal J. Sandesara",
+   "type": "position_at",
+   "object": "Oriental Institute, Baroda",
+   "role": "Director",
+   "place": "Baroda",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Director, Oriental Institute, M. S. University of Baroda.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ramanlal Nagarji Mehta",
+   "type": "position_at",
+   "object": "M. S. University of Baroda",
+   "role": "Head, Department of Museology",
+   "place": "Baroda",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ramanlal Nagarji Mehta, Museology, Head, Department... M. S. University of Baroda.",
+   "quote_ok": false
+  }
+ ],
+ "docid": "mallapurana_full_colour_scan",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/mallpurana scan + ch 9 deva transcription/mallapurana_full_colour_scan.pdf.txt",
+ "meta": {
+  "category": "mallpurana scan + ch 9 deva transcription",
+  "pdf_pages": 141,
+  "script": "latin",
+  "kd_docid": "8664ba72__mallapurana_full_colour_scan"
+ },
+ "model": "gemini-flash-latest"
+}

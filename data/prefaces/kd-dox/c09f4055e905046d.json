@@ -1,0 +1,38 @@
+{
+ "author": "Alex Watson",
+ "doc_kind": "article",
+ "doc_year": 2018,
+ "people": [
+  {
+   "name": "Alex Watson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Alex Watson",
+   "type": "position_at",
+   "object": "Ashoka University",
+   "role": "Philosophy Department",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Alex Watson\n  Philosophy Department, Ashoka University\n  alex.watson@ashoka.edu.in",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Attention Watson",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Attention Watson.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 23,
+  "script": "latin",
+  "kd_docid": "afff3cc4__Attention_Watson"
+ },
+ "model": "gemini-flash-latest"
+}

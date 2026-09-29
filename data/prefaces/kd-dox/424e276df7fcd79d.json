@@ -1,0 +1,52 @@
+{
+ "author": "E. Senart",
+ "doc_kind": "text_edition",
+ "doc_year": 1882,
+ "people": [
+  {
+   "name": "E. Senart",
+   "nationality": "French",
+   "field": "Indology/Buddhist studies"
+  },
+  {
+   "name": "Burnouf",
+   "death_year": 1852,
+   "nationality": "French",
+   "field": "Indology/Buddhist studies"
+  },
+  {
+   "name": "Cowell",
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "E. Senart",
+   "type": "influenced_by",
+   "object": "Burnouf",
+   "explicit": true,
+   "evidence": "J'aime à mettre sous ses auspices un travail qui procède d'une des œuvres principales auxquelles sa gloire demeure attachée",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. Senart",
+   "type": "other",
+   "object": "Cowell",
+   "role": "friendship",
+   "explicit": true,
+   "evidence": "comme le suppose mon savant ami",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Mahavastu_vol1",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Mahavastu_vol1.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 666,
+  "script": "deva",
+  "kd_docid": "851f1aaa__Mahavastu_vol1"
+ },
+ "model": "claude:sonnet"
+}

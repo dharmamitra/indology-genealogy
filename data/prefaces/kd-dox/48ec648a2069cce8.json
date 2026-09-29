@@ -1,0 +1,45 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 2000,
+ "people": [
+  {
+   "name": "मुनिराजश्री भुवनविजयजीमहाराज",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Jain studies"
+  },
+  {
+   "name": "पूज्यपादाचार्यदेवश्रीमद्विजयमेघसूरीश्वर",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Jain studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "मुनिराजश्री भुवनविजयजीमहाराज",
+   "type": "student_of",
+   "object": "पूज्यपादाचार्यदेवश्रीमद्विजयमेघसूरीश्वर",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "पूज्यपादाचार्यदेवश्रीमद्विजयमेघसूरीश्वरशिष्यः भुवनविजयान्तेवासी",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Dravyalankaratika",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Buddhist/Dravyalankaratika.pdf.txt",
+ "meta": {
+  "category": "Buddhist",
+  "pdf_pages": 301,
+  "script": "deva",
+  "kd_docid": "8d451777__Dravyalankaratika"
+ },
+ "model": "gemini-flash-latest"
+}

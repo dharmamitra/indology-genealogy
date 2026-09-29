@@ -1,0 +1,114 @@
+{
+ "author": "A. Foucher",
+ "doc_kind": "monograph",
+ "doc_year": 1949,
+ "people": [
+  {
+   "name": "A. Foucher",
+   "birth_year": 1865,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Indology"
+  },
+  {
+   "name": "Abel Bergaigne",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Indology"
+  },
+  {
+   "name": "Venis",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "D.-B. Spooner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "Archaeology"
+  },
+  {
+   "name": "André Lalande",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "A. Foucher",
+   "type": "student_of",
+   "object": "Abel Bergaigne",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Je suis l’un des derniers survivants de ceux qui ont passé sous la direction d’Abel Bergaigne par la sévère, mais profitable discipline de son Manuel pour étudier la langue sanscrite.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Venis",
+   "type": "position_at",
+   "object": "Sanskrit College, Benares",
+   "role": "principal",
+   "place": "Benares",
+   "year_start": 1895,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "En visitant le « Sanskrit College » de Bénarès sous la conduite de son principal qui était alors M. le Prof. [Venis]",
+   "quote_ok": false
+  },
+  {
+   "subject": "D.-B. Spooner",
+   "type": "studied_at",
+   "object": "Sanskrit College, Benares",
+   "role": null,
+   "place": "Benares",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "passer la série des examens du « Sanskrit College »: je ne connais qu'un seul scholar — un Américain, le Dr D.-B. Spooner... qui ait eu le loisir et le courage d’accomplir ce véritable tour de force.",
+   "quote_ok": false
+  },
+  {
+   "subject": "D.-B. Spooner",
+   "type": "position_at",
+   "object": "Archaeological Survey of India",
+   "role": "Directeur p. i. du Service archéologique de l’Inde",
+   "place": "India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "mort prématurément comme Directeur p. i. du Service archéologique de l’Inde",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. Foucher",
+   "type": "influenced_by",
+   "object": "Venis",
+   "role": null,
+   "place": "Benares",
+   "year_start": 1895,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "C’est ici que M. le Prof. Venis vint à mon secours en me guidant à travers une littérature spéciale qu’il connaissait admirablement, et en m’apprenant pour commencer l’existence d’un petit livre classique... le Tarka-sangraha",
+   "quote_ok": false
+  }
+ ],
+ "docid": "A Foucher 1949 Le Compendium des Topiques (Tarka-Saṃgraha) d'Annambhaṭṭa",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/A Foucher 1949 Le Compendium des Topiques (Tarka-Saṃgraha) d'Annambhaṭṭa.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 99,
+  "script": "latin",
+  "kd_docid": "f0344e92__A_Foucher_1949_Le_Compendium_des_Topiques_Tarka-Saṃgraha_d_A"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,57 @@
+{
+ "author": "永井悠斗",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "永井悠斗",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indology"
+  },
+  {
+   "name": "Martina Palladino",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "永井悠斗",
+   "type": "studied_at",
+   "object": "筑波大学大学院",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "永井悠斗（筑波大学大学院）",
+   "quote_ok": true
+  },
+  {
+   "subject": "Martina Palladino",
+   "type": "studied_at",
+   "object": "University of Bologna",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 2017,
+   "explicit": true,
+   "evidence": "Palladino, Martina. 2017. “The Sun-Worshipping Śākadvīpīya Brāhmaṇas: An Analysis of Their History and Customs from Ancient Times to the Present.” Doctoral dissertation, University of Bologna.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "永井悠斗",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/02部会資料/01第1部会/永井悠斗.pdf.txt",
+ "meta": {
+  "category": "02部会資料",
+  "pdf_pages": 19,
+  "script": "cjk",
+  "kd_docid": "475e438b__永井悠斗"
+ },
+ "model": "gemini-flash-latest"
+}

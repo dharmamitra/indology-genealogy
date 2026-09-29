@@ -1,0 +1,90 @@
+{
+ "author": "Marco Franceschini",
+ "doc_kind": "text_edition",
+ "doc_year": 2010,
+ "people": [
+  {
+   "name": "Marco Franceschini",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Italian",
+   "field": "Indology"
+  },
+  {
+   "name": "Hari Narayana Bhat",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "Dominic Goodall",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Giuliano Boccali",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Italian",
+   "field": "Indology"
+  },
+  {
+   "name": "Alessandro Passi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Italian",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hari Narayana Bhat",
+   "type": "position_at",
+   "object": "École française d’Extrême-Orient",
+   "role": "paṇḍit",
+   "place": "Pondicherry",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hari Narayana Bhat, paṇḍit presso la sede di Pondicherry dell’École française d’Extrême-Orient (EFEO)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dominic Goodall",
+   "type": "position_at",
+   "object": "École française d’Extrême-Orient",
+   "role": "direttore",
+   "place": "Pondicherry",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dominic Goodall, direttore dell’EFEO di Pondicherry",
+   "quote_ok": true
+  },
+  {
+   "subject": "Marco Franceschini",
+   "type": "student_of",
+   "object": "Hari Narayana Bhat",
+   "role": "traditional teacher",
+   "place": "Pondicherry",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Hari Narayana Bhat, paṇḍit presso la sede di Pondicherry dell’École française d’Extrême-Orient (EFEO), che per sei mesi mi ha aiutato nella traduzione del poema",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Buddhaghoa._Padyacuamai._Il_diadema_d (1)",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/books/Buddhaghoa._Padyacuamai._Il_diadema_d (1).pdf.txt",
+ "meta": {
+  "category": "books",
+  "pdf_pages": 97,
+  "script": "latin",
+  "kd_docid": "5aac37bd__Buddhaghoa__Padyacuamai__Il_diadema_d_1"
+ },
+ "model": "gemini-flash-latest"
+}

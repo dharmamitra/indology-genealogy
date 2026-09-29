@@ -1,0 +1,64 @@
+{
+ "author": "Mrs. Rhys Davids",
+ "doc_kind": "text_edition",
+ "doc_year": 1935,
+ "people": [
+  {
+   "name": "E. M. Hare",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Mrs. Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "F. L. Woodward",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "E. M. Hare",
+   "type": "collaborated_with",
+   "object": "Mrs. Rhys Davids",
+   "role": "translator and introduction writer/editor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1935,
+   "explicit": true,
+   "evidence": "TRANSLATED BY E. M. HARE ... WITH AN INTRODUCTION BY MRS. RHYS DAVIDS, D.Litt., M.A.",
+   "quote_ok": true
+  },
+  {
+   "subject": "F. L. Woodward",
+   "type": "collaborated_with",
+   "object": "Mrs. Rhys Davids",
+   "role": "co-translators in translation series",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "And the MS. forming the last lap is, Mr. Woodward writes, already finished : the Gradual Sayings of the Tens and Elevens.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "PTS_Gradual_Sayings_IV",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/books/PTS_Gradual_Sayings_IV.pdf.txt",
+ "meta": {
+  "category": "books",
+  "pdf_pages": 163,
+  "script": "latin",
+  "kd_docid": "2823e5bd__PTS_Gradual_Sayings_IV"
+ },
+ "model": "gemini-flash-latest"
+}

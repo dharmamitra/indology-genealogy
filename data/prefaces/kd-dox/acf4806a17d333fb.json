@@ -1,0 +1,128 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 2004,
+ "people": [
+  {
+   "name": "Ernst Waldschmidt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Klaus Röhrborn",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Michael Schmidt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "J. Chung",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "A. Bock-Raming",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "S. Dietz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Klaus Wille",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Klaus Röhrborn",
+   "type": "collaborated_with",
+   "object": "Michael Schmidt",
+   "role": "editor with redactor",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": 2004,
+   "explicit": true,
+   "evidence": "Göttingen, im Juni 2004 Klaus Röhrborn (Herausgeber) Michael Schmidt (Redaktor)",
+   "quote_ok": false
+  },
+  {
+   "subject": "Michael Schmidt",
+   "type": "collaborated_with",
+   "object": "J. Chung",
+   "role": "contributors/co-workers",
+   "place": null,
+   "year_start": null,
+   "year_end": 2004,
+   "explicit": true,
+   "evidence": "Mitarbeiter an der 17. Lieferung Contributors to the 17th Fascicle Andreas Bock-Raming, Jin-il Chung, Michael Schmidt",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Schmidt",
+   "type": "collaborated_with",
+   "object": "A. Bock-Raming",
+   "role": "contributors/co-workers",
+   "place": null,
+   "year_start": null,
+   "year_end": 2004,
+   "explicit": true,
+   "evidence": "Mitarbeiter an der 17. Lieferung Contributors to the 17th Fascicle Andreas Bock-Raming, Jin-il Chung, Michael Schmidt",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. Bock-Raming",
+   "type": "influenced_by",
+   "object": "S. Dietz",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "pumrutaka - paurnamasi A. Bock-Raming; die Wortstrecke pumrutaka - pudgalavaradavarajña unter Verwendung von Arbeiten von S. Dietz",
+   "quote_ok": false
+  },
+  {
+   "subject": "Klaus Wille",
+   "type": "collaborated_with",
+   "object": "Michael Schmidt",
+   "role": "manuscript reading checker",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": 2004,
+   "explicit": true,
+   "evidence": "Dr. Klaus Wille (Göttingen) überprüfte Lesungen von Handschriften anhand von Fotos oder von Originalen",
+   "quote_ok": false
+  }
+ ],
+ "docid": "SWBTTF_17_para.catrumardin-",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/SWBTTF/SWBTTF_17_para.catrumardin-.pdf.txt",
+ "meta": {
+  "category": "SWBTTF",
+  "pdf_pages": 80,
+  "script": "latin",
+  "kd_docid": "7fb331c6__SWBTTF_17_para_catrumardin-"
+ },
+ "model": "gemini-flash-latest"
+}

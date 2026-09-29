@@ -1,0 +1,57 @@
+{
+ "author": "B. Fleming",
+ "doc_kind": "dissertation",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "B. Fleming",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Religious Studies"
+  },
+  {
+   "name": "Madhavi Kolhatkar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "B. Fleming",
+   "type": "studied_at",
+   "object": "McMaster University",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "PhD Thesis: B. Fleming - McMaster, Religious Studies",
+   "quote_ok": true
+  },
+  {
+   "subject": "Madhavi Kolhatkar",
+   "type": "position_at",
+   "object": "Deccan College",
+   "role": "Sanskrit scholar",
+   "place": "Pune",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Madhavi Kolhatkar, a Sanskrit scholar at the Deccan College in Pune",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Fleming-Dissertation",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Fleming-Dissertation.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 233,
+  "script": "latin",
+  "kd_docid": "ebbdb67e__Fleming-Dissertation"
+ },
+ "model": "gemini-flash-latest"
+}

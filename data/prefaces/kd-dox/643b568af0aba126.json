@@ -1,0 +1,121 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 1946,
+ "people": [
+  {
+   "name": "नारायण श्रीपाद सोन्तकके",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "चिन्तामणि गणेश काpartीकर",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "वैजनाथ काशिनाथ राजवाडे",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "गोविन्द भट फाटक",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Vedic studies"
+  },
+  {
+   "name": "करंबेलकर-भालचन्द्रशास्त्री",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Vedic studies"
+  },
+  {
+   "name": "परशुराम कृष्ण गोडे",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "नारायण श्रीपाद सोन्तकके",
+   "type": "collaborated_with",
+   "object": "चिन्तामणि गणेश काpartीकर",
+   "role": "co-editors",
+   "place": "Poona",
+   "year_start": null,
+   "year_end": 1946,
+   "explicit": true,
+   "evidence": "सोन्तक्के इत्युपाह्वः श्रीपादसूनुः नारायणशर्मा काशीकरोपाह्वः गणेशसूनुः चिन्तामणिशर्मा इत्येताभ्यां संपादितः",
+   "quote_ok": true
+  },
+  {
+   "subject": "वैजनाथ काशिनाथ राजवाडे",
+   "type": "position_at",
+   "object": "वैदिकसंशोधनमण्डल",
+   "role": "अध्यक्ष",
+   "place": "पुण्यपत्तन",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "अस्माकं वैदिकसंशोधनमण्डलस्याध्यक्षाः मि. वैजनाथ काशिनाथ राजवाडे-महोदयाः",
+   "quote_ok": true
+  },
+  {
+   "subject": "करंबेलकर-भालचन्द्रशास्त्री",
+   "type": "student_of",
+   "object": "गोविन्द भट फाटक",
+   "role": "student",
+   "place": "पुण्यपत्तन",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "वैदिकस्मार्तधर्माश्रमसंचालकैः वैकुण्ठवासि-गोविन्दभट्टफाटकमहाभागानां शिष्यवरैः",
+   "quote_ok": true
+  },
+  {
+   "subject": "परशुराम कृष्ण गोडे",
+   "type": "position_at",
+   "object": "भाण्डारकरप्राच्यविद्यासंशोधनमन्दिर",
+   "role": "ग्रन्थागाराध्यक्ष",
+   "place": "पुण्यपत्तन",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "पुण्यपत्तनस्थ-भाण्डारकरप्राच्यविद्यासंशोधनमन्दिरग्रन्थागाराध्यक्षैः श्रीमद्भिः परशुराम कृष्ण गोडे-महोदयैः",
+   "quote_ok": true
+  },
+  {
+   "subject": "नारायण श्रीपाद सोन्तकके",
+   "type": "position_at",
+   "object": "वैदिकसंशोधनमण्डल",
+   "role": "Secretary",
+   "place": "Poona",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Published by :—N. S. Sontakke, Secretary, Vaidika Saṁśodhana Maṇḍala",
+   "quote_ok": false
+  }
+ ],
+ "docid": "rgveda_iv",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/rgveda_iv.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 140,
+  "script": "deva",
+  "kd_docid": "63ca0eec__rgveda_iv"
+ },
+ "model": "gemini-flash-latest"
+}

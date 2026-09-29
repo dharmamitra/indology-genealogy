@@ -1,0 +1,102 @@
+{
+ "author": "赤松明彦",
+ "doc_kind": "article",
+ "doc_year": 2005,
+ "people": [
+  {
+   "name": "赤松明彦",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indology"
+  },
+  {
+   "name": "籾山明",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "井狩彌介",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indology"
+  },
+  {
+   "name": "荒牧典俊",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "冨谷至",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Sinology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "赤松明彦",
+   "type": "position_at",
+   "object": "京都大学大学院文学研究科",
+   "role": null,
+   "place": "Kyoto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "（京都大学大学院文学研究科）",
+   "quote_ok": true
+  },
+  {
+   "subject": "籾山明",
+   "type": "position_at",
+   "object": "埼玉大学",
+   "role": "教授",
+   "place": "Saitama",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "これらの木簡類を共に調査した籾山明教授（埼玉大学）",
+   "quote_ok": true
+  },
+  {
+   "subject": "赤松明彦",
+   "type": "collaborated_with",
+   "object": "籾山明",
+   "role": "joint research",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "この点は，これらの木簡類を共に調査した籾山明教授（埼玉大学）と共に何度も実際に確かめた。",
+   "quote_ok": true
+  },
+  {
+   "subject": "冨谷至",
+   "type": "position_at",
+   "object": "京都大学人文科学研究所",
+   "role": "教授",
+   "place": "Kyoto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "京都大学人文科学研究所の冨谷至教授",
+   "quote_ok": true
+  }
+ ],
+ "docid": "seinan-asia_063_1",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/seinan-asia_063_1.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 13,
+  "script": "cjk",
+  "kd_docid": "240274c5__seinan-asia_063_1"
+ },
+ "model": "gemini-flash-latest"
+}

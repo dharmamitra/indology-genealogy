@@ -1,0 +1,102 @@
+{
+ "author": "श्रीनारायण मिश्र",
+ "doc_kind": "text_edition",
+ "doc_year": 1985,
+ "people": [
+  {
+   "name": "श्रीनारायण मिश्र",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "रामप्रसाद त्रिपाठी",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "कालिकाप्रसाद शुक्ल",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Vyakarana"
+  },
+  {
+   "name": "द्वारिकादास शास्त्री",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "श्रीवत्साङ्काचार्य",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "श्रीनारायण मिश्र",
+   "type": "position_at",
+   "object": "Banaras Hindu University",
+   "role": "Reader in Sanskrit Department",
+   "place": "Varanasi",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "DR. SRINARAYANA MISRA Reader in Sanskrit Department, Faculty of Arts, Banaras Hindu University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "रामप्रसाद त्रिपाठी",
+   "type": "position_at",
+   "object": "सम्पूर्णानन्दसंस्कृतविश्वविद्यालय",
+   "role": "कुलपतिचर",
+   "place": "वाराणसी",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "रामप्रसाद त्रिपाठी ... कुलपति चरः सम्पूर्णानन्दसंस्कृत विश्वविद्यद्यालयस्य",
+   "quote_ok": true
+  },
+  {
+   "subject": "कालिकाप्रसाद शुक्ल",
+   "type": "position_at",
+   "object": "संस्कृतविश्वविद्यालय",
+   "role": "व्याकरणविभागाध्यक्षचर",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "संस्कृतविश्वविद्यालयीयव्याकरणविभागाध्यक्षचराः श्रीमन्तः कालिकाप्रसादशुक्लमहाशयाः",
+   "quote_ok": true
+  },
+  {
+   "subject": "द्वारिकादास शास्त्री",
+   "type": "collaborated_with",
+   "object": "कालिकाप्रसाद शुक्ल",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "अस्य ग्रन्थस्य सम्पादकाः श्रद्धेयाः संस्कृतविश्वविद्यालयीयव्याकरणविभागाध्यक्षचराः श्रीमन्तः कालिकाप्रसादशुक्लमहाशयाः श्रीमन्तो द्वारिकादासशास्त्रिमहोदयाश्च ।",
+   "quote_ok": true
+  }
+ ],
+ "docid": "kaazikaa_pt1",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/kaazikaa_pt1.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 318,
+  "script": "deva",
+  "kd_docid": "3688b3f4__kaazikaa_pt1"
+ },
+ "model": "gemini-flash-latest"
+}

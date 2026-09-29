@@ -1,0 +1,71 @@
+{
+ "author": "L. Finot",
+ "doc_kind": "text_edition",
+ "doc_year": 1901,
+ "people": [
+  {
+   "name": "L. Finot",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": null
+  },
+  {
+   "name": "C. Bendall",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "L. Feer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "d’Oldenburg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "L. Finot",
+   "type": "position_at",
+   "object": "École des Hautes Études Paris",
+   "role": "Directeur d’études adjoint",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": 1901,
+   "explicit": true,
+   "evidence": "DIRECTEUR D’ETUDES ADJOINT A L’#COLE DES HAUTES ETUDES PARIS",
+   "quote_ok": true
+  },
+  {
+   "subject": "L. Finot",
+   "type": "position_at",
+   "object": "École Française d'Extrême-Orient",
+   "role": "Directeur",
+   "place": null,
+   "year_start": null,
+   "year_end": 1901,
+   "explicit": true,
+   "evidence": "DIRECTEUR DE L’ECOLE FRANQAISE D’EXTREME-ORIENT.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Rastrapalapariprchasutra ed Finot",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Buddhist/Rastrapalapariprchasutra ed Finot.pdf.txt",
+ "meta": {
+  "category": "Buddhist",
+  "pdf_pages": 81,
+  "script": "deva",
+  "kd_docid": "6074b129__Rastrapalapariprchasutra_ed_Finot"
+ },
+ "model": "gemini-flash-latest"
+}

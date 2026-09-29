@@ -1,0 +1,57 @@
+{
+ "author": "पण्डितस्वामिराममिश्रशास्त्री",
+ "doc_kind": "text_edition",
+ "doc_year": 1900,
+ "people": [
+  {
+   "name": "पण्डितस्वामिराममिश्रशास्त्री",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "श्रीलक्ष्मणाचार्य",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "श्रीलक्ष्मणाचार्य",
+   "type": "position_at",
+   "object": "श्रीरामानुजपाठशाला",
+   "role": "अध्यापक",
+   "place": "मथुरा",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "साहाय्यं मथुरास्थश्रीरामानुजपाठशालाऽध्यापकस्य श्रीलक्ष्मणाचार्यस्य",
+   "quote_ok": true
+  },
+  {
+   "subject": "पण्डितस्वामिराममिश्रशास्त्री",
+   "type": "collaborated_with",
+   "object": "श्रीलक्ष्मणाचार्य",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "येन स्वहस्तलिखितं देवाक्षरपुस्तकं तेलङ्गाक्षरपुस्तकं च संप्रेष्यास्य ग्रन्थरत्नस्य मुद्रणे उपकारः साधु निरभिसंधितया समपादि",
+   "quote_ok": true
+  }
+ ],
+ "docid": "aagamapraamaanya_pandit_ed",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/primary_literature_vedaanta_scans/aagamapraamaanya_pandit_ed.pdf.txt",
+ "meta": {
+  "category": "primary_literature_vedaanta_scans",
+  "pdf_pages": 94,
+  "script": "deva",
+  "kd_docid": "95a9a52e__aagamapraamaanya_pandit_ed"
+ },
+ "model": "gemini-flash-latest"
+}

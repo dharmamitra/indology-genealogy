@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 1894,
+ "people": [
+  {
+   "name": "A. Mahadeva S'astri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "K. Rangacharya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "A. Mahadeva S'astri",
+   "type": "collaborated_with",
+   "object": "K. Rangacharya",
+   "role": "co-editors",
+   "place": "Mysore",
+   "year_start": null,
+   "year_end": 1894,
+   "explicit": true,
+   "evidence": "EDITED BY A. MAHA’DEVA S’A’STRI, ... AND K. RANGACHARYA",
+   "quote_ok": false
+  },
+  {
+   "subject": "A. Mahadeva S'astri",
+   "type": "position_at",
+   "object": "Government Oriental Library, Mysore",
+   "role": "Curator",
+   "place": "Mysore",
+   "year_start": null,
+   "year_end": 1894,
+   "explicit": true,
+   "evidence": "A. MAHA’DEVA S’A’STRI, Curator, Government Oriental Library",
+   "quote_ok": false
+  },
+  {
+   "subject": "K. Rangacharya",
+   "type": "position_at",
+   "object": "Government Oriental Library, Mysore",
+   "role": "Pandit",
+   "place": "Mysore",
+   "year_start": null,
+   "year_end": 1894,
+   "explicit": true,
+   "evidence": "K. RANGACHARYA, Pandit, Government Oriental Library, Mysore.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "taittiriya_samhita_bhaskara_01__1.1-1.3",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/texts-translations/Taittiriya-Samhita/TS_ed_Mysore/taittiriya_samhita_bhaskara_01__1.1-1.3.pdf.txt",
+ "meta": {
+  "category": "Tohoku",
+  "pdf_pages": 377,
+  "script": "deva",
+  "kd_docid": "4fee5cc4__taittiriya_samhita_bhaskara_01__1_1-1_3"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,140 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 1957,
+ "people": [
+  {
+   "name": "पद्मप्रसादोपाध्यायः",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Nyaya"
+  },
+  {
+   "name": "ढुण्ढिराजशास्त्री",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Nyaya"
+  },
+  {
+   "name": "गोपीनाथकविराज",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "राजेश्वरशास्त्री द्राविड",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Vedanta"
+  },
+  {
+   "name": "वामाचरणभट्टाचार्य",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Nyaya"
+  },
+  {
+   "name": "लक्ष्मणशास्त्री",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Nyaya"
+  },
+  {
+   "name": "विन्ध्येश्वरीप्रसादद्विवेदी",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "पद्मप्रसादोपाध्यायः",
+   "type": "collaborated_with",
+   "object": "ढुण्ढिराजशास्त्री",
+   "role": "co-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "सम्पादक न्यायाचायेः आ्रीपद्यप्रसादोपाध्यायः त्था न्यायाचार्यः आ्रीदुण्टिराजशाखरी",
+   "quote_ok": true
+  },
+  {
+   "subject": "पद्मप्रसादोपाध्यायः",
+   "type": "student_of",
+   "object": "वामाचरणभट्टाचार्य",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "अस्मद्गुरुवराणां महामहोपाध्यायानां श्रीवामाचरणभट्टाचार्याणामन्तिमान्तेवासिभिर्न्यायाचार्यश्रीपद्मप्रसादभट्टराईमहाशयैः",
+   "quote_ok": true
+  },
+  {
+   "subject": "पद्मप्रसादोपाध्यायः",
+   "type": "position_at",
+   "object": "राजकीयसंस्कृतमहाविद्यालय, काष्ठमण्डप (नेपाल)",
+   "role": null,
+   "place": "Kathmandu, Nepal",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "नेपालराजकीयकाष्ठमण्डपस्थितराजकीयसंस्कृतमहाविद्यालये प्राध्यापकपदे नियुक्त्या",
+   "quote_ok": true
+  },
+  {
+   "subject": "राजेश्वरशास्त्री द्राविड",
+   "type": "position_at",
+   "object": "काशीस्थवल्लभरामशालिग्रामसाङ्गवेदमहाविद्यालय",
+   "role": "अध्यक्ष (Principal/Head)",
+   "place": "Varanasi",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "पण्डितराजः श्रीराजेश्वरशास्त्री द्राविडः । काशीस्थवल्लभरामशालिग्रामसाङ्गवेदमहाविद्यालयाध्यक्षः",
+   "quote_ok": true
+  },
+  {
+   "subject": "गोपीनाथकविराज",
+   "type": "position_at",
+   "object": "Government Sanskrit College Banaras",
+   "role": null,
+   "place": "Banaras",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I had it published more than 35 years ago, from the Government Sanskrit College Banaras, as the first work of the Saraswati Bhavana Texts Series.",
+   "quote_ok": true
+  },
+  {
+   "subject": "विन्ध्येश्वरीप्रसादद्विवेदी",
+   "type": "position_at",
+   "object": "वारणसेयराजकीयसंस्कृतमहाविद्यालय",
+   "role": "पुस्तकाध्यक्ष (Librarian)",
+   "place": "Varanasi",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "भूतपूर्ववारणसेयराजकीयसंस्कृतमहाविद्यालयीयपुस्तकाध्यक्षैः स्वर्गीयविन्ध्येश्वरीप्रसादद्विवेदिमहोदयैः",
+   "quote_ok": true
+  }
+ ],
+ "docid": "nyaya_kusumanjali",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/nyaya_kusumanjali.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 578,
+  "script": "deva",
+  "kd_docid": "7e49dabb__nyaya_kusumanjali"
+ },
+ "model": "gemini-flash-latest"
+}

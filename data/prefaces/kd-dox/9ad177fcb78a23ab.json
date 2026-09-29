@@ -1,0 +1,75 @@
+{
+ "author": "Patrick Olivelle",
+ "doc_kind": "text_edition",
+ "doc_year": 2013,
+ "people": [
+  {
+   "name": "Patrick Olivelle",
+   "nationality": null,
+   "field": "Sanskrit / Indology"
+  },
+  {
+   "name": "Mark McClish",
+   "nationality": null,
+   "field": "Arthasastra studies"
+  },
+  {
+   "name": "Muneo Tokunaga",
+   "nationality": "Japanese",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Amy Hyne",
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Mark McClish",
+   "type": "student_of",
+   "object": "Patrick Olivelle",
+   "role": "doctoral student",
+   "explicit": true,
+   "evidence": "one of my students, Mark McClish, was doing his dissertation on the Arthasastra",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "quote_ok": true
+  },
+  {
+   "subject": "Amy Hyne",
+   "type": "student_of",
+   "object": "Patrick Olivelle",
+   "role": null,
+   "explicit": true,
+   "evidence": "My student Amy Hyne proofread the entire manuscript",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "quote_ok": true
+  },
+  {
+   "subject": "Muneo Tokunaga",
+   "type": "position_at",
+   "object": "University of Kyoto",
+   "role": null,
+   "explicit": true,
+   "evidence": "Muneo Tokunaga of the University of Kyoto; his electronic version of the Arthasastra was always by my side",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "quote_ok": true
+  }
+ ],
+ "docid": "King_Governance_And_Law_In_Ancient_India_Patrick_Olivelle_2013_Oxford",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/King_Governance_And_Law_In_Ancient_India_Patrick_Olivelle_2013_Oxford.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 796,
+  "script": "latin",
+  "kd_docid": "30478ba9__King_Governance_And_Law_In_Ancient_India_Patrick_Olivelle_20"
+ },
+ "model": "claude:sonnet"
+}

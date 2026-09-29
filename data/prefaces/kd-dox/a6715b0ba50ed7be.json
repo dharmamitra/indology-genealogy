@@ -1,0 +1,78 @@
+{
+ "author": "U Narada",
+ "doc_kind": "text_edition",
+ "doc_year": 1981,
+ "people": [
+  {
+   "name": "U Narada",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Burmese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Thein Nyun",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Burmese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "I. B. Horner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Ashin Thittila",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Burmese",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "C. A. F. Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Thein Nyun",
+   "type": "collaborated_with",
+   "object": "U Narada",
+   "role": "assistant",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A Translation by U NARADA MULA PATTHANA SAYADAW Aggamahapandita (of Rangoon) Originator of Abhidhamma Charts Assisted by THEIN NYUN",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thein Nyun",
+   "type": "collaborated_with",
+   "object": "U Narada",
+   "role": "assistant",
+   "place": null,
+   "year_start": null,
+   "year_end": 1979,
+   "explicit": true,
+   "evidence": "The preparation of the typescript and of most of the proof-reading have been done by U Narada and U Thein Nyun, his zealous assistant of many years’ standing.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "PTS_Conditional_Relations_II",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/books/PTS_Conditional_Relations_II.pdf.txt",
+ "meta": {
+  "category": "books",
+  "pdf_pages": 332,
+  "script": "latin",
+  "kd_docid": "845f81c3__PTS_Conditional_Relations_II"
+ },
+ "model": "gemini-flash-latest"
+}

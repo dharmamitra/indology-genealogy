@@ -1,0 +1,121 @@
+{
+ "author": "वामन",
+ "doc_kind": "text_edition",
+ "doc_year": 1921,
+ "people": [
+  {
+   "name": "वामन",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "केशव",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Vedic studies"
+  },
+  {
+   "name": "विरूपाक्ष",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Tantra"
+  },
+  {
+   "name": "वैद्यनाथ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Mīmāṃsā"
+  },
+  {
+   "name": "दत्तात्रेयशास्त्री निगुडकर",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Vyākaraṇa"
+  },
+  {
+   "name": "श्रीधरशास्त्री पाठक",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "वामन",
+   "type": "student_of",
+   "object": "केशव",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "स्वाध्यायं केशवायात्‌ , निगुडकरगुरोर्धीमतः शब्दशास्त्रं तन्त्रं योऽधीतवांस्तद्वुधकुलतिलकाच्छ्रीविरूपाक्षसूरेः । मीमांसां वैद्यनाथाच्चिरतरमपरीद्रामतः",
+   "quote_ok": true
+  },
+  {
+   "subject": "वामन",
+   "type": "student_of",
+   "object": "दत्तात्रेयशास्त्री निगुडकर",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "निगुडकरगुरोर्धीमतः शब्दशास्त्रं ... दत्तत्रेयशास्त्रिनिगुडकराख्यानां गुरुचरणानां",
+   "quote_ok": true
+  },
+  {
+   "subject": "वामन",
+   "type": "student_of",
+   "object": "विरूपाक्ष",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "तन्त्रं योऽधीतवांस्तद्वुधकुलतिलकाच्छ्रीविरूपाक्षसूरेः",
+   "quote_ok": true
+  },
+  {
+   "subject": "वामन",
+   "type": "student_of",
+   "object": "वैद्यनाथ",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "मीमांसां वैद्यनाथाच्चिरतरमपरीद्रामतः",
+   "quote_ok": true
+  },
+  {
+   "subject": "श्रीधरशास्त्री पाठक",
+   "type": "position_at",
+   "object": "Deccan College",
+   "role": "शास्त्राध्यापक",
+   "place": "Pune",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "डेक्कनकॉलेजस्थैः शास्त्राध्यापकैराचार्यैः श्रीधरशास्त्रिभिः पाठकमहोदयैर्व्यलेखि ग्रन्थस्यास्य प्रस्तावो",
+   "quote_ok": true
+  }
+ ],
+ "docid": "ASS_087_Agnihotrachandrika_of_Kinjawadekar_-_Kasinathsastri_Agase_1921",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/books_y/AnandasramaSS/ASS_087_Agnihotrachandrika_of_Kinjawadekar_-_Kasinathsastri_Agase_1921.pdf.txt",
+ "meta": {
+  "category": "Tohoku",
+  "pdf_pages": 283,
+  "script": "deva",
+  "kd_docid": "e5c964d8__ASS_087_Agnihotrachandrika_of_Kinjawadekar_-_Kasinathsastri_"
+ },
+ "model": "gemini-flash-latest"
+}

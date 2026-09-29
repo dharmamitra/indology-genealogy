@@ -1,0 +1,130 @@
+{
+ "author": "Naomichi Nakada",
+ "doc_kind": "text_edition",
+ "doc_year": 1978,
+ "people": [
+  {
+   "name": "Naomichi Nakada",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indology"
+  },
+  {
+   "name": "V. V. Gokhale",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "Hajime Nakamura",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Indology"
+  },
+  {
+   "name": "Muni Jambuvijaya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "Esther A. Solomon",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Wilhelm Halbfass",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "J. W. de Jong",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "R. C. Pandeya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "D. D. Kosambi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Naomichi Nakada",
+   "type": "student_of",
+   "object": "V. V. Gokhale",
+   "role": "doctoral supervisor",
+   "place": "Delhi University",
+   "year_start": 1958,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he started reading with me the important commentary, called Yuhtidipika on Isvarakrsna’s Samkhyakarika at the Fergusson College Library. When, in March 1959, I had to migrate to Delhi... Mr. Nakada also joined the Delhi University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Naomichi Nakada",
+   "type": "studied_at",
+   "object": "Delhi University",
+   "role": "PhD",
+   "place": "Delhi",
+   "year_start": 1959,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mr. Nakada also joined the Delhi University... One of these, viz., Samkhyavrtti (=SV), was made the nucleus of a doctorate-thesis by Nakada, which was accepted by the University of Delhi.",
+   "quote_ok": false
+  },
+  {
+   "subject": "V. V. Gokhale",
+   "type": "position_at",
+   "object": "Delhi University",
+   "role": null,
+   "place": "Delhi",
+   "year_start": 1959,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "When, in March 1959, I had to migrate to Delhi for running a new Department of Buddhist Studies opened there",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Halbfass",
+   "type": "position_at",
+   "object": "Pennsylvania",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "by Wilhelm Halbfass, Pennsylvania",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Samkhyavrtti_中田直道_ed",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Samkhyavrtti_中田直道_ed.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 96,
+  "script": "latin",
+  "kd_docid": "371090e7__Samkhyavrtti_中田直道_ed"
+ },
+ "model": "gemini-flash-latest"
+}

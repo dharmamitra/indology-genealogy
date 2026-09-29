@@ -1,0 +1,71 @@
+{
+ "author": "Atul C. Chatterjee",
+ "doc_kind": "text_edition",
+ "doc_year": 1928,
+ "people": [
+  {
+   "name": "Atul C. Chatterjee",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Charles Tawney",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "N. M. Penzer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Folklore"
+  },
+  {
+   "name": "Dr Barnett",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Atul C. Chatterjee",
+   "type": "student_of",
+   "object": "Charles Tawney",
+   "role": "teacher",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "As a pupil of Charles Tawney at Calcutta, it is gratifying to me to be associated in a humble manner with a work which will remain for ever a testimony to his erudition",
+   "quote_ok": true
+  },
+  {
+   "subject": "N. M. Penzer",
+   "type": "collaborated_with",
+   "object": "Dr Barnett",
+   "role": "contributor of translation and notes",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Somadeva's Epilogue is now given for the first time the translation and notes being the work of Dr Barnett.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "oceanofstorybein09somauoft_bw",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/texts-translations/Katha-sarit-sagara/Katha-sarit-sagara_tr_Tawney/oceanofstorybein09somauoft_bw.pdf.txt",
+ "meta": {
+  "category": "Tohoku",
+  "pdf_pages": 352,
+  "script": "latin",
+  "kd_docid": "3ac86c2d__oceanofstorybein09somauoft_bw"
+ },
+ "model": "gemini-flash-latest"
+}

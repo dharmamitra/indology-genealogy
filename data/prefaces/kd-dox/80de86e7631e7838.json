@@ -1,0 +1,62 @@
+{
+ "people": [
+  {
+   "name": "W. B. HENNING",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "G. HALOUN",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "E. G. Pulleyblank",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "W. B. HENNING",
+   "type": "collaborated_with",
+   "object": "G. HALOUN",
+   "role": "co-authors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "THE COMPENDIUM OF ‘THE DOCTRINES AND STYLES OF THE TEACHING OF MANI, THE BUDDHA OF LIGHT by tG. HALOUN and W. B. HENNING",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. G. Pulleyblank",
+   "type": "collaborated_with",
+   "object": "W. B. HENNING",
+   "role": "assisted with article preparation and interpretation of source",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. E. G. Pulleyblank, who also in other ways very kindly helped me with the preparation of this article, secured a copy of Mr. Ishida’s paper ... and interpreted its contents for my benefit.",
+   "quote_ok": true
+  }
+ ],
+ "author": null,
+ "docid": "1953-184",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Journals/AsiaMajor/1953-184.pdf.txt",
+ "meta": {
+  "category": "Journals",
+  "pdf_pages": 17,
+  "script": "latin",
+  "kd_docid": "7239ac94__1953-184"
+ },
+ "model": "gemini-flash-latest"
+}

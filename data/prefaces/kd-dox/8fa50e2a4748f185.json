@@ -1,0 +1,71 @@
+{
+ "author": "I. B. Horner",
+ "doc_kind": "text_edition",
+ "doc_year": 1968,
+ "people": [
+  {
+   "name": "I. B. Horner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "T. W. Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Mrs. Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ñāṇamoli Bhikkhu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Mrs. Rhys Davids",
+   "type": "other",
+   "object": "T. W. Rhys Davids",
+   "role": "husband",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mrs. Rhys Davids who naturally availed herself of her husband’s books when she was writing The Milinda-Questions",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ñāṇamoli Bhikkhu",
+   "type": "collaborated_with",
+   "object": "I. B. Horner",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Very valuable has been a typewritten “ Pali-English Technical Glossary... compiled by the late Nanamoli Bhikkhu and given to me by him a few years before he died. He also assisted me with two out-of-the-way subjects",
+   "quote_ok": true
+  }
+ ],
+ "docid": "PTS_Milinda's Questions I",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/books/PTS_Milinda's Questions I.pdf.txt",
+ "meta": {
+  "category": "books",
+  "pdf_pages": 182,
+  "script": "latin",
+  "kd_docid": "d76c0185__PTS_Milinda_s_Questions_I"
+ },
+ "model": "gemini-flash-latest"
+}

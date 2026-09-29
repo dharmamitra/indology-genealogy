@@ -1,0 +1,45 @@
+{
+ "author": "सत्कारिशर्मा",
+ "doc_kind": "text_edition",
+ "doc_year": 1970,
+ "people": [
+  {
+   "name": "सत्कारिशर्मा",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "श्रीरामचन्द्रशास्त्रा व्याकरणाचार्य",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Vyakarana"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "सत्कारिशर्मा",
+   "type": "student_of",
+   "object": "श्रीरामचन्द्रशास्त्रा व्याकरणाचार्य",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "अस्य पूर्वरूपसंशोधनादौ दत्तचित्तेभ्यो मदीयगुरुकल्पेभ्यः पं० श्रीरामचन्द्रशास्त्रिव्याकरणाचार्यमहोदयेभ्यो महतीं कृतवेदितां निवेदयामि ।",
+   "quote_ok": true
+  }
+ ],
+ "docid": "samkhyakarika_matharavrtti_jayamangala",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/samkhyakarika_matharavrtti_jayamangala.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 71,
+  "script": "deva",
+  "kd_docid": "000a5e03__samkhyakarika_matharavrtti_jayamangala"
+ },
+ "model": "gemini-flash-latest"
+}

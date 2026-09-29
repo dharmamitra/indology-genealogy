@@ -1,0 +1,102 @@
+{
+ "author": "James A. Hijiya",
+ "doc_kind": "article",
+ "doc_year": 2000,
+ "people": [
+  {
+   "name": "James A. Hijiya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "History"
+  },
+  {
+   "name": "Arthur Ryder",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "J. Robert Oppenheimer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Physics"
+  },
+  {
+   "name": "Peter M. Scharf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Classics"
+  },
+  {
+   "name": "Roy W. Perrett",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James A. Hijiya",
+   "type": "position_at",
+   "object": "University of Massachusetts Dartmouth",
+   "role": "Professor of History",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "JAMES A. HIJIYA\n  Professor of History, University of Massachusetts Dartmouth",
+   "quote_ok": true
+  },
+  {
+   "subject": "J. Robert Oppenheimer",
+   "type": "student_of",
+   "object": "Arthur Ryder",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "So it was for Ryder's student, Oppenheimer.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter M. Scharf",
+   "type": "position_at",
+   "object": "Brown University",
+   "role": "classics department",
+   "place": "Providence, R.I.",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Peter M. Scharf, classics department, Brown University, Providence, R.I.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Roy W. Perrett",
+   "type": "position_at",
+   "object": "Massey University",
+   "role": "philosophy department",
+   "place": "Palmerston North, N.Z.",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Roy W. Perrett, philosophy department, Massey University, Palmerston North, N.Z.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "10.2307@1515629",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/10.2307@1515629.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 46,
+  "script": "latin",
+  "kd_docid": "3333d02e__10_2307_1515629"
+ },
+ "model": "gemini-flash-latest"
+}

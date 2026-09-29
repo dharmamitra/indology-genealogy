@@ -1,0 +1,64 @@
+{
+ "author": "Edward Conze",
+ "doc_kind": "text_edition",
+ "doc_year": 1975,
+ "people": [
+  {
+   "name": "Edward Conze",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "G. Tucci",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "L. Lancaster",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "L. Lancaster",
+   "type": "position_at",
+   "object": "University of California, Berkeley",
+   "role": "Professor",
+   "place": "Berkeley",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "my friend Professor L. Lancaster of the University of California, Berkeley.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Conze",
+   "type": "other",
+   "object": "L. Lancaster",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "my friend Professor L. Lancaster of the University of California, Berkeley.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "The_Large_Sutra_On_Perfect_Wisdom,Conze,1975",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/The_Large_Sutra_On_Perfect_Wisdom,Conze,1975.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 689,
+  "script": "latin",
+  "kd_docid": "92cd89f0__The_Large_Sutra_On_Perfect_Wisdom_Conze_1975"
+ },
+ "model": "gemini-flash-latest"
+}

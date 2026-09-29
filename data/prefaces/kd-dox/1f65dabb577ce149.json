@@ -1,0 +1,49 @@
+{
+ "author": "Daisetz Teitaro Suzuki",
+ "doc_kind": "text_edition",
+ "doc_year": 1934,
+ "people": [
+  {
+   "name": "Daisetz Teitaro Suzuki",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Hokei Tozumi",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Yenga Teramoto",
+   "field": "Tibetan"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Daisetz Teitaro Suzuki",
+   "type": "collaborated_with",
+   "object": "Hokei Tozumi",
+   "role": "assisted with Sanskrit",
+   "explicit": true,
+   "evidence": "The compilation of the present work has been very much expedited by the kind help of Professor Hokei Tdzumi in the Sanskrit",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daisetz Teitaro Suzuki",
+   "type": "collaborated_with",
+   "object": "Yenga Teramoto",
+   "role": "assisted with Tibetan",
+   "explicit": true,
+   "evidence": "and of Professor Yenga Teramoto in the Tibetan, and this fact is gratefully appreciated by the compiler",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Lankavatara_Sanskrit.Chinese.Tibetan.Index,1934,rescanned_40",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Monographien-Buddhismus/Lankavatara_Sanskrit.Chinese.Tibetan.Index,1934,rescanned_40.pdf.txt",
+ "meta": {
+  "category": "Monographien-Buddhismus",
+  "pdf_pages": 489,
+  "script": "latin",
+  "kd_docid": "5289aa39__Lankavatara_Sanskrit_Chinese_Tibetan_Index_1934_rescanned_40"
+ },
+ "model": "claude:sonnet"
+}

@@ -1,0 +1,49 @@
+{
+ "author": "Richard Gombrich",
+ "doc_kind": "article",
+ "doc_year": 1992,
+ "people": [
+  {
+   "name": "Richard Gombrich"
+  },
+  {
+   "name": "Roy Norman"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Richard Gombrich",
+   "type": "position_at",
+   "object": "Oxford University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Oxford University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Gombrich",
+   "type": "student_of",
+   "object": "Roy Norman",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1974,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "guiding a great deal of my work since he first taught me in 1974.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "gombrich_buddha_genesis",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/gombrich_buddha_genesis.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 20,
+  "script": "latin",
+  "kd_docid": "7713a8c0__gombrich_buddha_genesis"
+ },
+ "model": "gemini-flash-latest"
+}

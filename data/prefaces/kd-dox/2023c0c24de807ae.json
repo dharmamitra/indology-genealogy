@@ -1,0 +1,52 @@
+{
+ "author": "N. A. Jayawickrama",
+ "doc_kind": "text_edition",
+ "doc_year": 1979,
+ "people": [
+  {
+   "name": "N. A. Jayawickrama",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Sri Lankan",
+   "field": "Indology"
+  },
+  {
+   "name": "B. C. Law",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Mrs. Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Mrs. Rhys Davids",
+   "type": "collaborated_with",
+   "object": "B. C. Law",
+   "role": "editor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1940,
+   "explicit": true,
+   "evidence": "The preface claims that the book was kindly edited for Dr. Law by Mrs. Rhys Davids.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Kv-a",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Editions Series/Kv-a.pdf.txt",
+ "meta": {
+  "category": "Editions Series",
+  "pdf_pages": 251,
+  "script": "latin",
+  "kd_docid": "d4133104__Kv-a"
+ },
+ "model": "gemini-flash-latest"
+}

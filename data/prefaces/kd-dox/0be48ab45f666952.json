@@ -1,0 +1,64 @@
+{
+ "author": "Soma Thera",
+ "doc_kind": "text_edition",
+ "doc_year": 1981,
+ "people": [
+  {
+   "name": "Hikkaduve Siri Sumangala Nayaka Thera",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Sri Lankan",
+   "field": null
+  },
+  {
+   "name": "Moncure D. Conway",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ponnambalam Ramanathan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Sri Lankan",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hikkaduve Siri Sumangala Nayaka Thera",
+   "type": "founded",
+   "object": "Vidyodaya Pirivena",
+   "role": null,
+   "place": "Colombo",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Conway went to the Vidyodaya Pirivena to learn something of the Buddha's teaching from Hikkaduve Siri Sumangala Nayaka Thera, the founder of the institution.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Moncure D. Conway",
+   "type": "other",
+   "object": "Ponnambalam Ramanathan",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a friend of Ponnambalam Ramanathan (then Solicitor General of Ceylon)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "an140925",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/books/an140925.pdf.txt",
+ "meta": {
+  "category": "books",
+  "pdf_pages": 12,
+  "script": "latin",
+  "kd_docid": "b76fce69__an140925"
+ },
+ "model": "gemini-flash-latest"
+}

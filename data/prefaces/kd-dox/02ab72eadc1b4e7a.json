@@ -1,0 +1,70 @@
+{
+ "author": "Franklin Edgerton",
+ "doc_kind": "text_edition",
+ "doc_year": 1930,
+ "people": [
+  {
+   "name": "Franklin Edgerton",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "J. Hertel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Franklin Edgerton",
+   "type": "position_at",
+   "object": "Yale University",
+   "role": "Professor of Sanskrit and Comparative Philology",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "EDITED WITH AN INTRODUCTION BY FRANKLIN EDGERTON Professor of Sanskrit and Comparative Philology in Yale University; US. A,",
+   "quote_ok": true,
+   "page": 2,
+   "gloss_en": null
+  },
+  {
+   "subject": "Franklin Edgerton",
+   "type": "other",
+   "object": "J. Hertel",
+   "role": "opponent in a scholarly controversy (rejects Hertel's Kashmir-origin theory)",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "There is no basis whatever for the theory advanced by a German scholar, J. Hertel, that it was composed in Kashmir.",
+   "quote_ok": true,
+   "page": 6,
+   "gloss_en": null
+  }
+ ],
+ "docid": "2015.326605.The-Panchatantra",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/2015.326605.The-Panchatantra.pdf.txt",
+ "meta": {
+  "title": "The Pañcatantra",
+  "author": "Franklin Edgerton",
+  "year": 1930,
+  "language": "English",
+  "kd_docid": "14c58101__2015_326605_The-Panchatantra",
+  "category": "(root)",
+  "pdf_pages": 129,
+  "dissertation": null,
+  "preface_signed": {
+   "place": null,
+   "date_text": null,
+   "year": null
+  }
+ },
+ "model": "claude:sonnet (kd pass 1)"
+}

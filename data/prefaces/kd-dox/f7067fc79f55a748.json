@@ -1,0 +1,57 @@
+{
+ "author": "A. K. Warder",
+ "doc_kind": "monograph",
+ "doc_year": 1972,
+ "people": [
+  {
+   "name": "A. K. Warder",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "M. Krishnamachariar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "A. K. Warder",
+   "type": "position_at",
+   "object": "University of Edinburgh",
+   "role": null,
+   "place": "Edinburgh",
+   "year_start": 1955,
+   "year_end": 1956,
+   "explicit": true,
+   "evidence": "the card index grew into lecture notes for a course given first in +1955 to 56 in the University of Edinburgh.",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. K. Warder",
+   "type": "influenced_by",
+   "object": "M. Krishnamachariar",
+   "role": null,
+   "place": null,
+   "year_start": 1949,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Above all he was inspired as well as led by the Histery of Classical Sanskrit Literature of Dr. M. Krishnamachariar",
+   "quote_ok": true
+  }
+ ],
+ "docid": "warder_kaavya_literature_vol1",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/warder_kaavya_literature_vol1.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 144,
+  "script": "latin",
+  "kd_docid": "eedd9f22__warder_kaavya_literature_vol1"
+ },
+ "model": "gemini-flash-latest"
+}

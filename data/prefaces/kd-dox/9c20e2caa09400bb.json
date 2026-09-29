@@ -1,0 +1,64 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 2006,
+ "people": [
+  {
+   "name": "Trulshik Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Chökyi Nyima Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Tibetan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Thomas Doctor",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Thomas Doctor",
+   "type": "student_of",
+   "object": "Chökyi Nyima Rinpoche",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "These English translations were prepared under the auspices of the Dharmachakra Translation Committee. They were produced by a group of translators headed by my student, Thomas Doctor",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chökyi Nyima Rinpoche",
+   "type": "position_at",
+   "object": "Dharmachakra Translation Committee",
+   "role": "President",
+   "place": "Boudhanath, Kathmandu, Nepal",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Chökyi Nyima Rinpoche, President Dharmachakra Translation Committee P.O. Box 21277, Boudhanath, Kathmandu, Nepal",
+   "quote_ok": true
+  }
+ ],
+ "docid": "xz-36153",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/books/xz-36153.pdf.txt",
+ "meta": {
+  "category": "books",
+  "pdf_pages": 215,
+  "script": "latin",
+  "kd_docid": "a8a6414e__xz-36153"
+ },
+ "model": "gemini-flash-latest"
+}

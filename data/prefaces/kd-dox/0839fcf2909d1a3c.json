@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "monograph",
+ "doc_year": 1907,
+ "people": [
+  {
+   "name": "W. Caland",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "V. Henry",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "M. Barth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "W. Caland",
+   "type": "position_at",
+   "object": "Université d'Utrecht",
+   "role": "professeur",
+   "place": "Utrecht",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "W. CALAND Professeur à l'Université d'Utrecht",
+   "quote_ok": false
+  },
+  {
+   "subject": "V. Henry",
+   "type": "position_at",
+   "object": "Université de Paris",
+   "role": "professeur",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "V. HENRY Professeur à l'Université de Paris",
+   "quote_ok": false
+  },
+  {
+   "subject": "W. Caland",
+   "type": "collaborated_with",
+   "object": "V. Henry",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": 1907,
+   "explicit": true,
+   "evidence": "W. CALAND... V. HENRY... Utrecht et Paris. Février 1907. W. C. V. H.",
+   "quote_ok": false
+  },
+  {
+   "subject": "W. Caland",
+   "type": "influenced_by",
+   "object": "M. Barth",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "D’un bout à l'autre de notre travail, les encouragements, les critiques et les conseils du grand indianiste nous ont suivis, avertis, soutenus, fortifiés",
+   "quote_ok": false
+  },
+  {
+   "subject": "V. Henry",
+   "type": "influenced_by",
+   "object": "M. Barth",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "D’un bout à l'autre de notre travail, les encouragements, les critiques et les conseils du grand indianiste nous ont suivis, avertis, soutenus, fortifiés",
+   "quote_ok": false
+  }
+ ],
+ "docid": "LAgnistoma_2-1",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/books_g/Caland/LAgnistoma/photocopy/original/LAgnistoma_2-1.pdf.txt",
+ "meta": {
+  "category": "Tohoku",
+  "pdf_pages": 7,
+  "script": "latin",
+  "kd_docid": "e2ca26db__LAgnistoma_2-1"
+ },
+ "model": "gemini-flash-latest"
+}

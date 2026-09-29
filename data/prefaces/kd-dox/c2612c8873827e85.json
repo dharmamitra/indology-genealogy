@@ -1,0 +1,76 @@
+{
+ "author": "श्रीनारायणमिश्र",
+ "doc_kind": "text_edition",
+ "doc_year": 1985,
+ "people": [
+  {
+   "name": "श्रीनारायणमिश्र",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "आर्य्येन्द्रशर्मन्",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "करुणापति त्रिपाठी",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "श्रीनारायणमिश्र",
+   "type": "position_at",
+   "object": "काशीहिन्दूविश्वविद्यालय",
+   "role": "Reader (प्राध्यापक)",
+   "place": "वाराणसी",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "संपादकः Sto श्रीनारायणमिष्नः प्राव्यापकः कागोहिन्दूविश्ववियाल्योयपस्ृतविभागत्यः",
+   "quote_ok": true
+  },
+  {
+   "subject": "श्रीनारायणमिश्र",
+   "type": "influenced_by",
+   "object": "आर्य्येन्द्रशर्मन्",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "मूलवृत्तौ यानि वैदिकोदाहरणप्रत्युदाहरणानि तेषां संशोधनं विहितमार्येन्द्रशम॑सम्पादितकाशिकापाठानुसारेणेति",
+   "quote_ok": true
+  },
+  {
+   "subject": "करुणापति त्रिपाठी",
+   "type": "position_at",
+   "object": "सम्पूर्णानन्दसंस्कृतविश्वविद्यालय",
+   "role": "उपकुलपतिचर (former Vice-Chancellor)",
+   "place": "वाराणसी",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "सम्पूर्णानन्दसंस्कृतविश्वविद्याल्योपकुलपतिचराणां परमादरणीयानां श्रीमतां करुणापतित्रिपाठिमहाभागानाम्",
+   "quote_ok": true
+  }
+ ],
+ "docid": "kaazikaa_pt6",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/kaazikaa_pt6.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 328,
+  "script": "deva",
+  "kd_docid": "815a6427__kaazikaa_pt6"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,57 @@
+{
+ "author": "辻直四郎",
+ "doc_kind": "text_edition",
+ "doc_year": 1970,
+ "people": [
+  {
+   "name": "辻直四郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indology"
+  },
+  {
+   "name": "大野俊一",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "辻直四郎",
+   "type": "other",
+   "object": "大野俊一",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "「インド文明の曙」の場合と同じく、この本が世に出たのは、岩波書店の旧友大野俊一君の熱心な勧奨による。",
+   "quote_ok": true
+  },
+  {
+   "subject": "大野俊一",
+   "type": "position_at",
+   "object": "岩波書店",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "岩波書店の旧友大野俊一君の熱心な勧奨による。",
+   "quote_ok": true
+  }
+ ],
+ "docid": "辻直四郎訳：リグ・ヴェーダ讃歌",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/books_g/Tsuji_Naoshiro/辻直四郎訳：リグ・ヴェーダ讃歌.pdf.txt",
+ "meta": {
+  "category": "Tohoku",
+  "pdf_pages": 194,
+  "script": "cjk",
+  "kd_docid": "af7efbb1__辻直四郎訳_リグ_ヴェーダ讃歌"
+ },
+ "model": "gemini-flash-latest"
+}

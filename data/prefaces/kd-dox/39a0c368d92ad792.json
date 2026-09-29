@@ -1,0 +1,90 @@
+{
+ "author": "C. Kunhan Raja",
+ "doc_kind": "text_edition",
+ "doc_year": 1936,
+ "people": [
+  {
+   "name": "C. Kunhan Raja",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "S. K. Ramanatha Sastri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "S. Kuppuswami Sastri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ramakrishna Kavi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ganganath Jha",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "C. Kunhan Raja",
+   "type": "position_at",
+   "object": "University of Madras",
+   "role": "Head of the Department of Sanskrit / Reader in Sanskrit",
+   "place": "Madras",
+   "year_start": null,
+   "year_end": 1936,
+   "explicit": true,
+   "evidence": "General Editor: Dr. C. KUNHAN RAJA, Head of the Department of Sanskrit. ... C. KUNHAN RAJA, Reader in Sanskrit, University of Madras. 4th September, 1936.",
+   "quote_ok": false
+  },
+  {
+   "subject": "S. K. Ramanatha Sastri",
+   "type": "position_at",
+   "object": "University of Madras",
+   "role": "Junior Lecturer in Sanskrit",
+   "place": "Madras",
+   "year_start": null,
+   "year_end": 1936,
+   "explicit": true,
+   "evidence": "EDITED BY S. K. RAMANATHA SASTRI, Junior Lecturer in Sanskrit, University of Madras.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ramakrishna Kavi",
+   "type": "collaborated_with",
+   "object": "S. K. Ramanatha Sastri",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In some loose sheets collected by Mr. Ramakrishna Kavi and Mr. S. K. Ramanatha Sastri, some portions of the Brhati for the seventh and the eighth Adhyayas have been found.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "brhati_madras",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/brhati_madras.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 201,
+  "script": "deva",
+  "kd_docid": "983970af__brhati_madras"
+ },
+ "model": "gemini-flash-latest"
+}

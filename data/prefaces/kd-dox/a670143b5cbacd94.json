@@ -1,0 +1,64 @@
+{
+ "author": "Lambert Schmithausen",
+ "doc_kind": "journal_volume",
+ "doc_year": 1971,
+ "people": [
+  {
+   "name": "Lambert Schmithausen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "E. Frauwallner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "G. Oberhammer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "E. Frauwallner",
+   "type": "collaborated_with",
+   "object": "G. Oberhammer",
+   "role": "co-editor",
+   "place": "Wien",
+   "year_start": 1971,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "herausgegeben von E. FRAUWALLNER UND G. OBERHAMMER",
+   "quote_ok": false
+  },
+  {
+   "subject": "G. Oberhammer",
+   "type": "position_at",
+   "object": "Indologisches Institut der Universität Wien",
+   "role": "Prof. Dr.",
+   "place": "Wien",
+   "year_start": 1971,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Redaktion : Prof . Dr G. Oberhammer. Indologisches Institut der Universitiit Wien.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "schmithausen_1971",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/schmithausen_collection/schmithausen_1971.pdf.txt",
+ "meta": {
+  "category": "schmithausen_collection",
+  "pdf_pages": 30,
+  "script": "latin",
+  "kd_docid": "68a1ae19__schmithausen_1971"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,95 @@
+{
+ "author": "松本史朗",
+ "doc_kind": "article",
+ "doc_year": 1980,
+ "people": [
+  {
+   "name": "松本史朗",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "山口瑞鳳",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Tibetology"
+  },
+  {
+   "name": "上杉隆英",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "沖和史",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "松本史朗",
+   "type": "studied_at",
+   "object": "東京大学大学院",
+   "role": "博士課程",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "(まつもとしろう･重点大学大学院博士課程)",
+   "quote_ok": true
+  },
+  {
+   "subject": "松本史朗",
+   "type": "student_of",
+   "object": "山口瑞鳳",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "本稿執筆に際し,チベット文の読解において御教示を頂いた山口瑞鳳博士",
+   "quote_ok": true
+  },
+  {
+   "subject": "上杉隆英",
+   "type": "studied_at",
+   "object": "駒沢大学大学院",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "駒沢大学大学院の上杉隆英氏",
+   "quote_ok": true
+  },
+  {
+   "subject": "松本史朗",
+   "type": "influenced_by",
+   "object": "沖和史",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "筆者はPPUのこの個所を論じた沖和史氏の論故に多大な酵発を受けた｡",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Matsumoto Ratnakara 1980 81041",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Matsumoto Ratnakara 1980 81041.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 29,
+  "script": "cjk",
+  "kd_docid": "820e15ec__Matsumoto_Ratnakara_1980_81041"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,150 @@
+{
+ "people": [
+  {
+   "name": "Heinz Bechert",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Michael Schmidt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Ernst Waldschmidt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "J. Chung",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "S. Dietz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Lambert Schmithausen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Klaus Wille",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Heinz Bechert",
+   "type": "collaborated_with",
+   "object": "Michael Schmidt",
+   "role": "editor",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": 2000,
+   "explicit": true,
+   "evidence": "Göttingen, im August 2000 Heinz Bechert (Herausgeber) Michael Schmidt (Redaktor)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Schmidt",
+   "type": "collaborated_with",
+   "object": "J. Chung",
+   "role": "co-contributor",
+   "place": null,
+   "year_start": null,
+   "year_end": 2001,
+   "explicit": true,
+   "evidence": "Mitarbeiter an der 13. Lieferung Contributors to the 13th Fascicle J. Chung, S. Dietz, M. Schmidt",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Schmidt",
+   "type": "collaborated_with",
+   "object": "S. Dietz",
+   "role": "co-contributor",
+   "place": null,
+   "year_start": null,
+   "year_end": 2001,
+   "explicit": true,
+   "evidence": "Mitarbeiter an der 13. Lieferung Contributors to the 13th Fascicle J. Chung, S. Dietz, M. Schmidt",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lambert Schmithausen",
+   "type": "position_at",
+   "object": "Hamburg",
+   "role": "Professor",
+   "place": "Hamburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Durch Ratschläge und Hinweise hat Professor Lambert Schmithausen (Hamburg) die Arbeit gefördert.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Klaus Wille",
+   "type": "position_at",
+   "object": "Göttingen",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Klaus Wille (Göttingen) überprüfte Lesungen der Handschriften anhand von Fotos oder von Originalen (teilweise in Berlin).",
+   "quote_ok": false
+  },
+  {
+   "subject": "Klaus Wille",
+   "type": "collaborated_with",
+   "object": "Heinz Bechert",
+   "role": "cataloguer / editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Teil IX: Die Katalognummern 2000 ... Herausgegeben von H. Bechert. Beschrieben von K. Wille.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Waldschmidt",
+   "type": "founded",
+   "object": "Sanskrit-Wörterbuch der buddhistischen Texte aus den Turfan-Funden",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sanskrit-Wörterbuch der buddhistischen Texte aus den Turfan-Funden ... Begonnen von Ernst Waldschmidt",
+   "quote_ok": true
+  }
+ ],
+ "author": null,
+ "docid": "SWBTTF_13_jvalana-",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/SWBTTF/SWBTTF_13_jvalana-.pdf.txt",
+ "meta": {
+  "category": "SWBTTF",
+  "pdf_pages": 82,
+  "script": "latin",
+  "kd_docid": "e2f1b93d__SWBTTF_13_jvalana-"
+ },
+ "model": "gemini-flash-latest"
+}

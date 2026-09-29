@@ -1,0 +1,83 @@
+{
+ "author": "Musashi Tachikawa",
+ "doc_kind": "article",
+ "doc_year": 1971,
+ "people": [
+  {
+   "name": "Musashi Tachikawa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "M. Nagatomi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "D. Ingalls",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "H. Kitagawa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Musashi Tachikawa",
+   "type": "student_of",
+   "object": "M. Nagatomi",
+   "role": "teacher",
+   "place": "Harvard University",
+   "year_start": 1967,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In the fall of 1967 I had a chance to read the Nydyapravesa under Professor M. Nagatomi at Harvard University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "M. Nagatomi",
+   "type": "position_at",
+   "object": "Harvard University",
+   "role": "Professor",
+   "place": null,
+   "year_start": 1967,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor M. Nagatomi at Harvard University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "D. Ingalls",
+   "type": "position_at",
+   "object": "Harvard University",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor D. Ingalls at the same university kindly read my translation and gave me suggestions.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "JIP-01-2-111",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/From Silk/Journals/JIP-unfiled/JIP-01-2-111.pdf.txt",
+ "meta": {
+  "category": "From Silk",
+  "pdf_pages": 34,
+  "script": "latin",
+  "kd_docid": "8537b0f4__JIP-01-2-111"
+ },
+ "model": "gemini-flash-latest"
+}

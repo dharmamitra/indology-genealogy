@@ -1,0 +1,140 @@
+{
+ "author": "Edward Conze",
+ "doc_kind": "text_edition",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Edward Conze",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Giuseppe Tucci",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Th. Stcherbatsky",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "E. Obermiller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "U. Wogihara",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "R. Mitra",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "P. Ghosa",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "N. Dutt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Edward Conze",
+   "type": "position_at",
+   "object": "Serie Orientale Roma",
+   "role": "director (co-director with Giuseppe Tucci)",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "SOTTO LA DIREZIONE DI EDWARD CONZE GIUSEPPE TUCCI",
+   "quote_ok": true,
+   "page": 1,
+   "gloss_en": "Under the direction of Edward Conze and Giuseppe Tucci"
+  },
+  {
+   "subject": "Giuseppe Tucci",
+   "type": "position_at",
+   "object": "Serie Orientale Roma",
+   "role": "director (co-director with Edward Conze)",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "SOTTO LA DIREZIONE DI EDWARD CONZE GIUSEPPE TUCCI",
+   "quote_ok": true,
+   "page": 1,
+   "gloss_en": "Under the direction of Edward Conze and Giuseppe Tucci"
+  },
+  {
+   "subject": "Th. Stcherbatsky",
+   "type": "collaborated_with",
+   "object": "E. Obermiller",
+   "role": null,
+   "place": null,
+   "year_start": 1929,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The sanskrit text has been printed three times, by Steherbatsky and Obermnillcr",
+   "quote_ok": true,
+   "page": 5,
+   "gloss_en": "The Sanskrit text was printed by Stcherbatsky and Obermiller among others"
+  },
+  {
+   "subject": "Edward Conze",
+   "type": "other",
+   "object": "E. Obermiller",
+   "role": "relied on published analysis of Haribhadra's commentary",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the interpretation of this commentary is, again, greatly assisted by the analysis which E. Obermiller has given of it, and which owes a great deal to the Tibetan commentators",
+   "quote_ok": false,
+   "page": 6,
+   "gloss_en": "Conze's interpretation of Haribhadra's commentary was assisted by Obermiller's published analysis"
+  }
+ ],
+ "docid": "Conze-Abhisamayalankara",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Conze-Abhisamayalankara.pdf.txt",
+ "meta": {
+  "title": "The Abhisamayālaṅkāra: Introduction and Translation from Original Text, with Sanskrit-Tibetan Index",
+  "author": "Edward Conze",
+  "year": null,
+  "language": "English",
+  "kd_docid": "2b5694e7__Conze-Abhisamayalankara",
+  "category": "(root)",
+  "pdf_pages": 94,
+  "dissertation": null,
+  "preface_signed": {
+   "place": null,
+   "date_text": null,
+   "year": null
+  }
+ },
+ "model": "claude:sonnet (kd pass 1)"
+}

@@ -1,0 +1,102 @@
+{
+ "author": "V. Krishnamacharya",
+ "doc_kind": "text_edition",
+ "doc_year": 1949,
+ "people": [
+  {
+   "name": "V. Krishnamacharya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "K. Ramachandra Sarma",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "G. Srinivasa Murti",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "H. Sesha Ayyangar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Kannada"
+  },
+  {
+   "name": "V. Raghavan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "V. Krishnamacharya",
+   "type": "collaborated_with",
+   "object": "K. Ramachandra Sarma",
+   "role": "co-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1949,
+   "explicit": true,
+   "evidence": "It is also a matter of gratification that I secured the valuable co-operation of my colleague Pandit K. Ramachandra Sarma in editing the work.",
+   "quote_ok": false
+  },
+  {
+   "subject": "G. Srinivasa Murti",
+   "type": "position_at",
+   "object": "Adyar Library",
+   "role": "Director",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "GENERAL EDITOR : G. SRINIVASA MURTI, B.A., B.L,, M.B & C.M., VAIDYARATNA Director, Adyar Library",
+   "quote_ok": true
+  },
+  {
+   "subject": "H. Sesha Ayyangar",
+   "type": "position_at",
+   "object": "University Institute of Oriental Studies and Research, Madras",
+   "role": "Junior Lecturer in Kanarese",
+   "place": "Madras",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pandit H. Sesha Ayyangar, Formerly Junior Lecturer in Kanarese. University Institute of Oriental Studies and Research, Madras",
+   "quote_ok": true
+  },
+  {
+   "subject": "V. Raghavan",
+   "type": "position_at",
+   "object": "Madras University",
+   "role": null,
+   "place": "Madras",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "My esteemed friend Dr. V. Raghavan of the Madras University informed me",
+   "quote_ok": true
+  }
+ ],
+ "docid": "alamkaarasamgraha",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/primary_literature_alamkaara_scans/alamkaarasamgraha.pdf.txt",
+ "meta": {
+  "category": "primary_literature_alamkaara_scans",
+  "pdf_pages": 331,
+  "script": "latin",
+  "kd_docid": "ad32048c__alamkaarasamgraha"
+ },
+ "model": "gemini-flash-latest"
+}

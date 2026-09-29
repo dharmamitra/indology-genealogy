@@ -1,0 +1,69 @@
+{
+ "author": "Eva Shan Chou",
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Lin Yutang",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Xu Shoushang",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Lin Yutang",
+   "type": "succeeded",
+   "object": "Xu Shoushang",
+   "role": "dean",
+   "place": "Beijing Women’s Normal College",
+   "year_start": 1926,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Lin Yutang, in addition, had become dean at the Normal College two days earlier... what he learned of her from Xu Shoushang, his predecessor as dean",
+   "quote_ok": false
+  },
+  {
+   "subject": "Lin Yutang",
+   "type": "position_at",
+   "object": "Beijing Women’s Normal College",
+   "role": "dean",
+   "place": null,
+   "year_start": 1926,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Lin Yutang, in addition, had become dean at the Normal College two days earlier.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Xu Shoushang",
+   "type": "position_at",
+   "object": "Beijing Women’s Normal College",
+   "role": "dean",
+   "place": null,
+   "year_start": null,
+   "year_end": 1926,
+   "explicit": true,
+   "evidence": "Xu Shoushang, his predecessor as dean",
+   "quote_ok": true
+  }
+ ],
+ "docid": "12-2-139",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Journals/AsiaMajor/12-2-139.pdf.txt",
+ "meta": {
+  "category": "Journals",
+  "pdf_pages": 13,
+  "script": "latin",
+  "kd_docid": "ddbaab62__12-2-139"
+ },
+ "model": "gemini-flash-latest"
+}

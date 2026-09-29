@@ -1,0 +1,83 @@
+{
+ "author": "Patrick Olivelle",
+ "doc_kind": "text_edition",
+ "doc_year": 2009,
+ "people": [
+  {
+   "name": "Patrick Olivelle",
+   "birth_year": 1942,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Joel Brereton",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "David Brick",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Michael Witzel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "David Brick",
+   "type": "student_of",
+   "object": "Patrick Olivelle",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "She and my student David Brick collated most of the manuscripts used in this edition.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Witzel",
+   "type": "position_at",
+   "object": "Harvard Oriental Series",
+   "role": "Editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "ORIENTAL SERIES Edited by MICHAEL VOLUME SEVENTY-THREE",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Witzel",
+   "type": "position_at",
+   "object": "Harvard University",
+   "role": "Editor, Harvard Oriental Series",
+   "place": "Department of Sanskrit and Indian Studies",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "For information write to Editor, Harvard Oriental Series Department of Sanskrit and Indian Studies 1 Bow Street, Cambridge MA 02138, USA 617-495-3295; email: witzel@fas.harvard.edu",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Vaisnavadharmasastra - Olivelle, Patrick (ed)",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Vaisnavadharmasastra - Olivelle, Patrick (ed).pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 608,
+  "script": "latin",
+  "kd_docid": "c7834b67__Vaisnavadharmasastra_-_Olivelle_Patrick_ed"
+ },
+ "model": "gemini-flash-latest"
+}

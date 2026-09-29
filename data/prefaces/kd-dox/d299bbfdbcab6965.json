@@ -1,0 +1,140 @@
+{
+ "author": "Mohan Lai Sandal",
+ "doc_kind": "text_edition",
+ "doc_year": 1923,
+ "people": [
+  {
+   "name": "Mohan Lai Sandal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indian philosophy"
+  },
+  {
+   "name": "Major B. D. Basu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Ganga Nath Jha",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indian philosophy"
+  },
+  {
+   "name": "Mr. Kunte",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indian philosophy"
+  },
+  {
+   "name": "Dr. Anna Moreswar Kunte",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Anatomy"
+  },
+  {
+   "name": "Ranade",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Bhandarkar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Mr. Kunte",
+   "type": "studied_at",
+   "object": "Bombay University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mr Kunte... was one of the distinguished graduates of the Bombay University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mr. Kunte",
+   "type": "influenced_by",
+   "object": "Ranade",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "belonged to the school of Ranade and Bhandarkar",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mr. Kunte",
+   "type": "influenced_by",
+   "object": "Bhandarkar",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "belonged to the school of Ranade and Bhandarkar",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dr. Anna Moreswar Kunte",
+   "type": "position_at",
+   "object": "Grant Medical College, Bombay",
+   "role": "demonstrator of Anatomy",
+   "place": "Bombay",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Anna Moreswar Kunte, the demonstrator of Anatomy, Grant Medical College, Bombay",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mr. Kunte",
+   "type": "other",
+   "object": "Dr. Anna Moreswar Kunte",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mr Kunte who, I am in formed by Major B.D. Basu, is the brother of Dr. Anna Moreswar Kunte",
+   "quote_ok": false
+  },
+  {
+   "subject": "Mohan Lai Sandal",
+   "type": "collaborated_with",
+   "object": "Major B. D. Basu",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In a word his was the head and mine was the hand in bringing out this big volume before the public.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "mimamsasutra",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/mimamsasutra.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 1096,
+  "script": "latin",
+  "kd_docid": "a541ccf9__mimamsasutra"
+ },
+ "model": "gemini-flash-latest"
+}

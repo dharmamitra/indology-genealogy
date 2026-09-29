@@ -1,0 +1,83 @@
+{
+ "author": "E. Röer",
+ "doc_kind": "text_edition",
+ "doc_year": 1855,
+ "people": [
+  {
+   "name": "E. Röer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Christian Lassen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Premchander Pandit",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "S'rī Sakhārāma S'āstrī",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "E. Röer",
+   "type": "influenced_by",
+   "object": "Christian Lassen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The present edition of the Uttara Naishadha was undertaken at the suggestion of Professor Lassen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Premchander Pandit",
+   "type": "position_at",
+   "object": "Calcutta Sanscrit College",
+   "role": null,
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": 1836,
+   "explicit": true,
+   "evidence": "The Ptirva Naishadha was published in 1836, under the auspices of the General Committee of Public Instruction, by Premchander Pandit of the Calcutta Sanscrit College",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. Röer",
+   "type": "student_of",
+   "object": "S'rī Sakhārāma S'āstrī",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "it is the property of my Pandit, S'ri Sakhārama S'āstri",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Uttaranaiṣadhacarita 1855 ed sargas 12 to 17 copy",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Uttaranaiṣadhacarita 1855 ed sargas 12 to 17 copy.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 579,
+  "script": "deva",
+  "kd_docid": "58efe9d2__Uttaranaiṣadhacarita_1855_ed_sargas_12_to_17_copy"
+ },
+ "model": "gemini-flash-latest"
+}

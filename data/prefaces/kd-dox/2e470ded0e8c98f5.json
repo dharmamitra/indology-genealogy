@@ -1,0 +1,57 @@
+{
+ "author": "Cecil Bendall",
+ "doc_kind": "article",
+ "doc_year": 1888,
+ "people": [
+  {
+   "name": "Cecil Bendall",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Dr. Rieu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Cecil Bendall",
+   "type": "position_at",
+   "object": "University of Cambridge",
+   "role": null,
+   "place": "Cambridge",
+   "year_start": 1880,
+   "year_end": 1883,
+   "explicit": false,
+   "evidence": "the list of Sanskrit MSS. procured for the University of Cambridge. In examining this collection in the years 1880-3, I noted the work as related to the Pañca-tantra.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dr. Rieu",
+   "type": "position_at",
+   "object": "British Museum",
+   "role": null,
+   "place": "London",
+   "year_start": null,
+   "year_end": 1888,
+   "explicit": true,
+   "evidence": "an illustration for which I am indebted to my friend Dr. Rieu, of the British Museum.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Bendall 1888, Tantrākhyāna",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Bendall 1888, Tantrākhyāna.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 38,
+  "script": "latin",
+  "kd_docid": "402742c7__Bendall_1888_Tantrākhyāna"
+ },
+ "model": "gemini-flash-latest"
+}

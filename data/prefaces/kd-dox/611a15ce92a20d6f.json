@@ -1,0 +1,197 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 2000,
+ "people": [
+  {
+   "name": "Heinz Bechert",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ernst Waldschmidt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Michael Schmidt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "J. Chung",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "S. Dietz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "P. Kieffer-Pülz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jens-Uwe Hartmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lambert Schmithausen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Claus Vogel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Klaus Wille",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Heinz Bechert",
+   "type": "position_at",
+   "object": "Akademie der Wissenschaften in Göttingen",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Im Auftrage der Akademie der Wissenschaften in Gottingen herausgegeben von Heinz Bechert",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinz Bechert",
+   "type": "succeeded",
+   "object": "Ernst Waldschmidt",
+   "role": "Herausgeber",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Begonnen von Ernst Waldschmidt Im Auftrage der Akademie der Wissenschaften in Gottingen herausgegeben von Heinz Bechert",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Schmidt",
+   "type": "collaborated_with",
+   "object": "Heinz Bechert",
+   "role": "Redaktor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Heinz Bechert (Herausgeber) Michael Schmidt (Redaktor)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jens-Uwe Hartmann",
+   "type": "position_at",
+   "object": "München",
+   "role": "Professor",
+   "place": "München",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Jens-Uwe Hartmann (München)",
+   "quote_ok": false
+  },
+  {
+   "subject": "Lambert Schmithausen",
+   "type": "position_at",
+   "object": "Hamburg",
+   "role": "Professor",
+   "place": "Hamburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Lambert Schmithausen (Hamburg)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Claus Vogel",
+   "type": "position_at",
+   "object": "Bonn",
+   "role": "Professor",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Claus Vogel (Bonn)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Klaus Wille",
+   "type": "collaborated_with",
+   "object": "Claus Vogel",
+   "role": "co-translators/editors",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Revised and Translated by C. Vogel and K. Wille.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Klaus Wille",
+   "type": "collaborated_with",
+   "object": "Heinz Bechert",
+   "role": "Katalogbeschreiber",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Herausgegeben von H. Bechert. Beschrieben von K. Wille.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jens-Uwe Hartmann",
+   "type": "collaborated_with",
+   "object": "P. Kieffer-Pülz",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1997,
+   "explicit": true,
+   "evidence": "Studies in Honour of Heinz Bechert. Ed. by P. Kieffer-Pülz and J.-U.Hartmann. Swisttal-Odendorf 1997",
+   "quote_ok": true
+  }
+ ],
+ "docid": "SWBTTF_12_caaturmahaaraajakaayika-",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/SWBTTF/SWBTTF_12_caaturmahaaraajakaayika-.pdf.txt",
+ "meta": {
+  "category": "SWBTTF",
+  "pdf_pages": 82,
+  "script": "latin",
+  "kd_docid": "6edb0ef7__SWBTTF_12_caaturmahaaraajakaayika-"
+ },
+ "model": "gemini-flash-latest"
+}

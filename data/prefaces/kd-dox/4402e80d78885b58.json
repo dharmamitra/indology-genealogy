@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "article",
+ "doc_year": 1971,
+ "people": [
+  {
+   "name": "樋口隆康"
+  },
+  {
+   "name": "桑山正進"
+  },
+  {
+   "name": "山田明爾"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "樋口隆康",
+   "type": "collaborated_with",
+   "object": "桑山正進",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": 1971,
+   "explicit": true,
+   "evidence": "Author(s) 樋口, 隆康; 桑山, 正進; 山田, 明爾",
+   "quote_ok": true
+  },
+  {
+   "subject": "樋口隆康",
+   "type": "collaborated_with",
+   "object": "山田明爾",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": 1971,
+   "explicit": true,
+   "evidence": "Author(s) 樋口, 隆康; 桑山, 正進; 山田, 明爾",
+   "quote_ok": true
+  },
+  {
+   "subject": "桑山正進",
+   "type": "collaborated_with",
+   "object": "山田明爾",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": 1971,
+   "explicit": true,
+   "evidence": "Author(s) 樋口, 隆康; 桑山, 正進; 山田, 明爾",
+   "quote_ok": true
+  },
+  {
+   "subject": "樋口隆康",
+   "type": "position_at",
+   "object": "京都大学文学部",
+   "role": "助教授",
+   "place": null,
+   "year_start": null,
+   "year_end": 1971,
+   "explicit": true,
+   "evidence": "樋 口 隆 康 京都大学文学部助教授",
+   "quote_ok": true
+  },
+  {
+   "subject": "桑山正進",
+   "type": "position_at",
+   "object": "京都大学人文科学研究所",
+   "role": "助手",
+   "place": null,
+   "year_start": null,
+   "year_end": 1971,
+   "explicit": true,
+   "evidence": "桑 山 正 進 京都大学人文科学研究所助手",
+   "quote_ok": true
+  },
+  {
+   "subject": "山田明爾",
+   "type": "position_at",
+   "object": "龍谷大学文学部",
+   "role": "非常勤講師",
+   "place": null,
+   "year_start": null,
+   "year_end": 1971,
+   "explicit": true,
+   "evidence": "山 田 明 爾 龍谷大学文学部非常勤講師",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Tepe Skandar report shirin_054_3_471",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tepe Skandar report shirin_054_3_471.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 42,
+  "script": "cjk",
+  "kd_docid": "155c9783__Tepe_Skandar_report_shirin_054_3_471"
+ },
+ "model": "gemini-flash-latest"
+}

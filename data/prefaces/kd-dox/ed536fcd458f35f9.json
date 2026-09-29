@@ -1,0 +1,76 @@
+{
+ "author": "Diwakar Acharya",
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Diwakar Acharya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Ashok Aklujkar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Albrecht Wezler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Diwakar Acharya",
+   "type": "position_at",
+   "object": "Kyoto University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Diwakar Acharya, Kyoto University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Diwakar Acharya",
+   "type": "student_of",
+   "object": "Albrecht Wezler",
+   "role": "doctoral supervisor",
+   "place": "Hamburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "my Doktorvater Prof. Albrecht Wezler",
+   "quote_ok": true
+  },
+  {
+   "subject": "Diwakar Acharya",
+   "type": "influenced_by",
+   "object": "Ashok Aklujkar",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I dedicate this article to Prof. Ashok Aklujkar in appreciation of his contribution in my making as an indologist.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Diwakar PatravidhiLast",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Diwakar PatravidhiLast.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 20,
+  "script": "latin",
+  "kd_docid": "f200deae__Diwakar_PatravidhiLast"
+ },
+ "model": "gemini-flash-latest"
+}

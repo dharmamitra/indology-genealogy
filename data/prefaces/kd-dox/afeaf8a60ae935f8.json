@@ -1,0 +1,64 @@
+{
+ "author": "Hermann Jacobi",
+ "doc_kind": "monograph",
+ "doc_year": 1893,
+ "people": [
+  {
+   "name": "Hermann Jacobi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hans Wirtz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Stein",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hans Wirtz",
+   "type": "student_of",
+   "object": "Hermann Jacobi",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bei der Herstellung der Concordanz hat mir mein Schüler Hans Wirtz geholfen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stein",
+   "type": "position_at",
+   "object": "Lahore",
+   "role": "Prof.",
+   "place": "Lahore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Herrn Prof. Stein in Lahore",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Jac893__Jacobi_Ramayana-GeschichteUndInhalt",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/books_g/Jacobi_H/Jac893__Jacobi_Ramayana-GeschichteUndInhalt.pdf.txt",
+ "meta": {
+  "category": "Tohoku",
+  "pdf_pages": 265,
+  "script": "latin",
+  "kd_docid": "c67ec143__Jac893__Jacobi_Ramayana-GeschichteUndInhalt"
+ },
+ "model": "gemini-flash-latest"
+}

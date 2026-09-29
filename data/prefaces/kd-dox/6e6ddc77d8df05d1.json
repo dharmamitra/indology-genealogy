@@ -1,0 +1,64 @@
+{
+ "author": "Vivienne Lo",
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Vivienne Lo",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Michael Loewe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Christopher Cullen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Vivienne Lo",
+   "type": "student_of",
+   "object": "Michael Loewe",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "On many occasions I have lamented not being able to discuss this paper with Michael Loewe, my first teacher of classical Chinese and principal adviser on the Han period.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vivienne Lo",
+   "type": "collaborated_with",
+   "object": "Christopher Cullen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Donald Harper, “Dunhuang Iatromantic Manuscripts: P2856V o and P2675 Ro, in Lo and Cullen, eds. Mediaeval Chinese Medicine (forthcoming).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "05 Lo",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Journals/AsiaMajor/05 Lo.pdf.txt",
+ "meta": {
+  "category": "Journals",
+  "pdf_pages": 39,
+  "script": "latin",
+  "kd_docid": "e88bf920__05_Lo"
+ },
+ "model": "gemini-flash-latest"
+}

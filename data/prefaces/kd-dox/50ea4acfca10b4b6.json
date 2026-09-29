@@ -1,0 +1,100 @@
+{
+ "author": null,
+ "doc_kind": "monograph",
+ "doc_year": 1982,
+ "people": [
+  {
+   "name": "辻直四郎",
+   "birth_year": null,
+   "death_year": 1979,
+   "nationality": "Japan",
+   "field": "Indology"
+  },
+  {
+   "name": "高楠順次郎",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": "Indology"
+  },
+  {
+   "name": "J. Brough",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "辻直四郎",
+   "type": "studied_at",
+   "object": "東大文学部",
+   "role": null,
+   "place": null,
+   "year_start": 1920,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "大正 9 年の秋, 東大文学部に入り, 梵語を学ぶこと約半歳, 恩師高楠順次郎先生の講席に列なり",
+   "quote_ok": true
+  },
+  {
+   "subject": "辻直四郎",
+   "type": "student_of",
+   "object": "高楠順次郎",
+   "role": "teacher",
+   "place": "東大文学部",
+   "year_start": 1920,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "恩師高楠順次郎先生の講席に列なり。 始めてギーターを読了したのは大正11年春のことであった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "辻直四郎",
+   "type": "position_at",
+   "object": "東大",
+   "role": null,
+   "place": null,
+   "year_start": 1927,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "海外留学より帰り, 昭和2年始めて母校の教壇に立った余が, 最初に教科書として用いたのもギーターであった。",
+   "quote_ok": true
+  },
+  {
+   "subject": "辻直四郎",
+   "type": "position_at",
+   "object": "東京大学教養学部",
+   "role": null,
+   "place": null,
+   "year_start": 1955,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "東京大学教養学部の職員懇親会で挨拶する著者 (昭和30年)",
+   "quote_ok": true
+  },
+  {
+   "subject": "辻直四郎",
+   "type": "other",
+   "object": "J. Brough",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "本訳は訳者が晩年親交のあった J. Brough 博士の大著 The Gandhari Dharmapada ... の出版に先立つこと",
+   "quote_ok": true
+  }
+ ],
+ "docid": "辻直四郎著作集(3)",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/books_g/Tsuji_Naoshiro/辻直四郎著作集(3).pdf.txt",
+ "meta": {
+  "category": "Tohoku",
+  "pdf_pages": 209,
+  "script": "cjk",
+  "kd_docid": "a7bb216e__辻直四郎著作集_3"
+ },
+ "model": "gemini-flash-latest"
+}

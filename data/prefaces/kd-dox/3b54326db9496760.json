@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 1941,
+ "people": [
+  {
+   "name": "Anantakrishna Sastri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Ashokanath Bhattacharya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Vidhushekhara Bhattacharya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Syamaprasad Mookerjee",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Anantakrishna Sastri",
+   "type": "collaborated_with",
+   "object": "Ashokanath Bhattacharya",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1941,
+   "explicit": true,
+   "evidence": "EDITED BY VEDANTAVISARADA, MAHAMAHOPADEYAYA ANANTAKRISHNA SASTRI, Lecturer in Sanskrit, University of Calentta AND ASHOKANATH BHATTACHARYA",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anantakrishna Sastri",
+   "type": "position_at",
+   "object": "University of Calcutta",
+   "role": "Lecturer in Sanskrit",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": 1941,
+   "explicit": true,
+   "evidence": "ANANTAKRISHNA SASTRI, Lecturer in Sanskrit, University of Calentta",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ashokanath Bhattacharya",
+   "type": "position_at",
+   "object": "University of Calcutta",
+   "role": "Lecturer in Sanskrit",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": 1941,
+   "explicit": true,
+   "evidence": "ASHOKANATH BHATTACHARYA, VEDANTATIRTHA, SHASTRI, M.A., P.R.S., Lecturer in Sanskrit, University of Calcutta",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vidhushekhara Bhattacharya",
+   "type": "position_at",
+   "object": "University of Calcutta",
+   "role": "Asutosh Professor of Sanskrit",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": 1941,
+   "explicit": true,
+   "evidence": "VIDHUSHEKHARA BHATTACHARYA, Asutosh Professor of Sanskrit, University of Calcutta.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Syamaprasad Mookerjee",
+   "type": "position_at",
+   "object": "University of Calcutta",
+   "role": "President of Council of Post-Graduate Teaching in Arts",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": 1941,
+   "explicit": true,
+   "evidence": "Dr. Syama prasad Mookerjee, former Vice-Chancellor and present President of Council of Post-Graduate Teaching in Arts",
+   "quote_ok": true
+  }
+ ],
+ "docid": "sarirakamimamsavarttika",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/sarirakamimamsavarttika.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 493,
+  "script": "deva",
+  "kd_docid": "16b6206c__sarirakamimamsavarttika"
+ },
+ "model": "gemini-flash-latest"
+}

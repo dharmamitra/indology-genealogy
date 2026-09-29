@@ -1,0 +1,81 @@
+{
+ "author": "Sylvain Lévi",
+ "doc_kind": "text_edition",
+ "doc_year": 1925,
+ "people": [
+  {
+   "name": "Sylvain Lévi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Indology"
+  },
+  {
+   "name": "Hemraj Sarman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Nepali",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sylvain Lévi",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "Professeur",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "SYLVAIN LEVI PROFESSEUR AU COLLEGE DE FRANCE",
+   "quote_ok": false
+  },
+  {
+   "subject": "Sylvain Lévi",
+   "type": "position_at",
+   "object": "École des Hautes Études",
+   "role": "Directeur d'études",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "SYLVAIN LEVI DIRECTEUR D'ETUDES A L'ECOLE DES HAUTES ETUDES",
+   "quote_ok": false
+  },
+  {
+   "subject": "Hemraj Sarman",
+   "type": "studied_at",
+   "object": "écoles de Bénarés",
+   "role": null,
+   "place": "Bénarés",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Issu d'une famille originaire du Kangra, formé aux écoles de Bénarés, il possède une maîtrise éblouissante du sanscrit",
+   "quote_ok": false
+  },
+  {
+   "subject": "Hemraj Sarman",
+   "type": "position_at",
+   "object": "Bibliothèque du Gouvernement",
+   "role": "contrôle / Raj-Guru",
+   "place": "Nepal",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "La Bibliothèque du Gouvernement est placée sous le contrôle d’un savant admirable qui exerce les hautes fonctions de Raj-Guru",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Vijnaptimatrasiddhi_Vimsatika_Trinsatika",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Vijnaptimatrasiddhi_Vimsatika_Trinsatika.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 30,
+  "script": "deva",
+  "kd_docid": "c89aa62b__Vijnaptimatrasiddhi_Vimsatika_Trinsatika"
+ },
+ "model": "gemini-flash-latest"
+}

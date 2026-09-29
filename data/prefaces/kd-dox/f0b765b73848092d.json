@@ -1,0 +1,76 @@
+{
+ "author": "Kripa Shankar Shukla",
+ "doc_kind": "text_edition",
+ "doc_year": 1976,
+ "people": [
+  {
+   "name": "Kripa Shankar Shukla",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Mathematics and Astronomy"
+  },
+  {
+   "name": "K. V. Sarma",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "B. P. Pal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Kripa Shankar Shukla",
+   "type": "collaborated_with",
+   "object": "K. V. Sarma",
+   "role": "co-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1976,
+   "explicit": true,
+   "evidence": "Pt.1, Aryabhatiya, Cr ed. with Introduction, English translation, Notes, Comments and Appendices By Kripa Shankar Shukla in collaboration with K V. Sarma",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kripa Shankar Shukla",
+   "type": "position_at",
+   "object": "University of Lucknow",
+   "role": null,
+   "place": "Lucknow",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "By KRIPA SHANKAR SHUKLA Deptt. of Mathematics and Astronomy University of Lucknow",
+   "quote_ok": true
+  },
+  {
+   "subject": "B. P. Pal",
+   "type": "position_at",
+   "object": "Indian National Science Academy",
+   "role": "President",
+   "place": "New Delhi",
+   "year_start": null,
+   "year_end": 1976,
+   "explicit": true,
+   "evidence": "B. P. PAL President Indian National Science Academy New Delhi, 15-10-1976",
+   "quote_ok": false
+  }
+ ],
+ "docid": "aryabhatiya_insa",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/aryabhatiya_insa.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 485,
+  "script": "latin",
+  "kd_docid": "b4fc1ed6__aryabhatiya_insa"
+ },
+ "model": "gemini-flash-latest"
+}

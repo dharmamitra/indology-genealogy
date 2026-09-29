@@ -1,0 +1,107 @@
+{
+ "author": "V. S. Sukthankar",
+ "doc_kind": "text_edition",
+ "doc_year": 1942,
+ "people": [
+  {
+   "name": "V. S. Sukthankar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "N. B. Utgikar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "Franklin Edgerton",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "Indology"
+  },
+  {
+   "name": "S. K. Belvalkar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "V. S. Sukthankar",
+   "type": "position_at",
+   "object": "Bhandarkar Oriental Research Institute",
+   "role": "General Editor",
+   "place": "Poona",
+   "year_start": 1925,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "It is exactly seventeen years since I took over charge of the Mahabharata work and reorganized, on somewhat different lines, this Department of the Institute",
+   "quote_ok": false
+  },
+  {
+   "subject": "V. S. Sukthankar",
+   "type": "succeeded",
+   "object": "N. B. Utgikar",
+   "role": null,
+   "place": "Bhandarkar Oriental Research Institute",
+   "year_start": 1925,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "having profited by the experiments and experiences of my predecessor, the late lamented Mr. N. B. Utgikar, M.A.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franklin Edgerton",
+   "type": "position_at",
+   "object": "Yale University",
+   "role": "Professor",
+   "place": "U.S.A.",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the Sabhaparvan, which is being edited by Professor Franklin Edgerton of the Yale University (U.S. A.)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franklin Edgerton",
+   "type": "collaborated_with",
+   "object": "V. S. Sukthankar",
+   "role": "parvan-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the Sabhaparvan, which is being edited by Professor Franklin Edgerton of the Yale University (U.S. A.) and which has been ready for some time, has been taken up for printing",
+   "quote_ok": true
+  },
+  {
+   "subject": "S. K. Belvalkar",
+   "type": "collaborated_with",
+   "object": "V. S. Sukthankar",
+   "role": "parvan-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the press-copy of the Bhismaparvan, which is being edited by Rao Bahadur Dr. S. K. Belvalkar, I.E.S. (Retd.), is almost ready and is now undergoing final revision at the hands of its editor.",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Mahabharata_03",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/texts-translations/Mahabharata_PDF/Mahabharata_03.pdf.txt",
+ "meta": {
+  "category": "Books_and_Articles_on_iCloud",
+  "pdf_pages": 565,
+  "script": "deva",
+  "kd_docid": "643e7a58__Mahabharata_03"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,137 @@
+{
+ "author": "Johan van Manen",
+ "doc_kind": "text_edition",
+ "doc_year": 1929,
+ "people": [
+  {
+   "name": "Johan van Manen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Peter Peterson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Th. Stcherbatsky",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Russian",
+   "field": null
+  },
+  {
+   "name": "S. C. Vidyabhusana",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Kamalakrsna Smrtitirtha",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "W. Wassiljew",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Russian",
+   "field": "Buddhism"
+  },
+  {
+   "name": "A. Schiefner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  },
+  {
+   "name": "Bhagvandas Kevaldas",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "G. Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Syamji Valji",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Peter Peterson",
+   "type": "position_at",
+   "object": "Elphinstone College, Bombay",
+   "role": "Elphinstone Professor of Sanskrit",
+   "place": "Bombay",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "PETER PETERSON, M.A., Elphinstone Professor of Sanskrit, Bombay.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johan van Manen",
+   "type": "collaborated_with",
+   "object": "Kamalakrsna Smrtitirtha",
+   "role": "co-editors / preparers of reprint",
+   "place": "Calcutta",
+   "year_start": 1929,
+   "year_end": 1929,
+   "explicit": true,
+   "evidence": "The reproduction of the Sanskrit portions has been attended to, with his usual care, by Mahamahopadhyaya Kamalakrsna Smrtitirtha, whilst the undersigned has taken responsibility for the reprint",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. Schiefner",
+   "type": "collaborated_with",
+   "object": "W. Wassiljew",
+   "role": "translator of work and user of notes",
+   "place": null,
+   "year_start": null,
+   "year_end": 1869,
+   "explicit": true,
+   "evidence": "In his book Schiefner was able to use the greater part of Wassiljew’s notes; and at p. 330 of the German work it will be found that Schiefner corrects from Wassiljew his own translation",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Peterson",
+   "type": "collaborated_with",
+   "object": "Syamji Valji",
+   "role": "collaborator in text collation",
+   "place": "Bombay",
+   "year_start": null,
+   "year_end": 1889,
+   "explicit": true,
+   "evidence": "The two MSS. on which this edition is thus based have been very carefully collated by me in collaboration with my Shastri, Mr. Syamji Valji, whose assistance I desire cordially to acknowledge.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "nyayabindu_and_tika_1889",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/nyayabindu_and_tika_1889.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 74,
+  "script": "deva",
+  "kd_docid": "1b663af3__nyayabindu_and_tika_1889"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,69 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 1899,
+ "people": [
+  {
+   "name": "A. Mahadeva Sastri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "K. Rangacharya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "A. Mahadeva Sastri",
+   "type": "collaborated_with",
+   "object": "K. Rangacharya",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1899,
+   "explicit": true,
+   "evidence": "EDITED BY \\, MAHA/DEVA. SVASTRI, ४, ^, Curator, Government Orental Library, Alysore AND PANpitaRatwam 1९, RANGATCILA’RY A, Pandit, Government Oriental Library, Mysore.",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. Mahadeva Sastri",
+   "type": "position_at",
+   "object": "Government Oriental Library, Mysore",
+   "role": "Curator",
+   "place": "Mysore",
+   "year_start": null,
+   "year_end": 1899,
+   "explicit": true,
+   "evidence": "MAHA/DEVA. SVASTRI, ४, ^, Curator, Government Orental Library, Alysore",
+   "quote_ok": true
+  },
+  {
+   "subject": "K. Rangacharya",
+   "type": "position_at",
+   "object": "Government Oriental Library, Mysore",
+   "role": "Pandit",
+   "place": "Mysore",
+   "year_start": null,
+   "year_end": 1899,
+   "explicit": true,
+   "evidence": "RANGATCILA’RY A, Pandit, Government Oriental Library, Mysore.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "taittiriya_samhita_bhaskara_03__1.7-2.2",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/texts-translations/Taittiriya-Samhita/TS_ed_Mysore/taittiriya_samhita_bhaskara_03__1.7-2.2.pdf.txt",
+ "meta": {
+  "category": "Tohoku",
+  "pdf_pages": 454,
+  "script": "deva",
+  "kd_docid": "c0284dd4__taittiriya_samhita_bhaskara_03__1_7-2_2"
+ },
+ "model": "gemini-flash-latest"
+}

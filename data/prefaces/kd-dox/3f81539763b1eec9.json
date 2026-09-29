@@ -1,0 +1,45 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 2008,
+ "people": [
+  {
+   "name": "James Moore",
+   "birth_year": 1934,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Michael Silverthorne",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Moore",
+   "type": "collaborated_with",
+   "object": "Michael Silverthorne",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": 2008,
+   "explicit": true,
+   "evidence": "edited and with an introduction by James Moore and Michael Silverthorne.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "[Emperor_of_Rome_Marcus_Aurelius]_The_Meditations_(BookZZ.org)",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/books/[Emperor_of_Rome_Marcus_Aurelius]_The_Meditations_(BookZZ.org).pdf.txt",
+ "meta": {
+  "category": "books",
+  "pdf_pages": 248,
+  "script": "latin",
+  "kd_docid": "18b67266__Emperor_of_Rome_Marcus_Aurelius__The_Meditations__BookZZ_org"
+ },
+ "model": "gemini-flash-latest"
+}

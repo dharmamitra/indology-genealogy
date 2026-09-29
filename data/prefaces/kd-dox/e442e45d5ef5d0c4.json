@@ -1,0 +1,107 @@
+{
+ "author": null,
+ "doc_kind": "monograph",
+ "doc_year": 1906,
+ "people": [
+  {
+   "name": "W. Caland",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "V. Henry",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Barbier de Meynard",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Émile Senart",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "W. Caland",
+   "type": "collaborated_with",
+   "object": "V. Henry",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1906,
+   "explicit": true,
+   "evidence": "LAGNISTOMA DESCRIPTION COMPLETE DE LA FORME NORMALE DU SACRIFICE DE SOMA DANS LE CULTE VEDIQUE PAR W. CALAND V. HENRY",
+   "quote_ok": true
+  },
+  {
+   "subject": "W. Caland",
+   "type": "position_at",
+   "object": "Université d'Utrecht",
+   "role": "Lecteur de sanscrit",
+   "place": "Utrecht",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "W. CALAND LECTEUR DE SANSCRIT A L'UNIVERSITE D'UTRECHT",
+   "quote_ok": false
+  },
+  {
+   "subject": "V. Henry",
+   "type": "position_at",
+   "object": "Université de Paris",
+   "role": "Professeur de sanscrit et grammaire comparée",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "V. HENRY PROFESSEUR DE SANSCRIT ET GRAMMAIRE COMPAREE A L'UNIVERSITE DE PARIS",
+   "quote_ok": false
+  },
+  {
+   "subject": "Barbier de Meynard",
+   "type": "position_at",
+   "object": "Société Asiatique",
+   "role": "Président",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "la Société Asiatique... particulièrement à son président et à son vice-président, MM. Barbier de Meynard et Émile Senart",
+   "quote_ok": false
+  },
+  {
+   "subject": "Émile Senart",
+   "type": "position_at",
+   "object": "Société Asiatique",
+   "role": "Vice-président",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "la Société Asiatique... particulièrement à son président et à son vice-président, MM. Barbier de Meynard et Émile Senart",
+   "quote_ok": false
+  }
+ ],
+ "docid": "LAgnistoma_1",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/books_g/Caland/LAgnistoma/photocopy/LAgnistoma_1.pdf.txt",
+ "meta": {
+  "category": "Tohoku",
+  "pdf_pages": 153,
+  "script": "latin",
+  "kd_docid": "426cb796__LAgnistoma_1"
+ },
+ "model": "gemini-flash-latest"
+}

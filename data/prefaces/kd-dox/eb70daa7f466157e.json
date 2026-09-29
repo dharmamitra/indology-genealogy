@@ -1,0 +1,83 @@
+{
+ "author": "Hermann Jacobi",
+ "doc_kind": "text_edition",
+ "doc_year": 1886,
+ "people": [
+  {
+   "name": "Hermann Jacobi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Albrecht Weber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "R. Rost",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "R. Pischel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hermann Jacobi",
+   "type": "student_of",
+   "object": "Albrecht Weber",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "HERRN PROFESSOR ALBRECHT WEBER IN DANKBARER VEREHRUNG GEWIDMET.",
+   "quote_ok": false
+  },
+  {
+   "subject": "R. Rost",
+   "type": "position_at",
+   "object": "India Office Library",
+   "role": "Bibliothekar",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Herrn Dr. R. Rost, Bibliothekar der India Office Library",
+   "quote_ok": false
+  },
+  {
+   "subject": "Hermann Jacobi",
+   "type": "collaborated_with",
+   "object": "R. Pischel",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "dem Herrn Professor Dr. R. Pischel, der... die Güte hatte, eine Korrektur zu lesen und mir einige wichtige Verbesserungen mitzuteilen.",
+   "quote_ok": false
+  }
+ ],
+ "docid": "09・H．Jacobi   Ausgewahlte Erzahlungen in Maharastri",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/books_y/09・H．Jacobi   Ausgewahlte Erzahlungen in Maharastri.pdf.txt",
+ "meta": {
+  "category": "Tohoku",
+  "pdf_pages": 117,
+  "script": "latin",
+  "kd_docid": "00c7c4ff__09_H_Jacobi_Ausgewahlte_Erzahlungen_in_Maharastri"
+ },
+ "model": "gemini-flash-latest"
+}

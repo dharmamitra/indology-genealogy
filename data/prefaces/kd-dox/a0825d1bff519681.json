@@ -1,0 +1,69 @@
+{
+ "author": "David Slakter",
+ "doc_kind": "dissertation",
+ "doc_year": 2012,
+ "people": [
+  {
+   "name": "David Slakter",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Christopher Bartley",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "David Slakter",
+   "type": "studied_at",
+   "object": "University of Liverpool",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 2012,
+   "explicit": true,
+   "evidence": "Thesis submitted in accordance with the requirements of the University of Liverpool for the degree of Doctor in Philosophy by David Slakter January 2012",
+   "quote_ok": true
+  },
+  {
+   "subject": "David Slakter",
+   "type": "studied_at",
+   "object": "University of Liverpool",
+   "role": "Master's degree",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "My initial work on this topic eventually became the dissertation for my Master’s degree at the University of Liverpool",
+   "quote_ok": true
+  },
+  {
+   "subject": "David Slakter",
+   "type": "student_of",
+   "object": "Christopher Bartley",
+   "role": "MA supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Near the end of that degree, the supervisor for my Master’s, Christopher Bartley, suggested looking at Jayanta Bha a’s gama ambara",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Sovereignty_and_Dharma_The_Role_of_Justi",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Sovereignty_and_Dharma_The_Role_of_Justi.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 180,
+  "script": "latin",
+  "kd_docid": "dc54e80e__Sovereignty_and_Dharma_The_Role_of_Justi"
+ },
+ "model": "gemini-flash-latest"
+}

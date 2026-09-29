@@ -1,0 +1,145 @@
+{
+ "author": "Ram Chandra Pandeya",
+ "doc_kind": "text_edition",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ram Chandra Pandeya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "V. V. Gokhale",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Buddhist Studies"
+  },
+  {
+   "name": "T.R.V. Murti",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Philosophy"
+  },
+  {
+   "name": "P. L. Vaidya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "Dalsukh Malavaniya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "N. Nakada",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ram Chandra Pandeya",
+   "type": "position_at",
+   "object": "University of Delhi",
+   "role": "Professor and Head of the Department of Buddhist Studies",
+   "place": "Delhi",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ram Chandra Pandeya Vyakaranacar ya, M.A., PH. Di Professor and Head of the Department of Buddhist Studies, University of Delhi.",
+   "quote_ok": true
+  },
+  {
+   "subject": "V. V. Gokhale",
+   "type": "position_at",
+   "object": "University of Delhi",
+   "role": "Professor and Head of the Department of Buddhist Studies",
+   "place": "Delhi",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. V. V. Gokhale, (now retired) Professor and Head of the Department of Buddhist Studies, University of Delhi.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ram Chandra Pandeya",
+   "type": "student_of",
+   "object": "V. V. Gokhale",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In fact he taught me the method of preparing critical edition of texts.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ram Chandra Pandeya",
+   "type": "student_of",
+   "object": "T.R.V. Murti",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "My teacher Professor T.R.V. Murti, Director, Centre for Advanced Study in Philosophy, Banaras Hindu University",
+   "quote_ok": true
+  },
+  {
+   "subject": "T.R.V. Murti",
+   "type": "position_at",
+   "object": "Banaras Hindu University",
+   "role": "Director, Centre for Advanced Study in Philosophy",
+   "place": "Banaras",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor T.R.V. Murti, Director, Centre for Advanced Study in Philosophy, Banaras Hindu University",
+   "quote_ok": true
+  },
+  {
+   "subject": "P. L. Vaidya",
+   "type": "position_at",
+   "object": "Bhandarkar Oriental Research Institute",
+   "role": "General Editor, Mahabharata",
+   "place": "Poona",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. P. L. Vaidya, General Editor, Mahabharata, Bhandarkar Oriental Research Institute, Poona",
+   "quote_ok": true
+  },
+  {
+   "subject": "N. Nakada",
+   "type": "student_of",
+   "object": "Ram Chandra Pandeya",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "My stucents, specially Dr.N. Nakada, were of great help in preparing and printing of this edition.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Yuktidipika_ed. Pandeya",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Sāṃkhyakārikā commentaries/Yuktidīpikā editions/Yuktidipika_ed. Pandeya.pdf.txt",
+ "meta": {
+  "category": "Sāṃkhyakārikā commentaries",
+  "pdf_pages": 108,
+  "script": "deva",
+  "kd_docid": "d06c7b3e__Yuktidipika_ed_Pandeya"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,95 @@
+{
+ "author": "Thea Mohr",
+ "doc_kind": "article",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Paul Carus",
+   "birth_year": 1852,
+   "death_year": 1919,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "Daisetz Suzuki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Francisco J. Varela",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Michel Bitbol",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Paul Carus",
+   "type": "studied_at",
+   "object": "Tübingen",
+   "role": "Promotion",
+   "place": "Tübingen",
+   "year_start": null,
+   "year_end": 1876,
+   "explicit": true,
+   "evidence": "Paul Carus wurde in Ilsenburg geboren, studierte in Tübingen (Promotion 1876)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Carus",
+   "type": "collaborated_with",
+   "object": "Daisetz Suzuki",
+   "role": null,
+   "place": null,
+   "year_start": 1893,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Während des Weltparlaments der Religionen 1893 traf er Daisetz Suzuki, mit dem ihm schnell eine lange Freundschaft und gemeinsame Arbeitszeit verband.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francisco J. Varela",
+   "type": "founded",
+   "object": "Mind & Life Institute",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "wurden u.a. von Francisco J. Varela die regelmäßig stattfindenden Tagungen des Mind & Life Institute's ins Leben gerufen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michel Bitbol",
+   "type": "position_at",
+   "object": "Centre National de la Recherche Scientifique in Paris",
+   "role": "Forschungsleiter",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Michel Bitbol, Teilnehmer an der 10. Konferenz über das Wesen der Natur und das Wesen des Lebens (The Nature of Matter, the Nature of Life) und Forschungsleiter am Centre National de la Recherche Scientifique in Paris",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Bd11-K07Mohr",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Journals/PDF_ZfBK/Bd11-K07Mohr.pdf.txt",
+ "meta": {
+  "category": "Journals",
+  "pdf_pages": 14,
+  "script": "latin",
+  "kd_docid": "a0c6eb07__Bd11-K07Mohr"
+ },
+ "model": "gemini-flash-latest"
+}

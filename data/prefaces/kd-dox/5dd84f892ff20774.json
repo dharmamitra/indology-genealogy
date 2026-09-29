@@ -1,0 +1,128 @@
+{
+ "author": "A. Getty",
+ "doc_kind": "monograph",
+ "doc_year": 1914,
+ "people": [
+  {
+   "name": "A. Getty",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Arthur Lloyd",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Japanese Buddhism"
+  },
+  {
+   "name": "S. Tachibana",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Jeshu Oda",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "von Le Coq",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "E. Denison Ross",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "J. Deniker",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jeshu Oda",
+   "type": "position_at",
+   "object": "Chomoj Monastery at Nagoya",
+   "role": "Rector",
+   "place": "Nagoya",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sramana Jeshu Oda, Rector of the Chomoj Monastery at Nagoya",
+   "quote_ok": true
+  },
+  {
+   "subject": "von Le Coq",
+   "type": "position_at",
+   "object": "Museum fiir Yolkerkunde, Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Herr von Le Coq, explorer in Chinese Turkestan and attached to the Museum fiir Yolkerkunde, Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. Denison Ross",
+   "type": "position_at",
+   "object": "Records of the Government of India",
+   "role": "officer in charge",
+   "place": "India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mr. E. Denison Ross, officer in charge of the Records of the Government of India",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. Denison Ross",
+   "type": "position_at",
+   "object": "Asiatic Society of Bengal",
+   "role": "philological secretary",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "philological secretary of the Asiatic Society of Bengal",
+   "quote_ok": false
+  },
+  {
+   "subject": "A. Getty",
+   "type": "student_of",
+   "object": "J. Deniker",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "My initiation into the intricacies of the Mahayana system I owe to M. J. Deniker",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Getty_Gods of Northern Buddhism",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/books/Getty_Gods of Northern Buddhism.pdf.txt",
+ "meta": {
+  "category": "books",
+  "pdf_pages": 412,
+  "script": "latin",
+  "kd_docid": "380df74f__Getty_Gods_of_Northern_Buddhism"
+ },
+ "model": "gemini-flash-latest"
+}

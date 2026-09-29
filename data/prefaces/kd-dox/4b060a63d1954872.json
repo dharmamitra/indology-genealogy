@@ -1,0 +1,67 @@
+{
+ "people": [
+  {
+   "name": "Peter Bisschop",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Florinda De Simini",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Peter Bisschop",
+   "type": "position_at",
+   "object": "Leiden University",
+   "role": null,
+   "place": "Leiden",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Peter Bisschop*\nLeiden University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Florinda De Simini",
+   "type": "studied_at",
+   "object": "Università degli Studi di Torino",
+   "role": "doctoral thesis",
+   "place": "Turin",
+   "year_start": null,
+   "year_end": 2013,
+   "explicit": true,
+   "evidence": "Florinda De Simini, ‘Ritual Aspects of Manuscript Transmission in Premodern India...’ (unpublished doctoral thesis, Università degli Studi di Torino, 2013)",
+   "quote_ok": false
+  },
+  {
+   "subject": "Florinda De Simini",
+   "type": "position_at",
+   "object": "University of Naples ‘l’Orientale’",
+   "role": null,
+   "place": "Naples",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I am very grateful to Florinda De Simini (University of Naples ‘l’Orientale’) for providing me with colour photographs of K1 and S.",
+   "quote_ok": true
+  }
+ ],
+ "author": null,
+ "docid": "Bisschop_Mahasanti_2014",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Bisschop_Mahasanti_2014.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 9,
+  "script": "latin",
+  "kd_docid": "b6025515__Bisschop_Mahasanti_2014"
+ },
+ "model": "gemini-flash-latest"
+}

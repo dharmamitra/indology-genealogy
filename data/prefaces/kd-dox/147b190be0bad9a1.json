@@ -1,0 +1,91 @@
+{
+ "author": "Richard Schmidt",
+ "doc_kind": "text_edition",
+ "doc_year": 1898,
+ "people": [
+  {
+   "name": "Richard Schmidt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Joh. Hertel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "R. Simon",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Unterstaatssekretär für Indien",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "R. Simon",
+   "type": "position_at",
+   "object": "München",
+   "role": "Privatdocent",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Herrn Privatdocent Dr. R. Simon in Miiuchen",
+   "quote_ok": true,
+   "page": 8,
+   "gloss_en": "R. Simon is Privatdozent in Munich."
+  },
+  {
+   "subject": "Richard Schmidt",
+   "type": "other",
+   "object": "Bühler",
+   "role": "corrected a claim in scholarly work",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Zu berichtigen sind wohl die Bemerkungen Bithler's in seinem Kasmir Report, 61, wonach Srivara seine Uebersetzung ,,by order of his patron, Zain-ul-Abidin\" angefertigt habe.",
+   "quote_ok": true,
+   "page": 7,
+   "gloss_en": "Schmidt states that Bühler's remarks in his Kashmir Report need correction, regarding the claim that Srivara made his translation by order of his patron Zain-ul-Abidin."
+  }
+ ],
+ "docid": "Kathakautuka_Schmidt",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Kathakautuka_Schmidt.pdf.txt",
+ "meta": {
+  "title": "Srivara's Kathakautukam. Die Geschichte von Joseph in persisch-indischem Gewande. Sanskrit und Deutsch",
+  "author": "Richard Schmidt",
+  "year": 1898,
+  "language": "German",
+  "kd_docid": "fca81c6d__Kathakautuka_Schmidt",
+  "category": "(root)",
+  "pdf_pages": 207,
+  "dissertation": null,
+  "preface_signed": {
+   "place": "Eisleben",
+   "date_text": "den 12. März 1898",
+   "year": 1898
+  }
+ },
+ "model": "claude:sonnet (kd pass 1)"
+}

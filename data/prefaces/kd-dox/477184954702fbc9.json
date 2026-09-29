@@ -1,0 +1,78 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 2013,
+ "people": [
+  {
+   "name": "André Padoux",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Indology"
+  },
+  {
+   "name": "Roger-Orphé Jeanty",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sarah Caldwell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Vraj Vallabha Dvivedi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "R. N. Bhatt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "André Padoux",
+   "type": "collaborated_with",
+   "object": "Roger-Orphé Jeanty",
+   "role": "co-author / collaborator",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he suggested that they take up the job together. Padoux emended Jeanty’s translation when needed to make it more true to the original Sanskrit text, and Jeanty corrected Padoux’s English",
+   "quote_ok": true
+  },
+  {
+   "subject": "Roger-Orphé Jeanty",
+   "type": "collaborated_with",
+   "object": "Sarah Caldwell",
+   "role": "collaborator",
+   "place": null,
+   "year_start": 2003,
+   "year_end": 2003,
+   "explicit": true,
+   "evidence": "he proceeded in 2003 to translate its three chapters into English, working with his colleague Sarah Caldwell",
+   "quote_ok": true
+  }
+ ],
+ "docid": "[André_Padoux,_Roger-Orphé_Jeanty]_The_Heart_of_(z-lib.org)",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/[André_Padoux,_Roger-Orphé_Jeanty]_The_Heart_of_(z-lib.org).pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 206,
+  "script": "latin",
+  "kd_docid": "bf16009f__André_Padoux__Roger-Orphé_Jeanty__The_Heart_of__z-lib_org"
+ },
+ "model": "gemini-flash-latest"
+}

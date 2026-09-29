@@ -1,0 +1,64 @@
+{
+ "author": "शिवदत्त",
+ "doc_kind": "text_edition",
+ "doc_year": 1929,
+ "people": [
+  {
+   "name": "शिवदत्त",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "वासुदेव लक्ष्मण शास्त्री पणशीकर",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "जयपुरसंस्कृतपाठशाला",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "शिवदत्त",
+   "type": "position_at",
+   "object": "जयपुरसंस्कृतपाठशाला",
+   "role": "अध्यापक",
+   "place": "Jaipur",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "जयपुरराजधानीवास्तव्येन पाठशालाध्यापकेन दाधिमथवंशभूषणसुमतिश्रीबदरीनाथात्मजश्रीशिवदत्तकोविदेन",
+   "quote_ok": true
+  },
+  {
+   "subject": "वासुदेव लक्ष्मण शास्त्री पणशीकर",
+   "type": "collaborated_with",
+   "object": "शिवदत्त",
+   "role": null,
+   "place": "Bombay",
+   "year_start": null,
+   "year_end": 1929,
+   "explicit": true,
+   "evidence": "EDITED WITH NOTES BY PANDIT SIVADATTA, OF JAYPUR. Fifth Edition. REVISED BY WASUDEV LAXMAN SASTRI PANSIKAR.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "amarakosa bhaanujidiiksita",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/amarakosa bhaanujidiiksita.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 517,
+  "script": "deva",
+  "kd_docid": "ea3d5f5c__amarakosa_bhaanujidiiksita"
+ },
+ "model": "gemini-flash-latest"
+}

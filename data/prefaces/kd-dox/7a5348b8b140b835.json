@@ -1,0 +1,100 @@
+{
+ "author": "Vidhushekhara Bhattacharya",
+ "doc_kind": "text_edition",
+ "doc_year": 1957,
+ "people": [
+  {
+   "name": "Vidhushekhara Bhattacharya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Dr. Syama Prasad Mookerjee",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Anantalal Thakur",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Vidhushekhara Bhattacharya",
+   "type": "position_at",
+   "object": "University of Calcutta",
+   "role": null,
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "due to the premature demise of Dk. Syama Prasav MooOKERJEE and my own retirement from the University service",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dr. Syama Prasad Mookerjee",
+   "type": "position_at",
+   "object": "University of Calcutta",
+   "role": "Vice-Chancellor",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the then Vice-Chancellor of the University of Calcutta, Dr. Sy ama Prasad MooKERJEE",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anantalal Thakur",
+   "type": "student_of",
+   "object": "Vidhushekhara Bhattacharya",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "one of my beloved pupils, Sri Anantalal Thakur, Ma.,, then a research student of the University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anantalal Thakur",
+   "type": "studied_at",
+   "object": "University of Calcutta",
+   "role": "research student",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sri Anantalal Thakur, Ma.,, then a research student of the University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anantalal Thakur",
+   "type": "position_at",
+   "object": "Mithila Vidyapitha",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and now a Professor of the Mithila Vidyapitha",
+   "quote_ok": true
+  }
+ ],
+ "docid": "yogacarabhumi_chapters_1-5_1957",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/yogacarabhumi_chapters_1-5_1957.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 120,
+  "script": "deva",
+  "kd_docid": "0224b711__yogacarabhumi_chapters_1-5_1957"
+ },
+ "model": "gemini-flash-latest"
+}

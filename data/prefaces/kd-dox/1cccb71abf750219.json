@@ -1,0 +1,103 @@
+{
+ "author": "K. V. Rangaswami Aiyangar",
+ "doc_kind": "text_edition",
+ "doc_year": 1954,
+ "people": [
+  {
+   "name": "K. V. Rangaswami Aiyangar",
+   "field": "Sanskrit / Dharmaśāstra"
+  },
+  {
+   "name": "B. Bhattacharyya",
+   "field": "Sanskrit / Oriental Studies"
+  },
+  {
+   "name": "G. H. Bhatt",
+   "field": "Sanskrit / Oriental Studies"
+  },
+  {
+   "name": "A. N. Krishna Aiyangar",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "N. Ramachandra Bhat",
+   "field": "Sanskrit (Vyākaraṇa)"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "A. N. Krishna Aiyangar",
+   "type": "student_of",
+   "object": "K. V. Rangaswami Aiyangar",
+   "role": "teacher",
+   "explicit": true,
+   "evidence": "I was helped in the earliest stages by my old pupil and co-worker, Mr. A. N. Krishna Aiyangar, M.A., L.T.",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. N. Krishna Aiyangar",
+   "type": "collaborated_with",
+   "object": "K. V. Rangaswami Aiyangar",
+   "role": null,
+   "explicit": true,
+   "evidence": "my old pupil and co-worker, Mr. A. N. Krishna Aiyangar",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. N. Krishna Aiyangar",
+   "type": "position_at",
+   "object": "National Archives, New Delhi",
+   "role": "Librarian",
+   "explicit": true,
+   "evidence": "now Librarian, National Archives, New Delhi",
+   "quote_ok": true
+  },
+  {
+   "subject": "N. Ramachandra Bhat",
+   "type": "collaborated_with",
+   "object": "K. V. Rangaswami Aiyangar",
+   "role": null,
+   "explicit": true,
+   "evidence": "at every stage in correcting the proofs and verifying citations and references, I have been helped by his successor, Vyakaranasiromani N. Ramachandra Bhat",
+   "quote_ok": true
+  },
+  {
+   "subject": "B. Bhattacharyya",
+   "type": "position_at",
+   "object": "Oriental Institute, Baroda",
+   "role": "Director",
+   "explicit": true,
+   "evidence": "The General Editor of the Gaekwad's Oriental Series, and till recently the Director of the Oriental Institute at Baroda, Dr. B. Bhattacharyya",
+   "quote_ok": false
+  },
+  {
+   "subject": "G. H. Bhatt",
+   "type": "succeeded",
+   "object": "B. Bhattacharyya",
+   "role": null,
+   "place": "Oriental Institute, Baroda",
+   "explicit": true,
+   "evidence": "Prof. G. H. Bhatt, his successor, has continued the consideration extended to me by his predecessor",
+   "quote_ok": true
+  },
+  {
+   "subject": "G. H. Bhatt",
+   "type": "position_at",
+   "object": "Oriental Institute, Baroda",
+   "role": "Director",
+   "explicit": true,
+   "evidence": "G. प, Bhatt, M. A., Director, Oriental Institute, Baroda",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Vyavahāra Krtyakalpataru Vyvahara Kanda GOS 119",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Kṛtyakalpataru/Vyavahāra Krtyakalpataru Vyvahara Kanda GOS 119.pdf.txt",
+ "meta": {
+  "category": "Kṛtyakalpataru",
+  "pdf_pages": 824,
+  "script": "deva",
+  "kd_docid": "3fb50b9c__Vyavahāra_Krtyakalpataru_Vyvahara_Kanda_GOS_119"
+ },
+ "model": "claude:sonnet"
+}

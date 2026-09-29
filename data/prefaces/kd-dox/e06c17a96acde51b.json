@@ -1,0 +1,86 @@
+{
+ "author": "Raffaele Torella",
+ "doc_kind": "text_edition",
+ "doc_year": 1994,
+ "people": [
+  {
+   "name": "Raffaele Torella",
+   "nationality": "Italian",
+   "field": "Indology / Kashmir Śaivism"
+  },
+  {
+   "name": "Giuseppe Tucci",
+   "nationality": "Italian",
+   "field": "Orientalist / Indology, Tibetology"
+  },
+  {
+   "name": "Raniero Gnoli",
+   "nationality": "Italian",
+   "field": "Indology"
+  },
+  {
+   "name": "Francesco Sferra",
+   "nationality": "Italian",
+   "field": "Indology"
+  },
+  {
+   "name": "Johannes Bronkhorst",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Raffaele Torella",
+   "type": "student_of",
+   "object": "Giuseppe Tucci",
+   "role": "paramaguru",
+   "explicit": true,
+   "evidence": "Prof. Tucci~ my paramaguru - I must also acknowledge him",
+   "quote_ok": true
+  },
+  {
+   "subject": "Giuseppe Tucci",
+   "type": "founded",
+   "object": "Serie Orientale Roma",
+   "explicit": true,
+   "evidence": "Serie Orientale Roma, founded by Giuseppe Tucci",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francesco Sferra",
+   "type": "student_of",
+   "object": "Raffaele Torella",
+   "role": "student",
+   "explicit": true,
+   "evidence": "my student Francesco Sferra for preparing the Indexes",
+   "quote_ok": true
+  },
+  {
+   "subject": "Raffaele Torella",
+   "type": "collaborated_with",
+   "object": "Raniero Gnoli",
+   "explicit": true,
+   "evidence": "I wish to thank Raniero Gnoli with whom I discussed many passages of this work",
+   "quote_ok": true
+  },
+  {
+   "subject": "Raffaele Torella",
+   "type": "other",
+   "object": "Johannes Bronkhorst",
+   "role": "colleague and friend",
+   "explicit": true,
+   "evidence": "my colleague and friend Professor Johannes Bronkhorst",
+   "quote_ok": true
+  }
+ ],
+ "docid": "The Īśvarapratyabhijñākārikā of Utpaladeva with the author's vṛtti critical edition and annotated translation Utpala 1994",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Īśvarapratyabhijñā/The Īśvarapratyabhijñākārikā of Utpaladeva with the author's vṛtti critical edition and annotated translation Utpala 1994.pdf.txt",
+ "meta": {
+  "category": "Īśvarapratyabhijñā",
+  "pdf_pages": 330,
+  "script": "latin",
+  "kd_docid": "14bd26b8__The_Īśvarapratyabhijñākārikā_of_Utpaladeva_with_the_author_s"
+ },
+ "model": "claude:sonnet"
+}

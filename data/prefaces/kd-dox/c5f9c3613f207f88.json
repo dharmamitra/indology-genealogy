@@ -1,0 +1,83 @@
+{
+ "author": "Bruno Liebich",
+ "doc_kind": "text_edition",
+ "doc_year": 1918,
+ "people": [
+  {
+   "name": "Bruno Liebich",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "H. Stumme",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sylvain Lévi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kirste",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Bruno Liebich",
+   "type": "position_at",
+   "object": "Universität Heidelberg",
+   "role": "ao. Prof. d. ind. Phil.",
+   "place": "Heidelberg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. BRUNO LIEBICH, AO. PROF. D. IND. PHIL. A. D. UNIV. HEIDELBERG.",
+   "quote_ok": true
+  },
+  {
+   "subject": "H. Stumme",
+   "type": "position_at",
+   "object": "Deutsche Morgenländische Gesellschaft",
+   "role": "verantwortliche Redaktion (Abhandlungen für die Kunde des Morgenlandes)",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "unter der verantwortlichen Redaktion des Prof Dr. H. Stumme.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kirste",
+   "type": "position_at",
+   "object": "Universität Graz",
+   "role": null,
+   "place": "Graz",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Das handschriftliche Material aber zu diesem befand sich zwecks Herausgabe in den Händen des Kollegen Kirste in Graz",
+   "quote_ok": true
+  }
+ ],
+ "docid": "CaV918__Candra-Vrtti_ed_Liebich_AKM_14",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/texts-translations/Candra-vrtti/CaV918__Candra-Vrtti_ed_Liebich_AKM_14.pdf.txt",
+ "meta": {
+  "category": "Tohoku",
+  "pdf_pages": 539,
+  "script": "latin",
+  "kd_docid": "f020bf7d__CaV918__Candra-Vrtti_ed_Liebich_AKM_14"
+ },
+ "model": "gemini-flash-latest"
+}

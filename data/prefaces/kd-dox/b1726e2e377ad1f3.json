@@ -1,0 +1,95 @@
+{
+ "author": "Sylvain Lévi",
+ "doc_kind": "text_edition",
+ "doc_year": 1907,
+ "people": [
+  {
+   "name": "Sylvain Lévi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Indology"
+  },
+  {
+   "name": "Kulamana",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Nepalese",
+   "field": "Indology"
+  },
+  {
+   "name": "Finot",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Guérinot",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sylvain Lévi",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "professeur",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "PAR SYLVAIN LEVI PROFESSEUR AU COLLEGE DE FRANCE",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sylvain Lévi",
+   "type": "position_at",
+   "object": "École des Hautes Études",
+   "role": "directeur d'études",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "DIRECTEUR D'ÉTUDES A L'ECOLE DES HAUTES ETUDES",
+   "quote_ok": false
+  },
+  {
+   "subject": "Sylvain Lévi",
+   "type": "collaborated_with",
+   "object": "Kulamana",
+   "role": null,
+   "place": "Patan, Nepal",
+   "year_start": 1898,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Je ne disposais que de la copie exécutée, sous ma surveillance, par le Pandit Kulamana",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sylvain Lévi",
+   "type": "collaborated_with",
+   "object": "Finot",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mon ami et collègue M. Finot a pris la peine de relire aussi toutes les épreuves.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "mahayana_sutralamkara_1907",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/mahayana_sutralamkara_1907.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 98,
+  "script": "deva",
+  "kd_docid": "1f22282d__mahayana_sutralamkara_1907"
+ },
+ "model": "gemini-flash-latest"
+}

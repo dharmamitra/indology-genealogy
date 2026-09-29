@@ -1,0 +1,147 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 1985,
+ "people": [
+  {
+   "name": "Janak Lal Sharma",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Nepali",
+   "field": "Archaeology"
+  },
+  {
+   "name": "Gudrun Corvinus",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Prehistoric archaeology"
+  },
+  {
+   "name": "Freund",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Prehistory"
+  },
+  {
+   "name": "Corneille Jest",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Anthropology"
+  },
+  {
+   "name": "Ramesh Dhungel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Nepali",
+   "field": null
+  },
+  {
+   "name": "Mukti Nath Ghimire",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Nepali",
+   "field": null
+  },
+  {
+   "name": "Raja Ram Subedi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Nepali",
+   "field": null
+  },
+  {
+   "name": "N. R. Banerjee",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Archaeology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Janak Lal Sharma",
+   "type": "position_at",
+   "object": "Department of Archaeology",
+   "role": "acting Director General",
+   "place": "Kathmandu, Nepal",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mr. J. L. Sharma, the former acting Director / the acting Director General",
+   "quote_ok": false
+  },
+  {
+   "subject": "Freund",
+   "type": "position_at",
+   "object": "University of Erlangen",
+   "role": "Head of the Department of Prehistory",
+   "place": "Erlangen, Germany",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Dr. Freund, Head of the Department of Prehistory of the University of Erlangen in Germany",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gudrun Corvinus",
+   "type": "position_at",
+   "object": "University of Erlangen",
+   "role": null,
+   "place": "Erlangen, Germany",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "executed by me, Dr. Gudrun Corvinus from the same university [Institute for prehistory, Erlangen University, Germany]",
+   "quote_ok": false
+  },
+  {
+   "subject": "Gudrun Corvinus",
+   "type": "collaborated_with",
+   "object": "Freund",
+   "role": "project collaborator",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The project, headed by Prof. Dr. Freund Institute for prehistory, Erlangen University, Germany, and executed by me, Dr. Gudrun Corvinus from the same university",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ramesh Dhungel",
+   "type": "position_at",
+   "object": "CNAS/TU",
+   "role": "Lecturer",
+   "place": "Nepal",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mr. Ramesh Dhungel ~ Lecturer, CNAS/TU.",
+   "quote_ok": false
+  },
+  {
+   "subject": "N. R. Banerjee",
+   "type": "collaborated_with",
+   "object": "Janak Lal Sharma",
+   "role": "co-investigator",
+   "place": "Nepal",
+   "year_start": 1969,
+   "year_end": 1969,
+   "explicit": true,
+   "evidence": "N. R. Banerjee and J. L. Sharma of the Dept. of Archaeology of H. M. G. investigated the Narayani River valley in the Nawal Parasi District (Banerjee 1969).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "ancient_nepal_86-88_full",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Journals/Ancient Nepal/ancient_nepal_86-88_full.pdf.txt",
+ "meta": {
+  "category": "Journals",
+  "pdf_pages": 64,
+  "script": "deva",
+  "kd_docid": "dcf59d2b__ancient_nepal_86-88_full"
+ },
+ "model": "gemini-flash-latest"
+}

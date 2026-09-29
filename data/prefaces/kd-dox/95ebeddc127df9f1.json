@@ -1,0 +1,69 @@
+{
+ "author": "राममिश्रशास्त्री",
+ "doc_kind": "text_edition",
+ "doc_year": 1889,
+ "people": [
+  {
+   "name": "राममिश्रशास्त्री",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit, Indian philosophy"
+  },
+  {
+   "name": "लक्ष्मणाचार्य",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit, Indian philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "राममिश्रशास्त्री",
+   "type": "position_at",
+   "object": "Sanskrit College, Benares",
+   "role": "Professor",
+   "place": "Benares",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "EDITED BY RAMA MISRA SASTRY’ PROFESSOR, SANSKRIT COLLEGE, BENARES",
+   "quote_ok": true
+  },
+  {
+   "subject": "लक्ष्मणाचार्य",
+   "type": "position_at",
+   "object": "मथुरास्थश्रीरामानुजपाठशाला",
+   "role": null,
+   "place": "Mathura",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "मथुरास्थश्रीरामानुजपाठशालाऽलङ्करणभूतं लक्ष्मणाचार्यं यो ऽप्रार्थितानिङ्गितोऽवबुद्धमप्यस्मदर्थान्‌ अहो पूरयितुमनाः",
+   "quote_ok": true
+  },
+  {
+   "subject": "राममिश्रशास्त्री",
+   "type": "collaborated_with",
+   "object": "लक्ष्मणाचार्य",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "स्वहस्तेनावदधानस्तैलङ्गाक्षरकोशाच्च न्यायसिद्धाञ्जनपुस्तकं देवाक्षरेष्ववतार्य्य विशोध्य अयत्नसिद्धमुद्रणमात्रभाजनं मां व्यधत्त",
+   "quote_ok": true
+  }
+ ],
+ "docid": "nyaayasiddhaanjana_ed_Pandit",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/primary_literature_vedaanta_scans/nyaayasiddhaanjana_ed_Pandit.pdf.txt",
+ "meta": {
+  "category": "primary_literature_vedaanta_scans",
+  "pdf_pages": 186,
+  "script": "deva",
+  "kd_docid": "c68e58bb__nyaayasiddhaanjana_ed_Pandit"
+ },
+ "model": "gemini-flash-latest"
+}

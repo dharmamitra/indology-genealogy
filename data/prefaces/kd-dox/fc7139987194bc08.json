@@ -1,0 +1,36 @@
+{
+ "author": "Marcelle Lalou",
+ "people": [
+  {
+   "name": "Paul Pelliot",
+   "nationality": "French",
+   "field": "Sinology/Orientalism"
+  },
+  {
+   "name": "B. Laufer",
+   "field": "Sinology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Paul Pelliot",
+   "type": "collaborated_with",
+   "object": "B. Laufer",
+   "explicit": true,
+   "evidence": "B. Laufer, moi-même avons corrigé un bon nombre de ces erreurs, non sans nous tromper parfois à notre tour.",
+   "quote_ok": true
+  }
+ ],
+ "doc_kind": "other",
+ "doc_year": 1933,
+ "docid": "LALOU-Repertoire du Tanjur",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/LALOU-Repertoire du Tanjur.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 120,
+  "script": "latin",
+  "kd_docid": "3954d952__LALOU-Repertoire_du_Tanjur"
+ },
+ "model": "claude:sonnet"
+}

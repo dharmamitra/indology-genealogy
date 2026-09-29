@@ -1,0 +1,78 @@
+{
+ "author": "片岡啓",
+ "doc_kind": "article",
+ "doc_year": 2012,
+ "people": [
+  {
+   "name": "ムカジー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "梶山雄ー",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  },
+  {
+   "name": "Ole Holten Pind",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Helmut Krasser",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "渡辺俊和",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japan",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "梶山雄ー",
+   "type": "student_of",
+   "object": "ムカジー",
+   "role": null,
+   "place": null,
+   "year_start": 1953,
+   "year_end": 1956,
+   "explicit": true,
+   "evidence": "ムカジーの下に留学経験 ( 195 3‑5 6年)のある梶山雄ー",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ole Holten Pind",
+   "type": "studied_at",
+   "object": "Universität Wien",
+   "role": "PhD",
+   "place": "Wien",
+   "year_start": null,
+   "year_end": 2009,
+   "explicit": true,
+   "evidence": "2009 Dignaga's Philosophy of Language... An unpublished dissertation submitted to Universität Wien.",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Kataoka2012h",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Kataoka2012h.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 27,
+  "script": "cjk",
+  "kd_docid": "d7096bd1__Kataoka2012h"
+ },
+ "model": "gemini-flash-latest"
+}

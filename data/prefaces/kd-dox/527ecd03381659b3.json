@@ -1,0 +1,77 @@
+{
+ "author": "Max Walleser",
+ "doc_kind": "text_edition",
+ "doc_year": 1967,
+ "people": [
+  {
+   "name": "Max Walleser",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hermann Kopp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Edmund Hardy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hermann Kopp",
+   "type": "student_of",
+   "object": "Max Walleser",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I now avail myself of the opportunity to return my best thanks to my esteemed Professor, Dr. Max Walleser of Heidelberg, for entrusting me with the present work and for the valuable help he gave me in preparing this edition.",
+   "quote_ok": true,
+   "page": 6,
+   "gloss_en": null
+  },
+  {
+   "subject": "Max Walleser",
+   "type": "position_at",
+   "object": "Heidelberg",
+   "role": "Professor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "my esteemed Professor, Dr. Max Walleser of Heidelberg",
+   "quote_ok": true,
+   "page": 6,
+   "gloss_en": null
+  }
+ ],
+ "docid": "AN-a2",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Editions Series/AN-a2.pdf.txt",
+ "meta": {
+  "title": "Manorathapūraṇī: Buddhaghosa's Commentary on the Aṅguttara-Nikāya, Vol. II. Eka-Duka-Tika-Nipāta Vaṇṇanā",
+  "author": "Max Walleser; Hermann Kopp",
+  "year": 1967,
+  "language": "English",
+  "kd_docid": "54c77fda__AN-a2",
+  "category": "Editions Series",
+  "pdf_pages": 389,
+  "dissertation": null,
+  "preface_signed": {
+   "place": "Heidelberg",
+   "date_text": "February, 1967",
+   "year": 1967
+  }
+ },
+ "model": "claude:sonnet (kd pass 1)"
+}

@@ -1,0 +1,90 @@
+{
+ "author": "Sten Konow",
+ "doc_kind": "monograph",
+ "doc_year": 1920,
+ "people": [
+  {
+   "name": "Sten Konow",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "G. Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "F. Kielhorn",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "H. Lüders",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "J. Wackernagel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "G. Bühler",
+   "type": "founded",
+   "object": "Grundriss der Indo-Arischen Philologie und Altertumskunde",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "GRUNDRISS DER INDO-ARISCHEN PHILOLOGIE UND ALTERTUMSKUNDE ... BEGRÜNDET VON G. BÜHLER",
+   "quote_ok": true
+  },
+  {
+   "subject": "F. Kielhorn",
+   "type": "other",
+   "object": "G. Bühler",
+   "role": "continued the Grundriss series founded by Bühler",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "BEGRÜNDET VON G. BÜHLER, FORTGESETZT VON F. KIELHORN",
+   "quote_ok": true
+  },
+  {
+   "subject": "H. Lüders",
+   "type": "collaborated_with",
+   "object": "J. Wackernagel",
+   "role": "co-editors of Grundriss der Indo-Arischen Philologie und Altertumskunde",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "HERAUSGEGEBEN VON H. LÜDERS UND J. WACKERNAGEL",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Kon920__Konow_DasIndischeDrama",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/books_g/Konow_S/Kon920__Konow_DasIndischeDrama.pdf.txt",
+ "meta": {
+  "category": "Tohoku",
+  "pdf_pages": 143,
+  "script": "latin",
+  "kd_docid": "f8209392__Kon920__Konow_DasIndischeDrama"
+ },
+ "model": "gemini-flash-latest"
+}

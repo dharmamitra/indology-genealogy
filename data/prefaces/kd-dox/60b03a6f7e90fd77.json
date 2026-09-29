@@ -1,0 +1,76 @@
+{
+ "author": "Sylvain Lévi",
+ "doc_kind": "monograph",
+ "doc_year": 1898,
+ "people": [
+  {
+   "name": "Sylvain Lévi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Finot",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Foucher",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sylvain Lévi",
+   "type": "position_at",
+   "object": "École des Hautes Études, Section des sciences religieuses",
+   "role": "Directeur-adjoint",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "PAR SYLVAIN LÉV1 DIRECTEUR-ADJOINT A L'ECOLE DES HAUTES ÉTUDES (Section des sciences religieuses.)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sylvain Lévi",
+   "type": "collaborated_with",
+   "object": "Finot",
+   "role": "proofreading and preparation of publication",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Le dévouement souvent éprouvé et toujours prêt de M . Finot a assuré la correction matérielle de l'ouvrage [...] tout ce que je dois de reconnaissance à ces deux collaborateurs.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sylvain Lévi",
+   "type": "collaborated_with",
+   "object": "Foucher",
+   "role": "proofreading and preparation of publication",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "M . Foucher, à peine revenu de l'Inde, a bien voulu le seconder. La multitude des textes cités en transcription dit assez tout ce que je dois de reconnaissance à ces deux collaborateurs.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Lev898__LeviS_DoctrineDuSacrificeDansLesBrahmanas",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/books_g/Levi_Sylvain/Lev898__LeviS_DoctrineDuSacrificeDansLesBrahmanas.pdf.txt",
+ "meta": {
+  "category": "Tohoku",
+  "pdf_pages": 189,
+  "script": "latin",
+  "kd_docid": "9eff3676__Lev898__LeviS_DoctrineDuSacrificeDansLesBrahmanas"
+ },
+ "model": "gemini-flash-latest"
+}

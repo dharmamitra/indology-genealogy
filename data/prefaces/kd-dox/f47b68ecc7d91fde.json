@@ -1,0 +1,57 @@
+{
+ "author": "Marco Ferrante",
+ "doc_kind": "article",
+ "doc_year": 2014,
+ "people": [
+  {
+   "name": "Marco Ferrante",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Raffaele Torella",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Marco Ferrante",
+   "type": "position_at",
+   "object": "Sapienza University of Rome",
+   "role": null,
+   "place": "Rome",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Marco Ferrante1\n  Sapienza University of Rome",
+   "quote_ok": true
+  },
+  {
+   "subject": "Raffaele Torella",
+   "type": "position_at",
+   "object": "Rivista degli Studi Orientali",
+   "role": "Direttore responsabile",
+   "place": "Rome",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Raffaele Torella, Direttore responsabile",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Ferrante 2014_Sabdapurvayoga",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Ferrante 2014_Sabdapurvayoga.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 20,
+  "script": "latin",
+  "kd_docid": "75e01d05__Ferrante_2014_Sabdapurvayoga"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,133 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 1933,
+ "people": [
+  {
+   "name": "CHARLES HARTSHORNE",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "PAUL WEISS",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "CHARLES SANDERS PEIRCE",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  },
+  {
+   "name": "Augustus De Morgan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "logic"
+  },
+  {
+   "name": "E. C. Hegeler",
+   "birth_year": 1835,
+   "death_year": 1910,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Paul Carus",
+   "birth_year": 1852,
+   "death_year": 1919,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "CHARLES HARTSHORNE",
+   "type": "collaborated_with",
+   "object": "PAUL WEISS",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": 1933,
+   "explicit": true,
+   "evidence": "COLLECTED PAPERS OF CHARLES SANDERS PEIRCE CHARLES HARTSHORNE PAUL WEISS VOLUME IV",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. C. Hegeler",
+   "type": "founded",
+   "object": "The Monist",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "E. C. Hegeler (1835-1910), founder of the Open Court Monihly and The Monist.",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. C. Hegeler",
+   "type": "founded",
+   "object": "Open Court Monihly",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "E. C. Hegeler (1835-1910), founder of the Open Court Monihly and The Monist.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Carus",
+   "type": "position_at",
+   "object": "The Monist",
+   "role": "editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Paul Carus (1852-1919), editor of the Open Court Monthly and The Monist.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Carus",
+   "type": "position_at",
+   "object": "Open Court Monthly",
+   "role": "editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Paul Carus (1852-1919), editor of the Open Court Monthly and The Monist.",
+   "quote_ok": true
+  },
+  {
+   "subject": "CHARLES SANDERS PEIRCE",
+   "type": "collaborated_with",
+   "object": "Augustus De Morgan",
+   "role": "discussion",
+   "place": null,
+   "year_start": 1870,
+   "year_end": 1870,
+   "explicit": true,
+   "evidence": "I shall never forget all there was of manliness and pathos in De Morgan’s face when I pointed it out to him in 1870.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Peirce_C_S_1933_CP4",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Peirce_C_S_1933_CP4.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 291,
+  "script": "latin",
+  "kd_docid": "893eb66e__Peirce_C_S_1933_CP4"
+ },
+ "model": "gemini-flash-latest"
+}

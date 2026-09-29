@@ -1,0 +1,71 @@
+{
+ "author": "Richard Schmidt",
+ "doc_kind": "monograph",
+ "doc_year": 1924,
+ "people": [
+  {
+   "name": "Richard Schmidt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Zachariae",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "cand. E. Baer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hertel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "cand. E. Baer",
+   "type": "studied_at",
+   "object": "Zürich",
+   "role": null,
+   "place": "Zürich",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "cand. E. Baer (Zürich)",
+   "quote_ok": false
+  },
+  {
+   "subject": "Richard Schmidt",
+   "type": "collaborated_with",
+   "object": "Hertel",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Amit(agati), Subhasitasamdoha ed. Hertel u. Schmidt, ZDMG 59. 61.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "PW_Nachtr",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/books_y/PW_Nachtr.pdf.txt",
+ "meta": {
+  "category": "Tohoku",
+  "pdf_pages": 385,
+  "script": "latin",
+  "kd_docid": "a12c00eb__PW_Nachtr"
+ },
+ "model": "gemini-flash-latest"
+}

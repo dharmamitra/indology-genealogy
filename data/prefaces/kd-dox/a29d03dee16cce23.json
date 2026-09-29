@@ -1,0 +1,64 @@
+{
+ "author": "T. Ganapati Sastri",
+ "doc_kind": "text_edition",
+ "doc_year": 1922,
+ "people": [
+  {
+   "name": "T. Ganapati Sastri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Parameswaran Namburpad",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Silpa"
+  },
+  {
+   "name": "Ite Sridhara Varyar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "T. Ganapati Sastri",
+   "type": "position_at",
+   "object": "Department for the Publication of Sanskrit Manuscripts, Trivandrum",
+   "role": "Curator",
+   "place": "Trivandrum",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "MAHAMAHOPADHYAYA T GANAPATI SASTRI Curator of the Department for the Publication of Sanskrit Manutoripls, Trivandrum",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ite Sridhara Varyar",
+   "type": "student_of",
+   "object": "Parameswaran Namburpad",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "his pupil Ite Sridhara Varyar completed the work left unfinished by his teacher.",
+   "quote_ok": false
+  }
+ ],
+ "docid": "TSS-075_The_silparatna_of_sri_kumara_-_K_Sambasiva_Sastri_-_Volume_11922",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/books_y/TrivandrumSS/TSS-075_The_silparatna_of_sri_kumara_-_K_Sambasiva_Sastri_-_Volume_11922.pdf.txt",
+ "meta": {
+  "category": "Tohoku",
+  "pdf_pages": 300,
+  "script": "deva",
+  "kd_docid": "50f985ef__TSS-075_The_silparatna_of_sri_kumara_-_K_Sambasiva_Sastri_-_"
+ },
+ "model": "gemini-flash-latest"
+}

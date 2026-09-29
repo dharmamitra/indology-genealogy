@@ -1,0 +1,64 @@
+{
+ "author": "Andrey Klebanov",
+ "doc_kind": "article",
+ "doc_year": 2015,
+ "people": [
+  {
+   "name": "Andrey Klebanov",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Bālarāmaprasāda Lāmicchāne",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Nepalese",
+   "field": null
+  },
+  {
+   "name": "Naya Raj Pant",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Nepalese",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Andrey Klebanov",
+   "type": "position_at",
+   "object": "Centre for the Study of Manuscript Cultures, University of Hamburg",
+   "role": null,
+   "place": "Hamburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Andrey Klebanov\nCentre for the Study of Manuscript Cultures, University of Hamburg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bālarāmaprasāda Lāmicchāne",
+   "type": "student_of",
+   "object": "Naya Raj Pant",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Bālarāmaprasāda Lāmicchāne, a student of the famous Nepalese astronomer Naya Raj Pant.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Klebanov_NepSS_v2",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Klebanov_NepSS_v2.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 47,
+  "script": "latin",
+  "kd_docid": "a4a65477__Klebanov_NepSS_v2"
+ },
+ "model": "gemini-flash-latest"
+}

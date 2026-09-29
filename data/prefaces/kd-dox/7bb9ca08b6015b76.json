@@ -1,0 +1,104 @@
+{
+ "author": null,
+ "doc_kind": "text_edition",
+ "doc_year": 1902,
+ "people": [
+  {
+   "name": "दुर्गाप्रसाद",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "केदारनाथ",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "शिवदत्तशर्मा",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "पाण्डुरङ्ग",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "काञ्चीनाथशर्मा",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "रामकृष्ण गोपाल भाण्डारकर",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "G. Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "केदारनाथ",
+   "type": "other",
+   "object": "दुर्गाप्रसाद",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "जयपुरमहाराजाश्रितमहामहोपाध्यायपण्डितदुर्गाप्रसाददारक-केदारनाथ",
+   "quote_ok": true
+  },
+  {
+   "subject": "काञ्चीनाथशर्मा",
+   "type": "other",
+   "object": "पाण्डुरङ्ग",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "मुम्बापुरवासिपरबोपाह-पाण्डुरङ्गात्मजकाञ्चीनाथशर्मणा",
+   "quote_ok": true
+  },
+  {
+   "subject": "शिवदत्तशर्मा",
+   "type": "collaborated_with",
+   "object": "काञ्चीनाथशर्मा",
+   "role": "co-editor",
+   "place": "Mumbai",
+   "year_start": null,
+   "year_end": 1902,
+   "explicit": true,
+   "evidence": "महामहोपाध्यायपण्डितशिवदत्तशर्मणा, मुम्बापुरवासिपरबोपाह-पाण्डुरङ्गात्मजकाञ्चीनाथशर्मणा च संशोधितम्‌",
+   "quote_ok": true
+  }
+ ],
+ "docid": "surathotsava 2",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/surathotsava 2.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 123,
+  "script": "deva",
+  "kd_docid": "3b7110f0__surathotsava_2"
+ },
+ "model": "gemini-flash-latest"
+}

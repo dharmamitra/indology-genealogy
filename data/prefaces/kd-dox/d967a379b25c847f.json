@@ -1,0 +1,133 @@
+{
+ "author": "सरयुपाहरामचन्द्रशास्त्री",
+ "doc_kind": "text_edition",
+ "doc_year": 1940,
+ "people": [
+  {
+   "name": "सरयुपाहरामचन्द्रशास्त्री",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology, Vedanta"
+  },
+  {
+   "name": "पा. नारायणशास्त्री",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Advaita Vedanta"
+  },
+  {
+   "name": "पि. आर. शिवसुब्रह्मण्यशास्त्री",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Dharmasastra"
+  },
+  {
+   "name": "नागेशशास्त्री",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "सीतारामभट्ट",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "वेङ्कटरमणशास्त्री",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "सरयुपाहरामचन्द्रशास्त्री",
+   "type": "student_of",
+   "object": "पा. नारायणशास्त्री",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "महीशूरसंस्कृतमहापाठशालायामद्वैतवेदान्तप्रधानाध्यापकैरस्मद्गुरुवर्यैः श्री ० पा. नारायणशास्त्रिपदैः",
+   "quote_ok": true
+  },
+  {
+   "subject": "पा. नारायणशास्त्री",
+   "type": "position_at",
+   "object": "महीशूरसंस्कृतमहापाठशाला",
+   "role": "अद्वैतवेदान्तप्रधानाध्यापक",
+   "place": "Mysore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "महीशूरसंस्कृतमहापाठशालायामद्वैतवेदान्तप्रधानाध्यापकैरस्मद्गुरुवर्यैः श्री ० पा. नारायणशास्त्रिपदैः",
+   "quote_ok": true
+  },
+  {
+   "subject": "पि. आर. शिवसुब्रह्मण्यशास्त्री",
+   "type": "position_at",
+   "object": "महीशूरसंस्कृतपाठशाला",
+   "role": "धर्मशास्त्रप्रधानाध्यापक",
+   "place": "Mysore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "महीशूरस्थपाठशालायां धर्मशास्त्रप्रधानाध्यापकानां पि. आर. शिवसुब्रह्मण्यशास्त्रिणां",
+   "quote_ok": true
+  },
+  {
+   "subject": "नागेशशास्त्री",
+   "type": "position_at",
+   "object": "धारानगर श्रीशंकराचार्यसंस्कृतपाठशाला",
+   "role": "मुख्याध्यापक",
+   "place": "Dharwad",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "धारानगर श्रीशंकराचार्यसंस्कृतपाठशालायां मुख्याध्यापकानां नागेशशास्त्रिणां",
+   "quote_ok": true
+  },
+  {
+   "subject": "सीतारामभट्ट",
+   "type": "collaborated_with",
+   "object": "सरयुपाहरामचन्द्रशास्त्री",
+   "role": "assistant in copying/editing",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "लेखनादिषूपकृतवतां मन्मित्रवर्याणां , हिरेमङ्गलूराभिजन ब्र ० श्री ० सीतारामभट्टानां",
+   "quote_ok": false
+  },
+  {
+   "subject": "वेङ्कटरमणशास्त्री",
+   "type": "collaborated_with",
+   "object": "सरयुपाहरामचन्द्रशास्त्री",
+   "role": "assistant in copying/editing",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "कर्वेत्यभिजन वे ० श्री ० वेङ्कटरमणशास्त्रिणां चोपकारभारं बिभर्मि",
+   "quote_ok": true
+  }
+ ],
+ "docid": "ASS_113_Madhvatantramukhamardanam_of_Appayya_Dishita_-_Ramachandra_Sastri_1940",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Tohoku/books_y/AnandasramaSS/ASS_113_Madhvatantramukhamardanam_of_Appayya_Dishita_-_Ramachandra_Sastri_1940.pdf.txt",
+ "meta": {
+  "category": "Tohoku",
+  "pdf_pages": 148,
+  "script": "deva",
+  "kd_docid": "58c1b513__ASS_113_Madhvatantramukhamardanam_of_Appayya_Dishita_-_Ramac"
+ },
+ "model": "gemini-flash-latest"
+}

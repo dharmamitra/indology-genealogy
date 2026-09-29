@@ -1,0 +1,76 @@
+{
+ "author": "Toshifumi Gotō",
+ "doc_kind": "article",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Norbert Oettinger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Stefan Schaffner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Thomas Steer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Norbert Oettinger",
+   "type": "collaborated_with",
+   "object": "Stefan Schaffner",
+   "role": "co-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": 2020,
+   "explicit": true,
+   "evidence": "Norbert Oettinger, Stefan Schaffner, Thomas Steer »Denken Sie einfach!“ Gedenkschrift fiir Karl Hoffmann Miinchener Studien zur Sprachwissenschaft Herausgegeben von Norbert Oettinger und Stefan Schaffner",
+   "quote_ok": false
+  },
+  {
+   "subject": "Norbert Oettinger",
+   "type": "collaborated_with",
+   "object": "Thomas Steer",
+   "role": "co-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": 2020,
+   "explicit": true,
+   "evidence": "Norbert Oettinger, Stefan Schaffner, Thomas Steer »Denken Sie einfach!“ Gedenkschrift fiir Karl Hoffmann",
+   "quote_ok": false
+  },
+  {
+   "subject": "Stefan Schaffner",
+   "type": "collaborated_with",
+   "object": "Thomas Steer",
+   "role": "co-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": 2020,
+   "explicit": true,
+   "evidence": "Norbert Oettinger, Stefan Schaffner, Thomas Steer »Denken Sie einfach!“ Gedenkschrift fiir Karl Hoffmann",
+   "quote_ok": false
+  }
+ ],
+ "docid": "GsKH Sonderdruck_Part1",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/GsKH Sonderdruck_Part1.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 24,
+  "script": "latin",
+  "kd_docid": "b1103389__GsKH_Sonderdruck_Part1"
+ },
+ "model": "gemini-flash-latest"
+}

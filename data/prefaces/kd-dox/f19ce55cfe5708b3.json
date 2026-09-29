@@ -1,0 +1,43 @@
+{
+ "people": [
+  {
+   "name": "Jay L. Garfield",
+   "birth_year": 1955,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  },
+  {
+   "name": "Jan Westerhoff",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jay L. Garfield",
+   "type": "collaborated_with",
+   "object": "Jan Westerhoff",
+   "role": "co-editors",
+   "place": null,
+   "year_start": null,
+   "year_end": 2015,
+   "explicit": true,
+   "evidence": "Madhyamaka and Yogacara : allies or rivals? / edited by Jay L. Garfield, Jan Westerhoff.",
+   "quote_ok": true
+  }
+ ],
+ "author": null,
+ "docid": "Garfield_Westerhoff_Madhyamaka_Yogacara searchable",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/books/Garfield_Westerhoff_Madhyamaka_Yogacara searchable.pdf.txt",
+ "meta": {
+  "category": "books",
+  "pdf_pages": 145,
+  "script": "latin",
+  "kd_docid": "88298330__Garfield_Westerhoff_Madhyamaka_Yogacara_searchable"
+ },
+ "model": "gemini-flash-latest"
+}

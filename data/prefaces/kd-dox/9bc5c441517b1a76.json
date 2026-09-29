@@ -1,0 +1,95 @@
+{
+ "author": "Chizuko Yoshimizu",
+ "doc_kind": "article",
+ "doc_year": 2016,
+ "people": [
+  {
+   "name": "Dorji Wangchuk",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  },
+  {
+   "name": "Michael Hahn",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Chizuko Yoshimizu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Tibetology"
+  },
+  {
+   "name": "Hiroshi Nemoto",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": "Tibetology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Dorji Wangchuk",
+   "type": "position_at",
+   "object": "Universität Hamburg",
+   "role": null,
+   "place": "Hamburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Department of Indian and Tibetan Studies, Universität Hamburg ... 9.9.2016, Hamburg Dorji Wangchuk",
+   "quote_ok": false
+  },
+  {
+   "subject": "Chizuko Yoshimizu",
+   "type": "position_at",
+   "object": "Tsukuba",
+   "role": null,
+   "place": "Tsukuba",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Chizuko YOSHIMIZU (Tsukuba)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hiroshi Nemoto",
+   "type": "position_at",
+   "object": "Hiroshima University",
+   "role": "Prof.",
+   "place": "Hiroshima",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. Hiroshi Nemoto of Hiroshima University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chizuko Yoshimizu",
+   "type": "collaborated_with",
+   "object": "Hiroshi Nemoto",
+   "role": "co-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I am indebted to Prof. Hiroshi Nemoto of Hiroshima University, my collaborator in the editorial work of the dBu ma tshig gsal gyi ti ka",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Yoshimizu 2016 How did Tibetans Learn a New Text",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Yoshimizu 2016 How did Tibetans Learn a New Text.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 36,
+  "script": "latin",
+  "kd_docid": "91b35d04__Yoshimizu_2016_How_did_Tibetans_Learn_a_New_Text"
+ },
+ "model": "gemini-flash-latest"
+}

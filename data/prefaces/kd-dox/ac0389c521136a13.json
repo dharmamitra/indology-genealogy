@@ -1,0 +1,57 @@
+{
+ "author": "Ivan Andrijanić",
+ "doc_kind": "article",
+ "doc_year": 2025,
+ "people": [
+  {
+   "name": "Ivan Andrijanić",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Croatian",
+   "field": "Indology"
+  },
+  {
+   "name": "Jacek Bąkowski",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ivan Andrijanić",
+   "type": "position_at",
+   "object": "Department of Asian Studies, Faculty of Humanities and Social Sciences, University of Zagreb",
+   "role": null,
+   "place": "Zagreb, Croatia",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Department of Asian Studies, Faculty of Humanities and Social Sciences, University of Zagreb, Ivana Lučića 3, 10000 Zagreb, Croatia",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ivan Andrijanić",
+   "type": "collaborated_with",
+   "object": "Jacek Bąkowski",
+   "role": "co-researcher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "a recent computational stylometric study conducted by Ivan Andrijanić and Jacek Bąkowski using the General Imposters authorship verification method",
+   "quote_ok": false
+  }
+ ],
+ "docid": "Andrijanic_The-Authorship-of-Sanatsujatiya-and-Visnusahasranama-Bhasya",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Andrijanic_The-Authorship-of-Sanatsujatiya-and-Visnusahasranama-Bhasya.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 18,
+  "script": "latin",
+  "kd_docid": "a0d38586__Andrijanic_The-Authorship-of-Sanatsujatiya-and-Visnusahasran"
+ },
+ "model": "gemini-flash-latest"
+}

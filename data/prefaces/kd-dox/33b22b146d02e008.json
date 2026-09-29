@@ -1,0 +1,102 @@
+{
+ "author": "A. A. Führer",
+ "doc_kind": "text_edition",
+ "doc_year": 1901,
+ "people": [
+  {
+   "name": "A. A. Führer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Georg Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "M. Aurel Stein",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "P. Peterson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Bapudeva S'astri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "A. A. Führer",
+   "type": "student_of",
+   "object": "Georg Bühler",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "TO THE REVERED MEMORY OF THE LATE HOFRAT Professor Dr. Georg Bühler ... THIS WORK IS DEDICATED ... BY HIS FORMER PUPIL, THE EDITOR.",
+   "quote_ok": false
+  },
+  {
+   "subject": "A. A. Führer",
+   "type": "position_at",
+   "object": "Archaeological Survey of India",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "owing to my multifarious duties in connection with the Archaeological Survey of India and the Lakhnau Provincial Museum",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. A. Führer",
+   "type": "position_at",
+   "object": "Lakhnau Provincial Museum",
+   "role": null,
+   "place": "Lucknow",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "owing to my multifarious duties in connection with the Archaeological Survey of India and the Lakhnau Provincial Museum",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bapudeva S'astri",
+   "type": "position_at",
+   "object": "Banaras Sanskrit College",
+   "role": null,
+   "place": "Banaras",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "belonging to the late Bapudeva S'Astri of the Banaras Sanskrit College",
+   "quote_ok": true
+  }
+ ],
+ "docid": "harsacarita_ed_fuehler_DLI",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/harsacarita_ed_fuehler_DLI.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 335,
+  "script": "deva",
+  "kd_docid": "5b008f92__harsacarita_ed_fuehler_DLI"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,57 @@
+{
+ "author": "Friedrich Max Müller",
+ "doc_kind": "text_edition",
+ "doc_year": 1877,
+ "people": [
+  {
+   "name": "Friedrich Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German-British",
+   "field": "Sanskrit/Indology"
+  },
+  {
+   "name": "Theodor Aufrecht",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Max Müller",
+   "type": "position_at",
+   "object": "University of Oxford",
+   "role": "Taylorian Professor",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "By Max काल, M.A., Taylorian Professor in the University of Oxford.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Müller",
+   "type": "other",
+   "object": "Theodor Aufrecht",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "My learned friend Prof. Aufrecht has been most unfairly charged with having printed his Romanised text mec insciente vel invito.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Müller, The Hymns of the Rigveda, vol 1",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Müller, The Hymns of the Rigveda, vol 1.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 828,
+  "script": "deva",
+  "kd_docid": "48b64399__Müller_The_Hymns_of_the_Rigveda_vol_1"
+ },
+ "model": "claude:sonnet"
+}

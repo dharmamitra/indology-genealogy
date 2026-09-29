@@ -1,0 +1,57 @@
+{
+ "author": "A. F. Rudolf Hoernle",
+ "doc_kind": "text_edition",
+ "doc_year": 1912,
+ "people": [
+  {
+   "name": "A. F. Rudolf Hoernle",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Haraprasad Shastri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "A. F. Rudolf Hoernle",
+   "type": "position_at",
+   "object": "Calcutta Madrasah",
+   "role": "Principal",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "EDITED BY A. F. RUDOLF HOERNLE, C.I.E., M.A., PH.D. LATE PRINCIPAL, CALCUTTA MADRASAH",
+   "quote_ok": false
+  },
+  {
+   "subject": "Haraprasad Shastri",
+   "type": "position_at",
+   "object": "Bengal Library",
+   "role": "Librarian",
+   "place": "Bengal",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I also wish to express my obligation to the learned Shastri Haraprasad, Bengal Librarian",
+   "quote_ok": true
+  }
+ ],
+ "docid": "The Bower Manuscript",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/The Bower Manuscript.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 638,
+  "script": "latin",
+  "kd_docid": "799377ec__The_Bower_Manuscript"
+ },
+ "model": "gemini-flash-latest"
+}

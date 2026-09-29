@@ -1,0 +1,71 @@
+{
+ "author": null,
+ "doc_kind": "journal_volume",
+ "doc_year": 2007,
+ "people": [
+  {
+   "name": "Master Ji Ru",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Xianyang",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Judith Toy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhism"
+  },
+  {
+   "name": "Thich Nhat Hanh",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Vietnamese",
+   "field": "Buddhism"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Master Ji Ru",
+   "type": "collaborated_with",
+   "object": "Xianyang",
+   "role": "co-editors",
+   "place": null,
+   "year_start": 2007,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Master Ji Ru, Editor-in-Chief / Xianyang, Editor",
+   "quote_ok": true
+  },
+  {
+   "subject": "Judith Toy",
+   "type": "student_of",
+   "object": "Thich Nhat Hanh",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "She was ordained by Thich Nhat Hanh as a lay monastic in the Order of Interbeing",
+   "quote_ok": true
+  }
+ ],
+ "docid": "RVQ-3",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/From Silk/Journals/RVQ/RVQ-3.pdf.txt",
+ "meta": {
+  "category": "From Silk",
+  "pdf_pages": 60,
+  "script": "latin",
+  "kd_docid": "bdfdc737__RVQ-3"
+ },
+ "model": "gemini-flash-latest"
+}

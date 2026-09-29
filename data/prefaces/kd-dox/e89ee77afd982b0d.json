@@ -1,0 +1,83 @@
+{
+ "author": "Harry Falk",
+ "doc_kind": "article",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Harry Falk",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "M. Kumbera Landrus",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "G. Fussman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "St. Zimmer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Harry Falk",
+   "type": "other",
+   "object": "G. Fussman",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "My friends G. Fussman and St. Zimmer added valuable thoughts and corrections",
+   "quote_ok": true
+  },
+  {
+   "subject": "Harry Falk",
+   "type": "other",
+   "object": "St. Zimmer",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "My friends G. Fussman and St. Zimmer added valuable thoughts and corrections",
+   "quote_ok": true
+  },
+  {
+   "subject": "M. Kumbera Landrus",
+   "type": "position_at",
+   "object": "Ashmolean",
+   "role": "Prof.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. M. Kumbera Landrus was most forthcoming at the Ashmolean",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Revision_of_Kharohi_inscriptions_in_th",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Revision_of_Kharohi_inscriptions_in_th.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 32,
+  "script": "latin",
+  "kd_docid": "b19997a8__Revision_of_Kharohi_inscriptions_in_th"
+ },
+ "model": "gemini-flash-latest"
+}

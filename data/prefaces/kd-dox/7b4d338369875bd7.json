@@ -1,0 +1,76 @@
+{
+ "author": "Jagadisha Chandra Chatterji",
+ "doc_kind": "text_edition",
+ "doc_year": 1916,
+ "people": [
+  {
+   "name": "Jagadisha Chandra Chatterji",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "Pt. Hara Bhatta Shastri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  },
+  {
+   "name": "Pt. Maheshvar Rajdnak",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jagadisha Chandra Chatterji",
+   "type": "studied_at",
+   "object": "University of Cambridge",
+   "role": "B.A.",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "EDITED BY JAGADISHA CHANDRA CHATTERUI, B- A. (Cantab)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jagadisha Chandra Chatterji",
+   "type": "collaborated_with",
+   "object": "The Research Department OF THE KASHMIR STATE",
+   "role": "editor with the co-operation of the Pandits",
+   "place": "Srinagar",
+   "year_start": null,
+   "year_end": 1916,
+   "explicit": true,
+   "evidence": "EDITED BY JAGADISHA CHANDRA CHATTERUI, B- A. (Cantab), VIDYAVARIDHI ... The co-operation of the Pandits OF The Research Department OF THE KASHMIR STATE",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pt. Maheshvar Rajdnak",
+   "type": "position_at",
+   "object": "The Research Department OF THE KASHMIR STATE",
+   "role": "Pandit",
+   "place": "Srinagar",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pt. Maheshvar Rajdnak of Department.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "PDF",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/from muktabodha/KSTS/KSTS007/PDF/PDF.pdf.txt",
+ "meta": {
+  "category": "from muktabodha",
+  "pdf_pages": 202,
+  "script": "deva",
+  "kd_docid": "3ea88686__PDF"
+ },
+ "model": "gemini-flash-latest"
+}

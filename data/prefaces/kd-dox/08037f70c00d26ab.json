@@ -1,0 +1,90 @@
+{
+ "author": "Russell Webb",
+ "doc_kind": "text_edition",
+ "doc_year": 1991,
+ "people": [
+  {
+   "name": "Russell Webb",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "A.C. March",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "I.B. Horner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Pali studies"
+  },
+  {
+   "name": "Jack Austin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "G.F. Allen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "A.C. March",
+   "type": "founded",
+   "object": "Buddhism in England",
+   "role": "founder-editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "An Analysis of the Pali Canon was originally the work of A.C. March, the founder-editor of Buddhism in England",
+   "quote_ok": true
+  },
+  {
+   "subject": "I.B. Horner",
+   "type": "position_at",
+   "object": "Pali Text Society",
+   "role": "President",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I.B. Horner (the late President of the Pali Text Society)",
+   "quote_ok": true
+  },
+  {
+   "subject": "I.B. Horner",
+   "type": "collaborated_with",
+   "object": "Jack Austin",
+   "role": "co-revisers",
+   "place": null,
+   "year_start": null,
+   "year_end": 1956,
+   "explicit": true,
+   "evidence": "Finally, after extensive revision by I.B. Horner (the late President of the Pali Text Society) and Jack Austin, it appeared as an integral part of A Buddhist Student’s Manual, published in 1956",
+   "quote_ok": true
+  }
+ ],
+ "docid": "palicanonanalysis",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/books/palicanonanalysis.pdf.txt",
+ "meta": {
+  "category": "books",
+  "pdf_pages": 72,
+  "script": "latin",
+  "kd_docid": "d59ddde5__palicanonanalysis"
+ },
+ "model": "gemini-flash-latest"
+}

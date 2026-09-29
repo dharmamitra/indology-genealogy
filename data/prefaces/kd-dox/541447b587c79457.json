@@ -1,0 +1,124 @@
+{
+ "people": [
+  {
+   "name": "J. S. Negi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetology"
+  },
+  {
+   "name": "Samdhong Rinpoche",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Karma",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "R. R. Tripathi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Daya Ram Yadav",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Samdhong Rinpoche",
+   "type": "position_at",
+   "object": "Central Institute of Higher Tibetan Studies",
+   "role": "Chief Editor",
+   "place": "Sarnath, Varanasi",
+   "year_start": null,
+   "year_end": 2000,
+   "explicit": true,
+   "evidence": "Chief Editor: Prof. Samdhong Rinpoche ... Central Institute of Higher Tibetan Studies Sarnath, Varanasi, India, 2000.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karma",
+   "type": "position_at",
+   "object": "Central Institute of Higher Tibetan Studies",
+   "role": "Research Assistant (Dictionary Unit)",
+   "place": "Sarnath, Varanasi",
+   "year_start": null,
+   "year_end": 2000,
+   "explicit": true,
+   "evidence": "Research Assistant (Dictionary Unit): Karma ... Publisher Central Institute of Higher Tibetan Studies",
+   "quote_ok": true
+  },
+  {
+   "subject": "J. S. Negi",
+   "type": "position_at",
+   "object": "Central Institute of Higher Tibetan Studies",
+   "role": "Chief Editor, Dictionary Unit",
+   "place": "Sarnath, Varanasi",
+   "year_start": null,
+   "year_end": 2000,
+   "explicit": true,
+   "evidence": "J. S. Negi Chief Editor Dictionary Unit ... I feel very fortunate to have had the facilities and assistance from the Institute which made this work possible.",
+   "quote_ok": false
+  },
+  {
+   "subject": "Karma",
+   "type": "collaborated_with",
+   "object": "J. S. Negi",
+   "role": "Research Assistant",
+   "place": null,
+   "year_start": null,
+   "year_end": 2000,
+   "explicit": true,
+   "evidence": "I would also like to thank Mr. Karma, Research Assistant and Daya Ram Yadav for their active assistance. J. S. Negi Chief Editor Dictionary Unit",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daya Ram Yadav",
+   "type": "collaborated_with",
+   "object": "J. S. Negi",
+   "role": "assistant",
+   "place": null,
+   "year_start": null,
+   "year_end": 2000,
+   "explicit": true,
+   "evidence": "I would also like to thank Mr. Karma, Research Assistant and Daya Ram Yadav for their active assistance. J. S. Negi Chief Editor Dictionary Unit",
+   "quote_ok": true
+  },
+  {
+   "subject": "R. R. Tripathi",
+   "type": "collaborated_with",
+   "object": "J. S. Negi",
+   "role": "proofreader of Sanskrit portion",
+   "place": null,
+   "year_start": null,
+   "year_end": 2000,
+   "explicit": true,
+   "evidence": "I would like to express my deepest gratitude to Dr. R. R. Tripathi who kindly read the final proof of the Sanskrit portion of this Volume. ... J. S. Negi",
+   "quote_ok": true
+  }
+ ],
+ "author": null,
+ "docid": "Negi_2000_da",
+ "corpus": "kd-dox",
+ "path": "/mnt2/kengo/dox-text/txt/Books_and_Articles_on_iCloud/Negi_2000_da.pdf.txt",
+ "meta": {
+  "category": "(root)",
+  "pdf_pages": 303,
+  "script": "deva",
+  "kd_docid": "16047740__Negi_2000_da"
+ },
+ "model": "gemini-flash-latest"
+}
