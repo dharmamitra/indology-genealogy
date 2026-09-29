@@ -177,7 +177,13 @@ def quote_ok(evidence, chunk_norm, chunk=None):
         return True
     if chunk is None:
         return False
-    return quote_match(evidence, chunk, chunk_norm) >= (0.7 if CJK_RX.search(evidence) else 0.85)
+    if quote_match(evidence, chunk, chunk_norm) < (0.7 if CJK_RX.search(evidence) else 0.85):
+        return False
+    # a fuzzy match must not let a quote through whose NAMES differ from the page: every capitalised word of a Latin
+    # quote, and every run of 2-4 CJK characters, has to occur in the text (a swapped teacher's name scores 0.88 otherwise)
+    names = re.findall(r"(?<![\w.])[A-ZÀ-ÝĀ-Ž][\w'-]{2,}", evidence) if not CJK_RX.search(evidence) else \
+        [evidence[i:i + 2] for i in range(len(evidence) - 1) if CJK_RX.match(evidence[i]) and CJK_RX.match(evidence[i + 1])]
+    return all(_norm(n) in chunk_norm for n in names)
 
 
 def run_chunk(client, docid, idx, chunk):
