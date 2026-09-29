@@ -1,0 +1,76 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Brockhaus",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "UHLE, Heinrich – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1868,
+   "death_year": 1911
+  },
+  {
+   "name": "UHLE, Heinrich",
+   "birth_year": 1842,
+   "death_year": 1925
+  }
+ ],
+ "relations": [
+  {
+   "subject": "UHLE, Heinrich",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Leipzig, i.al. Indology under Brockhaus. Ph.D.",
+   "quote_ok": true
+  },
+  {
+   "subject": "UHLE, Heinrich",
+   "type": "student_of",
+   "object": "Brockhaus",
+   "role": "teacher",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Leipzig, i.al. Indology under Brockhaus.",
+   "quote_ok": true
+  },
+  {
+   "subject": "UHLE, Heinrich",
+   "type": "position_at",
+   "object": "Gymnasium zum heiligen Kreuz in Dresden",
+   "role": "taught classical languages",
+   "place": "Dresden",
+   "year_start": 1868,
+   "year_end": 1911,
+   "explicit": true,
+   "evidence": "In 1868-1911 taught classical languages at Gymnasium zum heiligen Kreuz in Dresden, then retired.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: UHLE, Heinrich",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4567-uhle-heinrich.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: UHLE, Heinrich",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4567/uhle-heinrich/",
+  "subject": "UHLE, Heinrich",
+  "birth_year": 1842,
+  "death_year": 1925
+ },
+ "model": "gemini-flash-latest"
+}

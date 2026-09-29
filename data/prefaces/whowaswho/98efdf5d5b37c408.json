@@ -1,0 +1,87 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Jacques P. van Goidsenhoven",
+   "birth_year": 1932,
+   "death_year": 1971,
+   "nationality": "Belgian",
+   "field": "Art Historian"
+  },
+  {
+   "name": "Jules Pierre van Goidsenhoven",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jules van Goidsenhoven",
+   "birth_year": 1889,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Claudine Bautze-Picron",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jules Pierre van Goidsenhoven",
+   "type": "position_at",
+   "object": "Musées royaux d’Art et d‘Histoire",
+   "role": null,
+   "place": null,
+   "year_start": 1936,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "he was already publishing in 1936 and worked then in Musées royaux d’Art et d‘Histoire.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jacques P. van Goidsenhoven",
+   "type": "other",
+   "object": "Jules Pierre van Goidsenhoven",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Jules Pierre van Goidsenhoven, probably the father of Jacques",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jules Pierre van Goidsenhoven",
+   "type": "other",
+   "object": "Jules van Goidsenhoven",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The elder J. P. van Goidsenhoven was son of Jules van Goidsenhoven (b. 1889)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GOIDSENHOVEN, Jacques P. van",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/14660-goidsenhoven-jacques-p-van.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GOIDSENHOVEN, Jacques P. van",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/14660/goidsenhoven-jacques-p-van/",
+  "subject": "GOIDSENHOVEN, Jacques P. van",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

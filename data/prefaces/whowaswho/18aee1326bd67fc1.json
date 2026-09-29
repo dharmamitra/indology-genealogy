@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Henry Newton",
+   "birth_year": 1822,
+   "death_year": 1900,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "NEWTON, Henry",
+   "birth_year": 1822,
+   "death_year": 1900
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Henry Newton",
+   "type": "studied_at",
+   "object": "Haileybury",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated in Shrewsbury and at Haileybury.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Newton",
+   "type": "position_at",
+   "object": "Bombay Civil Service",
+   "role": "Civil Servant",
+   "place": null,
+   "year_start": 1844,
+   "year_end": 1871,
+   "explicit": true,
+   "evidence": "In Bombay Civil Service 1844-71.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Newton",
+   "type": "position_at",
+   "object": "Bombay High Court",
+   "role": "Judge",
+   "place": null,
+   "year_start": 1862,
+   "year_end": 1871,
+   "explicit": true,
+   "evidence": "Judge at Bombay High Court 1862-71.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Newton",
+   "type": "position_at",
+   "object": "Bombay Branch of R.A.S.",
+   "role": "President",
+   "place": null,
+   "year_start": 1864,
+   "year_end": 1868,
+   "explicit": true,
+   "evidence": "President of the Bombay Branch of R.A.S. 1864-68.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: NEWTON, Henry",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/7008-newton-henry.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: NEWTON, Henry",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/7008/newton-henry/",
+  "subject": "NEWTON, Henry",
+  "birth_year": 1822,
+  "death_year": 1900
+ },
+ "model": "gemini-flash-latest"
+}

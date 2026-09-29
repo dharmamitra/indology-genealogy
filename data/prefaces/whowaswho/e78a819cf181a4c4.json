@@ -1,0 +1,116 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Joshua Marshman",
+   "birth_year": 1768,
+   "death_year": 1837,
+   "nationality": "British",
+   "field": "Indology and Sinology"
+  },
+  {
+   "name": "W. Ward",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Carey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "John Clark Marshman",
+   "birth_year": 1794,
+   "death_year": 1877,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "MARSHMAN, Joshua",
+   "birth_year": 1768,
+   "death_year": 1837
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Joshua Marshman",
+   "type": "collaborated_with",
+   "object": "W. Ward",
+   "role": null,
+   "place": "Serampur",
+   "year_start": 1799,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1799 left with his family, W. Ward and others for India (arrived in October). At the Missionary station in Serampur they collaborated preaching and translating the Bible",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joshua Marshman",
+   "type": "collaborated_with",
+   "object": "Carey",
+   "role": null,
+   "place": "Serampur",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Hearing of Carey’s work he joined the Baptist Missionary Society... At the Missionary station in Serampur they collaborated preaching and translating the Bible",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joshua Marshman",
+   "type": "collaborated_with",
+   "object": "John Clark Marshman",
+   "role": null,
+   "place": null,
+   "year_start": 1818,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1818 Marshman founded together with his son the first monthly magazine and the first weekly in Bengali.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joshua Marshman",
+   "type": "founded",
+   "object": "Serampore College",
+   "role": null,
+   "place": null,
+   "year_start": 1818,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Founder of the Serampore College 1818.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Clark Marshman",
+   "type": "other",
+   "object": "Joshua Marshman",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "of 12 children 6 survived, among them —> John Clark Marshman (1794–1877).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MARSHMAN, Joshua",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4055-marshman-joshua.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MARSHMAN, Joshua",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4055/marshman-joshua/",
+  "subject": "MARSHMAN, Joshua",
+  "birth_year": 1768,
+  "death_year": 1837
+ },
+ "model": "gemini-flash-latest"
+}

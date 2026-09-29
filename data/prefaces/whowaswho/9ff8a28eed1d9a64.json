@@ -1,0 +1,138 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Le Gentil",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Bailly",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "PLAYFAIR, John",
+   "birth_year": 1748,
+   "death_year": 1819
+  }
+ ],
+ "relations": [
+  {
+   "subject": "PLAYFAIR, John",
+   "type": "studied_at",
+   "object": "St.Andrews",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From the age of 14 studies at St.Andrews and Edinburgh",
+   "quote_ok": true
+  },
+  {
+   "subject": "PLAYFAIR, John",
+   "type": "studied_at",
+   "object": "Edinburgh",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From the age of 14 studies at St.Andrews and Edinburgh",
+   "quote_ok": true
+  },
+  {
+   "subject": "PLAYFAIR, John",
+   "type": "position_at",
+   "object": "University of Edinburgh",
+   "role": "Professor of Mathematics",
+   "place": "Edinburgh",
+   "year_start": 1785,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1785 Professor of Mathematics and from 1805 of Natural Philosophy at the University of Edinburgh.",
+   "quote_ok": true
+  },
+  {
+   "subject": "PLAYFAIR, John",
+   "type": "position_at",
+   "object": "University of Edinburgh",
+   "role": "Professor of Natural Philosophy",
+   "place": "Edinburgh",
+   "year_start": 1805,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1785 Professor of Mathematics and from 1805 of Natural Philosophy at the University of Edinburgh.",
+   "quote_ok": true
+  },
+  {
+   "subject": "PLAYFAIR, John",
+   "type": "founded",
+   "object": "Royal Society of Edinburgh",
+   "role": null,
+   "place": null,
+   "year_start": 1783,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1783 among the founders of the Royal Society of Edinburgh",
+   "quote_ok": true
+  },
+  {
+   "subject": "PLAYFAIR, John",
+   "type": "position_at",
+   "object": "Royal Society of London",
+   "role": "Fellow",
+   "place": "London",
+   "year_start": 1807,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1807 also Fellow of the Royal Society of London.",
+   "quote_ok": true
+  },
+  {
+   "subject": "PLAYFAIR, John",
+   "type": "influenced_by",
+   "object": "Le Gentil",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His information he culled from Le Gentil and Bailly.",
+   "quote_ok": true
+  },
+  {
+   "subject": "PLAYFAIR, John",
+   "type": "influenced_by",
+   "object": "Bailly",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His information he culled from Le Gentil and Bailly.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: PLAYFAIR, John",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/19582-playfair-john.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: PLAYFAIR, John",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/19582/playfair-john/",
+  "subject": "PLAYFAIR, John",
+  "birth_year": 1748,
+  "death_year": 1819
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,59 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2022,
+ "people": [
+  {
+   "name": "John Capper",
+   "birth_year": 1814,
+   "death_year": 1898,
+   "nationality": "British",
+   "field": "Journalism"
+  },
+  {
+   "name": "CAPPER, John",
+   "birth_year": 1814,
+   "death_year": 1898
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Capper",
+   "type": "founded",
+   "object": "The Ceylon Magazine",
+   "role": null,
+   "place": "Ceylon",
+   "year_start": 1840,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1840 founded short-lived (to 1842) The Ceylon Magazine",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Capper",
+   "type": "position_at",
+   "object": "Ceylon Times",
+   "role": "editor",
+   "place": "Ceylon",
+   "year_start": 1858,
+   "year_end": 1874,
+   "explicit": true,
+   "evidence": "Returned to Ceylon in 1858 and worked to 1874 as the editor of the Ceylon Times",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: CAPPER, John",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/27147-capper-john.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: CAPPER, John",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/27147/capper-john/",
+  "subject": "CAPPER, John",
+  "birth_year": 1814,
+  "death_year": 1898
+ },
+ "model": "gemini-flash-latest"
+}

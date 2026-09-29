@@ -1,0 +1,133 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Lars-Ivar Ringbom",
+   "birth_year": 1901,
+   "death_year": 1971,
+   "nationality": "Finnish",
+   "field": "Art Historian"
+  },
+  {
+   "name": "J. J. Tikkanen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Strzygowski",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sixten Ringbom",
+   "birth_year": 1935,
+   "death_year": 1992,
+   "nationality": null,
+   "field": "art historian"
+  },
+  {
+   "name": "RINGBOM, Lars-Ivar – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1869,
+   "death_year": 1937
+  },
+  {
+   "name": "RINGBOM, Lars-Ivar",
+   "birth_year": 1901,
+   "death_year": 1971
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Lars-Ivar Ringbom",
+   "type": "student_of",
+   "object": "J. J. Tikkanen",
+   "role": "teacher",
+   "place": "Helsinki",
+   "year_start": null,
+   "year_end": 1925,
+   "explicit": true,
+   "evidence": "Studies at Helsinki (M.A. 1925, under J. J. Tikkanen)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lars-Ivar Ringbom",
+   "type": "studied_at",
+   "object": "Helsinki",
+   "role": "M.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1925,
+   "explicit": true,
+   "evidence": "Studies at Helsinki (M.A. 1925, under J. J. Tikkanen)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lars-Ivar Ringbom",
+   "type": "studied_at",
+   "object": "Åbo Akademi",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1935,
+   "explicit": true,
+   "evidence": "and Åbo Akademi (Ph.D. 1935)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lars-Ivar Ringbom",
+   "type": "succeeded",
+   "object": "Strzygowski",
+   "role": null,
+   "place": "Åbo Akademi in Turku",
+   "year_start": 1925,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1925 taught art history at Åbo Akademi in Turku (succeeding Strzygowski)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lars-Ivar Ringbom",
+   "type": "position_at",
+   "object": "Åbo Akademi",
+   "role": "taught art history",
+   "place": "Turku",
+   "year_start": 1925,
+   "year_end": 1968,
+   "explicit": true,
+   "evidence": "From 1925 taught art history at Åbo Akademi in Turku (succeeding Strzygowski), from 1934 Docent, from 1943 eo. Professor. Retired 1968.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sixten Ringbom",
+   "type": "other",
+   "object": "Lars-Ivar Ringbom",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "his younger son Sixten Ringbom (1935–1992) was also art historian.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: RINGBOM, Lars-Ivar",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/20201-ringbom-lars-ivar.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: RINGBOM, Lars-Ivar",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/20201/ringbom-lars-ivar/",
+  "subject": "RINGBOM, Lars-Ivar",
+  "birth_year": 1901,
+  "death_year": 1971
+ },
+ "model": "gemini-flash-latest"
+}

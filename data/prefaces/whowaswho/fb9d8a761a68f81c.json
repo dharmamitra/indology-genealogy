@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2018,
+ "people": [
+  {
+   "name": "Henry Rice",
+   "birth_year": 1846,
+   "death_year": null,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Benjamin H. Rice",
+   "birth_year": 1814,
+   "death_year": 1887,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "RICE, Henry – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1814,
+   "death_year": 1887
+  },
+  {
+   "name": "RICE, Henry",
+   "birth_year": 1846,
+   "death_year": 1814
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Henry Rice",
+   "type": "other",
+   "object": "Benjamin H. Rice",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of Rev. —> Benjamin H. Rice (1814–1887)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Rice",
+   "type": "position_at",
+   "object": "London Missionary Society",
+   "role": "missionary",
+   "place": "Tamil Nadu",
+   "year_start": null,
+   "year_end": 1880,
+   "explicit": true,
+   "evidence": "Worked about 10 years for London Missionary Society in Tamil Nadu, but in 1880 moved to Church of Scotland Mission in Madras.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Rice",
+   "type": "position_at",
+   "object": "Church of Scotland Mission",
+   "role": "missionary",
+   "place": "Madras",
+   "year_start": 1880,
+   "year_end": 1905,
+   "explicit": true,
+   "evidence": "in 1880 moved to Church of Scotland Mission in Madras. Worked among low castes. Retired around 1905",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: RICE, Henry",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/9516-rice-henry.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: RICE, Henry",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/9516/rice-henry/",
+  "subject": "RICE, Henry",
+  "birth_year": 1846,
+  "death_year": 1814
+ },
+ "model": "gemini-flash-latest"
+}

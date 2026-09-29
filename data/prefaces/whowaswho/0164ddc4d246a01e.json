@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Francis Brandt",
+   "birth_year": 1840,
+   "death_year": 1925,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "BRANDT, Francis",
+   "birth_year": 1840,
+   "death_year": 1925
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Francis Brandt",
+   "type": "studied_at",
+   "object": "Oxford",
+   "role": "B.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1870,
+   "explicit": true,
+   "evidence": "After graduation from Oxford (Brasenose College, B.A. 1870)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francis Brandt",
+   "type": "studied_at",
+   "object": "Brasenose College",
+   "role": "B.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1870,
+   "explicit": true,
+   "evidence": "After graduation from Oxford (Brasenose College, B.A. 1870)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francis Brandt",
+   "type": "position_at",
+   "object": "Cambridge",
+   "role": "Lecturer in Tamil and Indian Law",
+   "place": null,
+   "year_start": 1891,
+   "year_end": 1895,
+   "explicit": true,
+   "evidence": "In 1891-95 Lecturer in Tamil and 1892-95 also in Indian Law at Cambridge.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BRANDT, Francis",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/26407-26407.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BRANDT, Francis",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/26407/26407/",
+  "subject": "BRANDT, Francis",
+  "birth_year": 1840,
+  "death_year": 1925
+ },
+ "model": "gemini-flash-latest"
+}

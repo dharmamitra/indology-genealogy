@@ -1,0 +1,176 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Joseph Mansion",
+   "birth_year": 1877,
+   "death_year": 1937,
+   "nationality": "Belgian",
+   "field": "Linguist"
+  },
+  {
+   "name": "Paul Mansion",
+   "birth_year": 1844,
+   "death_year": 1919,
+   "nationality": null,
+   "field": "mathematician"
+  },
+  {
+   "name": "La Vallée Poussin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Fohalle",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Suzanne Mansion",
+   "birth_year": 1916,
+   "death_year": 1981,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "MANSION, Joseph – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1844,
+   "death_year": 1919
+  },
+  {
+   "name": "MANSION, Joseph",
+   "birth_year": 1877,
+   "death_year": 1937
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Joseph Mansion",
+   "type": "other",
+   "object": "Paul Mansion",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of the mathematician Paul Mansion (1844–1919) and Marie-Cécile Belpaire.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Mansion",
+   "type": "studied_at",
+   "object": "Université de Gand",
+   "role": "Ph.D.",
+   "place": "Ghent",
+   "year_start": 1894,
+   "year_end": 1899,
+   "explicit": true,
+   "evidence": "he studied in 1894-99 classical philology and law at Université de Gand where he also learned Sanskrit under La Vallée Poussin. Ph.D. 1899 in classical philology",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Mansion",
+   "type": "student_of",
+   "object": "La Vallée Poussin",
+   "role": "teacher",
+   "place": "Université de Gand",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "learned Sanskrit under La Vallée Poussin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Mansion",
+   "type": "position_at",
+   "object": "Université de Liège",
+   "role": "chargé de cours",
+   "place": "Liège",
+   "year_start": 1904,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "From 1904 chargé de cours at Université de Liège",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Mansion",
+   "type": "position_at",
+   "object": "Université de Liège",
+   "role": "eo. Professor",
+   "place": "Liège",
+   "year_start": 1910,
+   "year_end": 1919,
+   "explicit": true,
+   "evidence": "from 1910 eo. and from 1919 ord. Professor there.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Mansion",
+   "type": "position_at",
+   "object": "Université de Liège",
+   "role": "ord. Professor",
+   "place": "Liège",
+   "year_start": 1919,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1910 eo. and from 1919 ord. Professor there.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fohalle",
+   "type": "succeeded",
+   "object": "Joseph Mansion",
+   "role": "teacher of Sanskrit",
+   "place": "Université de Liège",
+   "year_start": 1929,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sanskrit in 1908-29 (in this succeeded by his student Fohalle).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fohalle",
+   "type": "student_of",
+   "object": "Joseph Mansion",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in this succeeded by his student Fohalle",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Mansion",
+   "type": "other",
+   "object": "Suzanne Mansion",
+   "role": "daughter",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "father of Suzanne Mansion (1916–1981), a scholar of Aristotle",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MANSION, Joseph",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4021-mansion-joseph.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MANSION, Joseph",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4021/mansion-joseph/",
+  "subject": "MANSION, Joseph",
+  "birth_year": 1877,
+  "death_year": 1937
+ },
+ "model": "gemini-flash-latest"
+}

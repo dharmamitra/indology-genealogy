@@ -1,0 +1,109 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Wüst",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Fr. Heiler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "HARTOG, Hans",
+   "type": "studied_at",
+   "object": "Munich",
+   "role": null,
+   "place": "Munich",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Started studies at Munich (Wüst).",
+   "quote_ok": true
+  },
+  {
+   "subject": "HARTOG, Hans",
+   "type": "student_of",
+   "object": "Wüst",
+   "role": "teacher",
+   "place": "Munich",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Started studies at Munich (Wüst).",
+   "quote_ok": true
+  },
+  {
+   "subject": "HARTOG, Hans",
+   "type": "position_at",
+   "object": "Munich",
+   "role": "Assistant of Wüst",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was Assistant of Wüst, but eventually left him",
+   "quote_ok": true
+  },
+  {
+   "subject": "HARTOG, Hans",
+   "type": "studied_at",
+   "object": "Marburg",
+   "role": "Ph.D.",
+   "place": "Marburg",
+   "year_start": null,
+   "year_end": 1939,
+   "explicit": true,
+   "evidence": "Ph.D. 1939 Marburg (Heiler).",
+   "quote_ok": true
+  },
+  {
+   "subject": "HARTOG, Hans",
+   "type": "student_of",
+   "object": "Fr. Heiler",
+   "role": "doctoral supervisor",
+   "place": "Marburg",
+   "year_start": null,
+   "year_end": 1939,
+   "explicit": true,
+   "evidence": "Ph.D. 1939 Marburg (Heiler).",
+   "quote_ok": true
+  },
+  {
+   "subject": "HARTOG, Hans",
+   "type": "other",
+   "object": "Fr. Heiler",
+   "role": "son-in-law",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Married, son-in-law of Fr. Heiler.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HARTOG, Hans",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/31361-hartog-hans.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HARTOG, Hans",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/31361/hartog-hans/",
+  "subject": "HARTOG, Hans",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,61 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Samuel Turner",
+   "birth_year": 1759,
+   "death_year": 1802,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Samuel Davis",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Samuel Turner",
+   "type": "position_at",
+   "object": "Royal Society",
+   "role": "Fellow",
+   "place": null,
+   "year_start": 1801,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Fellow of Royal Society. January 1801",
+   "quote_ok": true
+  },
+  {
+   "subject": "Samuel Turner",
+   "type": "collaborated_with",
+   "object": "Samuel Davis",
+   "role": "accompanied on mission to Tibet",
+   "place": "Tibet",
+   "year_start": 1783,
+   "year_end": 1784,
+   "explicit": true,
+   "evidence": "In Tibet he was accompanied by —> Samuel Davis.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: TURNER, Samuel",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5092-turner-samuel.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: TURNER, Samuel",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5092/turner-samuel/",
+  "subject": "TURNER, Samuel",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

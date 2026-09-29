@@ -1,0 +1,114 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Antonín Jan Jungmann",
+   "birth_year": 1775,
+   "death_year": 1854,
+   "nationality": "Czech",
+   "field": "Physician"
+  },
+  {
+   "name": "Josef Jungmann",
+   "birth_year": 1773,
+   "death_year": 1847,
+   "nationality": "Czech",
+   "field": "linguist"
+  },
+  {
+   "name": "Franz Bopp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "JUNGMANN, Antonín Jan – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1773,
+   "death_year": 1847
+  },
+  {
+   "name": "JUNGMANN, Antonín Jan",
+   "birth_year": 1775,
+   "death_year": 1854
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Antonín Jan Jungmann",
+   "type": "studied_at",
+   "object": "Prague",
+   "role": "Dr.med.",
+   "place": "Prague",
+   "year_start": 1800,
+   "year_end": 1805,
+   "explicit": true,
+   "evidence": "began medical studies at Prague in 1800. Dr.med. 1805.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Antonín Jan Jungmann",
+   "type": "position_at",
+   "object": "Prague",
+   "role": "Professor of Medicine",
+   "place": "Prague",
+   "year_start": 1808,
+   "year_end": 1850,
+   "explicit": true,
+   "evidence": "From 1808 Professor of Medicine (obstetrics, ord. 1811)) at Prague, taught both in German and Czech. Retired 1850",
+   "quote_ok": true
+  },
+  {
+   "subject": "Antonín Jan Jungmann",
+   "type": "other",
+   "object": "Josef Jungmann",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "brother of —> A. J. Jungmann (1773–1847)... He collaborated with his brother Josef, who was a poet, linguist and one of the central figures of Czech national revival.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Antonín Jan Jungmann",
+   "type": "collaborated_with",
+   "object": "Josef Jungmann",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He collaborated with his brother Josef, who was a poet, linguist and one of the central figures of Czech national revival.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Antonín Jan Jungmann",
+   "type": "influenced_by",
+   "object": "Franz Bopp",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He became interested in Sanskrit and tried to learn it from Bopp’s Nala .",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: JUNGMANN, Antonín Jan",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/15960-jungmann-antonin-jan.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: JUNGMANN, Antonín Jan",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/15960/jungmann-antonin-jan/",
+  "subject": "JUNGMANN, Antonín Jan",
+  "birth_year": 1775,
+  "death_year": 1854
+ },
+ "model": "gemini-flash-latest"
+}

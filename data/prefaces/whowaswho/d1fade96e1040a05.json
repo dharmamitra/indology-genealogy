@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Franz Weihrich",
+   "birth_year": 1845,
+   "death_year": 1910,
+   "nationality": "German",
+   "field": "IE Linguistics"
+  },
+  {
+   "name": "Vullers",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "WEIHRICH, Franz – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1902,
+   "death_year": 1908
+  },
+  {
+   "name": "WEIHRICH, Franz",
+   "birth_year": 1845,
+   "death_year": 1910
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Franz Weihrich",
+   "type": "student_of",
+   "object": "Vullers",
+   "role": "doctoral supervisor",
+   "place": "Giessen",
+   "year_start": null,
+   "year_end": 1869,
+   "explicit": true,
+   "evidence": "Ph.D. 1869 Giessen (Vullers).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz Weihrich",
+   "type": "studied_at",
+   "object": "Giessen",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1869,
+   "explicit": true,
+   "evidence": "Ph.D. 1869 Giessen (Vullers).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: WEIHRICH, Franz",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5416-weihrich-franz.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: WEIHRICH, Franz",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5416/weihrich-franz/",
+  "subject": "WEIHRICH, Franz",
+  "birth_year": 1845,
+  "death_year": 1910
+ },
+ "model": "gemini-flash-latest"
+}

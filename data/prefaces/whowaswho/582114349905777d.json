@@ -1,0 +1,102 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Emil Franke",
+   "birth_year": 1880,
+   "death_year": 1939,
+   "nationality": "Czech",
+   "field": "Indology"
+  },
+  {
+   "name": "Zubatý",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "FRANKE, Emil",
+   "birth_year": 1880,
+   "death_year": 1939
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Emil Franke",
+   "type": "student_of",
+   "object": "Zubatý",
+   "role": "teacher",
+   "place": "Prague",
+   "year_start": 1902,
+   "year_end": 1908,
+   "explicit": true,
+   "evidence": "soon (1902-08) also Sanskrit under Zubatý",
+   "quote_ok": true
+  },
+  {
+   "subject": "Emil Franke",
+   "type": "studied_at",
+   "object": "Prague",
+   "role": null,
+   "place": "Prague",
+   "year_start": 1899,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1899 studies of law at Prague, soon (1902-08) also Sanskrit under Zubatý",
+   "quote_ok": true
+  },
+  {
+   "subject": "Emil Franke",
+   "type": "studied_at",
+   "object": "Vienna",
+   "role": null,
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then also at Vienna and Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Emil Franke",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then also at Vienna and Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Emil Franke",
+   "type": "position_at",
+   "object": "university library in Prague",
+   "role": null,
+   "place": "Prague",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Worked at university library in Prague.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: FRANKE, Emil",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/29733-franke-emil.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: FRANKE, Emil",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/29733/franke-emil/",
+  "subject": "FRANKE, Emil",
+  "birth_year": 1880,
+  "death_year": 1939
+ },
+ "model": "gemini-flash-latest"
+}

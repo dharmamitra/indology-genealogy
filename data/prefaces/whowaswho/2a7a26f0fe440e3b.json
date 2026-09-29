@@ -1,0 +1,126 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Klatt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Cappeller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "BLAU, August",
+   "birth_year": 1858,
+   "death_year": 1926
+  }
+ ],
+ "relations": [
+  {
+   "subject": "BLAU, August",
+   "type": "studied_at",
+   "object": "Jena",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1883,
+   "explicit": true,
+   "evidence": "Studies at Jena, 1883 Ph.D. in classical philology.",
+   "quote_ok": true
+  },
+  {
+   "subject": "BLAU, August",
+   "type": "position_at",
+   "object": "Breslau University Library",
+   "role": "assistant (Volontär)",
+   "place": null,
+   "year_start": 1883,
+   "year_end": 1884,
+   "explicit": true,
+   "evidence": "In 1883-84 assistant (Volontär) in Breslau University Library",
+   "quote_ok": true
+  },
+  {
+   "subject": "BLAU, August",
+   "type": "position_at",
+   "object": "Göttingen University Library",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then at Göttingen University Library",
+   "quote_ok": true
+  },
+  {
+   "subject": "BLAU, August",
+   "type": "position_at",
+   "object": "Berlin University Library",
+   "role": "Librarian",
+   "place": "Berlin",
+   "year_start": 1892,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1892 Librarian of Berlin University Library (succeeding Klatt), from 1902 Oberbibliothekar.",
+   "quote_ok": true
+  },
+  {
+   "subject": "BLAU, August",
+   "type": "succeeded",
+   "object": "Klatt",
+   "role": "Librarian",
+   "place": "Berlin University Library",
+   "year_start": 1892,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1892 Librarian of Berlin University Library (succeeding Klatt)",
+   "quote_ok": true
+  },
+  {
+   "subject": "BLAU, August",
+   "type": "student_of",
+   "object": "Cappeller",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Probably he was Cappeller’s student in Indology as this advised him to compile the Böhtlingk index.",
+   "quote_ok": true
+  },
+  {
+   "subject": "BLAU, August",
+   "type": "collaborated_with",
+   "object": "Cappeller",
+   "role": null,
+   "place": null,
+   "year_start": 1890,
+   "year_end": 1899,
+   "explicit": true,
+   "evidence": "Together with Cappeller he also contributed to Monier William’s Sanskrit Dictionary in the 1890s.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BLAU, August",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/782-blau-august.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BLAU, August",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/782/blau-august/",
+  "subject": "BLAU, August",
+  "birth_year": 1858,
+  "death_year": 1926
+ },
+ "model": "gemini-flash-latest"
+}

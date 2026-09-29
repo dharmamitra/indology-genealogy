@@ -1,0 +1,109 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Robert Chalmers",
+   "birth_year": 1858,
+   "death_year": 1938,
+   "nationality": "British",
+   "field": "Indologist"
+  },
+  {
+   "name": "E. Abbott",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rhys Davids",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "CHALMERS, Robert",
+   "birth_year": 1858,
+   "death_year": 1938
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Robert Chalmers",
+   "type": "student_of",
+   "object": "E. Abbott",
+   "role": "teacher",
+   "place": "City of London School",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at City of London School (under E. Abbott).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Chalmers",
+   "type": "studied_at",
+   "object": "Oriel College (Oxford)",
+   "role": "B.A.",
+   "place": "Oxford",
+   "year_start": 1877,
+   "year_end": 1881,
+   "explicit": true,
+   "evidence": "From 1877 studies of classical philology at Oriel College (Oxford), also natural science and some Sanskrit (B.A. 1881).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Chalmers",
+   "type": "position_at",
+   "object": "R.A.S.",
+   "role": "President",
+   "place": null,
+   "year_start": 1922,
+   "year_end": 1925,
+   "explicit": true,
+   "evidence": "President of the R.A.S. 1922-25.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Chalmers",
+   "type": "position_at",
+   "object": "Peterhouse (Cambridge)",
+   "role": "Master",
+   "place": "Cambridge",
+   "year_start": 1924,
+   "year_end": 1931,
+   "explicit": true,
+   "evidence": "Master of Peterhouse (Cambridge) 1924-31.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Chalmers",
+   "type": "student_of",
+   "object": "Rhys Davids",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "As a Pāli scholar Chalmers was a student of Rhys Davids",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: CHALMERS, Robert",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1224-chalmers-robert.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: CHALMERS, Robert",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1224/chalmers-robert/",
+  "subject": "CHALMERS, Robert",
+  "birth_year": 1858,
+  "death_year": 1938
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,97 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Graziadio Isaia Ascoli",
+   "birth_year": 1829,
+   "death_year": 1907,
+   "nationality": "Italian",
+   "field": "Linguist"
+  },
+  {
+   "name": "Samuel David Luzzato",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Hebrew scholar"
+  },
+  {
+   "name": "Filosenno Luzzato",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ASCOLI, Graziadio Isaia",
+   "birth_year": 1829,
+   "death_year": 1907
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Graziadio Isaia Ascoli",
+   "type": "student_of",
+   "object": "Samuel David Luzzato",
+   "role": "tutor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Tutored by the famous Hebrew scholar Samuel David Luzzato",
+   "quote_ok": true
+  },
+  {
+   "subject": "Filosenno Luzzato",
+   "type": "student_of",
+   "object": "Samuel David Luzzato",
+   "role": "tutor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Tutored by the famous Hebrew scholar Samuel David Luzzato together with his own son —> Filosenno Luzzato.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Filosenno Luzzato",
+   "type": "other",
+   "object": "Samuel David Luzzato",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Samuel David Luzzato together with his own son —> Filosenno Luzzato",
+   "quote_ok": true
+  },
+  {
+   "subject": "Graziadio Isaia Ascoli",
+   "type": "position_at",
+   "object": "R. Accademia Scientifico-letteraria di Milano",
+   "role": "Professor of Comparative Philology (di Storia comparata delle langue classiche e neolatine)",
+   "place": "Milano",
+   "year_start": 1861,
+   "year_end": 1902,
+   "explicit": true,
+   "evidence": "From 1861 until 1902 Professor of Comparative Philology (di Storia comparata delle langue classiche e neolatine) at the R. Accademia Scientifico-letteraria di Milano, also teaching Sanskrit.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ASCOLI, Graziadio Isaia",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/338-ascoli-graziadio-isaia.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ASCOLI, Graziadio Isaia",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/338/ascoli-graziadio-isaia/",
+  "subject": "ASCOLI, Graziadio Isaia",
+  "birth_year": 1829,
+  "death_year": 1907
+ },
+ "model": "gemini-flash-latest"
+}

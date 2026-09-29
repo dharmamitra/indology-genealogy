@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Eustace Carey",
+   "birth_year": 1791,
+   "death_year": 1855,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "William Carey",
+   "birth_year": 1761,
+   "death_year": 1834,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "CAREY, Eustace – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1761,
+   "death_year": 1834
+  },
+  {
+   "name": "CAREY, Eustace",
+   "birth_year": 1791,
+   "death_year": 1855
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Eustace Carey",
+   "type": "other",
+   "object": "William Carey",
+   "role": "nephew",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "nephew of —> William Carey (1761–1834)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eustace Carey",
+   "type": "studied_at",
+   "object": "Bristol College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at Bristol College",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: CAREY, Eustace",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1182-carey-eustace.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: CAREY, Eustace",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1182/carey-eustace/",
+  "subject": "CAREY, Eustace",
+  "birth_year": 1791,
+  "death_year": 1855
+ },
+ "model": "gemini-flash-latest"
+}

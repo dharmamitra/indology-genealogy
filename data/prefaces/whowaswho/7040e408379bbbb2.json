@@ -1,0 +1,102 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "John Dowson",
+   "birth_year": 1820,
+   "death_year": 1881,
+   "nationality": "British",
+   "field": "Indologist"
+  },
+  {
+   "name": "Edwin Norris",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "DOWSON, John",
+   "birth_year": 1820,
+   "death_year": 1881
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Dowson",
+   "type": "other",
+   "object": "Edwin Norris",
+   "role": "nephew",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In the age of 16 came to London to assist his uncle —> Edwin Norris",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edwin Norris",
+   "type": "position_at",
+   "object": "R.A.S.",
+   "role": "secretary",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Edwin Norris, the secretary of R.A.S.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Dowson",
+   "type": "position_at",
+   "object": "Haileybury",
+   "role": "Tutor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Tutor at Haileybury.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Dowson",
+   "type": "position_at",
+   "object": "University College in London",
+   "role": "Professor of Hindustani",
+   "place": "London",
+   "year_start": 1855,
+   "year_end": 1855,
+   "explicit": true,
+   "evidence": "In 1855 (unpaid) Professor of Hindustani at University College in London",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Dowson",
+   "type": "position_at",
+   "object": "Staff College in Sandhurst",
+   "role": "chair",
+   "place": "Sandhurst",
+   "year_start": 1855,
+   "year_end": 1877,
+   "explicit": true,
+   "evidence": "still in the same year obtained a chair at Staff College in Sandhurst, where he taught until 1877",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: DOWSON, John",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1629-dowson-john.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: DOWSON, John",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1629/dowson-john/",
+  "subject": "DOWSON, John",
+  "birth_year": 1820,
+  "death_year": 1881
+ },
+ "model": "gemini-flash-latest"
+}

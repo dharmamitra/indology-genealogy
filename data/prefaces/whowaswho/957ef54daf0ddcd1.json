@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Warren Hastings",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "BALFOUR, Francis",
+   "type": "studied_at",
+   "object": "Edinburgh",
+   "role": "Dr.Med.",
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": 1767,
+   "explicit": true,
+   "evidence": "Dr.Med. 1767 Edinburgh.",
+   "quote_ok": true
+  },
+  {
+   "subject": "BALFOUR, Francis",
+   "type": "position_at",
+   "object": "E.I.C.",
+   "role": "Assistant Surgeon",
+   "place": "India",
+   "year_start": 1769,
+   "year_end": 1777,
+   "explicit": true,
+   "evidence": "From 1769 Assistant Surgeon in E.I.C.’s service in India, mainly in Calcutta, full surgeon 1777.",
+   "quote_ok": true
+  },
+  {
+   "subject": "BALFOUR, Francis",
+   "type": "position_at",
+   "object": "E.I.C.",
+   "role": "full surgeon",
+   "place": "India",
+   "year_start": 1777,
+   "year_end": 1807,
+   "explicit": true,
+   "evidence": "full surgeon 1777. ... Retired in 1807",
+   "quote_ok": true
+  },
+  {
+   "subject": "BALFOUR, Francis",
+   "type": "other",
+   "object": "Warren Hastings",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a friend of Warren Hastings",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BALFOUR, Francis",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/491-balfour-francis.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BALFOUR, Francis",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/491/balfour-francis/",
+  "subject": "BALFOUR, Francis",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

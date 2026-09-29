@@ -1,0 +1,135 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "LIÉTARD, Gustave Alexandre",
+   "birth_year": 1833,
+   "death_year": 1904,
+   "nationality": "French",
+   "field": "Physician and Indologist"
+  },
+  {
+   "name": "Bergmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Foucaux",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Palmyr Cordier",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jolly",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indologist"
+  },
+  {
+   "name": "LIÉTARD, Gustave",
+   "birth_year": 1833,
+   "death_year": 1904
+  }
+ ],
+ "relations": [
+  {
+   "subject": "LIÉTARD, Gustave Alexandre",
+   "type": "studied_at",
+   "object": "College of Toul",
+   "role": null,
+   "place": "Toul",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he was educated at College of Toul",
+   "quote_ok": true
+  },
+  {
+   "subject": "LIÉTARD, Gustave Alexandre",
+   "type": "studied_at",
+   "object": "Faculté de médecine in Strasbourg",
+   "role": "Dr.med.",
+   "place": "Strasbourg",
+   "year_start": null,
+   "year_end": 1858,
+   "explicit": true,
+   "evidence": "studied at Faculté de médecine in Strasbourg. Dr.med. 1858 Strasbourg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "LIÉTARD, Gustave Alexandre",
+   "type": "student_of",
+   "object": "Bergmann",
+   "role": "teacher",
+   "place": "Strasbourg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At Faculté de lettres he also learned the elements of Sanskrit under Bergmann",
+   "quote_ok": true
+  },
+  {
+   "subject": "LIÉTARD, Gustave Alexandre",
+   "type": "student_of",
+   "object": "Foucaux",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "for a while was even able to attend Foucaux’s classes in Paris.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Palmyr Cordier",
+   "type": "student_of",
+   "object": "LIÉTARD, Gustave Alexandre",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Late in life he guided —> Palmyr Cordier in Āyurvedic studies.",
+   "quote_ok": true
+  },
+  {
+   "subject": "LIÉTARD, Gustave Alexandre",
+   "type": "collaborated_with",
+   "object": "Jolly",
+   "role": "correspondence",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "had a wide correspondence with many Indologists (e.g. Jolly).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: LIÉTARD, Gustave",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3809-lietard-gustave-alexandre.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: LIÉTARD, Gustave",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3809/lietard-gustave-alexandre/",
+  "subject": "LIÉTARD, Gustave",
+  "birth_year": 1833,
+  "death_year": 1904
+ },
+ "model": "gemini-flash-latest"
+}

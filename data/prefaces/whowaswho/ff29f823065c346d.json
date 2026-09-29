@@ -1,0 +1,97 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Henry Harkness",
+   "birth_year": 1787,
+   "death_year": 1838,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "MacKenzie",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ram Raz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "HARKNESS, Henry",
+   "birth_year": 1787,
+   "death_year": 1838
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Henry Harkness",
+   "type": "collaborated_with",
+   "object": "MacKenzie",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He collaborated with —> MacKenzie",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Harkness",
+   "type": "collaborated_with",
+   "object": "Ram Raz",
+   "role": "editor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1834,
+   "explicit": true,
+   "evidence": "edited Ram Raz’s posthumous Architecture of the Hindus (L. 1834)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Harkness",
+   "type": "position_at",
+   "object": "College of Fort St.George",
+   "role": "secretary",
+   "place": null,
+   "year_start": null,
+   "year_end": 1834,
+   "explicit": true,
+   "evidence": "worked as the secretary of College of Fort St.George. Retired 1834.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Harkness",
+   "type": "position_at",
+   "object": "R.A.S.",
+   "role": "Secretary",
+   "place": "U.K.",
+   "year_start": 1834,
+   "year_end": 1837,
+   "explicit": true,
+   "evidence": "Back in the U.K. he was Secretary of the R.A.S. in 1834-37.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HARKNESS, Henry",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/15938-harkness-henry.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HARKNESS, Henry",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/15938/harkness-henry/",
+  "subject": "HARKNESS, Henry",
+  "birth_year": 1787,
+  "death_year": 1838
+ },
+ "model": "gemini-flash-latest"
+}

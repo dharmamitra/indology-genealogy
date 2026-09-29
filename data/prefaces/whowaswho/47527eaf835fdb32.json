@@ -1,0 +1,80 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Max Arthur Macauliffe",
+   "birth_year": 1838,
+   "death_year": 1913,
+   "nationality": "Irish",
+   "field": "Sikhism"
+  },
+  {
+   "name": "Pratap Singh Giani",
+   "birth_year": 1855,
+   "death_year": 1920,
+   "nationality": null,
+   "field": "Sikh studies"
+  },
+  {
+   "name": "Trumpp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Max Arthur Macauliffe",
+   "type": "studied_at",
+   "object": "Springfield College in Ennis",
+   "role": null,
+   "place": "Ennis",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at Glenmore, Templeglantine (his father’s schools) and finally at Springfield College in Ennis.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Arthur Macauliffe",
+   "type": "studied_at",
+   "object": "Queen’s College, Galway",
+   "role": "B.A.",
+   "place": "Galway",
+   "year_start": 1857,
+   "year_end": 1863,
+   "explicit": true,
+   "evidence": "In 1857-63 studies at Queen’s College, Galway(B.A. 1860).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Arthur Macauliffe",
+   "type": "collaborated_with",
+   "object": "Pratap Singh Giani",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In his studies he was assisted by the Sikh scholar Pratap Singh Giani (1855–1920).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MACAULIFFE, Max Arthur",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3927-macauliffe-max-arthur.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MACAULIFFE, Max Arthur",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3927/macauliffe-max-arthur/",
+  "subject": "MACAULIFFE, Max Arthur",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,90 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2018,
+ "people": [
+  {
+   "name": "Pedro Roca y López",
+   "birth_year": 1856,
+   "death_year": 1903,
+   "nationality": "Spanish",
+   "field": null
+  },
+  {
+   "name": "Gelabert y Gordiola",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "ROCA Y LÓPEZ, Pedro",
+   "birth_year": 1856,
+   "death_year": 1903
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Pedro Roca y López",
+   "type": "student_of",
+   "object": "Gelabert y Gordiola",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In Sanskrit student of Gelabert y Gordiola",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pedro Roca y López",
+   "type": "studied_at",
+   "object": "Madrid",
+   "role": "Dr.phil.",
+   "place": "Madrid",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studies at Madrid. Dr.phil.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pedro Roca y López",
+   "type": "position_at",
+   "object": "Barcelona University",
+   "role": "librarian",
+   "place": "Barcelona",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "as librarian of Barcelona University gave first Sanskrit teaching there",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pedro Roca y López",
+   "type": "position_at",
+   "object": "Biblioteca Nacional, Madrid",
+   "role": null,
+   "place": "Madrid",
+   "year_start": 1889,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1889 worked in Biblioteca Nacional, Madrid",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ROCA Y LÓPEZ, Pedro",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/9588-roca-lopez-pedro.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ROCA Y LÓPEZ, Pedro",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/9588/roca-lopez-pedro/",
+  "subject": "ROCA Y LÓPEZ, Pedro",
+  "birth_year": 1856,
+  "death_year": 1903
+ },
+ "model": "gemini-flash-latest"
+}

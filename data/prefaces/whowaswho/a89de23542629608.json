@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "William Reeve",
+   "birth_year": 1793,
+   "death_year": 1850,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "REEVE, William",
+   "birth_year": 1793,
+   "death_year": 1850
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Reeve",
+   "type": "position_at",
+   "object": "London Missionary Society",
+   "role": "Missionary",
+   "place": "Bellary",
+   "year_start": 1816,
+   "year_end": 1824,
+   "explicit": true,
+   "evidence": "Worked for London Missionary Society until 1824 in Bellary",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Reeve",
+   "type": "position_at",
+   "object": "London Missionary Society",
+   "role": "Missionary",
+   "place": "Bangalore",
+   "year_start": null,
+   "year_end": 1834,
+   "explicit": true,
+   "evidence": "Worked for London Missionary Society until 1824 in Bellary and, after leave in England, in Bangalore until 1834",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Reeve",
+   "type": "position_at",
+   "object": "Congregational church at Oswestry",
+   "role": "minister",
+   "place": "Oswestry",
+   "year_start": 1836,
+   "year_end": 1843,
+   "explicit": true,
+   "evidence": "minister of the Congregational church at Oswestry from 1836-43",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: REEVE, William",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5152-reeve-w.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: REEVE, William",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5152/reeve-w/",
+  "subject": "REEVE, William",
+  "birth_year": 1793,
+  "death_year": 1850
+ },
+ "model": "gemini-flash-latest"
+}

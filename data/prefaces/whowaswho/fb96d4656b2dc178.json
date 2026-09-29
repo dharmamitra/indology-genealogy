@@ -1,0 +1,121 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Gustav Meyer",
+   "birth_year": 1850,
+   "death_year": 1900,
+   "nationality": "German",
+   "field": "IE Linguist and Balkanist"
+  },
+  {
+   "name": "Stenzler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "J. Schmidt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "MEYER, Gustav",
+   "birth_year": 1850,
+   "death_year": 1900
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Gustav Meyer",
+   "type": "studied_at",
+   "object": "Breslau",
+   "role": "Ph.D.",
+   "place": "Breslau",
+   "year_start": 1867,
+   "year_end": 1871,
+   "explicit": true,
+   "evidence": "After school in Oppeln (matriculation 1867) studied at Breslau classical philology, IE and Sanskrit (under Stenzler), modern Greek, Romance, Germanic and Semitics. Ph.D. 1871 Breslau.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gustav Meyer",
+   "type": "student_of",
+   "object": "Stenzler",
+   "role": "teacher",
+   "place": "Breslau",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied at Breslau classical philology, IE and Sanskrit (under Stenzler)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gustav Meyer",
+   "type": "position_at",
+   "object": "Prague",
+   "role": "PD für vgl. Grammatik des griech. und lat. Sprache",
+   "place": "Prague",
+   "year_start": 1876,
+   "year_end": 1877,
+   "explicit": true,
+   "evidence": "From 1876 PD für vgl. Grammatik des griech. und lat. Sprache at Prague.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gustav Meyer",
+   "type": "succeeded",
+   "object": "J. Schmidt",
+   "role": null,
+   "place": "Graz",
+   "year_start": 1877,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1877 succeeded J. Schmidt as ao. Professor für Sanskrit und vergleichende Sprachwissenschaft at Graz",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gustav Meyer",
+   "type": "position_at",
+   "object": "Graz",
+   "role": "ao. Professor für Sanskrit und vergleichende Sprachwissenschaft",
+   "place": "Graz",
+   "year_start": 1877,
+   "year_end": 1881,
+   "explicit": true,
+   "evidence": "In 1877 succeeded J. Schmidt as ao. Professor für Sanskrit und vergleichende Sprachwissenschaft at Graz, from 1881 as ord.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gustav Meyer",
+   "type": "position_at",
+   "object": "Graz",
+   "role": "ord. Professor für Sanskrit und vergleichende Sprachwissenschaft",
+   "place": "Graz",
+   "year_start": 1881,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "from 1881 as ord. Because of a serious illness he had to retire in 1897.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MEYER, Gustav",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4141-meyer-gustav.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MEYER, Gustav",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4141/meyer-gustav/",
+  "subject": "MEYER, Gustav",
+  "birth_year": 1850,
+  "death_year": 1900
+ },
+ "model": "gemini-flash-latest"
+}

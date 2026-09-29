@@ -1,0 +1,107 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Michael Fertig",
+   "birth_year": 1801,
+   "death_year": 1873,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "O. Frank",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "FERTIG, Michael – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1801,
+   "death_year": 1873
+  },
+  {
+   "name": "FERTIG, Michael",
+   "birth_year": 1801,
+   "death_year": 1873
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Michael Fertig",
+   "type": "studied_at",
+   "object": "Würzburg",
+   "role": null,
+   "place": "Würzburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Probably studied at Würzburg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Fertig",
+   "type": "student_of",
+   "object": "O. Frank",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "learning Sanskrit from O. Frank",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Fertig",
+   "type": "position_at",
+   "object": "Münnerstadt",
+   "role": "Latin teacher",
+   "place": "Münnerstadt",
+   "year_start": 1834,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1834 Latin teacher in Münnerstadt",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Fertig",
+   "type": "position_at",
+   "object": "Passau",
+   "role": "Latin teacher",
+   "place": "Passau",
+   "year_start": 1846,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then from 1846 in Passau. Occasionally also taught Sanskrit there.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Fertig",
+   "type": "position_at",
+   "object": "Hans Carossa Gymnasium in Landshut",
+   "role": "Rector",
+   "place": "Landshut",
+   "year_start": 1855,
+   "year_end": 1869,
+   "explicit": true,
+   "evidence": "From 1855-69 Rector of Hans Carossa Gymnasium in Landshut.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: FERTIG, Michael",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1943-fertig-michael.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: FERTIG, Michael",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1943/fertig-michael/",
+  "subject": "FERTIG, Michael",
+  "birth_year": 1801,
+  "death_year": 1873
+ },
+ "model": "gemini-flash-latest"
+}

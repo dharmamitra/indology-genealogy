@@ -1,0 +1,140 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Langlès",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Silvestre de Sacy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "abbé Bertrand",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Th. Pavie",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "GARCIN DE TASSY, Joseph-Héliodore",
+   "birth_year": 1794,
+   "death_year": 1878
+  }
+ ],
+ "relations": [
+  {
+   "subject": "GARCIN DE TASSY, Joseph-Héliodore",
+   "type": "student_of",
+   "object": "Langlès",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": 1817,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1817 studies of law in Paris, at the same time Persian and Arabic under under Langlès and Silvestre de Sacy, also Turkish.",
+   "quote_ok": true
+  },
+  {
+   "subject": "GARCIN DE TASSY, Joseph-Héliodore",
+   "type": "student_of",
+   "object": "Silvestre de Sacy",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": 1817,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1817 studies of law in Paris, at the same time Persian and Arabic under under Langlès and Silvestre de Sacy, also Turkish.",
+   "quote_ok": true
+  },
+  {
+   "subject": "GARCIN DE TASSY, Joseph-Héliodore",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "secretary",
+   "place": null,
+   "year_start": 1822,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1822 worked as secretary of Collège de France.",
+   "quote_ok": true
+  },
+  {
+   "subject": "GARCIN DE TASSY, Joseph-Héliodore",
+   "type": "position_at",
+   "object": "É.L.O.V.",
+   "role": "chair of Hindūstānī (Urdū)",
+   "place": null,
+   "year_start": 1828,
+   "year_end": 1877,
+   "explicit": true,
+   "evidence": "Thanks to Silvestre de Sacy a chair of Hindūstānī (Urdū) was founded for him at É.L.O.V. in 1828 (full chair 1830), and he taught there until 1877.",
+   "quote_ok": true
+  },
+  {
+   "subject": "GARCIN DE TASSY, Joseph-Héliodore",
+   "type": "position_at",
+   "object": "Société Asiatique",
+   "role": "president",
+   "place": null,
+   "year_start": 1876,
+   "year_end": 1876,
+   "explicit": true,
+   "evidence": "In 1876 president of Société Asiatique.",
+   "quote_ok": true
+  },
+  {
+   "subject": "abbé Bertrand",
+   "type": "student_of",
+   "object": "GARCIN DE TASSY, Joseph-Héliodore",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among his students were abbé Bertrand and Th. Pavie.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Th. Pavie",
+   "type": "student_of",
+   "object": "GARCIN DE TASSY, Joseph-Héliodore",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among his students were abbé Bertrand and Th. Pavie.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GARCIN DE TASSY, Joseph-Héliodore",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2169-garcin-de-tassy-joseph-heliodore-sagesse-vertu.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GARCIN DE TASSY, Joseph-Héliodore",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2169/garcin-de-tassy-joseph-heliodore-sagesse-vertu/",
+  "subject": "GARCIN DE TASSY, Joseph-Héliodore",
+  "birth_year": 1794,
+  "death_year": 1878
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,66 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "François-Marie Bertrand",
+   "birth_year": 1807,
+   "death_year": 1881,
+   "nationality": "French",
+   "field": "Indologist"
+  },
+  {
+   "name": "Garçin de Tassy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BERTRAND, François-Marie, l’abbé",
+   "birth_year": 1807,
+   "death_year": 1881
+  }
+ ],
+ "relations": [
+  {
+   "subject": "François-Marie Bertrand",
+   "type": "studied_at",
+   "object": "Seminaire St.Sulpice",
+   "role": null,
+   "place": "Versailles",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Seminaire St.Sulpice in Versailles.",
+   "quote_ok": true
+  },
+  {
+   "subject": "François-Marie Bertrand",
+   "type": "student_of",
+   "object": "Garçin de Tassy",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "As a scholar of Hindi/Urdu he was a student of Garçin de Tassy.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BERTRAND, François-Marie, l’abbé",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/717-bertrand-francois-marie-labbe.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BERTRAND, François-Marie, l’abbé",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/717/bertrand-francois-marie-labbe/",
+  "subject": "BERTRAND, François-Marie, l’abbé",
+  "birth_year": 1807,
+  "death_year": 1881
+ },
+ "model": "gemini-flash-latest"
+}

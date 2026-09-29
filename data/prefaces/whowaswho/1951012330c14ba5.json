@@ -1,0 +1,66 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "William Moorcroft",
+   "birth_year": 1767,
+   "death_year": 1825,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "G. Trebeck",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "MOORCROFT, William",
+   "birth_year": 1767,
+   "death_year": 1825
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Moorcroft",
+   "type": "position_at",
+   "object": "Bengal Army",
+   "role": "veterinary surgeon to the Bengal Army and Inspector of military studs",
+   "place": null,
+   "year_start": 1808,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Appointed in 1808 veterinary surgeon to the Bengal Army and Inspector of military studs.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Moorcroft",
+   "type": "collaborated_with",
+   "object": "G. Trebeck",
+   "role": "travel companion",
+   "place": null,
+   "year_start": 1819,
+   "year_end": 1825,
+   "explicit": true,
+   "evidence": "in 1819 went with —> G. Trebeck to Lahore, Ladak, residing at Leh, to Kashmir, via Attock and Peshawar to Kabul, to Bokhara",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MOORCROFT, William",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4250-moorcroft-william.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MOORCROFT, William",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4250/moorcroft-william/",
+  "subject": "MOORCROFT, William",
+  "birth_year": 1767,
+  "death_year": 1825
+ },
+ "model": "gemini-flash-latest"
+}

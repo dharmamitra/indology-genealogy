@@ -1,0 +1,150 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Johann Bernoulli",
+   "birth_year": 1744,
+   "death_year": 1807,
+   "nationality": "Swiss",
+   "field": "Scientist"
+  },
+  {
+   "name": "Johann II Bernoulli",
+   "birth_year": 1710,
+   "death_year": 1790,
+   "nationality": null,
+   "field": "mathematics"
+  },
+  {
+   "name": "Daniel Bernoulli",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "mathematics"
+  },
+  {
+   "name": "BERNOULLI, Jean (Johann) – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1710,
+   "death_year": 1790
+  },
+  {
+   "name": "BERNOULLI, Jean (Johann)",
+   "birth_year": 1744,
+   "death_year": 1807
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johann Bernoulli",
+   "type": "studied_at",
+   "object": "Basel",
+   "role": "lic. iuris",
+   "place": "Basel",
+   "year_start": null,
+   "year_end": 1763,
+   "explicit": true,
+   "evidence": "Studies of law at Basel (lic. iuris 1763)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Bernoulli",
+   "type": "student_of",
+   "object": "Johann II Bernoulli",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies of law at Basel (lic. iuris 1763) and mathematics under his father and uncle (Johann and Daniel Bernoulli).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Bernoulli",
+   "type": "student_of",
+   "object": "Daniel Bernoulli",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies of law at Basel (lic. iuris 1763) and mathematics under his father and uncle (Johann and Daniel Bernoulli).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Bernoulli",
+   "type": "other",
+   "object": "Johann II Bernoulli",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "his father was Johann II [1710–1790]",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Bernoulli",
+   "type": "other",
+   "object": "Daniel Bernoulli",
+   "role": "uncle",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "under his father and uncle (Johann and Daniel Bernoulli)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Bernoulli",
+   "type": "position_at",
+   "object": "Berlin A.W.",
+   "role": "member",
+   "place": "Berlin",
+   "year_start": 1764,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1764 member of the Berlin A.W.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Bernoulli",
+   "type": "position_at",
+   "object": "Mathematical section, Berlin A.W.",
+   "role": "Director",
+   "place": "Berlin",
+   "year_start": 1791,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1791 Director of its Mathematical section.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Bernoulli",
+   "type": "position_at",
+   "object": "observatory in Berlin",
+   "role": "Royal Astronomer and director",
+   "place": "Berlin",
+   "year_start": 1767,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1767 also Royal Astronomer and director of observatory in Berlin.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BERNOULLI, Jean (Johann)",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/707-bernoulli-jean-johann.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BERNOULLI, Jean (Johann)",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/707/bernoulli-jean-johann/",
+  "subject": "BERNOULLI, Jean (Johann)",
+  "birth_year": 1744,
+  "death_year": 1807
+ },
+ "model": "gemini-flash-latest"
+}

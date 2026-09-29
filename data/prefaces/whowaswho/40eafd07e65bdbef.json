@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ščerbackoj",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Barannikov",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ŠIRJAEV, Mihail Alekseevič – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1887,
+   "death_year": 1952
+  },
+  {
+   "name": "ŠIRJAEV, Mihail Alekseevič",
+   "birth_year": 1887,
+   "death_year": 1952
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ŠIRJAEV, Mihail Alekseevič",
+   "type": "student_of",
+   "object": "Ščerbackoj",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Student of Ščerbackoj and Barannikov",
+   "quote_ok": true
+  },
+  {
+   "subject": "ŠIRJAEV, Mihail Alekseevič",
+   "type": "student_of",
+   "object": "Barannikov",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Student of Ščerbackoj and Barannikov",
+   "quote_ok": true
+  },
+  {
+   "subject": "ŠIRJAEV, Mihail Alekseevič",
+   "type": "position_at",
+   "object": "Leningradskij Vostočnyj Institut imeni A. S. Enukidze",
+   "role": "Docent of Indology",
+   "place": null,
+   "year_start": 1930,
+   "year_end": 1939,
+   "explicit": true,
+   "evidence": "In the 1930s Docent of Indology at Leningradskij Vostočnyj Institut imeni A. S. Enukidze.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ŠIRJAEV, Mihail Alekseevič",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5804-sirjaev-m-a.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ŠIRJAEV, Mihail Alekseevič",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5804/sirjaev-m-a/",
+  "subject": "ŠIRJAEV, Mihail Alekseevič",
+  "birth_year": 1887,
+  "death_year": 1952
+ },
+ "model": "gemini-flash-latest"
+}

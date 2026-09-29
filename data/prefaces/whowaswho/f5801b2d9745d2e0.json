@@ -1,0 +1,90 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Jean Guillaume Capus",
+   "birth_year": 1857,
+   "death_year": 1931,
+   "nationality": "Luxembourgian",
+   "field": "Scientist (Botanist) and Explorer"
+  },
+  {
+   "name": "Bonvalot",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "CAPUS, Guillaume",
+   "birth_year": 1857,
+   "death_year": 1931
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jean Guillaume Capus",
+   "type": "position_at",
+   "object": "Musée d’Histoire naturelle, Paris",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Worked in Musée d’Histoire naturelle, Paris.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean Guillaume Capus",
+   "type": "collaborated_with",
+   "object": "Bonvalot",
+   "role": "assistant",
+   "place": null,
+   "year_start": 1882,
+   "year_end": 1887,
+   "explicit": true,
+   "evidence": "Travelled as Bonvalot’s assistant in Caucasus and Russian Central Asia (1882) and in Iran, Afghanistan, Pamir and Kashmir (1886-87)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean Guillaume Capus",
+   "type": "position_at",
+   "object": "École coloniale",
+   "role": "taught",
+   "place": "France",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Back in France taught at École coloniale and Institut d’agronomie coloniale.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean Guillaume Capus",
+   "type": "position_at",
+   "object": "Institut d’agronomie coloniale",
+   "role": "taught",
+   "place": "France",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Back in France taught at École coloniale and Institut d’agronomie coloniale.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: CAPUS, Guillaume",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/12776-capus-guillaume.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: CAPUS, Guillaume",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/12776/capus-guillaume/",
+  "subject": "CAPUS, Guillaume",
+  "birth_year": 1857,
+  "death_year": 1931
+ },
+ "model": "gemini-flash-latest"
+}

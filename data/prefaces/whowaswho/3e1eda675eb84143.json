@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2023,
+ "people": [
+  {
+   "name": "Ludwig Wilser",
+   "birth_year": 1850,
+   "death_year": 1923,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "Virchow",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "anthropologist"
+  },
+  {
+   "name": "WILSER, Ludwig – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1817,
+   "death_year": 1880
+  },
+  {
+   "name": "WILSER, Ludwig",
+   "birth_year": 1850,
+   "death_year": 1923
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ludwig Wilser",
+   "type": "studied_at",
+   "object": "Freiburg",
+   "role": "Dr.Med.",
+   "place": "Freiburg",
+   "year_start": 1869,
+   "year_end": 1875,
+   "explicit": true,
+   "evidence": "from 1869 medical studies at Freiburg, Heidelberg and Leipzig. Dr.Med. 1875 Freiburg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ludwig Wilser",
+   "type": "studied_at",
+   "object": "Heidelberg",
+   "role": "medical studies",
+   "place": "Heidelberg",
+   "year_start": 1869,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1869 medical studies at Freiburg, Heidelberg and Leipzig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ludwig Wilser",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": "medical studies",
+   "place": "Leipzig",
+   "year_start": 1869,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1869 medical studies at Freiburg, Heidelberg and Leipzig.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: WILSER, Ludwig",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/38123-wilser-ludwig.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: WILSER, Ludwig",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/38123/wilser-ludwig/",
+  "subject": "WILSER, Ludwig",
+  "birth_year": 1850,
+  "death_year": 1923
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,121 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Antonio Gargano",
+   "birth_year": 1914,
+   "death_year": 1997,
+   "nationality": "Italian",
+   "field": "Indology"
+  },
+  {
+   "name": "Formichi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Tucci",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "GARGANO, Antonio",
+   "birth_year": 1914,
+   "death_year": 1997
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Antonio Gargano",
+   "type": "student_of",
+   "object": "Formichi",
+   "role": "teacher",
+   "place": "Rome",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Rome under Formichi and Tucci.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Antonio Gargano",
+   "type": "student_of",
+   "object": "Tucci",
+   "role": "teacher",
+   "place": "Rome",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Rome under Formichi and Tucci.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Antonio Gargano",
+   "type": "studied_at",
+   "object": "Rome",
+   "role": null,
+   "place": "Rome",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Rome under Formichi and Tucci.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Antonio Gargano",
+   "type": "position_at",
+   "object": "Rome",
+   "role": "Assistant, then Lecturer in Modern Aryan Languages and Literature",
+   "place": "Rome",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Assistant, then Lecturer in Modern Aryan Languages and Literature at Rome.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Antonio Gargano",
+   "type": "collaborated_with",
+   "object": "Tucci",
+   "role": null,
+   "place": null,
+   "year_start": 1950,
+   "year_end": 1959,
+   "explicit": true,
+   "evidence": "He collaborated with Tucci in the 1950s",
+   "quote_ok": true
+  },
+  {
+   "subject": "Antonio Gargano",
+   "type": "position_at",
+   "object": "IsMEO",
+   "role": "General Secretary",
+   "place": null,
+   "year_start": 1979,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1979 General Secretary of IsMEO.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GARGANO, Antonio",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/30061-gargano-antonio.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GARGANO, Antonio",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/30061/gargano-antonio/",
+  "subject": "GARGANO, Antonio",
+  "birth_year": 1914,
+  "death_year": 1997
+ },
+ "model": "gemini-flash-latest"
+}

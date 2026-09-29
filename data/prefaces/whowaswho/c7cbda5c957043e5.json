@@ -1,0 +1,183 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Louis Trolle Hjelmslev",
+   "birth_year": 1899,
+   "death_year": 1965,
+   "nationality": "Danish",
+   "field": "Linguist"
+  },
+  {
+   "name": "Johannes Hjelmslev",
+   "birth_year": 1873,
+   "death_year": 1950,
+   "nationality": null,
+   "field": "mathematician"
+  },
+  {
+   "name": "Pedersen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Meillet",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Vendryes",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "de Saussure",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "HJELMSLEV, Louis – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1873,
+   "death_year": 1950
+  },
+  {
+   "name": "HJELMSLEV, Louis",
+   "birth_year": 1899,
+   "death_year": 1965
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Louis Trolle Hjelmslev",
+   "type": "other",
+   "object": "Johannes Hjelmslev",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of the mathematician Johannes Hjelmslev (1873–1950) and Agnes Elisabeth Bohse.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Louis Trolle Hjelmslev",
+   "type": "studied_at",
+   "object": "Copenhagen",
+   "role": "M.A.",
+   "place": null,
+   "year_start": 1917,
+   "year_end": 1923,
+   "explicit": true,
+   "evidence": "From 1917 studies at Copenhagen (Pedersen), M.A. 1923.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Louis Trolle Hjelmslev",
+   "type": "student_of",
+   "object": "Pedersen",
+   "role": "teacher",
+   "place": "Copenhagen",
+   "year_start": 1917,
+   "year_end": 1923,
+   "explicit": true,
+   "evidence": "From 1917 studies at Copenhagen (Pedersen), M.A. 1923.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Louis Trolle Hjelmslev",
+   "type": "student_of",
+   "object": "Meillet",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": 1926,
+   "year_end": 1927,
+   "explicit": true,
+   "evidence": "Paris 1926-27 (Meillet and Vendryes)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Louis Trolle Hjelmslev",
+   "type": "student_of",
+   "object": "Vendryes",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": 1926,
+   "year_end": 1927,
+   "explicit": true,
+   "evidence": "Paris 1926-27 (Meillet and Vendryes)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Louis Trolle Hjelmslev",
+   "type": "position_at",
+   "object": "Aarhus University",
+   "role": "PD of Sammenlignende Sprogvidenskab",
+   "place": null,
+   "year_start": 1934,
+   "year_end": 1937,
+   "explicit": true,
+   "evidence": "PD of Sammenlignende Sprogvidenskab at Aarhus University 1934-37",
+   "quote_ok": true
+  },
+  {
+   "subject": "Louis Trolle Hjelmslev",
+   "type": "position_at",
+   "object": "Copenhagen University",
+   "role": "Professor of Sammenlignende Sprogvidenskab",
+   "place": null,
+   "year_start": 1937,
+   "year_end": 1965,
+   "explicit": true,
+   "evidence": "then from 1937 Professor of the same at Copenhagen University (succeeding Pedersen), until his death.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Louis Trolle Hjelmslev",
+   "type": "succeeded",
+   "object": "Pedersen",
+   "role": null,
+   "place": "Copenhagen University",
+   "year_start": 1937,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1937 Professor of the same at Copenhagen University (succeeding Pedersen), until his death.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Louis Trolle Hjelmslev",
+   "type": "influenced_by",
+   "object": "de Saussure",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He emphasized logic and mathematics, derived his ideas from de Saussure, and called his theory Glossematics.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HJELMSLEV, Louis",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3016-hjelmslev-louis.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HJELMSLEV, Louis",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3016/hjelmslev-louis/",
+  "subject": "HJELMSLEV, Louis",
+  "birth_year": 1899,
+  "death_year": 1965
+ },
+ "model": "gemini-flash-latest"
+}

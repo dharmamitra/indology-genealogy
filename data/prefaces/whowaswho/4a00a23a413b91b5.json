@@ -1,0 +1,102 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Henry Hardy Cole",
+   "birth_year": 1843,
+   "death_year": 1916,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Henry Cole",
+   "birth_year": 1808,
+   "death_year": 1882,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Burgess",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "COLE, Henry H. – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1808,
+   "death_year": 1882
+  },
+  {
+   "name": "COLE, Henry H",
+   "birth_year": 1843,
+   "death_year": 1916
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Henry Hardy Cole",
+   "type": "other",
+   "object": "Henry Cole",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of —> Henry Cole (1808–1882)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Hardy Cole",
+   "type": "influenced_by",
+   "object": "Henry Cole",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sometimes he is confused with his father, whose deep influence is seen in his work.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Hardy Cole",
+   "type": "position_at",
+   "object": "Ancient Monuments in India",
+   "role": "Curator of Ancient Monuments in India",
+   "place": "India",
+   "year_start": 1881,
+   "year_end": 1884,
+   "explicit": true,
+   "evidence": "then three years 1881-84 Curator of Ancient Monuments in India",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Hardy Cole",
+   "type": "other",
+   "object": "Burgess",
+   "role": "prestige conflict",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was undiplomatic and had serious prestige confict with Burgess.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: COLE, Henry H",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1313-cole-henry-hardy.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: COLE, Henry H",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1313/cole-henry-hardy/",
+  "subject": "COLE, Henry H",
+  "birth_year": 1843,
+  "death_year": 1916
+ },
+ "model": "gemini-flash-latest"
+}

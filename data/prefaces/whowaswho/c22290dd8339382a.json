@@ -1,0 +1,66 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Jakob Heinrich Thiessen",
+   "birth_year": 1854,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Pischel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "THIESSEN, Jakob",
+   "birth_year": 1871,
+   "death_year": 1875
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jakob Heinrich Thiessen",
+   "type": "studied_at",
+   "object": "Kiel",
+   "role": "Ph.D.",
+   "place": "Kiel",
+   "year_start": 1875,
+   "year_end": 1880,
+   "explicit": true,
+   "evidence": "In 1875-80 studied at Kiel modern languages, Germanistics and especially Sanskrit and Pāli under Pischel. Ph.D. 1880 Kiel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jakob Heinrich Thiessen",
+   "type": "student_of",
+   "object": "Pischel",
+   "role": "teacher",
+   "place": "Kiel",
+   "year_start": 1875,
+   "year_end": 1880,
+   "explicit": true,
+   "evidence": "In 1875-80 studied at Kiel modern languages, Germanistics and especially Sanskrit and Pāli under Pischel.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: THIESSEN, Jakob",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4978-thiessen-jakob-heinrich.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: THIESSEN, Jakob",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4978/thiessen-jakob-heinrich/",
+  "subject": "THIESSEN, Jakob",
+  "birth_year": 1871,
+  "death_year": 1875
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,66 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "František Šohaj",
+   "birth_year": 1815,
+   "death_year": 1878,
+   "nationality": "Czech",
+   "field": "Classical Philologist"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "František Šohaj",
+   "type": "studied_at",
+   "object": "Prague",
+   "role": "Ph.D.",
+   "place": "Prague",
+   "year_start": null,
+   "year_end": 1848,
+   "explicit": true,
+   "evidence": "Educated in Prague, studied philosophy at Prague. Ph.D. 1848.",
+   "quote_ok": true
+  },
+  {
+   "subject": "František Šohaj",
+   "type": "position_at",
+   "object": "Prague",
+   "role": "Professor of Philosophy",
+   "place": "Prague",
+   "year_start": 1848,
+   "year_end": 1859,
+   "explicit": true,
+   "evidence": "from 1848 Professor of Philosophy at Prague, taugh also philology and aesthetics, in Czech. In 1859 moved to Academic Gymnasium",
+   "quote_ok": true
+  },
+  {
+   "subject": "František Šohaj",
+   "type": "position_at",
+   "object": "Academic Gymnasium",
+   "role": null,
+   "place": null,
+   "year_start": 1859,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1859 moved to Academic Gymnasium, where he taught the same subjects.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ŠOHAJ, František",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/21601-sohaj-frantisek.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ŠOHAJ, František",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/21601/sohaj-frantisek/",
+  "subject": "ŠOHAJ, František",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,109 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Charles de Caylus",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Darab",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kaus",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ANQUETIL-DUPERRON, Abraham Hyacinthe",
+   "birth_year": 1731,
+   "death_year": 1805
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ANQUETIL-DUPERRON, Abraham Hyacinthe",
+   "type": "student_of",
+   "object": "Charles de Caylus",
+   "role": "pupil",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied as a pupil of the Jansenist bishop Charles de Caylus in Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "ANQUETIL-DUPERRON, Abraham Hyacinthe",
+   "type": "student_of",
+   "object": "Darab",
+   "role": "teacher",
+   "place": "Surat",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he secured manuscripts and good teachers, the cousins Darab and Kaus.",
+   "quote_ok": true
+  },
+  {
+   "subject": "ANQUETIL-DUPERRON, Abraham Hyacinthe",
+   "type": "student_of",
+   "object": "Kaus",
+   "role": "teacher",
+   "place": "Surat",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he secured manuscripts and good teachers, the cousins Darab and Kaus.",
+   "quote_ok": true
+  },
+  {
+   "subject": "ANQUETIL-DUPERRON, Abraham Hyacinthe",
+   "type": "position_at",
+   "object": "A.I.B.L.",
+   "role": "full member",
+   "place": "Paris",
+   "year_start": 1763,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1756 correspondent and from 1763 full member of the A.I.B.L.",
+   "quote_ok": true
+  },
+  {
+   "subject": "ANQUETIL-DUPERRON, Abraham Hyacinthe",
+   "type": "position_at",
+   "object": "Royal Library",
+   "role": "interpreter of Oriental languages",
+   "place": "Paris",
+   "year_start": 1762,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He remained the rest of his life in Paris living in a rather humble position concentrating on his studies and working as an interpreter of Oriental languages at Royal Library.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ANQUETIL-DUPERRON, Abraham Hyacinthe",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/280-anquetil-duperron-abraham-hyacinthe.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ANQUETIL-DUPERRON, Abraham Hyacinthe",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/280/anquetil-duperron-abraham-hyacinthe/",
+  "subject": "ANQUETIL-DUPERRON, Abraham Hyacinthe",
+  "birth_year": 1731,
+  "death_year": 1805
+ },
+ "model": "gemini-flash-latest"
+}

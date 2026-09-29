@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Edward Strachey",
+   "birth_year": 1774,
+   "death_year": 1832,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Elphinstone",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "STRACHEY, Edward – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1736,
+   "death_year": 1810
+  },
+  {
+   "name": "STRACHEY, Edward",
+   "birth_year": 1774,
+   "death_year": 1832
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Edward Strachey",
+   "type": "studied_at",
+   "object": "St.Andrews",
+   "role": null,
+   "place": null,
+   "year_start": 1790,
+   "year_end": 1791,
+   "explicit": true,
+   "evidence": "Himself studied 1790-91 at St.Andrews",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Strachey",
+   "type": "other",
+   "object": "Elphinstone",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "was a close friend of Elphinstone",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: STRACHEY, Edward",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/21999-strachey-edward.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: STRACHEY, Edward",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/21999/strachey-edward/",
+  "subject": "STRACHEY, Edward",
+  "birth_year": 1774,
+  "death_year": 1832
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,171 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Roth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Bopp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Weber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lottner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Whitley Stokes",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "SIEGFRIED, Rudolf Thomas",
+   "birth_year": 1830,
+   "death_year": 1863
+  }
+ ],
+ "relations": [
+  {
+   "subject": "SIEGFRIED, Rudolf Thomas",
+   "type": "studied_at",
+   "object": "Tübingen",
+   "role": null,
+   "place": null,
+   "year_start": 1850,
+   "year_end": 1851,
+   "explicit": true,
+   "evidence": "Studied 1850-51 at Tübingen under Roth",
+   "quote_ok": true
+  },
+  {
+   "subject": "SIEGFRIED, Rudolf Thomas",
+   "type": "student_of",
+   "object": "Roth",
+   "role": "teacher",
+   "place": "Tübingen",
+   "year_start": 1850,
+   "year_end": 1851,
+   "explicit": true,
+   "evidence": "Studied 1850-51 at Tübingen under Roth",
+   "quote_ok": true
+  },
+  {
+   "subject": "SIEGFRIED, Rudolf Thomas",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then at Berlin under Bopp and Weber",
+   "quote_ok": true
+  },
+  {
+   "subject": "SIEGFRIED, Rudolf Thomas",
+   "type": "student_of",
+   "object": "Bopp",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then at Berlin under Bopp and Weber",
+   "quote_ok": true
+  },
+  {
+   "subject": "SIEGFRIED, Rudolf Thomas",
+   "type": "student_of",
+   "object": "Weber",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then at Berlin under Bopp and Weber",
+   "quote_ok": true
+  },
+  {
+   "subject": "SIEGFRIED, Rudolf Thomas",
+   "type": "position_at",
+   "object": "Trinity College, Dublin",
+   "role": "Lecturer in Sanskrit",
+   "place": "Dublin",
+   "year_start": 1858,
+   "year_end": 1862,
+   "explicit": true,
+   "evidence": "he was in 1858-62 Lecturer in Sanskrit at Trinity College, Dublin",
+   "quote_ok": true
+  },
+  {
+   "subject": "SIEGFRIED, Rudolf Thomas",
+   "type": "position_at",
+   "object": "Trinity College, Dublin",
+   "role": "Professor of Sanskrit",
+   "place": "Dublin",
+   "year_start": 1862,
+   "year_end": 1863,
+   "explicit": true,
+   "evidence": "from 1862 Professor of Sanskrit there, but died soon, being little over 30",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lottner",
+   "type": "succeeded",
+   "object": "SIEGFRIED, Rudolf Thomas",
+   "role": "Professor of Sanskrit",
+   "place": "Trinity College, Dublin",
+   "year_start": 1863,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "died soon, being little over 30 and was succeeded by Lottner.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Whitley Stokes",
+   "type": "student_of",
+   "object": "SIEGFRIED, Rudolf Thomas",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Whitley Stokes was his student.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SIEGFRIED, Rudolf Thomas",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5777-siegfried-r-t.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SIEGFRIED, Rudolf Thomas",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5777/siegfried-r-t/",
+  "subject": "SIEGFRIED, Rudolf Thomas",
+  "birth_year": 1830,
+  "death_year": 1863
+ },
+ "model": "gemini-flash-latest"
+}

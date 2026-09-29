@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Leonidas Clint",
+   "birth_year": 1812,
+   "death_year": 1897,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "CLINT, Leonidas",
+   "birth_year": 1812,
+   "death_year": 1897
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Leonidas Clint",
+   "type": "studied_at",
+   "object": "Trinity College, Cambridge",
+   "role": "M.A.",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Graduated M.A. from Trinity College, Cambridge.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Leonidas Clint",
+   "type": "position_at",
+   "object": "La Martinière College",
+   "role": "Principal",
+   "place": "Lucknow",
+   "year_start": 1845,
+   "year_end": 1854,
+   "explicit": true,
+   "evidence": "Principal of La Martinière College in Lucknow c. 1845-54",
+   "quote_ok": true
+  },
+  {
+   "subject": "Leonidas Clint",
+   "type": "position_at",
+   "object": "Krishnanagar College",
+   "role": "Principal",
+   "place": "Bengal",
+   "year_start": 1854,
+   "year_end": 1857,
+   "explicit": false,
+   "evidence": "then of Krishnanagar College in Bengal. Returned to England in 1857",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: CLINT, Leonidas",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/12980-clint-leonidas.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: CLINT, Leonidas",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/12980/clint-leonidas/",
+  "subject": "CLINT, Leonidas",
+  "birth_year": 1812,
+  "death_year": 1897
+ },
+ "model": "gemini-flash-latest"
+}

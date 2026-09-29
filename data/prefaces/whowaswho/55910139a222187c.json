@@ -1,0 +1,102 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Eleanor Hill Edgerton",
+   "birth_year": 1905,
+   "death_year": 1995,
+   "nationality": "American",
+   "field": null
+  },
+  {
+   "name": "Franklin Edgerton",
+   "birth_year": 1885,
+   "death_year": 1963,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "L. Bloomfield",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "EDGERTON, Eleanor – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1885,
+   "death_year": 1963
+  },
+  {
+   "name": "EDGERTON, Eleanor",
+   "birth_year": 1905,
+   "death_year": 1995
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Eleanor Hill Edgerton",
+   "type": "other",
+   "object": "Franklin Edgerton",
+   "role": "wife",
+   "place": null,
+   "year_start": 1952,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Second wife (from 1952) of —> Franklin Edgerton (1885–1963).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eleanor Hill Edgerton",
+   "type": "position_at",
+   "object": "Yale",
+   "role": "secretary of L. Bloomfield",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Earlier worked as secretary of L. Bloomfield at Yale.",
+   "quote_ok": true
+  },
+  {
+   "subject": "L. Bloomfield",
+   "type": "position_at",
+   "object": "Yale",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Earlier worked as secretary of L. Bloomfield at Yale.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eleanor Hill Edgerton",
+   "type": "collaborated_with",
+   "object": "Franklin Edgerton",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Collaborated with his husband in the Meghadūta translation.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: EDGERTON, Eleanor",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1727-edgerton-eleanor.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: EDGERTON, Eleanor",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1727/edgerton-eleanor/",
+  "subject": "EDGERTON, Eleanor",
+  "birth_year": 1905,
+  "death_year": 1995
+ },
+ "model": "gemini-flash-latest"
+}

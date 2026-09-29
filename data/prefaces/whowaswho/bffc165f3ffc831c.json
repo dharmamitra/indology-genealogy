@@ -1,0 +1,59 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "John Callaway",
+   "birth_year": 1793,
+   "death_year": 1846,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "CALLAWAY, John",
+   "birth_year": 1821,
+   "death_year": 1826
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Callaway",
+   "type": "position_at",
+   "object": "Galle School",
+   "role": "Principal",
+   "place": "Sri Lanka",
+   "year_start": 1817,
+   "year_end": 1817,
+   "explicit": true,
+   "evidence": "1817 and 1821-24 Principal of Galle School",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Callaway",
+   "type": "position_at",
+   "object": "Galle School",
+   "role": "Principal",
+   "place": "Sri Lanka",
+   "year_start": 1821,
+   "year_end": 1824,
+   "explicit": true,
+   "evidence": "1817 and 1821-24 Principal of Galle School",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: CALLAWAY, John",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/12722-callaway-john.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: CALLAWAY, John",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/12722/callaway-john/",
+  "subject": "CALLAWAY, John",
+  "birth_year": 1821,
+  "death_year": 1826
+ },
+ "model": "gemini-flash-latest"
+}

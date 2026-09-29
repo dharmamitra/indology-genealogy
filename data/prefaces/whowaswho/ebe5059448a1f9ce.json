@@ -1,0 +1,102 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Giuseppe Gaspare Mezzofanti",
+   "birth_year": 1774,
+   "death_year": 1849,
+   "nationality": "Italian",
+   "field": "Polyglot"
+  },
+  {
+   "name": "Angelo Mai",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "MEZZOFANTI, Giuseppe",
+   "birth_year": 1774,
+   "death_year": 1849
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Giuseppe Gaspare Mezzofanti",
+   "type": "position_at",
+   "object": "Bologna",
+   "role": "Professor of Arabic, Hebrew and Greek",
+   "place": "Bologna",
+   "year_start": 1797,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ordained priest 1797, he became Professor of Arabic, Hebrew and Greek at Bologna",
+   "quote_ok": true
+  },
+  {
+   "subject": "Giuseppe Gaspare Mezzofanti",
+   "type": "position_at",
+   "object": "Bologna",
+   "role": null,
+   "place": "Bologna",
+   "year_start": 1805,
+   "year_end": 1808,
+   "explicit": true,
+   "evidence": "reinstated c. 1805. The chair was suppressed in 1808",
+   "quote_ok": true
+  },
+  {
+   "subject": "Giuseppe Gaspare Mezzofanti",
+   "type": "position_at",
+   "object": "Bologna",
+   "role": null,
+   "place": "Bologna",
+   "year_start": 1814,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "again reinstated in 1814.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Giuseppe Gaspare Mezzofanti",
+   "type": "position_at",
+   "object": "Vatican Library",
+   "role": "Vatican Librarian",
+   "place": "Rome",
+   "year_start": 1833,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1833 succeeded Angelo Mai as Vatican Librarian.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Giuseppe Gaspare Mezzofanti",
+   "type": "succeeded",
+   "object": "Angelo Mai",
+   "role": "Vatican Librarian",
+   "place": "Rome",
+   "year_start": 1833,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1833 succeeded Angelo Mai as Vatican Librarian.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MEZZOFANTI, Giuseppe",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4153-mezzofanti-giuseppe.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MEZZOFANTI, Giuseppe",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4153/mezzofanti-giuseppe/",
+  "subject": "MEZZOFANTI, Giuseppe",
+  "birth_year": 1774,
+  "death_year": 1849
+ },
+ "model": "gemini-flash-latest"
+}

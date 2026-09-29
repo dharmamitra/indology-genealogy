@@ -1,0 +1,126 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Alexander von Humboldt",
+   "birth_year": 1769,
+   "death_year": 1859,
+   "nationality": "German",
+   "field": "Geographer and Explorer"
+  },
+  {
+   "name": "Wilhelm von Humboldt",
+   "birth_year": 1767,
+   "death_year": 1835,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Aimé Bonpland",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": "botanist"
+  },
+  {
+   "name": "HUMBOLDT, Alexander von – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1720,
+   "death_year": 1779
+  },
+  {
+   "name": "HUMBOLDT, Alexander von",
+   "birth_year": 1769,
+   "death_year": 1859
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Alexander von Humboldt",
+   "type": "other",
+   "object": "Wilhelm von Humboldt",
+   "role": "younger brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "younger brother of —> Wilhelm von Humboldt (1767–1835)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander von Humboldt",
+   "type": "studied_at",
+   "object": "Frankfurt a.d.Oder",
+   "role": "law student",
+   "place": "Frankfurt a.d.Oder",
+   "year_start": 1787,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Started his career 1787 as a law student at Frankfurt a.d.Oder",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander von Humboldt",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studying at Göttingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander von Humboldt",
+   "type": "studied_at",
+   "object": "Hamburg Handelsakademie",
+   "role": null,
+   "place": "Hamburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studying at Göttingen, at Hamburg Handelsakademie and at Freiberg Bergakademie",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander von Humboldt",
+   "type": "studied_at",
+   "object": "Freiberg Bergakademie",
+   "role": null,
+   "place": "Freiberg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studying at Göttingen, at Hamburg Handelsakademie and at Freiberg Bergakademie",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander von Humboldt",
+   "type": "collaborated_with",
+   "object": "Aimé Bonpland",
+   "role": "journey of exploration to South America",
+   "place": "South America",
+   "year_start": 1799,
+   "year_end": 1804,
+   "explicit": true,
+   "evidence": "With the French botanist Aimé Bonpland he made a famous journey of exploration to South America (Venezuela, Columbia and Mexico) in 1799-1804.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HUMBOLDT, Alexander von",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3156-humboldt-alexander-von.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HUMBOLDT, Alexander von",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3156/humboldt-alexander-von/",
+  "subject": "HUMBOLDT, Alexander von",
+  "birth_year": 1769,
+  "death_year": 1859
+ },
+ "model": "gemini-flash-latest"
+}

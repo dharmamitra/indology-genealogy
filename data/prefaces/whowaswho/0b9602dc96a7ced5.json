@@ -1,0 +1,66 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Gustav Burchardi",
+   "birth_year": 1866,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Linguist"
+  },
+  {
+   "name": "Streitberg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BURCHARDI, Gustav",
+   "birth_year": 1866,
+   "death_year": 1892
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Gustav Burchardi",
+   "type": "studied_at",
+   "object": "Halle",
+   "role": "Ph.D.",
+   "place": "Halle",
+   "year_start": null,
+   "year_end": 1892,
+   "explicit": true,
+   "evidence": "Ph.D. 1892 Halle.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gustav Burchardi",
+   "type": "collaborated_with",
+   "object": "Streitberg",
+   "role": "corresponded with",
+   "place": null,
+   "year_start": 1913,
+   "year_end": 1924,
+   "explicit": true,
+   "evidence": "In 1913-24 corresponded with Streitberg.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BURCHARDI, Gustav",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1048-burchardi-gustav.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BURCHARDI, Gustav",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1048/burchardi-gustav/",
+  "subject": "BURCHARDI, Gustav",
+  "birth_year": 1866,
+  "death_year": 1892
+ },
+ "model": "gemini-flash-latest"
+}

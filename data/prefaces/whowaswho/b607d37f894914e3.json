@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Zubatý",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BAUDIŠ, Josef",
+   "birth_year": 1883,
+   "death_year": 1933
+  }
+ ],
+ "relations": [
+  {
+   "subject": "BAUDIŠ, Josef",
+   "type": "studied_at",
+   "object": "Prague",
+   "role": null,
+   "place": "Prague",
+   "year_start": 1902,
+   "year_end": 1906,
+   "explicit": true,
+   "evidence": "studies (1902-06) in Prague",
+   "quote_ok": true
+  },
+  {
+   "subject": "BAUDIŠ, Josef",
+   "type": "studied_at",
+   "object": "Heidelberg",
+   "role": null,
+   "place": "Heidelberg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "also studied at Heidelberg",
+   "quote_ok": true
+  },
+  {
+   "subject": "BAUDIŠ, Josef",
+   "type": "student_of",
+   "object": "Zubatý",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1906,
+   "explicit": true,
+   "evidence": "Ph.D. 1906 (under Zubatý)",
+   "quote_ok": true
+  },
+  {
+   "subject": "BAUDIŠ, Josef",
+   "type": "position_at",
+   "object": "Prague",
+   "role": "PD",
+   "place": "Prague",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Soon PD at Prague",
+   "quote_ok": true
+  },
+  {
+   "subject": "BAUDIŠ, Josef",
+   "type": "position_at",
+   "object": "Comenius University in Bratislava",
+   "role": "Professor",
+   "place": "Bratislava",
+   "year_start": 1924,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1924 Professor at Comenius University in Bratislava.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BAUDIŠ, Josef",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/11980-baudis-josef.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BAUDIŠ, Josef",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/11980/baudis-josef/",
+  "subject": "BAUDIŠ, Josef",
+  "birth_year": 1883,
+  "death_year": 1933
+ },
+ "model": "gemini-flash-latest"
+}

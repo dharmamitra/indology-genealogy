@@ -1,0 +1,90 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Alexander Johnston",
+   "birth_year": 1775,
+   "death_year": 1849,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Chr. Fr. Schwarz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "JOHNSTON, Alexander",
+   "birth_year": 1775,
+   "death_year": 1849
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Alexander Johnston",
+   "type": "student_of",
+   "object": "Chr. Fr. Schwarz",
+   "role": "teacher",
+   "place": "Madurai",
+   "year_start": 1781,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1781 grew up in Madurai, where his father served as official and where Chr. Fr. Schwarz was his teacher.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander Johnston",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": null,
+   "place": null,
+   "year_start": 1792,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1792 the family returned to the U.K. and Johnston studied law at Göttingen and Lincoln’s Inn.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander Johnston",
+   "type": "studied_at",
+   "object": "Lincoln’s Inn",
+   "role": null,
+   "place": null,
+   "year_start": 1792,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1792 the family returned to the U.K. and Johnston studied law at Göttingen and Lincoln’s Inn.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander Johnston",
+   "type": "founded",
+   "object": "R.A.S.",
+   "role": "founder member",
+   "place": null,
+   "year_start": 1823,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1823 he was a founder member of R.A.S.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: JOHNSTON, Alexander",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2832-johnston-alexander.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: JOHNSTON, Alexander",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2832/johnston-alexander/",
+  "subject": "JOHNSTON, Alexander",
+  "birth_year": 1775,
+  "death_year": 1849
+ },
+ "model": "gemini-flash-latest"
+}

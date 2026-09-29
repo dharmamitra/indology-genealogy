@@ -1,0 +1,73 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2024,
+ "people": [
+  {
+   "name": "Franz von László",
+   "birth_year": 1906,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Kirfel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Franz von László",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": "stud. philol.",
+   "place": "Berlin",
+   "year_start": 1941,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1941 stud. philol. in Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz von László",
+   "type": "studied_at",
+   "object": "Bonn",
+   "role": "Ph.D.",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": 1952,
+   "explicit": true,
+   "evidence": "Ph.D. 1952 Bonn (under Kirfel)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franz von László",
+   "type": "student_of",
+   "object": "Kirfel",
+   "role": "doctoral supervisor",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": 1952,
+   "explicit": true,
+   "evidence": "Ph.D. 1952 Bonn (under Kirfel)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: LÁSZLÓ, Franz von",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/42614-laszlo-franz-von.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: LÁSZLÓ, Franz von",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/42614/laszlo-franz-von/",
+  "subject": "LÁSZLÓ, Franz von",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

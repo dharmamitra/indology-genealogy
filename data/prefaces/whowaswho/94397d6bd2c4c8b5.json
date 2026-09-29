@@ -1,0 +1,102 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2022,
+ "people": [
+  {
+   "name": "George Washington Davis",
+   "birth_year": 1902,
+   "death_year": 1960,
+   "nationality": "United States",
+   "field": "Theologian"
+  },
+  {
+   "name": "Martin Luther King, Jr.",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "DAVIS, George W",
+   "birth_year": 1902,
+   "death_year": 1960
+  }
+ ],
+ "relations": [
+  {
+   "subject": "George Washington Davis",
+   "type": "studied_at",
+   "object": "University of Pittsburgh",
+   "role": "B.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1925,
+   "explicit": true,
+   "evidence": "Studies at University of Pittsburgh (B.A. 1925)",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Washington Davis",
+   "type": "studied_at",
+   "object": "Rochester Theological Seminary",
+   "role": "B.D., Th.M.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1929,
+   "explicit": true,
+   "evidence": "Rochester Theological Seminary (B.D. 1928, Th.M. 1929)",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Washington Davis",
+   "type": "studied_at",
+   "object": "Yale",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1932,
+   "explicit": true,
+   "evidence": "Ph.D. 1932 Yale, on missiology.",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Washington Davis",
+   "type": "position_at",
+   "object": "Crozer Theological Seminary",
+   "role": "Professor of Theology",
+   "place": "Upland, PA",
+   "year_start": 1938,
+   "year_end": 1960,
+   "explicit": true,
+   "evidence": "From 1938 until death Professor of Theology at Crozer Theological Seminary in Upland, PA",
+   "quote_ok": true
+  },
+  {
+   "subject": "Martin Luther King, Jr.",
+   "type": "student_of",
+   "object": "George Washington Davis",
+   "role": "student",
+   "place": "Crozer Theological Seminary in Upland, PA",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Crozer Theological Seminary in Upland, PA (where Martin Luther King, Jr. was his student)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: DAVIS, George W",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/28211-davis-george-washington.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: DAVIS, George W",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/28211/davis-george-washington/",
+  "subject": "DAVIS, George W",
+  "birth_year": 1902,
+  "death_year": 1960
+ },
+ "model": "gemini-flash-latest"
+}

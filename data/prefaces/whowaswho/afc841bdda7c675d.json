@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Daniel Wright",
+   "birth_year": 1833,
+   "death_year": 1902,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "William Wright",
+   "birth_year": 1830,
+   "death_year": 1889,
+   "nationality": null,
+   "field": "Arabic scholar"
+  },
+  {
+   "name": "WRIGHT, Daniel – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1793,
+   "death_year": 1852
+  },
+  {
+   "name": "WRIGHT, Daniel",
+   "birth_year": 1833,
+   "death_year": 1902
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Daniel Wright",
+   "type": "other",
+   "object": "William Wright",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "brother of the Arabic scholar William Wright (1830–1889)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daniel Wright",
+   "type": "studied_at",
+   "object": "St.Andrews",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at St.Andrews. M.A. M.D.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daniel Wright",
+   "type": "position_at",
+   "object": "British residence in Kathmandu",
+   "role": "physician",
+   "place": "Kathmandu",
+   "year_start": 1866,
+   "year_end": 1876,
+   "explicit": true,
+   "evidence": "In 1866-76 worked as physician in British residence in Kathmandu.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: WRIGHT, Daniel",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/23625-wright-daniel.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: WRIGHT, Daniel",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/23625/wright-daniel/",
+  "subject": "WRIGHT, Daniel",
+  "birth_year": 1833,
+  "death_year": 1902
+ },
+ "model": "gemini-flash-latest"
+}

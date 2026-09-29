@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Erich von Voss",
+   "birth_year": 1880,
+   "death_year": 1917,
+   "nationality": "Baltic German",
+   "field": "Indology"
+  },
+  {
+   "name": "N. Poppe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "VOSS, Erich von",
+   "birth_year": 1880,
+   "death_year": 1917
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Erich von Voss",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1906,
+   "explicit": true,
+   "evidence": "Studied Classics and Sanskrit. Ph.D. 1906 Leipzig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Erich von Voss",
+   "type": "position_at",
+   "object": "École des Églises Réformées in St.Petersburg",
+   "role": "teacher of German and Greek",
+   "place": "St.Petersburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Worked then as a teacher of German and Greek at the École des Églises Réformées in St.Petersburg",
+   "quote_ok": true
+  },
+  {
+   "subject": "N. Poppe",
+   "type": "student_of",
+   "object": "Erich von Voss",
+   "role": "disciple",
+   "place": "St.Petersburg",
+   "year_start": 1910,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "École des Églises Réformées in St.Petersburg, where N. Poppe was his disciple in the early 1910s.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: VOSS, Erich von",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4653-voss-erich-von.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: VOSS, Erich von",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4653/voss-erich-von/",
+  "subject": "VOSS, Erich von",
+  "birth_year": 1880,
+  "death_year": 1917
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "George Bidie",
+   "birth_year": 1830,
+   "death_year": 1913,
+   "nationality": "British",
+   "field": "natural history, archaeology and numismatics"
+  },
+  {
+   "name": "BIDIE, George",
+   "birth_year": 1830,
+   "death_year": 1913
+  }
+ ],
+ "relations": [
+  {
+   "subject": "George Bidie",
+   "type": "studied_at",
+   "object": "Marischal College",
+   "role": "M.D.",
+   "place": "Aberdeen",
+   "year_start": null,
+   "year_end": 1853,
+   "explicit": true,
+   "evidence": "studies at Edinburgh and Aberdeen, M.D. 1853 Marischal College",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Bidie",
+   "type": "position_at",
+   "object": "Madras Medical College",
+   "role": "Professor of Botany",
+   "place": "Madras",
+   "year_start": 1866,
+   "year_end": 1870,
+   "explicit": true,
+   "evidence": "In 1866-70 Professor of Botany at Madras Medical College",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Bidie",
+   "type": "position_at",
+   "object": "Madras Museum",
+   "role": "Superintendent",
+   "place": "Madras",
+   "year_start": 1872,
+   "year_end": 1884,
+   "explicit": true,
+   "evidence": "Superintendent of Madras Museum 1872-84",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Bidie",
+   "type": "position_at",
+   "object": "Madras University",
+   "role": "Fellow",
+   "place": "Madras",
+   "year_start": 1879,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Fellow of Madras University 1879",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BIDIE, George",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/12290-bidie-george.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BIDIE, George",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/12290/bidie-george/",
+  "subject": "BIDIE, George",
+  "birth_year": 1830,
+  "death_year": 1913
+ },
+ "model": "gemini-flash-latest"
+}

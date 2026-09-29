@@ -1,0 +1,183 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Henri Paul Gaston Maspéro",
+   "birth_year": 1883,
+   "death_year": 1945,
+   "nationality": "French",
+   "field": "Sinologist"
+  },
+  {
+   "name": "Gaston Maspéro",
+   "birth_year": 1846,
+   "death_year": 1916,
+   "nationality": null,
+   "field": "Egyptologist"
+  },
+  {
+   "name": "Chavannes",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lévi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jean Maspéro",
+   "birth_year": 1885,
+   "death_year": 1915,
+   "nationality": null,
+   "field": "papyrologist"
+  },
+  {
+   "name": "Georges Maspéro",
+   "birth_year": 1872,
+   "death_year": 1942,
+   "nationality": null,
+   "field": "Sinologist and Indochinese scholar"
+  },
+  {
+   "name": "MASPÉRO, Henri – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1846,
+   "death_year": 1916
+  },
+  {
+   "name": "MASPÉRO, Henri",
+   "birth_year": 1883,
+   "death_year": 1945
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Henri Paul Gaston Maspéro",
+   "type": "other",
+   "object": "Gaston Maspéro",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of the Egyptologist Gaston Maspéro (1846–1916, of Italian ancestry)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henri Paul Gaston Maspéro",
+   "type": "student_of",
+   "object": "Chavannes",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "soon turned into Sinology under Chavannes and Lévi",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henri Paul Gaston Maspéro",
+   "type": "student_of",
+   "object": "Lévi",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "soon turned into Sinology under Chavannes and Lévi",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henri Paul Gaston Maspéro",
+   "type": "position_at",
+   "object": "É.F.E.O.",
+   "role": null,
+   "place": "Hanoi",
+   "year_start": 1908,
+   "year_end": 1920,
+   "explicit": true,
+   "evidence": "In 1908-20 in Hanoi (É.F.E.O., but 1917-19 military service in France)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henri Paul Gaston Maspéro",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "Professor of Chinese",
+   "place": "Paris",
+   "year_start": 1919,
+   "year_end": 1944,
+   "explicit": true,
+   "evidence": "Professor of Chinese at Collège de France in Paris in 1919-44 (nominated successor of Chavannes in 1919, actually began in 1921)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henri Paul Gaston Maspéro",
+   "type": "succeeded",
+   "object": "Chavannes",
+   "role": "Professor of Chinese",
+   "place": "Collège de France",
+   "year_start": 1919,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor of Chinese at Collège de France in Paris in 1919-44 (nominated successor of Chavannes in 1919, actually began in 1921)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henri Paul Gaston Maspéro",
+   "type": "position_at",
+   "object": "A.I.B.L.",
+   "role": "President",
+   "place": null,
+   "year_start": 1944,
+   "year_end": 1944,
+   "explicit": true,
+   "evidence": "Member of A.I.B.L. 1935, its President 1944.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean Maspéro",
+   "type": "other",
+   "object": "Henri Paul Gaston Maspéro",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The papyrologist Jean Maspéro (1885–1915) was his brother",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georges Maspéro",
+   "type": "other",
+   "object": "Henri Paul Gaston Maspéro",
+   "role": "half-brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the Sinologist and Indochinese scholar Georges Maspéro (1872–1942) was his half-brother.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MASPÉRO, Henri",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4073-maspero-henri.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MASPÉRO, Henri",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4073/maspero-henri/",
+  "subject": "MASPÉRO, Henri",
+  "birth_year": 1883,
+  "death_year": 1945
+ },
+ "model": "gemini-flash-latest"
+}

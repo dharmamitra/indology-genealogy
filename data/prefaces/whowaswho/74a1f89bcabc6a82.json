@@ -1,0 +1,90 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "James Mill",
+   "birth_year": 1773,
+   "death_year": 1836,
+   "nationality": "British",
+   "field": "Politician, Economist, Philosopher, and Historian of Colonial India"
+  },
+  {
+   "name": "John Stuart Mill",
+   "birth_year": 1806,
+   "death_year": 1873,
+   "nationality": null,
+   "field": "philosopher"
+  },
+  {
+   "name": "MILL, James",
+   "birth_year": 1773,
+   "death_year": 1836
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Mill",
+   "type": "studied_at",
+   "object": "Montrose Academy",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at Montrose Academy and Edinburgh University",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Mill",
+   "type": "studied_at",
+   "object": "Edinburgh University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at Montrose Academy and Edinburgh University, studied philosophy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Mill",
+   "type": "position_at",
+   "object": "India Office",
+   "role": "Assistant Examiner of Correspondence",
+   "place": null,
+   "year_start": 1819,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was appointed to the India Office in 1819 as an Assistant Examiner of Correspondence, and by 1830 was at the head of the office",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Stuart Mill",
+   "type": "other",
+   "object": "James Mill",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "their eldest son was the philosopher John Stuart Mill (1806–1873)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MILL, James",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4180-mill-james.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MILL, James",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4180/mill-james/",
+  "subject": "MILL, James",
+  "birth_year": 1773,
+  "death_year": 1836
+ },
+ "model": "gemini-flash-latest"
+}

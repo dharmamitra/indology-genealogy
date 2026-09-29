@@ -1,0 +1,85 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "John Pickford",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Indologist"
+  },
+  {
+   "name": "Monier Williams",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Pickford",
+   "type": "student_of",
+   "object": "Monier Williams",
+   "role": "teacher",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Oxford (Brasenose College) under Monier Williams (1865 there)",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Pickford",
+   "type": "studied_at",
+   "object": "Oxford",
+   "role": "M.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Oxford (Brasenose College) under Monier Williams (1865 there), Boden Scholar of Sanskrit. M.A.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Pickford",
+   "type": "studied_at",
+   "object": "Brasenose College",
+   "role": null,
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Oxford (Brasenose College)",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Pickford",
+   "type": "position_at",
+   "object": "Presidency College in Madras",
+   "role": "Professor of Sanskrit",
+   "place": "Madras",
+   "year_start": null,
+   "year_end": 1872,
+   "explicit": true,
+   "evidence": "Until 1872 Professor of Sanskrit at Presidency College in Madras.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: PICKFORD, John",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4787-pickford-john.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: PICKFORD, John",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4787/pickford-john/",
+  "subject": "PICKFORD, John",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "William Howard Campbell",
+   "birth_year": 1859,
+   "death_year": 1910,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Thomas Vincent Campbell",
+   "birth_year": 1863,
+   "death_year": 1930,
+   "nationality": null,
+   "field": "Entomology"
+  },
+  {
+   "name": "CAMPBELL, William Howard",
+   "birth_year": 1859,
+   "death_year": 1910
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Howard Campbell",
+   "type": "studied_at",
+   "object": "Edinburgh University",
+   "role": "M.A., B.D.",
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": 1882,
+   "explicit": true,
+   "evidence": "Studies at Edinburgh University (M.A. 1880, B.D. 1882)",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Howard Campbell",
+   "type": "position_at",
+   "object": "London Missionary Society",
+   "role": "Missionary",
+   "place": "South India",
+   "year_start": 1884,
+   "year_end": 1903,
+   "explicit": true,
+   "evidence": "From 1884 worked for London Missionary Society in South India, mainly in Jammalamadugu, Cuddapah dt., returned 1903 on health reasons.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Howard Campbell",
+   "type": "other",
+   "object": "Thomas Vincent Campbell",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His brother Thomas Vincent Campbell (1863–1930), medical missionary in India, was a noted Entomologist.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: CAMPBELL, William Howard",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1167-campbell-william-howard.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: CAMPBELL, William Howard",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1167/campbell-william-howard/",
+  "subject": "CAMPBELL, William Howard",
+  "birth_year": 1859,
+  "death_year": 1910
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,109 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ali Beth",
+   "birth_year": 1911,
+   "death_year": 1989,
+   "nationality": "Dutch",
+   "field": "Indologist"
+  },
+  {
+   "name": "Jan Gonda",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "J. A. B. van Buitenen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Evert Willem Beth",
+   "birth_year": 1908,
+   "death_year": 1964,
+   "nationality": null,
+   "field": "philosopher"
+  },
+  {
+   "name": "BETH, Ali – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1911,
+   "death_year": 1989
+  },
+  {
+   "name": "BETH, Ali",
+   "birth_year": 1911,
+   "death_year": 1989
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ali Beth",
+   "type": "studied_at",
+   "object": "Utrecht",
+   "role": "dr.",
+   "place": "Utrecht",
+   "year_start": null,
+   "year_end": 1943,
+   "explicit": true,
+   "evidence": "Studied classics and Sanskrit at Utrecht. Wrote her dr. dissertation there on Sanskrit in 1943 (under Gonda).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ali Beth",
+   "type": "student_of",
+   "object": "Jan Gonda",
+   "role": "doctoral supervisor",
+   "place": "Utrecht",
+   "year_start": null,
+   "year_end": 1943,
+   "explicit": true,
+   "evidence": "Wrote her dr. dissertation there on Sanskrit in 1943 (under Gonda).",
+   "quote_ok": true
+  },
+  {
+   "subject": "J. A. B. van Buitenen",
+   "type": "student_of",
+   "object": "Ali Beth",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1945,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In the mid-1940s taught classical languages in a gymnasium in the Hague and privately Sanskrit to the young Van Buitenen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ali Beth",
+   "type": "other",
+   "object": "Evert Willem Beth",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Her brother was Evert Willem Beth (1908–1964), a philosopher.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BETH, Ali",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/728-beth-ali.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BETH, Ali",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/728/beth-ali/",
+  "subject": "BETH, Ali",
+  "birth_year": 1911,
+  "death_year": 1989
+ },
+ "model": "gemini-flash-latest"
+}

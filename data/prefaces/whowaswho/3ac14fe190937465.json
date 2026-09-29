@@ -1,0 +1,126 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Jean-Antoine Dubois",
+   "birth_year": 1766,
+   "death_year": 1848,
+   "nationality": "French",
+   "field": "Indology"
+  },
+  {
+   "name": "Sylvia Murr",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "DUBOIS, Jean-Antoine",
+   "birth_year": 1766,
+   "death_year": 1848
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jean-Antoine Dubois",
+   "type": "studied_at",
+   "object": "College de Bourg-Saint-Andéol",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at College de Bourg-Saint-Andéol and the seminary of Missions etrangères in Paris.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean-Antoine Dubois",
+   "type": "studied_at",
+   "object": "seminary of Missions etrangères in Paris",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at College de Bourg-Saint-Andéol and the seminary of Missions etrangères in Paris.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean-Antoine Dubois",
+   "type": "position_at",
+   "object": "seminary in Pondichéry",
+   "role": "director",
+   "place": "Pondichéry",
+   "year_start": 1813,
+   "year_end": 1819,
+   "explicit": true,
+   "evidence": "From 1813 he was director of the seminary in Pondichéry, in 1819 returned to Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean-Antoine Dubois",
+   "type": "position_at",
+   "object": "seminary of Missions étrangères in Paris",
+   "role": "director",
+   "place": "Paris",
+   "year_start": 1823,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1823 director of the seminary of Missions étrangères in Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean-Antoine Dubois",
+   "type": "position_at",
+   "object": "Missions étrangères",
+   "role": "procurator",
+   "place": "Paris",
+   "year_start": 1824,
+   "year_end": 1829,
+   "explicit": true,
+   "evidence": "1824-29 procurator",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean-Antoine Dubois",
+   "type": "position_at",
+   "object": "Missions étrangères",
+   "role": "assistant to the supérieur",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1929 assistant to the supérieur",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean-Antoine Dubois",
+   "type": "position_at",
+   "object": "Missions étrangères",
+   "role": "supérieur",
+   "place": null,
+   "year_start": 1836,
+   "year_end": 1839,
+   "explicit": true,
+   "evidence": "from 1836 supérieur of Missions étrangères, from 1839 again assistant to the supérieur.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: DUBOIS, Jean-Antoine",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1641-dubois-jean-antoine.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: DUBOIS, Jean-Antoine",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1641/dubois-jean-antoine/",
+  "subject": "DUBOIS, Jean-Antoine",
+  "birth_year": 1766,
+  "death_year": 1848
+ },
+ "model": "gemini-flash-latest"
+}

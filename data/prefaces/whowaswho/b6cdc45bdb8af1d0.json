@@ -1,0 +1,97 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Margarethe Steiner",
+   "birth_year": 1872,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Garbe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hauer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "STEINER, Margarethe",
+   "birth_year": 1872,
+   "death_year": 1926
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Margarethe Steiner",
+   "type": "studied_at",
+   "object": "Tübingen",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1926,
+   "explicit": true,
+   "evidence": "Ph.D. 1926 Tübingen under Garbe.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Margarethe Steiner",
+   "type": "student_of",
+   "object": "Garbe",
+   "role": "doctoral supervisor",
+   "place": "Tübingen",
+   "year_start": null,
+   "year_end": 1926,
+   "explicit": true,
+   "evidence": "Ph.D. 1926 Tübingen under Garbe.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Margarethe Steiner",
+   "type": "student_of",
+   "object": "Hauer",
+   "role": null,
+   "place": "Tübingen",
+   "year_start": 1939,
+   "year_end": 1939,
+   "explicit": true,
+   "evidence": "In 1939 still working under Hauer at Tübingen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Margarethe Steiner",
+   "type": "position_at",
+   "object": "Tübingen",
+   "role": null,
+   "place": null,
+   "year_start": 1939,
+   "year_end": 1939,
+   "explicit": true,
+   "evidence": "In 1939 still working under Hauer at Tübingen.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: STEINER, Margarethe",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/6147-steiner-margarethe.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: STEINER, Margarethe",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/6147/steiner-margarethe/",
+  "subject": "STEINER, Margarethe",
+  "birth_year": 1872,
+  "death_year": 1926
+ },
+ "model": "gemini-flash-latest"
+}

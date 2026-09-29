@@ -1,0 +1,171 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2018,
+ "people": [
+  {
+   "name": "Alfred Schmitt",
+   "birth_year": 1888,
+   "death_year": 1976,
+   "nationality": "German",
+   "field": "IE Linguist and Historian of Writing Systems"
+  },
+  {
+   "name": "Herbig",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "comparative linguistics"
+  },
+  {
+   "name": "Güntert",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "comparative linguistics"
+  },
+  {
+   "name": "Peter Hartmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "R. Harweg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "SCHMITT, Alfred",
+   "birth_year": 1888,
+   "death_year": 1976
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Alfred Schmitt",
+   "type": "studied_at",
+   "object": "Moravian Seminary in Gnadenfeld",
+   "role": null,
+   "place": "Gnadenfeld",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied theology at Moravian Seminary in Gnadenfeld",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Schmitt",
+   "type": "studied_at",
+   "object": "Rostock",
+   "role": "Ph.D.",
+   "place": "Rostock",
+   "year_start": 1919,
+   "year_end": 1922,
+   "explicit": true,
+   "evidence": "In 1919 began studies of classics, Germanistics and Romanistics at Rostock, soon switched to comparative linguistics (under Herbig, then Güntert). Ph.D. 1922 Rostock.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Schmitt",
+   "type": "student_of",
+   "object": "Herbig",
+   "role": "teacher",
+   "place": "Rostock",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "switched to comparative linguistics (under Herbig, then Güntert)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Schmitt",
+   "type": "student_of",
+   "object": "Güntert",
+   "role": "teacher",
+   "place": "Rostock",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "switched to comparative linguistics (under Herbig, then Güntert)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Schmitt",
+   "type": "position_at",
+   "object": "Rostock",
+   "role": "Lektor",
+   "place": "Rostock",
+   "year_start": 1928,
+   "year_end": 1935,
+   "explicit": true,
+   "evidence": "In 1928-35 Lektor at Rostock (from 1930 also PD)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Schmitt",
+   "type": "position_at",
+   "object": "Erlangen",
+   "role": "ao. Professor",
+   "place": "Erlangen",
+   "year_start": 1935,
+   "year_end": 1941,
+   "explicit": true,
+   "evidence": "in 1935-41 ao. Professor at Erlangen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Schmitt",
+   "type": "position_at",
+   "object": "Münster",
+   "role": "ord. Professor",
+   "place": "Münster",
+   "year_start": 1941,
+   "year_end": 1956,
+   "explicit": true,
+   "evidence": "in 1941-56 ord. Professor at Münster.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Hartmann",
+   "type": "student_of",
+   "object": "Alfred Schmitt",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among his students were Peter Hartmann and R. Harweg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "R. Harweg",
+   "type": "student_of",
+   "object": "Alfred Schmitt",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among his students were Peter Hartmann and R. Harweg.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SCHMITT, Alfred",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/9998-schmitt-alfred-2.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SCHMITT, Alfred",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/9998/schmitt-alfred-2/",
+  "subject": "SCHMITT, Alfred",
+  "birth_year": 1888,
+  "death_year": 1976
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,126 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Gustaaf Schlegel",
+   "birth_year": 1840,
+   "death_year": 1903,
+   "nationality": "Dutch",
+   "field": "Sinologist"
+  },
+  {
+   "name": "Hermann Schlegel",
+   "birth_year": 1804,
+   "death_year": 1884,
+   "nationality": "German",
+   "field": "zoologist"
+  },
+  {
+   "name": "Cordier",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "SCHLEGEL, Gustaaf – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1804,
+   "death_year": 1884
+  },
+  {
+   "name": "SCHLEGEL, Gustaaf",
+   "birth_year": 1840,
+   "death_year": 1903
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Gustaaf Schlegel",
+   "type": "other",
+   "object": "Hermann Schlegel",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of museum director Hermann Schlegel (1804–1884), a German (Saxonian) zoologist",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gustaaf Schlegel",
+   "type": "studied_at",
+   "object": "Jena",
+   "role": "Ph.D.",
+   "place": "Jena",
+   "year_start": null,
+   "year_end": 1869,
+   "explicit": true,
+   "evidence": "Ph.D. 1869 Jena.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gustaaf Schlegel",
+   "type": "position_at",
+   "object": "Leiden",
+   "role": "eo. Professor (ord. 1877)",
+   "place": "Leiden",
+   "year_start": 1875,
+   "year_end": 1902,
+   "explicit": true,
+   "evidence": "from 1875 as eo. Professor at Leiden (ord. 1877), retired 1902.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gustaaf Schlegel",
+   "type": "collaborated_with",
+   "object": "Cordier",
+   "role": "co-founder",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Together with Cordier he founded the journal T’oung Pao .",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gustaaf Schlegel",
+   "type": "founded",
+   "object": "T’oung Pao",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Together with Cordier he founded the journal T’oung Pao .",
+   "quote_ok": true
+  },
+  {
+   "subject": "Cordier",
+   "type": "founded",
+   "object": "T’oung Pao",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Together with Cordier he founded the journal T’oung Pao .",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SCHLEGEL, Gustaaf",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/36337-schlegel-gustaaf.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SCHLEGEL, Gustaaf",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/36337/schlegel-gustaaf/",
+  "subject": "SCHLEGEL, Gustaaf",
+  "birth_year": 1840,
+  "death_year": 1903
+ },
+ "model": "gemini-flash-latest"
+}

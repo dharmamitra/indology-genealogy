@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Mihai EMINESCU",
+   "birth_year": 1850,
+   "death_year": 1889,
+   "nationality": "Romanian",
+   "field": null
+  },
+  {
+   "name": "Weber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "EMINESCU, Mihai – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1858,
+   "death_year": 1866
+  },
+  {
+   "name": "EMINESCU, Mihai",
+   "birth_year": 1850,
+   "death_year": 1889
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Mihai EMINESCU",
+   "type": "studied_at",
+   "object": "Vienna",
+   "role": null,
+   "place": "Vienna",
+   "year_start": 1869,
+   "year_end": 1872,
+   "explicit": true,
+   "evidence": "Studied in Vienna 1869-72",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mihai EMINESCU",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1872,
+   "year_end": 1874,
+   "explicit": true,
+   "evidence": "and in Berlin 1872-74, philosophy, law, economics, Romance philology, even medicine, and privately many other things.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mihai EMINESCU",
+   "type": "student_of",
+   "object": "Weber",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In Berlin learned also Sanskrit under Weber",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: EMINESCU, Mihai",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1822-eminescu-mihai.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: EMINESCU, Mihai",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1822/eminescu-mihai/",
+  "subject": "EMINESCU, Mihai",
+  "birth_year": 1850,
+  "death_year": 1889
+ },
+ "model": "gemini-flash-latest"
+}

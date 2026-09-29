@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Henry Cope",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Journalist"
+  },
+  {
+   "name": "COPE, Henry",
+   "birth_year": 1850,
+   "death_year": 1860
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Henry Cope",
+   "type": "position_at",
+   "object": "Archaeological Society",
+   "role": "secretary",
+   "place": "Delhi",
+   "year_start": 1847,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1847 he resided in Delhi and was the secretary of the just-founded local Archaeological Society",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Cope",
+   "type": "founded",
+   "object": "Lahore Chronicle",
+   "role": null,
+   "place": "Lahore",
+   "year_start": 1849,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Soon moved to Lahore, founded (1849) and edited the Lahore Chronicle in 1850-56.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Cope",
+   "type": "position_at",
+   "object": "Agri-Horticultural Society",
+   "role": "secretary",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In the 1860s secretary of Agri-Horticultural Society.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: COPE, Henry",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/13210-cope-henry.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: COPE, Henry",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/13210/cope-henry/",
+  "subject": "COPE, Henry",
+  "birth_year": 1850,
+  "death_year": 1860
+ },
+ "model": "gemini-flash-latest"
+}

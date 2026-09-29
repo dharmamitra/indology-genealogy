@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Perceval Landon",
+   "birth_year": 1869,
+   "death_year": 1927,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Kipling",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "LANDON, Perceval – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1817,
+   "death_year": 1877
+  },
+  {
+   "name": "LANDON, Perceval",
+   "birth_year": 1869,
+   "death_year": 1927
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Perceval Landon",
+   "type": "studied_at",
+   "object": "Hertford College, Oxford",
+   "role": null,
+   "place": "Oxford",
+   "year_start": 1888,
+   "year_end": 1892,
+   "explicit": true,
+   "evidence": "From 1888 studies at Hertford College, Oxford, graduated 1892.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Perceval Landon",
+   "type": "other",
+   "object": "Kipling",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A close and life-long friend of Kipling.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: LANDON, Perceval",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/16676-landon-perceval.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: LANDON, Perceval",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/16676/landon-perceval/",
+  "subject": "LANDON, Perceval",
+  "birth_year": 1869,
+  "death_year": 1927
+ },
+ "model": "gemini-flash-latest"
+}

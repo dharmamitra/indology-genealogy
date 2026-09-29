@@ -1,0 +1,54 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2024,
+ "people": [
+  {
+   "name": "Leslie Grey",
+   "birth_year": 1916,
+   "death_year": 2004,
+   "nationality": "American",
+   "field": "psychiatry"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Leslie Grey",
+   "type": "studied_at",
+   "object": "Oxford",
+   "role": "M.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "GREY, Leslie . 1916 — ????. M.D. Oxford.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Leslie Grey",
+   "type": "position_at",
+   "object": "Denver, Colorado",
+   "role": "Professor",
+   "place": "Denver, Colorado",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A psychiatrist and Professor in Denver, Colorado.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GREY, Leslie",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/41006-grey-leslie.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GREY, Leslie",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/41006/grey-leslie/",
+  "subject": "GREY, Leslie",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

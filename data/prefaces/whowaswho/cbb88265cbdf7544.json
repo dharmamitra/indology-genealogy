@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Umberto Norsa",
+   "birth_year": 1866,
+   "death_year": 1943,
+   "nationality": "Italian",
+   "field": null
+  },
+  {
+   "name": "Giosuè Carducci",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "NORSA, Umberto",
+   "birth_year": 1866,
+   "death_year": 1943
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Umberto Norsa",
+   "type": "studied_at",
+   "object": "Bologna",
+   "role": "Law studies",
+   "place": "Bologna",
+   "year_start": null,
+   "year_end": 1888,
+   "explicit": true,
+   "evidence": "Law studies at Bologna, following his father’s wishes... In 1888 graduated from law studies",
+   "quote_ok": true
+  },
+  {
+   "subject": "Umberto Norsa",
+   "type": "student_of",
+   "object": "Giosuè Carducci",
+   "role": "teacher",
+   "place": "Bologna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Law studies at Bologna, following his father’s wishes, but he also attended the classes of Giosuè Carducci.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Umberto Norsa",
+   "type": "position_at",
+   "object": "Gabinetto di Lettura in Mantua",
+   "role": "secretary",
+   "place": "Mantua",
+   "year_start": 1893,
+   "year_end": 1938,
+   "explicit": true,
+   "evidence": "In 1893-1938 secretary of Gabinetto di Lettura in Mantua",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: NORSA, Umberto",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4404-norsa-umberto.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: NORSA, Umberto",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4404/norsa-umberto/",
+  "subject": "NORSA, Umberto",
+  "birth_year": 1866,
+  "death_year": 1943
+ },
+ "model": "gemini-flash-latest"
+}

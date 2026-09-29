@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Charles James Lyall",
+   "birth_year": 1845,
+   "death_year": 1920,
+   "nationality": "British",
+   "field": "Oriental (Arabic and Urdu) Scholar"
+  },
+  {
+   "name": "LYALL, Charles James",
+   "birth_year": 1845,
+   "death_year": 1920
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Charles James Lyall",
+   "type": "studied_at",
+   "object": "King’s College School and College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at King’s College School and College",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles James Lyall",
+   "type": "studied_at",
+   "object": "Balliol College, Oxford",
+   "role": "B.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1867,
+   "explicit": true,
+   "evidence": "studies at Balliol College, Oxford (B.A. 1867)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles James Lyall",
+   "type": "position_at",
+   "object": "Oxford",
+   "role": "Professor of Arabic",
+   "place": null,
+   "year_start": 1913,
+   "year_end": 1920,
+   "explicit": true,
+   "evidence": "In 1913-20 Professor of Arabic at Oxford.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: LYALL, Charles James",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3921-lyall-charles-james.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: LYALL, Charles James",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3921/lyall-charles-james/",
+  "subject": "LYALL, Charles James",
+  "birth_year": 1845,
+  "death_year": 1920
+ },
+ "model": "gemini-flash-latest"
+}

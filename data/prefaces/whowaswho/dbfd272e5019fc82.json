@@ -1,0 +1,97 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Eileen M. Dimes",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "A. Master",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Eileen M. Dimes",
+   "type": "studied_at",
+   "object": "University of London",
+   "role": "B.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1932,
+   "explicit": true,
+   "evidence": "Graduated B.A. in English 1932 University of London and in Sanskrit 1958 ibid.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eileen M. Dimes",
+   "type": "studied_at",
+   "object": "University of London",
+   "role": "B.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1958,
+   "explicit": true,
+   "evidence": "Graduated B.A. in English 1932 University of London and in Sanskrit 1958 ibid.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eileen M. Dimes",
+   "type": "position_at",
+   "object": "S.O.A.S.",
+   "role": "library",
+   "place": null,
+   "year_start": 1945,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1945 worked in the library of S.O.A.S., from 1950 as Assistant in Indian Section.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eileen M. Dimes",
+   "type": "position_at",
+   "object": "India Office Library",
+   "role": "Assistant Keeper for Modern Indian languages",
+   "place": null,
+   "year_start": 1959,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1959 succeeded A. Master as Assistant Keeper for Modern Indian languages in India Office Library.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eileen M. Dimes",
+   "type": "succeeded",
+   "object": "A. Master",
+   "role": "Assistant Keeper for Modern Indian languages",
+   "place": "India Office Library",
+   "year_start": 1959,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1959 succeeded A. Master as Assistant Keeper for Modern Indian languages in India Office Library.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: DIMES, Eileen M",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1599-dimes-eileen-m.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: DIMES, Eileen M",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1599/dimes-eileen-m/",
+  "subject": "DIMES, Eileen M",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

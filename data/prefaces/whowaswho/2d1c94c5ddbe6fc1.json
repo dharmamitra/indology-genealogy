@@ -1,0 +1,66 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Pierre Charles Olloba d’ Ochoa",
+   "birth_year": 1816,
+   "death_year": 1846,
+   "nationality": "French",
+   "field": null
+  },
+  {
+   "name": "Garcin de Tassy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "OCHOA, Charles d’",
+   "birth_year": 1816,
+   "death_year": 1846
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Pierre Charles Olloba d’ Ochoa",
+   "type": "student_of",
+   "object": "Garcin de Tassy",
+   "role": "teacher",
+   "place": "É.L.O.V.",
+   "year_start": 1839,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1839 student of Garcin de Tassy at É.L.O.V.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pierre Charles Olloba d’ Ochoa",
+   "type": "studied_at",
+   "object": "É.L.O.V.",
+   "role": null,
+   "place": null,
+   "year_start": 1839,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1839 student of Garcin de Tassy at É.L.O.V.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: OCHOA, Charles d’",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/43920-ochoa-charles-d.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: OCHOA, Charles d’",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/43920/ochoa-charles-d/",
+  "subject": "OCHOA, Charles d’",
+  "birth_year": 1816,
+  "death_year": 1846
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,92 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Jacob Antoon van Velze",
+   "birth_year": 1902,
+   "death_year": 1984,
+   "nationality": "Dutch",
+   "field": "Indology"
+  },
+  {
+   "name": "Caland",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Gonda",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jacob Antoon van Velze",
+   "type": "studied_at",
+   "object": "Utrecht",
+   "role": null,
+   "place": "Utrecht",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied Classics at Utrecht",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jacob Antoon van Velze",
+   "type": "student_of",
+   "object": "Caland",
+   "role": "teacher",
+   "place": "Utrecht",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "also Sanskrit under Caland",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jacob Antoon van Velze",
+   "type": "studied_at",
+   "object": "Utrecht",
+   "role": "Ph.D.",
+   "place": "Utrecht",
+   "year_start": null,
+   "year_end": 1938,
+   "explicit": true,
+   "evidence": "Ph.D. 1938 Utrecht (under Gonda)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jacob Antoon van Velze",
+   "type": "student_of",
+   "object": "Gonda",
+   "role": "doctoral supervisor",
+   "place": "Utrecht",
+   "year_start": null,
+   "year_end": 1938,
+   "explicit": true,
+   "evidence": "Ph.D. 1938 Utrecht (under Gonda)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: VELZE, Jacob Antoon van",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/22801-velze-jacob-antoon-van.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: VELZE, Jacob Antoon van",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/22801/velze-jacob-antoon-van/",
+  "subject": "VELZE, Jacob Antoon van",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

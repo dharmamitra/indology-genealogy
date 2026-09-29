@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Arthur Wachsberger",
+   "birth_year": 1891,
+   "death_year": 1943,
+   "nationality": "Austrian",
+   "field": "Art Historian and Architect"
+  },
+  {
+   "name": "Strzygowski",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "WACHSBERGER, Arthur – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1857,
+   "death_year": 1932
+  },
+  {
+   "name": "WACHSBERGER, Arthur",
+   "birth_year": 1891,
+   "death_year": 1943
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Arthur Wachsberger",
+   "type": "studied_at",
+   "object": "Vienna",
+   "role": "Ph.D.",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": 1914,
+   "explicit": true,
+   "evidence": "After school in Troppau studied at Vienna. Ph.D. 1914 Vienna (under Strzygowski).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Wachsberger",
+   "type": "student_of",
+   "object": "Strzygowski",
+   "role": "doctoral supervisor",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": 1914,
+   "explicit": true,
+   "evidence": "Ph.D. 1914 Vienna (under Strzygowski).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Wachsberger",
+   "type": "position_at",
+   "object": "Museum für Ostasiatische Kunst",
+   "role": "Assistant",
+   "place": "Köln",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Moved to Köln, worked as Assistant in Museum für Ostasiatische Kunst.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: WACHSBERGER, Arthur",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/37711-wachsberger-arthur.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: WACHSBERGER, Arthur",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/37711/wachsberger-arthur/",
+  "subject": "WACHSBERGER, Arthur",
+  "birth_year": 1891,
+  "death_year": 1943
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,90 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Charles Grant",
+   "birth_year": 1836,
+   "death_year": 1903,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Robert Grant",
+   "birth_year": 1779,
+   "death_year": 1838,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "GRANT, Charles",
+   "birth_year": 1836,
+   "death_year": 1903
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Charles Grant",
+   "type": "studied_at",
+   "object": "Harrow",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "educated at Harrow, Trinity College (Cambridge) and Haileybury.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Grant",
+   "type": "studied_at",
+   "object": "Trinity College (Cambridge)",
+   "role": null,
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "educated at Harrow, Trinity College (Cambridge) and Haileybury.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Grant",
+   "type": "studied_at",
+   "object": "Haileybury",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "educated at Harrow, Trinity College (Cambridge) and Haileybury.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Grant",
+   "type": "other",
+   "object": "Robert Grant",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of —> Robert Grant (1779/80–1838)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GRANT, Charles",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2380-grant-charles-2.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GRANT, Charles",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2380/grant-charles-2/",
+  "subject": "GRANT, Charles",
+  "birth_year": 1836,
+  "death_year": 1903
+ },
+ "model": "gemini-flash-latest"
+}

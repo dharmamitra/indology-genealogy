@@ -1,0 +1,68 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Gottfried Ernst Hagemann",
+   "birth_year": null,
+   "death_year": 1809,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Fr. Schlegel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "A. Hamilton",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Gottfried Ernst Hagemann",
+   "type": "student_of",
+   "object": "A. Hamilton",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In Paris lived as a lodger in the house of Fr. Schlegel and together with his landlord became a student of A. Hamilton.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fr. Schlegel",
+   "type": "student_of",
+   "object": "A. Hamilton",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In Paris lived as a lodger in the house of Fr. Schlegel and together with his landlord became a student of A. Hamilton.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HAGEMANN, Gottfried",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2551-hagemann-gottfried.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HAGEMANN, Gottfried",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2551/hagemann-gottfried/",
+  "subject": "HAGEMANN, Gottfried",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

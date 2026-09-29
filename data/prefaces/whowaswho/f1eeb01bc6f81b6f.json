@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Henry White Wallis",
+   "birth_year": 1861,
+   "death_year": 1887,
+   "nationality": "British",
+   "field": "Indology"
+  },
+  {
+   "name": "Cowell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "WALLIS, Henry White – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1823,
+   "death_year": 1882
+  },
+  {
+   "name": "WALLIS, Henry White",
+   "birth_year": 1861,
+   "death_year": 1887
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Henry White Wallis",
+   "type": "studied_at",
+   "object": "Cambridge",
+   "role": null,
+   "place": "Cambridge",
+   "year_start": 1882,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1882 studied at Cambridge Greek and Sanskrit under Cowell.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry White Wallis",
+   "type": "student_of",
+   "object": "Cowell",
+   "role": "teacher",
+   "place": "Cambridge",
+   "year_start": 1882,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1882 studied at Cambridge Greek and Sanskrit under Cowell.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry White Wallis",
+   "type": "position_at",
+   "object": "Caius College, Cambridge",
+   "role": "Fellow",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Fellow of Caius College, Cambridge.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: WALLIS, Henry White",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5366-wallis-h-w.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: WALLIS, Henry White",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5366/wallis-h-w/",
+  "subject": "WALLIS, Henry White",
+  "birth_year": 1861,
+  "death_year": 1887
+ },
+ "model": "gemini-flash-latest"
+}

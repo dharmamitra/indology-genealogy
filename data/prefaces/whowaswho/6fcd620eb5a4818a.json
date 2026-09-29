@@ -1,0 +1,131 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "William Hunter",
+   "birth_year": 1755,
+   "death_year": 1812,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "HUNTER, William",
+   "birth_year": 1755,
+   "death_year": 1812
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Hunter",
+   "type": "studied_at",
+   "object": "Marischal College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at Marischal College and Aberdeen University (M.A. 1777)",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Hunter",
+   "type": "studied_at",
+   "object": "Aberdeen University",
+   "role": "M.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1777,
+   "explicit": true,
+   "evidence": "Educated at Marischal College and Aberdeen University (M.A. 1777)",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Hunter",
+   "type": "position_at",
+   "object": "E.I.C.’S medical service",
+   "role": null,
+   "place": null,
+   "year_start": 1781,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Joined the E.I.C.’S medical service in 1781.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Hunter",
+   "type": "position_at",
+   "object": "Agra Residency",
+   "role": "surgeon",
+   "place": "Agra",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Worked as surgeon at Agra Residency, participated in Resident’s expedition from Agra to Ujjain in 1792-93.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Hunter",
+   "type": "position_at",
+   "object": "A.S.B.",
+   "role": "Secretary",
+   "place": null,
+   "year_start": 1798,
+   "year_end": 1811,
+   "explicit": true,
+   "evidence": "In 1798-1811 Secretary to the A.S.B. 1798-1802 and 1804-11.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Hunter",
+   "type": "position_at",
+   "object": "Fort William College",
+   "role": "Examiner in Persian and Hindustani",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Examiner in Persian and Hindustani at Fort William College, 1805-11 also Secretary of the College.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Hunter",
+   "type": "position_at",
+   "object": "Fort William College",
+   "role": "Secretary",
+   "place": null,
+   "year_start": 1805,
+   "year_end": 1811,
+   "explicit": true,
+   "evidence": "1805-11 also Secretary of the College.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Hunter",
+   "type": "position_at",
+   "object": "Java",
+   "role": "Superintendent Surgeon",
+   "place": "Java",
+   "year_start": 1811,
+   "year_end": 1812,
+   "explicit": true,
+   "evidence": "In 1811-12 Superintendent Surgeon of Java.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HUNTER, William",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3174-hunter-william.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HUNTER, William",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3174/hunter-william/",
+  "subject": "HUNTER, William",
+  "birth_year": 1755,
+  "death_year": 1812
+ },
+ "model": "gemini-flash-latest"
+}

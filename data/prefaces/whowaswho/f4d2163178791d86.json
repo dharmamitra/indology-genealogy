@@ -1,0 +1,169 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Robert Chambers",
+   "birth_year": 1737,
+   "death_year": 1803,
+   "nationality": "British",
+   "field": "Indology"
+  },
+  {
+   "name": "William Chambers",
+   "birth_year": 1748,
+   "death_year": 1793,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "William Jones",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Shore",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "CHAMBERS, Robert – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1748,
+   "death_year": 1793
+  },
+  {
+   "name": "CHAMBERS, Robert",
+   "birth_year": 1737,
+   "death_year": 1803
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Robert Chambers",
+   "type": "other",
+   "object": "William Chambers",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "brother of —> William Chambers (1748–1793)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Chambers",
+   "type": "studied_at",
+   "object": "Oxford",
+   "role": "B.A.",
+   "place": null,
+   "year_start": 1754,
+   "year_end": 1758,
+   "explicit": true,
+   "evidence": "Studies from 1754 at Oxford (Lincoln College; 1758 B.A., 1761 M.A. and Fellow of University College, 1765 B.C.L.).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Chambers",
+   "type": "studied_at",
+   "object": "Oxford",
+   "role": "M.A.",
+   "place": null,
+   "year_start": 1754,
+   "year_end": 1761,
+   "explicit": true,
+   "evidence": "Studies from 1754 at Oxford (Lincoln College; 1758 B.A., 1761 M.A. and Fellow of University College, 1765 B.C.L.).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Chambers",
+   "type": "studied_at",
+   "object": "Oxford",
+   "role": "B.C.L.",
+   "place": null,
+   "year_start": 1754,
+   "year_end": 1765,
+   "explicit": true,
+   "evidence": "Studies from 1754 at Oxford (Lincoln College; 1758 B.A., 1761 M.A. and Fellow of University College, 1765 B.C.L.).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Chambers",
+   "type": "position_at",
+   "object": "University College",
+   "role": "Fellow",
+   "place": null,
+   "year_start": 1761,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1761 M.A. and Fellow of University College",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Chambers",
+   "type": "position_at",
+   "object": "Oxford",
+   "role": "Vinerian Professor of Law",
+   "place": null,
+   "year_start": 1766,
+   "year_end": 1777,
+   "explicit": true,
+   "evidence": "from 1766 Vinerian Professor of Law, until 1774 (formally to 1777).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Chambers",
+   "type": "other",
+   "object": "William Jones",
+   "role": "friend",
+   "place": null,
+   "year_start": 1766,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A friend of (Sir) William Jones and Dr. Johnson as early as 1766.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Chambers",
+   "type": "position_at",
+   "object": "A.S.B.",
+   "role": "President",
+   "place": null,
+   "year_start": 1797,
+   "year_end": 1799,
+   "explicit": true,
+   "evidence": "After Shore President of the A.S.B. in 1797-99.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Chambers",
+   "type": "succeeded",
+   "object": "Shore",
+   "role": "President",
+   "place": "A.S.B.",
+   "year_start": 1797,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After Shore President of the A.S.B. in 1797-99.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: CHAMBERS, Robert",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1226-chambers-robert.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: CHAMBERS, Robert",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1226/chambers-robert/",
+  "subject": "CHAMBERS, Robert",
+  "birth_year": 1737,
+  "death_year": 1803
+ },
+ "model": "gemini-flash-latest"
+}

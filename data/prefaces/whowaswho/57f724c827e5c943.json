@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2022,
+ "people": [
+  {
+   "name": "James Hornell",
+   "birth_year": 1865,
+   "death_year": 1949,
+   "nationality": "British",
+   "field": "Zoology and Ethnography"
+  },
+  {
+   "name": "Joseph Sinell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Zoology"
+  },
+  {
+   "name": "HORNELL, James – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1891,
+   "death_year": 1900
+  },
+  {
+   "name": "HORNELL, James",
+   "birth_year": 1865,
+   "death_year": 1949
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Hornell",
+   "type": "studied_at",
+   "object": "University College, Liverpool",
+   "role": null,
+   "place": "Liverpool",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied at University College, Liverpool.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Hornell",
+   "type": "collaborated_with",
+   "object": "Joseph Sinell",
+   "role": null,
+   "place": "Jersey",
+   "year_start": 1891,
+   "year_end": 1900,
+   "explicit": true,
+   "evidence": "In 1891-1900 collaborated with Zoologist Joseph Sinell in Jersey (also married his daughter).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HORNELL, James",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/32069-hornell-james.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HORNELL, James",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/32069/hornell-james/",
+  "subject": "HORNELL, James",
+  "birth_year": 1865,
+  "death_year": 1949
+ },
+ "model": "gemini-flash-latest"
+}

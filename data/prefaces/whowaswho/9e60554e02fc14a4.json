@@ -1,0 +1,54 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2022,
+ "people": [
+  {
+   "name": "William Kincaid",
+   "birth_year": 1831,
+   "death_year": 1909,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Charles A. Kincaid",
+   "birth_year": 1870,
+   "death_year": 1954,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "KINCAID, William",
+   "birth_year": 1831,
+   "death_year": 1909
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Charles A. Kincaid",
+   "type": "other",
+   "object": "William Kincaid",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Married 1866 Martha Pattie Shortt (1843–1933), —> Charles A. Kincaid (1870–1954) was their son.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: KINCAID, William",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/33085-kincaid-william.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: KINCAID, William",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/33085/kincaid-william/",
+  "subject": "KINCAID, William",
+  "birth_year": 1831,
+  "death_year": 1909
+ },
+ "model": "gemini-flash-latest"
+}

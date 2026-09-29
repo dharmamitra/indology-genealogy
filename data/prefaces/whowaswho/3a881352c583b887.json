@@ -1,0 +1,97 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Mario Bonardi",
+   "birth_year": 1914,
+   "death_year": 1954,
+   "nationality": "Italian",
+   "field": "Indologist (Buddhist scholar)"
+  },
+  {
+   "name": "Formichi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Tucci",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BONARDI, Mario",
+   "birth_year": 1914,
+   "death_year": 1954
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Mario Bonardi",
+   "type": "student_of",
+   "object": "Formichi",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "at the same time studied Sanskrit and Tibetan under Formichi and Tucci.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mario Bonardi",
+   "type": "student_of",
+   "object": "Tucci",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "at the same time studied Sanskrit and Tibetan under Formichi and Tucci.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mario Bonardi",
+   "type": "position_at",
+   "object": "IsMEO",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Worked in the IsMEO.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mario Bonardi",
+   "type": "position_at",
+   "object": "Oriental Institute of the University of Rome",
+   "role": "Assistant Professor (?)",
+   "place": "Rome",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After the war a short time Assistant Professor (?) at the Oriental Institute of the University of Rome",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BONARDI, Mario",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/872-bonardi-mario.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BONARDI, Mario",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/872/bonardi-mario/",
+  "subject": "BONARDI, Mario",
+  "birth_year": 1914,
+  "death_year": 1954
+ },
+ "model": "gemini-flash-latest"
+}

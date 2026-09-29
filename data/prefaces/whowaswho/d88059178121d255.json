@@ -1,0 +1,159 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Philippe-Édouard Foucaux",
+   "birth_year": 1811,
+   "death_year": 1894,
+   "nationality": "French",
+   "field": "Indologist and Tibetan scholar"
+  },
+  {
+   "name": "Burnouf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Pavie",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Féer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "David-Neel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "FOUCAUX, Philippe-Édouard",
+   "birth_year": 1811,
+   "death_year": 1894
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Philippe-Édouard Foucaux",
+   "type": "student_of",
+   "object": "Burnouf",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a student of Burnouf",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philippe-Édouard Foucaux",
+   "type": "position_at",
+   "object": "É.L.O.V.",
+   "role": null,
+   "place": "Paris",
+   "year_start": 1842,
+   "year_end": 1864,
+   "explicit": true,
+   "evidence": "In 1842 started a course of Tibetan in the adjoint school of É.L.O.V.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philippe-Édouard Foucaux",
+   "type": "succeeded",
+   "object": "Burnouf",
+   "role": null,
+   "place": "Collège de France",
+   "year_start": 1857,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1857 Burnouf’s successor as Professor of Sanskrit at Collège de France",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philippe-Édouard Foucaux",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "Professor of Sanskrit",
+   "place": "Paris",
+   "year_start": 1857,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1857 Burnouf’s successor as Professor of Sanskrit at Collège de France (when his friend Pavie, until this acting Professor, withdraw), first acting Professor, officially nominated in 1862.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philippe-Édouard Foucaux",
+   "type": "other",
+   "object": "Pavie",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "his friend Pavie",
+   "quote_ok": true
+  },
+  {
+   "subject": "Féer",
+   "type": "succeeded",
+   "object": "Philippe-Édouard Foucaux",
+   "role": "teaching Tibetan",
+   "place": "É.L.O.V.",
+   "year_start": 1864,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Continued teaching Tibetan until 1864 (when in this succeeded by Féer).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Féer",
+   "type": "student_of",
+   "object": "Philippe-Édouard Foucaux",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among his students were Féer and David-Neel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "David-Neel",
+   "type": "student_of",
+   "object": "Philippe-Édouard Foucaux",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among his students were Féer and David-Neel.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: FOUCAUX, Philippe-Édouard",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2045-foucaux-philip-edouard.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: FOUCAUX, Philippe-Édouard",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2045/foucaux-philip-edouard/",
+  "subject": "FOUCAUX, Philippe-Édouard",
+  "birth_year": 1811,
+  "death_year": 1894
+ },
+ "model": "gemini-flash-latest"
+}

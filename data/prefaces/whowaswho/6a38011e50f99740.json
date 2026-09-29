@@ -1,0 +1,123 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Johann Philipp Fabricius",
+   "birth_year": 1711,
+   "death_year": 1791,
+   "nationality": "German",
+   "field": "Tamil Scholar"
+  },
+  {
+   "name": "G. A. Francke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Schultze",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gericke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "J. C. Breithaupt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "FABRICIUS, Johann Philipp",
+   "birth_year": 1711,
+   "death_year": 1791
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johann Philipp Fabricius",
+   "type": "studied_at",
+   "object": "Giessen",
+   "role": "law",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Giessen (law) and Halle (now also theology).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Philipp Fabricius",
+   "type": "studied_at",
+   "object": "Halle",
+   "role": "theology",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Giessen (law) and Halle (now also theology).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Philipp Fabricius",
+   "type": "succeeded",
+   "object": "Schultze",
+   "role": null,
+   "place": "Madras",
+   "year_start": 1742,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1742 went to Madras to become Schultze’s successor.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gericke",
+   "type": "succeeded",
+   "object": "Johann Philipp Fabricius",
+   "role": "head of Vepery Mission and school",
+   "place": "Vepery",
+   "year_start": 1788,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "relieved by Gericke in 1788, as the head of Vepery Mission and school",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Philipp Fabricius",
+   "type": "collaborated_with",
+   "object": "J. C. Breithaupt",
+   "role": null,
+   "place": null,
+   "year_start": 1749,
+   "year_end": 1782,
+   "explicit": true,
+   "evidence": "In 1749-82 J. C. Breithaupt was his collaborator.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: FABRICIUS, Johann Philipp",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1873-fabricius-johann-philip.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: FABRICIUS, Johann Philipp",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1873/fabricius-johann-philip/",
+  "subject": "FABRICIUS, Johann Philipp",
+  "birth_year": 1711,
+  "death_year": 1791
+ },
+ "model": "gemini-flash-latest"
+}

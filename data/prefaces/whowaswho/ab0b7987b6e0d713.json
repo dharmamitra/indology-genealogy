@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Thomas Deane Pearse",
+   "birth_year": 1738,
+   "death_year": 1789,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Warren Hastings",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "PEARSE, Thomas Deane – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1713,
+   "death_year": 1762
+  },
+  {
+   "name": "PEARSE, Thomas Deane",
+   "birth_year": 1713,
+   "death_year": 1762
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Thomas Deane Pearse",
+   "type": "studied_at",
+   "object": "Military Academy in Woolwich",
+   "role": null,
+   "place": "Woolwich",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After Military Academy in Woolwich joined Royal Artillery 1761.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Deane Pearse",
+   "type": "position_at",
+   "object": "Royal Artillery",
+   "role": null,
+   "place": null,
+   "year_start": 1761,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After Military Academy in Woolwich joined Royal Artillery 1761.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Deane Pearse",
+   "type": "position_at",
+   "object": "E.I.C.",
+   "role": "Major in Bengal army",
+   "place": "India",
+   "year_start": 1768,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1768 transferred to E.I.C.’s service and became Major in Bengal army.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Deane Pearse",
+   "type": "other",
+   "object": "Warren Hastings",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a friend of Warren Hastings.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: PEARSE, Thomas Deane",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/19256-pearse-thomas-deane.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: PEARSE, Thomas Deane",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/19256/pearse-thomas-deane/",
+  "subject": "PEARSE, Thomas Deane",
+  "birth_year": 1713,
+  "death_year": 1762
+ },
+ "model": "gemini-flash-latest"
+}

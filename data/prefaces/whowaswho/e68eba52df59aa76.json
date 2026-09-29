@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Friedrich Amadeus Johann Maria Streiter",
+   "birth_year": 1833,
+   "death_year": 1894,
+   "nationality": "Austrian",
+   "field": "Indology"
+  },
+  {
+   "name": "Weber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "STREITER, Friedrich – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1804,
+   "death_year": 1873
+  },
+  {
+   "name": "STREITER, Friedrich",
+   "birth_year": 1833,
+   "death_year": 1894
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Friedrich Amadeus Johann Maria Streiter",
+   "type": "student_of",
+   "object": "Weber",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1856,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then (1856) classics and Indology at Berlin i.al. under Weber.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Amadeus Johann Maria Streiter",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": "Ph.D.",
+   "place": "Berlin",
+   "year_start": 1856,
+   "year_end": 1861,
+   "explicit": true,
+   "evidence": "then (1856) classics and Indology at Berlin i.al. under Weber. Ph.D. 1861 Berlin.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: STREITER, Friedrich",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/6088-streiter-friedrich.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: STREITER, Friedrich",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/6088/streiter-friedrich/",
+  "subject": "STREITER, Friedrich",
+  "birth_year": 1833,
+  "death_year": 1894
+ },
+ "model": "gemini-flash-latest"
+}

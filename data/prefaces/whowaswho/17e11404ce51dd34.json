@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Hans E. Kauffmann",
+   "birth_year": 1899,
+   "death_year": 1985,
+   "nationality": "German",
+   "field": "Anthropologist"
+  },
+  {
+   "name": "Heine-Geldern",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "anthropology"
+  },
+  {
+   "name": "KAUFFMANN, Hans E. – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1899,
+   "death_year": 1985
+  },
+  {
+   "name": "KAUFFMANN, Hans E",
+   "birth_year": 1899,
+   "death_year": 1985
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hans E. Kauffmann",
+   "type": "student_of",
+   "object": "Heine-Geldern",
+   "role": "teacher",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied anthropology under Heine-Geldern at Vienna",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hans E. Kauffmann",
+   "type": "studied_at",
+   "object": "Vienna",
+   "role": null,
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied anthropology under Heine-Geldern at Vienna",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hans E. Kauffmann",
+   "type": "studied_at",
+   "object": "Zürich",
+   "role": "PhD",
+   "place": "Zürich",
+   "year_start": null,
+   "year_end": 1934,
+   "explicit": true,
+   "evidence": "made his Ph.D. 1934 at Zürich",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: KAUFFMANN, Hans E",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/32907-kauffmann-hans-e.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: KAUFFMANN, Hans E",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/32907/kauffmann-hans-e/",
+  "subject": "KAUFFMANN, Hans E",
+  "birth_year": 1899,
+  "death_year": 1985
+ },
+ "model": "gemini-flash-latest"
+}

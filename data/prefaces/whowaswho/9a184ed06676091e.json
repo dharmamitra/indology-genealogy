@@ -1,0 +1,66 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Édouard-Simon Ariel",
+   "birth_year": 1818,
+   "death_year": 1854,
+   "nationality": "French",
+   "field": "Indologist"
+  },
+  {
+   "name": "Burnouf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ARIEL, Édouard-Simon",
+   "birth_year": 1818,
+   "death_year": 1854
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Édouard-Simon Ariel",
+   "type": "student_of",
+   "object": "Burnouf",
+   "role": "student",
+   "place": "Paris",
+   "year_start": 1840,
+   "year_end": 1844,
+   "explicit": true,
+   "evidence": "in 1840-44 in marine administration in Paris, now also student of Burnouf.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Édouard-Simon Ariel",
+   "type": "position_at",
+   "object": "Pondichéry Library and Archives",
+   "role": "Conservator",
+   "place": "Pondichéry",
+   "year_start": 1846,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1846 also as Conservator of Pondichéry Library and Archives.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ARIEL, Édouard-Simon",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/313-ariel-edouard-simon.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ARIEL, Édouard-Simon",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/313/ariel-edouard-simon/",
+  "subject": "ARIEL, Édouard-Simon",
+  "birth_year": 1818,
+  "death_year": 1854
+ },
+ "model": "gemini-flash-latest"
+}

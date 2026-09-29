@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "David Shea",
+   "birth_year": 1777,
+   "death_year": 1836,
+   "nationality": "British",
+   "field": "Persian Scholar"
+  },
+  {
+   "name": "A. Troyer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "SHEA, David",
+   "birth_year": 1777,
+   "death_year": 1836
+  }
+ ],
+ "relations": [
+  {
+   "subject": "David Shea",
+   "type": "studied_at",
+   "object": "Trinity College in Dublin",
+   "role": "student",
+   "place": "Dublin",
+   "year_start": 1793,
+   "year_end": 1798,
+   "explicit": true,
+   "evidence": "Studied Classics at Trinity College in Dublin from 1793, in 1798 expelled as nationalist",
+   "quote_ok": true
+  },
+  {
+   "subject": "David Shea",
+   "type": "position_at",
+   "object": "Haileybury",
+   "role": "Assistant Professor",
+   "place": "Haileybury",
+   "year_start": 1826,
+   "year_end": 1836,
+   "explicit": true,
+   "evidence": "Back in the U.K. teaching at Haileybury as Assistant Professor in 1826-36.",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. Troyer",
+   "type": "collaborated_with",
+   "object": "David Shea",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Two works were completed and published by A. Troyer.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SHEA, David",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/21287-shea-david.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SHEA, David",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/21287/shea-david/",
+  "subject": "SHEA, David",
+  "birth_year": 1777,
+  "death_year": 1836
+ },
+ "model": "gemini-flash-latest"
+}

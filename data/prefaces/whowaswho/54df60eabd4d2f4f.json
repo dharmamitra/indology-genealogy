@@ -1,0 +1,90 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "William Woodville Rockhill",
+   "birth_year": 1854,
+   "death_year": 1914,
+   "nationality": "American",
+   "field": "Tibetology, Sinology"
+  },
+  {
+   "name": "Feer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Foucaux",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ROCKHILL, W. W. – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1819,
+   "death_year": 1871
+  },
+  {
+   "name": "ROCKHILL, W. W",
+   "birth_year": 1854,
+   "death_year": 1914
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Woodville Rockhill",
+   "type": "student_of",
+   "object": "Feer",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies in Paris, in 1873 graduated from the military academy of St.Cyr. Also studied Tibetan under Feer and Foucaux.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Woodville Rockhill",
+   "type": "student_of",
+   "object": "Foucaux",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies in Paris, in 1873 graduated from the military academy of St.Cyr. Also studied Tibetan under Feer and Foucaux.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Woodville Rockhill",
+   "type": "studied_at",
+   "object": "military academy of St.Cyr",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": 1873,
+   "explicit": true,
+   "evidence": "in 1873 graduated from the military academy of St.Cyr.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ROCKHILL, W. W",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5246-rockhill-william-woodville.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ROCKHILL, W. W",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5246/rockhill-william-woodville/",
+  "subject": "ROCKHILL, W. W",
+  "birth_year": 1854,
+  "death_year": 1914
+ },
+ "model": "gemini-flash-latest"
+}

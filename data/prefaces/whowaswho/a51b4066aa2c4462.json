@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Richard Constant Boer",
+   "birth_year": 1863,
+   "death_year": 1929,
+   "nationality": "Dutch",
+   "field": "Linguist"
+  },
+  {
+   "name": "Faddegon",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BOER, Richard Constant – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1888,
+   "death_year": 1900
+  },
+  {
+   "name": "BOER, Richard Constant",
+   "birth_year": 1863,
+   "death_year": 1929
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Richard Constant Boer",
+   "type": "studied_at",
+   "object": "Groningen",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1888,
+   "explicit": true,
+   "evidence": "Ph.D. 1888 Groningen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Constant Boer",
+   "type": "position_at",
+   "object": "Groningen",
+   "role": "PD",
+   "place": null,
+   "year_start": 1888,
+   "year_end": 1900,
+   "explicit": true,
+   "evidence": "In 1888-1900 taught Dutch and geography at gymnasium in Leeuwarden, also PD at Groningen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Constant Boer",
+   "type": "position_at",
+   "object": "Amsterdam",
+   "role": "Professor of Old Germanic and Sanskrit",
+   "place": null,
+   "year_start": 1900,
+   "year_end": 1929,
+   "explicit": true,
+   "evidence": "In 1900-29 Professor of Old Germanic and Sanskrit at Amsterdam",
+   "quote_ok": true
+  },
+  {
+   "subject": "Faddegon",
+   "type": "succeeded",
+   "object": "Richard Constant Boer",
+   "role": null,
+   "place": "Amsterdam",
+   "year_start": 1908,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Taught Sanskrit 1900-08, then left it to Faddegon, again in 1926-29.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BOER, Richard Constant",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/26071-boer-richard-constant.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BOER, Richard Constant",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/26071/boer-richard-constant/",
+  "subject": "BOER, Richard Constant",
+  "birth_year": 1863,
+  "death_year": 1929
+ },
+ "model": "gemini-flash-latest"
+}

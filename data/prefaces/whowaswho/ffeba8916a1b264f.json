@@ -1,0 +1,88 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Paul Dundas",
+   "birth_year": 1952,
+   "death_year": 2023,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "COULSON, Michael – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1936,
+   "death_year": 1975
+  },
+  {
+   "name": "COULSON, Michael",
+   "birth_year": 1936,
+   "death_year": 1975
+  }
+ ],
+ "relations": [
+  {
+   "subject": "COULSON, Michael",
+   "type": "studied_at",
+   "object": "Trinity College, Oxford",
+   "role": "B.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studies at Trinity College, Oxford (B.A.)",
+   "quote_ok": true
+  },
+  {
+   "subject": "COULSON, Michael",
+   "type": "studied_at",
+   "object": "Oxford",
+   "role": "D.Phil.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1966,
+   "explicit": true,
+   "evidence": "D.Phil. 1966 Oxford.",
+   "quote_ok": true
+  },
+  {
+   "subject": "COULSON, Michael",
+   "type": "position_at",
+   "object": "University of Edinburgh",
+   "role": "Lecturer and Head of Sanskrit Department",
+   "place": null,
+   "year_start": null,
+   "year_end": 1972,
+   "explicit": true,
+   "evidence": "Then in 196?-72 Lecturer and Head of Sanskrit Department at University of Edinburgh.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Dundas",
+   "type": "student_of",
+   "object": "COULSON, Michael",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Paul Dundas (1952–2023) was his student.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: COULSON, Michael",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1377-coulson-michael.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: COULSON, Michael",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1377/coulson-michael/",
+  "subject": "COULSON, Michael",
+  "birth_year": 1936,
+  "death_year": 1975
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,76 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Woodford Wright Sherlock",
+   "birth_year": 1836,
+   "death_year": 1912,
+   "nationality": "British (Irish)",
+   "field": "Hindustani"
+  },
+  {
+   "name": "SHERLOCK, Woodford Wright – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1883,
+   "death_year": 1912
+  },
+  {
+   "name": "SHERLOCK, Woodford Wright",
+   "birth_year": 1836,
+   "death_year": 1912
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Woodford Wright Sherlock",
+   "type": "studied_at",
+   "object": "Trinity College in Dublin",
+   "role": "M.A.",
+   "place": "Dublin",
+   "year_start": 1852,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1852 studied at Trinity College in Dublin, M.A.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Woodford Wright Sherlock",
+   "type": "position_at",
+   "object": "London University College",
+   "role": "Lecturer (University Teacher) in Hindustani",
+   "place": null,
+   "year_start": 1884,
+   "year_end": 1884,
+   "explicit": true,
+   "evidence": "Lecturer (University Teacher) in Hindustani at London University College (1884)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Woodford Wright Sherlock",
+   "type": "position_at",
+   "object": "Cambridge",
+   "role": "Lecturer (University Teacher) in Hindustani",
+   "place": "Cambridge",
+   "year_start": 1883,
+   "year_end": 1912,
+   "explicit": true,
+   "evidence": "Lecturer (University Teacher) in Hindustani at London University College (1884) and at Cambridge (1883-1912).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SHERLOCK, Woodford Wright",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/21293-sherlock-woodford-wright.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SHERLOCK, Woodford Wright",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/21293/sherlock-woodford-wright/",
+  "subject": "SHERLOCK, Woodford Wright",
+  "birth_year": 1836,
+  "death_year": 1912
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,97 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Allan Bennett",
+   "birth_year": 1872,
+   "death_year": 1923,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "E. Rost",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Francis J. Payne",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BENNETT, Allan (Ananda Metteyya Thera)",
+   "birth_year": 1872,
+   "death_year": 1923
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Allan Bennett",
+   "type": "collaborated_with",
+   "object": "E. Rost",
+   "role": null,
+   "place": "Burma",
+   "year_start": 1902,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1902 moved to Burma, where he founded with E. Rost a society with journal, The Buddhist",
+   "quote_ok": true
+  },
+  {
+   "subject": "Allan Bennett",
+   "type": "position_at",
+   "object": "Buddhist Mission",
+   "role": "head",
+   "place": "Britain",
+   "year_start": 1908,
+   "year_end": 1923,
+   "explicit": true,
+   "evidence": "In 1908 he returned to Britain as the head of the Buddhist Mission (until his death, his successor was Francis J. Payne).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francis J. Payne",
+   "type": "succeeded",
+   "object": "Allan Bennett",
+   "role": "head of the Buddhist Mission",
+   "place": "Britain",
+   "year_start": 1923,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1908 he returned to Britain as the head of the Buddhist Mission (until his death, his successor was Francis J. Payne).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Allan Bennett",
+   "type": "founded",
+   "object": "The Buddhist Review",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Founded The Buddhist Review as its organ.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BENNETT, Allan (Ananda Metteyya Thera)",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/664-bennett-charles-henry-allan-ananda-metteyya-thera.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BENNETT, Allan (Ananda Metteyya Thera)",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/664/bennett-charles-henry-allan-ananda-metteyya-thera/",
+  "subject": "BENNETT, Allan (Ananda Metteyya Thera)",
+  "birth_year": 1872,
+  "death_year": 1923
+ },
+ "model": "gemini-flash-latest"
+}

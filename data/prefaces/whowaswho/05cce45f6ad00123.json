@@ -1,0 +1,102 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "William Carey Lacey",
+   "birth_year": 1831,
+   "death_year": 1870,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Charles Lacey",
+   "birth_year": 1798,
+   "death_year": 1853,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Amos Sutton",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "LACEY, William Carey – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1831,
+   "death_year": 1870
+  },
+  {
+   "name": "LACEY, William Carey",
+   "birth_year": 1831,
+   "death_year": 1870
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Carey Lacey",
+   "type": "other",
+   "object": "Charles Lacey",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of Charles Lacey (1798–1853)",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Carey Lacey",
+   "type": "position_at",
+   "object": "Orissa Mission Press",
+   "role": "Director",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Directed the Orissa Mission Press",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Lacey",
+   "type": "founded",
+   "object": "Orissa Mission Press",
+   "role": null,
+   "place": null,
+   "year_start": 1839,
+   "year_end": 1839,
+   "explicit": true,
+   "evidence": "Orissa Mission Press founded by his father together with Amos Sutton in 1839",
+   "quote_ok": true
+  },
+  {
+   "subject": "Amos Sutton",
+   "type": "founded",
+   "object": "Orissa Mission Press",
+   "role": null,
+   "place": null,
+   "year_start": 1839,
+   "year_end": 1839,
+   "explicit": true,
+   "evidence": "Orissa Mission Press founded by his father together with Amos Sutton in 1839",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: LACEY, William Carey",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/16606-lacey-william-carey-or-charles.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: LACEY, William Carey",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/16606/lacey-william-carey-or-charles/",
+  "subject": "LACEY, William Carey",
+  "birth_year": 1831,
+  "death_year": 1870
+ },
+ "model": "gemini-flash-latest"
+}

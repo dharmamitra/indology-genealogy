@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Gelabert y Gordiola",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BERRIZ DO SEIXO, Aureliano Julio",
+   "birth_year": 1881,
+   "death_year": 1900
+  }
+ ],
+ "relations": [
+  {
+   "subject": "BERRIZ DO SEIXO, Aureliano Julio",
+   "type": "studied_at",
+   "object": "Madrid",
+   "role": "Dr. of Civil and Canonic Law",
+   "place": "Madrid",
+   "year_start": null,
+   "year_end": 1881,
+   "explicit": true,
+   "evidence": "Dr. of Civil and Canonic Law 1881 Madrid.",
+   "quote_ok": true
+  },
+  {
+   "subject": "BERRIZ DO SEIXO, Aureliano Julio",
+   "type": "position_at",
+   "object": "Madrid",
+   "role": "Assistant Professor of Sanskrit",
+   "place": "Madrid",
+   "year_start": 1881,
+   "year_end": 1883,
+   "explicit": true,
+   "evidence": "Assistant Professor of Sanskrit at Madrid 1881-83",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gelabert y Gordiola",
+   "type": "succeeded",
+   "object": "BERRIZ DO SEIXO, Aureliano Julio",
+   "role": null,
+   "place": "Madrid",
+   "year_start": 1883,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Assistant Professor of Sanskrit at Madrid 1881-83 (before Gelabert y Gordiola).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BERRIZ DO SEIXO, Aureliano Julio",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/12240-berriz-do-seixo.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BERRIZ DO SEIXO, Aureliano Julio",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/12240/berriz-do-seixo/",
+  "subject": "BERRIZ DO SEIXO, Aureliano Julio",
+  "birth_year": 1881,
+  "death_year": 1900
+ },
+ "model": "gemini-flash-latest"
+}

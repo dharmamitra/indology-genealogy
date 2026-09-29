@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2023,
+ "people": [
+  {
+   "name": "Percy Molesworth Sykes",
+   "birth_year": 1867,
+   "death_year": 1945,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Ella Constance Sykes",
+   "birth_year": 1863,
+   "death_year": 1939,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "SYKES, P. Molesworth – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1829,
+   "death_year": 1900
+  },
+  {
+   "name": "SYKES, P. Molesworth",
+   "birth_year": 1867,
+   "death_year": 1945
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Percy Molesworth Sykes",
+   "type": "studied_at",
+   "object": "Rugby",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "educated at Rugby",
+   "quote_ok": true
+  },
+  {
+   "subject": "Percy Molesworth Sykes",
+   "type": "studied_at",
+   "object": "Sandhurst",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "military education at Sandhurst",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ella Constance Sykes",
+   "type": "other",
+   "object": "Percy Molesworth Sykes",
+   "role": "sibling",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His sister, Ella Constance Sykes (1863–1939) travelled in Iran, accompanied his brother in Central Asia to Kashgar",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SYKES, P. Molesworth",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/37193-sykes-p-molesworth.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SYKES, P. Molesworth",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/37193/sykes-p-molesworth/",
+  "subject": "SYKES, P. Molesworth",
+  "birth_year": 1867,
+  "death_year": 1945
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,59 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Charles Stewart Thompson",
+   "birth_year": 1851,
+   "death_year": 1900,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "THOMPSON, Charles S",
+   "birth_year": 1851,
+   "death_year": 1900
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Charles Stewart Thompson",
+   "type": "studied_at",
+   "object": "Islington College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Medical training at Islington College.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Stewart Thompson",
+   "type": "position_at",
+   "object": "Church Missionary Society",
+   "role": "missionary",
+   "place": "Kherwara Chhaoni",
+   "year_start": 1880,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ordained priest in 1880 and sent to India by Church Missionary Society, stationed at Kherwara Chhaoni in Rajputana",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: THOMPSON, Charles S",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/22359-thompson-charles-s.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: THOMPSON, Charles S",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/22359/thompson-charles-s/",
+  "subject": "THOMPSON, Charles S",
+  "birth_year": 1851,
+  "death_year": 1900
+ },
+ "model": "gemini-flash-latest"
+}

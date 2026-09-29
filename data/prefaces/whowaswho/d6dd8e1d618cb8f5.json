@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Palmer Boyd",
+   "birth_year": 1840,
+   "death_year": 1875,
+   "nationality": "British",
+   "field": "Indology"
+  },
+  {
+   "name": "Cowell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "BOYD, Palmer – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1840,
+   "death_year": 1875
+  },
+  {
+   "name": "BOYD, Palmer",
+   "birth_year": 1840,
+   "death_year": 1875
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Palmer Boyd",
+   "type": "student_of",
+   "object": "Cowell",
+   "role": "teacher",
+   "place": "Cambridge",
+   "year_start": 1867,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1867 studied Sanskrit, etc. at Cambridge (Trinity College) under Cowell",
+   "quote_ok": true
+  },
+  {
+   "subject": "Palmer Boyd",
+   "type": "studied_at",
+   "object": "Cambridge (Trinity College)",
+   "role": "B.A.",
+   "place": null,
+   "year_start": 1867,
+   "year_end": 1871,
+   "explicit": true,
+   "evidence": "from 1867 studied Sanskrit, etc. at Cambridge (Trinity College) under Cowell. B.A. 1871.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BOYD, Palmer",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/926-boyd-palmer.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BOYD, Palmer",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/926/boyd-palmer/",
+  "subject": "BOYD, Palmer",
+  "birth_year": 1840,
+  "death_year": 1875
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,116 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Lévi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Foucaux",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Swami Bashkarānanda",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lama Kazi Dawa Samdup",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "DAVID-NÉEL, Alexandra",
+   "birth_year": 1868,
+   "death_year": 1969
+  }
+ ],
+ "relations": [
+  {
+   "subject": "DAVID-NÉEL, Alexandra",
+   "type": "student_of",
+   "object": "Lévi",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In Paris she also studied some Sanskrit (Lévi), Chinese and Tibetan (Foucaux).",
+   "quote_ok": true
+  },
+  {
+   "subject": "DAVID-NÉEL, Alexandra",
+   "type": "student_of",
+   "object": "Foucaux",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In Paris she also studied some Sanskrit (Lévi), Chinese and Tibetan (Foucaux).",
+   "quote_ok": true
+  },
+  {
+   "subject": "DAVID-NÉEL, Alexandra",
+   "type": "student_of",
+   "object": "Swami Bashkarānanda",
+   "role": "traditional teacher",
+   "place": "India",
+   "year_start": 1891,
+   "year_end": 1892,
+   "explicit": true,
+   "evidence": "spent 18 months in India 1891-92 and became pupil of Swami Bashkarānanda",
+   "quote_ok": true
+  },
+  {
+   "subject": "DAVID-NÉEL, Alexandra",
+   "type": "studied_at",
+   "object": "Faculté des lettres",
+   "role": null,
+   "place": "Paris",
+   "year_start": 1887,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After having studied Tibetan and Sanskrit in Paris (Faculté des lettres) from 1887",
+   "quote_ok": true
+  },
+  {
+   "subject": "DAVID-NÉEL, Alexandra",
+   "type": "student_of",
+   "object": "Lama Kazi Dawa Samdup",
+   "role": "traditional teacher",
+   "place": "Sikkim",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "She lived long time in Sikkim, studying Tibetan under Lama Kazi Dawa Samdup",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: DAVID-NÉEL, Alexandra",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1490-david-neel-alexandra.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: DAVID-NÉEL, Alexandra",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1490/david-neel-alexandra/",
+  "subject": "DAVID-NÉEL, Alexandra",
+  "birth_year": 1868,
+  "death_year": 1969
+ },
+ "model": "gemini-flash-latest"
+}

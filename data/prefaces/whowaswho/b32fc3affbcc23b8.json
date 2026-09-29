@@ -1,0 +1,80 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Walter Denecke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Jacobi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Schubring",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Walter Denecke",
+   "type": "student_of",
+   "object": "Jacobi",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Apparently student of Jacobi and Schubring.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Denecke",
+   "type": "student_of",
+   "object": "Schubring",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Apparently student of Jacobi and Schubring.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Denecke",
+   "type": "studied_at",
+   "object": "Hamburg",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1923,
+   "explicit": true,
+   "evidence": "Ph.D. Hamburg 1923.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: DENECKE, Walter",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1547-denecke-walter.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: DENECKE, Walter",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1547/denecke-walter/",
+  "subject": "DENECKE, Walter",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

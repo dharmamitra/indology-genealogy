@@ -1,0 +1,181 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Peter Giles",
+   "birth_year": 1860,
+   "death_year": 1935,
+   "nationality": "British",
+   "field": "Linguist and Classical Philologist"
+  },
+  {
+   "name": "John Peile",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Brugmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "GILES, Peter",
+   "birth_year": 1860,
+   "death_year": 1935
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Peter Giles",
+   "type": "studied_at",
+   "object": "King’s College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at King’s College",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Giles",
+   "type": "studied_at",
+   "object": "Aberdeen University",
+   "role": null,
+   "place": null,
+   "year_start": 1878,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1878 studies at Aberdeen University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Giles",
+   "type": "studied_at",
+   "object": "Gonville and Caius College, Cambridge",
+   "role": null,
+   "place": null,
+   "year_start": 1882,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "after graduation from 1882 at Gonville and Caius College, Cambridge.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Giles",
+   "type": "student_of",
+   "object": "John Peile",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Student of John Peile",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Giles",
+   "type": "studied_at",
+   "object": "Freiburg",
+   "role": null,
+   "place": "Freiburg",
+   "year_start": 1886,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1886 further studies at Freiburg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Giles",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": 1887,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1887 at Leipzig under Brugmann",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Giles",
+   "type": "student_of",
+   "object": "Brugmann",
+   "role": "teacher",
+   "place": "Leipzig",
+   "year_start": 1887,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1887 at Leipzig under Brugmann.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Giles",
+   "type": "position_at",
+   "object": "Emmanuel College",
+   "role": "classical tutor",
+   "place": null,
+   "year_start": 1887,
+   "year_end": 1935,
+   "explicit": true,
+   "evidence": "From 1887 classical tutor at Emmanuel, from 1891 University Reader in Comparative Philology (succeeding Peile) and from 1911 Master of Emmanuel College, held all three offices until his death.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Giles",
+   "type": "position_at",
+   "object": "Cambridge",
+   "role": "University Reader in Comparative Philology",
+   "place": "Cambridge",
+   "year_start": 1891,
+   "year_end": 1935,
+   "explicit": true,
+   "evidence": "from 1891 University Reader in Comparative Philology (succeeding Peile) and from 1911 Master of Emmanuel College, held all three offices until his death.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Giles",
+   "type": "succeeded",
+   "object": "John Peile",
+   "role": "University Reader in Comparative Philology",
+   "place": "Cambridge",
+   "year_start": 1891,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1891 University Reader in Comparative Philology (succeeding Peile)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Giles",
+   "type": "position_at",
+   "object": "Emmanuel College",
+   "role": "Master",
+   "place": null,
+   "year_start": 1911,
+   "year_end": 1935,
+   "explicit": true,
+   "evidence": "from 1911 Master of Emmanuel College, held all three offices until his death.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GILES, Peter",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2259-giles-peter.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GILES, Peter",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2259/giles-peter/",
+  "subject": "GILES, Peter",
+  "birth_year": 1860,
+  "death_year": 1935
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,73 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Archibald Campbell",
+   "birth_year": 1805,
+   "death_year": 1874,
+   "nationality": "British",
+   "field": "Physician in India"
+  },
+  {
+   "name": "Hodgson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Archibald Campbell",
+   "type": "studied_at",
+   "object": "Glasgow",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Glasgow and Edinburgh.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Archibald Campbell",
+   "type": "studied_at",
+   "object": "Edinburgh",
+   "role": "Dr.med.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1827,
+   "explicit": true,
+   "evidence": "Studies at Glasgow and Edinburgh. Dr.med. 1827",
+   "quote_ok": true
+  },
+  {
+   "subject": "Archibald Campbell",
+   "type": "influenced_by",
+   "object": "Hodgson",
+   "role": null,
+   "place": "Kathmandu",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was led to studies in Kathmandu by Hodgson.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: CAMPBELL, Archibald (elder)",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1157-campbell-a.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: CAMPBELL, Archibald (elder)",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1157/campbell-a/",
+  "subject": "CAMPBELL, Archibald (elder)",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,114 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Whitley Stokes",
+   "birth_year": 1830,
+   "death_year": 1909,
+   "nationality": "Irish",
+   "field": "Lawyer and Linguist (Celtic Scholar)"
+  },
+  {
+   "name": "Siegfried",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "STOKES, Whitley – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1804,
+   "death_year": 1878
+  },
+  {
+   "name": "STOKES, Whitley",
+   "birth_year": 1830,
+   "death_year": 1909
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Whitley Stokes",
+   "type": "studied_at",
+   "object": "St.Columba’s College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at St.Columba’s College.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Whitley Stokes",
+   "type": "studied_at",
+   "object": "Trinity College, Dublin",
+   "role": "B.A.",
+   "place": "Dublin",
+   "year_start": 1846,
+   "year_end": 1851,
+   "explicit": true,
+   "evidence": "From 1846 studies at Trinity College, Dublin, Siegfried’s student, graduated B.A. 1851.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Whitley Stokes",
+   "type": "student_of",
+   "object": "Siegfried",
+   "role": "teacher",
+   "place": "Dublin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1846 studies at Trinity College, Dublin, Siegfried’s student, graduated B.A. 1851.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Whitley Stokes",
+   "type": "other",
+   "object": "Siegfried",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Before going to India he befriended with —> Siegfried who introduced him to Sanskrit and comparative linguistics.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Whitley Stokes",
+   "type": "collaborated_with",
+   "object": "Bühler",
+   "role": null,
+   "place": "India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In India also continued his Sanskrit studies and collaborated with Bühler.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: STOKES, Whitley",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5997-stokes-whitley.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: STOKES, Whitley",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5997/stokes-whitley/",
+  "subject": "STOKES, Whitley",
+  "birth_year": 1830,
+  "death_year": 1909
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,143 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Hegel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "de Saussure",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "PICTET, Adolphe – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1755,
+   "death_year": 1824
+  },
+  {
+   "name": "PICTET, Adolphe",
+   "birth_year": 1799,
+   "death_year": 1875
+  }
+ ],
+ "relations": [
+  {
+   "subject": "PICTET, Adolphe",
+   "type": "studied_at",
+   "object": "Geneva",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studies of aesthetics and philosophy at Geneva and from 1820 in Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "PICTET, Adolphe",
+   "type": "studied_at",
+   "object": "Paris",
+   "role": null,
+   "place": null,
+   "year_start": 1820,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and from 1820 in Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "PICTET, Adolphe",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": null,
+   "year_start": 1821,
+   "year_end": 1823,
+   "explicit": true,
+   "evidence": "1821-23 at Berlin (Hegel)",
+   "quote_ok": true
+  },
+  {
+   "subject": "PICTET, Adolphe",
+   "type": "student_of",
+   "object": "Hegel",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1821,
+   "year_end": 1823,
+   "explicit": false,
+   "evidence": "1821-23 at Berlin (Hegel)",
+   "quote_ok": true
+  },
+  {
+   "subject": "PICTET, Adolphe",
+   "type": "studied_at",
+   "object": "Edinburgh",
+   "role": null,
+   "place": null,
+   "year_start": 1823,
+   "year_end": 1823,
+   "explicit": true,
+   "evidence": "and 1823 at Edinburgh",
+   "quote_ok": true
+  },
+  {
+   "subject": "PICTET, Adolphe",
+   "type": "position_at",
+   "object": "Genevan Academy",
+   "role": "Professor of Aesthetics and History of modern Literatures",
+   "place": null,
+   "year_start": 1840,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1840 Professor of Aesthetics and History of modern Literatures at Genevan Academy",
+   "quote_ok": true
+  },
+  {
+   "subject": "de Saussure",
+   "type": "student_of",
+   "object": "PICTET, Adolphe",
+   "role": "student",
+   "place": "Genevan Academy",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "at Genevan Academy (young de Saussure was his student)",
+   "quote_ok": true
+  },
+  {
+   "subject": "PICTET, Adolphe",
+   "type": "position_at",
+   "object": "University of Geneva",
+   "role": "PD",
+   "place": null,
+   "year_start": 1844,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1844 also PD at the University of Geneva",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: PICTET, Adolphe",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4789-pictet-adolphe.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: PICTET, Adolphe",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4789/pictet-adolphe/",
+  "subject": "PICTET, Adolphe",
+  "birth_year": 1799,
+  "death_year": 1875
+ },
+ "model": "gemini-flash-latest"
+}

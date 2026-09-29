@@ -1,0 +1,59 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Claude Martin",
+   "birth_year": 1735,
+   "death_year": 1800,
+   "nationality": "French",
+   "field": null
+  },
+  {
+   "name": "Polier",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "MARTIN, Claude – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1708,
+   "death_year": 1735
+  },
+  {
+   "name": "MARTIN, Claude",
+   "birth_year": 1735,
+   "death_year": 1800
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Claude Martin",
+   "type": "other",
+   "object": "Polier",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Friend of —> Polier.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MARTIN, Claude",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/17754-martin-claude.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MARTIN, Claude",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/17754/martin-claude/",
+  "subject": "MARTIN, Claude",
+  "birth_year": 1735,
+  "death_year": 1800
+ },
+ "model": "gemini-flash-latest"
+}

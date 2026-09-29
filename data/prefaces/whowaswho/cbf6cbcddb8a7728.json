@@ -1,0 +1,90 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2023,
+ "people": [
+  {
+   "name": "Winfried Petri",
+   "birth_year": 1914,
+   "death_year": 2000,
+   "nationality": "German",
+   "field": "Historian of Astronomy"
+  },
+  {
+   "name": "H. Hoffmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "PETRI, Winfried",
+   "birth_year": 1914,
+   "death_year": 2000
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Winfried Petri",
+   "type": "student_of",
+   "object": "H. Hoffmann",
+   "role": "teacher",
+   "place": "Munich",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Then went to Munich, employed in observatory. Now studied Sanskrit and Tibetan under H. Hoffmann",
+   "quote_ok": true
+  },
+  {
+   "subject": "Winfried Petri",
+   "type": "studied_at",
+   "object": "Munich",
+   "role": "Ph.D.",
+   "place": "Munich",
+   "year_start": null,
+   "year_end": 1966,
+   "explicit": true,
+   "evidence": "Then went to Munich, employed in observatory. Now studied Sanskrit and Tibetan under H. Hoffmann, a new Ph.D. 1966.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Winfried Petri",
+   "type": "position_at",
+   "object": "Munich",
+   "role": "apl. Professor",
+   "place": "Munich",
+   "year_start": 1971,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "PD 1967 and 1971 apl. Professor at Munich",
+   "quote_ok": true
+  },
+  {
+   "subject": "Winfried Petri",
+   "type": "position_at",
+   "object": "Institute of History of Science",
+   "role": "director",
+   "place": "Munich",
+   "year_start": 1977,
+   "year_end": 1979,
+   "explicit": true,
+   "evidence": "in 1977-79 director of the Institute of History of Science.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: PETRI, Winfried",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/35293-petri-winfried.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: PETRI, Winfried",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/35293/petri-winfried/",
+  "subject": "PETRI, Winfried",
+  "birth_year": 1914,
+  "death_year": 2000
+ },
+ "model": "gemini-flash-latest"
+}

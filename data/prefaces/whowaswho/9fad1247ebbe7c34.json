@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Ernst Cohn-Wiener",
+   "birth_year": 1882,
+   "death_year": 1941,
+   "nationality": "German",
+   "field": "Asian Art"
+  },
+  {
+   "name": "COHN-WIENER, Ernst",
+   "birth_year": 1882,
+   "death_year": 1941
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ernst Cohn-Wiener",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studies of art history at Berlin and Heidelberg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Cohn-Wiener",
+   "type": "studied_at",
+   "object": "Heidelberg",
+   "role": "Ph.D.",
+   "place": "Heidelberg",
+   "year_start": null,
+   "year_end": 1907,
+   "explicit": true,
+   "evidence": "studies of art history at Berlin and Heidelberg, where Ph.D. 1907.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Cohn-Wiener",
+   "type": "position_at",
+   "object": "Humboldt-Akademie",
+   "role": "taught",
+   "place": "Berlin",
+   "year_start": 1907,
+   "year_end": 1933,
+   "explicit": true,
+   "evidence": "Then until 1933 taught at Humboldt-Akademie, a community college in Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Cohn-Wiener",
+   "type": "position_at",
+   "object": "Museum and Picture Gallery in Baroda",
+   "role": "Director",
+   "place": "Baroda",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Director of Museum and Picture Gallery in Baroda.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: COHN-WIENER, Ernst",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/13016-cohn-wiener-ernst.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: COHN-WIENER, Ernst",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/13016/cohn-wiener-ernst/",
+  "subject": "COHN-WIENER, Ernst",
+  "birth_year": 1882,
+  "death_year": 1941
+ },
+ "model": "gemini-flash-latest"
+}

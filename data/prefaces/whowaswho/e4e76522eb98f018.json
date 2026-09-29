@@ -1,0 +1,102 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Johann Heinrich Joseph Düntzer",
+   "birth_year": 1813,
+   "death_year": 1901,
+   "nationality": "German",
+   "field": "Philologist"
+  },
+  {
+   "name": "Bopp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "DÜNTZER, Heinrich",
+   "birth_year": 1813,
+   "death_year": 1901
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johann Heinrich Joseph Düntzer",
+   "type": "studied_at",
+   "object": "Bonn",
+   "role": null,
+   "place": null,
+   "year_start": 1830,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied from 1830 at Bonn",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Heinrich Joseph Düntzer",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": null,
+   "year_start": 1835,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1835 at Berlin classical philology and Sanskrit (under Bopp)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Heinrich Joseph Düntzer",
+   "type": "student_of",
+   "object": "Bopp",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1835,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1835 at Berlin classical philology and Sanskrit (under Bopp)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Heinrich Joseph Düntzer",
+   "type": "studied_at",
+   "object": "Bonn",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1837,
+   "explicit": true,
+   "evidence": "Ph.D. PD 1837 Bonn.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Heinrich Joseph Düntzer",
+   "type": "position_at",
+   "object": "Katholisches Gymnasium in Cologne",
+   "role": "librarian",
+   "place": "Cologne",
+   "year_start": 1846,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "he took in 1846 the office of librarian at Katholisches Gymnasium in Cologne, retired 1885",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: DÜNTZER, Heinrich",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1643-duntzer-johann-heinrich-joseph.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: DÜNTZER, Heinrich",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1643/duntzer-johann-heinrich-joseph/",
+  "subject": "DÜNTZER, Heinrich",
+  "birth_year": 1813,
+  "death_year": 1901
+ },
+ "model": "gemini-flash-latest"
+}

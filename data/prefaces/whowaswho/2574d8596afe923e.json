@@ -1,0 +1,102 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "SHAKESPEAR, John (elder )",
+   "birth_year": 1774,
+   "death_year": 1858,
+   "nationality": "British",
+   "field": "Oriental (Hindi/Urdu, Arabic and Persian) Scholar"
+  },
+  {
+   "name": "Ch. Bowles",
+   "birth_year": 1811,
+   "death_year": 1899,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "SHAKESPEAR, John (elder)",
+   "birth_year": 1774,
+   "death_year": 1858
+  }
+ ],
+ "relations": [
+  {
+   "subject": "SHAKESPEAR, John (elder )",
+   "type": "position_at",
+   "object": "Royal Military College in Marlow",
+   "role": "Professor of Oriental Languages",
+   "place": "Marlow",
+   "year_start": 1805,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1805 Professor of Oriental Languages at Royal Military College in Marlow",
+   "quote_ok": true
+  },
+  {
+   "subject": "SHAKESPEAR, John (elder )",
+   "type": "position_at",
+   "object": "Addiscombe",
+   "role": "Professor of Hindustani",
+   "place": "Addiscombe",
+   "year_start": 1809,
+   "year_end": 1829,
+   "explicit": true,
+   "evidence": "from 1809 Professor of Hindustani at Addiscombe. Retired in 1829.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ch. Bowles",
+   "type": "succeeded",
+   "object": "SHAKESPEAR, John (elder )",
+   "role": null,
+   "place": "Addiscombe",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "his nephew (sister’s son) —> Ch. Bowles (1811–1899), who had been his assistant and successor at Addiscombe.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ch. Bowles",
+   "type": "other",
+   "object": "SHAKESPEAR, John (elder )",
+   "role": "nephew (sister’s son)",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The estate (and surname) was inherited by his nephew (sister’s son) —> Ch. Bowles (1811–1899)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ch. Bowles",
+   "type": "position_at",
+   "object": "Addiscombe",
+   "role": "assistant and successor",
+   "place": "Addiscombe",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ch. Bowles (1811–1899), who had been his assistant and successor at Addiscombe.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SHAKESPEAR, John (elder)",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5752-shakespear-john.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SHAKESPEAR, John (elder)",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5752/shakespear-john/",
+  "subject": "SHAKESPEAR, John (elder)",
+  "birth_year": 1774,
+  "death_year": 1858
+ },
+ "model": "gemini-flash-latest"
+}

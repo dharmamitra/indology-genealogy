@@ -1,0 +1,109 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Vilém (Wilhelm) Gampert",
+   "birth_year": 1902,
+   "death_year": 1987,
+   "nationality": "Czech",
+   "field": "Indology"
+  },
+  {
+   "name": "Winternitz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "O. Stein",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "GAMPERT, Vilem (Wilhelm)",
+   "birth_year": 1902,
+   "death_year": 1987
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Vilém (Wilhelm) Gampert",
+   "type": "student_of",
+   "object": "Winternitz",
+   "role": "teacher",
+   "place": "German University of Prague",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied Indology at German University of Prague under Winternitz and O. Stein.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vilém (Wilhelm) Gampert",
+   "type": "student_of",
+   "object": "O. Stein",
+   "role": "teacher",
+   "place": "German University of Prague",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied Indology at German University of Prague under Winternitz and O. Stein.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vilém (Wilhelm) Gampert",
+   "type": "studied_at",
+   "object": "German University of Prague",
+   "role": "Ph.D.",
+   "place": "Prague",
+   "year_start": null,
+   "year_end": 1928,
+   "explicit": true,
+   "evidence": "Studied Indology at German University of Prague under Winternitz and O. Stein. Ph.D. there 1928.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vilém (Wilhelm) Gampert",
+   "type": "position_at",
+   "object": "Oriental Institute of the Charles University",
+   "role": "scientific worker",
+   "place": "Prague",
+   "year_start": 1945,
+   "year_end": 1978,
+   "explicit": true,
+   "evidence": "In 1945-78 he was a scientific worker at Oriental Institute of the Charles University and at Academy of Sciences in Prague",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vilém (Wilhelm) Gampert",
+   "type": "position_at",
+   "object": "Academy of Sciences in Prague",
+   "role": "scientific worker",
+   "place": "Prague",
+   "year_start": 1945,
+   "year_end": 1978,
+   "explicit": true,
+   "evidence": "In 1945-78 he was a scientific worker at Oriental Institute of the Charles University and at Academy of Sciences in Prague",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GAMPERT, Vilem (Wilhelm)",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2163-gampert-vilem-wilhelm.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GAMPERT, Vilem (Wilhelm)",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2163/gampert-vilem-wilhelm/",
+  "subject": "GAMPERT, Vilem (Wilhelm)",
+  "birth_year": 1902,
+  "death_year": 1987
+ },
+ "model": "gemini-flash-latest"
+}

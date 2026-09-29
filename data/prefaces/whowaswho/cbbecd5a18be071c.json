@@ -1,0 +1,169 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Kirste",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Kielhorn",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Windisch",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "STROHAL, Emil Ernst – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1844,
+   "death_year": 1914
+  },
+  {
+   "name": "STROHAL, Emil Ernst",
+   "birth_year": 1874,
+   "death_year": 1902
+  }
+ ],
+ "relations": [
+  {
+   "subject": "STROHAL, Emil Ernst",
+   "type": "studied_at",
+   "object": "Graz",
+   "role": null,
+   "place": "Graz",
+   "year_start": 1893,
+   "year_end": 1894,
+   "explicit": true,
+   "evidence": "In 1893-94 studied law at Graz, then switched to Indology (Kirste)",
+   "quote_ok": true
+  },
+  {
+   "subject": "STROHAL, Emil Ernst",
+   "type": "student_of",
+   "object": "Kirste",
+   "role": "teacher",
+   "place": "Graz",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "switched to Indology (Kirste)",
+   "quote_ok": true
+  },
+  {
+   "subject": "STROHAL, Emil Ernst",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "soon at Göttingen (Kielhorn)",
+   "quote_ok": true
+  },
+  {
+   "subject": "STROHAL, Emil Ernst",
+   "type": "student_of",
+   "object": "Kielhorn",
+   "role": "teacher",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "soon at Göttingen (Kielhorn)",
+   "quote_ok": true
+  },
+  {
+   "subject": "STROHAL, Emil Ernst",
+   "type": "studied_at",
+   "object": "Vienna",
+   "role": null,
+   "place": "Vienna",
+   "year_start": 1895,
+   "year_end": 1896,
+   "explicit": true,
+   "evidence": "1895-96 at Vienna (Bühler)",
+   "quote_ok": true
+  },
+  {
+   "subject": "STROHAL, Emil Ernst",
+   "type": "student_of",
+   "object": "Bühler",
+   "role": "teacher",
+   "place": "Vienna",
+   "year_start": 1895,
+   "year_end": 1896,
+   "explicit": true,
+   "evidence": "1895-96 at Vienna (Bühler)",
+   "quote_ok": true
+  },
+  {
+   "subject": "STROHAL, Emil Ernst",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": 1896,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "then in 1896-97 listened medical lectures at Leipzig",
+   "quote_ok": true
+  },
+  {
+   "subject": "STROHAL, Emil Ernst",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": "Ph.D.",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": 1900,
+   "explicit": true,
+   "evidence": "returned to Indology at Göttingen . Ph.D. 1900 Göttingen (under Windisch).",
+   "quote_ok": true
+  },
+  {
+   "subject": "STROHAL, Emil Ernst",
+   "type": "student_of",
+   "object": "Windisch",
+   "role": "doctoral supervisor",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": 1900,
+   "explicit": true,
+   "evidence": "Ph.D. 1900 Göttingen (under Windisch).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: STROHAL, Emil Ernst",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/6081-strohal-emil-ernst.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: STROHAL, Emil Ernst",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/6081/strohal-emil-ernst/",
+  "subject": "STROHAL, Emil Ernst",
+  "birth_year": 1874,
+  "death_year": 1902
+ },
+ "model": "gemini-flash-latest"
+}

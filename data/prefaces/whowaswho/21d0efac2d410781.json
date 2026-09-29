@@ -1,0 +1,66 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Kurt Hutten",
+   "birth_year": 1901,
+   "death_year": 1979,
+   "nationality": "German",
+   "field": "Theologian"
+  },
+  {
+   "name": "Hauer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "HUTTEN, Kurt",
+   "birth_year": 1901,
+   "death_year": 1979
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Kurt Hutten",
+   "type": "studied_at",
+   "object": "Tübingen University",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1930,
+   "explicit": true,
+   "evidence": "Studies at seminaries of Maulbronn and Blaubeuren and at Tübingen University. Ph.D. 1930 Tübingen, under Hauer.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kurt Hutten",
+   "type": "student_of",
+   "object": "Hauer",
+   "role": "doctoral supervisor",
+   "place": "Tübingen",
+   "year_start": null,
+   "year_end": 1930,
+   "explicit": true,
+   "evidence": "Ph.D. 1930 Tübingen, under Hauer.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HUTTEN, Kurt",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3188-hutten-kurt.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HUTTEN, Kurt",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3188/hutten-kurt/",
+  "subject": "HUTTEN, Kurt",
+  "birth_year": 1901,
+  "death_year": 1979
+ },
+ "model": "gemini-flash-latest"
+}

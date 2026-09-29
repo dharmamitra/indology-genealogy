@@ -1,0 +1,76 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2022,
+ "people": [
+  {
+   "name": "John Henry Harward",
+   "birth_year": 1858,
+   "death_year": 1932,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "HARWARD, John – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1892,
+   "death_year": 1902
+  },
+  {
+   "name": "HARWARD, John",
+   "birth_year": 1858,
+   "death_year": 1932
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Henry Harward",
+   "type": "studied_at",
+   "object": "University College, Oxford",
+   "role": "M.A.",
+   "place": "Oxford",
+   "year_start": 1878,
+   "year_end": 1881,
+   "explicit": true,
+   "evidence": "in 1878-81 studies at Oxford (University College, M.A.)",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Henry Harward",
+   "type": "position_at",
+   "object": "Brighton College",
+   "role": "taught classics",
+   "place": null,
+   "year_start": 1882,
+   "year_end": 1891,
+   "explicit": true,
+   "evidence": "In 1882-91 taught classics at Brighton College.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Henry Harward",
+   "type": "position_at",
+   "object": "Royal College in Colombo",
+   "role": "Director",
+   "place": "Colombo",
+   "year_start": 1892,
+   "year_end": 1902,
+   "explicit": true,
+   "evidence": "In 1892-1902 Director of Royal College in Colombo",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HARWARD, John",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/31367-harward-john.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HARWARD, John",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/31367/harward-john/",
+  "subject": "HARWARD, John",
+  "birth_year": 1858,
+  "death_year": 1932
+ },
+ "model": "gemini-flash-latest"
+}

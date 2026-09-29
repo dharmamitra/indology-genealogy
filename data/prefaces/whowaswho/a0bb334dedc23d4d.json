@@ -1,0 +1,126 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Ernst Diez",
+   "birth_year": 1878,
+   "death_year": 1961,
+   "nationality": "Austrian",
+   "field": "Art Historian"
+  },
+  {
+   "name": "Strzygowski",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "DIEZ, Ernst",
+   "birth_year": 1878,
+   "death_year": 1961
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ernst Diez",
+   "type": "student_of",
+   "object": "Strzygowski",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Graz and Vienna under Strzygowski.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Diez",
+   "type": "studied_at",
+   "object": "Graz",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Graz and Vienna under Strzygowski.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Diez",
+   "type": "studied_at",
+   "object": "Vienna",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1903,
+   "explicit": true,
+   "evidence": "Studies at Graz and Vienna under Strzygowski. Ph.D. 1903",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Diez",
+   "type": "position_at",
+   "object": "Strzygowski",
+   "role": "Assistant",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was Strzygowski’s Assistant",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Diez",
+   "type": "position_at",
+   "object": "Vienna",
+   "role": "PD",
+   "place": null,
+   "year_start": 1919,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1919 PD at Vienna.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Diez",
+   "type": "position_at",
+   "object": "Vienna",
+   "role": "apl. Professor “für Kunstgeschichte des Orients uns Fernen Osten”",
+   "place": null,
+   "year_start": 1940,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1940 apl. Professor “für Kunstgeschichte des Orients uns Fernen Osten” at Vienna.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Diez",
+   "type": "position_at",
+   "object": "Istanbul",
+   "role": "visiting Professor",
+   "place": null,
+   "year_start": 1943,
+   "year_end": 1948,
+   "explicit": true,
+   "evidence": "In 1943-48 visiting Professor at Istanbul",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: DIEZ, Ernst",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1591-diez-ernst.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: DIEZ, Ernst",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1591/diez-ernst/",
+  "subject": "DIEZ, Ernst",
+  "birth_year": 1878,
+  "death_year": 1961
+ },
+ "model": "gemini-flash-latest"
+}

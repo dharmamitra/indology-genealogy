@@ -1,0 +1,147 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Johannes Hertel",
+   "birth_year": 1872,
+   "death_year": 1955,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Windisch",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Fr. Weller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "R. Hauschild",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ch. Krause",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "HERTEL, Johannes",
+   "birth_year": 1872,
+   "death_year": 1955
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johannes Hertel",
+   "type": "student_of",
+   "object": "Windisch",
+   "role": "teacher",
+   "place": "Leipzig",
+   "year_start": 1891,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1891 Studies at Leipzig, of classics, German, English, French, and Indology (under Windisch).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Hertel",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": "PhD",
+   "place": "Leipzig",
+   "year_start": 1891,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "From 1891 Studies at Leipzig, of classics, German, English, French, and Indology (under Windisch). Ph.D. 1897 Leipzig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Hertel",
+   "type": "position_at",
+   "object": "Leipzig",
+   "role": "Professor of Indology",
+   "place": "Leipzig",
+   "year_start": 1919,
+   "year_end": 1937,
+   "explicit": true,
+   "evidence": "From 1919 Windisch’s successor as Professor of Indology at Leipzig. Retired in 1937 (succeeded by Fr. Weller).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Hertel",
+   "type": "succeeded",
+   "object": "Windisch",
+   "role": "Professor of Indology",
+   "place": "Leipzig",
+   "year_start": 1919,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1919 Windisch’s successor as Professor of Indology at Leipzig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fr. Weller",
+   "type": "succeeded",
+   "object": "Johannes Hertel",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": 1937,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Retired in 1937 (succeeded by Fr. Weller).",
+   "quote_ok": true
+  },
+  {
+   "subject": "R. Hauschild",
+   "type": "student_of",
+   "object": "Johannes Hertel",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among his students were R. Hauschild and Ch. Krause.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ch. Krause",
+   "type": "student_of",
+   "object": "Johannes Hertel",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among his students were R. Hauschild and Ch. Krause.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HERTEL, Johannes",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2953-hertel-johannes.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HERTEL, Johannes",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2953/hertel-johannes/",
+  "subject": "HERTEL, Johannes",
+  "birth_year": 1872,
+  "death_year": 1955
+ },
+ "model": "gemini-flash-latest"
+}

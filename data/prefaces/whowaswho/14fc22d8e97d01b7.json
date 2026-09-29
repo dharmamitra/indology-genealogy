@@ -1,0 +1,159 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Walther Wüst",
+   "birth_year": 1901,
+   "death_year": 1993,
+   "nationality": "German",
+   "field": "Indology and IE Linguist"
+  },
+  {
+   "name": "Oertel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Aryendra Sharma",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "K. Hoffmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Junginger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "WÜST, Walther",
+   "birth_year": 1901,
+   "death_year": 1993
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Walther Wüst",
+   "type": "studied_at",
+   "object": "Munich",
+   "role": null,
+   "place": "Munich",
+   "year_start": 1920,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1920 studies of German, French and Indology at Munich.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walther Wüst",
+   "type": "studied_at",
+   "object": "Munich",
+   "role": "Ph.D.",
+   "place": "Munich",
+   "year_start": null,
+   "year_end": 1923,
+   "explicit": true,
+   "evidence": "Ph.D. 1923 Munich.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walther Wüst",
+   "type": "position_at",
+   "object": "Munich",
+   "role": "PD",
+   "place": "Munich",
+   "year_start": 1926,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "PD 1926 Munich.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walther Wüst",
+   "type": "position_at",
+   "object": "Munich",
+   "role": "ao. Professor",
+   "place": "Munich",
+   "year_start": 1932,
+   "year_end": 1935,
+   "explicit": true,
+   "evidence": "From 1932 ao. Professor and from 1935 ord. (Oertel’s successor, now for “Arische Kultur- und und Sprachwissenschaft”) at Munich.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walther Wüst",
+   "type": "position_at",
+   "object": "Munich",
+   "role": "ord. Professor",
+   "place": "Munich",
+   "year_start": 1935,
+   "year_end": 1945,
+   "explicit": true,
+   "evidence": "from 1935 ord. (Oertel’s successor, now for “Arische Kultur- und und Sprachwissenschaft”) at Munich. ... he lost his chair in 1945",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walther Wüst",
+   "type": "succeeded",
+   "object": "Oertel",
+   "role": null,
+   "place": "Munich",
+   "year_start": 1935,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1935 ord. (Oertel’s successor, now for “Arische Kultur- und und Sprachwissenschaft”) at Munich.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Aryendra Sharma",
+   "type": "student_of",
+   "object": "Walther Wüst",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1939,
+   "explicit": true,
+   "evidence": "Among his students were Aryendra Sharma (Dr. 1939) andK. Hoffmann (Dr. 1941).",
+   "quote_ok": true
+  },
+  {
+   "subject": "K. Hoffmann",
+   "type": "student_of",
+   "object": "Walther Wüst",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1941,
+   "explicit": true,
+   "evidence": "Among his students were Aryendra Sharma (Dr. 1939) andK. Hoffmann (Dr. 1941).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: WÜST, Walther",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5572-wust-walter.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: WÜST, Walther",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5572/wust-walter/",
+  "subject": "WÜST, Walther",
+  "birth_year": 1901,
+  "death_year": 1993
+ },
+ "model": "gemini-flash-latest"
+}

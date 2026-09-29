@@ -1,0 +1,145 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "William Henry Coxe",
+   "birth_year": 1840,
+   "death_year": 1869,
+   "nationality": "British",
+   "field": "Classical Scholar"
+  },
+  {
+   "name": "Henry Octavius Coxe",
+   "birth_year": 1811,
+   "death_year": 1881,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Norris",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Birch",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "COXE, William Henry – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1811,
+   "death_year": 1881
+  },
+  {
+   "name": "COXE, William Henry",
+   "birth_year": 1840,
+   "death_year": 1869
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Henry Coxe",
+   "type": "other",
+   "object": "Henry Octavius Coxe",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The eldest son of Henry Octavius Coxe (1811–1881), the Librarian of Bodleiana",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Octavius Coxe",
+   "type": "position_at",
+   "object": "Bodleiana",
+   "role": "Librarian",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Henry Octavius Coxe (1811–1881), the Librarian of Bodleiana",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Henry Coxe",
+   "type": "studied_at",
+   "object": "Balliol College, Oxford",
+   "role": "Classics and Sanskrit",
+   "place": "Oxford",
+   "year_start": 1858,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1858 studies of Classics and Sanskrit at Balliol College, Oxford.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Henry Coxe",
+   "type": "position_at",
+   "object": "British Museum",
+   "role": "Assistant to Norris and Birch",
+   "place": null,
+   "year_start": 1861,
+   "year_end": 1865,
+   "explicit": true,
+   "evidence": "from 1861 worked in British Museum as Assistant to Norris and Birch and thus became involved in the work on cuneiform... resigned in January 1865",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Henry Coxe",
+   "type": "position_at",
+   "object": "Indian Educational Service",
+   "role": null,
+   "place": null,
+   "year_start": 1865,
+   "year_end": 1865,
+   "explicit": true,
+   "evidence": "resigned in January 1865 and joined Indian Educational Service, but again disappointed and returned to his old position in December.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Henry Coxe",
+   "type": "position_at",
+   "object": "British Museum",
+   "role": "Assistant",
+   "place": null,
+   "year_start": 1865,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "returned to his old position in December.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Henry Coxe",
+   "type": "position_at",
+   "object": "King’s College, London",
+   "role": "unpaid chair of Sanskrit",
+   "place": "London",
+   "year_start": 1865,
+   "year_end": 1865,
+   "explicit": true,
+   "evidence": "Apparently he held the unpaid chair of Sanskrit at King’s College, London, for a short time in 1865.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: COXE, William Henry",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1401-coxe-william-henry.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: COXE, William Henry",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1401/coxe-william-henry/",
+  "subject": "COXE, William Henry",
+  "birth_year": 1840,
+  "death_year": 1869
+ },
+ "model": "gemini-flash-latest"
+}

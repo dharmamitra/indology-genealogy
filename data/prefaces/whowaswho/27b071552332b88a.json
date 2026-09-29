@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ludwig Bernhard Ehregott Schmid",
+   "birth_year": 1788,
+   "death_year": 1857,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "Deocar Schmid",
+   "birth_year": 1791,
+   "death_year": 1828,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "SCHMID, Bernhard – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1791,
+   "death_year": 1828
+  },
+  {
+   "name": "SCHMID, Bernhard",
+   "birth_year": 1788,
+   "death_year": 1857
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ludwig Bernhard Ehregott Schmid",
+   "type": "other",
+   "object": "Deocar Schmid",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "brother of —> Deocar Schmid (1791–1828), also a missionary.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ludwig Bernhard Ehregott Schmid",
+   "type": "studied_at",
+   "object": "Jena",
+   "role": "theology",
+   "place": "Jena",
+   "year_start": 1807,
+   "year_end": 1809,
+   "explicit": true,
+   "evidence": "After gymnasium in Naumburg studied theology 1807-09 at Jena.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SCHMID, Bernhard",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/20857-schmid-bernhard.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SCHMID, Bernhard",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/20857/schmid-bernhard/",
+  "subject": "SCHMID, Bernhard",
+  "birth_year": 1788,
+  "death_year": 1857
+ },
+ "model": "gemini-flash-latest"
+}

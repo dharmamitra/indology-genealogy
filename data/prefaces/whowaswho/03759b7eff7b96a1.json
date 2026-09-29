@@ -1,0 +1,59 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2022,
+ "people": [
+  {
+   "name": "Ján Kollár",
+   "birth_year": 1793,
+   "death_year": 1852,
+   "nationality": "Slovakian",
+   "field": "Philologist"
+  },
+  {
+   "name": "KOLLÁR, Ján",
+   "birth_year": 1793,
+   "death_year": 1852
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ján Kollár",
+   "type": "studied_at",
+   "object": "Jena",
+   "role": "theology",
+   "place": "Jena",
+   "year_start": 1817,
+   "year_end": 1819,
+   "explicit": true,
+   "evidence": "In 1817-19 studied Lutheran theology at Jena.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ján Kollár",
+   "type": "position_at",
+   "object": "Vienna",
+   "role": "Professor of Slavic Antiquities",
+   "place": "Vienna",
+   "year_start": 1849,
+   "year_end": 1852,
+   "explicit": true,
+   "evidence": "In 1849-52 Professor of Slavic Antiquities at Vienna.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: KOLLÁR, Ján",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/33235-kollar-jan.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: KOLLÁR, Ján",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/33235/kollar-jan/",
+  "subject": "KOLLÁR, Ján",
+  "birth_year": 1793,
+  "death_year": 1852
+ },
+ "model": "gemini-flash-latest"
+}

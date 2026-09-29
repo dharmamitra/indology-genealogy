@@ -1,0 +1,102 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John Faithfull Fleet",
+   "birth_year": 1847,
+   "death_year": 1917,
+   "nationality": "British",
+   "field": "Indologist (Epigraphist and Historian)"
+  },
+  {
+   "name": "Goldstücker",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kielhorn",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "grammarian"
+  },
+  {
+   "name": "FLEET, John Faithfull – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1818,
+   "death_year": 1902
+  },
+  {
+   "name": "FLEET, John Faithfull",
+   "birth_year": 1847,
+   "death_year": 1917
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Faithfull Fleet",
+   "type": "studied_at",
+   "object": "University College in London",
+   "role": null,
+   "place": "London",
+   "year_start": 1865,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1865 he passed the I.C.S. examination and began studies at University College in London",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Faithfull Fleet",
+   "type": "student_of",
+   "object": "Goldstücker",
+   "role": "teacher",
+   "place": "London",
+   "year_start": 1865,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "began studies at University College in London, including Sanskrit under Goldstücker.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Faithfull Fleet",
+   "type": "position_at",
+   "object": "R.A.S.",
+   "role": "Honorary Secretary",
+   "place": null,
+   "year_start": 1906,
+   "year_end": 1917,
+   "explicit": true,
+   "evidence": "In 1906-17 he was the Honorary Secretary of the R.A.S.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Faithfull Fleet",
+   "type": "influenced_by",
+   "object": "Kielhorn",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He persuaded the grammarian Kielhorn to take epigraphy.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: FLEET, John Faithfull",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1991-fleet-john-faithfull.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: FLEET, John Faithfull",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1991/fleet-john-faithfull/",
+  "subject": "FLEET, John Faithfull",
+  "birth_year": 1847,
+  "death_year": 1917
+ },
+ "model": "gemini-flash-latest"
+}

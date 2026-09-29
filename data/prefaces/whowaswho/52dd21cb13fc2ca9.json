@@ -1,0 +1,92 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "E. H. Hall",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Grierson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "H. N. Randle",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "E. H. Hall",
+   "type": "student_of",
+   "object": "Grierson",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Grierson’s student and his Assistant in the L.S.I. from c. 1903 in London.",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. H. Hall",
+   "type": "collaborated_with",
+   "object": "Grierson",
+   "role": "Assistant in the L.S.I.",
+   "place": "London",
+   "year_start": 1903,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Grierson’s student and his Assistant in the L.S.I. from c. 1903 in London. Later he also assisted him with the Kāśmīrī dictionary.",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. H. Hall",
+   "type": "position_at",
+   "object": "India Office Library",
+   "role": "clerk",
+   "place": null,
+   "year_start": 1935,
+   "year_end": 1940,
+   "explicit": true,
+   "evidence": "He worked in India Office Library (in 1935/40 as clerk under H. N. Randle).",
+   "quote_ok": true
+  },
+  {
+   "subject": "H. N. Randle",
+   "type": "position_at",
+   "object": "India Office Library",
+   "role": null,
+   "place": null,
+   "year_start": 1935,
+   "year_end": 1940,
+   "explicit": false,
+   "evidence": "He worked in India Office Library (in 1935/40 as clerk under H. N. Randle).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HALL, E. H",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/15084-hall-e-h.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HALL, E. H",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/15084/hall-e-h/",
+  "subject": "HALL, E. H",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

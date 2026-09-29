@@ -1,0 +1,90 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Łucja Osborne",
+   "birth_year": 1904,
+   "death_year": 1987,
+   "nationality": "Polish",
+   "field": null
+  },
+  {
+   "name": "Arthur Osborne",
+   "birth_year": 1906,
+   "death_year": 1970,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ramana Maharshi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "OSBORNE, Łucja – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1906,
+   "death_year": 1970
+  },
+  {
+   "name": "OSBORNE, Łucja",
+   "birth_year": 1904,
+   "death_year": 1987
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Łucja Osborne",
+   "type": "other",
+   "object": "Arthur Osborne",
+   "role": "husband",
+   "place": null,
+   "year_start": 1934,
+   "year_end": 1970,
+   "explicit": true,
+   "evidence": "She met Arthur Osborne (1906–1970) in Warsaw, where he was teaching English. They were married in 1934",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Osborne",
+   "type": "position_at",
+   "object": "Chulalongkorn University",
+   "role": null,
+   "place": "Bangkok",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Later he taught at Chulalongkorn University in Bangkok.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Łucja Osborne",
+   "type": "student_of",
+   "object": "Ramana Maharshi",
+   "role": "traditional teacher",
+   "place": "Tiruvannamalai",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "There she became a pupil of Ramana Maharshi and eventually learned Tamil.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: OSBORNE, Łucja",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/19000-osborne-lucja.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: OSBORNE, Łucja",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/19000/osborne-lucja/",
+  "subject": "OSBORNE, Łucja",
+  "birth_year": 1904,
+  "death_year": 1987
+ },
+ "model": "gemini-flash-latest"
+}

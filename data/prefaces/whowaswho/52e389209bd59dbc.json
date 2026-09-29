@@ -1,0 +1,152 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Hugh Falconer",
+   "birth_year": 1808,
+   "death_year": 1865,
+   "nationality": "Scottish",
+   "field": "Botany, Palaeontology, Geology"
+  },
+  {
+   "name": "Royle",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Botany"
+  },
+  {
+   "name": "Wallich",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Botany"
+  },
+  {
+   "name": "Darwin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "FALCONER, Hugh",
+   "birth_year": 1808,
+   "death_year": 1865
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hugh Falconer",
+   "type": "studied_at",
+   "object": "Aberdeen University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1826,
+   "explicit": true,
+   "evidence": "Studies at Aberdeen University (graduated 1826).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hugh Falconer",
+   "type": "studied_at",
+   "object": "Edinburgh",
+   "role": "M.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1829,
+   "explicit": true,
+   "evidence": "M.D. 1829 Edinburgh.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hugh Falconer",
+   "type": "succeeded",
+   "object": "Royle",
+   "role": "Superintendent of the Botanic Gardens in Saharanpur",
+   "place": "Saharanpur",
+   "year_start": 1832,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "succeeded Royle in 1832 as Superintendent of the Botanic Gardens in Saharanpur.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hugh Falconer",
+   "type": "position_at",
+   "object": "Botanic Gardens in Saharanpur",
+   "role": "Superintendent",
+   "place": "Saharanpur",
+   "year_start": 1832,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "succeeded Royle in 1832 as Superintendent of the Botanic Gardens in Saharanpur.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hugh Falconer",
+   "type": "position_at",
+   "object": "Botanic Gardens at Sibpur, Howrah",
+   "role": "Superintendent",
+   "place": "Sibpur, Howrah",
+   "year_start": 1848,
+   "year_end": 1855,
+   "explicit": true,
+   "evidence": "After Wallich’s death, in 1848-55 Superintendent of the Botanic Gardens at Sibpur, Howrah, opposite to Calcutta",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hugh Falconer",
+   "type": "position_at",
+   "object": "Calcutta Medical College",
+   "role": "Professor of Botany",
+   "place": "Calcutta",
+   "year_start": 1848,
+   "year_end": 1855,
+   "explicit": true,
+   "evidence": "in 1848-55 Superintendent of the Botanic Gardens at Sibpur, Howrah, opposite to Calcutta, also Professor of Botany at Calcutta Medical College",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hugh Falconer",
+   "type": "succeeded",
+   "object": "Wallich",
+   "role": "Superintendent of the Botanic Gardens at Sibpur",
+   "place": "Sibpur, Howrah",
+   "year_start": 1848,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "After Wallich’s death, in 1848-55 Superintendent of the Botanic Gardens at Sibpur, Howrah",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hugh Falconer",
+   "type": "influenced_by",
+   "object": "Darwin",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Beginning as a creationist he later accepted Darwin’s theory.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: FALCONER, Hugh",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1883-falconer-hugh.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: FALCONER, Hugh",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1883/falconer-hugh/",
+  "subject": "FALCONER, Hugh",
+  "birth_year": 1808,
+  "death_year": 1865
+ },
+ "model": "gemini-flash-latest"
+}

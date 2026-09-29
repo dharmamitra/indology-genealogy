@@ -1,0 +1,102 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Friedrich Weinrich",
+   "birth_year": 1905,
+   "death_year": 1960,
+   "nationality": "German",
+   "field": "Scholar of Religion"
+  },
+  {
+   "name": "R. Otto",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "WEINRICH, Friedrich",
+   "birth_year": 1905,
+   "death_year": 1960
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Friedrich Weinrich",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1928,
+   "explicit": true,
+   "evidence": "Ph.D. 1928 Göttingen (or Marburg, under R. Otto?)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Weinrich",
+   "type": "studied_at",
+   "object": "Marburg",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1928,
+   "explicit": false,
+   "evidence": "Ph.D. 1928 Göttingen (or Marburg, under R. Otto?)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Weinrich",
+   "type": "student_of",
+   "object": "R. Otto",
+   "role": "doctoral supervisor",
+   "place": "Marburg",
+   "year_start": null,
+   "year_end": 1928,
+   "explicit": false,
+   "evidence": "Ph.D. 1928 Göttingen (or Marburg, under R. Otto?)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Weinrich",
+   "type": "position_at",
+   "object": "Jena Theological faculty",
+   "role": "PD",
+   "place": "Jena",
+   "year_start": 1939,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Then at Jena Theological faculty, from 1939 as PD and 1943 as apl. Professor für Allgemeine Religionsgeschichte.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Weinrich",
+   "type": "position_at",
+   "object": "Jena Theological faculty",
+   "role": "apl. Professor für Allgemeine Religionsgeschichte",
+   "place": "Jena",
+   "year_start": 1943,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Then at Jena Theological faculty, from 1939 as PD and 1943 as apl. Professor für Allgemeine Religionsgeschichte.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: WEINRICH, Friedrich",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/23185-weinrich-friedrich.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: WEINRICH, Friedrich",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/23185/weinrich-friedrich/",
+  "subject": "WEINRICH, Friedrich",
+  "birth_year": 1905,
+  "death_year": 1960
+ },
+ "model": "gemini-flash-latest"
+}

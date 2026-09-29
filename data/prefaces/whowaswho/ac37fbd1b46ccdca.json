@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Wilhelm Heymann",
+   "birth_year": 1847,
+   "death_year": 1911,
+   "nationality": "German",
+   "field": "Linguist"
+  },
+  {
+   "name": "HEYMANN, Wilhelm",
+   "birth_year": 1847,
+   "death_year": 1911
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Wilhelm Heymann",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied first theology, soon languages at Göttingen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Heymann",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1873,
+   "explicit": true,
+   "evidence": "Ph.D. 1873 Göttingen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Heymann",
+   "type": "position_at",
+   "object": "Gymnasium teacher in Bremen",
+   "role": "Gymnasium teacher",
+   "place": "Bremen",
+   "year_start": 1890,
+   "year_end": 1900,
+   "explicit": true,
+   "evidence": "According to D.L.K . he was Gymnasium teacher in Bremen in 1890 and 1900",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HEYMANN, Wilhelm",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2973-heymann-wilhelm.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HEYMANN, Wilhelm",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2973/heymann-wilhelm/",
+  "subject": "HEYMANN, Wilhelm",
+  "birth_year": 1847,
+  "death_year": 1911
+ },
+ "model": "gemini-flash-latest"
+}

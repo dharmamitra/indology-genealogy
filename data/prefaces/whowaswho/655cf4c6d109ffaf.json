@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Mary Eliza Isabella Frere",
+   "birth_year": 1845,
+   "death_year": 1911,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Bartle Frere",
+   "birth_year": 1815,
+   "death_year": 1884,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "FRERE, Mary – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1815,
+   "death_year": 1884
+  },
+  {
+   "name": "FRERE, Mary",
+   "birth_year": 1845,
+   "death_year": 1911
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Mary Eliza Isabella Frere",
+   "type": "other",
+   "object": "Bartle Frere",
+   "role": "daughter",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Daughter of —> Bartle Frere (1815–1884) and Catherine Arthur",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mary Eliza Isabella Frere",
+   "type": "collaborated_with",
+   "object": "Bartle Frere",
+   "role": "editor of her folklore collection",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "began collecting folklore, supported in this by her father who also edted the collection",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: FRERE, Mary",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/50312-frere-mary.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: FRERE, Mary",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/50312/frere-mary/",
+  "subject": "FRERE, Mary",
+  "birth_year": 1845,
+  "death_year": 1911
+ },
+ "model": "gemini-flash-latest"
+}

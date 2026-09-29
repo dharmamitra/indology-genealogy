@@ -1,0 +1,126 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Théodore Marie Pavie",
+   "birth_year": 1811,
+   "death_year": 1896,
+   "nationality": "French",
+   "field": "Indology"
+  },
+  {
+   "name": "Burnouf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Garcin de Tassy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "PAVIE, Théodore – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1782,
+   "death_year": 1859
+  },
+  {
+   "name": "PAVIE, Théodore",
+   "birth_year": 1811,
+   "death_year": 1896
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Théodore Marie Pavie",
+   "type": "studied_at",
+   "object": "Collège Royal d’Angers",
+   "role": "baccalaureat",
+   "place": null,
+   "year_start": null,
+   "year_end": 1827,
+   "explicit": true,
+   "evidence": "Educated at Collège Royal d’Angers (baccalaureat 1827).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Théodore Marie Pavie",
+   "type": "student_of",
+   "object": "Burnouf",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1835,
+   "year_end": 1839,
+   "explicit": true,
+   "evidence": "In 1835-39 student of Burnouf and Garcin de Tassy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Théodore Marie Pavie",
+   "type": "student_of",
+   "object": "Garcin de Tassy",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1835,
+   "year_end": 1839,
+   "explicit": true,
+   "evidence": "In 1835-39 student of Burnouf and Garcin de Tassy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Théodore Marie Pavie",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "in charge of Sanskrit teaching",
+   "place": "Paris",
+   "year_start": 1852,
+   "year_end": 1857,
+   "explicit": true,
+   "evidence": "After the death of his teacher Burnouf he was in charge of Sanskrit teaching at Collège de France in 1852-57.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Théodore Marie Pavie",
+   "type": "succeeded",
+   "object": "Burnouf",
+   "role": null,
+   "place": "Collège de France",
+   "year_start": 1852,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "After the death of his teacher Burnouf he was in charge of Sanskrit teaching at Collège de France in 1852-57.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Théodore Marie Pavie",
+   "type": "position_at",
+   "object": "Facultés Libres de l’Ouest",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Occasionally taught at Facultés Libres de l’Ouest.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: PAVIE, Théodore",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4717-pavie-theodore-marie.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: PAVIE, Théodore",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4717/pavie-theodore-marie/",
+  "subject": "PAVIE, Théodore",
+  "birth_year": 1811,
+  "death_year": 1896
+ },
+ "model": "gemini-flash-latest"
+}

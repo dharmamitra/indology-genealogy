@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Pierre Poivre",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "botanist"
+  },
+  {
+   "name": "French Academy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "SONNERAT, Pierre – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1768,
+   "death_year": 1772
+  },
+  {
+   "name": "SONNERAT, Pierre",
+   "birth_year": 1748,
+   "death_year": 1814
+  }
+ ],
+ "relations": [
+  {
+   "subject": "SONNERAT, Pierre",
+   "type": "collaborated_with",
+   "object": "Pierre Poivre",
+   "role": null,
+   "place": null,
+   "year_start": 1768,
+   "year_end": 1771,
+   "explicit": true,
+   "evidence": "In his first travel he collaborated with several naturalists, e.g. the botanist Pierre Poivre, the cousin of his mother",
+   "quote_ok": true
+  },
+  {
+   "subject": "SONNERAT, Pierre",
+   "type": "other",
+   "object": "Pierre Poivre",
+   "role": "cousin of his mother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the botanist Pierre Poivre, the cousin of his mother (Benoite, née Poivre)",
+   "quote_ok": true
+  },
+  {
+   "subject": "SONNERAT, Pierre",
+   "type": "position_at",
+   "object": "French Academy",
+   "role": "Correspondent",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Correspondent of the French Academy.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SONNERAT, Pierre",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5879-sonnerat-pierre.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SONNERAT, Pierre",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5879/sonnerat-pierre/",
+  "subject": "SONNERAT, Pierre",
+  "birth_year": 1748,
+  "death_year": 1814
+ },
+ "model": "gemini-flash-latest"
+}

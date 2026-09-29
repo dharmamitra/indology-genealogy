@@ -1,0 +1,126 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ščerbackoj",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Barannikov",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "KAL’JANOV, Vladimir Ivanovič",
+   "birth_year": 1908,
+   "death_year": 2001
+  }
+ ],
+ "relations": [
+  {
+   "subject": "KAL’JANOV, Vladimir Ivanovič",
+   "type": "studied_at",
+   "object": "Leningrad Institut istorii, filologii i lingvistiki",
+   "role": null,
+   "place": "Leningrad",
+   "year_start": null,
+   "year_end": 1932,
+   "explicit": true,
+   "evidence": "Graduated 1932 from Leningrad Institut istorii, filologii i lingvistiki",
+   "quote_ok": true
+  },
+  {
+   "subject": "KAL’JANOV, Vladimir Ivanovič",
+   "type": "student_of",
+   "object": "Ščerbackoj",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "student of Ščerbackoj and Barannikov",
+   "quote_ok": true
+  },
+  {
+   "subject": "KAL’JANOV, Vladimir Ivanovič",
+   "type": "student_of",
+   "object": "Barannikov",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "student of Ščerbackoj and Barannikov",
+   "quote_ok": true
+  },
+  {
+   "subject": "KAL’JANOV, Vladimir Ivanovič",
+   "type": "position_at",
+   "object": "NIANKP",
+   "role": "naučnyj sotrudnik",
+   "place": null,
+   "year_start": 1935,
+   "year_end": 1937,
+   "explicit": true,
+   "evidence": "In 1935-37 naučnyj sotrudnik at NIANKP (?)",
+   "quote_ok": true
+  },
+  {
+   "subject": "KAL’JANOV, Vladimir Ivanovič",
+   "type": "position_at",
+   "object": "Institut vostokovedenija of Academy of Science in Leningrad",
+   "role": "naučnyj sotrudnik / staršij naučnyj sotrudnik / Docent / Head of Indian Cabinet",
+   "place": "Leningrad",
+   "year_start": 1937,
+   "year_end": 1985,
+   "explicit": true,
+   "evidence": "from 1937 at Institut vostokovedenija of Academy of Science in Leningrad, staršij naučnyj sotrudnik from 1943, Docent 1947, Head of Indian Cabinet 1968. ... Retired 1985.",
+   "quote_ok": true
+  },
+  {
+   "subject": "KAL’JANOV, Vladimir Ivanovič",
+   "type": "position_at",
+   "object": "Leningrad University",
+   "role": null,
+   "place": "Leningrad",
+   "year_start": 1938,
+   "year_end": 1941,
+   "explicit": true,
+   "evidence": "In 1938-41 and 1944-59 taught at Leningrad University",
+   "quote_ok": true
+  },
+  {
+   "subject": "KAL’JANOV, Vladimir Ivanovič",
+   "type": "position_at",
+   "object": "Leningrad University",
+   "role": null,
+   "place": "Leningrad",
+   "year_start": 1944,
+   "year_end": 1959,
+   "explicit": true,
+   "evidence": "In 1938-41 and 1944-59 taught at Leningrad University",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: KAL’JANOV, Vladimir Ivanovič",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/32843-kaljanov-vladimir-ivanovic.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: KAL’JANOV, Vladimir Ivanovič",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/32843/kaljanov-vladimir-ivanovic/",
+  "subject": "KAL’JANOV, Vladimir Ivanovič",
+  "birth_year": 1908,
+  "death_year": 2001
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,85 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "F. Garritsen",
+   "birth_year": null,
+   "death_year": 1974,
+   "nationality": "Dutch",
+   "field": "Indologist"
+  },
+  {
+   "name": "Gonda",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "F. Garritsen",
+   "type": "studied_at",
+   "object": "Utrecht",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Utrecht under Gonda",
+   "quote_ok": true
+  },
+  {
+   "subject": "F. Garritsen",
+   "type": "student_of",
+   "object": "Gonda",
+   "role": "teacher",
+   "place": "Utrecht",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Utrecht under Gonda",
+   "quote_ok": true
+  },
+  {
+   "subject": "F. Garritsen",
+   "type": "position_at",
+   "object": "Utrecht",
+   "role": "Assistant",
+   "place": null,
+   "year_start": 1971,
+   "year_end": 1974,
+   "explicit": false,
+   "evidence": "whose Assistant he was from 1971 until his premature death.",
+   "quote_ok": true
+  },
+  {
+   "subject": "F. Garritsen",
+   "type": "collaborated_with",
+   "object": "Gonda",
+   "role": "assistant",
+   "place": null,
+   "year_start": 1971,
+   "year_end": 1974,
+   "explicit": true,
+   "evidence": "whose Assistant he was from 1971 until his premature death.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GARRITSEN, F",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2185-garritsen-f.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GARRITSEN, F",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2185/garritsen-f/",
+  "subject": "GARRITSEN, F",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

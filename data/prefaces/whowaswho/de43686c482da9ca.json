@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "George Wall",
+   "birth_year": 1820,
+   "death_year": 1894,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "WALL, George",
+   "birth_year": 1820,
+   "death_year": 1894
+  }
+ ],
+ "relations": [
+  {
+   "subject": "George Wall",
+   "type": "studied_at",
+   "object": "Harrow",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "educated at Harrow",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Wall",
+   "type": "position_at",
+   "object": "Ceylon Plantation Company",
+   "role": null,
+   "place": "Kandy",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Worked for Ceylon Plantation Company in Kandy",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Wall",
+   "type": "position_at",
+   "object": "Legislative Council",
+   "role": "unofficial member",
+   "place": "Ceylon",
+   "year_start": 1858,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1858 unofficial member of Legislative Council",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: WALL, George",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/23019-wall-george.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: WALL, George",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/23019/wall-george/",
+  "subject": "WALL, George",
+  "birth_year": 1820,
+  "death_year": 1894
+ },
+ "model": "gemini-flash-latest"
+}

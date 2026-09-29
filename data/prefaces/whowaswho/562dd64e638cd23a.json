@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Henry Balfour",
+   "birth_year": 1863,
+   "death_year": 1939,
+   "nationality": "British",
+   "field": "Archaeology and Anthropology"
+  },
+  {
+   "name": "H. N. Moseley",
+   "birth_year": null,
+   "death_year": 1891,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BALFOUR, Henry – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1853,
+   "death_year": 1885
+  },
+  {
+   "name": "BALFOUR, Henry",
+   "birth_year": 1863,
+   "death_year": 1939
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Henry Balfour",
+   "type": "studied_at",
+   "object": "Oxford (Trinity College)",
+   "role": null,
+   "place": "Oxford",
+   "year_start": 1881,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "From 1881 studies at Oxford (Trinity College), graduated 1885 in biology.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Balfour",
+   "type": "position_at",
+   "object": "Pitt Rivers Museum (Oxford)",
+   "role": "Curator",
+   "place": "Oxford",
+   "year_start": 1891,
+   "year_end": 1939,
+   "explicit": true,
+   "evidence": "Worked under H. N. Moseley in Pitt Rivers Museum (Oxford), at his death in 1891 succeeded him as its Curator and held this position until his own death.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Balfour",
+   "type": "succeeded",
+   "object": "H. N. Moseley",
+   "role": "Curator",
+   "place": "Pitt Rivers Museum (Oxford)",
+   "year_start": 1891,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Worked under H. N. Moseley in Pitt Rivers Museum (Oxford), at his death in 1891 succeeded him as its Curator",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Balfour",
+   "type": "position_at",
+   "object": "Exeter College",
+   "role": "Research Fellow",
+   "place": "Oxford",
+   "year_start": 1903,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1903 Research Fellow of Exeter College, 1935 Professor’s title.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BALFOUR, Henry",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/24899-balfour-henry.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BALFOUR, Henry",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/24899/balfour-henry/",
+  "subject": "BALFOUR, Henry",
+  "birth_year": 1863,
+  "death_year": 1939
+ },
+ "model": "gemini-flash-latest"
+}

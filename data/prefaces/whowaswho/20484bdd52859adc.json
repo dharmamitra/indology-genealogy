@@ -1,0 +1,54 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "James Fraser",
+   "birth_year": 1713,
+   "death_year": 1754,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "James Baillie Fraser",
+   "birth_year": 1783,
+   "death_year": 1856,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "FRASER, James",
+   "birth_year": 1713,
+   "death_year": 1754
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Baillie Fraser",
+   "type": "other",
+   "object": "James Fraser",
+   "role": "grandson",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "James Baillie Fraser(1783–1856) is his grandson.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: FRASER, James",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2079-fraser-james.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: FRASER, James",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2079/fraser-james/",
+  "subject": "FRASER, James",
+  "birth_year": 1713,
+  "death_year": 1754
+ },
+ "model": "gemini-flash-latest"
+}

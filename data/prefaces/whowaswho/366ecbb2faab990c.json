@@ -1,0 +1,126 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Ernst Zupitza",
+   "birth_year": 1874,
+   "death_year": 1917,
+   "nationality": "German",
+   "field": "IE Scholar"
+  },
+  {
+   "name": "Julius Zupitza",
+   "birth_year": 1844,
+   "death_year": 1895,
+   "nationality": null,
+   "field": "Germanist and Anglist"
+  },
+  {
+   "name": "Zimmer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ZUPITZA, Ernst – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1844,
+   "death_year": 1895
+  },
+  {
+   "name": "ZUPITZA, Ernst",
+   "birth_year": 1874,
+   "death_year": 1917
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ernst Zupitza",
+   "type": "other",
+   "object": "Julius Zupitza",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of Julius Zupitza (1844–1895), a Germanist and Anglist",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Zupitza",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1896,
+   "explicit": true,
+   "evidence": "Ph.D. 1896 Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Zupitza",
+   "type": "position_at",
+   "object": "Greifswald",
+   "role": "PD",
+   "place": null,
+   "year_start": 1900,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "PD 1900 Greifswald.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Zupitza",
+   "type": "position_at",
+   "object": "Greifswald",
+   "role": "ao. Professor in charge of the teaching of IE linguistics",
+   "place": null,
+   "year_start": 1901,
+   "year_end": 1917,
+   "explicit": true,
+   "evidence": "In 1901-17 as ao. Professor in charge of the teaching of IE linguistics at Greifswald",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ernst Zupitza",
+   "type": "succeeded",
+   "object": "Zimmer",
+   "role": null,
+   "place": "Greifswald",
+   "year_start": 1901,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1901-17 as ao. Professor in charge of the teaching of IE linguistics at Greifswald (after Zimmer went to Berlin).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Zimmer",
+   "type": "position_at",
+   "object": "Berlin",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "(after Zimmer went to Berlin)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ZUPITZA, Ernst",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4565-zupitza-ernst.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ZUPITZA, Ernst",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4565/zupitza-ernst/",
+  "subject": "ZUPITZA, Ernst",
+  "birth_year": 1874,
+  "death_year": 1917
+ },
+ "model": "gemini-flash-latest"
+}

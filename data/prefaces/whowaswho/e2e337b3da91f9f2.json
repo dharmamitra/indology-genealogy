@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "William John Slade Boake",
+   "birth_year": 1844,
+   "death_year": 1889,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Barcroft Boake",
+   "birth_year": 1814,
+   "death_year": 1876,
+   "nationality": "Irish",
+   "field": null
+  },
+  {
+   "name": "BOAKE, William John Slade – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1814,
+   "death_year": 1876
+  },
+  {
+   "name": "BOAKE, William John Slade",
+   "birth_year": 1844,
+   "death_year": 1889
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William John Slade Boake",
+   "type": "studied_at",
+   "object": "Trinity College, Dublin",
+   "role": "Lic. Med.",
+   "place": "Dublin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Obtained Lic. Med. of Trinity College, Dublin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Barcroft Boake",
+   "type": "position_at",
+   "object": "Colombo Academy",
+   "role": "Principal",
+   "place": "Colombo",
+   "year_start": 1842,
+   "year_end": 1870,
+   "explicit": true,
+   "evidence": "Son of Rev. Dr. Barcroft Boake of Dublin (1814–1876), Principal of Colombo Academy in 1842-70",
+   "quote_ok": true
+  },
+  {
+   "subject": "William John Slade Boake",
+   "type": "other",
+   "object": "Barcroft Boake",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of Rev. Dr. Barcroft Boake of Dublin (1814–1876)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BOAKE, William John Slade",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/816-boake-william-john-slade.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BOAKE, William John Slade",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/816/boake-william-john-slade/",
+  "subject": "BOAKE, William John Slade",
+  "birth_year": 1844,
+  "death_year": 1889
+ },
+ "model": "gemini-flash-latest"
+}

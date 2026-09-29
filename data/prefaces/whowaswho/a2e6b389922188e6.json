@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Strzygowski",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "SPENEDER, Leopold",
+   "birth_year": 1901,
+   "death_year": 1927
+  }
+ ],
+ "relations": [
+  {
+   "subject": "SPENEDER, Leopold",
+   "type": "studied_at",
+   "object": "Vienna",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1927,
+   "explicit": true,
+   "evidence": "Ph.D. 1927 Vienna (under Strzygowski).",
+   "quote_ok": true
+  },
+  {
+   "subject": "SPENEDER, Leopold",
+   "type": "student_of",
+   "object": "Strzygowski",
+   "role": "doctoral supervisor",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": 1927,
+   "explicit": true,
+   "evidence": "Ph.D. 1927 Vienna (under Strzygowski).",
+   "quote_ok": true
+  },
+  {
+   "subject": "SPENEDER, Leopold",
+   "type": "position_at",
+   "object": "Vienna",
+   "role": "Universitätsassistent of art history",
+   "place": null,
+   "year_start": 1932,
+   "year_end": 1941,
+   "explicit": true,
+   "evidence": "From 1932 Universitätsassistent of art history at Vienna (still there 1941).",
+   "quote_ok": true
+  },
+  {
+   "subject": "SPENEDER, Leopold",
+   "type": "position_at",
+   "object": "Vokshochschule",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": 1960,
+   "explicit": true,
+   "evidence": "After war teacher at Vokshochschule until 1960.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SPENEDER, Leopold",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/21693-speneder-leopold.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SPENEDER, Leopold",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/21693/speneder-leopold/",
+  "subject": "SPENEDER, Leopold",
+  "birth_year": 1901,
+  "death_year": 1927
+ },
+ "model": "gemini-flash-latest"
+}

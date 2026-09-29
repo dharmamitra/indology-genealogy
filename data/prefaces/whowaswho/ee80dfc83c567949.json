@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Edmund Charles Cox",
+   "birth_year": 1856,
+   "death_year": 1935,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "George William Cox",
+   "birth_year": 1827,
+   "death_year": 1902,
+   "nationality": "British",
+   "field": "historian"
+  },
+  {
+   "name": "COX, Edmund C. – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1827,
+   "death_year": 1902
+  },
+  {
+   "name": "COX, Edmund C",
+   "birth_year": 1856,
+   "death_year": 1935
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Edmund Charles Cox",
+   "type": "other",
+   "object": "George William Cox",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of Rev. —> George William Cox (1827–1902), the 14th Baronet and a historian",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edmund Charles Cox",
+   "type": "studied_at",
+   "object": "Trinity College, Cambridge",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "“Educated at Marlborough and Trinity College, Cambridge.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edmund Charles Cox",
+   "type": "studied_at",
+   "object": "Marlborough",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "“Educated at Marlborough and Trinity College, Cambridge.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: COX, Edmund C",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1399-cox-edmund-charles.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: COX, Edmund C",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1399/cox-edmund-charles/",
+  "subject": "COX, Edmund C",
+  "birth_year": 1856,
+  "death_year": 1935
+ },
+ "model": "gemini-flash-latest"
+}

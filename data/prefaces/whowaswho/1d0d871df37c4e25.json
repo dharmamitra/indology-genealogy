@@ -1,0 +1,162 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Frederick William Thomas",
+   "birth_year": 1867,
+   "death_year": 1956,
+   "nationality": "British",
+   "field": "Indologist"
+  },
+  {
+   "name": "Cowell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Tawney",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "THOMAS, Frederick William – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1834,
+   "death_year": 1890
+  },
+  {
+   "name": "THOMAS, Frederick William",
+   "birth_year": 1867,
+   "death_year": 1956
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Frederick William Thomas",
+   "type": "student_of",
+   "object": "Cowell",
+   "role": "teacher",
+   "place": "Cambridge",
+   "year_start": 1885,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied at Cambridge from 1885 classics and Indology (under Cowell)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Frederick William Thomas",
+   "type": "studied_at",
+   "object": "Cambridge",
+   "role": "B.A. in Classics and Indian Languages, M.A.",
+   "place": "Cambridge",
+   "year_start": 1885,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "Studied at Cambridge from 1885 classics and Indology (under Cowell), graduated B.A. 1889 in Classics and 1890 in Indian Languages, M.A. 1893.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Frederick William Thomas",
+   "type": "position_at",
+   "object": "Trinity College",
+   "role": "Fellow",
+   "place": null,
+   "year_start": 1892,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1892 Fellow of Trinity College.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Frederick William Thomas",
+   "type": "position_at",
+   "object": "India Office",
+   "role": "Assistant Librarian",
+   "place": null,
+   "year_start": 1898,
+   "year_end": 1903,
+   "explicit": true,
+   "evidence": "From 1898 Assistant Librarian in India Office",
+   "quote_ok": true
+  },
+  {
+   "subject": "Frederick William Thomas",
+   "type": "position_at",
+   "object": "India Office",
+   "role": "Librarian",
+   "place": null,
+   "year_start": 1903,
+   "year_end": 1927,
+   "explicit": true,
+   "evidence": "in 1903-27 Tawney’s successor as its Librarian",
+   "quote_ok": true
+  },
+  {
+   "subject": "Frederick William Thomas",
+   "type": "succeeded",
+   "object": "Tawney",
+   "role": "Librarian",
+   "place": "India Office",
+   "year_start": 1903,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1903-27 Tawney’s successor as its Librarian",
+   "quote_ok": true
+  },
+  {
+   "subject": "Frederick William Thomas",
+   "type": "position_at",
+   "object": "University College",
+   "role": "Lecturer in Comparative Philology",
+   "place": null,
+   "year_start": 1908,
+   "year_end": 1935,
+   "explicit": true,
+   "evidence": "taught at University College (Lecturer in Comparative Philology 1908-35 and Reader of Tibetan Language 1909-37)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Frederick William Thomas",
+   "type": "position_at",
+   "object": "University College",
+   "role": "Reader of Tibetan Language",
+   "place": null,
+   "year_start": 1909,
+   "year_end": 1937,
+   "explicit": true,
+   "evidence": "taught at University College (Lecturer in Comparative Philology 1908-35 and Reader of Tibetan Language 1909-37)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Frederick William Thomas",
+   "type": "position_at",
+   "object": "Oxford",
+   "role": "Boden Professor of Sanskrit and Fellow of Balliol College",
+   "place": "Oxford",
+   "year_start": 1927,
+   "year_end": 1937,
+   "explicit": true,
+   "evidence": "From 1927 Boden Professor of Sanskrit and Fellow of Balliol College at Oxford. Retired in 1937.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: THOMAS, Frederick William",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4984-thomas-frederick-william.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: THOMAS, Frederick William",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4984/thomas-frederick-william/",
+  "subject": "THOMAS, Frederick William",
+  "birth_year": 1867,
+  "death_year": 1956
+ },
+ "model": "gemini-flash-latest"
+}

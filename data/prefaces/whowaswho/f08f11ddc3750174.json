@@ -1,0 +1,145 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Karel Oštir",
+   "birth_year": 1888,
+   "death_year": 1973,
+   "nationality": "Slovenian",
+   "field": "IE Linguist"
+  },
+  {
+   "name": "Meringer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kretschmer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "OŠTIR, Karel",
+   "birth_year": 1888,
+   "death_year": 1973
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Karel Oštir",
+   "type": "studied_at",
+   "object": "Graz",
+   "role": null,
+   "place": null,
+   "year_start": 1909,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied from 1909 Linguistics at Graz",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karel Oštir",
+   "type": "student_of",
+   "object": "Meringer",
+   "role": "teacher",
+   "place": "Graz",
+   "year_start": 1909,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "studied from 1909 Linguistics at Graz (Meringer)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karel Oštir",
+   "type": "studied_at",
+   "object": "Vienna",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and Vienna (Kretschmer)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karel Oštir",
+   "type": "student_of",
+   "object": "Kretschmer",
+   "role": "teacher",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "and Vienna (Kretschmer)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karel Oštir",
+   "type": "studied_at",
+   "object": "Graz",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1919,
+   "explicit": true,
+   "evidence": "Ph.D. 1919 Graz.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karel Oštir",
+   "type": "position_at",
+   "object": "Ljubljana University",
+   "role": "PD",
+   "place": "Ljubljana",
+   "year_start": 1922,
+   "year_end": 1924,
+   "explicit": true,
+   "evidence": "PD from 1922, then eo. 1924 and 1932 ord. Professor of IE Philology at Ljubljana University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karel Oštir",
+   "type": "position_at",
+   "object": "Ljubljana University",
+   "role": "eo. Professor of IE Philology",
+   "place": "Ljubljana",
+   "year_start": 1924,
+   "year_end": 1932,
+   "explicit": true,
+   "evidence": "then eo. 1924 and 1932 ord. Professor of IE Philology at Ljubljana University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karel Oštir",
+   "type": "position_at",
+   "object": "Ljubljana University",
+   "role": "ord. Professor of IE Philology",
+   "place": "Ljubljana",
+   "year_start": 1932,
+   "year_end": 1958,
+   "explicit": true,
+   "evidence": "and 1932 ord. Professor of IE Philology at Ljubljana University, retired 1958.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: OŠTIR, Karel",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4508-ostir-karel.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: OŠTIR, Karel",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4508/ostir-karel/",
+  "subject": "OŠTIR, Karel",
+  "birth_year": 1888,
+  "death_year": 1973
+ },
+ "model": "gemini-flash-latest"
+}

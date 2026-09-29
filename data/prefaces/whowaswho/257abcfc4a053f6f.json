@@ -1,0 +1,97 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Moritz Spitzer",
+   "birth_year": 1900,
+   "death_year": 1982,
+   "nationality": "Jewish",
+   "field": "Indology"
+  },
+  {
+   "name": "F. O. Schrader",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Eli Franco",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "SPITZER, Moritz",
+   "birth_year": 1900,
+   "death_year": 1982
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Moritz Spitzer",
+   "type": "studied_at",
+   "object": "Vienna",
+   "role": null,
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied Indology at Vienna and Kiel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Moritz Spitzer",
+   "type": "studied_at",
+   "object": "Kiel",
+   "role": "Ph.D.",
+   "place": "Kiel",
+   "year_start": null,
+   "year_end": 1926,
+   "explicit": true,
+   "evidence": "Studied Indology at Vienna and Kiel. Ph.D. 1926 Kiel (F. O. Schrader).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Moritz Spitzer",
+   "type": "student_of",
+   "object": "F. O. Schrader",
+   "role": "doctoral supervisor",
+   "place": "Kiel",
+   "year_start": null,
+   "year_end": 1926,
+   "explicit": true,
+   "evidence": "Ph.D. 1926 Kiel (F. O. Schrader).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Moritz Spitzer",
+   "type": "position_at",
+   "object": "Berlin",
+   "role": "Assistant",
+   "place": "Berlin",
+   "year_start": 1927,
+   "year_end": 1928,
+   "explicit": true,
+   "evidence": "In 1927-28 he worked as Assistant in Berlin on the Brāhmī Turfan fragments now known as the “Spitzer Manuscript”",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SPITZER, Moritz",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5913-spitzer-moritz.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SPITZER, Moritz",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5913/spitzer-moritz/",
+  "subject": "SPITZER, Moritz",
+  "birth_year": 1900,
+  "death_year": 1982
+ },
+ "model": "gemini-flash-latest"
+}

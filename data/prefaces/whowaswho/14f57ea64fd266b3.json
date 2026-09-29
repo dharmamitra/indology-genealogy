@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Bedřich Votýpka",
+   "birth_year": 1865,
+   "death_year": 1940,
+   "nationality": "Czech",
+   "field": "Indology"
+  },
+  {
+   "name": "Zubatý",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "VOTÝPKA, Bedřich",
+   "birth_year": 1865,
+   "death_year": 1940
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Bedřich Votýpka",
+   "type": "studied_at",
+   "object": "Prague Czech University",
+   "role": null,
+   "place": null,
+   "year_start": 1885,
+   "year_end": 1892,
+   "explicit": true,
+   "evidence": "Studies of philosophy, classics and Sanskrit (Zubatý) at Prague Czech University in 1885-92.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bedřich Votýpka",
+   "type": "student_of",
+   "object": "Zubatý",
+   "role": "teacher",
+   "place": "Prague Czech University",
+   "year_start": 1885,
+   "year_end": 1892,
+   "explicit": true,
+   "evidence": "Studies of philosophy, classics and Sanskrit (Zubatý) at Prague Czech University in 1885-92.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bedřich Votýpka",
+   "type": "position_at",
+   "object": "gymnasium in Benešov near Prague",
+   "role": "gymnasium professor",
+   "place": "Benešov near Prague",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Worked as gymnasium professor in Benešov near Prague, but also kept his interest in Sanskrit.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: VOTÝPKA, Bedřich",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4657-votypka-b.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: VOTÝPKA, Bedřich",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4657/votypka-b/",
+  "subject": "VOTÝPKA, Bedřich",
+  "birth_year": 1865,
+  "death_year": 1940
+ },
+ "model": "gemini-flash-latest"
+}

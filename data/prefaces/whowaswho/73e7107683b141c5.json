@@ -1,0 +1,66 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Stanislav Mudra",
+   "birth_year": 1910,
+   "death_year": null,
+   "nationality": "Czech",
+   "field": "Indology"
+  },
+  {
+   "name": "Pertold",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "MUDRA, Stanislav",
+   "birth_year": 1910,
+   "death_year": 1936
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Stanislav Mudra",
+   "type": "student_of",
+   "object": "Pertold",
+   "role": "doctoral supervisor",
+   "place": "Prague",
+   "year_start": null,
+   "year_end": 1937,
+   "explicit": true,
+   "evidence": "Ph.D. 1936/37 Prague (under Pertold).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stanislav Mudra",
+   "type": "studied_at",
+   "object": "Prague",
+   "role": "Ph.D.",
+   "place": "Prague",
+   "year_start": null,
+   "year_end": 1937,
+   "explicit": true,
+   "evidence": "Ph.D. 1936/37 Prague (under Pertold).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MUDRA, Stanislav",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/18412-mudra-stanislav.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MUDRA, Stanislav",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/18412/mudra-stanislav/",
+  "subject": "MUDRA, Stanislav",
+  "birth_year": 1910,
+  "death_year": 1936
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "James Gibbs",
+   "birth_year": 1825,
+   "death_year": 1886,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "GIBBS, James",
+   "birth_year": 1825,
+   "death_year": 1886
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Gibbs",
+   "type": "studied_at",
+   "object": "Merchant Taylor’s",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at Merchant Taylor’s and Haileybury, 1844-46.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Gibbs",
+   "type": "studied_at",
+   "object": "Haileybury",
+   "role": null,
+   "place": null,
+   "year_start": 1844,
+   "year_end": 1846,
+   "explicit": true,
+   "evidence": "Educated at Merchant Taylor’s and Haileybury, 1844-46.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Gibbs",
+   "type": "position_at",
+   "object": "Bombay Civil Service",
+   "role": null,
+   "place": null,
+   "year_start": 1846,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1846 joined the Bombay Civil Service.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Gibbs",
+   "type": "position_at",
+   "object": "Asiatic Society, Bombay",
+   "role": "President",
+   "place": "Bombay",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "President of the Asiatic Society, Bombay",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Gibbs",
+   "type": "position_at",
+   "object": "Bombay University",
+   "role": "Vice-Chancellor",
+   "place": "Bombay",
+   "year_start": 1870,
+   "year_end": 1879,
+   "explicit": true,
+   "evidence": "Vice-Chancellor of the Bombay University, 1870-79.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GIBBS, James",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2249-gibbs-james.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GIBBS, James",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2249/gibbs-james/",
+  "subject": "GIBBS, James",
+  "birth_year": 1825,
+  "death_year": 1886
+ },
+ "model": "gemini-flash-latest"
+}

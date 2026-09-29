@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Julius Schwab",
+   "birth_year": 1852,
+   "death_year": 1928,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "E. Kuhn",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "SCHWAB, Julius – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1852,
+   "death_year": 1928
+  },
+  {
+   "name": "SCHWAB, Julius",
+   "birth_year": 1852,
+   "death_year": 1928
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Julius Schwab",
+   "type": "student_of",
+   "object": "E. Kuhn",
+   "role": "teacher",
+   "place": "Munich",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Munich under E. Kuhn.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Julius Schwab",
+   "type": "studied_at",
+   "object": "Munich",
+   "role": "PhD",
+   "place": "Munich",
+   "year_start": null,
+   "year_end": 1882,
+   "explicit": true,
+   "evidence": "Studies at Munich under E. Kuhn. Ph.D. 1882 Munich.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Julius Schwab",
+   "type": "position_at",
+   "object": "Grossherzogliche Badische Hof- und Landesbibliothek",
+   "role": "Hilfsarbeiter",
+   "place": "Karlsruhe",
+   "year_start": 1882,
+   "year_end": 1887,
+   "explicit": true,
+   "evidence": "From 1882 Hilfsarbeiter at Grossherzogliche Badische Hof- und Landesbibliothek in Karlsruhe, from 1887 at university library in Freiburg i.Br.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Julius Schwab",
+   "type": "position_at",
+   "object": "university library in Freiburg i.Br.",
+   "role": "custos, librarian",
+   "place": "Freiburg i.Br.",
+   "year_start": 1887,
+   "year_end": 1916,
+   "explicit": true,
+   "evidence": "from 1887 at university library in Freiburg i.Br. (1890 custos, 1900 librarian, still there 1916, now with Professor’s title).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SCHWAB, Julius",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/6094-schwab-julius.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SCHWAB, Julius",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/6094/schwab-julius/",
+  "subject": "SCHWAB, Julius",
+  "birth_year": 1852,
+  "death_year": 1928
+ },
+ "model": "gemini-flash-latest"
+}

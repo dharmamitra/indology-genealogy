@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John Forbes Royle",
+   "birth_year": 1799,
+   "death_year": 1858,
+   "nationality": "British",
+   "field": "Physician, Botanist and Scientist in India"
+  },
+  {
+   "name": "ROYLE, Forbes",
+   "birth_year": 1799,
+   "death_year": 1858
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Forbes Royle",
+   "type": "studied_at",
+   "object": "Edinburgh",
+   "role": null,
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at Edinburgh and Addiscombe",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Forbes Royle",
+   "type": "studied_at",
+   "object": "Addiscombe",
+   "role": null,
+   "place": "Addiscombe",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at Edinburgh and Addiscombe",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Forbes Royle",
+   "type": "position_at",
+   "object": "Botanic Garden at Saharanpur",
+   "role": "Superintendent",
+   "place": "Saharanpur",
+   "year_start": 1823,
+   "year_end": 1831,
+   "explicit": true,
+   "evidence": "Superintendent of the Botanic Garden at Saharanpur, 1823-31",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Forbes Royle",
+   "type": "position_at",
+   "object": "King’s College, London",
+   "role": "Professor of Materia Medica and Therapeutics",
+   "place": "London",
+   "year_start": 1837,
+   "year_end": 1856,
+   "explicit": true,
+   "evidence": "In 1837-56 Professor of Materia Medica and Therapeutics at King’s College, London.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Forbes Royle",
+   "type": "position_at",
+   "object": "India Office",
+   "role": "in charge of a museum of Indian vegetable products",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Also in charge of a museum of Indian vegetable products in India Office.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ROYLE, Forbes",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5310-royle-john-forbes.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ROYLE, Forbes",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5310/royle-john-forbes/",
+  "subject": "ROYLE, Forbes",
+  "birth_year": 1799,
+  "death_year": 1858
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,73 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "H. J. Harrison",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Driberg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "H. J. Harrison",
+   "type": "studied_at",
+   "object": "Bishop’s College in Calcutta",
+   "role": null,
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at Bishop’s College in Calcutta.",
+   "quote_ok": true
+  },
+  {
+   "subject": "H. J. Harrison",
+   "type": "studied_at",
+   "object": "Bishop’s College",
+   "role": null,
+   "place": "Calcutta",
+   "year_start": 1841,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1841 missionary in Barrioore near Calcutta, also studies at Bishop’s College.",
+   "quote_ok": true
+  },
+  {
+   "subject": "H. J. Harrison",
+   "type": "collaborated_with",
+   "object": "Driberg",
+   "role": "assisted in founding the new Nurbudda Mission",
+   "place": null,
+   "year_start": 1847,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Around 1847 assisted as Catechist Rev. Driberg in founding the new Nurbudda Mission",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HARRISON, H. J",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/15214-harrison-h-j.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HARRISON, H. J",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/15214/harrison-h-j/",
+  "subject": "HARRISON, H. J",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

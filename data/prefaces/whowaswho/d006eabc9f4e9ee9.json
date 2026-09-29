@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Thomas William Lumisden Strange",
+   "birth_year": 1808,
+   "death_year": 1884,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Thomas A. L. Strange",
+   "birth_year": 1756,
+   "death_year": 1841,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "STRANGE, Thomas W. L. – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1756,
+   "death_year": 1841
+  },
+  {
+   "name": "STRANGE, Thomas W. L",
+   "birth_year": 1808,
+   "death_year": 1884
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Thomas William Lumisden Strange",
+   "type": "other",
+   "object": "Thomas A. L. Strange",
+   "role": "son of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of —> Thomas A. L. Strange (1756–1841) and Louisa Burroughs.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas William Lumisden Strange",
+   "type": "studied_at",
+   "object": "Westminster",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at Westminster and Haileybury, 1824-26.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas William Lumisden Strange",
+   "type": "studied_at",
+   "object": "Haileybury",
+   "role": null,
+   "place": null,
+   "year_start": 1824,
+   "year_end": 1826,
+   "explicit": true,
+   "evidence": "Educated at Westminster and Haileybury, 1824-26.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: STRANGE, Thomas W. L",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/6033-strange-thomas-lumsden.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: STRANGE, Thomas W. L",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/6033/strange-thomas-lumsden/",
+  "subject": "STRANGE, Thomas W. L",
+  "birth_year": 1808,
+  "death_year": 1884
+ },
+ "model": "gemini-flash-latest"
+}

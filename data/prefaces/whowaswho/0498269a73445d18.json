@@ -1,0 +1,59 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Joseph Peet",
+   "birth_year": 1801,
+   "death_year": 1865,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "PEET, Joseph",
+   "birth_year": 1801,
+   "death_year": 1865
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Joseph Peet",
+   "type": "studied_at",
+   "object": "Church Missionary College",
+   "role": null,
+   "place": "Islington (London)",
+   "year_start": 1829,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1829 studies at Church Missionary College in Islington (London)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Peet",
+   "type": "position_at",
+   "object": "Kottayam College",
+   "role": "Principal",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then thirty years as the Principal of Kottayam College",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: PEET, Joseph",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4725-peet-j.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: PEET, Joseph",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4725/peet-j/",
+  "subject": "PEET, Joseph",
+  "birth_year": 1801,
+  "death_year": 1865
+ },
+ "model": "gemini-flash-latest"
+}

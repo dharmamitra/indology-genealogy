@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "James Burnes",
+   "birth_year": 1801,
+   "death_year": 1862,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Alexander Burnes",
+   "birth_year": 1805,
+   "death_year": 1841,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BURNES, James – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1760,
+   "death_year": 1852
+  },
+  {
+   "name": "BURNES, James",
+   "birth_year": 1801,
+   "death_year": 1862
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Burnes",
+   "type": "other",
+   "object": "Alexander Burnes",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "brother of —> Alexander Burnes (1805–1841)",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Burnes",
+   "type": "studied_at",
+   "object": "Edinburgh University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at Montrose Academy, Edinburgh University and in London hospitals (M.D.)",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Burnes",
+   "type": "studied_at",
+   "object": "Glasgow",
+   "role": "LL.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1834,
+   "explicit": true,
+   "evidence": "LL.D. 1834 Glasgow.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BURNES, James",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1072-burnes-james.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BURNES, James",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1072/burnes-james/",
+  "subject": "BURNES, James",
+  "birth_year": 1801,
+  "death_year": 1862
+ },
+ "model": "gemini-flash-latest"
+}

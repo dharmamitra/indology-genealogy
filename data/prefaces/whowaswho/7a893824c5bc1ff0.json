@@ -1,0 +1,121 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Pavlo Grigorovič Ritter",
+   "birth_year": 1872,
+   "death_year": 1939,
+   "nationality": "Ukrainian",
+   "field": "Indologist, Literary Historian, Critic, etc."
+  },
+  {
+   "name": "Ovsjaniko-Kulikovskij",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Geldner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "RITTER, Pavlo Grigorovič",
+   "birth_year": 1872,
+   "death_year": 1939
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Pavlo Grigorovič Ritter",
+   "type": "student_of",
+   "object": "Ovsjaniko-Kulikovskij",
+   "role": "teacher",
+   "place": "Harkiv",
+   "year_start": null,
+   "year_end": 1894,
+   "explicit": true,
+   "evidence": "Studies at Harkiv under Ovsjaniko-Kulikovskij, mainly Slavic, but also Sanskrit. Graduated 1894.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pavlo Grigorovič Ritter",
+   "type": "studied_at",
+   "object": "Harkiv",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1894,
+   "explicit": true,
+   "evidence": "Studies at Harkiv under Ovsjaniko-Kulikovskij, mainly Slavic, but also Sanskrit. Graduated 1894.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pavlo Grigorovič Ritter",
+   "type": "student_of",
+   "object": "Geldner",
+   "role": "teacher",
+   "place": "Germany",
+   "year_start": 1895,
+   "year_end": 1896,
+   "explicit": true,
+   "evidence": "Further studies of Sanskrit in 1895-96 under Geldner in Germany",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pavlo Grigorovič Ritter",
+   "type": "studied_at",
+   "object": "Harkiv",
+   "role": "PD",
+   "place": null,
+   "year_start": null,
+   "year_end": 1900,
+   "explicit": true,
+   "evidence": "PD 1900 Harkiv",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pavlo Grigorovič Ritter",
+   "type": "position_at",
+   "object": "Harkiv University",
+   "role": "Professor",
+   "place": "Harkiv",
+   "year_start": 1921,
+   "year_end": 1939,
+   "explicit": true,
+   "evidence": "in 1921 succeeded Ovsjaniko-Kulikovskij as Professor at Harkiv University, until his death.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pavlo Grigorovič Ritter",
+   "type": "succeeded",
+   "object": "Ovsjaniko-Kulikovskij",
+   "role": "Professor",
+   "place": "Harkiv University",
+   "year_start": 1921,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1921 succeeded Ovsjaniko-Kulikovskij as Professor at Harkiv University, until his death.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: RITTER, Pavlo Grigorovič",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5218-ritter-pavlo-grigorovic-pavel-grigorevic-ritter.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: RITTER, Pavlo Grigorovič",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5218/ritter-pavlo-grigorovic-pavel-grigorevic-ritter/",
+  "subject": "RITTER, Pavlo Grigorovič",
+  "birth_year": 1872,
+  "death_year": 1939
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,97 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Vladimir Alekseevič Ivanov",
+   "birth_year": 1886,
+   "death_year": 1970,
+   "nationality": "Russian",
+   "field": "Iranian (Persian) Scholar"
+  },
+  {
+   "name": "von Rosen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Žukovskij",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "IVANOV, Vladimir Alekseevič",
+   "birth_year": 1886,
+   "death_year": 1970
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Vladimir Alekseevič Ivanov",
+   "type": "studied_at",
+   "object": "St.Petersburg",
+   "role": null,
+   "place": "St.Petersburg",
+   "year_start": 1907,
+   "year_end": 1911,
+   "explicit": true,
+   "evidence": "From 1907 studies at St.Petersburg (Arabic under von Rosen, Persian under Žukovskij ), graduated 1911.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vladimir Alekseevič Ivanov",
+   "type": "student_of",
+   "object": "von Rosen",
+   "role": "teacher",
+   "place": "St.Petersburg",
+   "year_start": 1907,
+   "year_end": 1911,
+   "explicit": true,
+   "evidence": "From 1907 studies at St.Petersburg (Arabic under von Rosen, Persian under Žukovskij )",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vladimir Alekseevič Ivanov",
+   "type": "student_of",
+   "object": "Žukovskij",
+   "role": "teacher",
+   "place": "St.Petersburg",
+   "year_start": 1907,
+   "year_end": 1911,
+   "explicit": true,
+   "evidence": "From 1907 studies at St.Petersburg (Arabic under von Rosen, Persian under Žukovskij )",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vladimir Alekseevič Ivanov",
+   "type": "position_at",
+   "object": "Asiatic Museum of the Academy",
+   "role": "Assstant Keeper of Manuscripts",
+   "place": "St.Petersburg",
+   "year_start": null,
+   "year_end": 1918,
+   "explicit": true,
+   "evidence": "Back in St.Petersburg he joined the Asiatic Museum of the Academy, finally Assstant Keeper of Manuscripts there.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: IVANOV, Vladimir Alekseevič",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2738-ivanov-vladimir-alekseevic.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: IVANOV, Vladimir Alekseevič",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2738/ivanov-vladimir-alekseevic/",
+  "subject": "IVANOV, Vladimir Alekseevič",
+  "birth_year": 1886,
+  "death_year": 1970
+ },
+ "model": "gemini-flash-latest"
+}

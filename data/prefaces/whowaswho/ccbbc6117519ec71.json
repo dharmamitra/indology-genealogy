@@ -1,0 +1,54 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Mansion",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "COTTON, Gérard",
+   "type": "student_of",
+   "object": "Mansion",
+   "role": "teacher",
+   "place": "university of Liège",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in Sanskrit student of Mansion.",
+   "quote_ok": true
+  },
+  {
+   "subject": "COTTON, Gérard",
+   "type": "studied_at",
+   "object": "university of Liège",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1930,
+   "explicit": true,
+   "evidence": "Ph.D. 1930, in Sanskrit student of Mansion. At the university of Liège.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: COTTON, Gérard",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1375-cotton-g.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: COTTON, Gérard",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1375/cotton-g/",
+  "subject": "COTTON, Gérard",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

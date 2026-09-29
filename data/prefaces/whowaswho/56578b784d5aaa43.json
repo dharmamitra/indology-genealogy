@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Henry Hubert Hayden",
+   "birth_year": 1869,
+   "death_year": 1923,
+   "nationality": "British",
+   "field": "Geology"
+  },
+  {
+   "name": "HAYDEN, Henry Hubert",
+   "birth_year": 1869,
+   "death_year": 1923
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Henry Hubert Hayden",
+   "type": "studied_at",
+   "object": "Hilton College",
+   "role": null,
+   "place": "South Africa",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at Hilton College in South Africa.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Hubert Hayden",
+   "type": "studied_at",
+   "object": "Trinity College",
+   "role": "B.A.",
+   "place": "Dublin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies of geology at Trinity College in Dublin (B.A.).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Hubert Hayden",
+   "type": "position_at",
+   "object": "Geological Survey of India",
+   "role": null,
+   "place": null,
+   "year_start": 1895,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1895 joined the Geological Survey of India.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Hubert Hayden",
+   "type": "position_at",
+   "object": "Geological Survey of India",
+   "role": "Director",
+   "place": null,
+   "year_start": 1910,
+   "year_end": 1920,
+   "explicit": true,
+   "evidence": "In 1910-20 Director of the Geological Survey.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Hubert Hayden",
+   "type": "position_at",
+   "object": "A.S.B.",
+   "role": "President",
+   "place": null,
+   "year_start": 1917,
+   "year_end": 1918,
+   "explicit": true,
+   "evidence": "In 1917-18 President of A.S.B.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HAYDEN, Henry Hubert",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/15276-hayden-henry-hubert.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HAYDEN, Henry Hubert",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/15276/hayden-henry-hubert/",
+  "subject": "HAYDEN, Henry Hubert",
+  "birth_year": 1869,
+  "death_year": 1923
+ },
+ "model": "gemini-flash-latest"
+}

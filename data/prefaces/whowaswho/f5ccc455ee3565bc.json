@@ -1,0 +1,109 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Meillet",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Pelliot",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "N. Poppe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "VLADIMIRCOV, Boris Jakovlevič",
+   "birth_year": 1884,
+   "death_year": 1931
+  }
+ ],
+ "relations": [
+  {
+   "subject": "VLADIMIRCOV, Boris Jakovlevič",
+   "type": "studied_at",
+   "object": "St.Petersburg",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1909,
+   "explicit": true,
+   "evidence": "Graduated 1909 at St.Petersburg (Sino-Manchu section), Magistr 1911.",
+   "quote_ok": true
+  },
+  {
+   "subject": "VLADIMIRCOV, Boris Jakovlevič",
+   "type": "student_of",
+   "object": "Meillet",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": 1911,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1911 expedition to the Altai, then further studies in Paris (Meillet, Pelliot).",
+   "quote_ok": true
+  },
+  {
+   "subject": "VLADIMIRCOV, Boris Jakovlevič",
+   "type": "student_of",
+   "object": "Pelliot",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": 1911,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1911 expedition to the Altai, then further studies in Paris (Meillet, Pelliot).",
+   "quote_ok": true
+  },
+  {
+   "subject": "VLADIMIRCOV, Boris Jakovlevič",
+   "type": "position_at",
+   "object": "Petrograd/Leningrad University",
+   "role": "Professor of Mongolian",
+   "place": null,
+   "year_start": 1915,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1915 Professor of Mongolian at Petrograd/Leningrad University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "N. Poppe",
+   "type": "student_of",
+   "object": "VLADIMIRCOV, Boris Jakovlevič",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "N. Poppe was among his students.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: VLADIMIRCOV, Boris Jakovlevič",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/22869-vladimircov-boris-jakovlevic.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: VLADIMIRCOV, Boris Jakovlevič",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/22869/vladimircov-boris-jakovlevic/",
+  "subject": "VLADIMIRCOV, Boris Jakovlevič",
+  "birth_year": 1884,
+  "death_year": 1931
+ },
+ "model": "gemini-flash-latest"
+}

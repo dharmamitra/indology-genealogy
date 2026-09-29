@@ -1,0 +1,80 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Mario Daza de Campos",
+   "birth_year": 1863,
+   "death_year": 1943,
+   "nationality": "Spanish",
+   "field": "Classical Scholar interested in Sanskrit"
+  },
+  {
+   "name": "Garcia Ayuso",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "González de la Calle",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Mario Daza de Campos",
+   "type": "student_of",
+   "object": "Garcia Ayuso",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies i.al. under Garcia Ayuso.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mario Daza de Campos",
+   "type": "position_at",
+   "object": "Madrid University",
+   "role": "Ord. Professor of Sanskrit",
+   "place": "Madrid",
+   "year_start": 1897,
+   "year_end": 1933,
+   "explicit": true,
+   "evidence": "Ord. Professor of Sanskrit at Madrid University in the 1910s and still in the 1930s.",
+   "quote_ok": true
+  },
+  {
+   "subject": "González de la Calle",
+   "type": "student_of",
+   "object": "Mario Daza de Campos",
+   "role": "student",
+   "place": "Madrid",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among his students was —> González de la Calle.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: DAZA DE CÁMPOS, Mario",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1502-daza-de-campos-mario.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: DAZA DE CÁMPOS, Mario",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1502/daza-de-campos-mario/",
+  "subject": "DAZA DE CÁMPOS, Mario",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

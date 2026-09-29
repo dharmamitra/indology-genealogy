@@ -1,0 +1,107 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Donald William Ferguson",
+   "birth_year": 1853,
+   "death_year": 1910,
+   "nationality": "British",
+   "field": "Sri Lankan History"
+  },
+  {
+   "name": "Alastair M. Ferguson",
+   "birth_year": 1816,
+   "death_year": 1892,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "FERGUSON, Donald W. – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1816,
+   "death_year": 1892
+  },
+  {
+   "name": "FERGUSON, Donald W",
+   "birth_year": 1853,
+   "death_year": 1910
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Donald William Ferguson",
+   "type": "other",
+   "object": "Alastair M. Ferguson",
+   "role": "son of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of —> Alastair M. Ferguson (1816–1892) and Anne Mackerras.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Donald William Ferguson",
+   "type": "studied_at",
+   "object": "Denmark Hill Grammar School",
+   "role": null,
+   "place": "England",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His son was educated in England, at Denmark Hill Grammar School and at Regent’s Park Baptist College.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Donald William Ferguson",
+   "type": "studied_at",
+   "object": "Regent’s Park Baptist College",
+   "role": null,
+   "place": "England",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His son was educated in England, at Denmark Hill Grammar School and at Regent’s Park Baptist College.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Donald William Ferguson",
+   "type": "studied_at",
+   "object": "University College in London",
+   "role": null,
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies of medicine at University College in London, but gave up without graduating.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Donald William Ferguson",
+   "type": "collaborated_with",
+   "object": "Alastair M. Ferguson",
+   "role": "co-proprietor and co-editor of the Ceylon Observer",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "For many years he was co-proprietor and co-editor of the Ceylon Observer with his father and his cousin.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: FERGUSON, Donald W",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1929-ferguson-donald-william.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: FERGUSON, Donald W",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1929/ferguson-donald-william/",
+  "subject": "FERGUSON, Donald W",
+  "birth_year": 1853,
+  "death_year": 1910
+ },
+ "model": "gemini-flash-latest"
+}

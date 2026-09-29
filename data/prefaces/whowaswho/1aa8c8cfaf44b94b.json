@@ -1,0 +1,66 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "SIEGERT, Hans Karl",
+   "birth_year": 1911,
+   "death_year": 1957,
+   "nationality": "German",
+   "field": "Linguist"
+  },
+  {
+   "name": "Wüst",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "SIEGERT, Hans",
+   "birth_year": 1911,
+   "death_year": 1957
+  }
+ ],
+ "relations": [
+  {
+   "subject": "SIEGERT, Hans Karl",
+   "type": "student_of",
+   "object": "Wüst",
+   "role": "teacher",
+   "place": "Munich",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied linguistics, classics, German and history at Munich (under   Wüst et al.)",
+   "quote_ok": true
+  },
+  {
+   "subject": "SIEGERT, Hans Karl",
+   "type": "studied_at",
+   "object": "Munich",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied linguistics, classics, German and history at Munich (under   Wüst et al.)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SIEGERT, Hans",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/21343-siegert-hans.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SIEGERT, Hans",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/21343/siegert-hans/",
+  "subject": "SIEGERT, Hans",
+  "birth_year": 1911,
+  "death_year": 1957
+ },
+ "model": "gemini-flash-latest"
+}

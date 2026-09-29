@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Robert Mason Towers",
+   "birth_year": 1840,
+   "death_year": 1907,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Aurobindo",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "TOWERS, Robert Mason – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1888,
+   "death_year": 1907
+  },
+  {
+   "name": "TOWERS, Robert Mason",
+   "birth_year": 1840,
+   "death_year": 1907
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Robert Mason Towers",
+   "type": "studied_at",
+   "object": "Trinity College, Dublin",
+   "role": "M.A.",
+   "place": "Dublin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Trinity College, Dublin (M.A.)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Mason Towers",
+   "type": "position_at",
+   "object": "King’s College, London",
+   "role": "Professor of Bengali",
+   "place": "London",
+   "year_start": 1888,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1888 Professor of Bengali at King’s College, London",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Mason Towers",
+   "type": "position_at",
+   "object": "Cambridge",
+   "role": "University Teacher",
+   "place": "Cambridge",
+   "year_start": 1888,
+   "year_end": 1907,
+   "explicit": true,
+   "evidence": "1888-1907 taught Bengali at Cambridge (at Caius College, M.A. there 1889, from 1897 University Teacher)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Aurobindo",
+   "type": "student_of",
+   "object": "Robert Mason Towers",
+   "role": "teacher",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At Cambridge Aurobindo was among his students.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: TOWERS, Robert Mason",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/22519-towers-robert-mason.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: TOWERS, Robert Mason",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/22519/towers-robert-mason/",
+  "subject": "TOWERS, Robert Mason",
+  "birth_year": 1840,
+  "death_year": 1907
+ },
+ "model": "gemini-flash-latest"
+}

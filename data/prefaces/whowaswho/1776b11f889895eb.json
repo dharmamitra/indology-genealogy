@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Maria Wilkins Smith",
+   "birth_year": 1884,
+   "death_year": 1973,
+   "nationality": "American",
+   "field": "Linguistics"
+  },
+  {
+   "name": "Kent",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "SMITH, Maria Wilkins – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1853,
+   "death_year": 1889
+  },
+  {
+   "name": "SMITH, Maria Wilkins",
+   "birth_year": 1884,
+   "death_year": 1973
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Maria Wilkins Smith",
+   "type": "studied_at",
+   "object": "Bryn Mawr",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1906,
+   "explicit": true,
+   "evidence": "Apparently the same M. W. Smith who studied at Bryn Mawr (1906)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Maria Wilkins Smith",
+   "type": "studied_at",
+   "object": "University of Pennsylvania",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1929,
+   "explicit": true,
+   "evidence": "passed Ph.D. 1929 at University of Pennsylvania (under Kent)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Maria Wilkins Smith",
+   "type": "student_of",
+   "object": "Kent",
+   "role": "doctoral supervisor",
+   "place": "University of Pennsylvania",
+   "year_start": null,
+   "year_end": 1929,
+   "explicit": true,
+   "evidence": "passed Ph.D. 1929 at University of Pennsylvania (under Kent)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Maria Wilkins Smith",
+   "type": "position_at",
+   "object": "Temple University",
+   "role": "Instructor, then Assistant Professor of Latin",
+   "place": "Philadelphia",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "She was Instructor, then Assistant Professor of Latin at Temple University in Philadelphia.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SMITH, Maria Wilkins",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/21541-smith-maria-wilkins.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SMITH, Maria Wilkins",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/21541/smith-maria-wilkins/",
+  "subject": "SMITH, Maria Wilkins",
+  "birth_year": 1884,
+  "death_year": 1973
+ },
+ "model": "gemini-flash-latest"
+}

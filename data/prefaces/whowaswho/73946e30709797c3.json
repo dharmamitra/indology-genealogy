@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Henry George Keene",
+   "birth_year": 1826,
+   "death_year": 1915,
+   "nationality": "British",
+   "field": "Historian"
+  },
+  {
+   "name": "H. G. Keene",
+   "birth_year": 1781,
+   "death_year": 1864,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "KEENE, Henry George (son) – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1781,
+   "death_year": 1864
+  },
+  {
+   "name": "KEENE, Henry George (son)",
+   "birth_year": 1826,
+   "death_year": 1915
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Henry George Keene",
+   "type": "other",
+   "object": "H. G. Keene",
+   "role": "son of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of the elder —> H. G. Keene (1781–1864)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry George Keene",
+   "type": "studied_at",
+   "object": "Wadham College, Oxford",
+   "role": null,
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studies at Oxford (Wadham College)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry George Keene",
+   "type": "studied_at",
+   "object": "Haileybury",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studies at Oxford (Wadham College) and Haileybury.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry George Keene",
+   "type": "position_at",
+   "object": "Calcutta University",
+   "role": "Fellow",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Fellow of Calcutta University.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: KEENE, Henry George (son)",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/16072-keene-henry-george-2.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: KEENE, Henry George (son)",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/16072/keene-henry-george-2/",
+  "subject": "KEENE, Henry George (son)",
+  "birth_year": 1826,
+  "death_year": 1915
+ },
+ "model": "gemini-flash-latest"
+}

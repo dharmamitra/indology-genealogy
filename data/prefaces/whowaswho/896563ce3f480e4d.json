@@ -1,0 +1,66 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Joseph Ammann",
+   "birth_year": 1804,
+   "death_year": 1854,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "O. Frank",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "AMMANN, Joseph",
+   "birth_year": 1804,
+   "death_year": 1854
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Joseph Ammann",
+   "type": "student_of",
+   "object": "O. Frank",
+   "role": null,
+   "place": "Munich",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Student of O. Frank at Munich.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Ammann",
+   "type": "position_at",
+   "object": "Landshut",
+   "role": "teacher",
+   "place": "Landshut",
+   "year_start": 1836,
+   "year_end": 1854,
+   "explicit": true,
+   "evidence": "From 1836 eighteen years teacher in Landshut (until death), taught religion and Hebrew.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: AMMANN, Joseph",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/243-ammann-joseph.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: AMMANN, Joseph",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/243/ammann-joseph/",
+  "subject": "AMMANN, Joseph",
+  "birth_year": 1804,
+  "death_year": 1854
+ },
+ "model": "gemini-flash-latest"
+}

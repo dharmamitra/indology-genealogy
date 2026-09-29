@@ -1,0 +1,195 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2018,
+ "people": [
+  {
+   "name": "Joseph Wright",
+   "birth_year": 1855,
+   "death_year": 1930,
+   "nationality": "British",
+   "field": "Linguist"
+  },
+  {
+   "name": "Osthoff",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Elizabeth Mary Lea",
+   "birth_year": 1863,
+   "death_year": 1958,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "J. R. R. Tolkien",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "WRIGHT, Joseph",
+   "birth_year": 1855,
+   "death_year": 1930
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Joseph Wright",
+   "type": "studied_at",
+   "object": "Heidelberg University",
+   "role": null,
+   "place": "Heidelberg",
+   "year_start": 1876,
+   "year_end": 1876,
+   "explicit": true,
+   "evidence": "in 1876 went with his modest savings to Heidelberg University for one term",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Wright",
+   "type": "studied_at",
+   "object": "Yorkshire College of Science",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "continued studies at Yorkshire College of Science (future Leeds University)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Wright",
+   "type": "studied_at",
+   "object": "Heidelberg University",
+   "role": "Ph.D.",
+   "place": "Heidelberg",
+   "year_start": 1882,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "Back in Heidelberg from 1882 he passed Ph.D. 1885 under Osthoff.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Wright",
+   "type": "student_of",
+   "object": "Osthoff",
+   "role": "doctoral supervisor",
+   "place": "Heidelberg",
+   "year_start": null,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "he passed Ph.D. 1885 under Osthoff.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Wright",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Then further studies at Leipzig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Wright",
+   "type": "position_at",
+   "object": "Oxford",
+   "role": "Lecturer",
+   "place": "Oxford",
+   "year_start": 1888,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1888 Lecturer at Oxford, under Max Müller",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Wright",
+   "type": "position_at",
+   "object": "Oxford",
+   "role": "Deputy Professor",
+   "place": "Oxford",
+   "year_start": 1891,
+   "year_end": 1901,
+   "explicit": true,
+   "evidence": "1891-1901 Deputy Professor.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Wright",
+   "type": "position_at",
+   "object": "Oxford (Corpus Christi)",
+   "role": "Professor of Comparative Philology",
+   "place": "Oxford",
+   "year_start": 1901,
+   "year_end": 1925,
+   "explicit": true,
+   "evidence": "In 1901-25 Professor of Comparative Philology at Oxford (Corpus Christi).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Wright",
+   "type": "collaborated_with",
+   "object": "Elizabeth Mary Lea",
+   "role": null,
+   "place": null,
+   "year_start": 1896,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1896 married Elizabeth Mary Lea (1863–1958), who then participated in his work",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Wright",
+   "type": "other",
+   "object": "Elizabeth Mary Lea",
+   "role": "husband",
+   "place": null,
+   "year_start": 1896,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1896 married Elizabeth Mary Lea (1863–1958)",
+   "quote_ok": true
+  },
+  {
+   "subject": "J. R. R. Tolkien",
+   "type": "student_of",
+   "object": "Joseph Wright",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among his students was J. R. R. Tolkien.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: WRIGHT, Joseph",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/11534-wright-joseph.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: WRIGHT, Joseph",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/11534/wright-joseph/",
+  "subject": "WRIGHT, Joseph",
+  "birth_year": 1855,
+  "death_year": 1930
+ },
+ "model": "gemini-flash-latest"
+}

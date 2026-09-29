@@ -1,0 +1,116 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Claude Charles Fauriel",
+   "birth_year": 1772,
+   "death_year": 1844,
+   "nationality": "French",
+   "field": "Linguist"
+  },
+  {
+   "name": "Al. Hamilton",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Chézy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Langlès",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "FAURIEL, Claude",
+   "birth_year": 1772,
+   "death_year": 1844
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Claude Charles Fauriel",
+   "type": "position_at",
+   "object": "Sorbonne",
+   "role": "Professor of Foreign Literature",
+   "place": "Paris",
+   "year_start": 1830,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "became 1830 the Professor of Foreign Literature at Sorbonne (a new chair founded for him).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Claude Charles Fauriel",
+   "type": "student_of",
+   "object": "Al. Hamilton",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Fauriel learned Sanskrit from Al. Hamilton and (later) Chézy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Claude Charles Fauriel",
+   "type": "student_of",
+   "object": "Chézy",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Fauriel learned Sanskrit from Al. Hamilton and (later) Chézy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Claude Charles Fauriel",
+   "type": "founded",
+   "object": "Société Asiatique",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was among the founders of the Société Asiatique",
+   "quote_ok": true
+  },
+  {
+   "subject": "Al. Hamilton",
+   "type": "collaborated_with",
+   "object": "Langlès",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "His manuscript notes on the Sanskrit Catalogue of Hamilton and Langlès are preserved at Bibliothèque Nationale.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: FAURIEL, Claude",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1899-fauriel-claude.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: FAURIEL, Claude",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1899/fauriel-claude/",
+  "subject": "FAURIEL, Claude",
+  "birth_year": 1772,
+  "death_year": 1844
+ },
+ "model": "gemini-flash-latest"
+}

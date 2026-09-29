@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Philip Anderson",
+   "birth_year": 1816,
+   "death_year": 1857,
+   "nationality": "British",
+   "field": "Sanskrit and History"
+  },
+  {
+   "name": "ANDERSON, Philip",
+   "birth_year": 1816,
+   "death_year": 1857
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Philip Anderson",
+   "type": "studied_at",
+   "object": "Cambridge",
+   "role": "B.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1838,
+   "explicit": true,
+   "evidence": "Studies at Cambridge (Corpus Christi College, B.A. 1838, M.A. 1849)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philip Anderson",
+   "type": "studied_at",
+   "object": "Cambridge",
+   "role": "M.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1849,
+   "explicit": true,
+   "evidence": "Studies at Cambridge (Corpus Christi College, B.A. 1838, M.A. 1849)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philip Anderson",
+   "type": "position_at",
+   "object": "R.A.S Bombay Branch",
+   "role": "Vice-President",
+   "place": "Bombay",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Vice-President of the R.A.S Bombay Branch.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ANDERSON, Philip",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/262-anderson-philip.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ANDERSON, Philip",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/262/anderson-philip/",
+  "subject": "ANDERSON, Philip",
+  "birth_year": 1816,
+  "death_year": 1857
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,85 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2022,
+ "people": [
+  {
+   "name": "Robert E. W. Iggleden",
+   "birth_year": 1913,
+   "death_year": 1981,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Sayadaw U Thittila",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Burmese",
+   "field": null
+  },
+  {
+   "name": "Claudine",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "IGGLEDEN, R. E. W",
+   "birth_year": 1913,
+   "death_year": 1981
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Robert E. W. Iggleden",
+   "type": "student_of",
+   "object": "Sayadaw U Thittila",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": 1952,
+   "explicit": true,
+   "evidence": "After WW II pupil of Sayadaw U Thittila until 1952 (when Sayadaw returned to Burma). Under him trained as a specialist of Abhidhamma",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert E. W. Iggleden",
+   "type": "position_at",
+   "object": "P.T.S.",
+   "role": "Secretary",
+   "place": null,
+   "year_start": null,
+   "year_end": 1976,
+   "explicit": true,
+   "evidence": "Secretary of the P.T.S. until 1976.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert E. W. Iggleden",
+   "type": "other",
+   "object": "Claudine",
+   "role": "spouse",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Married Claudine, who wrote a life of Thittila in 1996.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: IGGLEDEN, R. E. W",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/32341-iggleden-r-e-w.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: IGGLEDEN, R. E. W",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/32341/iggleden-r-e-w/",
+  "subject": "IGGLEDEN, R. E. W",
+  "birth_year": 1913,
+  "death_year": 1981
+ },
+ "model": "gemini-flash-latest"
+}

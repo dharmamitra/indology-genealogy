@@ -1,0 +1,80 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Francesco Adolfo Cannizzaro",
+   "birth_year": 1867,
+   "death_year": 1914,
+   "nationality": "Italian",
+   "field": "Iranian Scholar"
+  },
+  {
+   "name": "De Gubernatis",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Geldner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Panaino",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "CANNIZZARO, Francesco Adolfo",
+   "birth_year": 1867,
+   "death_year": 1914
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Francesco Adolfo Cannizzaro",
+   "type": "student_of",
+   "object": "De Gubernatis",
+   "role": "teacher",
+   "place": "Rome",
+   "year_start": 1887,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "From 1887 studied law in Rome, also attended De Gubernatis’ Sanskrit classes until 1893.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francesco Adolfo Cannizzaro",
+   "type": "studied_at",
+   "object": "University of Catania",
+   "role": "Degree in law",
+   "place": null,
+   "year_start": null,
+   "year_end": 1894,
+   "explicit": true,
+   "evidence": "Degree in law 1894 University of Catania.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: CANNIZZARO, Francesco Adolfo",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1174-cannizzaro-francesco-adolfo.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: CANNIZZARO, Francesco Adolfo",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1174/cannizzaro-francesco-adolfo/",
+  "subject": "CANNIZZARO, Francesco Adolfo",
+  "birth_year": 1867,
+  "death_year": 1914
+ },
+ "model": "gemini-flash-latest"
+}

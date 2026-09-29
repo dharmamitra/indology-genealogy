@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "James Edward Tracy",
+   "birth_year": 1850,
+   "death_year": 1923,
+   "nationality": "American",
+   "field": null
+  },
+  {
+   "name": "William Tracy",
+   "birth_year": 1807,
+   "death_year": 1877,
+   "nationality": "American",
+   "field": null
+  },
+  {
+   "name": "TRACY, James E. – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1807,
+   "death_year": 1877
+  },
+  {
+   "name": "TRACY, James E",
+   "birth_year": 1850,
+   "death_year": 1923
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Edward Tracy",
+   "type": "other",
+   "object": "William Tracy",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of Rev. William Tracy (1807–1877), of the Madura Mission",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Edward Tracy",
+   "type": "position_at",
+   "object": "American Madura Mission",
+   "role": "Missionary",
+   "place": "South India",
+   "year_start": 1877,
+   "year_end": 1923,
+   "explicit": true,
+   "evidence": "Rev. U.S. Missionary in South India... Like his father served in American Madura Mission, from 1877-1923.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Tracy",
+   "type": "position_at",
+   "object": "American Madura Mission",
+   "role": "Missionary",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Rev. William Tracy (1807–1877), of the Madura Mission",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: TRACY, James E",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/22525-tracy-james-e.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: TRACY, James E",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/22525/tracy-james-e/",
+  "subject": "TRACY, James E",
+  "birth_year": 1850,
+  "death_year": 1923
+ },
+ "model": "gemini-flash-latest"
+}

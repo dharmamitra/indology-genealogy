@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Friedrich Wilhelm Heinrich Schrader",
+   "birth_year": 1865,
+   "death_year": 1922,
+   "nationality": "German",
+   "field": "Oriental Scholar, Art Historian and Journalist"
+  },
+  {
+   "name": "Pischel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "SCHRADER, Friedrich",
+   "birth_year": 1865,
+   "death_year": 1922
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Friedrich Wilhelm Heinrich Schrader",
+   "type": "studied_at",
+   "object": "Halle",
+   "role": "Ph.D.",
+   "place": "Halle",
+   "year_start": null,
+   "year_end": 1889,
+   "explicit": true,
+   "evidence": "studies at Halle (also art history). Ph.D. 1889 Halle under Pischel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Wilhelm Heinrich Schrader",
+   "type": "student_of",
+   "object": "Pischel",
+   "role": "doctoral supervisor",
+   "place": "Halle",
+   "year_start": null,
+   "year_end": 1889,
+   "explicit": true,
+   "evidence": "Ph.D. 1889 Halle under Pischel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Wilhelm Heinrich Schrader",
+   "type": "position_at",
+   "object": "D.M.G.",
+   "role": "librarian",
+   "place": null,
+   "year_start": 1889,
+   "year_end": 1891,
+   "explicit": true,
+   "evidence": "In 1889-91 librarian of D.M.G.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SCHRADER, Friedrich",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/6157-schrader-friedrich.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SCHRADER, Friedrich",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/6157/schrader-friedrich/",
+  "subject": "SCHRADER, Friedrich",
+  "birth_year": 1865,
+  "death_year": 1922
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "William James Herschel",
+   "birth_year": 1833,
+   "death_year": 1917,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "John Herschel",
+   "birth_year": 1792,
+   "death_year": 1871,
+   "nationality": null,
+   "field": "astronomy"
+  },
+  {
+   "name": "HERSCHEL, William – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1792,
+   "death_year": 1871
+  },
+  {
+   "name": "HERSCHEL, William",
+   "birth_year": 1833,
+   "death_year": 1917
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William James Herschel",
+   "type": "other",
+   "object": "John Herschel",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of the famous astronomer John Herschel (1792–1871)",
+   "quote_ok": true
+  },
+  {
+   "subject": "William James Herschel",
+   "type": "studied_at",
+   "object": "Oxford",
+   "role": "Hon. M.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1884,
+   "explicit": true,
+   "evidence": "Hon. M.A. 1884 Oxford.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HERSCHEL, William",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/15376-herschel-william-james.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HERSCHEL, William",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/15376/herschel-william-james/",
+  "subject": "HERSCHEL, William",
+  "birth_year": 1833,
+  "death_year": 1917
+ },
+ "model": "gemini-flash-latest"
+}

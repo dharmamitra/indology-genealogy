@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "É. Huc",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "GABET, Joseph",
+   "birth_year": 1808,
+   "death_year": 1853
+  }
+ ],
+ "relations": [
+  {
+   "subject": "GABET, Joseph",
+   "type": "studied_at",
+   "object": "petit séminaire de Vaux",
+   "role": null,
+   "place": null,
+   "year_start": 1823,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "went at the age of 15 to petit séminaire de Vaux",
+   "quote_ok": true
+  },
+  {
+   "subject": "GABET, Joseph",
+   "type": "studied_at",
+   "object": "grand séminaire de S.-Claude",
+   "role": null,
+   "place": null,
+   "year_start": 1828,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "at 20 to grand séminaire de S.-Claude",
+   "quote_ok": true
+  },
+  {
+   "subject": "GABET, Joseph",
+   "type": "collaborated_with",
+   "object": "É. Huc",
+   "role": null,
+   "place": null,
+   "year_start": 1844,
+   "year_end": 1847,
+   "explicit": true,
+   "evidence": "He met —> É. Huc and agreed to make this venture together with him. In August 1844 they came to Kumbum and in January 1846 to Lhasa.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GABET, Joseph",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2149-gabet-joseph.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GABET, Joseph",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2149/gabet-joseph/",
+  "subject": "GABET, Joseph",
+  "birth_year": 1808,
+  "death_year": 1853
+ },
+ "model": "gemini-flash-latest"
+}

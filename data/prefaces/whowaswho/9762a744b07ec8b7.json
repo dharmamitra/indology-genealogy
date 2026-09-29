@@ -1,0 +1,121 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Ludwig Oster",
+   "birth_year": 1888,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Pischel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Bartholomae",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lefmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "OSTER, Ludwig – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1897,
+   "death_year": 1901
+  },
+  {
+   "name": "OSTER, Ludwig",
+   "birth_year": 1897,
+   "death_year": 1901
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ludwig Oster",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": null,
+   "year_start": 1905,
+   "year_end": 1908,
+   "explicit": true,
+   "evidence": "In 1905-08 studies at Berlin, of classical philology, linguistics and especially Indology under Pischel",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ludwig Oster",
+   "type": "student_of",
+   "object": "Pischel",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1905,
+   "year_end": 1908,
+   "explicit": true,
+   "evidence": "studies at Berlin, of classical philology, linguistics and especially Indology under Pischel",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ludwig Oster",
+   "type": "studied_at",
+   "object": "Heidelberg",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1911,
+   "explicit": true,
+   "evidence": "continued at Heidelberg under Bartholomae and Lefmann. Ph.D. 1911 Heidelberg, under Bartholomae",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ludwig Oster",
+   "type": "student_of",
+   "object": "Bartholomae",
+   "role": "doctoral supervisor",
+   "place": "Heidelberg",
+   "year_start": null,
+   "year_end": 1911,
+   "explicit": true,
+   "evidence": "continued at Heidelberg under Bartholomae and Lefmann. Ph.D. 1911 Heidelberg, under Bartholomae",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ludwig Oster",
+   "type": "student_of",
+   "object": "Lefmann",
+   "role": "teacher",
+   "place": "Heidelberg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "continued at Heidelberg under Bartholomae and Lefmann.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: OSTER, Ludwig",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4504-oster-ludwig.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: OSTER, Ludwig",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4504/oster-ludwig/",
+  "subject": "OSTER, Ludwig",
+  "birth_year": 1897,
+  "death_year": 1901
+ },
+ "model": "gemini-flash-latest"
+}

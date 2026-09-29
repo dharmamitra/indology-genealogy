@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Miloslav Krása",
+   "birth_year": 1920,
+   "death_year": 2004,
+   "nationality": "Czech",
+   "field": "Indologist"
+  },
+  {
+   "name": "Pořízka",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "KRÁSA, Miloslav – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1943,
+   "death_year": 1947
+  },
+  {
+   "name": "KRÁSA, Miloslav",
+   "birth_year": 1920,
+   "death_year": 2004
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Miloslav Krása",
+   "type": "student_of",
+   "object": "Pořízka",
+   "role": "teacher",
+   "place": "Prague",
+   "year_start": 1943,
+   "year_end": 1947,
+   "explicit": true,
+   "evidence": "Studied Hindi under Pořízka at Prague 1943-47",
+   "quote_ok": true
+  },
+  {
+   "subject": "Miloslav Krása",
+   "type": "studied_at",
+   "object": "Prague",
+   "role": null,
+   "place": "Prague",
+   "year_start": 1943,
+   "year_end": 1953,
+   "explicit": true,
+   "evidence": "Studied Hindi under Pořízka at Prague 1943-47 and in 1947-48 at Allahabad, graduated 1953.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Miloslav Krása",
+   "type": "studied_at",
+   "object": "Allahabad",
+   "role": null,
+   "place": "Allahabad",
+   "year_start": 1947,
+   "year_end": 1948,
+   "explicit": true,
+   "evidence": "and in 1947-48 at Allahabad",
+   "quote_ok": true
+  },
+  {
+   "subject": "Miloslav Krása",
+   "type": "position_at",
+   "object": "Prague",
+   "role": "teacher",
+   "place": "Prague",
+   "year_start": 1954,
+   "year_end": 1997,
+   "explicit": true,
+   "evidence": "In 1954-97 taught at Prague.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: KRÁSA, Miloslav",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/42446-krasa-miloslav.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: KRÁSA, Miloslav",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/42446/krasa-miloslav/",
+  "subject": "KRÁSA, Miloslav",
+  "birth_year": 1920,
+  "death_year": 2004
+ },
+ "model": "gemini-flash-latest"
+}

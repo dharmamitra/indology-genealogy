@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Christoph Theodosius Walther",
+   "birth_year": 1699,
+   "death_year": 1741,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "A. H. Francke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "theology"
+  },
+  {
+   "name": "WALTHER, Christoph Theodosius",
+   "birth_year": 1699,
+   "death_year": 1741
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Christoph Theodosius Walther",
+   "type": "student_of",
+   "object": "A. H. Francke",
+   "role": "teacher",
+   "place": "Halle",
+   "year_start": 1720,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied from 1720 theology under A. H. Francke at Halle",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christoph Theodosius Walther",
+   "type": "studied_at",
+   "object": "Halle",
+   "role": "theology",
+   "place": null,
+   "year_start": 1720,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied from 1720 theology under A. H. Francke at Halle",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christoph Theodosius Walther",
+   "type": "position_at",
+   "object": "Tranquebar",
+   "role": "missionary",
+   "place": "India",
+   "year_start": 1725,
+   "year_end": 1739,
+   "explicit": true,
+   "evidence": "In 1725-39 missionary in Tranquebar.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: WALTHER, Christoph Theodosius",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5374-walther-christoph-theodosius.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: WALTHER, Christoph Theodosius",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5374/walther-christoph-theodosius/",
+  "subject": "WALTHER, Christoph Theodosius",
+  "birth_year": 1699,
+  "death_year": 1741
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,85 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Richard Kühnau",
+   "birth_year": 1858,
+   "death_year": 1930,
+   "nationality": "German",
+   "field": "Indology and Folklorist"
+  },
+  {
+   "name": "Stenzler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Hillebrandt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "KÜHNAU, Richard",
+   "birth_year": 1858,
+   "death_year": 1930
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Richard Kühnau",
+   "type": "student_of",
+   "object": "Stenzler",
+   "role": "teacher",
+   "place": "Breslau",
+   "year_start": 1878,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "In 1878-85 studies of classical philology, linguistics and Indology (Stenzler & Hillebrandt) at Breslau.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Kühnau",
+   "type": "student_of",
+   "object": "Hillebrandt",
+   "role": "teacher",
+   "place": "Breslau",
+   "year_start": 1878,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "In 1878-85 studies of classical philology, linguistics and Indology (Stenzler & Hillebrandt) at Breslau.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Kühnau",
+   "type": "studied_at",
+   "object": "Breslau",
+   "role": "PhD",
+   "place": "Breslau",
+   "year_start": 1878,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "In 1878-85 studies of classical philology, linguistics and Indology (Stenzler & Hillebrandt) at Breslau. Ph.D. 1885 Breslau.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: KÜHNAU, Richard",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3620-kuhnau-richard.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: KÜHNAU, Richard",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3620/kuhnau-richard/",
+  "subject": "KÜHNAU, Richard",
+  "birth_year": 1858,
+  "death_year": 1930
+ },
+ "model": "gemini-flash-latest"
+}

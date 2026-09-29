@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John James Jones",
+   "birth_year": 1892,
+   "death_year": 1957,
+   "nationality": "British",
+   "field": "Indologist"
+  },
+  {
+   "name": "JONES, John James",
+   "birth_year": 1892,
+   "death_year": 1957
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John James Jones",
+   "type": "studied_at",
+   "object": "University College of Wales in Aberystwyth",
+   "role": "M.A.",
+   "place": "Aberystwyth",
+   "year_start": 1911,
+   "year_end": 1914,
+   "explicit": true,
+   "evidence": "studies of Classics at University College of Wales in Aberystwyth in 1911-14 (M.A.)",
+   "quote_ok": true
+  },
+  {
+   "subject": "John James Jones",
+   "type": "position_at",
+   "object": "Department of Printed Books in the National Library of Wales",
+   "role": "Assistant Keeper",
+   "place": "Aberystwyth",
+   "year_start": 1926,
+   "year_end": 1928,
+   "explicit": true,
+   "evidence": "from 1926 Assistant Keeper, 1928 Deputy-Keeper at Department of Printed Books in the National Library of Wales in Aberystwyth",
+   "quote_ok": true
+  },
+  {
+   "subject": "John James Jones",
+   "type": "position_at",
+   "object": "Department of Printed Books in the National Library of Wales",
+   "role": "Deputy-Keeper",
+   "place": "Aberystwyth",
+   "year_start": 1928,
+   "year_end": 1950,
+   "explicit": true,
+   "evidence": "1928 Deputy-Keeper at Department of Printed Books in the National Library of Wales in Aberystwyth, from 1950 Keeper and Head of the same Department",
+   "quote_ok": true
+  },
+  {
+   "subject": "John James Jones",
+   "type": "position_at",
+   "object": "Department of Printed Books in the National Library of Wales",
+   "role": "Keeper and Head",
+   "place": "Aberystwyth",
+   "year_start": 1950,
+   "year_end": 1957,
+   "explicit": true,
+   "evidence": "from 1950 Keeper and Head of the same Department. Died little before retirement.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: JONES, John James",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2844-jones-john-james.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: JONES, John James",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2844/jones-john-james/",
+  "subject": "JONES, John James",
+  "birth_year": 1892,
+  "death_year": 1957
+ },
+ "model": "gemini-flash-latest"
+}

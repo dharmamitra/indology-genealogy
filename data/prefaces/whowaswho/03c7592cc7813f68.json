@@ -1,0 +1,54 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Adolf Faust",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "IE Linguistics"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Adolf Faust",
+   "type": "studied_at",
+   "object": "Strassburg",
+   "role": "Ph.D.",
+   "place": "Strassburg",
+   "year_start": null,
+   "year_end": 1877,
+   "explicit": true,
+   "evidence": "Ph.D. 1877 Strassburg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Faust",
+   "type": "position_at",
+   "object": "Mülhausen (Mulhouse) gymnasium",
+   "role": "school-teacher (Professor)",
+   "place": "Mülhausen (Mulhouse)",
+   "year_start": 1894,
+   "year_end": 1915,
+   "explicit": false,
+   "evidence": "who in 1915 was school-teacher (Professor) in Mülhausen (Mulhouse) gymnasium. He is mentioned in Mülhausen already in 1894.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: FAUST, Adolf",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1903-faust-adolf.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: FAUST, Adolf",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1903/faust-adolf/",
+  "subject": "FAUST, Adolf",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

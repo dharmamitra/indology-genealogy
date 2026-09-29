@@ -1,0 +1,133 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Walter Neisser",
+   "birth_year": 1860,
+   "death_year": 1941,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Stenzler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Benfey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "A. Fick",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "NEISSER, Walter – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1814,
+   "death_year": 1890
+  },
+  {
+   "name": "NEISSER, Walter",
+   "birth_year": 1860,
+   "death_year": 1941
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Walter Neisser",
+   "type": "studied_at",
+   "object": "Breslau",
+   "role": null,
+   "place": "Breslau",
+   "year_start": 1877,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After matriculation from Breslau (1877) studies at Breslau (Stenzler)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Neisser",
+   "type": "student_of",
+   "object": "Stenzler",
+   "role": "teacher",
+   "place": "Breslau",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "studies at Breslau (Stenzler)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Neisser",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studies at Breslau (Stenzler) and Göttingen (Benfey).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Neisser",
+   "type": "student_of",
+   "object": "Benfey",
+   "role": "teacher",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "and Göttingen (Benfey).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Neisser",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": "PhD",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": 1882,
+   "explicit": true,
+   "evidence": "Ph.D. 1882 Göttingen (under A. Fick).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Neisser",
+   "type": "student_of",
+   "object": "A. Fick",
+   "role": "doctoral supervisor",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": 1882,
+   "explicit": true,
+   "evidence": "Ph.D. 1882 Göttingen (under A. Fick).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: NEISSER, Walter",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4354-neisser-walter.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: NEISSER, Walter",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4354/neisser-walter/",
+  "subject": "NEISSER, Walter",
+  "birth_year": 1860,
+  "death_year": 1941
+ },
+ "model": "gemini-flash-latest"
+}

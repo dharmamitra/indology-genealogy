@@ -1,0 +1,126 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Sándor Kégl",
+   "birth_year": 1862,
+   "death_year": 1920,
+   "nationality": "Hungarian",
+   "field": "Indo-Iranian Scholar"
+  },
+  {
+   "name": "Goldziher",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Vámbéry",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "KÉGL, Sándor – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1825,
+   "death_year": 1905
+  },
+  {
+   "name": "KÉGL, Sándor",
+   "birth_year": 1862,
+   "death_year": 1920
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sándor Kégl",
+   "type": "student_of",
+   "object": "Goldziher",
+   "role": "teacher",
+   "place": "Budapest",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he studied of several Oriental languages in Budapest, i.al. under Goldziher and Vámbéry",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sándor Kégl",
+   "type": "student_of",
+   "object": "Vámbéry",
+   "role": "teacher",
+   "place": "Budapest",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he studied of several Oriental languages in Budapest, i.al. under Goldziher and Vámbéry",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sándor Kégl",
+   "type": "studied_at",
+   "object": "Budapest",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1889,
+   "explicit": true,
+   "evidence": "he studied of several Oriental languages in Budapest, i.al. under Goldziher and Vámbéry ... Ph.D. 1889.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sándor Kégl",
+   "type": "position_at",
+   "object": "Budapest",
+   "role": "PD of Persian",
+   "place": null,
+   "year_start": 1893,
+   "year_end": 1904,
+   "explicit": true,
+   "evidence": "From 1893 PD of Persian at Budapest, from 1904 (or 1907) eo. Professor there.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sándor Kégl",
+   "type": "position_at",
+   "object": "Budapest",
+   "role": "eo. Professor",
+   "place": null,
+   "year_start": 1904,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1904 (or 1907) eo. Professor there.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sándor Kégl",
+   "type": "position_at",
+   "object": "Hungarian Academy of Sciences",
+   "role": "member",
+   "place": null,
+   "year_start": 1906,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1906 member of Hungarian Academy of Sciences.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: KÉGL, Sándor",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3417-kegl-sandor.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: KÉGL, Sándor",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3417/kegl-sandor/",
+  "subject": "KÉGL, Sándor",
+  "birth_year": 1862,
+  "death_year": 1920
+ },
+ "model": "gemini-flash-latest"
+}

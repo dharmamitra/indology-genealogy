@@ -1,0 +1,66 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Thomas Daniell",
+   "birth_year": 1749,
+   "death_year": 1840,
+   "nationality": "British",
+   "field": "Landscape Painter"
+  },
+  {
+   "name": "William Daniell",
+   "birth_year": 1769,
+   "death_year": 1837,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "DANIELL, Thomas",
+   "birth_year": 1749,
+   "death_year": 1840
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Thomas Daniell",
+   "type": "other",
+   "object": "William Daniell",
+   "role": "uncle of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Uncle of —> William Daniell (1769/70–1837).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Daniell",
+   "type": "collaborated_with",
+   "object": "William Daniell",
+   "role": null,
+   "place": "India",
+   "year_start": 1784,
+   "year_end": 1794,
+   "explicit": true,
+   "evidence": "Was in India painting for ten years, from 1784, with his nephew… and published his pictures",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: DANIELL, Thomas",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1474-daniell-thomas.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: DANIELL, Thomas",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1474/daniell-thomas/",
+  "subject": "DANIELL, Thomas",
+  "birth_year": 1749,
+  "death_year": 1840
+ },
+ "model": "gemini-flash-latest"
+}

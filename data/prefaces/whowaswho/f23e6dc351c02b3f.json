@@ -1,0 +1,73 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Alex Henderson Young",
+   "birth_year": null,
+   "death_year": 1916,
+   "nationality": "Scottish",
+   "field": null
+  },
+  {
+   "name": "John Young",
+   "birth_year": null,
+   "death_year": 1917,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Alex Henderson Young",
+   "type": "position_at",
+   "object": "English school in Cuttack",
+   "role": "Headmaster",
+   "place": "Cuttack",
+   "year_start": 1882,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "came to Orissa in 1882. Headmaster of the English school in Cuttack (Katak) later known as Stewart School. In this he was succeeded by his younger brother John Young (d. 1917) in 1885",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Young",
+   "type": "succeeded",
+   "object": "Alex Henderson Young",
+   "role": "Headmaster",
+   "place": "English school in Cuttack",
+   "year_start": 1885,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Headmaster of the English school in Cuttack (Katak) later known as Stewart School. In this he was succeeded by his younger brother John Young (d. 1917) in 1885",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Young",
+   "type": "other",
+   "object": "Alex Henderson Young",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In this he was succeeded by his younger brother John Young (d. 1917) in 1885",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: YOUNG, Alex Henderson",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/23683-young-alex-henderson.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: YOUNG, Alex Henderson",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/23683/young-alex-henderson/",
+  "subject": "YOUNG, Alex Henderson",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

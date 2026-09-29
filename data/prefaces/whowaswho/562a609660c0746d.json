@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Robert Paget Dewhurst",
+   "birth_year": 1869,
+   "death_year": 1935,
+   "nationality": "British",
+   "field": "Indology"
+  },
+  {
+   "name": "H. W. Bailey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "DEWHURST, Robert P",
+   "birth_year": 1869,
+   "death_year": 1935
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Robert Paget Dewhurst",
+   "type": "studied_at",
+   "object": "Oxford",
+   "role": "M.A.",
+   "place": null,
+   "year_start": 1888,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studies from 1888 at Oxford (Balliol College, M.A.)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Paget Dewhurst",
+   "type": "position_at",
+   "object": "Oxford",
+   "role": "University Lecturer in Hindustani",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he was University Lecturer in Hindustani at Oxford (1924 there)",
+   "quote_ok": true
+  },
+  {
+   "subject": "H. W. Bailey",
+   "type": "student_of",
+   "object": "Robert Paget Dewhurst",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "taught even Avestan (to H. W. Bailey)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: DEWHURST, Robert P",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1576-dewhurst-robert-paget.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: DEWHURST, Robert P",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1576/dewhurst-robert-paget/",
+  "subject": "DEWHURST, Robert P",
+  "birth_year": 1869,
+  "death_year": 1935
+ },
+ "model": "gemini-flash-latest"
+}

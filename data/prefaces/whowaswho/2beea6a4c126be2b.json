@@ -1,0 +1,97 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Aleksandr Ivanovič Tomson",
+   "birth_year": 1864,
+   "death_year": 1935,
+   "nationality": "Russian",
+   "field": "Linguist"
+  },
+  {
+   "name": "Fortunatov",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Korsch",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "TOMSON, Aleksandr Ivanovič",
+   "birth_year": 1864,
+   "death_year": 1935
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Aleksandr Ivanovič Tomson",
+   "type": "studied_at",
+   "object": "St.Petersburg",
+   "role": null,
+   "place": null,
+   "year_start": 1882,
+   "year_end": 1887,
+   "explicit": true,
+   "evidence": "From 1882 studies at St.Petersburg, graduated 1887.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Aleksandr Ivanovič Tomson",
+   "type": "student_of",
+   "object": "Fortunatov",
+   "role": "teacher",
+   "place": "Moscow",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Further studies in Moscow, under Fortunatov and Korsch",
+   "quote_ok": true
+  },
+  {
+   "subject": "Aleksandr Ivanovič Tomson",
+   "type": "student_of",
+   "object": "Korsch",
+   "role": "teacher",
+   "place": "Moscow",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Further studies in Moscow, under Fortunatov and Korsch",
+   "quote_ok": true
+  },
+  {
+   "subject": "Aleksandr Ivanovič Tomson",
+   "type": "position_at",
+   "object": "Novorossijskij University in Odessa",
+   "role": "ord. Professor of IE Linguistics and Sanskrit",
+   "place": "Odessa",
+   "year_start": 1897,
+   "year_end": 1932,
+   "explicit": true,
+   "evidence": "From 1897 ord. Professor of IE Linguistics and Sanskrit at Novorossijskij University in Odessa, until 1932.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: TOMSON, Aleksandr Ivanovič",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5038-tomson-a-i.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: TOMSON, Aleksandr Ivanovič",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5038/tomson-a-i/",
+  "subject": "TOMSON, Aleksandr Ivanovič",
+  "birth_year": 1864,
+  "death_year": 1935
+ },
+ "model": "gemini-flash-latest"
+}

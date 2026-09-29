@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Edward Stack",
+   "birth_year": 1850,
+   "death_year": 1887,
+   "nationality": "British (Irish)",
+   "field": null
+  },
+  {
+   "name": "STACK, Edward",
+   "birth_year": 1850,
+   "death_year": 1887
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Edward Stack",
+   "type": "studied_at",
+   "object": "Queen’s University",
+   "role": "M.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied at Queen’s University, M.A.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Stack",
+   "type": "position_at",
+   "object": "I.C.S.",
+   "role": "Civil Servant",
+   "place": "India",
+   "year_start": 1872,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "British (Irish) Civil Servant in India . Studied at Queen’s University, M.A. Joined I.C.S. 1872",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Stack",
+   "type": "position_at",
+   "object": "Director of Land Records and Agriculture in Assam",
+   "role": "Director",
+   "place": "Assam",
+   "year_start": 1882,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1882 the first Director of Land Records and Agriculture in Assam.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: STACK, Edward",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/55750-stack-edward.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: STACK, Edward",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/55750/stack-edward/",
+  "subject": "STACK, Edward",
+  "birth_year": 1850,
+  "death_year": 1887
+ },
+ "model": "gemini-flash-latest"
+}

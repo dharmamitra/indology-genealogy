@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Frederik Adolph de Roepstorff",
+   "birth_year": 1842,
+   "death_year": 1883,
+   "nationality": "Danish",
+   "field": null
+  },
+  {
+   "name": "Hedevig Christiane Willemoës",
+   "birth_year": 1843,
+   "death_year": 1896,
+   "nationality": "Danish",
+   "field": null
+  },
+  {
+   "name": "ROEPSTORFF, Frederik Adolph de – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1819,
+   "death_year": 1881
+  },
+  {
+   "name": "ROEPSTORFF, Frederik Adolph de",
+   "birth_year": 1842,
+   "death_year": 1883
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Frederik Adolph de Roepstorff",
+   "type": "studied_at",
+   "object": "Horsens Statsskole",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1863,
+   "explicit": true,
+   "evidence": "Educated in Copenhagen, first as sea cadet, then at Horsens Statsskole, graduated 1863.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hedevig Christiane Willemoës",
+   "type": "collaborated_with",
+   "object": "Frederik Adolph de Roepstorff",
+   "role": "participated in her husband’s studies",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "married Hedevig Christiane Willemoës (1843–1896), a missionary, who then continued her mission work and participated in her husband’s studies.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Frederik Adolph de Roepstorff",
+   "type": "other",
+   "object": "Hedevig Christiane Willemoës",
+   "role": "spouse",
+   "place": "Denmark",
+   "year_start": 1871,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "On a furlough in Denmark 1871 married Hedevig Christiane Willemoës (1843–1896), a missionary",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ROEPSTORFF, Frederik Adolph de",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/35977-roepstorff-frederik-adolph-de.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ROEPSTORFF, Frederik Adolph de",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/35977/roepstorff-frederik-adolph-de/",
+  "subject": "ROEPSTORFF, Frederik Adolph de",
+  "birth_year": 1842,
+  "death_year": 1883
+ },
+ "model": "gemini-flash-latest"
+}

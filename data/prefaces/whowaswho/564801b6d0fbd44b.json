@@ -1,0 +1,109 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Herbert Müller",
+   "birth_year": 1885,
+   "death_year": 1966,
+   "nationality": "German",
+   "field": "Sinology"
+  },
+  {
+   "name": "W. Grube",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sinology"
+  },
+  {
+   "name": "F. W. K. Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "MÜLLER, Herbert",
+   "birth_year": 1885,
+   "death_year": 1966
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Herbert Müller",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Law studies at Berlin, Kiel and Bonn, also linguistics and ethnology.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Herbert Müller",
+   "type": "studied_at",
+   "object": "Kiel",
+   "role": null,
+   "place": "Kiel",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Law studies at Berlin, Kiel and Bonn, also linguistics and ethnology.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Herbert Müller",
+   "type": "studied_at",
+   "object": "Bonn",
+   "role": "Dr.jur.",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": 1909,
+   "explicit": true,
+   "evidence": "Law studies at Berlin, Kiel and Bonn, also linguistics and ethnology. Dr.jur. 1909 Bonn, with Indian theme.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Herbert Müller",
+   "type": "student_of",
+   "object": "W. Grube",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Also studied Chinese under W. Grube.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Herbert Müller",
+   "type": "position_at",
+   "object": "Berlin Völkerkundemuseum",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Employed by Berlin Völkerkundemuseum under F. W. K. Müller he was sent in 1912 to China to collect archaeological and ethnographical objects.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MÜLLER, Herbert",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4308-muller-herbert.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MÜLLER, Herbert",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4308/muller-herbert/",
+  "subject": "MÜLLER, Herbert",
+  "birth_year": 1885,
+  "death_year": 1966
+ },
+ "model": "gemini-flash-latest"
+}

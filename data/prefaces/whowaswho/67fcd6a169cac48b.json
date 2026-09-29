@@ -1,0 +1,150 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Boller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Pavolini",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "TEZA, Emilio",
+   "birth_year": 1831,
+   "death_year": 1912
+  }
+ ],
+ "relations": [
+  {
+   "subject": "TEZA, Emilio",
+   "type": "studied_at",
+   "object": "Padua",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Padua",
+   "quote_ok": true
+  },
+  {
+   "subject": "TEZA, Emilio",
+   "type": "studied_at",
+   "object": "Vienna",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then at Vienna Greek, Slavistics and Hungarian, also Sanskrit under Boller",
+   "quote_ok": true
+  },
+  {
+   "subject": "TEZA, Emilio",
+   "type": "student_of",
+   "object": "Boller",
+   "role": "teacher",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "also Sanskrit under Boller",
+   "quote_ok": true
+  },
+  {
+   "subject": "TEZA, Emilio",
+   "type": "position_at",
+   "object": "Marciana",
+   "role": "librarian",
+   "place": "Venice",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Back in Italy worked as librarian in Marciana (Venice) and Laurenziana (Florence).",
+   "quote_ok": true
+  },
+  {
+   "subject": "TEZA, Emilio",
+   "type": "position_at",
+   "object": "Laurenziana",
+   "role": "librarian",
+   "place": "Florence",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Back in Italy worked as librarian in Marciana (Venice) and Laurenziana (Florence).",
+   "quote_ok": true
+  },
+  {
+   "subject": "TEZA, Emilio",
+   "type": "position_at",
+   "object": "Bologna",
+   "role": "Professore di letterature moderne comparate",
+   "place": null,
+   "year_start": 1860,
+   "year_end": 1866,
+   "explicit": true,
+   "evidence": "In 1860-66 Professore di letterature moderne comparate at Bologna (taught Sanskrit, too).",
+   "quote_ok": true
+  },
+  {
+   "subject": "TEZA, Emilio",
+   "type": "position_at",
+   "object": "Pisa",
+   "role": "Professor of Sanskrit (di sanscrito e storiaco-comparata delle lingue classiche)",
+   "place": null,
+   "year_start": 1866,
+   "year_end": 1889,
+   "explicit": true,
+   "evidence": "In 1866-89 Professor of Sanskrit (di sanscrito e storiaco-comparata delle lingue classiche) at Pisa",
+   "quote_ok": true
+  },
+  {
+   "subject": "TEZA, Emilio",
+   "type": "position_at",
+   "object": "Padua",
+   "role": "Professor of Sanskrit",
+   "place": null,
+   "year_start": 1889,
+   "year_end": 1912,
+   "explicit": true,
+   "evidence": "and in 1889-1912 at Padua.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pavolini",
+   "type": "student_of",
+   "object": "TEZA, Emilio",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among his students was Pavolini.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: TEZA, Emilio",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4968-teza-emilio.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: TEZA, Emilio",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4968/teza-emilio/",
+  "subject": "TEZA, Emilio",
+  "birth_year": 1831,
+  "death_year": 1912
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,92 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "D. Forbes",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gilchrist",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rammohan Ray",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ARNOT, Sandford",
+   "type": "position_at",
+   "object": "Oriental Institute in London",
+   "role": "teacher of Hindustani",
+   "place": "London",
+   "year_start": 1826,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he succeeded Gilchrist as the teacher of Hindustani at Oriental Institute in London in 1826.",
+   "quote_ok": true
+  },
+  {
+   "subject": "ARNOT, Sandford",
+   "type": "succeeded",
+   "object": "Gilchrist",
+   "role": "teacher of Hindustani",
+   "place": "Oriental Institute in London",
+   "year_start": 1826,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Assisted by D. Forbes, he succeeded Gilchrist as the teacher of Hindustani at Oriental Institute in London in 1826.",
+   "quote_ok": true
+  },
+  {
+   "subject": "ARNOT, Sandford",
+   "type": "collaborated_with",
+   "object": "D. Forbes",
+   "role": null,
+   "place": null,
+   "year_start": 1826,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Assisted by D. Forbes, he succeeded Gilchrist as the teacher of Hindustani at Oriental Institute in London in 1826.",
+   "quote_ok": true
+  },
+  {
+   "subject": "ARNOT, Sandford",
+   "type": "collaborated_with",
+   "object": "Rammohan Ray",
+   "role": "secretary",
+   "place": "U.K.",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Associated with Rammohan Ray, acting as his secretary during his visit to U.K.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ARNOT, Sandford",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/331-arnot-sandford.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ARNOT, Sandford",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/331/arnot-sandford/",
+  "subject": "ARNOT, Sandford",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

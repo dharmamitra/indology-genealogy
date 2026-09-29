@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Hugh Nevill",
+   "birth_year": 1847,
+   "death_year": 1897,
+   "nationality": "British",
+   "field": "Sinhalese studies"
+  },
+  {
+   "name": "Geoffrey Nevill",
+   "birth_year": 1843,
+   "death_year": 1885,
+   "nationality": null,
+   "field": "malacology"
+  },
+  {
+   "name": "NEVILL, Hugh – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1808,
+   "death_year": 1874
+  },
+  {
+   "name": "NEVILL, Hugh",
+   "birth_year": 1847,
+   "death_year": 1897
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Geoffrey Nevill",
+   "type": "position_at",
+   "object": "Indian Museum, Calcutta",
+   "role": null,
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "elder brother Geoffrey (1843–1885, in Indian Museum, Calcutta)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hugh Nevill",
+   "type": "other",
+   "object": "Geoffrey Nevill",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Also interested in malacology, together with his elder brother Geoffrey (1843–1885, in Indian Museum, Calcutta).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: NEVILL, Hugh",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4366-nevill-hugh.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: NEVILL, Hugh",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4366/nevill-hugh/",
+  "subject": "NEVILL, Hugh",
+  "birth_year": 1847,
+  "death_year": 1897
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Johann Gottlob Würth",
+   "birth_year": 1820,
+   "death_year": 1869,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "WÜRTH, Gottlob",
+   "birth_year": 1820,
+   "death_year": 1869
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johann Gottlob Würth",
+   "type": "studied_at",
+   "object": "Basel",
+   "role": "missionary training",
+   "place": "Basel",
+   "year_start": 1840,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1840 was trained as missionary in Basel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottlob Würth",
+   "type": "position_at",
+   "object": "Basel Mission",
+   "role": "missionary",
+   "place": "India",
+   "year_start": 1845,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Joined the Basel Mission and arrived in India in 1845.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Gottlob Würth",
+   "type": "position_at",
+   "object": "Mangalore Seminary",
+   "role": null,
+   "place": "Mangalore",
+   "year_start": 1850,
+   "year_end": 1852,
+   "explicit": true,
+   "evidence": "Worked in Hubli, in 1850-52 at Mangalore Seminary, then in Bettigeri (Coorg).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: WÜRTH, Gottlob",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5570-wurth-g.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: WÜRTH, Gottlob",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5570/wurth-g/",
+  "subject": "WÜRTH, Gottlob",
+  "birth_year": 1820,
+  "death_year": 1869
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,73 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Jack Austin",
+   "birth_year": 1917,
+   "death_year": 1993,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Edwin Arnold",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Christmas Humhreys",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "AUSTIN, Jack",
+   "birth_year": 1917,
+   "death_year": 1993
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jack Austin",
+   "type": "influenced_by",
+   "object": "Edwin Arnold",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Reading of Edwin Arnold turned him into Buddhism.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jack Austin",
+   "type": "other",
+   "object": "Christmas Humhreys",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Friend of Christmas Humhreys.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: AUSTIN, Jack",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/57326-austin-jack.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: AUSTIN, Jack",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/57326/austin-jack/",
+  "subject": "AUSTIN, Jack",
+  "birth_year": 1917,
+  "death_year": 1993
+ },
+ "model": "gemini-flash-latest"
+}

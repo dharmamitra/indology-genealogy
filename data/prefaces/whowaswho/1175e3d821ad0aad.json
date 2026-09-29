@@ -1,0 +1,138 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John Muir",
+   "birth_year": 1810,
+   "death_year": 1882,
+   "nationality": "British",
+   "field": "Indologist"
+  },
+  {
+   "name": "Sir William Muir",
+   "birth_year": 1819,
+   "death_year": 1905,
+   "nationality": "British",
+   "field": "scholar of Arabic and Islam"
+  },
+  {
+   "name": "Theodor Aufrecht",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "MUIR, John – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1783,
+   "death_year": 1820
+  },
+  {
+   "name": "MUIR, John",
+   "birth_year": 1810,
+   "death_year": 1882
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Muir",
+   "type": "other",
+   "object": "Sir William Muir",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "elder brother of Sir William Muir (1819–1905) who also served in India and was a well-known scholar of Arabic and Islam",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Muir",
+   "type": "studied_at",
+   "object": "Glasgow University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then studies at Glasgow University and Haileybury",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Muir",
+   "type": "studied_at",
+   "object": "Haileybury",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then studies at Glasgow University and Haileybury",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Muir",
+   "type": "studied_at",
+   "object": "College of Fort William",
+   "role": null,
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After College of Fort William in Calcutta served in North-West Province",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Muir",
+   "type": "position_at",
+   "object": "Queen’s College (Sanskrit College) in Benares",
+   "role": "Principal",
+   "place": "Benares",
+   "year_start": 1844,
+   "year_end": 1845,
+   "explicit": true,
+   "evidence": "From 1844 the first Principal of Queen’s College (Sanskrit College) in Benares, for one year only",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Muir",
+   "type": "founded",
+   "object": "Sanskrit chair at Edinburgh",
+   "role": null,
+   "place": "Edinburgh",
+   "year_start": 1862,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1862 caused the establishment of the Sanskrit chair at Edinburgh",
+   "quote_ok": true
+  },
+  {
+   "subject": "Theodor Aufrecht",
+   "type": "position_at",
+   "object": "University of Edinburgh",
+   "role": "Sanskrit chair",
+   "place": "Edinburgh",
+   "year_start": 1862,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1862 caused the establishment of the Sanskrit chair at Edinburgh (as he was not himself interested the chair was then given to Aufrecht).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MUIR, John",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4320-muir-john.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MUIR, John",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4320/muir-john/",
+  "subject": "MUIR, John",
+  "birth_year": 1810,
+  "death_year": 1882
+ },
+ "model": "gemini-flash-latest"
+}

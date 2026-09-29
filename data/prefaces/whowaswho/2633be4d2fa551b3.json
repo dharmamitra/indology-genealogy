@@ -1,0 +1,90 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John Hutchison",
+   "birth_year": 1848,
+   "death_year": 1936,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Vogel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "M. A. Stein",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "HUTCHISON, John – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1871,
+   "death_year": null
+  },
+  {
+   "name": "HUTCHISON, John",
+   "birth_year": 1848,
+   "death_year": 1936
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Hutchison",
+   "type": "studied_at",
+   "object": "Edinburgh",
+   "role": "medicine",
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": 1871,
+   "explicit": true,
+   "evidence": "Studied medicine in Edinburgh. Medical missionary of the Church of Scotland in the Punjab. Graduated in 1871",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Hutchison",
+   "type": "collaborated_with",
+   "object": "Vogel",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Collaborated with Vogel and M. A. Stein.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Hutchison",
+   "type": "collaborated_with",
+   "object": "M. A. Stein",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Collaborated with Vogel and M. A. Stein.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HUTCHISON, John",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3182-hutchison-john.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HUTCHISON, John",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3182/hutchison-john/",
+  "subject": "HUTCHISON, John",
+  "birth_year": 1848,
+  "death_year": 1936
+ },
+ "model": "gemini-flash-latest"
+}

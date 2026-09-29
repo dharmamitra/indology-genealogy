@@ -1,0 +1,131 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "O. Frank",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "MÜLLER, Marcus Joseph",
+   "birth_year": 1809,
+   "death_year": 1874
+  }
+ ],
+ "relations": [
+  {
+   "subject": "MÜLLER, Marcus Joseph",
+   "type": "student_of",
+   "object": "O. Frank",
+   "role": "teacher",
+   "place": "Munich",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Munich, i.al. under O. Frank",
+   "quote_ok": true
+  },
+  {
+   "subject": "MÜLLER, Marcus Joseph",
+   "type": "studied_at",
+   "object": "Munich",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Munich, i.al. under O. Frank",
+   "quote_ok": true
+  },
+  {
+   "subject": "MÜLLER, Marcus Joseph",
+   "type": "studied_at",
+   "object": "Leiden",
+   "role": null,
+   "place": null,
+   "year_start": 1833,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Further studies in Leiden and Paris from 1833",
+   "quote_ok": true
+  },
+  {
+   "subject": "MÜLLER, Marcus Joseph",
+   "type": "studied_at",
+   "object": "Paris",
+   "role": null,
+   "place": null,
+   "year_start": 1833,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Further studies in Leiden and Paris from 1833",
+   "quote_ok": true
+  },
+  {
+   "subject": "MÜLLER, Marcus Joseph",
+   "type": "position_at",
+   "object": "Munich",
+   "role": "ao. Professor “für Nichtbiblische Orientalische Literatur”",
+   "place": "Munich",
+   "year_start": 1840,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1840 ao. Professor “für Nichtbiblische Orientalische Literatur” at Munich",
+   "quote_ok": true
+  },
+  {
+   "subject": "MÜLLER, Marcus Joseph",
+   "type": "succeeded",
+   "object": "O. Frank",
+   "role": null,
+   "place": "Munich",
+   "year_start": 1840,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "at Munich (succeeding O. Frank)",
+   "quote_ok": true
+  },
+  {
+   "subject": "MÜLLER, Marcus Joseph",
+   "type": "position_at",
+   "object": "Bavarian Academy",
+   "role": "member",
+   "place": null,
+   "year_start": 1841,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1841 member of Bavarian Academy",
+   "quote_ok": true
+  },
+  {
+   "subject": "MÜLLER, Marcus Joseph",
+   "type": "position_at",
+   "object": "Munich",
+   "role": "ord. Professor of Non-Biblical Oriental Literature",
+   "place": "Munich",
+   "year_start": 1847,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1847 ord. Professor of Non-Biblical Oriental Literature at Munich",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MÜLLER, Marcus Joseph",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4312-muller-marcus-joseph.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MÜLLER, Marcus Joseph",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4312/muller-marcus-joseph/",
+  "subject": "MÜLLER, Marcus Joseph",
+  "birth_year": 1809,
+  "death_year": 1874
+ },
+ "model": "gemini-flash-latest"
+}

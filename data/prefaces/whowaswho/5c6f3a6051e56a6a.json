@@ -1,0 +1,97 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Christine Henriëtte Raabe",
+   "birth_year": 1878,
+   "death_year": 1959,
+   "nationality": "Dutch",
+   "field": "Indology"
+  },
+  {
+   "name": "Gallée",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Caland",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "RAABE, Christine Henriette",
+   "birth_year": 1878,
+   "death_year": 1959
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Christine Henriëtte Raabe",
+   "type": "student_of",
+   "object": "Gallée",
+   "role": "teacher",
+   "place": "Utrecht",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies under Gallée at Utrecht.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christine Henriëtte Raabe",
+   "type": "studied_at",
+   "object": "Utrecht",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies under Gallée at Utrecht.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christine Henriëtte Raabe",
+   "type": "student_of",
+   "object": "Caland",
+   "role": "doctoral supervisor",
+   "place": "Utrecht",
+   "year_start": null,
+   "year_end": 1911,
+   "explicit": true,
+   "evidence": "Ph.D. 1911 Utrecht (under Caland).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Christine Henriëtte Raabe",
+   "type": "studied_at",
+   "object": "Utrecht",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1911,
+   "explicit": true,
+   "evidence": "Ph.D. 1911 Utrecht (under Caland).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: RAABE, Christine Henriette",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5114-raabe-christine-henriette.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: RAABE, Christine Henriette",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5114/raabe-christine-henriette/",
+  "subject": "RAABE, Christine Henriette",
+  "birth_year": 1878,
+  "death_year": 1959
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,104 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Frederick John Richards",
+   "birth_year": 1875,
+   "death_year": null,
+   "nationality": "British",
+   "field": "Archaeology"
+  },
+  {
+   "name": "Tabard",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sankalia",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Frederick John Richards",
+   "type": "studied_at",
+   "object": "Oxford (Exeter College)",
+   "role": "B.A. 1897, M.A. 1902",
+   "place": null,
+   "year_start": 1893,
+   "year_end": 1902,
+   "explicit": true,
+   "evidence": "From 1893 studies at Oxford (Exeter College, B.A. 1897, M.A.  1902).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Frederick John Richards",
+   "type": "founded",
+   "object": "Mythic Society",
+   "role": null,
+   "place": "Bangalore",
+   "year_start": 1909,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "As Collector of Bangalore (1909-13) he founded with Tabard in 1909 the Mythic Society.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Tabard",
+   "type": "founded",
+   "object": "Mythic Society",
+   "role": null,
+   "place": "Bangalore",
+   "year_start": 1909,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he founded with Tabard in 1909 the Mythic Society.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Frederick John Richards",
+   "type": "position_at",
+   "object": "S.O.A.S.",
+   "role": "Lecturer in Indian Archaeology",
+   "place": null,
+   "year_start": 1934,
+   "year_end": 1934,
+   "explicit": true,
+   "evidence": "In retirement Lecturer in Indian Archaeology at S.O.A.S. (1934).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sankalia",
+   "type": "student_of",
+   "object": "Frederick John Richards",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among his students was Sankalia.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: RICHARDS, Frederick John",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/20513-richards-frederick-john.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: RICHARDS, Frederick John",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/20513/richards-frederick-john/",
+  "subject": "RICHARDS, Frederick John",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,61 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Alfred Geiger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Austrian",
+   "field": null
+  },
+  {
+   "name": "Othmar Spann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philosopher"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Alfred Geiger",
+   "type": "student_of",
+   "object": "Othmar Spann",
+   "role": "doctoral supervisor",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": 1934,
+   "explicit": true,
+   "evidence": "Ph.D. 1934, student of philosopher Othmar Spann at Vienna.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred Geiger",
+   "type": "studied_at",
+   "object": "Vienna",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 1934,
+   "explicit": true,
+   "evidence": "Ph.D. 1934, student of philosopher Othmar Spann at Vienna.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GEIGER, Alfred",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/30153-geiger-alfred.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GEIGER, Alfred",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/30153/geiger-alfred/",
+  "subject": "GEIGER, Alfred",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

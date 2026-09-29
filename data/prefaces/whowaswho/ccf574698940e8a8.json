@@ -1,0 +1,147 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Emil Baer",
+   "birth_year": 1884,
+   "death_year": 1945,
+   "nationality": "Swiss",
+   "field": "Indology"
+  },
+  {
+   "name": "Kaegi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hausheer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Schwyzer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "linguistics"
+  },
+  {
+   "name": "Abegg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "BAER, Emil",
+   "birth_year": 1884,
+   "death_year": 1945
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Emil Baer",
+   "type": "studied_at",
+   "object": "Zürich",
+   "role": null,
+   "place": "Zürich",
+   "year_start": 1906,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1906 studies at Zürich: theology, classical languages, Arabic and Sanskrit",
+   "quote_ok": true
+  },
+  {
+   "subject": "Emil Baer",
+   "type": "student_of",
+   "object": "Kaegi",
+   "role": "teacher",
+   "place": "Zürich",
+   "year_start": 1906,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1906 studies at Zürich: theology, classical languages, Arabic and Sanskrit (under Kaegi and Hausheer)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Emil Baer",
+   "type": "student_of",
+   "object": "Hausheer",
+   "role": "teacher",
+   "place": "Zürich",
+   "year_start": 1906,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1906 studies at Zürich: theology, classical languages, Arabic and Sanskrit (under Kaegi and Hausheer)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Emil Baer",
+   "type": "studied_at",
+   "object": "Basel",
+   "role": null,
+   "place": "Basel",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Further studies of theology at Basel",
+   "quote_ok": true
+  },
+  {
+   "subject": "Emil Baer",
+   "type": "student_of",
+   "object": "Schwyzer",
+   "role": "teacher",
+   "place": "Zürich",
+   "year_start": 1921,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Now again took Indology and linguistics, mainly under Schwyzer and Abegg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Emil Baer",
+   "type": "student_of",
+   "object": "Abegg",
+   "role": "teacher",
+   "place": "Zürich",
+   "year_start": 1921,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Now again took Indology and linguistics, mainly under Schwyzer and Abegg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Emil Baer",
+   "type": "studied_at",
+   "object": "Zürich",
+   "role": "PhD",
+   "place": "Zürich",
+   "year_start": null,
+   "year_end": 1924,
+   "explicit": true,
+   "evidence": "Ph.D. 1924 Zürich.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BAER, Emil",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/462-baer-emil.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BAER, Emil",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/462/baer-emil/",
+  "subject": "BAER, Emil",
+  "birth_year": 1884,
+  "death_year": 1945
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,107 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Macdonell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Farquhar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "RAWSON, Joseph Nadin – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1856,
+   "death_year": 1940
+  },
+  {
+   "name": "RAWSON, Joseph Nadin",
+   "birth_year": 1880,
+   "death_year": 1940
+  }
+ ],
+ "relations": [
+  {
+   "subject": "RAWSON, Joseph Nadin",
+   "type": "student_of",
+   "object": "Macdonell",
+   "role": "teacher",
+   "place": "Oxford (Jesus College)",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Student of Macdonell and Farquhar at Oxford (Jesus College).",
+   "quote_ok": true
+  },
+  {
+   "subject": "RAWSON, Joseph Nadin",
+   "type": "student_of",
+   "object": "Farquhar",
+   "role": "teacher",
+   "place": "Oxford (Jesus College)",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Student of Macdonell and Farquhar at Oxford (Jesus College).",
+   "quote_ok": true
+  },
+  {
+   "subject": "RAWSON, Joseph Nadin",
+   "type": "studied_at",
+   "object": "Oxford (Jesus College)",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Student of Macdonell and Farquhar at Oxford (Jesus College).",
+   "quote_ok": true
+  },
+  {
+   "subject": "RAWSON, Joseph Nadin",
+   "type": "position_at",
+   "object": "Serampore College",
+   "role": "Professor of History of Religions and Philosophy of Religion",
+   "place": null,
+   "year_start": 1934,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor of History of Religions and Philosophy of Religion at Serampore College (1934 there).",
+   "quote_ok": true
+  },
+  {
+   "subject": "RAWSON, Joseph Nadin",
+   "type": "position_at",
+   "object": "Calcutta University",
+   "role": "Fellow",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Fellow of Calcutta University.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: RAWSON, Joseph Nadin",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/9478-rawson-joseph-nadin.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: RAWSON, Joseph Nadin",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/9478/rawson-joseph-nadin/",
+  "subject": "RAWSON, Joseph Nadin",
+  "birth_year": 1880,
+  "death_year": 1940
+ },
+ "model": "gemini-flash-latest"
+}

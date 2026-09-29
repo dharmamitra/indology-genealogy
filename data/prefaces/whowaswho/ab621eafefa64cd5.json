@@ -1,0 +1,73 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Guillaume-Joseph-Hyacinthe-Jean-Baptiste Le Gentil de la Galaisière",
+   "birth_year": 1725,
+   "death_year": 1792,
+   "nationality": "French",
+   "field": "Astronomer and Traveller"
+  },
+  {
+   "name": "Maridas Poullé",
+   "birth_year": 1721,
+   "death_year": 1796,
+   "nationality": "Indian",
+   "field": "interpreter and scholar"
+  },
+  {
+   "name": "Anquetil Duperron",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "LE GENTIL, J. J. B",
+   "birth_year": 1725,
+   "death_year": 1792
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Guillaume-Joseph-Hyacinthe-Jean-Baptiste Le Gentil de la Galaisière",
+   "type": "collaborated_with",
+   "object": "Maridas Poullé",
+   "role": "helped by",
+   "place": "Pondichéry",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In Pondichéry Le Gentil was much helped by the Indian interpreter and scholar Maridas Poullé (Pillai, 1721?–1796).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Guillaume-Joseph-Hyacinthe-Jean-Baptiste Le Gentil de la Galaisière",
+   "type": "other",
+   "object": "Anquetil Duperron",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then translated into Latin by his friend Anquetil Duperron.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: LE GENTIL, J. J. B",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3733-le-gentil-de-la-galaissiere.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: LE GENTIL, J. J. B",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3733/le-gentil-de-la-galaissiere/",
+  "subject": "LE GENTIL, J. J. B",
+  "birth_year": 1725,
+  "death_year": 1792
+ },
+ "model": "gemini-flash-latest"
+}

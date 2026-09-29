@@ -1,0 +1,97 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Friedrich Krefter",
+   "birth_year": 1898,
+   "death_year": 1995,
+   "nationality": "German",
+   "field": "Architect and Archaeologist"
+  },
+  {
+   "name": "Herzfeld",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "E. F. Schmidt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "KREFTER, Friedrich",
+   "birth_year": 1898,
+   "death_year": 1995
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Friedrich Krefter",
+   "type": "student_of",
+   "object": "Herzfeld",
+   "role": "Assistant",
+   "place": null,
+   "year_start": 1923,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "soon (1923) Herzfeld’s Assistant",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Krefter",
+   "type": "collaborated_with",
+   "object": "Herzfeld",
+   "role": null,
+   "place": null,
+   "year_start": 1928,
+   "year_end": 1935,
+   "explicit": true,
+   "evidence": "In 1928 to Iran with Herzfeld, participated in his excavations of Pasargadae. In 1931-35 excavated Persepolis with Herzfeld (then continued by E. F. Schmidt). This was their last collaboration.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Krefter",
+   "type": "position_at",
+   "object": "University of Tehran",
+   "role": "Professor of History of Architecture",
+   "place": null,
+   "year_start": 1935,
+   "year_end": 1937,
+   "explicit": true,
+   "evidence": "From 1935-37 Professor of History of Architecture at the new University of Tehran",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Krefter",
+   "type": "position_at",
+   "object": "Staatsbauschule in Berlin-Neukölln",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Taught at Staatsbauschule in Berlin-Neukölln",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: KREFTER, Friedrich",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/52456-krefter-friedrich.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: KREFTER, Friedrich",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/52456/krefter-friedrich/",
+  "subject": "KREFTER, Friedrich",
+  "birth_year": 1898,
+  "death_year": 1995
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Édouard Lancereau",
+   "birth_year": 1819,
+   "death_year": 1895,
+   "nationality": "French",
+   "field": "Indology"
+  },
+  {
+   "name": "Burnouf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "LANCEREAU, Édouard",
+   "birth_year": 1819,
+   "death_year": 1895
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Édouard Lancereau",
+   "type": "student_of",
+   "object": "Burnouf",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies in Paris, especially Sanskrit under Burnouf.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Édouard Lancereau",
+   "type": "position_at",
+   "object": "Collège de Charlemagne",
+   "role": "professeur suppléant",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "For a while taught as professeur suppléant at Collège de Charlemagne",
+   "quote_ok": true
+  },
+  {
+   "subject": "Édouard Lancereau",
+   "type": "position_at",
+   "object": "Imprimérie national",
+   "role": "Correcteur",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Correcteur at Imprimérie national.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: LANCEREAU, Édouard",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/6477-lancereau-edouard-2.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: LANCEREAU, Édouard",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/6477/lancereau-edouard-2/",
+  "subject": "LANCEREAU, Édouard",
+  "birth_year": 1819,
+  "death_year": 1895
+ },
+ "model": "gemini-flash-latest"
+}

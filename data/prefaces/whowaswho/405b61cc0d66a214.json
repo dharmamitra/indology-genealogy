@@ -1,0 +1,87 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Carl Gaedicke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Delbrück",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Cappeller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ad. Kuhn",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Carl Gaedicke",
+   "type": "student_of",
+   "object": "Delbrück",
+   "role": "doctoral supervisor",
+   "place": "Jena",
+   "year_start": null,
+   "year_end": 1877,
+   "explicit": true,
+   "evidence": "A student of Delbrück and Cappeller. Ph.D. 1877 Jena (under Delbrück)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Gaedicke",
+   "type": "student_of",
+   "object": "Cappeller",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A student of Delbrück and Cappeller.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Gaedicke",
+   "type": "studied_at",
+   "object": "Jena",
+   "role": "Ph.D.",
+   "place": "Jena",
+   "year_start": null,
+   "year_end": 1877,
+   "explicit": true,
+   "evidence": "Ph.D. 1877 Jena (under Delbrück)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GAEDICKE, Carl",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2151-gaedicke-carl.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GAEDICKE, Carl",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2151/gaedicke-carl/",
+  "subject": "GAEDICKE, Carl",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

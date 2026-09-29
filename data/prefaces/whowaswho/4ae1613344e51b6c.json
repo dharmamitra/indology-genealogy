@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Trevor Pryce Leggett",
+   "birth_year": 1914,
+   "death_year": 2000,
+   "nationality": "British",
+   "field": "Indian and Japanese Thought"
+  },
+  {
+   "name": "Hari Prasad Shastri",
+   "birth_year": null,
+   "death_year": 1956,
+   "nationality": null,
+   "field": "Yoga"
+  },
+  {
+   "name": "LEGGETT, Trevor",
+   "birth_year": 1914,
+   "death_year": 2000
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Trevor Pryce Leggett",
+   "type": "studied_at",
+   "object": "London University",
+   "role": "law",
+   "place": "London",
+   "year_start": null,
+   "year_end": 1934,
+   "explicit": true,
+   "evidence": "Studies of law at London University (graduated 1934).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Trevor Pryce Leggett",
+   "type": "student_of",
+   "object": "Hari Prasad Shastri",
+   "role": "traditional teacher",
+   "place": "England",
+   "year_start": 1936,
+   "year_end": 1954,
+   "explicit": true,
+   "evidence": "From 1936 Yoga disciple of Hari Prasad Shastri (d. 1956) in England for 18 years.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Trevor Pryce Leggett",
+   "type": "studied_at",
+   "object": "S.O.A.S.",
+   "role": "languages",
+   "place": null,
+   "year_start": 1942,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "exchanged to Japanese diplomates in 1942. Now studied languages at S.O.A.S.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: LEGGETT, Trevor",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/6522-leggett-trevor-pryce.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: LEGGETT, Trevor",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/6522/leggett-trevor-pryce/",
+  "subject": "LEGGETT, Trevor",
+  "birth_year": 1914,
+  "death_year": 2000
+ },
+ "model": "gemini-flash-latest"
+}

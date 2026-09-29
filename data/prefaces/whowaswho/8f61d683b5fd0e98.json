@@ -1,0 +1,128 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sebastião Rodolfo Dalgado",
+   "birth_year": 1855,
+   "death_year": 1922,
+   "nationality": "Indo-Portuguese",
+   "field": "Indology"
+  },
+  {
+   "name": "Vasconcelos Abreu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "B. Gracias",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Saldanha",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "DALGADO, Sebastião Rodolfo",
+   "birth_year": 1855,
+   "death_year": 1922
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sebastião Rodolfo Dalgado",
+   "type": "studied_at",
+   "object": "Università di S. Apollinario",
+   "role": "doctoral student",
+   "place": "Rome",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "went to Rome for further studies. Wrote his dissertation at Università di S. Apollinario on Canonical and Roman justice",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sebastião Rodolfo Dalgado",
+   "type": "position_at",
+   "object": "Curso Superior de Letras, Lisbon",
+   "role": "Professor de Sânscrito",
+   "place": "Lisbon",
+   "year_start": 1907,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1907 Professor de Sânscrito do Curso Superior de Letras, Lisbon (future Lisbon university, successor of Vasconcelos Abreu)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sebastião Rodolfo Dalgado",
+   "type": "succeeded",
+   "object": "Vasconcelos Abreu",
+   "role": null,
+   "place": "Curso Superior de Letras, Lisbon",
+   "year_start": 1907,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1907 Professor de Sânscrito do Curso Superior de Letras, Lisbon (future Lisbon university, successor of Vasconcelos Abreu)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sebastião Rodolfo Dalgado",
+   "type": "position_at",
+   "object": "Faculdade de Letras",
+   "role": "Professor of Sanskrit",
+   "place": "Lisbon",
+   "year_start": 1917,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Conferred the title of Doutor em Letras by Faculdade de Letras, Professor of Sanskrit there from 1917.",
+   "quote_ok": true
+  },
+  {
+   "subject": "B. Gracias",
+   "type": "student_of",
+   "object": "Sebastião Rodolfo Dalgado",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among his students were B. Gracias and Saldanha.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Saldanha",
+   "type": "student_of",
+   "object": "Sebastião Rodolfo Dalgado",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among his students were B. Gracias and Saldanha.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: DALGADO, Sebastião Rodolfo",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1458-dalgado-sebastiao-rodolfo.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: DALGADO, Sebastião Rodolfo",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1458/dalgado-sebastiao-rodolfo/",
+  "subject": "DALGADO, Sebastião Rodolfo",
+  "birth_year": 1855,
+  "death_year": 1922
+ },
+ "model": "gemini-flash-latest"
+}

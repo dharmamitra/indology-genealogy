@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Edwin Greaves",
+   "birth_year": 1854,
+   "death_year": 1941,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "GREAVES, Edwin",
+   "birth_year": 1854,
+   "death_year": 1941
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Edwin Greaves",
+   "type": "studied_at",
+   "object": "Western College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated in Islington and Western College.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edwin Greaves",
+   "type": "position_at",
+   "object": "London Missionary Society",
+   "role": "Missionary",
+   "place": "N.W.P.",
+   "year_start": null,
+   "year_end": 1920,
+   "explicit": true,
+   "evidence": "British Missionary in India. Educated in Islington and Western College. Served London Missionary Society in N.W.P.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edwin Greaves",
+   "type": "position_at",
+   "object": "London Missionary Society's college in Benares",
+   "role": "Principal",
+   "place": "Benares",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Principal of the society’s college in Benares",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edwin Greaves",
+   "type": "position_at",
+   "object": "Missionary Language School in Lucknow",
+   "role": "Principal",
+   "place": "Lucknow",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then of Missionary Language School in Lucknow",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GREAVES, Edwin",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2400-greaves-edwin.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GREAVES, Edwin",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2400/greaves-edwin/",
+  "subject": "GREAVES, Edwin",
+  "birth_year": 1854,
+  "death_year": 1941
+ },
+ "model": "gemini-flash-latest"
+}

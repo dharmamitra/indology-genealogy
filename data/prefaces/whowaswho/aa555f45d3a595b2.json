@@ -1,0 +1,114 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Eduard Thommen",
+   "birth_year": 1880,
+   "death_year": 1961,
+   "nationality": "Swiss",
+   "field": "Indology"
+  },
+  {
+   "name": "Wackernagel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "THOMMEN, Eduard",
+   "birth_year": 1880,
+   "death_year": 1961
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Eduard Thommen",
+   "type": "studied_at",
+   "object": "Basel",
+   "role": null,
+   "place": "Basel",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied at Basel (Wackernagel)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eduard Thommen",
+   "type": "student_of",
+   "object": "Wackernagel",
+   "role": "teacher",
+   "place": "Basel",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied at Basel (Wackernagel)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eduard Thommen",
+   "type": "studied_at",
+   "object": "Paris",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Further studies in Paris and Oxford.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eduard Thommen",
+   "type": "studied_at",
+   "object": "Oxford",
+   "role": null,
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Further studies in Paris and Oxford.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eduard Thommen",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": "PhD",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": 1903,
+   "explicit": true,
+   "evidence": "Ph.D. 1903 Göttingen (Wackernagel).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eduard Thommen",
+   "type": "student_of",
+   "object": "Wackernagel",
+   "role": "doctoral supervisor",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": 1903,
+   "explicit": true,
+   "evidence": "Ph.D. 1903 Göttingen (Wackernagel).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: THOMMEN, Eduard",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4988-thommen-eduard.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: THOMMEN, Eduard",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4988/thommen-eduard/",
+  "subject": "THOMMEN, Eduard",
+  "birth_year": 1880,
+  "death_year": 1961
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,133 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "R. Otto Franke",
+   "birth_year": 1862,
+   "death_year": 1928,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Kielhorn",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Bezzenberger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "IE linguistics"
+  },
+  {
+   "name": "H. von Glasenapp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "FRANKE, R. Otto – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1833,
+   "death_year": 1887
+  },
+  {
+   "name": "FRANKE, R. Otto",
+   "birth_year": 1862,
+   "death_year": 1928
+  }
+ ],
+ "relations": [
+  {
+   "subject": "R. Otto Franke",
+   "type": "student_of",
+   "object": "Kielhorn",
+   "role": "teacher",
+   "place": "Göttingen",
+   "year_start": 1881,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "then Indology (under Kielhorn) at Göttingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "R. Otto Franke",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": 1881,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "In 1881-85 studies of classical and Germanic philology, then Indology (under Kielhorn) at Göttingen, also at Bonn. Ph.D. 1885 Göttingen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "R. Otto Franke",
+   "type": "studied_at",
+   "object": "Bonn",
+   "role": null,
+   "place": null,
+   "year_start": 1881,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "In 1881-85 studies of classical and Germanic philology, then Indology (under Kielhorn) at Göttingen, also at Bonn.",
+   "quote_ok": true
+  },
+  {
+   "subject": "R. Otto Franke",
+   "type": "position_at",
+   "object": "Berlin",
+   "role": "PD",
+   "place": null,
+   "year_start": 1890,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1890 PD at Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "R. Otto Franke",
+   "type": "position_at",
+   "object": "Königsberg",
+   "role": "Professor",
+   "place": null,
+   "year_start": 1896,
+   "year_end": 1927,
+   "explicit": true,
+   "evidence": "from 1896 planm. ao. Professor at Königsberg, where he taught Indology... ord. Professor in 1921, retired in 1927",
+   "quote_ok": true
+  },
+  {
+   "subject": "H. von Glasenapp",
+   "type": "succeeded",
+   "object": "R. Otto Franke",
+   "role": null,
+   "place": "Königsberg",
+   "year_start": 1927,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "retired in 1927 (and was succeeded by H. von Glasenapp).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: FRANKE, R. Otto",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2071-franke-rudolf-otto.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: FRANKE, R. Otto",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2071/franke-rudolf-otto/",
+  "subject": "FRANKE, R. Otto",
+  "birth_year": 1862,
+  "death_year": 1928
+ },
+ "model": "gemini-flash-latest"
+}

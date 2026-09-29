@@ -1,0 +1,102 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "John William Kaye",
+   "birth_year": 1814,
+   "death_year": 1876,
+   "nationality": "British",
+   "field": "Historian"
+  },
+  {
+   "name": "J. S. Mill",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "KAYE, John William",
+   "birth_year": 1814,
+   "death_year": 1876
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John William Kaye",
+   "type": "studied_at",
+   "object": "Eton",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at Eton and Addiscombe.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John William Kaye",
+   "type": "studied_at",
+   "object": "Addiscombe",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at Eton and Addiscombe.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John William Kaye",
+   "type": "founded",
+   "object": "Calcutta Review",
+   "role": null,
+   "place": null,
+   "year_start": 1844,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1844 he founded the Calcutta Review",
+   "quote_ok": true
+  },
+  {
+   "subject": "John William Kaye",
+   "type": "position_at",
+   "object": "India Office",
+   "role": "Secretary in Political and Secret Department",
+   "place": null,
+   "year_start": 1858,
+   "year_end": 1874,
+   "explicit": true,
+   "evidence": "in 1858 succeeded J. S. Mill as Secretary in Political and Secret Department at India Office. Retired on health reasons in 1874.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John William Kaye",
+   "type": "succeeded",
+   "object": "J. S. Mill",
+   "role": "Secretary in Political and Secret Department",
+   "place": "India Office",
+   "year_start": 1858,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1858 succeeded J. S. Mill as Secretary in Political and Secret Department at India Office.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: KAYE, John William",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3407-kaye-john-william.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: KAYE, John William",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3407/kaye-john-william/",
+  "subject": "KAYE, John William",
+  "birth_year": 1814,
+  "death_year": 1876
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,97 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Louis Auguste André Marie Vaillant",
+   "birth_year": 1876,
+   "death_year": 1963,
+   "nationality": "French",
+   "field": null
+  },
+  {
+   "name": "Léon Louis Vaillant",
+   "birth_year": 1834,
+   "death_year": 1914,
+   "nationality": "French",
+   "field": "Zoology"
+  },
+  {
+   "name": "Pelliot",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Nouette",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "VAILLANT, Louis – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1834,
+   "death_year": 1914
+  },
+  {
+   "name": "VAILLANT, Louis",
+   "birth_year": 1876,
+   "death_year": 1963
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Louis Auguste André Marie Vaillant",
+   "type": "other",
+   "object": "Léon Louis Vaillant",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of Léon Louis Vaillant (1834–1914), Professor of Zoology",
+   "quote_ok": true
+  },
+  {
+   "subject": "Louis Auguste André Marie Vaillant",
+   "type": "collaborated_with",
+   "object": "Pelliot",
+   "role": "expedition member",
+   "place": "Central Asia",
+   "year_start": 1905,
+   "year_end": 1909,
+   "explicit": true,
+   "evidence": "In 1905-09 he travelled with Pelliot and Nouette in Central Asia, acting on behalf of the Musée National d’Histoire Naturelle.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Louis Auguste André Marie Vaillant",
+   "type": "collaborated_with",
+   "object": "Nouette",
+   "role": "expedition member",
+   "place": "Central Asia",
+   "year_start": 1905,
+   "year_end": 1909,
+   "explicit": true,
+   "evidence": "In 1905-09 he travelled with Pelliot and Nouette in Central Asia, acting on behalf of the Musée National d’Histoire Naturelle.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: VAILLANT, Louis",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/22719-vaillant-louis.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: VAILLANT, Louis",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/22719/vaillant-louis/",
+  "subject": "VAILLANT, Louis",
+  "birth_year": 1876,
+  "death_year": 1963
+ },
+ "model": "gemini-flash-latest"
+}

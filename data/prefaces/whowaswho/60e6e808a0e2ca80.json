@@ -1,0 +1,133 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2024,
+ "people": [
+  {
+   "name": "Adolf Erhart",
+   "birth_year": 1926,
+   "death_year": 2003,
+   "nationality": "Czech",
+   "field": "IE Linguist"
+  },
+  {
+   "name": "Machek",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Zubatý",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hujer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ERHART, Adolf – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1891,
+   "death_year": 1985
+  },
+  {
+   "name": "ERHART, Adolf",
+   "birth_year": 1926,
+   "death_year": 2003
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Adolf Erhart",
+   "type": "student_of",
+   "object": "Machek",
+   "role": "teacher",
+   "place": "Brno",
+   "year_start": 1945,
+   "year_end": 1949,
+   "explicit": true,
+   "evidence": "In 1945-49 studies of classic, Germanic and IE linguistics at Brno (under Machek)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Erhart",
+   "type": "position_at",
+   "object": "Masaryk University, Brno",
+   "role": "Assistant",
+   "place": "Brno",
+   "year_start": 1965,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1965 Machek’s Assistant, from 1988 Professor at Masaryk University, Brno, retired 1993.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Erhart",
+   "type": "position_at",
+   "object": "Masaryk University, Brno",
+   "role": "Professor",
+   "place": "Brno",
+   "year_start": 1988,
+   "year_end": 1993,
+   "explicit": true,
+   "evidence": "from 1988 Professor at Masaryk University, Brno, retired 1993.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Erhart",
+   "type": "influenced_by",
+   "object": "Zubatý",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Scholar of IE linguistics in the tradition of Zubatý, Hujer and Machek.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Erhart",
+   "type": "influenced_by",
+   "object": "Hujer",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Scholar of IE linguistics in the tradition of Zubatý, Hujer and Machek.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Erhart",
+   "type": "influenced_by",
+   "object": "Machek",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Scholar of IE linguistics in the tradition of Zubatý, Hujer and Machek.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ERHART, Adolf",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/40240-erhart-adolf.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ERHART, Adolf",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/40240/erhart-adolf/",
+  "subject": "ERHART, Adolf",
+  "birth_year": 1926,
+  "death_year": 2003
+ },
+ "model": "gemini-flash-latest"
+}

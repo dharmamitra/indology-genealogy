@@ -1,0 +1,92 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Peter Elof Olesen",
+   "birth_year": 1877,
+   "death_year": 1939,
+   "nationality": "Danish",
+   "field": "Indologist"
+  },
+  {
+   "name": "Fausbøll",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "D. Andersen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sørensen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "OLESEN, Elof",
+   "birth_year": 1877,
+   "death_year": 1939
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Peter Elof Olesen",
+   "type": "studied_at",
+   "object": "Copenhagen",
+   "role": "M.A.",
+   "place": "Copenhagen",
+   "year_start": 1895,
+   "year_end": 1903,
+   "explicit": true,
+   "evidence": "From 1895 studied at Copenhagen classics, Danish and Sanskrit (under Fausbøll), M.A. 1903.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Elof Olesen",
+   "type": "student_of",
+   "object": "Fausbøll",
+   "role": "teacher",
+   "place": "Copenhagen",
+   "year_start": 1895,
+   "year_end": 1903,
+   "explicit": true,
+   "evidence": "studied at Copenhagen classics, Danish and Sanskrit (under Fausbøll)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Elof Olesen",
+   "type": "collaborated_with",
+   "object": "D. Andersen",
+   "role": "Assistant of D. Andersen as editor of Sørensen’s Index",
+   "place": null,
+   "year_start": 1903,
+   "year_end": 1925,
+   "explicit": true,
+   "evidence": "In 1903-25 Assistant of D. Andersen as editor of Sørensen’s Index",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: OLESEN, Elof",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4458-olesen-elof.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: OLESEN, Elof",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4458/olesen-elof/",
+  "subject": "OLESEN, Elof",
+  "birth_year": 1877,
+  "death_year": 1939
+ },
+ "model": "gemini-flash-latest"
+}

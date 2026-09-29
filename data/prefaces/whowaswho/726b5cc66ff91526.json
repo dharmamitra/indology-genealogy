@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Girolamo Donati",
+   "birth_year": 1857,
+   "death_year": 1901,
+   "nationality": "Italian",
+   "field": "Indologist"
+  },
+  {
+   "name": "De Gubernatis",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "DONATI, Girolamo – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1857,
+   "death_year": 1901
+  },
+  {
+   "name": "DONATI, Girolamo",
+   "birth_year": 1857,
+   "death_year": 1901
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Girolamo Donati",
+   "type": "student_of",
+   "object": "De Gubernatis",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Student of De Gubernatis.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Girolamo Donati",
+   "type": "position_at",
+   "object": "R. Istituto di Studi superiori di Firenze",
+   "role": "libero docente di sanscrito",
+   "place": "Firenze",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Then libero docente di sanscrito at R. Istituto di Studi superiori di Firenze, from 1890 in charge of Sanskrit teaching",
+   "quote_ok": true
+  },
+  {
+   "subject": "Girolamo Donati",
+   "type": "position_at",
+   "object": "Museo Indiano",
+   "role": "conservator",
+   "place": "Florence",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Also conservator of Museo Indiano in Florence.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Girolamo Donati",
+   "type": "succeeded",
+   "object": "De Gubernatis",
+   "role": "in charge of Sanskrit teaching",
+   "place": "R. Istituto di Studi superiori di Firenze",
+   "year_start": 1890,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1890 in charge of Sanskrit teaching when De Gubernatis moved to Rome",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: DONATI, Girolamo",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1611-donati-girolamo.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: DONATI, Girolamo",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1611/donati-girolamo/",
+  "subject": "DONATI, Girolamo",
+  "birth_year": 1857,
+  "death_year": 1901
+ },
+ "model": "gemini-flash-latest"
+}

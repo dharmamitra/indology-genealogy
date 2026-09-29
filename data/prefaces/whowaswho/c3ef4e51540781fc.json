@@ -1,0 +1,73 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "George Arthur Hughes",
+   "birth_year": null,
+   "death_year": 1835,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Dr. Hughes",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "George Arthur Hughes",
+   "type": "student_of",
+   "object": "Dr. Hughes",
+   "role": "teacher",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "educated in Cambridge by his uncle, Dr. Hughes, the Pricipal of Jesus College",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Arthur Hughes",
+   "type": "studied_at",
+   "object": "Jesus College, Cambridge",
+   "role": null,
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "educated in Cambridge by his uncle, Dr. Hughes, the Pricipal of Jesus College",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dr. Hughes",
+   "type": "position_at",
+   "object": "Jesus College",
+   "role": "Principal",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Hughes, the Pricipal of Jesus College",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HUGHES, George A",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/32211-hughes-george-a.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HUGHES, George A",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/32211/hughes-george-a/",
+  "subject": "HUGHES, George A",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

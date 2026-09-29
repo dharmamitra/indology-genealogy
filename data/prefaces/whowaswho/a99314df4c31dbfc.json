@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "John Still",
+   "birth_year": 1880,
+   "death_year": 1941,
+   "nationality": "British",
+   "field": "archaeology"
+  },
+  {
+   "name": "H. C. P. Bell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "archaeology"
+  },
+  {
+   "name": "STILL, John – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1845,
+   "death_year": 1914
+  },
+  {
+   "name": "STILL, John",
+   "birth_year": 1880,
+   "death_year": 1941
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Still",
+   "type": "studied_at",
+   "object": "Winchester College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "educated at Winchester College",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Still",
+   "type": "collaborated_with",
+   "object": "H. C. P. Bell",
+   "role": "Assistant to the Archaeological Commissioner",
+   "place": "Ceylon",
+   "year_start": 1902,
+   "year_end": 1907,
+   "explicit": true,
+   "evidence": "In 1.1.1902–31.12.1907 Assistant to the Archaeological Commissioner (H. C. P. Bell), participated i.al. in work at Sigiriya and Polonnaruwa",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: STILL, John",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/6133-still-john.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: STILL, John",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/6133/still-john/",
+  "subject": "STILL, John",
+  "birth_year": 1880,
+  "death_year": 1941
+ },
+ "model": "gemini-flash-latest"
+}

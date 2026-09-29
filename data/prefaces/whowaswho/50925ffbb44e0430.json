@@ -1,0 +1,102 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Philipp Keiper",
+   "birth_year": 1855,
+   "death_year": 1927,
+   "nationality": "German",
+   "field": "Philologist"
+  },
+  {
+   "name": "Spiegel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Iranian"
+  },
+  {
+   "name": "KEIPER, Philipp",
+   "birth_year": 1855,
+   "death_year": 1927
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Philipp Keiper",
+   "type": "student_of",
+   "object": "Spiegel",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied classics and Iranian (Spiegel).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philipp Keiper",
+   "type": "studied_at",
+   "object": "Erlangen",
+   "role": "PhD",
+   "place": "Erlangen",
+   "year_start": null,
+   "year_end": 1877,
+   "explicit": true,
+   "evidence": "Ph.D. 1877 Erlangen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philipp Keiper",
+   "type": "position_at",
+   "object": "Gymnasium in Erlangen",
+   "role": "Gymnasium teacher",
+   "place": "Erlangen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gymnasium teacher in Erlangen, Ludwigshafen and Zweibrücken.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philipp Keiper",
+   "type": "position_at",
+   "object": "Gymnasium in Ludwigshafen",
+   "role": "Gymnasium teacher",
+   "place": "Ludwigshafen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gymnasium teacher in Erlangen, Ludwigshafen and Zweibrücken.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philipp Keiper",
+   "type": "position_at",
+   "object": "Gymnasium in Zweibrücken",
+   "role": "Gymnasium teacher",
+   "place": "Zweibrücken",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gymnasium teacher in Erlangen, Ludwigshafen and Zweibrücken.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: KEIPER, Philipp",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/52170-keiper-philipp.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: KEIPER, Philipp",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/52170/keiper-philipp/",
+  "subject": "KEIPER, Philipp",
+  "birth_year": 1855,
+  "death_year": 1927
+ },
+ "model": "gemini-flash-latest"
+}

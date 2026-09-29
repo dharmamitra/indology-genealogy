@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2022,
+ "people": [
+  {
+   "name": "Hugh Horsley",
+   "birth_year": 1849,
+   "death_year": 1934,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "William Henry Horsley",
+   "birth_year": 1812,
+   "death_year": 1893,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "HORSLEY, Hugh – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1812,
+   "death_year": 1893
+  },
+  {
+   "name": "HORSLEY, Hugh",
+   "birth_year": 1849,
+   "death_year": 1934
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hugh Horsley",
+   "type": "studied_at",
+   "object": "Cambridge",
+   "role": "M.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied at Cambridge, M.A.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hugh Horsley",
+   "type": "position_at",
+   "object": "Church Missionary Society",
+   "role": "missionary",
+   "place": "Kandy",
+   "year_start": null,
+   "year_end": 1894,
+   "explicit": true,
+   "evidence": "worked among Tamils for Church Missionary Society in Kandy, retired 1894",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hugh Horsley",
+   "type": "other",
+   "object": "William Henry Horsley",
+   "role": "son of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of —> William Henry Horsley (1812–1893)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HORSLEY, Hugh",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/32093-horsley-hugh.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HORSLEY, Hugh",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/32093/horsley-hugh/",
+  "subject": "HORSLEY, Hugh",
+  "birth_year": 1849,
+  "death_year": 1934
+ },
+ "model": "gemini-flash-latest"
+}

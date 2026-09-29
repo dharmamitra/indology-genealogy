@@ -1,0 +1,174 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "DUVAU, Louis Léon",
+   "birth_year": 1864,
+   "death_year": 1903,
+   "nationality": "French",
+   "field": "IE Linguist"
+  },
+  {
+   "name": "Bréal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "de Saussure",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "DUVAU, Louis – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1887,
+   "death_year": 1888
+  },
+  {
+   "name": "DUVAU, Louis",
+   "birth_year": 1864,
+   "death_year": 1903
+  }
+ ],
+ "relations": [
+  {
+   "subject": "DUVAU, Louis Léon",
+   "type": "student_of",
+   "object": "Bréal",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied in Paris (under Bréal and de Saussure)",
+   "quote_ok": true
+  },
+  {
+   "subject": "DUVAU, Louis Léon",
+   "type": "student_of",
+   "object": "de Saussure",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied in Paris (under Bréal and de Saussure)",
+   "quote_ok": true
+  },
+  {
+   "subject": "DUVAU, Louis Léon",
+   "type": "studied_at",
+   "object": "Paris",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": 1884,
+   "explicit": true,
+   "evidence": "studied in Paris (under Bréal and de Saussure) and 1886-87 Leipzig, then two years further studies in Rome. Licencié 1883, agrégé 1884 Paris.",
+   "quote_ok": true
+  },
+  {
+   "subject": "DUVAU, Louis Léon",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": 1886,
+   "year_end": 1887,
+   "explicit": true,
+   "evidence": "1886-87 Leipzig",
+   "quote_ok": true
+  },
+  {
+   "subject": "DUVAU, Louis Léon",
+   "type": "studied_at",
+   "object": "Rome",
+   "role": null,
+   "place": "Rome",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then two years further studies in Rome.",
+   "quote_ok": true
+  },
+  {
+   "subject": "DUVAU, Louis Léon",
+   "type": "position_at",
+   "object": "Dijon",
+   "role": "Professor (maître de conférences) of classical philology",
+   "place": "Dijon",
+   "year_start": 1887,
+   "year_end": 1888,
+   "explicit": true,
+   "evidence": "From c. 1887-88 Professor (maître de conférences) of classical philology at Dijon",
+   "quote_ok": true
+  },
+  {
+   "subject": "DUVAU, Louis Léon",
+   "type": "position_at",
+   "object": "Faculté des lettres in Lille",
+   "role": "Professor (maître de conférences) of grammaire comparée",
+   "place": "Lille",
+   "year_start": 1888,
+   "year_end": 1891,
+   "explicit": true,
+   "evidence": "1888-91 of grammaire comparée at Faculté des lettres in Lille.",
+   "quote_ok": true
+  },
+  {
+   "subject": "DUVAU, Louis Léon",
+   "type": "position_at",
+   "object": "É.P.H.É. in Paris",
+   "role": "maître de conférences",
+   "place": "Paris",
+   "year_start": 1891,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1891 maître de conférences at É.P.H.É. in Paris (succeeding de Saussure).",
+   "quote_ok": true
+  },
+  {
+   "subject": "DUVAU, Louis Léon",
+   "type": "succeeded",
+   "object": "de Saussure",
+   "role": "maître de conférences",
+   "place": "É.P.H.É. in Paris",
+   "year_start": 1891,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1891 maître de conférences at É.P.H.É. in Paris (succeeding de Saussure).",
+   "quote_ok": true
+  },
+  {
+   "subject": "DUVAU, Louis Léon",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "acting for Bréal",
+   "place": null,
+   "year_start": 1901,
+   "year_end": 1902,
+   "explicit": true,
+   "evidence": "In 1901-02 acting for Bréal at Collège de France",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: DUVAU, Louis",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1685-duvau-louis.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: DUVAU, Louis",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1685/duvau-louis/",
+  "subject": "DUVAU, Louis",
+  "birth_year": 1864,
+  "death_year": 1903
+ },
+ "model": "gemini-flash-latest"
+}

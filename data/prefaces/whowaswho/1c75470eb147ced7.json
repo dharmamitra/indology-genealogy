@@ -1,0 +1,90 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2022,
+ "people": [
+  {
+   "name": "Mary Carpenter",
+   "birth_year": 1807,
+   "death_year": 1877,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Joseph Estlin Carpenter",
+   "birth_year": 1844,
+   "death_year": 1927,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Keshab Chandra Sen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "CARPENTER, Mary – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1844,
+   "death_year": 1927
+  },
+  {
+   "name": "CARPENTER, Mary",
+   "birth_year": 1807,
+   "death_year": 1877
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Mary Carpenter",
+   "type": "other",
+   "object": "Joseph Estlin Carpenter",
+   "role": "aunt",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "aunt of —> Joseph Estlin Carpenter (1844–1927)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mary Carpenter",
+   "type": "collaborated_with",
+   "object": "Keshab Chandra Sen",
+   "role": null,
+   "place": "Bristol",
+   "year_start": 1870,
+   "year_end": 1870,
+   "explicit": true,
+   "evidence": "such as Keshab Chandra Sen…, with whom she founded a ‘National Indian Association’ at Bristol in 1870",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mary Carpenter",
+   "type": "founded",
+   "object": "National Indian Association",
+   "role": null,
+   "place": "Bristol",
+   "year_start": 1870,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "with whom she founded a ‘National Indian Association’ at Bristol in 1870",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: CARPENTER, Mary",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/27215-carpenter-mary.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: CARPENTER, Mary",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/27215/carpenter-mary/",
+  "subject": "CARPENTER, Mary",
+  "birth_year": 1807,
+  "death_year": 1877
+ },
+ "model": "gemini-flash-latest"
+}

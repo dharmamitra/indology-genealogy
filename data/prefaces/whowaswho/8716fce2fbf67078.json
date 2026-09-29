@@ -1,0 +1,133 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Léonard Eugène Aurousseau",
+   "birth_year": 1888,
+   "death_year": 1929,
+   "nationality": "French",
+   "field": "Sinologist"
+  },
+  {
+   "name": "Chavannes",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Finot",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "AUROUSSEAU, Léonard Eugène",
+   "birth_year": 1888,
+   "death_year": 1929
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Léonard Eugène Aurousseau",
+   "type": "student_of",
+   "object": "Chavannes",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied Chinese at É.P.H.É. (Chavannes) and É.L.O.V.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Léonard Eugène Aurousseau",
+   "type": "studied_at",
+   "object": "É.P.H.É.",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied Chinese at É.P.H.É. (Chavannes) and É.L.O.V.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Léonard Eugène Aurousseau",
+   "type": "studied_at",
+   "object": "É.L.O.V.",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied Chinese at É.P.H.É. (Chavannes) and É.L.O.V.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Léonard Eugène Aurousseau",
+   "type": "position_at",
+   "object": "É.F.E.O.",
+   "role": null,
+   "place": null,
+   "year_start": 1909,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1909 to Indochina as soldier, also allowed to work at É.F.E.O., 1911 its member",
+   "quote_ok": true
+  },
+  {
+   "subject": "Léonard Eugène Aurousseau",
+   "type": "position_at",
+   "object": "É.F.E.O.",
+   "role": "teacher of history and archaeology, teacher of Chinese",
+   "place": null,
+   "year_start": 1915,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1915 taught history and archaeology and, after 1916-20 in army, Chinese at É.F.E.O.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Léonard Eugène Aurousseau",
+   "type": "position_at",
+   "object": "É.F.E.O.",
+   "role": "Director",
+   "place": null,
+   "year_start": 1926,
+   "year_end": 1929,
+   "explicit": true,
+   "evidence": "1926-29 its Director (after Finot).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Léonard Eugène Aurousseau",
+   "type": "succeeded",
+   "object": "Finot",
+   "role": "Director",
+   "place": "É.F.E.O.",
+   "year_start": 1926,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1926-29 its Director (after Finot).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: AUROUSSEAU, Léonard Eugène",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/57320-aurousseau-leonard-eugene.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: AUROUSSEAU, Léonard Eugène",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/57320/aurousseau-leonard-eugene/",
+  "subject": "AUROUSSEAU, Léonard Eugène",
+  "birth_year": 1888,
+  "death_year": 1929
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,54 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "George Trebeck",
+   "birth_year": 1800,
+   "death_year": 1825,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Moorcroft",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "TREBECK, George",
+   "birth_year": 1800,
+   "death_year": 1825
+  }
+ ],
+ "relations": [
+  {
+   "subject": "George Trebeck",
+   "type": "collaborated_with",
+   "object": "Moorcroft",
+   "role": "assistant in travels",
+   "place": "Kashmir and Afghanistan",
+   "year_start": 1819,
+   "year_end": 1825,
+   "explicit": true,
+   "evidence": "In 1819 became Moorcroft’s assistant in his travels in Kashmir and Afghanistan.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: TREBECK, George",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5050-trebeck-g.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: TREBECK, George",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5050/trebeck-g/",
+  "subject": "TREBECK, George",
+  "birth_year": 1800,
+  "death_year": 1825
+ },
+ "model": "gemini-flash-latest"
+}

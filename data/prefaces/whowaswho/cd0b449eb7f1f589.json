@@ -1,0 +1,52 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "BATE, John Drew",
+   "birth_year": 1836,
+   "death_year": 1923
+  }
+ ],
+ "relations": [
+  {
+   "subject": "BATE, John Drew",
+   "type": "studied_at",
+   "object": "Regent’s Park College, London",
+   "role": null,
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at Regent’s Park College, London.",
+   "quote_ok": true
+  },
+  {
+   "subject": "BATE, John Drew",
+   "type": "position_at",
+   "object": "Baptist Mission in India",
+   "role": "Member",
+   "place": "India",
+   "year_start": 1865,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "Member of the Baptist Mission in India 1865-97.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BATE, John Drew",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/583-bate-john-drew.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BATE, John Drew",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/583/bate-john-drew/",
+  "subject": "BATE, John Drew",
+  "birth_year": 1836,
+  "death_year": 1923
+ },
+ "model": "gemini-flash-latest"
+}

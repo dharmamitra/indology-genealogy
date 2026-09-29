@@ -1,0 +1,102 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "William Yates",
+   "birth_year": 1792,
+   "death_year": 1845,
+   "nationality": "British",
+   "field": "Indologist"
+  },
+  {
+   "name": "Carey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "YATES, William",
+   "birth_year": 1792,
+   "death_year": 1845
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Yates",
+   "type": "studied_at",
+   "object": "Baptist College in Bristol",
+   "role": null,
+   "place": "Bristol",
+   "year_start": 1812,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "went in 1812 to Baptist College in Bristol.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Yates",
+   "type": "student_of",
+   "object": "Carey",
+   "role": "teacher",
+   "place": "Serampore",
+   "year_start": 1815,
+   "year_end": 1817,
+   "explicit": true,
+   "evidence": "In Serampore he learnt Sanskrit and Bengali from Carey",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Yates",
+   "type": "position_at",
+   "object": "English Church",
+   "role": "Minister",
+   "place": "Calcutta",
+   "year_start": 1829,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he returned to Calcutta in 1829 as a Minister of the English Church.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Yates",
+   "type": "studied_at",
+   "object": "Brown University",
+   "role": "A.M.",
+   "place": "U.S.A.",
+   "year_start": null,
+   "year_end": 1831,
+   "explicit": true,
+   "evidence": "A.M. 1831 Brown University (U.S.A.)",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Yates",
+   "type": "studied_at",
+   "object": "Brown University",
+   "role": "D.D.",
+   "place": "U.S.A.",
+   "year_start": null,
+   "year_end": 1839,
+   "explicit": true,
+   "evidence": "D.D. 1839 ibid.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: YATES, William",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4522-yates-william.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: YATES, William",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4522/yates-william/",
+  "subject": "YATES, William",
+  "birth_year": 1792,
+  "death_year": 1845
+ },
+ "model": "gemini-flash-latest"
+}

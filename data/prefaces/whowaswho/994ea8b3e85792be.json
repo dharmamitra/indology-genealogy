@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Aleksandr Andreevič Petrov",
+   "birth_year": null,
+   "death_year": 1793,
+   "nationality": "Russian",
+   "field": null
+  },
+  {
+   "name": "Karamzin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "PETROV, Aleksandr Andreevič – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1760,
+   "death_year": null
+  },
+  {
+   "name": "PETROV, Aleksandr Andreevič",
+   "birth_year": 1760,
+   "death_year": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Aleksandr Andreevič Petrov",
+   "type": "other",
+   "object": "Karamzin",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Russian translator, friend of —> Karamzin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Aleksandr Andreevič Petrov",
+   "type": "studied_at",
+   "object": "Moscow",
+   "role": null,
+   "place": "Moscow",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Moscow, living there until 1791",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: PETROV, Aleksandr Andreevič",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/7470-petrov-a-a.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: PETROV, Aleksandr Andreevič",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/7470/petrov-a-a/",
+  "subject": "PETROV, Aleksandr Andreevič",
+  "birth_year": 1760,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

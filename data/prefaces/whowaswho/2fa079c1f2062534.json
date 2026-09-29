@@ -1,0 +1,97 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Carl Arendt",
+   "birth_year": 1838,
+   "death_year": 1902,
+   "nationality": "German",
+   "field": "Sinologist"
+  },
+  {
+   "name": "Bopp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Steinthal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ARENDT, Carl",
+   "birth_year": 1838,
+   "death_year": 1902
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Carl Arendt",
+   "type": "student_of",
+   "object": "Bopp",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1856,
+   "year_end": 1859,
+   "explicit": true,
+   "evidence": "German Sinologist, a Student of Bopp. ... From 1856-59 studies of linguistics at Berlin under Bopp and Steinthal",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Arendt",
+   "type": "student_of",
+   "object": "Steinthal",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1856,
+   "year_end": 1859,
+   "explicit": true,
+   "evidence": "From 1856-59 studies of linguistics at Berlin under Bopp and Steinthal",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Arendt",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1856,
+   "year_end": 1859,
+   "explicit": true,
+   "evidence": "From 1856-59 studies of linguistics at Berlin under Bopp and Steinthal",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Arendt",
+   "type": "position_at",
+   "object": "Orientalisches Seminar in Berlin",
+   "role": "Lehrer",
+   "place": "Berlin",
+   "year_start": 1887,
+   "year_end": 1902,
+   "explicit": true,
+   "evidence": "taught from 1887 till 1902 Chinese at Orientalisches Seminar in Berlin (as a Lehrer).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ARENDT, Carl",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/311-arendt-carl.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ARENDT, Carl",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/311/arendt-carl/",
+  "subject": "ARENDT, Carl",
+  "birth_year": 1838,
+  "death_year": 1902
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,92 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Jean-Pierre-Guillaume Pauthier",
+   "birth_year": 1801,
+   "death_year": 1873,
+   "nationality": "French",
+   "field": "Sinologist and Indologist"
+  },
+  {
+   "name": "Abel-Rémusat",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sinology"
+  },
+  {
+   "name": "Chézy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Bazin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "PAUTHIER, Guillaume",
+   "birth_year": 1801,
+   "death_year": 1873
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jean-Pierre-Guillaume Pauthier",
+   "type": "student_of",
+   "object": "Abel-Rémusat",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": 1826,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After two and a half years left army in 1826 and pursuing studies of Sinology (Abel-Rémusat) and Indology (Chézy) in Paris adopted literary and scholarly career.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean-Pierre-Guillaume Pauthier",
+   "type": "student_of",
+   "object": "Chézy",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": 1826,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After two and a half years left army in 1826 and pursuing studies of Sinology (Abel-Rémusat) and Indology (Chézy) in Paris adopted literary and scholarly career.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean-Pierre-Guillaume Pauthier",
+   "type": "collaborated_with",
+   "object": "Bazin",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His Sinological magnum opus is the Description , in collaboration with Bazin.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: PAUTHIER, Guillaume",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4715-pauthier-jean-pierre-guillaume.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: PAUTHIER, Guillaume",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4715/pauthier-jean-pierre-guillaume/",
+  "subject": "PAUTHIER, Guillaume",
+  "birth_year": 1801,
+  "death_year": 1873
+ },
+ "model": "gemini-flash-latest"
+}

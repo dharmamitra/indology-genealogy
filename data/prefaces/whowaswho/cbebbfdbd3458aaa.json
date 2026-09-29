@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Jacob Fritz Burg",
+   "birth_year": 1860,
+   "death_year": 1928,
+   "nationality": "German",
+   "field": "Philologist"
+  },
+  {
+   "name": "BURG, Fritz",
+   "birth_year": 1860,
+   "death_year": 1928
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jacob Fritz Burg",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": "Ph.D.",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "Ph.D. 1885 Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jacob Fritz Burg",
+   "type": "position_at",
+   "object": "Hamburg Stadtbibliothek",
+   "role": "Hilfsarbeiter",
+   "place": "Hamburg",
+   "year_start": 1892,
+   "year_end": 1894,
+   "explicit": true,
+   "evidence": "Worked in Hamburg Stadtbibliothek: 1892 Hilfsarbeiter",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jacob Fritz Burg",
+   "type": "position_at",
+   "object": "Hamburg Stadtbibliothek",
+   "role": "Sekretär",
+   "place": "Hamburg",
+   "year_start": 1894,
+   "year_end": 1907,
+   "explicit": true,
+   "evidence": "Worked in Hamburg Stadtbibliothek: 1892 Hilfsarbeiter, 1894 Sekretär",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jacob Fritz Burg",
+   "type": "position_at",
+   "object": "Hamburg Stadtbibliothek",
+   "role": "Bibliothekar",
+   "place": "Hamburg",
+   "year_start": 1907,
+   "year_end": 1926,
+   "explicit": true,
+   "evidence": "Worked in Hamburg Stadtbibliothek: 1892 Hilfsarbeiter, 1894 Sekretär, 1907 Bibliothekar, retired 1926.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BURG, Fritz",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1050-burg-fritz.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BURG, Fritz",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1050/burg-fritz/",
+  "subject": "BURG, Fritz",
+  "birth_year": 1860,
+  "death_year": 1928
+ },
+ "model": "gemini-flash-latest"
+}

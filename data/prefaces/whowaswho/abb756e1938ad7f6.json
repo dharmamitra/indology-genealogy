@@ -1,0 +1,114 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "T. Hewitt Key",
+   "birth_year": 1799,
+   "death_year": 1875,
+   "nationality": "British",
+   "field": "Classical Scholar"
+  },
+  {
+   "name": "Rosen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "KEY, T. Hewitt",
+   "birth_year": 1799,
+   "death_year": 1875
+  }
+ ],
+ "relations": [
+  {
+   "subject": "T. Hewitt Key",
+   "type": "studied_at",
+   "object": "St. John’s College, Cambridge",
+   "role": null,
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at St. John’s and Trinity Colleges, Cambridge, graduated B.A. 1821, M.A. 1824.",
+   "quote_ok": true
+  },
+  {
+   "subject": "T. Hewitt Key",
+   "type": "studied_at",
+   "object": "Trinity College, Cambridge",
+   "role": "B.A., M.A.",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": 1824,
+   "explicit": true,
+   "evidence": "Studies at St. John’s and Trinity Colleges, Cambridge, graduated B.A. 1821, M.A. 1824.",
+   "quote_ok": true
+  },
+  {
+   "subject": "T. Hewitt Key",
+   "type": "position_at",
+   "object": "University of Virginia",
+   "role": "Professor of Pure mathematics",
+   "place": "Charlottesville",
+   "year_start": 1825,
+   "year_end": 1827,
+   "explicit": true,
+   "evidence": "In 1825-27 Professor of Pure mathematics at the new University of Virginia in Charlottesville.",
+   "quote_ok": true
+  },
+  {
+   "subject": "T. Hewitt Key",
+   "type": "position_at",
+   "object": "University of London",
+   "role": "Professor of Latin",
+   "place": "London",
+   "year_start": 1828,
+   "year_end": 1842,
+   "explicit": true,
+   "evidence": "From 1828 Professor of Latin at University of London (learned comparative method from his colleague Rosen), in 1842 changed to the chair of Comparative Grammar",
+   "quote_ok": true
+  },
+  {
+   "subject": "T. Hewitt Key",
+   "type": "position_at",
+   "object": "University of London",
+   "role": "chair of Comparative Grammar",
+   "place": "London",
+   "year_start": 1842,
+   "year_end": 1875,
+   "explicit": true,
+   "evidence": "in 1842 changed to the chair of Comparative Grammar, taught until his death (without salary).",
+   "quote_ok": true
+  },
+  {
+   "subject": "T. Hewitt Key",
+   "type": "collaborated_with",
+   "object": "Rosen",
+   "role": "colleague",
+   "place": "University of London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "learned comparative method from his colleague Rosen",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: KEY, T. Hewitt",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/16194-key-thomas-hewitt.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: KEY, T. Hewitt",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/16194/key-thomas-hewitt/",
+  "subject": "KEY, T. Hewitt",
+  "birth_year": 1799,
+  "death_year": 1875
+ },
+ "model": "gemini-flash-latest"
+}

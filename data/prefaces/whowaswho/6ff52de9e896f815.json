@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Charles Michel",
+   "birth_year": 1853,
+   "death_year": 1929,
+   "nationality": "Belgian",
+   "field": "Classical Scholar"
+  },
+  {
+   "name": "Mansion",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "MICHEL, Charles – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1853,
+   "death_year": 1929
+  },
+  {
+   "name": "MICHEL, Charles",
+   "birth_year": 1853,
+   "death_year": 1929
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Charles Michel",
+   "type": "position_at",
+   "object": "Liège",
+   "role": "Docent",
+   "place": null,
+   "year_start": null,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "Docent at Liège until 1885",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Michel",
+   "type": "position_at",
+   "object": "Gand",
+   "role": "Professor",
+   "place": null,
+   "year_start": 1885,
+   "year_end": 1892,
+   "explicit": true,
+   "evidence": "in 1885-1892 Professor at Gand",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Michel",
+   "type": "position_at",
+   "object": "Liège",
+   "role": "Professor",
+   "place": null,
+   "year_start": 1892,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1892 at Liège",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mansion",
+   "type": "succeeded",
+   "object": "Charles Michel",
+   "role": "Sanskrit teaching",
+   "place": "Liège",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "started the Sanskrit teaching at Liège (which he then left to Mansion",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MICHEL, Charles",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4164-michel-charles.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MICHEL, Charles",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4164/michel-charles/",
+  "subject": "MICHEL, Charles",
+  "birth_year": 1853,
+  "death_year": 1929
+ },
+ "model": "gemini-flash-latest"
+}

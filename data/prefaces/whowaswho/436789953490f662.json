@@ -1,0 +1,140 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Willy Baruch",
+   "birth_year": 1900,
+   "death_year": 1954,
+   "nationality": "German",
+   "field": "Indologist, Sinologist, Tibetan, Buddhist and Central Asian Scholar"
+  },
+  {
+   "name": "Lüders",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "F. Weller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kirfel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BARUCH, Willy",
+   "birth_year": 1900,
+   "death_year": 1954
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Willy Baruch",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Berlin and Leipzig",
+   "quote_ok": true
+  },
+  {
+   "subject": "Willy Baruch",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Berlin and Leipzig",
+   "quote_ok": true
+  },
+  {
+   "subject": "Willy Baruch",
+   "type": "student_of",
+   "object": "Lüders",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "student of Lüders and F. Weller",
+   "quote_ok": true
+  },
+  {
+   "subject": "Willy Baruch",
+   "type": "student_of",
+   "object": "F. Weller",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "student of Lüders and F. Weller",
+   "quote_ok": true
+  },
+  {
+   "subject": "Willy Baruch",
+   "type": "student_of",
+   "object": "Kirfel",
+   "role": "teacher",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then of Kirfel at Bonn",
+   "quote_ok": true
+  },
+  {
+   "subject": "Willy Baruch",
+   "type": "studied_at",
+   "object": "Bonn",
+   "role": "Ph.D.",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": 1937,
+   "explicit": true,
+   "evidence": "Ph.D. 1937 Bonn",
+   "quote_ok": true
+  },
+  {
+   "subject": "Willy Baruch",
+   "type": "position_at",
+   "object": "E.L.O.V.",
+   "role": "chargé de cours de mandchou",
+   "place": "Paris",
+   "year_start": 1933,
+   "year_end": 1935,
+   "explicit": true,
+   "evidence": "In 1933-35 chargé de cours de mandchou at E.L.O.V. in Paris.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BARUCH, Willy",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/573-baruch-willy.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BARUCH, Willy",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/573/baruch-willy/",
+  "subject": "BARUCH, Willy",
+  "birth_year": 1900,
+  "death_year": 1954
+ },
+ "model": "gemini-flash-latest"
+}

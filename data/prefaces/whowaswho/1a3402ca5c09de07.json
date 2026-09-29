@@ -1,0 +1,90 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Rozwadowski",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gawroński",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "KAŁUSKI, Antoni",
+   "birth_year": 1894,
+   "death_year": 1935
+  }
+ ],
+ "relations": [
+  {
+   "subject": "KAŁUSKI, Antoni",
+   "type": "student_of",
+   "object": "Rozwadowski",
+   "role": "teacher",
+   "place": "Cracow",
+   "year_start": 1912,
+   "year_end": 1915,
+   "explicit": true,
+   "evidence": "Studies of Polish, linguistics and Sanskrit at Cracow under Rozwadowski and Gawroński. Interrupted in his studies by war in 1915",
+   "quote_ok": true
+  },
+  {
+   "subject": "KAŁUSKI, Antoni",
+   "type": "student_of",
+   "object": "Gawroński",
+   "role": "teacher",
+   "place": "Cracow",
+   "year_start": 1912,
+   "year_end": 1915,
+   "explicit": true,
+   "evidence": "Studies of Polish, linguistics and Sanskrit at Cracow under Rozwadowski and Gawroński. Interrupted in his studies by war in 1915",
+   "quote_ok": true
+  },
+  {
+   "subject": "KAŁUSKI, Antoni",
+   "type": "studied_at",
+   "object": "Cracow",
+   "role": null,
+   "place": "Cracow",
+   "year_start": 1912,
+   "year_end": 1915,
+   "explicit": true,
+   "evidence": "matriculated in 1912. Studies of Polish, linguistics and Sanskrit at Cracow under Rozwadowski and Gawroński. Interrupted in his studies by war in 1915",
+   "quote_ok": true
+  },
+  {
+   "subject": "KAŁUSKI, Antoni",
+   "type": "studied_at",
+   "object": "Oriental Institute",
+   "role": null,
+   "place": "Vladivostok",
+   "year_start": 1915,
+   "year_end": 1918,
+   "explicit": true,
+   "evidence": "ended up in Vladivostok. ... he turned into Sinology attending the little teaching the Oriental Institute was capable of giving during the war. ... Back in Vladivostok in 1918 he tried to continue his studies at Institute",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: KAŁUSKI, Antoni",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3381-kaluski-antoni.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: KAŁUSKI, Antoni",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3381/kaluski-antoni/",
+  "subject": "KAŁUSKI, Antoni",
+  "birth_year": 1894,
+  "death_year": 1935
+ },
+ "model": "gemini-flash-latest"
+}

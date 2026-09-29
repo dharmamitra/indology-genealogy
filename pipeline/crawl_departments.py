@@ -33,6 +33,9 @@ department(s) at {inst}{where} that work on any of: Indology / Sanskrit / South 
 Tibetan studies, Indian philosophy (in Japan: 印度哲学, 仏教学, インド学, 仏教文化). Prefer the department's own \
 "people" / "staff" / "members" / "教員紹介" / "スタッフ" pages over the university-wide directory. Answer with the department name(s) and the full URLs of \
 those pages (up to 8 URLs). If the institution has no such department, say so."""
+PROJECT_PROMPT = """Find the web page(s) listing the TEAM / members / people of the research project "{inst}"{where}. \
+Answer with the project's full name, its host institution(s), and the full URLs of the team page(s) (up to 6). If the \
+project has no such page, say so."""
 FIND_SCHEMA = {"type": "ARRAY", "items": {"type": "OBJECT", "properties": {"url": {"type": "STRING"}, "department": {"type": "STRING"}}, "required": ["url"]}}
 
 READ_PROMPT = """Below is the text of a web page ({url}) of {inst} — {dept}, fetched on {today}. List every person on it who is a \
@@ -132,10 +135,17 @@ def links(page, base):
 def one(client, tgt):
     inst = tgt["label"]
     where = f' ({tgt.get("city") or ""}, {tgt.get("country") or ""})'.replace(" (, )", "")
-    pages = gem(client, FIND_PROMPT.format(inst=inst, where=where), FIND_SCHEMA, search=True)
+    if tgt.get("urls"):  # pages given by hand
+        pages = [{"url": u, "department": tgt.get("department") or inst} for u in tgt["urls"]]
+    elif tgt.get("project"):
+        pages = gem(client, PROJECT_PROMPT.format(inst=inst, where=f' ({tgt["project"]})'), FIND_SCHEMA, search=True)
+    else:
+        pages = gem(client, FIND_PROMPT.format(inst=inst, where=where), FIND_SCHEMA, search=True)
     recs = []
     seen_names = set()
     for pg in pages[:8]:
+        if tgt.get("project") and not tgt.get("urls") and not re.search(r"(?i)team|member|people|staff|about|project|who", pg.get("url", "")):
+            continue
         url = pg.get("url", "")
         if not url.startswith("http"):
             continue
@@ -161,7 +171,7 @@ def one(client, tgt):
                 if len(nm) < 3:
                     continue
                 role = p.get("position") or {"faculty": "faculty", "emeritus": "Professor emeritus", "postdoc_or_fellow": "research fellow", "doctoral_student": "doctoral student"}[p["status"]]
-                typ = "studied_at" if p["status"] == "doctoral_student" else "position_at"
+                typ = "studied_at" if p["status"] == "doctoral_student" and not tgt.get("project") else "position_at"
                 key = (nm, typ)
                 if key in seen_names:
                     continue
@@ -169,9 +179,10 @@ def one(client, tgt):
                 rels.append({"subject": nm, "type": typ, "object": inst, "role": role, "place": None, "year_start": None, "year_end": None,
                              "explicit": True, "evidence": p["evidence"], "quote_ok": True, "web_status": p["status"], "web_field": p.get("field"),
                              "name_latin": p.get("name_latin")})
-                if p.get("supervisor"):
-                    rels.append({"subject": nm, "type": "student_of", "object": p["supervisor"].strip(), "role": "doctoral supervisor", "place": inst,
-                                 "year_start": None, "year_end": None, "explicit": True, "evidence": p["evidence"], "quote_ok": True})
+                for sup in re.split(r"\s*(?:,|;|/| and | & | und | et )\s*", p.get("supervisor") or ""):  # "A and B" -> two supervisors
+                    if len(sup.strip()) > 3:
+                        rels.append({"subject": nm, "type": "student_of", "object": sup.strip(), "role": "doctoral supervisor", "place": inst,
+                                     "year_start": None, "year_end": None, "explicit": True, "evidence": p["evidence"], "quote_ok": True})
             if rels:
                 rid = hashlib.sha1(u.encode()).hexdigest()[:16]
                 recs.append({"author": None, "doc_kind": "other", "doc_year": YEAR, "people": [{"name": r["subject"], "field": r.get("web_field")} for r in rels if r.get("web_field")],

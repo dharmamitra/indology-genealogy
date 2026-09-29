@@ -1,0 +1,107 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2023,
+ "people": [
+  {
+   "name": "Heinrich Meinhard",
+   "birth_year": 1900,
+   "death_year": 1975,
+   "nationality": "German",
+   "field": "Anthropology"
+  },
+  {
+   "name": "Kirfel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "MEINHARD, Heinrich – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1900,
+   "death_year": 1975
+  },
+  {
+   "name": "MEINHARD, Heinrich",
+   "birth_year": 1900,
+   "death_year": 1975
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Heinrich Meinhard",
+   "type": "student_of",
+   "object": "Kirfel",
+   "role": "doctoral supervisor",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": 1928,
+   "explicit": true,
+   "evidence": "Ph.D. 1928 Bonn under Kirfel, but then turned to anthropology.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Meinhard",
+   "type": "studied_at",
+   "object": "Bonn",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1928,
+   "explicit": true,
+   "evidence": "Ph.D. 1928 Bonn under Kirfel",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Meinhard",
+   "type": "position_at",
+   "object": "Berlin Ethnographic Museum",
+   "role": "Curator of Indian civilisation",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": 1937,
+   "explicit": true,
+   "evidence": "Curator of Indian civilisation in Berlin Ethnographic Museum. To save his Jewish wife he escaped 1937 to the U.K.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Meinhard",
+   "type": "position_at",
+   "object": "Pitt Rivers Museum in Oxford",
+   "role": null,
+   "place": "Oxford",
+   "year_start": 1938,
+   "year_end": 1947,
+   "explicit": true,
+   "evidence": "worked in Pitt Rivers Museum in Oxford in 1938-47 cataloguing ethnographic collections.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Meinhard",
+   "type": "position_at",
+   "object": "Durham University",
+   "role": "Reader of Anthropology",
+   "place": null,
+   "year_start": 1950,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1950 Reader of Anthropology at Durham University, until retirement.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MEINHARD, Heinrich",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/34329-meinhard-heinrich.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MEINHARD, Heinrich",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/34329/meinhard-heinrich/",
+  "subject": "MEINHARD, Heinrich",
+  "birth_year": 1900,
+  "death_year": 1975
+ },
+ "model": "gemini-flash-latest"
+}

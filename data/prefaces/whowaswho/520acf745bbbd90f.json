@@ -1,0 +1,64 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Benfey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indologist"
+  },
+  {
+   "name": "DAVIES, John – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1853,
+   "death_year": 1857
+  },
+  {
+   "name": "DAVIES, John",
+   "birth_year": 1853,
+   "death_year": 1857
+  }
+ ],
+ "relations": [
+  {
+   "subject": "DAVIES, John",
+   "type": "studied_at",
+   "object": "Cambridge",
+   "role": "B.A., M.A.",
+   "place": null,
+   "year_start": 1838,
+   "year_end": 1845,
+   "explicit": true,
+   "evidence": "From 1838 studies at Cambridge (St.John’s College, B.A. 1842, M.A. 1845).",
+   "quote_ok": true
+  },
+  {
+   "subject": "DAVIES, John",
+   "type": "collaborated_with",
+   "object": "Benfey",
+   "role": "corresponded with",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "corresponded with German Indologists (Benfey)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: DAVIES, John",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1496-davies-john.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: DAVIES, John",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1496/davies-john/",
+  "subject": "DAVIES, John",
+  "birth_year": 1853,
+  "death_year": 1857
+ },
+ "model": "gemini-flash-latest"
+}

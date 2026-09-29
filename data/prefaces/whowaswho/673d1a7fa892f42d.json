@@ -1,0 +1,133 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Georg Hüsing",
+   "birth_year": 1869,
+   "death_year": 1930,
+   "nationality": "German",
+   "field": "Near Eastern and Iranian history"
+  },
+  {
+   "name": "Andreas",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Iranian"
+  },
+  {
+   "name": "F. W. König",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "HÜSING, Georg",
+   "birth_year": 1869,
+   "death_year": 1930
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Georg Hüsing",
+   "type": "studied_at",
+   "object": "Breslau",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Breslau, Berlin (i.al. under Andreas) and Königsberg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Hüsing",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Breslau, Berlin (i.al. under Andreas) and Königsberg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Hüsing",
+   "type": "student_of",
+   "object": "Andreas",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Berlin (i.al. under Andreas)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Hüsing",
+   "type": "studied_at",
+   "object": "Königsberg",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "Ph.D. 1897 Königsberg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Hüsing",
+   "type": "studied_at",
+   "object": "Vienna",
+   "role": "Habilitation",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": 1912,
+   "explicit": true,
+   "evidence": "then Habilitation at Vienna in 1912 “für Geschichte und Kulturgeschichte des alten Orients”.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Hüsing",
+   "type": "position_at",
+   "object": "Vienna",
+   "role": "ao. Professor",
+   "place": "Vienna",
+   "year_start": 1921,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1921 ao. Professor there “für Geschichte der alten Völker Vorderasiens”.",
+   "quote_ok": true
+  },
+  {
+   "subject": "F. W. König",
+   "type": "student_of",
+   "object": "Georg Hüsing",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among his students was F. W. König.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HÜSING, Georg",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3144-husing-georg.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HÜSING, Georg",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3144/husing-georg/",
+  "subject": "HÜSING, Georg",
+  "birth_year": 1869,
+  "death_year": 1930
+ },
+ "model": "gemini-flash-latest"
+}

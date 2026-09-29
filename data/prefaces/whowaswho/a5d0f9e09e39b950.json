@@ -1,0 +1,59 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Ondřej Novák",
+   "birth_year": 1946,
+   "death_year": 1977,
+   "nationality": "Czech",
+   "field": "Indian History"
+  },
+  {
+   "name": "NOVÁK, Ondřej",
+   "birth_year": 1946,
+   "death_year": 1977
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ondřej Novák",
+   "type": "studied_at",
+   "object": "Prague",
+   "role": null,
+   "place": "Prague",
+   "year_start": 1965,
+   "year_end": 1969,
+   "explicit": true,
+   "evidence": "In 1965-69 studies of Indology, philosophy and history at Prague.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ondřej Novák",
+   "type": "studied_at",
+   "object": "Prague",
+   "role": "Ph.D.",
+   "place": "Prague",
+   "year_start": null,
+   "year_end": 1975,
+   "explicit": false,
+   "evidence": "In 1965-69 studies of Indology, philosophy and history at Prague. Ph.D. 1975.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: NOVÁK, Ondřej",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/18748-novak-ondrej.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: NOVÁK, Ondřej",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/18748/novak-ondrej/",
+  "subject": "NOVÁK, Ondřej",
+  "birth_year": 1946,
+  "death_year": 1977
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,157 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Oldřich Hujer",
+   "birth_year": 1880,
+   "death_year": 1942,
+   "nationality": "Czech",
+   "field": "IE and Slavic Linguist"
+  },
+  {
+   "name": "Zubatý",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Leskien",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "HUJER, Oldřich",
+   "birth_year": 1880,
+   "death_year": 1942
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Oldřich Hujer",
+   "type": "student_of",
+   "object": "Zubatý",
+   "role": "doctoral supervisor",
+   "place": "Prague",
+   "year_start": null,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "Student of Zubatý at Prague, Ph.D. 1910.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Oldřich Hujer",
+   "type": "studied_at",
+   "object": "Prague",
+   "role": "Ph.D.",
+   "place": "Prague",
+   "year_start": null,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "Student of Zubatý at Prague, Ph.D. 1910.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Oldřich Hujer",
+   "type": "student_of",
+   "object": "Leskien",
+   "role": "teacher",
+   "place": "Leipzig",
+   "year_start": 1909,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "Also studied 1909-10 at Leipzig under Leskien.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Oldřich Hujer",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": 1909,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "Also studied 1909-10 at Leipzig under Leskien.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Oldřich Hujer",
+   "type": "position_at",
+   "object": "Prague",
+   "role": "PD",
+   "place": "Prague",
+   "year_start": 1911,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "PD 1911 Prague",
+   "quote_ok": true
+  },
+  {
+   "subject": "Oldřich Hujer",
+   "type": "position_at",
+   "object": "Charles University in Prague",
+   "role": "ao, Professor",
+   "place": "Prague",
+   "year_start": 1919,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1919 ao, Professor and then succeeded Zubatý as the ord. Professor of Comparative IE Linguistics at Charles University in Prague in 1924-1942.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Oldřich Hujer",
+   "type": "succeeded",
+   "object": "Zubatý",
+   "role": "ord. Professor of Comparative IE Linguistics",
+   "place": "Charles University in Prague",
+   "year_start": 1924,
+   "year_end": 1942,
+   "explicit": true,
+   "evidence": "succeeded Zubatý as the ord. Professor of Comparative IE Linguistics at Charles University in Prague in 1924-1942.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Oldřich Hujer",
+   "type": "position_at",
+   "object": "Charles University in Prague",
+   "role": "ord. Professor of Comparative IE Linguistics",
+   "place": "Prague",
+   "year_start": 1924,
+   "year_end": 1942,
+   "explicit": true,
+   "evidence": "succeeded Zubatý as the ord. Professor of Comparative IE Linguistics at Charles University in Prague in 1924-1942.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Oldřich Hujer",
+   "type": "position_at",
+   "object": "Brno",
+   "role": "teacher",
+   "place": "Brno",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Also taught at Brno.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HUJER, Oldřich",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3150-hujer-oldrich.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HUJER, Oldřich",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3150/hujer-oldrich/",
+  "subject": "HUJER, Oldřich",
+  "birth_year": 1880,
+  "death_year": 1942
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Jacques van Ginneken",
+   "birth_year": 1877,
+   "death_year": 1945,
+   "nationality": "Dutch",
+   "field": "Linguist"
+  },
+  {
+   "name": "Uhlenbeck",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "GINNEKEN, Jacques van",
+   "birth_year": 1877,
+   "death_year": 1945
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jacques van Ginneken",
+   "type": "studied_at",
+   "object": "Leiden",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": 1902,
+   "year_end": 1907,
+   "explicit": true,
+   "evidence": "From 1902 studied Dutch at Leiden, Ph.D. 1907 under Uhlenbeck.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jacques van Ginneken",
+   "type": "student_of",
+   "object": "Uhlenbeck",
+   "role": "doctoral supervisor",
+   "place": "Leiden",
+   "year_start": 1902,
+   "year_end": 1907,
+   "explicit": true,
+   "evidence": "From 1902 studied Dutch at Leiden, Ph.D. 1907 under Uhlenbeck.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jacques van Ginneken",
+   "type": "position_at",
+   "object": "Catholic University",
+   "role": "Professor in de Nederlandse taal- en letterkunde, de vergelijkende Indogermaanse taalwetenschap en het Sanskrit",
+   "place": "Nijmegen",
+   "year_start": 1923,
+   "year_end": 1945,
+   "explicit": true,
+   "evidence": "from 1923 at the new Catholic University as “Professor in de Nederlandse taal- en letterkunde, de vergelijkende Indogermaanse taalwetenschap en het Sanskrit”, until his death.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GINNEKEN, Jacques van",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2265-ginneken-jacques-jacobus-johannes-antonius-van.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GINNEKEN, Jacques van",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2265/ginneken-jacques-jacobus-johannes-antonius-van/",
+  "subject": "GINNEKEN, Jacques van",
+  "birth_year": 1877,
+  "death_year": 1945
+ },
+ "model": "gemini-flash-latest"
+}

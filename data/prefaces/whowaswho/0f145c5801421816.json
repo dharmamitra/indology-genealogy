@@ -1,0 +1,66 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Mathilde Deromps",
+   "birth_year": 1892,
+   "death_year": null,
+   "nationality": "Belgian",
+   "field": null
+  },
+  {
+   "name": "J. Bloch",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "DEROMPS, Mathilde",
+   "birth_year": 1892,
+   "death_year": 1911
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Mathilde Deromps",
+   "type": "student_of",
+   "object": "J. Bloch",
+   "role": "teacher",
+   "place": "E.P.H.E.",
+   "year_start": 1911,
+   "year_end": 1914,
+   "explicit": true,
+   "evidence": "In 1911-14 studied under J. Bloch at E.P.H.E.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mathilde Deromps",
+   "type": "studied_at",
+   "object": "E.P.H.E.",
+   "role": null,
+   "place": null,
+   "year_start": 1911,
+   "year_end": 1914,
+   "explicit": true,
+   "evidence": "In 1911-14 studied under J. Bloch at E.P.H.E.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: DEROMPS, Mathilde",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/13570-deromps-mathilde.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: DEROMPS, Mathilde",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/13570/deromps-mathilde/",
+  "subject": "DEROMPS, Mathilde",
+  "birth_year": 1892,
+  "death_year": 1911
+ },
+ "model": "gemini-flash-latest"
+}

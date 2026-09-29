@@ -1,0 +1,85 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2018,
+ "people": [
+  {
+   "name": "Heinrich Adalbert von Wlislocki",
+   "birth_year": 1856,
+   "death_year": 1907,
+   "nationality": "Austrian",
+   "field": "Gypsy Scholar"
+  },
+  {
+   "name": "Brassai",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Fanny Dörfler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Hungarian",
+   "field": "folklorist"
+  },
+  {
+   "name": "WLISLOCKI, Heinrich von",
+   "birth_year": 1856,
+   "death_year": 1907
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Heinrich Adalbert von Wlislocki",
+   "type": "studied_at",
+   "object": "Klausenburg",
+   "role": "Ph.D.",
+   "place": "Cluj-Napoca",
+   "year_start": 1875,
+   "year_end": 1879,
+   "explicit": true,
+   "evidence": "In 1875-79 studied at Klausenburg (Cluj-Napoca), mainly Germanic, but also Sanskrit (Brassai). ... Ph.D. 1879 (diss. on Edda).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Adalbert von Wlislocki",
+   "type": "student_of",
+   "object": "Brassai",
+   "role": "teacher",
+   "place": "Klausenburg",
+   "year_start": 1875,
+   "year_end": 1879,
+   "explicit": true,
+   "evidence": "In 1875-79 studied at Klausenburg (Cluj-Napoca), mainly Germanic, but also Sanskrit (Brassai).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Adalbert von Wlislocki",
+   "type": "other",
+   "object": "Fanny Dörfler",
+   "role": "spouse",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "remarried Fanny (Fani) Dörfler, a Hungarian folklorist and teacher.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: WLISLOCKI, Heinrich von",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/11500-wlislocki-heinrich-adalbert-von.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: WLISLOCKI, Heinrich von",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/11500/wlislocki-heinrich-adalbert-von/",
+  "subject": "WLISLOCKI, Heinrich von",
+  "birth_year": 1856,
+  "death_year": 1907
+ },
+ "model": "gemini-flash-latest"
+}

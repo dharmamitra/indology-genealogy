@@ -1,0 +1,63 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Hippolyte Fauche",
+   "birth_year": 1795,
+   "death_year": 1869,
+   "nationality": "French",
+   "field": "Translator of Sanskrit Classics"
+  },
+  {
+   "name": "Burnouf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Barthélemy-Saint-Hilaire",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Michaud",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hippolyte Fauche",
+   "type": "student_of",
+   "object": "Burnouf",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He attended Burnouf’s classes",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: FAUCHE, Hippolyte",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1897-fauche-hippolyte.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: FAUCHE, Hippolyte",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1897/fauche-hippolyte/",
+  "subject": "FAUCHE, Hippolyte",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

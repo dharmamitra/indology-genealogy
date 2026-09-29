@@ -1,0 +1,54 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Nicholas Trübner",
+   "birth_year": 1817,
+   "death_year": 1884,
+   "nationality": "German",
+   "field": "Oriental Scholar"
+  },
+  {
+   "name": "Goldstücker",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "TRÜBNER, Nicholas",
+   "birth_year": 1817,
+   "death_year": 1884
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Nicholas Trübner",
+   "type": "student_of",
+   "object": "Goldstücker",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was himself a scholar and studied Sanskrit under Goldstücker.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: TRÜBNER, Nicholas",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5072-trubner-nicholas.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: TRÜBNER, Nicholas",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5072/trubner-nicholas/",
+  "subject": "TRÜBNER, Nicholas",
+  "birth_year": 1817,
+  "death_year": 1884
+ },
+ "model": "gemini-flash-latest"
+}

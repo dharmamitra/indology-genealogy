@@ -1,0 +1,102 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Brockhaus",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Curtius",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "classics"
+  },
+  {
+   "name": "KELLNER, Hermann Camillo",
+   "birth_year": 1839,
+   "death_year": 1916
+  }
+ ],
+ "relations": [
+  {
+   "subject": "KELLNER, Hermann Camillo",
+   "type": "student_of",
+   "object": "Brockhaus",
+   "role": "teacher",
+   "place": "Leipzig",
+   "year_start": 1859,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1859 studies of Indology (under Brockhaus) and classics (i.al. Curtius) at Leipzig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "KELLNER, Hermann Camillo",
+   "type": "student_of",
+   "object": "Curtius",
+   "role": "teacher",
+   "place": "Leipzig",
+   "year_start": 1859,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1859 studies of Indology (under Brockhaus) and classics (i.al. Curtius) at Leipzig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "KELLNER, Hermann Camillo",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": 1859,
+   "year_end": 1862,
+   "explicit": true,
+   "evidence": "From 1859 studies of Indology (under Brockhaus) and classics (i.al. Curtius) at Leipzig. Ph.D. 1862.",
+   "quote_ok": true
+  },
+  {
+   "subject": "KELLNER, Hermann Camillo",
+   "type": "position_at",
+   "object": "Thomasschule in Leipzig",
+   "role": "teacher",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After a brief time as teacher at Thomasschule in Leipzig he went to Zwickau",
+   "quote_ok": true
+  },
+  {
+   "subject": "KELLNER, Hermann Camillo",
+   "type": "position_at",
+   "object": "Gymnasium there",
+   "role": "Professor",
+   "place": "Zwickau",
+   "year_start": 1887,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he went to Zwickau and was teacher, from 1887 Professor at Gymnasium there.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: KELLNER, Hermann Camillo",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3433-kellner-hermann-camillo.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: KELLNER, Hermann Camillo",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3433/kellner-hermann-camillo/",
+  "subject": "KELLNER, Hermann Camillo",
+  "birth_year": 1839,
+  "death_year": 1916
+ },
+ "model": "gemini-flash-latest"
+}

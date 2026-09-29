@@ -1,0 +1,150 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Adolf Holtzmann (der jüngere)",
+   "birth_year": 1838,
+   "death_year": 1914,
+   "nationality": "German",
+   "field": "Indologist"
+  },
+  {
+   "name": "Adolf Holtzmann d.ä.",
+   "birth_year": 1810,
+   "death_year": 1870,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Spiegel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "HOLTZMANN, Adolf (junior) – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1810,
+   "death_year": 1870
+  },
+  {
+   "name": "HOLTZMANN, Adolf (junior)",
+   "birth_year": 1838,
+   "death_year": 1914
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Adolf Holtzmann (der jüngere)",
+   "type": "other",
+   "object": "Adolf Holtzmann d.ä.",
+   "role": "nephew",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Nephew of —> Adolf Holtzmann d.ä. (1810–1870).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Holtzmann (der jüngere)",
+   "type": "studied_at",
+   "object": "Heidelberg",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Heidelberg under his uncle",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Holtzmann (der jüngere)",
+   "type": "student_of",
+   "object": "Adolf Holtzmann d.ä.",
+   "role": "teacher",
+   "place": "Heidelberg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Heidelberg under his uncle",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Holtzmann (der jüngere)",
+   "type": "studied_at",
+   "object": "Erlangen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and at Erlangen under Spiegel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Holtzmann (der jüngere)",
+   "type": "student_of",
+   "object": "Spiegel",
+   "role": "teacher",
+   "place": "Erlangen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and at Erlangen under Spiegel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Holtzmann (der jüngere)",
+   "type": "position_at",
+   "object": "Freiburg i. Br.",
+   "role": "ao. Professor of Sanskrit and comparative linguistics",
+   "place": null,
+   "year_start": 1885,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1885 ao. Professor of Sanskrit and comparative linguistics at Freiburg i. Br.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Holtzmann (der jüngere)",
+   "type": "position_at",
+   "object": "Freiburg i. Br.",
+   "role": "Honorarprofessor",
+   "place": null,
+   "year_start": 1890,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1890 Honorarprofessor",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Holtzmann (der jüngere)",
+   "type": "position_at",
+   "object": "Freiburg i. Br.",
+   "role": "ord. Honorarprofessor",
+   "place": null,
+   "year_start": 1908,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1908 ord. Honorarprofessor there.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HOLTZMANN, Adolf (junior)",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3074-holtzmann-adolf-d-j.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HOLTZMANN, Adolf (junior)",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3074/holtzmann-adolf-d-j/",
+  "subject": "HOLTZMANN, Adolf (junior)",
+  "birth_year": 1838,
+  "death_year": 1914
+ },
+ "model": "gemini-flash-latest"
+}

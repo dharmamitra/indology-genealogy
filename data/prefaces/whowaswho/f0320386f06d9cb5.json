@@ -1,0 +1,54 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "John Butler",
+   "birth_year": 1809,
+   "death_year": 1874,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "John Butler",
+   "birth_year": 1843,
+   "death_year": 1876,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BUTLER, John (Colonel)",
+   "birth_year": 1809,
+   "death_year": 1874
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Butler",
+   "type": "other",
+   "object": "John Butler",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "father of the younger —> John Butler (1843?–1876)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BUTLER, John (Colonel)",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/12646-butler-john.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BUTLER, John (Colonel)",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/12646/butler-john/",
+  "subject": "BUTLER, John (Colonel)",
+  "birth_year": 1809,
+  "death_year": 1874
+ },
+ "model": "gemini-flash-latest"
+}

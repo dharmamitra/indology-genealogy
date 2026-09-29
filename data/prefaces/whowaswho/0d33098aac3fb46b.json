@@ -1,0 +1,181 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Hermann Günther Grassmann",
+   "birth_year": 1809,
+   "death_year": 1877,
+   "nationality": "German",
+   "field": "Indologist and Mathematician"
+  },
+  {
+   "name": "Schleiermacher",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "theology"
+  },
+  {
+   "name": "Böckh",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "philology"
+  },
+  {
+   "name": "Justus Günther Grassmann",
+   "birth_year": 1779,
+   "death_year": 1852,
+   "nationality": null,
+   "field": "mathematics"
+  },
+  {
+   "name": "GRASSMANN, Hermann – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1779,
+   "death_year": 1852
+  },
+  {
+   "name": "GRASSMANN, Hermann",
+   "birth_year": 1809,
+   "death_year": 1877
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hermann Günther Grassmann",
+   "type": "student_of",
+   "object": "Schleiermacher",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1827,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1827 studies of theology at Berlin under Schleiermacher",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Günther Grassmann",
+   "type": "student_of",
+   "object": "Böckh",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1827,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "also philology under Böckh",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Günther Grassmann",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1827,
+   "year_end": 1830,
+   "explicit": true,
+   "evidence": "From 1827 studies of theology at Berlin under Schleiermacher, also philology under Böckh and privately mathematics. In 1830 returned to Stettin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Günther Grassmann",
+   "type": "position_at",
+   "object": "Berliner Gewerbeschule",
+   "role": "teacher of mathematics",
+   "place": "Berlin",
+   "year_start": 1834,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1834 teacher of mathematics at Berliner Gewerbeschule",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Günther Grassmann",
+   "type": "position_at",
+   "object": "Ottoschule in Stettin",
+   "role": "erster wissenschaftlicher Lehrer",
+   "place": "Stettin",
+   "year_start": 1836,
+   "year_end": 1842,
+   "explicit": true,
+   "evidence": "in 1836-42 “erster wissenschaftlicher Lehrer” at Ottoschule in Stettin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Günther Grassmann",
+   "type": "position_at",
+   "object": "Stettin Gymnasium",
+   "role": null,
+   "place": "Stettin",
+   "year_start": 1842,
+   "year_end": 1843,
+   "explicit": true,
+   "evidence": "in 1842-43 at Stettin Gymnasium",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Günther Grassmann",
+   "type": "position_at",
+   "object": "Friedrich-Wilhelmschule",
+   "role": "teacher of mathematics",
+   "place": "Stettin",
+   "year_start": 1843,
+   "year_end": 1852,
+   "explicit": true,
+   "evidence": "1843-52 teacher of mathematics at Friedrich-Wilhelmschule",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Günther Grassmann",
+   "type": "position_at",
+   "object": "Marienstifts-Gymnasium in Stettin",
+   "role": "Professor of Mathematics",
+   "place": "Stettin",
+   "year_start": 1852,
+   "year_end": 1877,
+   "explicit": true,
+   "evidence": "In 1852 succeeded his father as Professor of Mathematics at Marienstifts-Gymnasium in Stettin, remained there until his death.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Günther Grassmann",
+   "type": "succeeded",
+   "object": "Justus Günther Grassmann",
+   "role": "Professor of Mathematics",
+   "place": "Marienstifts-Gymnasium in Stettin",
+   "year_start": 1852,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1852 succeeded his father as Professor of Mathematics at Marienstifts-Gymnasium in Stettin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Günther Grassmann",
+   "type": "other",
+   "object": "Justus Günther Grassmann",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of Justus Günther Grassmann (1779–1852) a teacher of mathematics",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GRASSMANN, Hermann",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2390-grassmann-hermann-gunther.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GRASSMANN, Hermann",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2390/grassmann-hermann-gunther/",
+  "subject": "GRASSMANN, Hermann",
+  "birth_year": 1809,
+  "death_year": 1877
+ },
+ "model": "gemini-flash-latest"
+}

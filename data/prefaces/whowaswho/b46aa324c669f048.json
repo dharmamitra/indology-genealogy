@@ -1,0 +1,102 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Thomas Procter",
+   "birth_year": 1797,
+   "death_year": 1836,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "H. H. Wilson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "PROCTER, Thomas",
+   "birth_year": 1797,
+   "death_year": 1836
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Thomas Procter",
+   "type": "studied_at",
+   "object": "Oxford (Jesus College)",
+   "role": "B.A.",
+   "place": null,
+   "year_start": 1818,
+   "year_end": 1821,
+   "explicit": true,
+   "evidence": "From 1818 studies at Oxford (Jesus College), B.A. 1821",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Procter",
+   "type": "studied_at",
+   "object": "Oxford (Jesus College)",
+   "role": "M.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1824,
+   "explicit": true,
+   "evidence": "From 1818 studies at Oxford (Jesus College), B.A. 1821, M.A. 1824.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Procter",
+   "type": "position_at",
+   "object": "Queen’s College",
+   "role": "Fellow",
+   "place": null,
+   "year_start": 1824,
+   "year_end": 1826,
+   "explicit": true,
+   "evidence": "Fellow of Queen’s College 1824-26.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Procter",
+   "type": "position_at",
+   "object": "College of Fort William",
+   "role": "Examiner",
+   "place": null,
+   "year_start": 1828,
+   "year_end": 1828,
+   "explicit": true,
+   "evidence": "Examiner at College of Fort William (1828).",
+   "quote_ok": true
+  },
+  {
+   "subject": "H. H. Wilson",
+   "type": "position_at",
+   "object": "Oxford",
+   "role": "Boden chair of Sanskrit",
+   "place": null,
+   "year_start": 1831,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1831 among the applicants for Boden chair of Sanskrit at Oxford (then given to H. H. Wilson).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: PROCTER, Thomas",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/19819-procter-thomas.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: PROCTER, Thomas",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/19819/procter-thomas/",
+  "subject": "PROCTER, Thomas",
+  "birth_year": 1797,
+  "death_year": 1836
+ },
+ "model": "gemini-flash-latest"
+}

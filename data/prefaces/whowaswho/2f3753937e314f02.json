@@ -1,0 +1,85 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Aleksej Stepanovič Homjakov",
+   "birth_year": 1804,
+   "death_year": 1860,
+   "nationality": "Russian",
+   "field": null
+  },
+  {
+   "name": "Kossovič",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hil’ferding",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "HOMJAKOV, Aleksej Stepanovič",
+   "birth_year": 1804,
+   "death_year": 1860
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Kossovič",
+   "type": "student_of",
+   "object": "Aleksej Stepanovič Homjakov",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a friend and teacher of Kossovič",
+   "quote_ok": true
+  },
+  {
+   "subject": "Aleksej Stepanovič Homjakov",
+   "type": "other",
+   "object": "Kossovič",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a friend and teacher of Kossovič",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hil’ferding",
+   "type": "influenced_by",
+   "object": "Aleksej Stepanovič Homjakov",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "prompted Hil’ferding to learn Sanskrit",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HOMJAKOV, Aleksej Stepanovič",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3080-homjakov-aleksej-stepanovic.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HOMJAKOV, Aleksej Stepanovič",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3080/homjakov-aleksej-stepanovic/",
+  "subject": "HOMJAKOV, Aleksej Stepanovič",
+  "birth_year": 1804,
+  "death_year": 1860
+ },
+ "model": "gemini-flash-latest"
+}

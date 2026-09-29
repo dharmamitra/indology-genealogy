@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Susan R. Ward",
+   "birth_year": 1822,
+   "death_year": 1884,
+   "nationality": "American",
+   "field": "Assamese"
+  },
+  {
+   "name": "William Ward",
+   "birth_year": null,
+   "death_year": 1873,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "WARD, Susan R. – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1819,
+   "death_year": 1855
+  },
+  {
+   "name": "WARD, Susan R",
+   "birth_year": 1822,
+   "death_year": 1884
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Susan R. Ward",
+   "type": "other",
+   "object": "William Ward",
+   "role": "spouse",
+   "place": null,
+   "year_start": 1860,
+   "year_end": 1873,
+   "explicit": true,
+   "evidence": "she married 1860 Rev. William Ward (d. 1873), also a widower, and worked with him as teacher in Sibsagar",
+   "quote_ok": true
+  },
+  {
+   "subject": "Susan R. Ward",
+   "type": "collaborated_with",
+   "object": "William Ward",
+   "role": "teacher in Sibsagar",
+   "place": "Sibsagar",
+   "year_start": 1860,
+   "year_end": 1873,
+   "explicit": true,
+   "evidence": "worked with him as teacher in Sibsagar",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: WARD, Susan R",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/23063-ward-susan-r.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: WARD, Susan R",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/23063/ward-susan-r/",
+  "subject": "WARD, Susan R",
+  "birth_year": 1822,
+  "death_year": 1884
+ },
+ "model": "gemini-flash-latest"
+}

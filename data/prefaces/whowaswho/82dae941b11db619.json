@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "João Baptista Amâncio Gracias",
+   "birth_year": 1872,
+   "death_year": 1950,
+   "nationality": "Portuguese",
+   "field": "Historian"
+  },
+  {
+   "name": "Caetano Gracias",
+   "birth_year": 1865,
+   "death_year": 1944,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "GRACIAS, Amâncio – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1865,
+   "death_year": 1944
+  },
+  {
+   "name": "GRACIAS, Amâncio",
+   "birth_year": 1872,
+   "death_year": 1950
+  }
+ ],
+ "relations": [
+  {
+   "subject": "João Baptista Amâncio Gracias",
+   "type": "other",
+   "object": "Caetano Gracias",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "brother of —> Caetano Gracias (1865–1944)",
+   "quote_ok": true
+  },
+  {
+   "subject": "João Baptista Amâncio Gracias",
+   "type": "studied_at",
+   "object": "Bombay University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studies at Bombay University",
+   "quote_ok": true
+  },
+  {
+   "subject": "João Baptista Amâncio Gracias",
+   "type": "position_at",
+   "object": "Lisbon Academy of Sciences",
+   "role": "member",
+   "place": null,
+   "year_start": 1900,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1900 member of Lisbon Academy of Sciences",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GRACIAS, Amâncio",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2370-gracias-joao-baptista-amancio.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GRACIAS, Amâncio",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2370/gracias-joao-baptista-amancio/",
+  "subject": "GRACIAS, Amâncio",
+  "birth_year": 1872,
+  "death_year": 1950
+ },
+ "model": "gemini-flash-latest"
+}

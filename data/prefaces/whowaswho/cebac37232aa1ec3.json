@@ -1,0 +1,126 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Emmy Wellesz",
+   "birth_year": 1889,
+   "death_year": 1987,
+   "nationality": "Austrian",
+   "field": "Art Historian"
+  },
+  {
+   "name": "Egon Wellesz",
+   "birth_year": 1885,
+   "death_year": 1974,
+   "nationality": null,
+   "field": "musicology"
+  },
+  {
+   "name": "Strzygowski",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "WELLESZ, Emmy – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1852,
+   "death_year": 1913
+  },
+  {
+   "name": "WELLESZ, Emmy",
+   "birth_year": 1889,
+   "death_year": 1987
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Emmy Wellesz",
+   "type": "studied_at",
+   "object": "Vienna",
+   "role": null,
+   "place": "Vienna",
+   "year_start": 1907,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1907 studied art history at Vienna.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Emmy Wellesz",
+   "type": "other",
+   "object": "Egon Wellesz",
+   "role": "spouse",
+   "place": null,
+   "year_start": 1908,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Married 1908 Egon Wellesz (1885–1974), a composer and musicologist",
+   "quote_ok": true
+  },
+  {
+   "subject": "Emmy Wellesz",
+   "type": "studied_at",
+   "object": "Vienna",
+   "role": "Ph.D.",
+   "place": "Vienna",
+   "year_start": 1918,
+   "year_end": 1921,
+   "explicit": true,
+   "evidence": "her studies, which she resumed in 1918. In 1916 adopted Christianity. Ph.D. 1921 Vienna (under Strzygowski).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Emmy Wellesz",
+   "type": "student_of",
+   "object": "Strzygowski",
+   "role": "doctoral supervisor",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": 1921,
+   "explicit": true,
+   "evidence": "Ph.D. 1921 Vienna (under Strzygowski).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Egon Wellesz",
+   "type": "position_at",
+   "object": "Oxford",
+   "role": "Lecturer",
+   "place": null,
+   "year_start": 1943,
+   "year_end": 1948,
+   "explicit": true,
+   "evidence": "the husband became Lecturer (1943) and Reader (1948) at Oxford teaching music history.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Egon Wellesz",
+   "type": "position_at",
+   "object": "Oxford",
+   "role": "Reader",
+   "place": null,
+   "year_start": 1948,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the husband became Lecturer (1943) and Reader (1948) at Oxford teaching music history.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: WELLESZ, Emmy",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/23211-wellesz-emmy.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: WELLESZ, Emmy",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/23211/wellesz-emmy/",
+  "subject": "WELLESZ, Emmy",
+  "birth_year": 1889,
+  "death_year": 1987
+ },
+ "model": "gemini-flash-latest"
+}

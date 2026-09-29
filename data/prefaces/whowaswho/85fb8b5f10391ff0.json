@@ -1,0 +1,97 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Jan Godzimir Jaworski",
+   "birth_year": 1903,
+   "death_year": 1945,
+   "nationality": "Polish",
+   "field": "Sinologist"
+  },
+  {
+   "name": "Stanisław Schayer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jean Przyluski",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "JAWORSKI, Jan",
+   "birth_year": 1903,
+   "death_year": 1945
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jan Godzimir Jaworski",
+   "type": "student_of",
+   "object": "Stanisław Schayer",
+   "role": "teacher",
+   "place": "Warsaw",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies in Warsaw (Schayer)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Godzimir Jaworski",
+   "type": "student_of",
+   "object": "Jean Przyluski",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and Paris (Przyluski)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Godzimir Jaworski",
+   "type": "position_at",
+   "object": "Warsaw",
+   "role": "Privatdozent",
+   "place": "Warsaw",
+   "year_start": 1930,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "PD 1930 and eo. Professor 1936 at Warsaw.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan Godzimir Jaworski",
+   "type": "position_at",
+   "object": "Warsaw",
+   "role": "eo. Professor",
+   "place": "Warsaw",
+   "year_start": 1936,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "PD 1930 and eo. Professor 1936 at Warsaw.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: JAWORSKI, Jan",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2794-jaworski-jan.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: JAWORSKI, Jan",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2794/jaworski-jan/",
+  "subject": "JAWORSKI, Jan",
+  "birth_year": 1903,
+  "death_year": 1945
+ },
+ "model": "gemini-flash-latest"
+}

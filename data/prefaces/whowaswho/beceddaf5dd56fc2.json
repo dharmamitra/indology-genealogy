@@ -1,0 +1,73 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Erich Wolff",
+   "birth_year": 1902,
+   "death_year": 1995,
+   "nationality": "German",
+   "field": "Indology (Buddhism)"
+  },
+  {
+   "name": "Walleser",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Erich Wolff",
+   "type": "studied_at",
+   "object": "Hamburg",
+   "role": null,
+   "place": "Hamburg",
+   "year_start": 1921,
+   "year_end": 1924,
+   "explicit": true,
+   "evidence": "From 1921 studies at Hamburg, 1924 moved to Heidelberg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Erich Wolff",
+   "type": "studied_at",
+   "object": "Heidelberg",
+   "role": "Ph.D.",
+   "place": "Heidelberg",
+   "year_start": 1924,
+   "year_end": 1930,
+   "explicit": true,
+   "evidence": "1924 moved to Heidelberg. Ph.D. 1930 Heidelberg (under Walleser).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Erich Wolff",
+   "type": "student_of",
+   "object": "Walleser",
+   "role": "doctoral supervisor",
+   "place": "Heidelberg",
+   "year_start": null,
+   "year_end": 1930,
+   "explicit": true,
+   "evidence": "Ph.D. 1930 Heidelberg (under Walleser).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: WOLFF, Erich",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/23563-wolff-erich.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: WOLFF, Erich",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/23563/wolff-erich/",
+  "subject": "WOLFF, Erich",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

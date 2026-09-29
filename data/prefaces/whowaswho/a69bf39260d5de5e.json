@@ -1,0 +1,85 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Jean-François Desgranges",
+   "birth_year": 1765,
+   "death_year": 1848,
+   "nationality": "French",
+   "field": null
+  },
+  {
+   "name": "Chézy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Alix Desgranges",
+   "birth_year": 1793,
+   "death_year": 1854,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "DESGRANGES, Jean-François",
+   "birth_year": 1765,
+   "death_year": 1848
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jean-François Desgranges",
+   "type": "studied_at",
+   "object": "École normale",
+   "role": "alumnus",
+   "place": null,
+   "year_start": null,
+   "year_end": 1795,
+   "explicit": true,
+   "evidence": "In 1795 he is called an alumnus of École normale, having good knowledge of mathematics and physics.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean-François Desgranges",
+   "type": "student_of",
+   "object": "Chézy",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he was said to be among the first students of Chézy",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alix Desgranges",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "Professor of Turkish",
+   "place": null,
+   "year_start": 1835,
+   "year_end": 1842,
+   "explicit": true,
+   "evidence": "Professor of Turkish at Collège de France (in 1835-42)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: DESGRANGES, Jean-François",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1555-desgranges.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: DESGRANGES, Jean-François",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1555/desgranges/",
+  "subject": "DESGRANGES, Jean-François",
+  "birth_year": 1765,
+  "death_year": 1848
+ },
+ "model": "gemini-flash-latest"
+}

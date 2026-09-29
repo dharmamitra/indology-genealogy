@@ -1,0 +1,123 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "GARREZ, Pierre- Gustave",
+   "birth_year": 1834,
+   "death_year": 1888,
+   "nationality": "French",
+   "field": "Indologist"
+  },
+  {
+   "name": "Darmesteter",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hauvette-Besnault",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Guyard",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Senart",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "GARREZ, Gustave",
+   "birth_year": 1834,
+   "death_year": 1888
+  }
+ ],
+ "relations": [
+  {
+   "subject": "GARREZ, Pierre- Gustave",
+   "type": "studied_at",
+   "object": "Collège Henri IV",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "educated in Paris at Collège Henri IV and Collège Louis-le-Grand.",
+   "quote_ok": true
+  },
+  {
+   "subject": "GARREZ, Pierre- Gustave",
+   "type": "studied_at",
+   "object": "Collège Louis-le-Grand",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "educated in Paris at Collège Henri IV and Collège Louis-le-Grand.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hauvette-Besnault",
+   "type": "student_of",
+   "object": "GARREZ, Pierre- Gustave",
+   "role": "advice and guidance",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was never a teacher, although he privately gave advice and guidance to some young friends like Hauvette-Besnault, Guyard and Senart.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Guyard",
+   "type": "student_of",
+   "object": "GARREZ, Pierre- Gustave",
+   "role": "advice and guidance",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was never a teacher, although he privately gave advice and guidance to some young friends like Hauvette-Besnault, Guyard and Senart.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Senart",
+   "type": "student_of",
+   "object": "GARREZ, Pierre- Gustave",
+   "role": "advice and guidance",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was never a teacher, although he privately gave advice and guidance to some young friends like Hauvette-Besnault, Guyard and Senart.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GARREZ, Gustave",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2181-garrez-pierre-gustave.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GARREZ, Gustave",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2181/garrez-pierre-gustave/",
+  "subject": "GARREZ, Gustave",
+  "birth_year": 1834,
+  "death_year": 1888
+ },
+ "model": "gemini-flash-latest"
+}

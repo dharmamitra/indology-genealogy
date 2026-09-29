@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2022,
+ "people": [
+  {
+   "name": "Auguste Bréal",
+   "birth_year": 1868,
+   "death_year": 1941,
+   "nationality": "French",
+   "field": "Art Historian"
+  },
+  {
+   "name": "Michel Bréal",
+   "birth_year": 1832,
+   "death_year": 1915,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BRÉAL, Auguste – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1832,
+   "death_year": 1915
+  },
+  {
+   "name": "BRÉAL, Auguste",
+   "birth_year": 1868,
+   "death_year": 1941
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Auguste Bréal",
+   "type": "other",
+   "object": "Michel Bréal",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of —> Michel Bréal (1832–1915) and Henriette Bamberger.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Auguste Bréal",
+   "type": "studied_at",
+   "object": "Cambridge (Christ’s College)",
+   "role": null,
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Licencie en droit 1892 , then further studies in Cambridge (Christ’s College).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BRÉAL, Auguste",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/26429-breal-auguste.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BRÉAL, Auguste",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/26429/breal-auguste/",
+  "subject": "BRÉAL, Auguste",
+  "birth_year": 1868,
+  "death_year": 1941
+ },
+ "model": "gemini-flash-latest"
+}

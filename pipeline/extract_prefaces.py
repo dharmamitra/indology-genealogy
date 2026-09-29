@@ -126,6 +126,9 @@ def run(client, rec, model, thinking):
         try:
             data, tin, tout = llm.generate_json(client, prompt, SCHEMA, model=model, thinking=thinking, max_output_tokens=16384)
             data["author"] = author_name(data.get("author"))
+            m = rec.get("meta") or {}
+            if m.get("subject") and (m.get("birth_year") or m.get("death_year")):  # dictionary entries: dates parsed from the header
+                data.setdefault("people", []).append({"name": m["subject"], "birth_year": m.get("birth_year"), "death_year": m.get("death_year")})
             cn = _norm(wins)
             for r in data["relations"]:
                 r["quote_ok"] = quote_ok(r["evidence"], cn, wins)

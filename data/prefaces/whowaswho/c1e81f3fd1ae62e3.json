@@ -1,0 +1,133 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2018,
+ "people": [
+  {
+   "name": "Enrique Soms (y) Castelín",
+   "birth_year": 1860,
+   "death_year": 1913,
+   "nationality": "Spanish",
+   "field": "Linguist"
+  },
+  {
+   "name": "Gelabert y Gordiola",
+   "birth_year": null,
+   "death_year": 1894,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Daza de Campos",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Miguel de Unamuno",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "SOMS (Y) CASTELÍN, Enrique – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1860,
+   "death_year": 1913
+  },
+  {
+   "name": "SOMS (Y) CASTELÍN, Enrique",
+   "birth_year": 1860,
+   "death_year": 1913
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Enrique Soms (y) Castelín",
+   "type": "position_at",
+   "object": "Salamanca",
+   "role": "Professor of Greek",
+   "place": "Salamanca",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor of Greek at Salamanca",
+   "quote_ok": true
+  },
+  {
+   "subject": "Enrique Soms (y) Castelín",
+   "type": "position_at",
+   "object": "Madrid",
+   "role": "Professor of Greek",
+   "place": "Madrid",
+   "year_start": 1891,
+   "year_end": 1913,
+   "explicit": true,
+   "evidence": "from 1891-1913 at Madrid",
+   "quote_ok": true
+  },
+  {
+   "subject": "Enrique Soms (y) Castelín",
+   "type": "position_at",
+   "object": "Madrid University",
+   "role": "taught Sanskrit classes",
+   "place": "Madrid",
+   "year_start": 1894,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "After Gelabert y Gordiola’s death (1894) taught Sanskrit classes at Madrid University until Daza de Campos was nominated in 1897.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Enrique Soms (y) Castelín",
+   "type": "succeeded",
+   "object": "Gelabert y Gordiola",
+   "role": null,
+   "place": "Madrid University",
+   "year_start": 1894,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After Gelabert y Gordiola’s death (1894) taught Sanskrit classes at Madrid University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Daza de Campos",
+   "type": "succeeded",
+   "object": "Enrique Soms (y) Castelín",
+   "role": null,
+   "place": "Madrid University",
+   "year_start": 1897,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "taught Sanskrit classes at Madrid University until Daza de Campos was nominated in 1897.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Enrique Soms (y) Castelín",
+   "type": "other",
+   "object": "Miguel de Unamuno",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Friend of Miguel de Unamuno.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SOMS (Y) CASTELÍN, Enrique",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/10488-soms-y-castelin-enrique.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SOMS (Y) CASTELÍN, Enrique",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/10488/soms-y-castelin-enrique/",
+  "subject": "SOMS (Y) CASTELÍN, Enrique",
+  "birth_year": 1860,
+  "death_year": 1913
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,159 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Andreas Gottlieb Hoffmann",
+   "birth_year": 1796,
+   "death_year": 1864,
+   "nationality": "German",
+   "field": "Orientalist and Theologian"
+  },
+  {
+   "name": "Wahl",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gesenius",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kosegarten",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Brockhaus",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "HOFFMANN, Andreas Gottlieb",
+   "birth_year": 1796,
+   "death_year": 1864
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Andreas Gottlieb Hoffmann",
+   "type": "student_of",
+   "object": "Wahl",
+   "role": "teacher",
+   "place": "Halle",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "could start studies of theology and Oriental languages (under Wahl and Gesenius) at Halle.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Andreas Gottlieb Hoffmann",
+   "type": "student_of",
+   "object": "Gesenius",
+   "role": "teacher",
+   "place": "Halle",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "could start studies of theology and Oriental languages (under Wahl and Gesenius) at Halle.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Andreas Gottlieb Hoffmann",
+   "type": "studied_at",
+   "object": "Halle",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1820,
+   "explicit": true,
+   "evidence": "Ph.D. 1820 Halle",
+   "quote_ok": true
+  },
+  {
+   "subject": "Andreas Gottlieb Hoffmann",
+   "type": "position_at",
+   "object": "Halle",
+   "role": "PD of Oriental languages",
+   "place": null,
+   "year_start": 1822,
+   "year_end": 1826,
+   "explicit": true,
+   "evidence": "from 1822 PD of Oriental languages there.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Andreas Gottlieb Hoffmann",
+   "type": "position_at",
+   "object": "Jena",
+   "role": "Professor of Theology",
+   "place": null,
+   "year_start": 1826,
+   "year_end": 1864,
+   "explicit": true,
+   "evidence": "From 1826 until his death Professor of Theology at Jena (ord. 1846)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Andreas Gottlieb Hoffmann",
+   "type": "influenced_by",
+   "object": "Kosegarten",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Following Kosegarten’s (at Jena in 1817-24) example, he offered teaching of Sanskrit",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kosegarten",
+   "type": "position_at",
+   "object": "Jena",
+   "role": null,
+   "place": null,
+   "year_start": 1817,
+   "year_end": 1824,
+   "explicit": true,
+   "evidence": "Kosegarten’s (at Jena in 1817-24) example",
+   "quote_ok": true
+  },
+  {
+   "subject": "Brockhaus",
+   "type": "position_at",
+   "object": "Jena",
+   "role": "docent",
+   "place": null,
+   "year_start": 1839,
+   "year_end": 1841,
+   "explicit": true,
+   "evidence": "Brockhaus’ docentship at Jena in 1839-41",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HOFFMANN, Andreas Gottlieb",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3040-hoffmann-andreas-gottlieb.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HOFFMANN, Andreas Gottlieb",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3040/hoffmann-andreas-gottlieb/",
+  "subject": "HOFFMANN, Andreas Gottlieb",
+  "birth_year": 1796,
+  "death_year": 1864
+ },
+ "model": "gemini-flash-latest"
+}

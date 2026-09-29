@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Philosseno Luzzato",
+   "birth_year": 1829,
+   "death_year": 1854,
+   "nationality": "Italian",
+   "field": "Oriental Scholar"
+  },
+  {
+   "name": "Samuel David Luzzato",
+   "birth_year": 1800,
+   "death_year": 1865,
+   "nationality": null,
+   "field": "Jewish scholar"
+  },
+  {
+   "name": "LUZZATO, Philosseno – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1800,
+   "death_year": 1865
+  },
+  {
+   "name": "LUZZATO, Philosseno",
+   "birth_year": 1829,
+   "death_year": 1854
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Philosseno Luzzato",
+   "type": "student_of",
+   "object": "Samuel David Luzzato",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "As child he learned Hebrew from his father",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philosseno Luzzato",
+   "type": "other",
+   "object": "Samuel David Luzzato",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of the famous Jewish scholar Samuel David Luzzato (1800–1865).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philosseno Luzzato",
+   "type": "position_at",
+   "object": "Padua Academy",
+   "role": "member",
+   "place": "Padova",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "was a member of Padua Academy and D.M.G.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philosseno Luzzato",
+   "type": "position_at",
+   "object": "D.M.G.",
+   "role": "member",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "was a member of Padua Academy and D.M.G.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: LUZZATO, Philosseno",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3919-luzzato-philosenno.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: LUZZATO, Philosseno",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3919/luzzato-philosenno/",
+  "subject": "LUZZATO, Philosseno",
+  "birth_year": 1829,
+  "death_year": 1854
+ },
+ "model": "gemini-flash-latest"
+}

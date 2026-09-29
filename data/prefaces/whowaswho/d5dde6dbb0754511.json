@@ -1,0 +1,119 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Max Hermann Kiessling",
+   "birth_year": 1877,
+   "death_year": 1946,
+   "nationality": "German",
+   "field": "Classical Philologist, Historical Geographer and Iranian Scholar"
+  },
+  {
+   "name": "W. Sieglin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "KIESSLING, Max – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1899,
+   "death_year": 1900
+  },
+  {
+   "name": "KIESSLING, Max",
+   "birth_year": 1877,
+   "death_year": 1946
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Max Hermann Kiessling",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Gymnasium and studies in Leipzig",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Hermann Kiessling",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1899,
+   "year_end": 1900,
+   "explicit": true,
+   "evidence": "1899-1900 in Berlin (under W. Sieglin)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Hermann Kiessling",
+   "type": "student_of",
+   "object": "W. Sieglin",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1899,
+   "year_end": 1900,
+   "explicit": true,
+   "evidence": "1899-1900 in Berlin (under W. Sieglin)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Hermann Kiessling",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": "Ph.D.",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": 1900,
+   "explicit": true,
+   "evidence": "Ph.D. Leipzig 1900.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Hermann Kiessling",
+   "type": "position_at",
+   "object": "Berlin",
+   "role": "Assistant",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Worked as Sieglin’s Assistant in Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Hermann Kiessling",
+   "type": "collaborated_with",
+   "object": "W. Sieglin",
+   "role": "Assistant",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Worked as Sieglin’s Assistant in Berlin.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: KIESSLING, Max",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3473-kiessling-max-herrmann.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: KIESSLING, Max",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3473/kiessling-max-herrmann/",
+  "subject": "KIESSLING, Max",
+  "birth_year": 1877,
+  "death_year": 1946
+ },
+ "model": "gemini-flash-latest"
+}

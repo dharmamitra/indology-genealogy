@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Charles Bowles",
+   "birth_year": 1811,
+   "death_year": 1899,
+   "nationality": "British",
+   "field": "Hindustani"
+  },
+  {
+   "name": "John Shakespear",
+   "birth_year": 1774,
+   "death_year": 1858,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BOWLES, Charles (then Charles Bowles Shakespear) – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1774,
+   "death_year": 1858
+  },
+  {
+   "name": "BOWLES, Charles (then Charles Bowles Shakespear)",
+   "birth_year": 1811,
+   "death_year": 1899
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Charles Bowles",
+   "type": "other",
+   "object": "John Shakespear",
+   "role": "nephew and heir",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "nephew and heir of —> John Shakespear (1774–1858)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Bowles",
+   "type": "collaborated_with",
+   "object": "John Shakespear",
+   "role": "assistant",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Served many years as his uncle’s assistant",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Bowles",
+   "type": "succeeded",
+   "object": "John Shakespear",
+   "role": null,
+   "place": "Addiscombe",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "succeeded him as the Professor of Hindustani at Addiscombe",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Bowles",
+   "type": "position_at",
+   "object": "Addiscombe",
+   "role": "Professor of Hindustani",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "succeeded him as the Professor of Hindustani at Addiscombe",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BOWLES, Charles (then Charles Bowles Shakespear)",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/12516-bowles-charles.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BOWLES, Charles (then Charles Bowles Shakespear)",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/12516/bowles-charles/",
+  "subject": "BOWLES, Charles (then Charles Bowles Shakespear)",
+  "birth_year": 1811,
+  "death_year": 1899
+ },
+ "model": "gemini-flash-latest"
+}

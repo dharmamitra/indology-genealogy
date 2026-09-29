@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Jagić",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "FRANKO, Ivan Jakovič",
+   "birth_year": 1856,
+   "death_year": 1916
+  }
+ ],
+ "relations": [
+  {
+   "subject": "FRANKO, Ivan Jakovič",
+   "type": "studied_at",
+   "object": "Lemberg (L’viv)",
+   "role": null,
+   "place": "Lemberg (L’viv)",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After gymnasium in Drohobych studied classics and Ukrainian at Lemberg (L’viv)",
+   "quote_ok": true
+  },
+  {
+   "subject": "FRANKO, Ivan Jakovič",
+   "type": "studied_at",
+   "object": "Czernowitz (Chernivtsi)",
+   "role": null,
+   "place": "Czernowitz (Chernivtsi)",
+   "year_start": 1891,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1891 studies at Czernowitz (Chernivtsi)",
+   "quote_ok": true
+  },
+  {
+   "subject": "FRANKO, Ivan Jakovič",
+   "type": "studied_at",
+   "object": "Vienna",
+   "role": "Ph.D.",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "then at Vienna (under Jagić). Ph.D. 1893 Vienna.",
+   "quote_ok": true
+  },
+  {
+   "subject": "FRANKO, Ivan Jakovič",
+   "type": "student_of",
+   "object": "Jagić",
+   "role": null,
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then at Vienna (under Jagić).",
+   "quote_ok": true
+  },
+  {
+   "subject": "FRANKO, Ivan Jakovič",
+   "type": "position_at",
+   "object": "Lemberg (L’viv)",
+   "role": "Lecturer in the history of Ukrainian literature",
+   "place": "Lemberg (L’viv)",
+   "year_start": 1894,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1894 Lecturer in the history of Ukrainian literature at Lemberg (L’viv)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: FRANKO, Ivan Jakovič",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/14340-franko-ivan-jakovic.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: FRANKO, Ivan Jakovič",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/14340/franko-ivan-jakovic/",
+  "subject": "FRANKO, Ivan Jakovič",
+  "birth_year": 1856,
+  "death_year": 1916
+ },
+ "model": "gemini-flash-latest"
+}

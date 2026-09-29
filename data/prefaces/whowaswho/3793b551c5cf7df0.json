@@ -1,0 +1,107 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Koppers",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "HAEKEL, Joseph",
+   "birth_year": 1907,
+   "death_year": 1973
+  }
+ ],
+ "relations": [
+  {
+   "subject": "HAEKEL, Joseph",
+   "type": "studied_at",
+   "object": "Vienna",
+   "role": "Ph.D.",
+   "place": "Vienna",
+   "year_start": 1931,
+   "year_end": 1935,
+   "explicit": true,
+   "evidence": "From 1931 studied ethnology at Vienna. Ph.D. 1935 Vienna",
+   "quote_ok": true
+  },
+  {
+   "subject": "HAEKEL, Joseph",
+   "type": "position_at",
+   "object": "Vienna",
+   "role": "Assistant of Koppers",
+   "place": "Vienna",
+   "year_start": 1935,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ph.D. 1935 Vienna, then Assistant of Koppers.",
+   "quote_ok": true
+  },
+  {
+   "subject": "HAEKEL, Joseph",
+   "type": "studied_at",
+   "object": "Vienna",
+   "role": "PD",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": 1941,
+   "explicit": true,
+   "evidence": "PD 1941 Vienna",
+   "quote_ok": true
+  },
+  {
+   "subject": "HAEKEL, Joseph",
+   "type": "position_at",
+   "object": "Vienna",
+   "role": "Ao. Professor",
+   "place": "Vienna",
+   "year_start": 1950,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ao. Professor from 1950.",
+   "quote_ok": true
+  },
+  {
+   "subject": "HAEKEL, Joseph",
+   "type": "position_at",
+   "object": "Institut für Völkerkunde in Vienna",
+   "role": "ord. Professor and Director",
+   "place": "Vienna",
+   "year_start": 1957,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1957 ord. Professor and Koppers’ successor as Director of Institut für Völkerkunde in Vienna.",
+   "quote_ok": true
+  },
+  {
+   "subject": "HAEKEL, Joseph",
+   "type": "succeeded",
+   "object": "Koppers",
+   "role": "Director",
+   "place": "Institut für Völkerkunde in Vienna",
+   "year_start": 1957,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1957 ord. Professor and Koppers’ successor as Director of Institut für Völkerkunde in Vienna.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HAEKEL, Joseph",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2549-haekel-joseph.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HAEKEL, Joseph",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2549/haekel-joseph/",
+  "subject": "HAEKEL, Joseph",
+  "birth_year": 1907,
+  "death_year": 1973
+ },
+ "model": "gemini-flash-latest"
+}

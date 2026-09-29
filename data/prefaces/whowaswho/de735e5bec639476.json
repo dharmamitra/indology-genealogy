@@ -1,0 +1,107 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Lüders",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Nobel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "WEIBGEN, Günther – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1896,
+   "death_year": 1948
+  },
+  {
+   "name": "WEIBGEN, Günther",
+   "birth_year": 1896,
+   "death_year": 1948
+  }
+ ],
+ "relations": [
+  {
+   "subject": "WEIBGEN, Günther",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": null,
+   "year_start": 1921,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied at Berlin (1921 already there) under Lüders.",
+   "quote_ok": true
+  },
+  {
+   "subject": "WEIBGEN, Günther",
+   "type": "student_of",
+   "object": "Lüders",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied at Berlin (1921 already there) under Lüders.",
+   "quote_ok": true
+  },
+  {
+   "subject": "WEIBGEN, Günther",
+   "type": "position_at",
+   "object": "Berlin library",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1928,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was too early employed in Berlin library (succeeding Nobel from 1928)",
+   "quote_ok": true
+  },
+  {
+   "subject": "WEIBGEN, Günther",
+   "type": "position_at",
+   "object": "Berlin library",
+   "role": "Oberbibliothekar",
+   "place": "Berlin",
+   "year_start": 1944,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Oberbibliothekar 1944.",
+   "quote_ok": true
+  },
+  {
+   "subject": "WEIBGEN, Günther",
+   "type": "succeeded",
+   "object": "Nobel",
+   "role": null,
+   "place": "Berlin library",
+   "year_start": 1928,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "employed in Berlin library (succeeding Nobel from 1928)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: WEIBGEN, Günther",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5410-weibgen-gunther.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: WEIBGEN, Günther",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5410/weibgen-gunther/",
+  "subject": "WEIBGEN, Günther",
+  "birth_year": 1896,
+  "death_year": 1948
+ },
+ "model": "gemini-flash-latest"
+}

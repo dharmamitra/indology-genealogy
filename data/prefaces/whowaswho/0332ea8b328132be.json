@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Monier Williams",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "SCHÖNBERG, Ignaz – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1820,
+   "death_year": 1898
+  },
+  {
+   "name": "SCHÖNBERG, Ignaz",
+   "birth_year": 1820,
+   "death_year": 1898
+  }
+ ],
+ "relations": [
+  {
+   "subject": "SCHÖNBERG, Ignaz",
+   "type": "student_of",
+   "object": "Bühler",
+   "role": "doctoral supervisor",
+   "place": "Vienna University",
+   "year_start": null,
+   "year_end": 1884,
+   "explicit": true,
+   "evidence": "Student of Bühler at Vienna University, Ph.D. 1884.",
+   "quote_ok": true
+  },
+  {
+   "subject": "SCHÖNBERG, Ignaz",
+   "type": "studied_at",
+   "object": "Vienna University",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 1884,
+   "explicit": true,
+   "evidence": "Student of Bühler at Vienna University, Ph.D. 1884.",
+   "quote_ok": true
+  },
+  {
+   "subject": "SCHÖNBERG, Ignaz",
+   "type": "collaborated_with",
+   "object": "Monier Williams",
+   "role": "assistant in dictionary work",
+   "place": "Oxford",
+   "year_start": 1884,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "In May 1884 he came to Oxford to assist Monier Williams in his dictionary work, but was already ill with tuberculosis, and in July 1885 had to leave for home",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SCHÖNBERG, Ignaz",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/6113-schoenberg-ignaz.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SCHÖNBERG, Ignaz",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/6113/schoenberg-ignaz/",
+  "subject": "SCHÖNBERG, Ignaz",
+  "birth_year": 1820,
+  "death_year": 1898
+ },
+ "model": "gemini-flash-latest"
+}

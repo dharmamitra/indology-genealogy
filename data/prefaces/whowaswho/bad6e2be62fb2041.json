@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Armand-Pierre Caussin de Perceval",
+   "birth_year": 1795,
+   "death_year": 1871,
+   "nationality": "French",
+   "field": "Oriental (Arabic) Scholar"
+  },
+  {
+   "name": "Jean-Jacques-Antoine Caussin de Perceval",
+   "birth_year": 1759,
+   "death_year": 1835,
+   "nationality": "French",
+   "field": "Arabic"
+  },
+  {
+   "name": "CAUSSIN DE PERCEVAL, Armand-Pierre – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1759,
+   "death_year": 1835
+  },
+  {
+   "name": "CAUSSIN DE PERCEVAL, Armand-Pierre",
+   "birth_year": 1795,
+   "death_year": 1871
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Armand-Pierre Caussin de Perceval",
+   "type": "other",
+   "object": "Jean-Jacques-Antoine Caussin de Perceval",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of Jean-Jacques-Antoine Caussin de P. (1759–1835, like his son Professor of Arabic at Collège de France)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean-Jacques-Antoine Caussin de Perceval",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "Professor of Arabic",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Jean-Jacques-Antoine Caussin de P. (1759–1835, like his son Professor of Arabic at Collège de France)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Armand-Pierre Caussin de Perceval",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "Professor of Arabic",
+   "place": "Paris",
+   "year_start": 1833,
+   "year_end": 1871,
+   "explicit": true,
+   "evidence": "In 1833–71 Professor of Arabic at Collège de France in Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "Armand-Pierre Caussin de Perceval",
+   "type": "position_at",
+   "object": "É.L.O.V.",
+   "role": "Professor of Vulgar Arabic",
+   "place": null,
+   "year_start": 1821,
+   "year_end": 1871,
+   "explicit": true,
+   "evidence": "in 1821–71 also Professor of Vulgar Arabic at É.L.O.V.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: CAUSSIN DE PERCEVAL, Armand-Pierre",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/12828-caussin-de-perceval-armand-pierre.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: CAUSSIN DE PERCEVAL, Armand-Pierre",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/12828/caussin-de-perceval-armand-pierre/",
+  "subject": "CAUSSIN DE PERCEVAL, Armand-Pierre",
+  "birth_year": 1795,
+  "death_year": 1871
+ },
+ "model": "gemini-flash-latest"
+}

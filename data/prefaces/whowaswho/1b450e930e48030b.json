@@ -1,0 +1,107 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Peter Simon Pallas",
+   "birth_year": 1741,
+   "death_year": 1811,
+   "nationality": "German",
+   "field": "Botanist, Ethnologist, Naturalist and Linguist"
+  },
+  {
+   "name": "Simon Pallas",
+   "birth_year": 1694,
+   "death_year": 1770,
+   "nationality": null,
+   "field": "Surgery"
+  },
+  {
+   "name": "PALLAS, Peter Simon – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1694,
+   "death_year": 1770
+  },
+  {
+   "name": "PALLAS, Peter Simon",
+   "birth_year": 1741,
+   "death_year": 1811
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Peter Simon Pallas",
+   "type": "other",
+   "object": "Simon Pallas",
+   "role": "son of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of Simon Pallas (1694–1770), Professor of Surgery, and Susanne Lienhardi.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Simon Pallas",
+   "type": "studied_at",
+   "object": "Halle",
+   "role": null,
+   "place": "Halle",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies of medicine and natural sciences at Halle, Göttingen and Leiden (Dr.med. there 1760).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Simon Pallas",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies of medicine and natural sciences at Halle, Göttingen and Leiden (Dr.med. there 1760).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Simon Pallas",
+   "type": "studied_at",
+   "object": "Leiden",
+   "role": "Dr.med.",
+   "place": "Leiden",
+   "year_start": null,
+   "year_end": 1760,
+   "explicit": true,
+   "evidence": "Studies of medicine and natural sciences at Halle, Göttingen and Leiden (Dr.med. there 1760).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Simon Pallas",
+   "type": "position_at",
+   "object": "St.Petersburg Academy",
+   "role": null,
+   "place": "St.Petersburg",
+   "year_start": 1767,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Invited by Catherine II joined St.Petersburg Academy in 1767.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: PALLAS, Peter Simon",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/19084-pallas-peter-simon.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: PALLAS, Peter Simon",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/19084/pallas-peter-simon/",
+  "subject": "PALLAS, Peter Simon",
+  "birth_year": 1741,
+  "death_year": 1811
+ },
+ "model": "gemini-flash-latest"
+}

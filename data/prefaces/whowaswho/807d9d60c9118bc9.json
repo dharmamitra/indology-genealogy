@@ -1,0 +1,202 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Richard Schmidt",
+   "birth_year": 1866,
+   "death_year": 1939,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Pischel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Geldner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "E. Kreyenborg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "H. Kreyenborg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Schöhl",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "SCHMIDT, Richard",
+   "birth_year": 1866,
+   "death_year": 1939
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Richard Schmidt",
+   "type": "studied_at",
+   "object": "Halle",
+   "role": null,
+   "place": null,
+   "year_start": 1886,
+   "year_end": 1890,
+   "explicit": true,
+   "evidence": "studied in 1886-90 at Halle",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Schmidt",
+   "type": "student_of",
+   "object": "Pischel",
+   "role": "teacher",
+   "place": "Halle",
+   "year_start": 1886,
+   "year_end": 1890,
+   "explicit": true,
+   "evidence": "studied in 1886-90 at Halle (Pischel, Geldner)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Schmidt",
+   "type": "student_of",
+   "object": "Geldner",
+   "role": "teacher",
+   "place": "Halle",
+   "year_start": 1886,
+   "year_end": 1890,
+   "explicit": true,
+   "evidence": "studied in 1886-90 at Halle (Pischel, Geldner)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Schmidt",
+   "type": "studied_at",
+   "object": "Halle",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 1890,
+   "explicit": true,
+   "evidence": "Ph.D. 1890 Halle.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Schmidt",
+   "type": "position_at",
+   "object": "Halle",
+   "role": "PD",
+   "place": null,
+   "year_start": 1898,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "PD 1898 Halle",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Schmidt",
+   "type": "position_at",
+   "object": "D.M.G.",
+   "role": "Librarian",
+   "place": null,
+   "year_start": 1904,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "in 1904-10 also Librarian of D.M.G.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Schmidt",
+   "type": "position_at",
+   "object": "Münster",
+   "role": "ao. Professor",
+   "place": null,
+   "year_start": 1912,
+   "year_end": 1919,
+   "explicit": true,
+   "evidence": "In 1910 moved to Münster, from 1912 ao. and 1919 ord. Professor there.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Schmidt",
+   "type": "position_at",
+   "object": "Münster",
+   "role": "ord. Professor",
+   "place": null,
+   "year_start": 1919,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1912 ao. and 1919 ord. Professor there.",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. Kreyenborg",
+   "type": "student_of",
+   "object": "Richard Schmidt",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "never had many students (E. & H. Kreyenborg, Schöhl)",
+   "quote_ok": true
+  },
+  {
+   "subject": "H. Kreyenborg",
+   "type": "student_of",
+   "object": "Richard Schmidt",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "never had many students (E. & H. Kreyenborg, Schöhl)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Schöhl",
+   "type": "student_of",
+   "object": "Richard Schmidt",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "never had many students (E. & H. Kreyenborg, Schöhl)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SCHMIDT, Richard",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/9986-schmidt-richard-2.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SCHMIDT, Richard",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/9986/schmidt-richard-2/",
+  "subject": "SCHMIDT, Richard",
+  "birth_year": 1866,
+  "death_year": 1939
+ },
+ "model": "gemini-flash-latest"
+}

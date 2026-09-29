@@ -1,0 +1,171 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "FALK, Ada Maryla",
+   "birth_year": 1906,
+   "death_year": 1980,
+   "nationality": "Polish",
+   "field": "Indologist"
+  },
+  {
+   "name": "Pavolini",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Pettazzoni",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Formichi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Tucci",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "FALK, Maryla",
+   "birth_year": 1906,
+   "death_year": 1980
+  }
+ ],
+ "relations": [
+  {
+   "subject": "FALK, Ada Maryla",
+   "type": "studied_at",
+   "object": "Florence",
+   "role": null,
+   "place": "Florence",
+   "year_start": 1925,
+   "year_end": 1926,
+   "explicit": true,
+   "evidence": "1925-26 studied at Florence (Pavolini)",
+   "quote_ok": true
+  },
+  {
+   "subject": "FALK, Ada Maryla",
+   "type": "student_of",
+   "object": "Pavolini",
+   "role": "teacher",
+   "place": "Florence",
+   "year_start": 1925,
+   "year_end": 1926,
+   "explicit": true,
+   "evidence": "1925-26 studied at Florence (Pavolini)",
+   "quote_ok": true
+  },
+  {
+   "subject": "FALK, Ada Maryla",
+   "type": "studied_at",
+   "object": "Rome",
+   "role": null,
+   "place": "Rome",
+   "year_start": 1926,
+   "year_end": 1930,
+   "explicit": true,
+   "evidence": "1926-30 at Rome (Pettazzoni, Formichi and Tucci), graduated 1930.",
+   "quote_ok": true
+  },
+  {
+   "subject": "FALK, Ada Maryla",
+   "type": "student_of",
+   "object": "Pettazzoni",
+   "role": "teacher",
+   "place": "Rome",
+   "year_start": 1926,
+   "year_end": 1930,
+   "explicit": true,
+   "evidence": "1926-30 at Rome (Pettazzoni, Formichi and Tucci)",
+   "quote_ok": true
+  },
+  {
+   "subject": "FALK, Ada Maryla",
+   "type": "student_of",
+   "object": "Formichi",
+   "role": "teacher",
+   "place": "Rome",
+   "year_start": 1926,
+   "year_end": 1930,
+   "explicit": true,
+   "evidence": "1926-30 at Rome (Pettazzoni, Formichi and Tucci)",
+   "quote_ok": true
+  },
+  {
+   "subject": "FALK, Ada Maryla",
+   "type": "student_of",
+   "object": "Tucci",
+   "role": "teacher",
+   "place": "Rome",
+   "year_start": 1926,
+   "year_end": 1930,
+   "explicit": true,
+   "evidence": "1926-30 at Rome (Pettazzoni, Formichi and Tucci)",
+   "quote_ok": true
+  },
+  {
+   "subject": "FALK, Ada Maryla",
+   "type": "position_at",
+   "object": "Rome",
+   "role": "Lecturer of Polish",
+   "place": "Rome",
+   "year_start": 1937,
+   "year_end": 1939,
+   "explicit": true,
+   "evidence": "From 1937 Lecturer of Polish at Rome, but 1939 moved to India.",
+   "quote_ok": true
+  },
+  {
+   "subject": "FALK, Ada Maryla",
+   "type": "position_at",
+   "object": "Calcutta",
+   "role": "Lecturer of Polish",
+   "place": "Calcutta",
+   "year_start": 1939,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1939 moved to India. Now Lecturer of Polish at Calcutta.",
+   "quote_ok": true
+  },
+  {
+   "subject": "FALK, Ada Maryla",
+   "type": "position_at",
+   "object": "Rome",
+   "role": "teaching Polish and Sanskrit",
+   "place": "Rome",
+   "year_start": 1947,
+   "year_end": 1963,
+   "explicit": true,
+   "evidence": "regularly visiting Rome and teaching Polish and Sanskrit there until 1963.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: FALK, Maryla",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1885-falk-maryla.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: FALK, Maryla",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1885/falk-maryla/",
+  "subject": "FALK, Maryla",
+  "birth_year": 1906,
+  "death_year": 1980
+ },
+ "model": "gemini-flash-latest"
+}

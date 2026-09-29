@@ -1,0 +1,66 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "John Crawfurd",
+   "birth_year": 1783,
+   "death_year": 1868,
+   "nationality": "British",
+   "field": "South-East Asian Scholar"
+  },
+  {
+   "name": "Th. E. Perry",
+   "birth_year": 1806,
+   "death_year": 1882,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "CRAWFURD, John",
+   "birth_year": 1783,
+   "death_year": 1868
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Crawfurd",
+   "type": "studied_at",
+   "object": "Edinburgh",
+   "role": "M.D.",
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Then studies of medicine at Edinburgh, M.D.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Crawfurd",
+   "type": "other",
+   "object": "Th. E. Perry",
+   "role": "brother-in-law",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Judge —> Th. E. Perry (1806–1882) was his brother-in-law.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: CRAWFURD, John",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1407-crawfurd-john.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: CRAWFURD, John",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1407/crawfurd-john/",
+  "subject": "CRAWFURD, John",
+  "birth_year": 1783,
+  "death_year": 1868
+ },
+ "model": "gemini-flash-latest"
+}

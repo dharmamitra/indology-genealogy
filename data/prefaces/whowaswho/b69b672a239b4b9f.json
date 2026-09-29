@@ -1,0 +1,64 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "RHODE, Johann Gottlieb",
+   "birth_year": 1762,
+   "death_year": 1827
+  }
+ ],
+ "relations": [
+  {
+   "subject": "RHODE, Johann Gottlieb",
+   "type": "studied_at",
+   "object": "Helmstedt",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Helmstedt",
+   "quote_ok": true
+  },
+  {
+   "subject": "RHODE, Johann Gottlieb",
+   "type": "studied_at",
+   "object": "Jena",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1821,
+   "explicit": true,
+   "evidence": "Ph.D. 1821 Jena.",
+   "quote_ok": true
+  },
+  {
+   "subject": "RHODE, Johann Gottlieb",
+   "type": "position_at",
+   "object": "Kriegsschule",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1809,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1809 teacher at Kriegsschule.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: RHODE, Johann Gottlieb",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/20121-rhode-johann-gottlieb.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: RHODE, Johann Gottlieb",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/20121/rhode-johann-gottlieb/",
+  "subject": "RHODE, Johann Gottlieb",
+  "birth_year": 1762,
+  "death_year": 1827
+ },
+ "model": "gemini-flash-latest"
+}

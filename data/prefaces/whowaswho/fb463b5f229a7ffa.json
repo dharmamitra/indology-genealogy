@@ -1,0 +1,85 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Edouard Prosper Emmanuel Specht",
+   "birth_year": 1843,
+   "death_year": 1906,
+   "nationality": "French",
+   "field": "Sinology"
+  },
+  {
+   "name": "Pauthier",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "St. Julien",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "SPECHT, Edouard",
+   "birth_year": 1843,
+   "death_year": 1906
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Edouard Prosper Emmanuel Specht",
+   "type": "student_of",
+   "object": "Pauthier",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Student of Pauthier and St. Julien.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edouard Prosper Emmanuel Specht",
+   "type": "student_of",
+   "object": "St. Julien",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Student of Pauthier and St. Julien.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edouard Prosper Emmanuel Specht",
+   "type": "position_at",
+   "object": "É.P.H.É., Section des sciences historiques et philologiques",
+   "role": "taught Chinese",
+   "place": null,
+   "year_start": 1892,
+   "year_end": 1906,
+   "explicit": true,
+   "evidence": "From 1892 until death taught Chinese at É.P.H.É., Section des sciences historiques et philologiques.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SPECHT, Edouard",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5895-specht-edouard-prosper-emmanuel.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SPECHT, Edouard",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5895/specht-edouard-prosper-emmanuel/",
+  "subject": "SPECHT, Edouard",
+  "birth_year": 1843,
+  "death_year": 1906
+ },
+ "model": "gemini-flash-latest"
+}

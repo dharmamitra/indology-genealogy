@@ -1,0 +1,145 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Elimar Max Grube",
+   "birth_year": 1851,
+   "death_year": 1891,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Stenzler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Roth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Weber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "GRUBE, Elimar – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1833,
+   "death_year": 1892
+  },
+  {
+   "name": "GRUBE, Elimar",
+   "birth_year": 1851,
+   "death_year": 1891
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Elimar Max Grube",
+   "type": "studied_at",
+   "object": "Breslau",
+   "role": null,
+   "place": null,
+   "year_start": 1869,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1869 studied classical philology at Breslau",
+   "quote_ok": true
+  },
+  {
+   "subject": "Elimar Max Grube",
+   "type": "student_of",
+   "object": "Stenzler",
+   "role": "teacher",
+   "place": "Breslau",
+   "year_start": 1869,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "also Sanskrit under Stenzler",
+   "quote_ok": true
+  },
+  {
+   "subject": "Elimar Max Grube",
+   "type": "studied_at",
+   "object": "Tübingen",
+   "role": null,
+   "place": null,
+   "year_start": 1871,
+   "year_end": 1872,
+   "explicit": true,
+   "evidence": "In 1871 moved to Tübingen, where he also started Semitic languages (Arabic, Ethiopian, Hebrew) and continued Sanskrit and Avesta under Roth.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Elimar Max Grube",
+   "type": "student_of",
+   "object": "Roth",
+   "role": "teacher",
+   "place": "Tübingen",
+   "year_start": 1871,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "continued Sanskrit and Avesta under Roth.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Elimar Max Grube",
+   "type": "studied_at",
+   "object": "Breslau",
+   "role": null,
+   "place": null,
+   "year_start": 1872,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1872 returned to Breslau, where he fell ill",
+   "quote_ok": true
+  },
+  {
+   "subject": "Elimar Max Grube",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": "PhD",
+   "place": null,
+   "year_start": 1874,
+   "year_end": 1875,
+   "explicit": true,
+   "evidence": "after recovering in 1874 to Berlin (Weber). Ph.D. 1875 Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Elimar Max Grube",
+   "type": "student_of",
+   "object": "Weber",
+   "role": "doctoral supervisor",
+   "place": "Berlin",
+   "year_start": 1874,
+   "year_end": 1875,
+   "explicit": false,
+   "evidence": "after recovering in 1874 to Berlin (Weber). Ph.D. 1875 Berlin.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GRUBE, Elimar",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2462-grube-elimar-max.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GRUBE, Elimar",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2462/grube-elimar-max/",
+  "subject": "GRUBE, Elimar",
+  "birth_year": 1851,
+  "death_year": 1891
+ },
+ "model": "gemini-flash-latest"
+}

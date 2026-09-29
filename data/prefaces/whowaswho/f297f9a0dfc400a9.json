@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Platts",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "TAGLIABUE, Camillo",
+   "birth_year": 1838,
+   "death_year": 1905
+  }
+ ],
+ "relations": [
+  {
+   "subject": "TAGLIABUE, Camillo",
+   "type": "position_at",
+   "object": "I.U.O.N. in Naples",
+   "role": "Professor of Hindustani",
+   "place": "Naples",
+   "year_start": 1879,
+   "year_end": 1905,
+   "explicit": true,
+   "evidence": "From 1879 to his death Professor of Hindustani at I.U.O.N. in Naples",
+   "quote_ok": true
+  },
+  {
+   "subject": "TAGLIABUE, Camillo",
+   "type": "position_at",
+   "object": "I.U.O.N. in Naples",
+   "role": "professore incaricato of English",
+   "place": "Naples",
+   "year_start": 1892,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "in 1892-97 also professore incaricato of English.",
+   "quote_ok": true
+  },
+  {
+   "subject": "TAGLIABUE, Camillo",
+   "type": "influenced_by",
+   "object": "Platts",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His grammar is based on that of Platts.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: TAGLIABUE, Camillo",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4926-tagliabue-camillo.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: TAGLIABUE, Camillo",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4926/tagliabue-camillo/",
+  "subject": "TAGLIABUE, Camillo",
+  "birth_year": 1838,
+  "death_year": 1905
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,66 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "James Rennel",
+   "birth_year": 1742,
+   "death_year": 1830,
+   "nationality": "British",
+   "field": "Geographer"
+  },
+  {
+   "name": "Robertson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "RENNEL, James",
+   "birth_year": 1742,
+   "death_year": 1830
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Robertson",
+   "type": "influenced_by",
+   "object": "James Rennel",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In addition to modern geography he was much interested in historical geography and he prompted Robertson to pursue similar studies.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Rennel",
+   "type": "position_at",
+   "object": "Royal Society",
+   "role": "Fellow",
+   "place": null,
+   "year_start": 1781,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Fellow of Royal Society 1781.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: RENNEL, James",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5174-rennel-james.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: RENNEL, James",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5174/rennel-james/",
+  "subject": "RENNEL, James",
+  "birth_year": 1742,
+  "death_year": 1830
+ },
+ "model": "gemini-flash-latest"
+}

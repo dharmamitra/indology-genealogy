@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Henry Goodwin Smith",
+   "birth_year": 1860,
+   "death_year": 1940,
+   "nationality": "American",
+   "field": "Theology"
+  },
+  {
+   "name": "Henry Bounton Smith",
+   "birth_year": 1815,
+   "death_year": 1877,
+   "nationality": "American",
+   "field": "Theology"
+  },
+  {
+   "name": "SMITH, Henry Goodwin – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1815,
+   "death_year": 1877
+  },
+  {
+   "name": "SMITH, Henry Goodwin",
+   "birth_year": 1860,
+   "death_year": 1940
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Henry Goodwin Smith",
+   "type": "other",
+   "object": "Henry Bounton Smith",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of Henry Bounton Smith (1815–1877), also a Theologian",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Goodwin Smith",
+   "type": "studied_at",
+   "object": "Amherst College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1881,
+   "explicit": true,
+   "evidence": "Graduated 1881 from Amherst College.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Goodwin Smith",
+   "type": "studied_at",
+   "object": "Union Theological Seminary",
+   "role": "M.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1884,
+   "explicit": true,
+   "evidence": "M.A. 1884 Union Theological Seminary.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Goodwin Smith",
+   "type": "position_at",
+   "object": "Lane Theological Seminary",
+   "role": "Professor of Systematic Theology",
+   "place": null,
+   "year_start": 1897,
+   "year_end": 1903,
+   "explicit": true,
+   "evidence": "1897-1903 Professor of Systematic Theology at Lane Theological Seminary.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SMITH, Henry Goodwin",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/36781-smith-henry-goodwin.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SMITH, Henry Goodwin",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/36781/smith-henry-goodwin/",
+  "subject": "SMITH, Henry Goodwin",
+  "birth_year": 1860,
+  "death_year": 1940
+ },
+ "model": "gemini-flash-latest"
+}

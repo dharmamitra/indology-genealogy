@@ -1,0 +1,90 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Heinrich Nau",
+   "birth_year": 1881,
+   "death_year": 1956,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Eugen Hultzsch",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "NAU, Heinrich",
+   "birth_year": 1881,
+   "death_year": 1956
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Heinrich Nau",
+   "type": "studied_at",
+   "object": "Marburg",
+   "role": null,
+   "place": "Marburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied at Marburg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Nau",
+   "type": "studied_at",
+   "object": "Concordia Seminary",
+   "role": null,
+   "place": "St.Louis",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied at Concordia Seminary in St.Louis.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Nau",
+   "type": "student_of",
+   "object": "Eugen Hultzsch",
+   "role": "doctoral supervisor",
+   "place": "Halle",
+   "year_start": null,
+   "year_end": 1920,
+   "explicit": true,
+   "evidence": "Now studied Indology at Halle under Hultzsch. Ph.D. 1920 Halle.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Nau",
+   "type": "studied_at",
+   "object": "Halle",
+   "role": "Ph.D.",
+   "place": "Halle",
+   "year_start": null,
+   "year_end": 1920,
+   "explicit": true,
+   "evidence": "Now studied Indology at Halle under Hultzsch. Ph.D. 1920 Halle.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: NAU, Heinrich",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4342-nau-heinrich.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: NAU, Heinrich",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4342/nau-heinrich/",
+  "subject": "NAU, Heinrich",
+  "birth_year": 1881,
+  "death_year": 1956
+ },
+ "model": "gemini-flash-latest"
+}

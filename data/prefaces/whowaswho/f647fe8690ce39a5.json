@@ -1,0 +1,90 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Herbert Allen Giles",
+   "birth_year": 1845,
+   "death_year": 1935,
+   "nationality": "British",
+   "field": "Sinology"
+  },
+  {
+   "name": "Wade",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lionel Giles",
+   "birth_year": 1875,
+   "death_year": 1958,
+   "nationality": null,
+   "field": "Sinology"
+  },
+  {
+   "name": "GILES, Herbert Allen – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1808,
+   "death_year": 1884
+  },
+  {
+   "name": "GILES, Herbert Allen",
+   "birth_year": 1845,
+   "death_year": 1935
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Herbert Allen Giles",
+   "type": "position_at",
+   "object": "Cambridge",
+   "role": "Professor of Chinese",
+   "place": "Cambridge",
+   "year_start": 1897,
+   "year_end": 1932,
+   "explicit": true,
+   "evidence": "In 1897 succeeded Wade as Professor of Chinese at Cambridge. Retired in 1932.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Herbert Allen Giles",
+   "type": "succeeded",
+   "object": "Wade",
+   "role": "Professor of Chinese",
+   "place": "Cambridge",
+   "year_start": 1897,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1897 succeeded Wade as Professor of Chinese at Cambridge.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lionel Giles",
+   "type": "other",
+   "object": "Herbert Allen Giles",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Two of his sons served as consuls in China and one was the Sinologist Lionel Giles (1875–1958).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GILES, Herbert Allen",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2257-giles-herbert-allen.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GILES, Herbert Allen",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2257/giles-herbert-allen/",
+  "subject": "GILES, Herbert Allen",
+  "birth_year": 1845,
+  "death_year": 1935
+ },
+ "model": "gemini-flash-latest"
+}

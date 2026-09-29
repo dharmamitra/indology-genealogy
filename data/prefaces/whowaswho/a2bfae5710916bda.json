@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Friedrich Reinhold Dietz",
+   "birth_year": 1805,
+   "death_year": 1836,
+   "nationality": "German",
+   "field": "Physician and Philologist"
+  },
+  {
+   "name": "DIETZ, Friedrich Reinhold",
+   "birth_year": 1805,
+   "death_year": 1836
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Friedrich Reinhold Dietz",
+   "type": "studied_at",
+   "object": "Königsberg",
+   "role": "Dr. med.",
+   "place": "Königsberg",
+   "year_start": 1823,
+   "year_end": 1826,
+   "explicit": true,
+   "evidence": "School and from 1823 studies of medicine and philology at Königsberg, Dr. med. there 1826.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Reinhold Dietz",
+   "type": "position_at",
+   "object": "Königsberg",
+   "role": "ao. Professor and Sekundärartzt",
+   "place": "Königsberg",
+   "year_start": 1833,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1833 returned to Königsberg, where he was nominated ao. Professor and Sekundärartzt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Reinhold Dietz",
+   "type": "position_at",
+   "object": "Königsberg",
+   "role": "Professor ordinarius and director of the hospital",
+   "place": "Königsberg",
+   "year_start": 1836,
+   "year_end": 1836,
+   "explicit": true,
+   "evidence": "Little before his death, in 1836, Professor ordinarius and director of the hospital.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: DIETZ, Friedrich Reinhold",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1589-dietz-friedrich-reinhold.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: DIETZ, Friedrich Reinhold",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1589/dietz-friedrich-reinhold/",
+  "subject": "DIETZ, Friedrich Reinhold",
+  "birth_year": 1805,
+  "death_year": 1836
+ },
+ "model": "gemini-flash-latest"
+}

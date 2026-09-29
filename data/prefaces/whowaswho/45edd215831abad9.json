@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Michel-François Littré",
+   "birth_year": 1765,
+   "death_year": 1827,
+   "nationality": "French",
+   "field": "Indology"
+  },
+  {
+   "name": "Émile Littré",
+   "birth_year": 1801,
+   "death_year": 1881,
+   "nationality": "French",
+   "field": "philologist"
+  },
+  {
+   "name": "Burnouf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "LITTRÉ, François – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1739,
+   "death_year": 1768
+  },
+  {
+   "name": "LITTRÉ, François",
+   "birth_year": 1765,
+   "death_year": 1827
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Émile Littré",
+   "type": "other",
+   "object": "Michel-François Littré",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Married Marie Sophie Johannot (1772–1843), two sons (the physician and philologist Émile Littré, 1801–1881",
+   "quote_ok": true
+  },
+  {
+   "subject": "Émile Littré",
+   "type": "other",
+   "object": "Burnouf",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the physician and philologist Émile Littré, 1801–1881, who was known as lexicographer and translator of Hippocrates, also a friend of Burnouf",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: LITTRÉ, François",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3841-littre-francois.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: LITTRÉ, François",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3841/littre-francois/",
+  "subject": "LITTRÉ, François",
+  "birth_year": 1765,
+  "death_year": 1827
+ },
+ "model": "gemini-flash-latest"
+}

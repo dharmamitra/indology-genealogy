@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Susan Maria Breeks",
+   "birth_year": 1841,
+   "death_year": 1923,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "James Wilkinson Breeks",
+   "birth_year": 1830,
+   "death_year": 1872,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BREEKS, Susan Maria – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1830,
+   "death_year": 1872
+  },
+  {
+   "name": "BREEKS, Susan Maria",
+   "birth_year": 1841,
+   "death_year": 1923
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Susan Maria Breeks",
+   "type": "other",
+   "object": "James Wilkinson Breeks",
+   "role": "spouse",
+   "place": null,
+   "year_start": 1863,
+   "year_end": 1872,
+   "explicit": true,
+   "evidence": "from 1863 wife of —> James Wilkinson Breeks (1830–1872)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Susan Maria Breeks",
+   "type": "collaborated_with",
+   "object": "James Wilkinson Breeks",
+   "role": "editor of posthumous work",
+   "place": null,
+   "year_start": 1872,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After her husband’s death in 1872 she edited his report on the tribes and sepulchral monuments of the Nilgiris.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BREEKS, Susan Maria",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/954-breeks-susan-maria.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BREEKS, Susan Maria",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/954/breeks-susan-maria/",
+  "subject": "BREEKS, Susan Maria",
+  "birth_year": 1841,
+  "death_year": 1923
+ },
+ "model": "gemini-flash-latest"
+}

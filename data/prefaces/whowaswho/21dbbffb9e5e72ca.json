@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Berta Rudich",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Art History"
+  },
+  {
+   "name": "Josef Strzygowski",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "RUDICH, Berta – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1880,
+   "death_year": 1940
+  },
+  {
+   "name": "RUDICH, Berta",
+   "birth_year": 1882,
+   "death_year": 1920
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Berta Rudich",
+   "type": "student_of",
+   "object": "Josef Strzygowski",
+   "role": "doctoral supervisor",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": 1920,
+   "explicit": true,
+   "evidence": "Ph.D. 1920 Vienna (under Strzygowski)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Berta Rudich",
+   "type": "studied_at",
+   "object": "Vienna",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 1920,
+   "explicit": true,
+   "evidence": "Ph.D. 1920 Vienna (under Strzygowski)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: RUDICH, Berta",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/20509-rudich-berta.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: RUDICH, Berta",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/20509/rudich-berta/",
+  "subject": "RUDICH, Berta",
+  "birth_year": 1882,
+  "death_year": 1920
+ },
+ "model": "gemini-flash-latest"
+}

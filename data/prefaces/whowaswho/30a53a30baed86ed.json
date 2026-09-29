@@ -1,0 +1,85 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Jean Paul Auguste Grimblot",
+   "birth_year": 1817,
+   "death_year": 1870,
+   "nationality": "French",
+   "field": "Indologist"
+  },
+  {
+   "name": "Burnouf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Anne Grimblot",
+   "birth_year": 1813,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "GRIMBLOT, Paul",
+   "birth_year": 1817,
+   "death_year": 1870
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jean Paul Auguste Grimblot",
+   "type": "student_of",
+   "object": "Burnouf",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies of Indology in Paris under Burnouf.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean Paul Auguste Grimblot",
+   "type": "other",
+   "object": "Anne Grimblot",
+   "role": "spouse",
+   "place": null,
+   "year_start": 1839,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He married 1839 Anne Toulouzan (—> Anne Grimblot, b. 1813), who edited his posthumous works.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anne Grimblot",
+   "type": "collaborated_with",
+   "object": "Jean Paul Auguste Grimblot",
+   "role": "editor of posthumous works",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Anne Toulouzan (—> Anne Grimblot, b. 1813), who edited his posthumous works.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GRIMBLOT, Paul",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2434-grimblot-paul.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GRIMBLOT, Paul",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2434/grimblot-paul/",
+  "subject": "GRIMBLOT, Paul",
+  "birth_year": 1817,
+  "death_year": 1870
+ },
+ "model": "gemini-flash-latest"
+}

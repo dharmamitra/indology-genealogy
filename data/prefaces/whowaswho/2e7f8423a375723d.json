@@ -1,0 +1,102 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Karl Wilhelm Friedrich Schlegel",
+   "birth_year": 1772,
+   "death_year": 1829,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "A. W. von Schlegel",
+   "birth_year": 1767,
+   "death_year": 1845,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Alexander Hamilton",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "SCHLEGEL, Friedrich – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1721,
+   "death_year": 1793
+  },
+  {
+   "name": "SCHLEGEL, Friedrich",
+   "birth_year": 1772,
+   "death_year": 1829
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Karl Wilhelm Friedrich Schlegel",
+   "type": "other",
+   "object": "A. W. von Schlegel",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "brother of —> A. W. von Schlegel (1767–1845)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Wilhelm Friedrich Schlegel",
+   "type": "collaborated_with",
+   "object": "A. W. von Schlegel",
+   "role": "co-editor",
+   "place": null,
+   "year_start": 1798,
+   "year_end": 1800,
+   "explicit": true,
+   "evidence": "In 1798-1800 literary critic of the Athenäum which he also edited with his brother.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Wilhelm Friedrich Schlegel",
+   "type": "position_at",
+   "object": "Jena",
+   "role": "teaching",
+   "place": "Jena",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Then briefly teaching at Jena.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Wilhelm Friedrich Schlegel",
+   "type": "student_of",
+   "object": "Alexander Hamilton",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": 1803,
+   "year_end": 1804,
+   "explicit": true,
+   "evidence": "became friend with —> Alexander Hamilton, who lived in his place during his internment and taught him Sanskrit in 1803-04.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SCHLEGEL, Friedrich",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5710-schlegel-karl-wilhelm-friedrich.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SCHLEGEL, Friedrich",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5710/schlegel-karl-wilhelm-friedrich/",
+  "subject": "SCHLEGEL, Friedrich",
+  "birth_year": 1772,
+  "death_year": 1829
+ },
+ "model": "gemini-flash-latest"
+}

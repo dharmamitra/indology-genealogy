@@ -1,0 +1,73 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Kurt Quecke",
+   "birth_year": null,
+   "death_year": 1975,
+   "nationality": "German",
+   "field": "Indologist"
+  },
+  {
+   "name": "Johannes Nobel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Kurt Quecke",
+   "type": "student_of",
+   "object": "Johannes Nobel",
+   "role": "doctoral supervisor",
+   "place": "Marburg",
+   "year_start": null,
+   "year_end": 1947,
+   "explicit": true,
+   "evidence": "Ph.D. 1947 Marburg, under Nobel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kurt Quecke",
+   "type": "studied_at",
+   "object": "Marburg",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1947,
+   "explicit": true,
+   "evidence": "Ph.D. 1947 Marburg, under Nobel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kurt Quecke",
+   "type": "studied_at",
+   "object": "Tübingen",
+   "role": null,
+   "place": null,
+   "year_start": 1943,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Perhaps he is K. Quecke of Essen, born 15.7.1924, student at Tübingen from 1943.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: QUECKE, Kurt",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/54566-quecke-kurt.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: QUECKE, Kurt",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/54566/quecke-kurt/",
+  "subject": "QUECKE, Kurt",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

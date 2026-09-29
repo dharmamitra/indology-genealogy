@@ -1,0 +1,109 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Othmar Frank",
+   "birth_year": 1770,
+   "death_year": 1840,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "A. Holtzmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Markus Joseph Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "FRANK, Othmar",
+   "birth_year": 1770,
+   "death_year": 1840
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Othmar Frank",
+   "type": "position_at",
+   "object": "Bamberg Gymnasium",
+   "role": null,
+   "place": "Bamberg",
+   "year_start": 1804,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Taught philosophy and mathematics at his monastery until its suppression in 1803 and from 1804 at Bamberg Gymnasium",
+   "quote_ok": true
+  },
+  {
+   "subject": "Othmar Frank",
+   "type": "position_at",
+   "object": "Würzburg",
+   "role": "Professor philosophiae ac philologiae Orientalis, Indicae imprimis ac Persicae",
+   "place": "Würzburg",
+   "year_start": 1821,
+   "year_end": 1826,
+   "explicit": true,
+   "evidence": "From 1821 Professor philosophiae ac philologiae Orientalis, Indicae imprimis ac Persicae at Würzburg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Othmar Frank",
+   "type": "position_at",
+   "object": "Munich University",
+   "role": "Professor",
+   "place": "Munich",
+   "year_start": 1826,
+   "year_end": 1840,
+   "explicit": true,
+   "evidence": "and from 1826 at the new Munich University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. Holtzmann",
+   "type": "student_of",
+   "object": "Othmar Frank",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among his few students were A. Holtzmann and Markus Joseph Müller.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Markus Joseph Müller",
+   "type": "student_of",
+   "object": "Othmar Frank",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among his few students were A. Holtzmann and Markus Joseph Müller.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: FRANK, Othmar",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2067-frank-othmar-orig-johann-georg-frank.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: FRANK, Othmar",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2067/frank-othmar-orig-johann-georg-frank/",
+  "subject": "FRANK, Othmar",
+  "birth_year": 1770,
+  "death_year": 1840
+ },
+ "model": "gemini-flash-latest"
+}

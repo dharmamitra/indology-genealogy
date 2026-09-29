@@ -1,0 +1,90 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Alexander Murray",
+   "birth_year": 1775,
+   "death_year": 1813,
+   "nationality": "British",
+   "field": "Philologist and Oriental Scholar"
+  },
+  {
+   "name": "John Leyden",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "MURRAY, Alexander",
+   "birth_year": 1775,
+   "death_year": 1813
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Alexander Murray",
+   "type": "studied_at",
+   "object": "Edinburgh University",
+   "role": null,
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he was admitted to Edinburgh University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander Murray",
+   "type": "studied_at",
+   "object": "Edinburgh University",
+   "role": "D.D.",
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": 1812,
+   "explicit": true,
+   "evidence": "D.D. 1812 Edinburgh.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander Murray",
+   "type": "position_at",
+   "object": "Edinburgh University",
+   "role": "Professor of Oriental Languages",
+   "place": "Edinburgh",
+   "year_start": 1812,
+   "year_end": 1813,
+   "explicit": true,
+   "evidence": "From 1812 Professor of Oriental Languages at Edinburgh University, but soon ill and died in next spring.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander Murray",
+   "type": "other",
+   "object": "John Leyden",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "was John Leyden’s friend.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MURRAY, Alexander",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4328-murray-alexander.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MURRAY, Alexander",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4328/murray-alexander/",
+  "subject": "MURRAY, Alexander",
+  "birth_year": 1775,
+  "death_year": 1813
+ },
+ "model": "gemini-flash-latest"
+}

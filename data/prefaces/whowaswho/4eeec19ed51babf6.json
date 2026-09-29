@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Karl Georg Zistl",
+   "birth_year": 1885,
+   "death_year": 1953,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "E. Kuhn",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "ZISTL, Karl G. – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1885,
+   "death_year": 1953
+  },
+  {
+   "name": "ZISTL, Karl G",
+   "birth_year": 1885,
+   "death_year": 1953
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Karl Georg Zistl",
+   "type": "student_of",
+   "object": "E. Kuhn",
+   "role": "teacher",
+   "place": "Munich",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied Indology (E. Kuhn) and Musicology at Munich",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Georg Zistl",
+   "type": "studied_at",
+   "object": "Munich",
+   "role": null,
+   "place": "Munich",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied Indology (E. Kuhn) and Musicology at Munich",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Georg Zistl",
+   "type": "position_at",
+   "object": "Munich university library",
+   "role": "wissenschaftlicher Hilfsarbeiter",
+   "place": "Munich",
+   "year_start": 1911,
+   "year_end": 1952,
+   "explicit": true,
+   "evidence": "in 1911 began as wissenschaftlicher Hilfsarbeiter in the Munich university library. Military service in WW I, seriously wounded. Returned to library in 1919. Catalogued Oriental and Slavic collections. Retired 1952.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ZISTL, Karl G",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/23813-zistl-karl-g.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ZISTL, Karl G",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/23813/zistl-karl-g/",
+  "subject": "ZISTL, Karl G",
+  "birth_year": 1885,
+  "death_year": 1953
+ },
+ "model": "gemini-flash-latest"
+}

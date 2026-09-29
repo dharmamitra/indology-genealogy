@@ -1,0 +1,195 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Hermann Wilhelm Ebel",
+   "birth_year": 1820,
+   "death_year": 1875,
+   "nationality": "German",
+   "field": "Linguist (IE and Celtic)"
+  },
+  {
+   "name": "Böckh",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "classical philology"
+  },
+  {
+   "name": "Pott",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "comparative linguistics"
+  },
+  {
+   "name": "Bopp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "comparative philology"
+  },
+  {
+   "name": "J. Schmidt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "EBEL, Hermann Wilhelm",
+   "birth_year": 1820,
+   "death_year": 1875
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hermann Wilhelm Ebel",
+   "type": "student_of",
+   "object": "Böckh",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies of classical philology (Böckh)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Wilhelm Ebel",
+   "type": "student_of",
+   "object": "Pott",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "soon also comparative linguistics under Pott and Bopp",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Wilhelm Ebel",
+   "type": "student_of",
+   "object": "Bopp",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "soon also comparative linguistics under Pott and Bopp",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Wilhelm Ebel",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies of classical philology (Böckh) and history at Berlin and Halle",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Wilhelm Ebel",
+   "type": "studied_at",
+   "object": "Halle",
+   "role": null,
+   "place": "Halle",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies of classical philology (Böckh) and history at Berlin and Halle",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Wilhelm Ebel",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": "Ph.D.",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": 1842,
+   "explicit": true,
+   "evidence": "Ph.D. 1842 Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Wilhelm Ebel",
+   "type": "position_at",
+   "object": "Schwarzbach’sches Pädagogium in Ostrowe bei Filehne",
+   "role": "schoolteacher",
+   "place": "Ostrowe bei Filehne",
+   "year_start": 1852,
+   "year_end": 1858,
+   "explicit": true,
+   "evidence": "in 1852-58 at Schwarzbach’sches Pädagogium in Ostrowe bei Filehne",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Wilhelm Ebel",
+   "type": "position_at",
+   "object": "Gymnasium of Schneidemühl",
+   "role": null,
+   "place": "Schneidemühl",
+   "year_start": 1858,
+   "year_end": 1872,
+   "explicit": true,
+   "evidence": "Then in 1858-72 at Gymnasium of Schneidemühl",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Wilhelm Ebel",
+   "type": "position_at",
+   "object": "Berlin",
+   "role": "Professor of comparative philology",
+   "place": "Berlin",
+   "year_start": 1872,
+   "year_end": 1875,
+   "explicit": true,
+   "evidence": "From 1872 until his early death Bopp’s successor as the Professor of comparative philology at Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Wilhelm Ebel",
+   "type": "succeeded",
+   "object": "Bopp",
+   "role": "Professor of comparative philology",
+   "place": "Berlin",
+   "year_start": 1872,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1872 until his early death Bopp’s successor as the Professor of comparative philology at Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "J. Schmidt",
+   "type": "succeeded",
+   "object": "Hermann Wilhelm Ebel",
+   "role": "Professor of comparative philology",
+   "place": "Berlin",
+   "year_start": 1875,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "as the Professor of comparative philology at Berlin (succeeded by J. Schmidt)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: EBEL, Hermann Wilhelm",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1705-ebel-hermann-wilhelm.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: EBEL, Hermann Wilhelm",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1705/ebel-hermann-wilhelm/",
+  "subject": "EBEL, Hermann Wilhelm",
+  "birth_year": 1820,
+  "death_year": 1875
+ },
+ "model": "gemini-flash-latest"
+}

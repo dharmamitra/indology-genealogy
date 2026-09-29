@@ -1,0 +1,97 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Thomas Alexander Wise",
+   "birth_year": 1802,
+   "death_year": 1889,
+   "nationality": "British",
+   "field": "Physician"
+  },
+  {
+   "name": "James Wise",
+   "birth_year": 1835,
+   "death_year": 1886,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Thomas Alexander Wise",
+   "type": "studied_at",
+   "object": "Edinburgh",
+   "role": "M.D.",
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": 1824,
+   "explicit": true,
+   "evidence": "Graduated M.D. in medicine, Edinburgh 1824.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Alexander Wise",
+   "type": "position_at",
+   "object": "Indian Medical Service",
+   "role": null,
+   "place": "India",
+   "year_start": 1827,
+   "year_end": 1851,
+   "explicit": true,
+   "evidence": "In 1827-51 in Indian Medical Service",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Alexander Wise",
+   "type": "founded",
+   "object": "Hooghly Mohsin College",
+   "role": null,
+   "place": null,
+   "year_start": 1834,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1834 founded Hooghly Mohsin College and became its Principal.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Alexander Wise",
+   "type": "position_at",
+   "object": "Hooghly Mohsin College",
+   "role": "Principal",
+   "place": null,
+   "year_start": 1834,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1834 founded Hooghly Mohsin College and became its Principal.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Alexander Wise",
+   "type": "other",
+   "object": "James Wise",
+   "role": "father of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "children (—> James Wise, 1835–1886)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: WISE, Thomas Alexander",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5536-wise-t-a.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: WISE, Thomas Alexander",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5536/wise-t-a/",
+  "subject": "WISE, Thomas Alexander",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

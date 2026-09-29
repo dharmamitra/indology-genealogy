@@ -1,0 +1,76 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "James Grant Stephen",
+   "birth_year": 1819,
+   "death_year": 1897,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "STEPHEN, James Grant – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1792,
+   "death_year": 1823
+  },
+  {
+   "name": "STEPHEN, James Grant",
+   "birth_year": 1819,
+   "death_year": 1897
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Grant Stephen",
+   "type": "studied_at",
+   "object": "Cambridge",
+   "role": "B.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1861,
+   "explicit": true,
+   "evidence": "Now studies at Cambridge (B.A. 1861, M.A. 1864).",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Grant Stephen",
+   "type": "studied_at",
+   "object": "Cambridge",
+   "role": "M.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1864,
+   "explicit": true,
+   "evidence": "Now studies at Cambridge (B.A. 1861, M.A. 1864).",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Grant Stephen",
+   "type": "position_at",
+   "object": "Cambridge",
+   "role": "Lecturer in Hindustani",
+   "place": null,
+   "year_start": 1860,
+   "year_end": 1863,
+   "explicit": true,
+   "evidence": "From 1860 a few years (to 1863?) Lecturer in Hindustani at Cambridge.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: STEPHEN, James Grant",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/21883-stephen-james-grant.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: STEPHEN, James Grant",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/21883/stephen-james-grant/",
+  "subject": "STEPHEN, James Grant",
+  "birth_year": 1819,
+  "death_year": 1897
+ },
+ "model": "gemini-flash-latest"
+}

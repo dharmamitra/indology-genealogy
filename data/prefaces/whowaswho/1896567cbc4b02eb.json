@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Lewin Bentham Bowring",
+   "birth_year": 1824,
+   "death_year": 1910,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Sir John Bowring",
+   "birth_year": 1792,
+   "death_year": 1872,
+   "nationality": "British",
+   "field": "linguistics"
+  },
+  {
+   "name": "BOWRING, Lewin B. – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1792,
+   "death_year": 1872
+  },
+  {
+   "name": "BOWRING, Lewin B",
+   "birth_year": 1824,
+   "death_year": 1910
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Lewin Bentham Bowring",
+   "type": "other",
+   "object": "Sir John Bowring",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of Sir John Bowring (1792–1872), a linguist, traveller, politician, diplomat, governor of Hong Kong, even poet",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lewin Bentham Bowring",
+   "type": "studied_at",
+   "object": "Haileybury",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated in Exeter, at Haileybury and Fort Williams (Calcutta).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lewin Bentham Bowring",
+   "type": "studied_at",
+   "object": "Fort Williams (Calcutta)",
+   "role": null,
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated in Exeter, at Haileybury and Fort Williams (Calcutta).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lewin Bentham Bowring",
+   "type": "position_at",
+   "object": "Bengal Civil service",
+   "role": null,
+   "place": null,
+   "year_start": 1843,
+   "year_end": 1870,
+   "explicit": true,
+   "evidence": "Worked in Bengal Civil service in 1843-70.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BOWRING, Lewin B",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/920-bowring-lewin-bentham.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BOWRING, Lewin B",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/920/bowring-lewin-bentham/",
+  "subject": "BOWRING, Lewin B",
+  "birth_year": 1824,
+  "death_year": 1910
+ },
+ "model": "gemini-flash-latest"
+}

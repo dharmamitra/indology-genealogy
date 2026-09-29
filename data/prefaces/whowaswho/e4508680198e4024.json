@@ -1,0 +1,97 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Erich Herold",
+   "birth_year": 1928,
+   "death_year": 1988,
+   "nationality": "Czechoslovakian",
+   "field": "Ethnologist and Indologist"
+  },
+  {
+   "name": "Friš",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Lesný",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "HEROLD, Erich",
+   "birth_year": 1928,
+   "death_year": 1988
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Erich Herold",
+   "type": "student_of",
+   "object": "Friš",
+   "role": "teacher",
+   "place": "Prague",
+   "year_start": 1947,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1947 studies of Indology at Prague (under Friš and Lesný)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Erich Herold",
+   "type": "student_of",
+   "object": "Lesný",
+   "role": "teacher",
+   "place": "Prague",
+   "year_start": 1947,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1947 studies of Indology at Prague (under Friš and Lesný)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Erich Herold",
+   "type": "studied_at",
+   "object": "Prague",
+   "role": "Ph.D.",
+   "place": "Prague",
+   "year_start": 1947,
+   "year_end": 1953,
+   "explicit": true,
+   "evidence": "From 1947 studies of Indology at Prague (under Friš and Lesný), Ph.D. there in 1952/53.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Erich Herold",
+   "type": "position_at",
+   "object": "Náprstek Museum",
+   "role": "director",
+   "place": "Prague",
+   "year_start": 1959,
+   "year_end": 1970,
+   "explicit": true,
+   "evidence": "He became director of Náprstek Museum, worked there in 1959-70",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HEROLD, Erich",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2947-herold-erich.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HEROLD, Erich",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2947/herold-erich/",
+  "subject": "HEROLD, Erich",
+  "birth_year": 1928,
+  "death_year": 1988
+ },
+ "model": "gemini-flash-latest"
+}

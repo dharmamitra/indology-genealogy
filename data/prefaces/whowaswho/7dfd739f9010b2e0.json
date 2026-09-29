@@ -1,0 +1,90 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Paul Arnold Irzel",
+   "birth_year": 1861,
+   "death_year": 1931,
+   "nationality": "Swiss",
+   "field": "Indology"
+  },
+  {
+   "name": "Windisch",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "IRZEL, Paul Arnold",
+   "birth_year": 1861,
+   "death_year": 1931
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Paul Arnold Irzel",
+   "type": "studied_at",
+   "object": "Strassburg",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies of classical philology, Romance and Germanic philology and Sanskrit at Strassburg, Leipzig and München.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Arnold Irzel",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 1890,
+   "explicit": true,
+   "evidence": "Ph.D. 1890 Leipzig, under Windisch.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Arnold Irzel",
+   "type": "studied_at",
+   "object": "München",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies of classical philology, Romance and Germanic philology and Sanskrit at Strassburg, Leipzig and München.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Arnold Irzel",
+   "type": "student_of",
+   "object": "Windisch",
+   "role": "doctoral supervisor",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": 1890,
+   "explicit": true,
+   "evidence": "Ph.D. 1890 Leipzig, under Windisch.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: IRZEL, Paul Arnold",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/15688-irzel-paul-arnold.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: IRZEL, Paul Arnold",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/15688/irzel-paul-arnold/",
+  "subject": "IRZEL, Paul Arnold",
+  "birth_year": 1861,
+  "death_year": 1931
+ },
+ "model": "gemini-flash-latest"
+}

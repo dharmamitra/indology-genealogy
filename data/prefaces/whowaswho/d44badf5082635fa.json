@@ -1,0 +1,97 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Peter Stumpf",
+   "birth_year": 1940,
+   "death_year": 1977,
+   "nationality": "German",
+   "field": "Tocharian Scholar"
+  },
+  {
+   "name": "W. Thomas",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Winter",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "STUMPF, Peter",
+   "birth_year": 1940,
+   "death_year": 1977
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Peter Stumpf",
+   "type": "studied_at",
+   "object": "Frankfurt",
+   "role": null,
+   "place": "Frankfurt",
+   "year_start": 1959,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1959 studies of IE and Indology at Frankfurt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Stumpf",
+   "type": "studied_at",
+   "object": "Frankfurt",
+   "role": "Ph.D.",
+   "place": "Frankfurt",
+   "year_start": null,
+   "year_end": 1968,
+   "explicit": true,
+   "evidence": "Ph.D. 1968 Frankfurt (under W. Thomas).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Stumpf",
+   "type": "student_of",
+   "object": "W. Thomas",
+   "role": "doctoral supervisor",
+   "place": "Frankfurt",
+   "year_start": null,
+   "year_end": 1968,
+   "explicit": true,
+   "evidence": "Ph.D. 1968 Frankfurt (under W. Thomas).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Stumpf",
+   "type": "position_at",
+   "object": "Frankfurt",
+   "role": "Assistant",
+   "place": "Frankfurt",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Worked as Assistant at Frankfurt.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: STUMPF, Peter",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/6070-stumpf-peter.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: STUMPF, Peter",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/6070/stumpf-peter/",
+  "subject": "STUMPF, Peter",
+  "birth_year": 1940,
+  "death_year": 1977
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2018,
+ "people": [
+  {
+   "name": "Albert Wesselski",
+   "birth_year": 1871,
+   "death_year": 1939,
+   "nationality": "Austrian",
+   "field": "Folklorist"
+  },
+  {
+   "name": "WESSELSKI, Albert",
+   "birth_year": 1871,
+   "death_year": 1939
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Albert Wesselski",
+   "type": "studied_at",
+   "object": "Technische Hochschule Wien",
+   "role": "Engineer",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "Engineer 1897 Technische Hochschule Wien.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albert Wesselski",
+   "type": "studied_at",
+   "object": "Prague German University",
+   "role": "Honorary Ph.D.",
+   "place": "Prague",
+   "year_start": null,
+   "year_end": 1931,
+   "explicit": true,
+   "evidence": "Honorary Ph.D. 1931 Prague German University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albert Wesselski",
+   "type": "position_at",
+   "object": "Graz",
+   "role": "Privatdozent",
+   "place": "Graz",
+   "year_start": 1935,
+   "year_end": 1938,
+   "explicit": true,
+   "evidence": "PD 1935 Graz for comparative literature, but remained in Prague and lost his habilitation on racial grounds in 1938.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: WESSELSKI, Albert",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/11376-wesselski-albert.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: WESSELSKI, Albert",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/11376/wesselski-albert/",
+  "subject": "WESSELSKI, Albert",
+  "birth_year": 1871,
+  "death_year": 1939
+ },
+ "model": "gemini-flash-latest"
+}

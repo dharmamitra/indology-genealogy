@@ -101,6 +101,12 @@ def cite(d):
     """Short source label for a preface/section record."""
     if d["docid"][:7] in SRC_SHORT:
         return SRC_SHORT[d["docid"][:7]]
+    if d.get("corpus") == "whowaswho":
+        return "Klaus Karttunen, " + d["docid"]
+    if d.get("corpus") == "orcid":
+        return d["docid"].split(":")[0]
+    if d.get("corpus") == "openalex":
+        return "OpenAlex"
     m = d.get("meta") or {}
     au = (d.get("author") or m.get("author") or "").strip()
     yr = d.get("doc_year") or m.get("year") or ""
@@ -117,7 +123,9 @@ def trusted_years(r):
     """Years are used only when they are written in (or right next to) the evidence quote; the verifier's reading of the
     quote wins over the first pass. The publication year of a statement in the present tense is an attestation, not a date."""
     v, q, out = r["v"], r["evidence"], {}
-    if q.startswith("[editorial addition"):
+    if q.startswith("affiliation given on"):  # OpenAlex: the paper's year attests the affiliation
+        return {"year_start": None, "year_end": None, "attested": r.get("attested_year")}
+    if q.startswith("[editorial addition") or q.startswith("ORCID ") or q.startswith("co-authors of"):
         return {"year_start": r.get("year_start"), "year_end": r.get("year_end"), "attested": None}
     for f, vf, lf in (("year_start", "ys", "ys_lit"), ("year_end", "ye", "ye_lit")):
         y = None
@@ -194,9 +202,25 @@ def main():
     verdicts = json.load(open(vpath)) if os.path.exists(vpath) else {}
     ppath = os.path.join(DATA, "page_verdicts.json")  # quotes checked against the page images (verify_pages.py)
     pages = json.load(open(ppath)) if os.path.exists(ppath) else {}
+    bios = {}  # Karttunen's short biographies, shown on the scholar's page with attribution
     for p in files:
         d = json.load(open(p))
         src = cite(d)
+        if d.get("corpus") == "whowaswho" and (d.get("meta") or {}).get("subject"):
+            try:
+                txt = open(d["path"], encoding="utf-8").read()
+                lines = [l.strip() for l in txt.split("\n") if l.strip()]
+                body = " ".join(l for l in lines[1:] if not re.fullmatch(r"\d{4}-\d\d-\d\d(\s+\d{4}-\d\d-\d\d)?", l))
+                body = re.split(r"\s(Publications?|Bibliography|Sources?)\s*:", body, maxsplit=1)[0]
+                body = re.sub(r"^(.{3,80}?)\s+\1\s*\.?\s*", "", body)  # the entry repeats its header before the text
+                cut = body[:900]
+                if len(body) > 900:
+                    cut = cut[:cut.rfind(". ") + 1] if ". " in cut[300:] else cut + "…"
+                # the entry is about the person named most often as subject of its relations (the header is "SURNAME, Given")
+                subj = Counter(r["subject"] for r in d["relations"]).most_common(1)
+                bios[subj[0][0] if subj else d["meta"]["subject"]] = {"text": cut.strip(), "url": d["meta"].get("url"), "source": "Klaus Karttunen, Who Was Who in Indology"}
+            except OSError:
+                pass
         vs = verdicts.get(os.path.relpath(p, DATA)) or []
         pv = pages.get(os.path.relpath(p, DATA)) or []
         for pe in d.get("people", []):
@@ -360,11 +384,20 @@ def main():
             nd["variants"].append(n)
         return nid
 
+    for subject, b in bios.items():
+        nid = pnode(subject)
+        if nid and "bio" not in nodes[nid]:
+            nodes[nid]["bio"] = b
+    print(f"[resolve] {sum(1 for n in nodes.values() if n.get('bio'))} scholars with a Who Was Who biography", flush=True)
     skipped, raw = Counter(), defaultdict(list)
     for r in rels:
         v, typ, sub, obj = r["v"], r["type"], r["subject"], r["object"]
         if d_corpus.get(r["doc"]) == "manual":  # editorial additions carry their own citation; the verifier does not apply
             v = {"verdict": "ok"}; r["v"] = v
+        if d_corpus.get(r["doc"]) == "orcid":  # a dated ORCID statement: the record is the citation
+            v = {"verdict": "ok"}; r["v"] = v
+        if d_corpus.get(r["doc"]) == "openalex":  # co-authorship / affiliation on a paper: the paper is the citation
+            v = {"verdict": "ok", "current": bool(r.get("attested_year")), "doc_year": r.get("attested_year")}; r["v"] = v
         if d_corpus.get(r["doc"]) == "web":  # a listing on a department's people page: an attestation for the crawl year
             v = {"verdict": "ok", "current": True, "doc_year": r.get("doc_year")}; r["v"] = v
         if r.get("page") in ("blank_page", "not_printed"):  # the OCR text is not on the scanned page: invented by the OCR model

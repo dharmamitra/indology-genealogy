@@ -1,0 +1,116 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Henri Deydier",
+   "birth_year": 1922,
+   "death_year": 1954,
+   "nationality": "French",
+   "field": "Archaeologist and Art Historian"
+  },
+  {
+   "name": "rzyluski",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Maspéro",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Foucher",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "DEYDIER, Henri",
+   "birth_year": 1922,
+   "death_year": 1954
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Henri Deydier",
+   "type": "student_of",
+   "object": "rzyluski",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Began studies under rzyluski and Maspéro",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henri Deydier",
+   "type": "student_of",
+   "object": "Maspéro",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Began studies under rzyluski and Maspéro... renewed studies of Indology (under Foucher) and South-East and East Asian studies (Maspéro) in Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henri Deydier",
+   "type": "student_of",
+   "object": "Foucher",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": 1944,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1944 renewed studies of Indology (under Foucher) and South-East and East Asian studies (Maspéro) in Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henri Deydier",
+   "type": "studied_at",
+   "object": "É.P.H.É.",
+   "role": "diplom",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": 1950,
+   "explicit": true,
+   "evidence": "diplom of É.P.H.É. in 1950",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henri Deydier",
+   "type": "position_at",
+   "object": "É.F.E.O.",
+   "role": null,
+   "place": "Hanoi",
+   "year_start": 1950,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1950 at É.F.E.O. in Hanoi",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: DEYDIER, Henri",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1578-deydier-henri.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: DEYDIER, Henri",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1578/deydier-henri/",
+  "subject": "DEYDIER, Henri",
+  "birth_year": 1922,
+  "death_year": 1954
+ },
+ "model": "gemini-flash-latest"
+}

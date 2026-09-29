@@ -1,0 +1,85 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Pierre Étienne Lazare Favre",
+   "birth_year": 1812,
+   "death_year": 1887,
+   "nationality": "French",
+   "field": "South-East Asian (Malay) Scholar"
+  },
+  {
+   "name": "Bigandet",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Aristide Marre",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Malay scholar"
+  },
+  {
+   "name": "FAVRE, Pierre",
+   "birth_year": 1812,
+   "death_year": 1887
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Pierre Étienne Lazare Favre",
+   "type": "collaborated_with",
+   "object": "Bigandet",
+   "role": null,
+   "place": "Penang",
+   "year_start": 1855,
+   "year_end": 1857,
+   "explicit": true,
+   "evidence": "1855-57 again in Penang collaborating with Bigandet.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pierre Étienne Lazare Favre",
+   "type": "position_at",
+   "object": "É.L.O.V.",
+   "role": "Professor of Malay",
+   "place": "Paris",
+   "year_start": 1864,
+   "year_end": 1887,
+   "explicit": true,
+   "evidence": "in 1864-87 Professor of Malay at É.L.O.V. in Paris (taught there from 1860).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Aristide Marre",
+   "type": "student_of",
+   "object": "Pierre Étienne Lazare Favre",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Teacher of the Malay scholar Aristide Marre.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: FAVRE, Pierre",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1905-favre-pierre-etienne-lazare.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: FAVRE, Pierre",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1905/favre-pierre-etienne-lazare/",
+  "subject": "FAVRE, Pierre",
+  "birth_year": 1812,
+  "death_year": 1887
+ },
+ "model": "gemini-flash-latest"
+}

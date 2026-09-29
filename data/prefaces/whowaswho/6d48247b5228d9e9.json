@@ -1,0 +1,68 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Marcella Berlinzola",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Italian",
+   "field": "Indology"
+  },
+  {
+   "name": "Formichi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Pettazzoni",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Marcella Berlinzola",
+   "type": "student_of",
+   "object": "Formichi",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In the 1930s studied seven years Sanskrit under Formichi.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Marcella Berlinzola",
+   "type": "collaborated_with",
+   "object": "Pettazzoni",
+   "role": null,
+   "place": null,
+   "year_start": 1943,
+   "year_end": 1943,
+   "explicit": true,
+   "evidence": "In 1943 collaborated with Pettazzoni.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BERLINZOLA, Marcella",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/686-berlinzola-marcella.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BERLINZOLA, Marcella",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/686/berlinzola-marcella/",
+  "subject": "BERLINZOLA, Marcella",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

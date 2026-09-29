@@ -1,0 +1,97 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "August Winter",
+   "birth_year": 1866,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Jacobi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hillebrandt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "WINTER, August",
+   "birth_year": 1866,
+   "death_year": 1893
+  }
+ ],
+ "relations": [
+  {
+   "subject": "August Winter",
+   "type": "student_of",
+   "object": "Jacobi",
+   "role": "teacher",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied first under Jacobi at Bonn.",
+   "quote_ok": true
+  },
+  {
+   "subject": "August Winter",
+   "type": "studied_at",
+   "object": "Bonn",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied first under Jacobi at Bonn.",
+   "quote_ok": true
+  },
+  {
+   "subject": "August Winter",
+   "type": "student_of",
+   "object": "Hillebrandt",
+   "role": "doctoral supervisor",
+   "place": "Breslau",
+   "year_start": null,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "Ph.D. 1893 Breslau (Hillebrandt).",
+   "quote_ok": true
+  },
+  {
+   "subject": "August Winter",
+   "type": "studied_at",
+   "object": "Breslau",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "Ph.D. 1893 Breslau (Hillebrandt).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: WINTER, August",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5530-winter-august.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: WINTER, August",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5530/winter-august/",
+  "subject": "WINTER, August",
+  "birth_year": 1866,
+  "death_year": 1893
+ },
+ "model": "gemini-flash-latest"
+}

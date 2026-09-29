@@ -1,0 +1,171 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Luigi Suali",
+   "birth_year": 1881,
+   "death_year": 1957,
+   "nationality": "Italian",
+   "field": "Indologist"
+  },
+  {
+   "name": "Pullé",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jacobi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "G. Devoto",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "L. Heilman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "SUALI, Luigi",
+   "birth_year": 1881,
+   "death_year": 1957
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Luigi Suali",
+   "type": "studied_at",
+   "object": "Bologna",
+   "role": null,
+   "place": "Bologna",
+   "year_start": null,
+   "year_end": 1903,
+   "explicit": true,
+   "evidence": "Studied at Bologna under Pullé, graduated 1903.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Luigi Suali",
+   "type": "student_of",
+   "object": "Pullé",
+   "role": null,
+   "place": "Bologna",
+   "year_start": null,
+   "year_end": 1903,
+   "explicit": true,
+   "evidence": "Studied at Bologna under Pullé, graduated 1903.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Luigi Suali",
+   "type": "student_of",
+   "object": "Jacobi",
+   "role": null,
+   "place": "Bonn",
+   "year_start": 1903,
+   "year_end": 1905,
+   "explicit": true,
+   "evidence": "In 1903-05 further studies under Jacobi at Bonn.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Luigi Suali",
+   "type": "studied_at",
+   "object": "Bonn",
+   "role": null,
+   "place": "Bonn",
+   "year_start": 1903,
+   "year_end": 1905,
+   "explicit": true,
+   "evidence": "In 1903-05 further studies under Jacobi at Bonn.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Luigi Suali",
+   "type": "position_at",
+   "object": "Bologna",
+   "role": "PD",
+   "place": "Bologna",
+   "year_start": 1907,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "PD 1907 Bologna.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Luigi Suali",
+   "type": "position_at",
+   "object": "Pavia",
+   "role": "Acting Professor",
+   "place": "Pavia",
+   "year_start": 1909,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "In 1909-10 Acting Professor at Pavia",
+   "quote_ok": true
+  },
+  {
+   "subject": "Luigi Suali",
+   "type": "position_at",
+   "object": "Pavia",
+   "role": "ord. Professor",
+   "place": "Pavia",
+   "year_start": 1914,
+   "year_end": 1956,
+   "explicit": true,
+   "evidence": "from 1914 ord. Professor at Pavia, taught there until 1956.",
+   "quote_ok": true
+  },
+  {
+   "subject": "G. Devoto",
+   "type": "student_of",
+   "object": "Luigi Suali",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among his students were G. Devoto and L. Heilman.",
+   "quote_ok": true
+  },
+  {
+   "subject": "L. Heilman",
+   "type": "student_of",
+   "object": "Luigi Suali",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Among his students were G. Devoto and L. Heilman.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SUALI, Luigi",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5981-suali-luigi.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SUALI, Luigi",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5981/suali-luigi/",
+  "subject": "SUALI, Luigi",
+  "birth_year": 1881,
+  "death_year": 1957
+ },
+ "model": "gemini-flash-latest"
+}

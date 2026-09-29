@@ -1,0 +1,66 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Thomas Roebuck",
+   "birth_year": 1784,
+   "death_year": 1819,
+   "nationality": "British",
+   "field": "Linguist"
+  },
+  {
+   "name": "Gilchrist",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ROEBUCK, Thomas",
+   "birth_year": 1784,
+   "death_year": 1819
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Thomas Roebuck",
+   "type": "collaborated_with",
+   "object": "Gilchrist",
+   "role": "assisting in lexicographical work",
+   "place": "Edinburgh",
+   "year_start": 1806,
+   "year_end": 1809,
+   "explicit": true,
+   "evidence": "In 1806-09 he was living in Edinburgh assisting Gilchrist in his lexicographical work.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Roebuck",
+   "type": "position_at",
+   "object": "College of Fort William",
+   "role": "Examiner in the Hindoostanee, Bruj Bhasha, Persian and Arabic Languages",
+   "place": "Calcutta",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Examiner in the Hindoostanee, Bruj Bhasha, Persian and Arabic Languages, in the College of Fort William",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ROEBUCK, Thomas",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/20329-roebuck-thomas.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ROEBUCK, Thomas",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/20329/roebuck-thomas/",
+  "subject": "ROEBUCK, Thomas",
+  "birth_year": 1784,
+  "death_year": 1819
+ },
+ "model": "gemini-flash-latest"
+}

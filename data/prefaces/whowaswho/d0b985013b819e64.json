@@ -1,0 +1,159 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Pavel Poucha",
+   "birth_year": 1905,
+   "death_year": 1986,
+   "nationality": "Czech",
+   "field": "Indo-Iranian, Mongolian and Tocharian Scholar"
+  },
+  {
+   "name": "Hrozný",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rypka",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hujer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lesný",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "POUCHA, Pavel",
+   "birth_year": 1905,
+   "death_year": 1986
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Pavel Poucha",
+   "type": "studied_at",
+   "object": "Prague",
+   "role": null,
+   "place": "Prague",
+   "year_start": 1924,
+   "year_end": 1929,
+   "explicit": true,
+   "evidence": "In 1924-29 studied at Prague Germanic and Slavic, soon also IE and Baltic linguistics, classical philology, Sanskrit, Avesta, Hindi and Bengali, Hebrew and Hittite",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pavel Poucha",
+   "type": "student_of",
+   "object": "Hrozný",
+   "role": "teacher",
+   "place": "Prague",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hebrew and Hittite (under (Hrozný)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pavel Poucha",
+   "type": "student_of",
+   "object": "Rypka",
+   "role": "teacher",
+   "place": "Prague",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Turkish and Persian (Rypka).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pavel Poucha",
+   "type": "studied_at",
+   "object": "Prague",
+   "role": "PhD",
+   "place": "Prague",
+   "year_start": null,
+   "year_end": 1929,
+   "explicit": true,
+   "evidence": "Ph.D. 1929 Prague, under Hujer and Lesný.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pavel Poucha",
+   "type": "student_of",
+   "object": "Hujer",
+   "role": "doctoral supervisor",
+   "place": "Prague",
+   "year_start": null,
+   "year_end": 1929,
+   "explicit": true,
+   "evidence": "Ph.D. 1929 Prague, under Hujer and Lesný.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pavel Poucha",
+   "type": "student_of",
+   "object": "Lesný",
+   "role": "doctoral supervisor",
+   "place": "Prague",
+   "year_start": null,
+   "year_end": 1929,
+   "explicit": true,
+   "evidence": "Ph.D. 1929 Prague, under Hujer and Lesný.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pavel Poucha",
+   "type": "position_at",
+   "object": "Oriental Institute in Prague",
+   "role": "Docent",
+   "place": "Prague",
+   "year_start": 1947,
+   "year_end": 1970,
+   "explicit": true,
+   "evidence": "From 1947 taught at Oriental Institute in Prague, from 1948 as Docent, in 1948-58 also director of the Indology department. Retired in 1970.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pavel Poucha",
+   "type": "position_at",
+   "object": "Oriental Institute in Prague",
+   "role": "director of the Indology department",
+   "place": "Prague",
+   "year_start": 1948,
+   "year_end": 1958,
+   "explicit": true,
+   "evidence": "in 1948-58 also director of the Indology department.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: POUCHA, Pavel",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4864-poucha-pavel.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: POUCHA, Pavel",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4864/poucha-pavel/",
+  "subject": "POUCHA, Pavel",
+  "birth_year": 1905,
+  "death_year": 1986
+ },
+ "model": "gemini-flash-latest"
+}

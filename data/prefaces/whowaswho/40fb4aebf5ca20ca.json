@@ -1,0 +1,90 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Robert Grant",
+   "birth_year": 1779,
+   "death_year": 1838,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Charles Grant",
+   "birth_year": 1746,
+   "death_year": 1823,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Charles Grant",
+   "birth_year": 1836,
+   "death_year": 1903,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "GRANT, Robert – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1746,
+   "death_year": 1823
+  },
+  {
+   "name": "GRANT, Robert",
+   "birth_year": 1746,
+   "death_year": 1823
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Robert Grant",
+   "type": "studied_at",
+   "object": "Magdalen College, Cambridge",
+   "role": "M.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1804,
+   "explicit": true,
+   "evidence": "Educated at Magdalen College, Cambridge. M.A. 1804.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Grant",
+   "type": "other",
+   "object": "Charles Grant",
+   "role": "son of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of —> Charles Grant (1746–1823)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Grant",
+   "type": "other",
+   "object": "Charles Grant",
+   "role": "father of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "father of —> Charles Grant (1836–1903)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GRANT, Robert",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2384-grant-robert.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GRANT, Robert",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2384/grant-robert/",
+  "subject": "GRANT, Robert",
+  "birth_year": 1746,
+  "death_year": 1823
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,66 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Évariste-Régis Huc",
+   "birth_year": 1813,
+   "death_year": 1860,
+   "nationality": "French",
+   "field": null
+  },
+  {
+   "name": "Gabet",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "HUC, Évariste-Régis",
+   "birth_year": 1813,
+   "death_year": 1860
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Évariste-Régis Huc",
+   "type": "studied_at",
+   "object": "Seminary in Toulouse",
+   "role": null,
+   "place": "Toulouse",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Seminary in Toulouse.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Évariste-Régis Huc",
+   "type": "collaborated_with",
+   "object": "Gabet",
+   "role": null,
+   "place": "Tibet",
+   "year_start": 1844,
+   "year_end": 1846,
+   "explicit": true,
+   "evidence": "Together with —> Gabet he tried to travel through Tibet in 1844-46, but were arrested in Lhasa",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HUC, Évariste-Régis",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3138-huc-evariste-regis.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HUC, Évariste-Régis",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3138/huc-evariste-regis/",
+  "subject": "HUC, Évariste-Régis",
+  "birth_year": 1813,
+  "death_year": 1860
+ },
+ "model": "gemini-flash-latest"
+}

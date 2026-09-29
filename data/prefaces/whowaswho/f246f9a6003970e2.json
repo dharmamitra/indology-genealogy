@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Samuel Charters Macpherson",
+   "birth_year": 1806,
+   "death_year": 1860,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Hugh Macpherson",
+   "birth_year": 1767,
+   "death_year": 1854,
+   "nationality": "British",
+   "field": "Greek"
+  },
+  {
+   "name": "MACPHERSON, S. Charter – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1767,
+   "death_year": 1854
+  },
+  {
+   "name": "MACPHERSON, S. Charter",
+   "birth_year": 1806,
+   "death_year": 1860
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Samuel Charters Macpherson",
+   "type": "other",
+   "object": "Hugh Macpherson",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of Hugh Macpherson (1767–1854), Professor of Greek at King’s College, Aberdeen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hugh Macpherson",
+   "type": "position_at",
+   "object": "King’s College, Aberdeen",
+   "role": "Professor of Greek",
+   "place": "Aberdeen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hugh Macpherson (1767–1854), Professor of Greek at King’s College, Aberdeen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Samuel Charters Macpherson",
+   "type": "studied_at",
+   "object": "College of Edinburgh",
+   "role": null,
+   "place": "Edinburgh",
+   "year_start": 1822,
+   "year_end": 1823,
+   "explicit": true,
+   "evidence": "Educated at home, then 1822-23 at College of Edinburgh",
+   "quote_ok": true
+  },
+  {
+   "subject": "Samuel Charters Macpherson",
+   "type": "studied_at",
+   "object": "Trinity College, Cambridge",
+   "role": null,
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied two years at Cambridge (Trinity College)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MACPHERSON, S. Charter",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3969-macpherson-s-charles.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MACPHERSON, S. Charter",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3969/macpherson-s-charles/",
+  "subject": "MACPHERSON, S. Charter",
+  "birth_year": 1806,
+  "death_year": 1860
+ },
+ "model": "gemini-flash-latest"
+}

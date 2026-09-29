@@ -1,0 +1,66 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Romain Rolland",
+   "birth_year": 1866,
+   "death_year": 1944,
+   "nationality": "French",
+   "field": null
+  },
+  {
+   "name": "Michel Bréal",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ROLLAND, Romain",
+   "birth_year": 1866,
+   "death_year": 1944
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Romain Rolland",
+   "type": "studied_at",
+   "object": "École Normale Supérieure",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at École Normale Supérieure",
+   "quote_ok": true
+  },
+  {
+   "subject": "Romain Rolland",
+   "type": "other",
+   "object": "Michel Bréal",
+   "role": "son-in-law",
+   "place": null,
+   "year_start": 1892,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Married 1892 Clotilde Bréal (1870–1946), daughter of —> Michel Bréal.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ROLLAND, Romain",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/9646-rolland-romain.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ROLLAND, Romain",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/9646/rolland-romain/",
+  "subject": "ROLLAND, Romain",
+  "birth_year": 1866,
+  "death_year": 1944
+ },
+ "model": "gemini-flash-latest"
+}

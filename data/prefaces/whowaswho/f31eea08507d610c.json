@@ -1,0 +1,121 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Arthur Coke Burnell",
+   "birth_year": 1840,
+   "death_year": 1882,
+   "nationality": "British",
+   "field": "Indologist"
+  },
+  {
+   "name": "Fausbøll",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Goldstücker",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "BURNELL, Arthur C",
+   "birth_year": 1840,
+   "death_year": 1882
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Arthur Coke Burnell",
+   "type": "studied_at",
+   "object": "Bedford School",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at Bedford School",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Coke Burnell",
+   "type": "studied_at",
+   "object": "King’s College in London",
+   "role": null,
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studies at King’s College in London",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Coke Burnell",
+   "type": "influenced_by",
+   "object": "Fausbøll",
+   "role": null,
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "(met Fausbøll there who aroused his interest in Indology)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Coke Burnell",
+   "type": "student_of",
+   "object": "Goldstücker",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then studied Sanskrit (under Goldstücker)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Coke Burnell",
+   "type": "position_at",
+   "object": "I.C.S.",
+   "role": "Civil Servant",
+   "place": "Madras Presidency",
+   "year_start": 1860,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1860 joined the I.C.S., served in various parts of Madras Presidency",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Coke Burnell",
+   "type": "studied_at",
+   "object": "Strassburg",
+   "role": "hon.dr.",
+   "place": "Germany",
+   "year_start": 1880,
+   "year_end": 1880,
+   "explicit": true,
+   "evidence": "visited Germany in 1880 (hon.dr. Strassburg)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BURNELL, Arthur C",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1068-burnell-arthur-coke.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BURNELL, Arthur C",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1068/burnell-arthur-coke/",
+  "subject": "BURNELL, Arthur C",
+  "birth_year": 1840,
+  "death_year": 1882
+ },
+ "model": "gemini-flash-latest"
+}

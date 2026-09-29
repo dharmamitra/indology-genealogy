@@ -1,0 +1,142 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Edith Tóth",
+   "birth_year": 1932,
+   "death_year": 1965,
+   "nationality": "Hungarian",
+   "field": "Indology and Art History"
+  },
+  {
+   "name": "Ligeti",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetan"
+  },
+  {
+   "name": "Harmatta",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Gaál",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Horváth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Museology"
+  },
+  {
+   "name": "Baktay",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "TÓTH, Edith",
+   "birth_year": 1932,
+   "death_year": 1965
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Edith Tóth",
+   "type": "student_of",
+   "object": "Ligeti",
+   "role": "teacher",
+   "place": "Budapest",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied at Budapest Tibetan (Ligeti)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edith Tóth",
+   "type": "student_of",
+   "object": "Harmatta",
+   "role": "teacher",
+   "place": "Budapest",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied at Budapest [...] Indology (Harmatta & Gaál)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edith Tóth",
+   "type": "student_of",
+   "object": "Gaál",
+   "role": "teacher",
+   "place": "Budapest",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied at Budapest [...] Indology (Harmatta & Gaál)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edith Tóth",
+   "type": "student_of",
+   "object": "Horváth",
+   "role": "teacher",
+   "place": "Budapest",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied at Budapest [...] Museology (Horváth).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edith Tóth",
+   "type": "position_at",
+   "object": "Ferenc Hopp Museum of Eastern-Asian Art",
+   "role": "Keeper of Indian collection",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Worked in Ferenc Hopp Museum of Eastern-Asian Art, first under Baktay, then his successor at the Keeper of Indian collection.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edith Tóth",
+   "type": "succeeded",
+   "object": "Baktay",
+   "role": "Keeper of Indian collection",
+   "place": "Ferenc Hopp Museum of Eastern-Asian Art",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Worked in Ferenc Hopp Museum of Eastern-Asian Art, first under Baktay, then his successor at the Keeper of Indian collection.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: TÓTH, Edith",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5044-toth-edith.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: TÓTH, Edith",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5044/toth-edith/",
+  "subject": "TÓTH, Edith",
+  "birth_year": 1932,
+  "death_year": 1965
+ },
+ "model": "gemini-flash-latest"
+}

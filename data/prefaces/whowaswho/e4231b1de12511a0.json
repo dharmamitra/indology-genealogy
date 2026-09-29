@@ -1,0 +1,128 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Édouard Huber",
+   "birth_year": 1879,
+   "death_year": 1914,
+   "nationality": "Swiss",
+   "field": "Sinologist and South-East Asian Scholar"
+  },
+  {
+   "name": "Prášek",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sylvain Lévi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Édouard Chavannes",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Chinese"
+  },
+  {
+   "name": "HUBER, Edouard",
+   "birth_year": 1879,
+   "death_year": 1914
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Édouard Huber",
+   "type": "studied_at",
+   "object": "Vienna",
+   "role": null,
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "First studied theology, then Orientalistics at Vienna under Prášek.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Édouard Huber",
+   "type": "student_of",
+   "object": "Prášek",
+   "role": "teacher",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then Orientalistics at Vienna under Prášek.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Édouard Huber",
+   "type": "student_of",
+   "object": "Sylvain Lévi",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": 1897,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1897 further studies in Paris, of Sanskrit (Lévi)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Édouard Huber",
+   "type": "student_of",
+   "object": "Édouard Chavannes",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": 1897,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1897 further studies in Paris, of Sanskrit (Lévi), Chinese (Chavannes)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Édouard Huber",
+   "type": "position_at",
+   "object": "E.F.E.O.",
+   "role": null,
+   "place": "Hanoi",
+   "year_start": 1901,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1901 at E.F.E.O. in Hanoi.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Édouard Huber",
+   "type": "position_at",
+   "object": "Sorbonne",
+   "role": "Professor of Indochinese philology",
+   "place": "Paris",
+   "year_start": 1912,
+   "year_end": 1914,
+   "explicit": true,
+   "evidence": "In 1912-14 Professor of Indochinese philology at Sorbonne.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HUBER, Edouard",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3134-huber-edouard.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HUBER, Edouard",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3134/huber-edouard/",
+  "subject": "HUBER, Edouard",
+  "birth_year": 1879,
+  "death_year": 1914
+ },
+ "model": "gemini-flash-latest"
+}

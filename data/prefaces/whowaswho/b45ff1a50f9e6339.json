@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2018,
+ "people": [
+  {
+   "name": "Edward Alexander Samuells",
+   "birth_year": 1814,
+   "death_year": 1860,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "William L. Samuells",
+   "birth_year": 1841,
+   "death_year": 1899,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "SAMUELLS, Edward Alexander. – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1775,
+   "death_year": 1850
+  },
+  {
+   "name": "SAMUELLS, Edward Alexander",
+   "birth_year": 1814,
+   "death_year": 1860
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Edward Alexander Samuells",
+   "type": "position_at",
+   "object": "Bengal Civil Service",
+   "role": "Member",
+   "place": "India",
+   "year_start": null,
+   "year_end": 1860,
+   "explicit": true,
+   "evidence": "Member of Bengal Civil Service until his early death.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William L. Samuells",
+   "type": "other",
+   "object": "Edward Alexander Samuells",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "father of —> William L. Samuells (1841–1899)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SAMUELLS, Edward Alexander",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/9816-samuells-edward-alexander.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SAMUELLS, Edward Alexander",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/9816/samuells-edward-alexander/",
+  "subject": "SAMUELLS, Edward Alexander",
+  "birth_year": 1814,
+  "death_year": 1860
+ },
+ "model": "gemini-flash-latest"
+}

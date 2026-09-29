@@ -1,0 +1,109 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Francesco Scerbo",
+   "birth_year": 1849,
+   "death_year": 1927,
+   "nationality": "Italian",
+   "field": "Linguist and Oriental (Hebrew & Sanskrit) Scholar"
+  },
+  {
+   "name": "De Gubernatis",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "A. Severini",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "SCERBO, Francesco",
+   "birth_year": 1849,
+   "death_year": 1927
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Francesco Scerbo",
+   "type": "student_of",
+   "object": "De Gubernatis",
+   "role": "teacher",
+   "place": "Florence",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "took Sanskrit under De Gubernatis",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francesco Scerbo",
+   "type": "student_of",
+   "object": "A. Severini",
+   "role": "teacher",
+   "place": "Florence",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "even Chinese under A. Severini",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francesco Scerbo",
+   "type": "studied_at",
+   "object": "seminary of Nicastro",
+   "role": null,
+   "place": null,
+   "year_start": 1863,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1863 studies at seminary of Nicastro.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francesco Scerbo",
+   "type": "position_at",
+   "object": "R. Istituto di Studi Superiori in Florence",
+   "role": "libero docente di ebraico",
+   "place": "Florence",
+   "year_start": 1892,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1892 libero docente di ebraico at R. Istituto di Studi Superiori in Florence",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francesco Scerbo",
+   "type": "position_at",
+   "object": "R. Istituto di Studi Superiori in Florence",
+   "role": "incaricato per l’ebraico",
+   "place": "Florence",
+   "year_start": 1903,
+   "year_end": 1924,
+   "explicit": true,
+   "evidence": "from 1903 incaricato per l’ebraico, ibid. ... Retired in 1924.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SCERBO, Francesco",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5657-scerbo-francesco.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SCERBO, Francesco",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5657/scerbo-francesco/",
+  "subject": "SCERBO, Francesco",
+  "birth_year": 1849,
+  "death_year": 1927
+ },
+ "model": "gemini-flash-latest"
+}

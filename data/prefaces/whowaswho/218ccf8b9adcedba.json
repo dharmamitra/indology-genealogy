@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ervin Baktay",
+   "birth_year": 1890,
+   "death_year": 1963,
+   "nationality": "Hungarian",
+   "field": "Art Historian"
+  },
+  {
+   "name": "Simon Hollósy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BAKTAY, Ervin",
+   "birth_year": 1890,
+   "death_year": 1963
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ervin Baktay",
+   "type": "student_of",
+   "object": "Simon Hollósy",
+   "role": "teacher",
+   "place": "Munich",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he studied in Munich under Simon Hollósy",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ervin Baktay",
+   "type": "position_at",
+   "object": "Ferenc Hopp Museum of Eastern Asiatic Art in Budapest",
+   "role": "Curator of the Indian Section",
+   "place": "Budapest",
+   "year_start": 1946,
+   "year_end": 1958,
+   "explicit": true,
+   "evidence": "In 1946-58 Curator of the Indian Section of the Ferenc Hopp Museum of Eastern Asiatic Art in Budapest.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ervin Baktay",
+   "type": "position_at",
+   "object": "S.O.A.S.",
+   "role": "lecturing",
+   "place": "London",
+   "year_start": 1962,
+   "year_end": 1962,
+   "explicit": true,
+   "evidence": "In 1962 visited London lecturing at the S.O.A.S.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BAKTAY, Ervin",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/482-baktay-ervin.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BAKTAY, Ervin",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/482/baktay-ervin/",
+  "subject": "BAKTAY, Ervin",
+  "birth_year": 1890,
+  "death_year": 1963
+ },
+ "model": "gemini-flash-latest"
+}

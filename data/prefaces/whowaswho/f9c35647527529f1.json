@@ -1,0 +1,131 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Valentine Ball",
+   "birth_year": 1843,
+   "death_year": 1895,
+   "nationality": "Irish",
+   "field": "Scientist"
+  },
+  {
+   "name": "Robert Ball",
+   "birth_year": 1802,
+   "death_year": 1857,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BALL, Valentine – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1802,
+   "death_year": 1857
+  },
+  {
+   "name": "BALL, Valentine",
+   "birth_year": 1843,
+   "death_year": 1895
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Valentine Ball",
+   "type": "other",
+   "object": "Robert Ball",
+   "role": "son of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of the naturalist scholar Robert Ball (1802–1857)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Valentine Ball",
+   "type": "studied_at",
+   "object": "Trinity College, Dublin",
+   "role": "B.A., M.A., LL.D.",
+   "place": "Dublin",
+   "year_start": null,
+   "year_end": 1889,
+   "explicit": true,
+   "evidence": "studies at Trinity College, Dublin (B.A. 1864, M.A. 1872, LL.D. 1889)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Valentine Ball",
+   "type": "position_at",
+   "object": "Geological Survey of India",
+   "role": null,
+   "place": "India",
+   "year_start": 1864,
+   "year_end": 1881,
+   "explicit": true,
+   "evidence": "He then served 17 years in the Geological Survey of India, in 1864-81",
+   "quote_ok": true
+  },
+  {
+   "subject": "Valentine Ball",
+   "type": "position_at",
+   "object": "Calcutta University",
+   "role": "Fellow",
+   "place": "Calcutta",
+   "year_start": 1875,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Fellow of Calcutta University 1875",
+   "quote_ok": true
+  },
+  {
+   "subject": "Valentine Ball",
+   "type": "position_at",
+   "object": "A.S.B.",
+   "role": "Treasurer",
+   "place": null,
+   "year_start": 1881,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Treasurer of the A.S.B. 1881",
+   "quote_ok": true
+  },
+  {
+   "subject": "Valentine Ball",
+   "type": "position_at",
+   "object": "Dublin",
+   "role": "Professor of Geology and Mineralogy",
+   "place": "Dublin",
+   "year_start": 1881,
+   "year_end": 1883,
+   "explicit": true,
+   "evidence": "he was Professor of Geology and Mineralogy at Dublin in 1881-83",
+   "quote_ok": true
+  },
+  {
+   "subject": "Valentine Ball",
+   "type": "position_at",
+   "object": "National Museum (then called Science and Art Museum) in Dublin",
+   "role": "Director",
+   "place": "Dublin",
+   "year_start": 1883,
+   "year_end": 1895,
+   "explicit": true,
+   "evidence": "from 1883 Director of the National Museum (then called Science and Art Museum) in Dublin. Retired because of illness in 1895",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BALL, Valentine",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/495-ball-valentine.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BALL, Valentine",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/495/ball-valentine/",
+  "subject": "BALL, Valentine",
+  "birth_year": 1843,
+  "death_year": 1895
+ },
+ "model": "gemini-flash-latest"
+}

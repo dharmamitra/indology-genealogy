@@ -1,0 +1,102 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Charles Chapman",
+   "birth_year": 1752,
+   "death_year": 1809,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Pandit Mahesha",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "William Jones",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "CHAPMAN, Charles – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1778,
+   "death_year": 1781
+  },
+  {
+   "name": "CHAPMAN, Charles",
+   "birth_year": 1752,
+   "death_year": 1809
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Charles Chapman",
+   "type": "studied_at",
+   "object": "Hoxton Academy",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at Hoxton Academy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Chapman",
+   "type": "student_of",
+   "object": "Pandit Mahesha",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was interested in Indian culture and studied with Pandit Mahesha.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Chapman",
+   "type": "founded",
+   "object": "Asiatic Society",
+   "role": "founding member",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Founding member of Asiatic Society",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Chapman",
+   "type": "other",
+   "object": "William Jones",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "a friend of Sit Willim Jones.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: CHAPMAN, Charles",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/12886-chapman-charles.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: CHAPMAN, Charles",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/12886/chapman-charles/",
+  "subject": "CHAPMAN, Charles",
+  "birth_year": 1752,
+  "death_year": 1809
+ },
+ "model": "gemini-flash-latest"
+}

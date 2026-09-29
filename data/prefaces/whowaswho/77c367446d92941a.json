@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Deocar Schmid",
+   "birth_year": 1791,
+   "death_year": 1828,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "Bernhard Schmid",
+   "birth_year": 1788,
+   "death_year": 1857,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "SCHMID, Deocar – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1788,
+   "death_year": 1857
+  },
+  {
+   "name": "SCHMID, Deocar",
+   "birth_year": 1791,
+   "death_year": 1828
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Deocar Schmid",
+   "type": "other",
+   "object": "Bernhard Schmid",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "brother of —> Bernhard Schmid (1788–1857), also a missionary.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Deocar Schmid",
+   "type": "studied_at",
+   "object": "Jena",
+   "role": "theology",
+   "place": "Jena",
+   "year_start": 1808,
+   "year_end": 1813,
+   "explicit": true,
+   "evidence": "studied 1808-13 theology at Jena",
+   "quote_ok": true
+  },
+  {
+   "subject": "Deocar Schmid",
+   "type": "collaborated_with",
+   "object": "Bernhard Schmid",
+   "role": null,
+   "place": "Trankebar",
+   "year_start": 1817,
+   "year_end": 1818,
+   "explicit": true,
+   "evidence": "Worked with his brother in Trankebar",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SCHMID, Deocar",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/55222-schmid-deocar.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SCHMID, Deocar",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/55222/schmid-deocar/",
+  "subject": "SCHMID, Deocar",
+  "birth_year": 1791,
+  "death_year": 1828
+ },
+ "model": "gemini-flash-latest"
+}

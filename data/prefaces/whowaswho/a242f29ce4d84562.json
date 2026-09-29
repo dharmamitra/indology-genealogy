@@ -1,0 +1,66 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Käthe Marschner",
+   "birth_year": 1904,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "O. Strauss",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "MARSCHNER, Käthe",
+   "birth_year": 1904,
+   "death_year": 1933
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Käthe Marschner",
+   "type": "student_of",
+   "object": "O. Strauss",
+   "role": "doctoral supervisor",
+   "place": "Breslau",
+   "year_start": null,
+   "year_end": 1933,
+   "explicit": true,
+   "evidence": "Pupil of O. Strauss in Breslau. Ph.D. there 1933 (under Strauss).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Käthe Marschner",
+   "type": "studied_at",
+   "object": "Breslau",
+   "role": "PhD",
+   "place": "Breslau",
+   "year_start": null,
+   "year_end": 1933,
+   "explicit": true,
+   "evidence": "Pupil of O. Strauss in Breslau. Ph.D. there 1933 (under Strauss).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MARSCHNER, Käthe",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/43254-marschner-kathe.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MARSCHNER, Käthe",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/43254/marschner-kathe/",
+  "subject": "MARSCHNER, Käthe",
+  "birth_year": 1904,
+  "death_year": 1933
+ },
+ "model": "gemini-flash-latest"
+}

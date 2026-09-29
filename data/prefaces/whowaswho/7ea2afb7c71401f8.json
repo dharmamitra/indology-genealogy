@@ -1,0 +1,119 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "William Erskine",
+   "birth_year": 1773,
+   "death_year": 1852,
+   "nationality": "British",
+   "field": "Persian scholar"
+  },
+  {
+   "name": "Sir James Mackintosh",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ERSKINE, William – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1792,
+   "death_year": 1803
+  },
+  {
+   "name": "ERSKINE, William",
+   "birth_year": 1773,
+   "death_year": 1852
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Erskine",
+   "type": "studied_at",
+   "object": "Edinburgh University",
+   "role": "dr. iuris",
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at Royal High School and Edinburgh University (dr. iuris).",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Erskine",
+   "type": "position_at",
+   "object": "Literary Society",
+   "role": "Secretary and Vice-President",
+   "place": "Bombay",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At Bombay he became a clerk to the Small Cause Court, a stipendiary magistrate, Secretary and Vice-President to the Literary Society",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Erskine",
+   "type": "founded",
+   "object": "Bombay Literary Society",
+   "role": null,
+   "place": "Bombay",
+   "year_start": 1804,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "With Mackintosh he was among the founders of the Bombay Literary Society in 1804.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sir James Mackintosh",
+   "type": "founded",
+   "object": "Bombay Literary Society",
+   "role": null,
+   "place": "Bombay",
+   "year_start": 1804,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "With Mackintosh he was among the founders of the Bombay Literary Society in 1804.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Erskine",
+   "type": "collaborated_with",
+   "object": "Sir James Mackintosh",
+   "role": null,
+   "place": null,
+   "year_start": 1804,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "With Mackintosh he was among the founders of the Bombay Literary Society in 1804.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Erskine",
+   "type": "other",
+   "object": "Sir James Mackintosh",
+   "role": "father-in-law",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "went to India in 1803-4 with Sir James Mackintosh”, his future father-in-law.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ERSKINE, William",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1842-erskine-william.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ERSKINE, William",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1842/erskine-william/",
+  "subject": "ERSKINE, William",
+  "birth_year": 1773,
+  "death_year": 1852
+ },
+ "model": "gemini-flash-latest"
+}

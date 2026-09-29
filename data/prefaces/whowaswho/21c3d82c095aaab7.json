@@ -1,0 +1,59 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2022,
+ "people": [
+  {
+   "name": "Werner Friedrich Hoffmeister",
+   "birth_year": 1819,
+   "death_year": 1845,
+   "nationality": "German",
+   "field": "Physician, Zoologist and Botanist"
+  },
+  {
+   "name": "HOFFMEISTER, Werner",
+   "birth_year": 1819,
+   "death_year": 1845
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Werner Friedrich Hoffmeister",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": "Dr.Med.",
+   "place": null,
+   "year_start": 1839,
+   "year_end": 1843,
+   "explicit": true,
+   "evidence": "studied from 1839 medicine and natural sciences at Berlin and Bonn. Dr.Med. 1843 Berlin (diss. on earthworms)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Werner Friedrich Hoffmeister",
+   "type": "studied_at",
+   "object": "Bonn",
+   "role": null,
+   "place": null,
+   "year_start": 1839,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied from 1839 medicine and natural sciences at Berlin and Bonn.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HOFFMEISTER, Werner",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/31931-hoffmeister-werner.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HOFFMEISTER, Werner",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/31931/hoffmeister-werner/",
+  "subject": "HOFFMEISTER, Werner",
+  "birth_year": 1819,
+  "death_year": 1845
+ },
+ "model": "gemini-flash-latest"
+}

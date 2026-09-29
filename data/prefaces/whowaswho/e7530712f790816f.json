@@ -1,0 +1,90 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "George Carstairs",
+   "birth_year": 1880,
+   "death_year": 1948,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Morris Carstairs",
+   "birth_year": 1916,
+   "death_year": 1991,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "CARSTAIRS, George",
+   "birth_year": 1880,
+   "death_year": 1948
+  }
+ ],
+ "relations": [
+  {
+   "subject": "George Carstairs",
+   "type": "studied_at",
+   "object": "Albany Academy",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "educated at Albany Academy",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Carstairs",
+   "type": "studied_at",
+   "object": "Glasgow University",
+   "role": "M.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1901,
+   "explicit": true,
+   "evidence": "Graduated M.A. from Glasgow University in 1901",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Carstairs",
+   "type": "studied_at",
+   "object": "Glasgow",
+   "role": "D.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1935,
+   "explicit": true,
+   "evidence": "D.D. 1935 Glasgow",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Carstairs",
+   "type": "other",
+   "object": "Morris Carstairs",
+   "role": "father of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Father of —> Morris Carstairs (1916–1991)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: CARSTAIRS, George",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/48952-carstairs-george.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: CARSTAIRS, George",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/48952/carstairs-george/",
+  "subject": "CARSTAIRS, George",
+  "birth_year": 1880,
+  "death_year": 1948
+ },
+ "model": "gemini-flash-latest"
+}

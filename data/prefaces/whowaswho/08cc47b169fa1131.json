@@ -1,0 +1,80 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "William Price",
+   "birth_year": 1780,
+   "death_year": 1830,
+   "nationality": "British",
+   "field": "Oriental Scholar"
+  },
+  {
+   "name": "Alexander Humphreys",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gore Ouseley",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Price",
+   "type": "position_at",
+   "object": "Gore Ouseley’s mission to Persia",
+   "role": "Assistant Secretary and Interpreter",
+   "place": "Persia",
+   "year_start": 1811,
+   "year_end": 1812,
+   "explicit": true,
+   "evidence": "In 1811-12 Assistant Secretary and Interpreter of Gore Ouseley’s mission to Persia.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Price",
+   "type": "position_at",
+   "object": "seminary of his friend, Alexander Humphreys, at Netherstone House",
+   "role": "teacher of Oriental languages",
+   "place": "near Worcester",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "taught Oriental languages at the seminary of his friend, Alexander Humphreys, at Netherstone House, near Worcester.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Price",
+   "type": "other",
+   "object": "Alexander Humphreys",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "at the seminary of his friend, Alexander Humphreys, at Netherstone House, near Worcester.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: PRICE, William (elder)",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4880-price-william.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: PRICE, William (elder)",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4880/price-william/",
+  "subject": "PRICE, William (elder)",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,64 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Sir Humphry Davy",
+   "birth_year": 1778,
+   "death_year": 1829,
+   "nationality": null,
+   "field": "chemist"
+  },
+  {
+   "name": "DAVY, John – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1817,
+   "death_year": 1816
+  },
+  {
+   "name": "DAVY, John",
+   "birth_year": 1790,
+   "death_year": 1868
+  }
+ ],
+ "relations": [
+  {
+   "subject": "DAVY, John",
+   "type": "studied_at",
+   "object": "Edinburgh",
+   "role": "M.D.",
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": 1815,
+   "explicit": true,
+   "evidence": "medicine at Edinburgh (M.D. 1815)",
+   "quote_ok": true
+  },
+  {
+   "subject": "DAVY, John",
+   "type": "other",
+   "object": "Sir Humphry Davy",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Like his elder brother, Sir Humphry Davy (1778–1829), he was a noted chemist",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: DAVY, John",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/13474-davy-john.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: DAVY, John",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/13474/davy-john/",
+  "subject": "DAVY, John",
+  "birth_year": 1790,
+  "death_year": 1868
+ },
+ "model": "gemini-flash-latest"
+}

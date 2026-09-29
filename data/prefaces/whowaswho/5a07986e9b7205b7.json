@@ -1,0 +1,183 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Albert Heinrich Stönner",
+   "birth_year": 1872,
+   "death_year": 1931,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Karl Friedrich Geldner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Albrecht Weber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Emil Sieg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Richard Pischel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "STÖNNER, Heinrich",
+   "birth_year": 1872,
+   "death_year": 1931
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Albert Heinrich Stönner",
+   "type": "studied_at",
+   "object": "Marburg",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied first two years chemistry at Marburg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albert Heinrich Stönner",
+   "type": "studied_at",
+   "object": "Halle",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "one year at Halle",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albert Heinrich Stönner",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then 5 years Indology at Berlin (Geldner, Weber, Sieg)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albert Heinrich Stönner",
+   "type": "student_of",
+   "object": "Karl Friedrich Geldner",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then 5 years Indology at Berlin (Geldner, Weber, Sieg)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albert Heinrich Stönner",
+   "type": "student_of",
+   "object": "Albrecht Weber",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then 5 years Indology at Berlin (Geldner, Weber, Sieg)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albert Heinrich Stönner",
+   "type": "student_of",
+   "object": "Emil Sieg",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then 5 years Indology at Berlin (Geldner, Weber, Sieg)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albert Heinrich Stönner",
+   "type": "studied_at",
+   "object": "Halle",
+   "role": "PhD",
+   "place": null,
+   "year_start": 1901,
+   "year_end": 1901,
+   "explicit": true,
+   "evidence": "and in 1901 at Halle (Pischel). Ph.D. 1901 Halle.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albert Heinrich Stönner",
+   "type": "student_of",
+   "object": "Richard Pischel",
+   "role": "teacher",
+   "place": "Halle",
+   "year_start": 1901,
+   "year_end": 1901,
+   "explicit": true,
+   "evidence": "in 1901 at Halle (Pischel).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albert Heinrich Stönner",
+   "type": "position_at",
+   "object": "Berlin Museum",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1901,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1901 worked in Berlin Museum, concentrating on Central Asian fragments.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albert Heinrich Stönner",
+   "type": "position_at",
+   "object": "Museum für Völkerkunde",
+   "role": "Director (Kustos with Professor’s title) of the Indian Department",
+   "place": null,
+   "year_start": 1925,
+   "year_end": 1931,
+   "explicit": true,
+   "evidence": "In 1925-31 Director (Kustos with Professor’s title) of the Indian Department in Museum für Völkerkunde.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: STÖNNER, Heinrich",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5995-stoenner-heinrich.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: STÖNNER, Heinrich",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5995/stoenner-heinrich/",
+  "subject": "STÖNNER, Heinrich",
+  "birth_year": 1872,
+  "death_year": 1931
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,107 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Macdonell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Bühler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "MORISON, James – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1852,
+   "death_year": 1935
+  },
+  {
+   "name": "MORISON, James",
+   "birth_year": 1852,
+   "death_year": 1935
+  }
+ ],
+ "relations": [
+  {
+   "subject": "MORISON, James",
+   "type": "studied_at",
+   "object": "Oxford",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Oxford (under Macdonell) and Vienna.",
+   "quote_ok": true
+  },
+  {
+   "subject": "MORISON, James",
+   "type": "student_of",
+   "object": "Macdonell",
+   "role": "teacher",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Oxford (under Macdonell)",
+   "quote_ok": true
+  },
+  {
+   "subject": "MORISON, James",
+   "type": "studied_at",
+   "object": "Vienna",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "Studies at Oxford (under Macdonell) and Vienna. Ph.D. 1893 Vienna",
+   "quote_ok": true
+  },
+  {
+   "subject": "MORISON, James",
+   "type": "student_of",
+   "object": "Bühler",
+   "role": "doctoral supervisor",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": 1893,
+   "explicit": false,
+   "evidence": "Ph.D. 1893 Vienna (apparently under Bühler).",
+   "quote_ok": true
+  },
+  {
+   "subject": "MORISON, James",
+   "type": "position_at",
+   "object": "Indian Institute at Oxford",
+   "role": "Librarian",
+   "place": "Oxford",
+   "year_start": 1914,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1914 Librarian of Indian Institute at Oxford, also teaching.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MORISON, James",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4266-morici-giuseppe.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MORISON, James",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4266/morici-giuseppe/",
+  "subject": "MORISON, James",
+  "birth_year": 1852,
+  "death_year": 1935
+ },
+ "model": "gemini-flash-latest"
+}

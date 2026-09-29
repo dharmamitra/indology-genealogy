@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Carmelo Dionisio Lazzaro Papi",
+   "birth_year": 1763,
+   "death_year": 1834,
+   "nationality": "Italian",
+   "field": null
+  },
+  {
+   "name": "PAPI, Lazzaro",
+   "birth_year": 1763,
+   "death_year": 1834
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Carmelo Dionisio Lazzaro Papi",
+   "type": "studied_at",
+   "object": "Pisa",
+   "role": "medicine",
+   "place": "Pisa",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "worked as tutor and studied medicine at Lucca and Pisa",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carmelo Dionisio Lazzaro Papi",
+   "type": "studied_at",
+   "object": "Lucca",
+   "role": "medicine",
+   "place": "Lucca",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "worked as tutor and studied medicine at Lucca and Pisa",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carmelo Dionisio Lazzaro Papi",
+   "type": "position_at",
+   "object": "public library of Lucca",
+   "role": "librarian",
+   "place": "Lucca",
+   "year_start": 1819,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Later (from 1819) worked as librarian in the public library of Lucca.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: PAPI, Lazzaro",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/19118-papi-carmelo-dionisio-lazzaro.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: PAPI, Lazzaro",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/19118/papi-carmelo-dionisio-lazzaro/",
+  "subject": "PAPI, Lazzaro",
+  "birth_year": 1763,
+  "death_year": 1834
+ },
+ "model": "gemini-flash-latest"
+}

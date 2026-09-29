@@ -1,0 +1,169 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Friedrich Wilhelm Hans Wissmann",
+   "birth_year": 1899,
+   "death_year": 1966,
+   "nationality": "German",
+   "field": "IE Linguist"
+  },
+  {
+   "name": "W. Schulze",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "F. Sommer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "WISSMANN, Wilhelm",
+   "birth_year": 1899,
+   "death_year": 1966
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Friedrich Wilhelm Hans Wissmann",
+   "type": "student_of",
+   "object": "W. Schulze",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1919,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1919 studied under W, Schulze at Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Wilhelm Hans Wissmann",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": 1919,
+   "year_end": 1930,
+   "explicit": true,
+   "evidence": "from 1919 studied under W, Schulze at Berlin. Ph.D. 1930",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Wilhelm Hans Wissmann",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": "PD",
+   "place": null,
+   "year_start": null,
+   "year_end": 1938,
+   "explicit": true,
+   "evidence": "PD 1938 Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Wilhelm Hans Wissmann",
+   "type": "position_at",
+   "object": "Berlin",
+   "role": "Assistant",
+   "place": null,
+   "year_start": 1933,
+   "year_end": 1939,
+   "explicit": true,
+   "evidence": "worked 1933-39 as Assistant at Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Wilhelm Hans Wissmann",
+   "type": "position_at",
+   "object": "Halle",
+   "role": null,
+   "place": null,
+   "year_start": 1939,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1939 he moved to Halle",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Wilhelm Hans Wissmann",
+   "type": "position_at",
+   "object": "Freiburg i.B.",
+   "role": "ao. Professor",
+   "place": null,
+   "year_start": 1940,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1940 ao. Professor at Freiburg i.B.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Wilhelm Hans Wissmann",
+   "type": "position_at",
+   "object": "Königsberg",
+   "role": "ord. of IE",
+   "place": null,
+   "year_start": 1942,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1942 ord. of IE at Königsberg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Wilhelm Hans Wissmann",
+   "type": "succeeded",
+   "object": "W. Schulze",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1945,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1945 succeeded Schulze at Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Wilhelm Hans Wissmann",
+   "type": "position_at",
+   "object": "Munich",
+   "role": "Professor",
+   "place": null,
+   "year_start": 1953,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1953 Professor at Munich (succeeding F. Sommer)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Wilhelm Hans Wissmann",
+   "type": "succeeded",
+   "object": "F. Sommer",
+   "role": "Professor",
+   "place": "Munich",
+   "year_start": 1953,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1953 Professor at Munich (succeeding F. Sommer)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: WISSMANN, Wilhelm",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5540-wissmann-wilhelm.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: WISSMANN, Wilhelm",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5540/wissmann-wilhelm/",
+  "subject": "WISSMANN, Wilhelm",
+  "birth_year": 1899,
+  "death_year": 1966
+ },
+ "model": "gemini-flash-latest"
+}

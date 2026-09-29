@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "M. A. Stein",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "LÓCZY, Lajos",
+   "birth_year": 1849,
+   "death_year": 1920
+  }
+ ],
+ "relations": [
+  {
+   "subject": "LÓCZY, Lajos",
+   "type": "studied_at",
+   "object": "Technische Hochschule, Zürich",
+   "role": null,
+   "place": "Zürich",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After Technische Hochschule, Zürich, from 1874 worked in Hungarian National Museum.",
+   "quote_ok": true
+  },
+  {
+   "subject": "LÓCZY, Lajos",
+   "type": "position_at",
+   "object": "Hungarian National Museum",
+   "role": null,
+   "place": null,
+   "year_start": 1874,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1874 worked in Hungarian National Museum.",
+   "quote_ok": true
+  },
+  {
+   "subject": "LÓCZY, Lajos",
+   "type": "position_at",
+   "object": "Budapest",
+   "role": "Professor of Geography",
+   "place": "Budapest",
+   "year_start": 1889,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1889 Professor of Geography at Budapest.",
+   "quote_ok": true
+  },
+  {
+   "subject": "M. A. Stein",
+   "type": "influenced_by",
+   "object": "LÓCZY, Lajos",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "It was his advice that ultimately brought M. A. Stein there.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: LÓCZY, Lajos",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3845-loczy-lajos.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: LÓCZY, Lajos",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3845/loczy-lajos/",
+  "subject": "LÓCZY, Lajos",
+  "birth_year": 1849,
+  "death_year": 1920
+ },
+ "model": "gemini-flash-latest"
+}

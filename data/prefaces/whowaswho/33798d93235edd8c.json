@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Antoine-Louis-Henri Polier",
+   "birth_year": 1741,
+   "death_year": 1795,
+   "nationality": "Swiss",
+   "field": null
+  },
+  {
+   "name": "Ram Chand",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Sir William Jones",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "POLIER, Antoine-Louis – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1700,
+   "death_year": 1781
+  },
+  {
+   "name": "POLIER, Antoine-Louis",
+   "birth_year": 1741,
+   "death_year": 1795
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sir William Jones",
+   "type": "student_of",
+   "object": "Ram Chand",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His major informant was the Pandit Ram Chand, who also had taught Sir William Jones.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Antoine-Louis-Henri Polier",
+   "type": "influenced_by",
+   "object": "Ram Chand",
+   "role": "informant",
+   "place": "Lucknow",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "was located in Lucknow, where he became acquainted with Ram Chand. ... His major informant was the Pandit Ram Chand",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: POLIER, Antoine-Louis",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4832-polier-antoine-louis-henri.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: POLIER, Antoine-Louis",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4832/polier-antoine-louis-henri/",
+  "subject": "POLIER, Antoine-Louis",
+  "birth_year": 1741,
+  "death_year": 1795
+ },
+ "model": "gemini-flash-latest"
+}

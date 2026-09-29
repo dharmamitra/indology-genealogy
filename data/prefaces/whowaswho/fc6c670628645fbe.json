@@ -1,0 +1,90 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Klaus Hahlweg",
+   "birth_year": 1921,
+   "death_year": 1995,
+   "nationality": "German",
+   "field": "Buddhist Scholar"
+  },
+  {
+   "name": "von Glasenapp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "H. Hoffmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "HAHLWEG, Klaus – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1921,
+   "death_year": 1995
+  },
+  {
+   "name": "HAHLWEG, Klaus",
+   "birth_year": 1921,
+   "death_year": 1995
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Klaus Hahlweg",
+   "type": "student_of",
+   "object": "von Glasenapp",
+   "role": "student",
+   "place": "Königsberg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "During the war student of von Glasenapp at Königsberg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Klaus Hahlweg",
+   "type": "studied_at",
+   "object": "Munich",
+   "role": "Ph.D.",
+   "place": "Munich",
+   "year_start": null,
+   "year_end": 1954,
+   "explicit": true,
+   "evidence": "Ph.D. Munich 1954 (under H. Hoffmann).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Klaus Hahlweg",
+   "type": "student_of",
+   "object": "H. Hoffmann",
+   "role": "doctoral supervisor",
+   "place": "Munich",
+   "year_start": null,
+   "year_end": 1954,
+   "explicit": true,
+   "evidence": "Ph.D. Munich 1954 (under H. Hoffmann).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HAHLWEG, Klaus",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2555-hahlweg-klaus.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HAHLWEG, Klaus",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2555/hahlweg-klaus/",
+  "subject": "HAHLWEG, Klaus",
+  "birth_year": 1921,
+  "death_year": 1995
+ },
+ "model": "gemini-flash-latest"
+}

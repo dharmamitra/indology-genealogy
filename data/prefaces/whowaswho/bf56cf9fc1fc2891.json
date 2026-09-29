@@ -1,0 +1,152 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Carl Friedrich Lottner",
+   "birth_year": 1834,
+   "death_year": 1873,
+   "nationality": "German",
+   "field": "Celtic and IE Linguist"
+  },
+  {
+   "name": "Franz Bopp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Grimm",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Siegfried",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Atkinson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "LOTTNER, Carl – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1796,
+   "death_year": 1836
+  },
+  {
+   "name": "LOTTNER, Carl",
+   "birth_year": 1834,
+   "death_year": 1873
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Carl Friedrich Lottner",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1851,
+   "year_end": 1854,
+   "explicit": true,
+   "evidence": "After school and Gymnasium in Berlin studied in 1851-54 at Berlin under Bopp and Grimm.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Friedrich Lottner",
+   "type": "student_of",
+   "object": "Franz Bopp",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1851,
+   "year_end": 1854,
+   "explicit": true,
+   "evidence": "studied in 1851-54 at Berlin under Bopp and Grimm.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Friedrich Lottner",
+   "type": "student_of",
+   "object": "Grimm",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1851,
+   "year_end": 1854,
+   "explicit": true,
+   "evidence": "studied in 1851-54 at Berlin under Bopp and Grimm.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Friedrich Lottner",
+   "type": "position_at",
+   "object": "Trinity College",
+   "role": "Lecturer",
+   "place": "Dublin",
+   "year_start": 1860,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and 1860 to Dublin, becoming Lecturer at Trinity College.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Friedrich Lottner",
+   "type": "position_at",
+   "object": "Trinity College",
+   "role": "Professor of Sanskrit",
+   "place": "Dublin",
+   "year_start": 1864,
+   "year_end": 1873,
+   "explicit": true,
+   "evidence": "In c. 1864 succeeded Siegfried as Professor of Sanskrit at Trinity College in Dublin and taught there until his death",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Friedrich Lottner",
+   "type": "succeeded",
+   "object": "Siegfried",
+   "role": "Professor of Sanskrit",
+   "place": "Trinity College in Dublin",
+   "year_start": 1864,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In c. 1864 succeeded Siegfried as Professor of Sanskrit at Trinity College in Dublin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Atkinson",
+   "type": "succeeded",
+   "object": "Carl Friedrich Lottner",
+   "role": "Professor of Sanskrit",
+   "place": "Trinity College in Dublin",
+   "year_start": 1873,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "taught there until his death (when he was succeeded by Atkinson).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: LOTTNER, Carl",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3889-lottner-carl.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: LOTTNER, Carl",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3889/lottner-carl/",
+  "subject": "LOTTNER, Carl",
+  "birth_year": 1834,
+  "death_year": 1873
+ },
+ "model": "gemini-flash-latest"
+}

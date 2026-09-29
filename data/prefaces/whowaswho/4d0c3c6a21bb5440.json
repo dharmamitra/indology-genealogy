@@ -1,0 +1,133 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Alfred von Sallet",
+   "birth_year": 1842,
+   "death_year": 1897,
+   "nationality": "German",
+   "field": "Numismatics"
+  },
+  {
+   "name": "Theodor Paur",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Dante scholar"
+  },
+  {
+   "name": "Boeckh",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Mommsen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "SALLET, Alfred von – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1812,
+   "death_year": 1843
+  },
+  {
+   "name": "SALLET, Alfred von",
+   "birth_year": 1842,
+   "death_year": 1897
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Alfred von Sallet",
+   "type": "other",
+   "object": "Theodor Paur",
+   "role": "stepfather",
+   "place": null,
+   "year_start": 1849,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1849 mother remarried Theodor Paur, a Dante scholar and politician",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred von Sallet",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": "Ph.D.",
+   "place": "Berlin",
+   "year_start": 1862,
+   "year_end": 1865,
+   "explicit": true,
+   "evidence": "From 1862 studies at Berlin, mainly archaeology and history (Boeckh, Mommsen). Ph.D. 1865.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred von Sallet",
+   "type": "student_of",
+   "object": "Boeckh",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1862,
+   "year_end": 1865,
+   "explicit": true,
+   "evidence": "From 1862 studies at Berlin, mainly archaeology and history (Boeckh, Mommsen).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred von Sallet",
+   "type": "student_of",
+   "object": "Mommsen",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1862,
+   "year_end": 1865,
+   "explicit": true,
+   "evidence": "From 1862 studies at Berlin, mainly archaeology and history (Boeckh, Mommsen).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred von Sallet",
+   "type": "position_at",
+   "object": "Münzkabinett in Berlin",
+   "role": "Director",
+   "place": "Berlin",
+   "year_start": 1869,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "From 1869 worked in Münzkabinett in Berlin, from 1884 until death its Director.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alfred von Sallet",
+   "type": "founded",
+   "object": "Zeitschrift für Numismatik",
+   "role": "founder-editor",
+   "place": null,
+   "year_start": 1874,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1874 founder-editor of the new Zeitschrift für Numismatik .",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SALLET, Alfred von",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/20617-sallet-alfred-von.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SALLET, Alfred von",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/20617/sallet-alfred-von/",
+  "subject": "SALLET, Alfred von",
+  "birth_year": 1842,
+  "death_year": 1897
+ },
+ "model": "gemini-flash-latest"
+}

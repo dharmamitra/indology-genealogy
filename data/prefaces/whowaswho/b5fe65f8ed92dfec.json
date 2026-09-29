@@ -1,0 +1,97 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2018,
+ "people": [
+  {
+   "name": "Kurt Schmidt",
+   "birth_year": 1879,
+   "death_year": 1975,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "Oldenberg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Neumann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "SCHMIDT, Kurt",
+   "birth_year": 1879,
+   "death_year": 1975
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Kurt Schmidt",
+   "type": "studied_at",
+   "object": "Rostock",
+   "role": "Dr. iuris",
+   "place": null,
+   "year_start": null,
+   "year_end": 1901,
+   "explicit": true,
+   "evidence": "Dr. iuris 1901 Rostock.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kurt Schmidt",
+   "type": "influenced_by",
+   "object": "Oldenberg",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Became interested in Buddhism though Oldenberg’s book",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kurt Schmidt",
+   "type": "influenced_by",
+   "object": "Neumann",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Became interested in Buddhism though Oldenberg’s book and Neumann’s translations",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kurt Schmidt",
+   "type": "founded",
+   "object": "Buddhistische Arbeitsgemeinschaft",
+   "role": null,
+   "place": "West Berlin",
+   "year_start": 1946,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "founded Buddhistische Arbeitsgemeinschaft in 1946.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SCHMIDT, Kurt",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/9982-schmidt-kurt-2.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SCHMIDT, Kurt",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/9982/schmidt-kurt-2/",
+  "subject": "SCHMIDT, Kurt",
+  "birth_year": 1879,
+  "death_year": 1975
+ },
+ "model": "gemini-flash-latest"
+}

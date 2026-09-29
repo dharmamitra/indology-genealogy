@@ -1,0 +1,128 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Giuseppe Turrini",
+   "birth_year": 1826,
+   "death_year": 1899,
+   "nationality": "Italian",
+   "field": "Indology"
+  },
+  {
+   "name": "Bardelli",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Gorresio",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lignana",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "TURRINI, Giuseppe",
+   "birth_year": 1826,
+   "death_year": 1899
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Giuseppe Turrini",
+   "type": "studied_at",
+   "object": "Padova",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "began medical studies at Padova",
+   "quote_ok": true
+  },
+  {
+   "subject": "Giuseppe Turrini",
+   "type": "studied_at",
+   "object": "Pisa",
+   "role": "Dr.Med.",
+   "place": "Pisa",
+   "year_start": 1848,
+   "year_end": 1854,
+   "explicit": true,
+   "evidence": "in 1848 had to escape to Pisa, studied medicine at the local university. Dr.Med. 1854 Pisa",
+   "quote_ok": true
+  },
+  {
+   "subject": "Giuseppe Turrini",
+   "type": "student_of",
+   "object": "Bardelli",
+   "role": "teacher",
+   "place": "Florence",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Learned Sanskrit under Bardelli at Florence",
+   "quote_ok": true
+  },
+  {
+   "subject": "Giuseppe Turrini",
+   "type": "student_of",
+   "object": "Gorresio",
+   "role": "teacher",
+   "place": "Turin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Learned Sanskrit under Bardelli at Florence and Gorresio at Turin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Giuseppe Turrini",
+   "type": "position_at",
+   "object": "Università di Bologna",
+   "role": "Professore ord. di filologia indo-europea",
+   "place": "Bologna",
+   "year_start": 1860,
+   "year_end": 1899,
+   "explicit": true,
+   "evidence": "From 1860 Professore ord. di filologia indo-europea at Università di Bologna (succeeding Lignana), taught there until his death.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Giuseppe Turrini",
+   "type": "succeeded",
+   "object": "Lignana",
+   "role": null,
+   "place": "Università di Bologna",
+   "year_start": 1860,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1860 Professore ord. di filologia indo-europea at Università di Bologna (succeeding Lignana)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: TURRINI, Giuseppe",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5096-turrini-giuseppe.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: TURRINI, Giuseppe",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5096/turrini-giuseppe/",
+  "subject": "TURRINI, Giuseppe",
+  "birth_year": 1826,
+  "death_year": 1899
+ },
+ "model": "gemini-flash-latest"
+}

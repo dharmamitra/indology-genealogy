@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "William George Peppe",
+   "birth_year": 1822,
+   "death_year": 1889,
+   "nationality": "Scottish",
+   "field": "Archaeology"
+  },
+  {
+   "name": "Th. F. Peppe",
+   "birth_year": 1826,
+   "death_year": 1907,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "William Claxton Peppe",
+   "birth_year": 1852,
+   "death_year": 1937,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "PEPPE, William G. – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1785,
+   "death_year": 1837
+  },
+  {
+   "name": "PEPPE, William G",
+   "birth_year": 1822,
+   "death_year": 1889
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William George Peppe",
+   "type": "other",
+   "object": "Th. F. Peppe",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "brother of —> Th. F. Peppe (1826/33–1907)",
+   "quote_ok": true
+  },
+  {
+   "subject": "William George Peppe",
+   "type": "other",
+   "object": "William Claxton Peppe",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Father of —> William Claxton Peppe (1852–1937) and other children.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: PEPPE, William G",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/7412-peppe-william.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: PEPPE, William G",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/7412/peppe-william/",
+  "subject": "PEPPE, William G",
+  "birth_year": 1822,
+  "death_year": 1889
+ },
+ "model": "gemini-flash-latest"
+}

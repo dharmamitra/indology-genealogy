@@ -1,0 +1,121 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "James Mackintosh",
+   "birth_year": 1765,
+   "death_year": 1832,
+   "nationality": "British",
+   "field": "Lawyer, Statesman and Historian, Civil Servant in India"
+  },
+  {
+   "name": "Claudius James Rich",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "W. Erskine",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "MACKINTOSH, James",
+   "birth_year": 1765,
+   "death_year": 1832
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Mackintosh",
+   "type": "studied_at",
+   "object": "King’s College of Aberdeen University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at Fortrose and at King’s College of Aberdeen University",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Mackintosh",
+   "type": "studied_at",
+   "object": "Edinburgh",
+   "role": "diploma",
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": 1787,
+   "explicit": true,
+   "evidence": "then studied medicine in Edinburgh and obtained his diploma in 1787.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Mackintosh",
+   "type": "founded",
+   "object": "Literary Society of Bombay",
+   "role": "President",
+   "place": "Bombay",
+   "year_start": 1805,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "founded the Literary Society of Bombay in 1805 and became its President",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Mackintosh",
+   "type": "position_at",
+   "object": "Haileybury",
+   "role": "Professor of Law and General Politics",
+   "place": null,
+   "year_start": 1818,
+   "year_end": 1824,
+   "explicit": true,
+   "evidence": "In 1818-24 Professor of Law and General Politics at Haileybury.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Claudius James Rich",
+   "type": "other",
+   "object": "James Mackintosh",
+   "role": "son-in-law",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Claudius James Rich and W. Erskine were his sons-in-law.",
+   "quote_ok": true
+  },
+  {
+   "subject": "W. Erskine",
+   "type": "other",
+   "object": "James Mackintosh",
+   "role": "son-in-law",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Claudius James Rich and W. Erskine were his sons-in-law.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MACKINTOSH, James",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3955-mackintosh-james.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MACKINTOSH, James",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3955/mackintosh-james/",
+  "subject": "MACKINTOSH, James",
+  "birth_year": 1765,
+  "death_year": 1832
+ },
+ "model": "gemini-flash-latest"
+}

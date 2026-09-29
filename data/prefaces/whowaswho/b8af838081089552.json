@@ -1,0 +1,116 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Roger Goossens",
+   "birth_year": 1903,
+   "death_year": 1954,
+   "nationality": "Belgian",
+   "field": "Philologist"
+  },
+  {
+   "name": "Boisacq",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "P.-É. Dumont",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "H. Grégoire",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "GOOSSENS, Roger",
+   "birth_year": 1903,
+   "death_year": 1954
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Roger Goossens",
+   "type": "student_of",
+   "object": "Boisacq",
+   "role": "teacher",
+   "place": "Brussels",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "As a student of Boisacq at Brussels he concentrated on Greek philology",
+   "quote_ok": true
+  },
+  {
+   "subject": "Roger Goossens",
+   "type": "studied_at",
+   "object": "Brussels",
+   "role": "Ph.D.",
+   "place": "Brussels",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "As a student of Boisacq at Brussels he concentrated on Greek philology, but also learnt Sanskrit from P.-É. Dumont. In addition he knew modern Greek and some Slavic languages. Ph.D.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Roger Goossens",
+   "type": "student_of",
+   "object": "P.-É. Dumont",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "learnt Sanskrit from P.-É. Dumont",
+   "quote_ok": true
+  },
+  {
+   "subject": "Roger Goossens",
+   "type": "position_at",
+   "object": "H. Grégoire",
+   "role": "Assistant",
+   "place": null,
+   "year_start": 1930,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1930 Assistant of H. Grégoire.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Roger Goossens",
+   "type": "position_at",
+   "object": "Brussels",
+   "role": "Professor of Greek",
+   "place": "Brussels",
+   "year_start": 1945,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1945 Professor of Greek, but also taught Sanskrit and Indology at Brussels.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GOOSSENS, Roger",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2338-goossens-roger.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GOOSSENS, Roger",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2338/goossens-roger/",
+  "subject": "GOOSSENS, Roger",
+  "birth_year": 1903,
+  "death_year": 1954
+ },
+ "model": "gemini-flash-latest"
+}

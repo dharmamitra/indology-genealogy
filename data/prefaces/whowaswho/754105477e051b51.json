@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Heinrich Plütschau",
+   "birth_year": 1676,
+   "death_year": 1752,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "Ziegenbalg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "PLÜTSCHAU, Heinrich",
+   "birth_year": 1676,
+   "death_year": 1752
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Heinrich Plütschau",
+   "type": "studied_at",
+   "object": "Halle",
+   "role": "theology",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated in Berlin, then studied theology at Halle.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Plütschau",
+   "type": "collaborated_with",
+   "object": "Ziegenbalg",
+   "role": null,
+   "place": "Trankebar",
+   "year_start": 1706,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "arrived at Trankebar (Tamilnadu) in 1706 together with Ziegenbalg. In their collaboration there Ziegenbalg concentrated on Tamil, while Plütschau preached in Portuguese and Danish",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Plütschau",
+   "type": "position_at",
+   "object": "Halle",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "For a while taught Portuguese and Tamil at Halle",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: PLÜTSCHAU, Heinrich",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4816-plutschow-heinrich.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: PLÜTSCHAU, Heinrich",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4816/plutschow-heinrich/",
+  "subject": "PLÜTSCHAU, Heinrich",
+  "birth_year": 1676,
+  "death_year": 1752
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,114 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Armand Albert Guérinot",
+   "birth_year": 1872,
+   "death_year": 1940,
+   "nationality": "French",
+   "field": "Indologist"
+  },
+  {
+   "name": "Regnaud",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jacobi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "GUÉRINOT, A. – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1872,
+   "death_year": 1940
+  },
+  {
+   "name": "GUÉRINOT, A",
+   "birth_year": 1872,
+   "death_year": 1940
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Armand Albert Guérinot",
+   "type": "student_of",
+   "object": "Regnaud",
+   "role": null,
+   "place": "Lyon",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied under Regnaud at Lyon",
+   "quote_ok": true
+  },
+  {
+   "subject": "Armand Albert Guérinot",
+   "type": "studied_at",
+   "object": "Lyon",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1900,
+   "explicit": true,
+   "evidence": "Studied under Regnaud at Lyon, Ph.D. there 1900.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Armand Albert Guérinot",
+   "type": "studied_at",
+   "object": "Bonn",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Further studies at Bonn under Jacobi.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Armand Albert Guérinot",
+   "type": "student_of",
+   "object": "Jacobi",
+   "role": null,
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Further studies at Bonn under Jacobi.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Armand Albert Guérinot",
+   "type": "position_at",
+   "object": "Imprimérie nationale",
+   "role": "correcteur pour la typographie orientale",
+   "place": null,
+   "year_start": 1909,
+   "year_end": 1909,
+   "explicit": true,
+   "evidence": "In 1909 he was “correcteur pour la typographie orientale” in Imprimérie nationale",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GUÉRINOT, A",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2475-guerinot-armand-albert.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GUÉRINOT, A",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2475/guerinot-armand-albert/",
+  "subject": "GUÉRINOT, A",
+  "birth_year": 1872,
+  "death_year": 1940
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,85 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Charles Grant",
+   "birth_year": 1746,
+   "death_year": 1823,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Robert Grant",
+   "birth_year": 1779,
+   "death_year": 1838,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "James Grant",
+   "birth_year": 1750,
+   "death_year": 1808,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "GRANT, Charles",
+   "birth_year": 1746,
+   "death_year": 1823
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Charles Grant",
+   "type": "founded",
+   "object": "East India College in Hertford",
+   "role": null,
+   "place": "Hertford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Founder of the East India College in Hertford (then Haileybury).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Grant",
+   "type": "other",
+   "object": "Robert Grant",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "father of —> Robert Grant (1779/80–1838) and two other sons.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Grant",
+   "type": "other",
+   "object": "James Grant",
+   "role": "cousin",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "—> James Grant (1750–1808) was his cousin.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GRANT, Charles",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2378-grant-charles.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GRANT, Charles",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2378/grant-charles/",
+  "subject": "GRANT, Charles",
+  "birth_year": 1746,
+  "death_year": 1823
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,66 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Edward Klich",
+   "birth_year": 1878,
+   "death_year": 1939,
+   "nationality": "Polish",
+   "field": "Linguist, Specialist of Slavic and Gipsy Languages"
+  },
+  {
+   "name": "Rozwadowski",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "KLICH, Edward",
+   "birth_year": 1878,
+   "death_year": 1939
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Edward Klich",
+   "type": "student_of",
+   "object": "Rozwadowski",
+   "role": null,
+   "place": "Cracow",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Student of Rozwadowski at Cracow.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Klich",
+   "type": "position_at",
+   "object": "Poznań",
+   "role": "Professor",
+   "place": "Poznań",
+   "year_start": 1929,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1929 Professor at Poznań.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: KLICH, Edward",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/16324-klich-edward.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: KLICH, Edward",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/16324/klich-edward/",
+  "subject": "KLICH, Edward",
+  "birth_year": 1878,
+  "death_year": 1939
+ },
+ "model": "gemini-flash-latest"
+}

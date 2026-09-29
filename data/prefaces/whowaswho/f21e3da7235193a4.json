@@ -1,0 +1,107 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "C. Mary Ridding",
+   "birth_year": 1862,
+   "death_year": 1941,
+   "nationality": "British",
+   "field": "Indologist"
+  },
+  {
+   "name": "Cowell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "RIDDING, C. Mary – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1830,
+   "death_year": 1900
+  },
+  {
+   "name": "RIDDING, C. Mary",
+   "birth_year": 1862,
+   "death_year": 1941
+  }
+ ],
+ "relations": [
+  {
+   "subject": "C. Mary Ridding",
+   "type": "student_of",
+   "object": "Cowell",
+   "role": "teacher",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied classics and Sanskrit (under Cowell) at Cambridge",
+   "quote_ok": true
+  },
+  {
+   "subject": "C. Mary Ridding",
+   "type": "studied_at",
+   "object": "Cambridge",
+   "role": "M.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1923,
+   "explicit": true,
+   "evidence": "Studied classics and Sanskrit (under Cowell) at Cambridge [...] M.A. 1923 Cambridge",
+   "quote_ok": true
+  },
+  {
+   "subject": "C. Mary Ridding",
+   "type": "studied_at",
+   "object": "Girton College",
+   "role": "scholar",
+   "place": null,
+   "year_start": 1883,
+   "year_end": 1886,
+   "explicit": true,
+   "evidence": "for a while scholar of Girton College (1883-86)",
+   "quote_ok": true
+  },
+  {
+   "subject": "C. Mary Ridding",
+   "type": "position_at",
+   "object": "Girton College",
+   "role": "employed cataloguing them",
+   "place": null,
+   "year_start": 1904,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1904 she secured Cowell’s books for Girton College and was employed cataloguing them.",
+   "quote_ok": true
+  },
+  {
+   "subject": "C. Mary Ridding",
+   "type": "position_at",
+   "object": "Cambridge University Library",
+   "role": "Librarian",
+   "place": null,
+   "year_start": 1911,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1911 Librarian in Cambridge University Library.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: RIDDING, C. Mary",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5210-ridding-c-mary.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: RIDDING, C. Mary",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5210/ridding-c-mary/",
+  "subject": "RIDDING, C. Mary",
+  "birth_year": 1862,
+  "death_year": 1941
+ },
+ "model": "gemini-flash-latest"
+}

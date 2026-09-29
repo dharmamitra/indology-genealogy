@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John Carnac Morris",
+   "birth_year": 1798,
+   "death_year": 1858,
+   "nationality": "British",
+   "field": "Telugu Scholar"
+  },
+  {
+   "name": "Henry Morris",
+   "birth_year": 1829,
+   "death_year": 1912,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "MORRIS, John Carnac – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1813,
+   "death_year": 1815
+  },
+  {
+   "name": "MORRIS, John Carnac",
+   "birth_year": 1798,
+   "death_year": 1858
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Carnac Morris",
+   "type": "studied_at",
+   "object": "Haileybury",
+   "role": null,
+   "place": null,
+   "year_start": 1815,
+   "year_end": 1817,
+   "explicit": true,
+   "evidence": "then at Haileybury 1815-17",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Carnac Morris",
+   "type": "position_at",
+   "object": "Madras Civil service",
+   "role": null,
+   "place": null,
+   "year_start": 1818,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1818 joined Madras Civil service.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Carnac Morris",
+   "type": "other",
+   "object": "Henry Morris",
+   "role": "father of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "father of —> Henry Morris (1829–1912)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MORRIS, John Carnac",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4270-morison-james.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MORRIS, John Carnac",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4270/morison-james/",
+  "subject": "MORRIS, John Carnac",
+  "birth_year": 1798,
+  "death_year": 1858
+ },
+ "model": "gemini-flash-latest"
+}

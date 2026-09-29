@@ -1,0 +1,66 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Jean-Sylvain Bailly",
+   "birth_year": 1736,
+   "death_year": 1793,
+   "nationality": "French",
+   "field": "Mathematician, Astronomist and Historian of Astronomy"
+  },
+  {
+   "name": "Le Gentil",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BAILLY, Jean-Sylvain",
+   "birth_year": 1736,
+   "death_year": 1793
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jean-Sylvain Bailly",
+   "type": "position_at",
+   "object": "French Academy",
+   "role": "member",
+   "place": null,
+   "year_start": 1763,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1763 member of French Academy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean-Sylvain Bailly",
+   "type": "influenced_by",
+   "object": "Le Gentil",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Explained his theory about the (much too) high age of Indian astronomy already in his history of pre-Alexandrian astronomy in 1775, using the material collected by —> Le Gentil.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BAILLY, Jean-Sylvain",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/472-bailly-jean-sylvain.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BAILLY, Jean-Sylvain",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/472/bailly-jean-sylvain/",
+  "subject": "BAILLY, Jean-Sylvain",
+  "birth_year": 1736,
+  "death_year": 1793
+ },
+ "model": "gemini-flash-latest"
+}

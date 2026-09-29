@@ -1,0 +1,109 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Heinrich Moritz Gottlieb Grellmann",
+   "birth_year": 1756,
+   "death_year": 1804,
+   "nationality": "German",
+   "field": "Cultural Historian, Statistician"
+  },
+  {
+   "name": "von Schlözer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rüdiger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "GRELLMANN, Heinrich Moritz",
+   "birth_year": 1756,
+   "death_year": 1804
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Heinrich Moritz Gottlieb Grellmann",
+   "type": "studied_at",
+   "object": "Jena",
+   "role": null,
+   "place": "Jena",
+   "year_start": 1776,
+   "year_end": 1781,
+   "explicit": true,
+   "evidence": "studied 1776-81 at Jena under von Schlözer.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Moritz Gottlieb Grellmann",
+   "type": "student_of",
+   "object": "von Schlözer",
+   "role": "teacher",
+   "place": "Jena",
+   "year_start": 1776,
+   "year_end": 1781,
+   "explicit": true,
+   "evidence": "studied 1776-81 at Jena under von Schlözer.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Moritz Gottlieb Grellmann",
+   "type": "position_at",
+   "object": "Göttingen",
+   "role": "ao. Professor",
+   "place": "Göttingen",
+   "year_start": 1787,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Then in Göttingen, where he became in 1787 ao. and 1794 ord. Professor.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Moritz Gottlieb Grellmann",
+   "type": "position_at",
+   "object": "Göttingen",
+   "role": "ord. Professor",
+   "place": "Göttingen",
+   "year_start": 1794,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Then in Göttingen, where he became in 1787 ao. and 1794 ord. Professor.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Heinrich Moritz Gottlieb Grellmann",
+   "type": "position_at",
+   "object": "Moscow University",
+   "role": "Professor of Statistics",
+   "place": "Moscow",
+   "year_start": 1804,
+   "year_end": 1804,
+   "explicit": true,
+   "evidence": "In 1804 Professor of Statistics at Moscow University, but died soon.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GRELLMANN, Heinrich Moritz",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2410-grellmann-heinrich-moritz-gottlieb.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GRELLMANN, Heinrich Moritz",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2410/grellmann-heinrich-moritz-gottlieb/",
+  "subject": "GRELLMANN, Heinrich Moritz",
+  "birth_year": 1756,
+  "death_year": 1804
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,90 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Giuliana Stramiglioni",
+   "birth_year": 1914,
+   "death_year": 1988,
+   "nationality": "Italian",
+   "field": "Japanology"
+  },
+  {
+   "name": "Tucci",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "STRAMIGLIONI, Giuliana",
+   "birth_year": 1914,
+   "death_year": 1988
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Giuliana Stramiglioni",
+   "type": "student_of",
+   "object": "Tucci",
+   "role": "teacher",
+   "place": "Rome",
+   "year_start": null,
+   "year_end": 1936,
+   "explicit": true,
+   "evidence": "Student of Tucci at Rome, graduated 1936.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Giuliana Stramiglioni",
+   "type": "position_at",
+   "object": "Naples",
+   "role": null,
+   "place": "Naples",
+   "year_start": 1938,
+   "year_end": 1938,
+   "explicit": true,
+   "evidence": "Back in Italy 1938 taught briefly at Naples",
+   "quote_ok": true
+  },
+  {
+   "subject": "Giuliana Stramiglioni",
+   "type": "position_at",
+   "object": "Tokyo University",
+   "role": "teacher of Italian",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After war taught Italian at Tokyo University, remained in Japan until 1965.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Giuliana Stramiglioni",
+   "type": "position_at",
+   "object": "La Sapienza",
+   "role": "Professor of Japanese",
+   "place": "Rome",
+   "year_start": 1965,
+   "year_end": 1985,
+   "explicit": true,
+   "evidence": "In 1965-85 Professor of Japanese at La Sapienza in Rome.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: STRAMIGLIONI, Giuliana",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/55910-stramiglioni-giuliana.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: STRAMIGLIONI, Giuliana",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/55910/stramiglioni-giuliana/",
+  "subject": "STRAMIGLIONI, Giuliana",
+  "birth_year": 1914,
+  "death_year": 1988
+ },
+ "model": "gemini-flash-latest"
+}

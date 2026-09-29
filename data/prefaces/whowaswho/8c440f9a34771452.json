@@ -1,0 +1,76 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "John David Rees",
+   "birth_year": 1854,
+   "death_year": 1922,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "REES, John David – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1816,
+   "death_year": 1885
+  },
+  {
+   "name": "REES, John David",
+   "birth_year": 1854,
+   "death_year": 1922
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John David Rees",
+   "type": "studied_at",
+   "object": "Cheltenham",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at Cheltenham.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John David Rees",
+   "type": "position_at",
+   "object": "Madras Civil Service",
+   "role": "Civil Servant",
+   "place": "India",
+   "year_start": 1875,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Entered the Madras Civil Service, 1875.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John David Rees",
+   "type": "position_at",
+   "object": "Governor-General’s Council",
+   "role": "Additional Member",
+   "place": "India",
+   "year_start": 1895,
+   "year_end": 1900,
+   "explicit": true,
+   "evidence": "Additional Member of Governor-General’s Council, 1895-1900.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: REES, John David",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5150-rees-john-david.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: REES, John David",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5150/rees-john-david/",
+  "subject": "REES, John David",
+  "birth_year": 1854,
+  "death_year": 1922
+ },
+ "model": "gemini-flash-latest"
+}

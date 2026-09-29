@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "James Grant",
+   "birth_year": 1750,
+   "death_year": 1808,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Charles Grant",
+   "birth_year": 1746,
+   "death_year": 1823,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "GRANT, James – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1746,
+   "death_year": 1823
+  },
+  {
+   "name": "GRANT, James",
+   "birth_year": 1750,
+   "death_year": 1808
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Grant",
+   "type": "other",
+   "object": "Charles Grant",
+   "role": "cousin",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Cousin of —> Charles Grant (1746–1823).",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Grant",
+   "type": "position_at",
+   "object": "E.I.C.",
+   "role": "writer",
+   "place": null,
+   "year_start": 1778,
+   "year_end": 1789,
+   "explicit": true,
+   "evidence": "from 1778 writer in E.I.C.’s service. Served in Bengal in 1784-89",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GRANT, James",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2382-grant-james.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GRANT, James",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2382/grant-james/",
+  "subject": "GRANT, James",
+  "birth_year": 1750,
+  "death_year": 1808
+ },
+ "model": "gemini-flash-latest"
+}

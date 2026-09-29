@@ -1,0 +1,133 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Bojan Čop",
+   "birth_year": 1923,
+   "death_year": 1994,
+   "nationality": "Slovenian",
+   "field": "IE Linguist and Scholar of Tocharian"
+  },
+  {
+   "name": "Josip Čop",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Romanist"
+  },
+  {
+   "name": "K. Oštir",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ČOP, Bojan",
+   "birth_year": 1923,
+   "death_year": 1994
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Bojan Čop",
+   "type": "other",
+   "object": "Josip Čop",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of Josip Čop, a Romanist",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bojan Čop",
+   "type": "studied_at",
+   "object": "Ljubljana",
+   "role": null,
+   "place": "Ljubljana",
+   "year_start": 1941,
+   "year_end": 1947,
+   "explicit": true,
+   "evidence": "In 1941-47 studied classics and IE linguistics at Ljubljana.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bojan Čop",
+   "type": "position_at",
+   "object": "Ljubljana",
+   "role": "Assistant in Classics",
+   "place": "Ljubljana",
+   "year_start": 1949,
+   "year_end": 1951,
+   "explicit": true,
+   "evidence": "From 1949 Assistant in Classics at Ljubljana, 1951 moved to IE",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bojan Čop",
+   "type": "student_of",
+   "object": "K. Oštir",
+   "role": "teacher",
+   "place": "Ljubljana",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the successor of his teacher —> K. Oštir there",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bojan Čop",
+   "type": "succeeded",
+   "object": "K. Oštir",
+   "role": null,
+   "place": "Ljubljana",
+   "year_start": 1959,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1959 the successor of his teacher —> K. Oštir there",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bojan Čop",
+   "type": "studied_at",
+   "object": "Ljubljana",
+   "role": "PhD",
+   "place": "Ljubljana",
+   "year_start": null,
+   "year_end": 1970,
+   "explicit": true,
+   "evidence": "Ph.D. 1970 Ljubljana.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bojan Čop",
+   "type": "position_at",
+   "object": "Ljubljana",
+   "role": "full Professor of Comparative IE linguistics",
+   "place": "Ljubljana",
+   "year_start": 1972,
+   "year_end": 1990,
+   "explicit": true,
+   "evidence": "from 1972 full Professor of Comparative IE linguistics, retired 1990.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ČOP, Bojan",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1351-cop-bojan.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ČOP, Bojan",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1351/cop-bojan/",
+  "subject": "ČOP, Bojan",
+  "birth_year": 1923,
+  "death_year": 1994
+ },
+ "model": "gemini-flash-latest"
+}

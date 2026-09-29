@@ -1,0 +1,66 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Robert Leech",
+   "birth_year": 1813,
+   "death_year": 1845,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Burnes",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "LEECH, Robert",
+   "birth_year": 1813,
+   "death_year": 1845
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Robert Leech",
+   "type": "collaborated_with",
+   "object": "Burnes",
+   "role": "Assistant of Burnes",
+   "place": "Afghanistan",
+   "year_start": 1836,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1836, still as Lieutenant, Assistant of Burnes, served in Afghanistan until 1842",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Leech",
+   "type": "position_at",
+   "object": "Bombay Engineers",
+   "role": "Engineer Major",
+   "place": null,
+   "year_start": 1836,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Engineer Major, Bombay Engineers, in 1836",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: LEECH, Robert",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3725-leech-robert.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: LEECH, Robert",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3725/leech-robert/",
+  "subject": "LEECH, Robert",
+  "birth_year": 1813,
+  "death_year": 1845
+ },
+ "model": "gemini-flash-latest"
+}

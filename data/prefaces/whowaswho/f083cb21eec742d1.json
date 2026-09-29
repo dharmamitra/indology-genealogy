@@ -1,0 +1,76 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "James Cordiner",
+   "birth_year": 1775,
+   "death_year": 1836,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "CORDINER, James – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1799,
+   "death_year": 1804
+  },
+  {
+   "name": "CORDINER, James",
+   "birth_year": 1775,
+   "death_year": 1836
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Cordiner",
+   "type": "studied_at",
+   "object": "Aberdeen",
+   "role": "A.M.",
+   "place": "Aberdeen",
+   "year_start": null,
+   "year_end": 1793,
+   "explicit": true,
+   "evidence": "Studies at Aberdeen (A.M. 1793).",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Cordiner",
+   "type": "position_at",
+   "object": "Military Orphan Asylum in Madras",
+   "role": "in charge",
+   "place": "Madras",
+   "year_start": 1797,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1797 in charge of Military Orphan Asylum in Madras.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Cordiner",
+   "type": "position_at",
+   "object": "St.Paul’s Chapel in Aberdeen",
+   "role": "minister",
+   "place": "Aberdeen",
+   "year_start": 1807,
+   "year_end": 1834,
+   "explicit": true,
+   "evidence": "became in 1807 minister of St.Paul’s Chapel in Aberdeen. Retired 1834 because of health problems.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: CORDINER, James",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/13258-cordiner-james.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: CORDINER, James",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/13258/cordiner-james/",
+  "subject": "CORDINER, James",
+  "birth_year": 1775,
+  "death_year": 1836
+ },
+ "model": "gemini-flash-latest"
+}

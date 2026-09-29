@@ -1,0 +1,59 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Oscar Theodor Flex",
+   "birth_year": 1840,
+   "death_year": null,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "FLEX, Oscar",
+   "birth_year": 1840,
+   "death_year": 1861
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Oscar Theodor Flex",
+   "type": "position_at",
+   "object": "Gossner Mission in Ranchi",
+   "role": "Missionary",
+   "place": "Ranchi",
+   "year_start": 1861,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1861 in Gossner Mission in Ranchi, working with Kurukh (Oraon).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Oscar Theodor Flex",
+   "type": "position_at",
+   "object": "Gospel Propagation Society",
+   "role": null,
+   "place": null,
+   "year_start": 1877,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1877 joined Gospel Propagation Society.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: FLEX, Oscar",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/14218-flex-oscar.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: FLEX, Oscar",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/14218/flex-oscar/",
+  "subject": "FLEX, Oscar",
+  "birth_year": 1840,
+  "death_year": 1861
+ },
+ "model": "gemini-flash-latest"
+}

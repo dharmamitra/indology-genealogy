@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "William Ferguson",
+   "birth_year": 1820,
+   "death_year": 1887,
+   "nationality": "British",
+   "field": "Botany"
+  },
+  {
+   "name": "Alastair M. Ferguson",
+   "birth_year": 1816,
+   "death_year": 1892,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "FERGUSON, William – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1816,
+   "death_year": 1892
+  },
+  {
+   "name": "FERGUSON, William",
+   "birth_year": 1820,
+   "death_year": 1887
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Ferguson",
+   "type": "other",
+   "object": "Alastair M. Ferguson",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "brother of —> Alastair M. Ferguson (1816–1892)",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Ferguson",
+   "type": "position_at",
+   "object": "C.C.S.",
+   "role": "Civil Servant",
+   "place": "Sri Lanka",
+   "year_start": 1839,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "British (Scottish) Civil Servant and Botanist in Sri Lanka. ... Joined C.C.S. in 1839.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: FERGUSON, William",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/14168-ferguson-william.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: FERGUSON, William",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/14168/ferguson-william/",
+  "subject": "FERGUSON, William",
+  "birth_year": 1820,
+  "death_year": 1887
+ },
+ "model": "gemini-flash-latest"
+}

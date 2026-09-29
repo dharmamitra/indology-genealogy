@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "David Oliver Allen",
+   "birth_year": 1799,
+   "death_year": 1863,
+   "nationality": "American",
+   "field": null
+  },
+  {
+   "name": "ALLEN, David Oliver",
+   "birth_year": 1799,
+   "death_year": 1863
+  }
+ ],
+ "relations": [
+  {
+   "subject": "David Oliver Allen",
+   "type": "studied_at",
+   "object": "Amherst College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1823,
+   "explicit": true,
+   "evidence": "After graduating from Amherst College in 1823",
+   "quote_ok": true
+  },
+  {
+   "subject": "David Oliver Allen",
+   "type": "studied_at",
+   "object": "Andover Theological Seminary",
+   "role": null,
+   "place": null,
+   "year_start": 1823,
+   "year_end": 1827,
+   "explicit": true,
+   "evidence": "studied at Andover Theological Seminary, ordained 1827.",
+   "quote_ok": true
+  },
+  {
+   "subject": "David Oliver Allen",
+   "type": "position_at",
+   "object": "American Board of Commissioners for Foreign Missions",
+   "role": "Missionary",
+   "place": "Bombay",
+   "year_start": 1827,
+   "year_end": 1853,
+   "explicit": true,
+   "evidence": "In 1827-53 worked in Bombay for American Board of Commissioners for Foreign Missions.",
+   "quote_ok": true
+  },
+  {
+   "subject": "David Oliver Allen",
+   "type": "position_at",
+   "object": "American Mission Press",
+   "role": "editorial superintendent",
+   "place": "Bombay",
+   "year_start": 1844,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1844 editorial superintendent of American Mission Press in Bombay.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ALLEN, David Oliver",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/12212-allen-david-olivier.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ALLEN, David Oliver",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/12212/allen-david-olivier/",
+  "subject": "ALLEN, David Oliver",
+  "birth_year": 1799,
+  "death_year": 1863
+ },
+ "model": "gemini-flash-latest"
+}

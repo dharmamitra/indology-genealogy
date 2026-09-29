@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Herman Frederik Eelsingh",
+   "birth_year": 1882,
+   "death_year": 1908,
+   "nationality": "Dutch",
+   "field": "Indologist"
+  },
+  {
+   "name": "Caland",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "EELSINGH, Herman Frederik – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1882,
+   "death_year": 1909
+  },
+  {
+   "name": "EELSINGH, Herman Frederik",
+   "birth_year": 1882,
+   "death_year": 1909
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Herman Frederik Eelsingh",
+   "type": "student_of",
+   "object": "Caland",
+   "role": null,
+   "place": "Utrecht",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Student of Caland at Utrecht",
+   "quote_ok": true
+  },
+  {
+   "subject": "Herman Frederik Eelsingh",
+   "type": "studied_at",
+   "object": "Utrecht",
+   "role": "Ph.D.",
+   "place": "Utrecht",
+   "year_start": null,
+   "year_end": 1908,
+   "explicit": true,
+   "evidence": "Student of Caland at Utrecht, Ph.D. there 1908.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: EELSINGH, Herman Frederik",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1748-eelsingh-herman-frederik.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: EELSINGH, Herman Frederik",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1748/eelsingh-herman-frederik/",
+  "subject": "EELSINGH, Herman Frederik",
+  "birth_year": 1882,
+  "death_year": 1909
+ },
+ "model": "gemini-flash-latest"
+}

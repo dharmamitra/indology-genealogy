@@ -1,0 +1,80 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Sarah Wells Brooks",
+   "birth_year": 1870,
+   "death_year": 1941,
+   "nationality": "American",
+   "field": null
+  },
+  {
+   "name": "Lanman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "H. C. Warren",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sarah Wells Brooks",
+   "type": "studied_at",
+   "object": "Harvard Annex for women",
+   "role": null,
+   "place": null,
+   "year_start": 1892,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied from 1892 at Harvard Annex for women (soon Radcliffe College).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sarah Wells Brooks",
+   "type": "student_of",
+   "object": "Lanman",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Learned Sanskrit under Lanman",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sarah Wells Brooks",
+   "type": "collaborated_with",
+   "object": "H. C. Warren",
+   "role": "assistant",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "assisted H. C. Warren",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BROOKS, Sarah Wells",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/13106-brooks-sarah-wells.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BROOKS, Sarah Wells",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/13106/brooks-sarah-wells/",
+  "subject": "BROOKS, Sarah Wells",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,85 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Walther Marcus",
+   "birth_year": 1889,
+   "death_year": null,
+   "nationality": "German",
+   "field": "IE Linguistics"
+  },
+  {
+   "name": "Bartholomae",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Walther Marcus",
+   "type": "studied_at",
+   "object": "Giessen",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studies at Giessen, Heidelberg and Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walther Marcus",
+   "type": "studied_at",
+   "object": "Heidelberg",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1914,
+   "explicit": true,
+   "evidence": "Ph.D. 1914 Heidelberg (under Bartholomae).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walther Marcus",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studies at Giessen, Heidelberg and Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walther Marcus",
+   "type": "student_of",
+   "object": "Bartholomae",
+   "role": "doctoral supervisor",
+   "place": "Heidelberg",
+   "year_start": null,
+   "year_end": 1914,
+   "explicit": true,
+   "evidence": "Ph.D. 1914 Heidelberg (under Bartholomae).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MARCUS, Walther",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4031-marcus-walther.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MARCUS, Walther",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4031/marcus-walther/",
+  "subject": "MARCUS, Walther",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

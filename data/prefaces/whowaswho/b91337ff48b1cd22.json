@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Regnaud",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Messiaen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "GROSSET, Joanny – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1862,
+   "death_year": 1931
+  },
+  {
+   "name": "GROSSET, Joanny",
+   "birth_year": 1862,
+   "death_year": 1931
+  }
+ ],
+ "relations": [
+  {
+   "subject": "GROSSET, Joanny",
+   "type": "studied_at",
+   "object": "university of Lyon",
+   "role": "Licencié-ès-lettres",
+   "place": "Lyon",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From the university of Lyon, a student of Regnaud (who wrote the Preface to the 1898 book). Licencié-ès-lettres.",
+   "quote_ok": true
+  },
+  {
+   "subject": "GROSSET, Joanny",
+   "type": "student_of",
+   "object": "Regnaud",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "a student of Regnaud (who wrote the Preface to the 1898 book)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Messiaen",
+   "type": "influenced_by",
+   "object": "GROSSET, Joanny",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He gave ideas about Indian music to Messiaen.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GROSSET, Joanny",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2452-grosset-joanny.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GROSSET, Joanny",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2452/grosset-joanny/",
+  "subject": "GROSSET, Joanny",
+  "birth_year": 1862,
+  "death_year": 1931
+ },
+ "model": "gemini-flash-latest"
+}

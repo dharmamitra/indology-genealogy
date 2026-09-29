@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Pelliot",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Foucher",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "STCHOUKINE, Ivan – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1854,
+   "death_year": 1936
+  },
+  {
+   "name": "STCHOUKINE, Ivan",
+   "birth_year": 1886,
+   "death_year": 1975
+  }
+ ],
+ "relations": [
+  {
+   "subject": "STCHOUKINE, Ivan",
+   "type": "student_of",
+   "object": "Pelliot",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After revolution settled in Paris, now studies under Pelliot, Foucher, et al.",
+   "quote_ok": true
+  },
+  {
+   "subject": "STCHOUKINE, Ivan",
+   "type": "student_of",
+   "object": "Foucher",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After revolution settled in Paris, now studies under Pelliot, Foucher, et al.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: STCHOUKINE, Ivan",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/6121-stchoukine-ivan.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: STCHOUKINE, Ivan",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/6121/stchoukine-ivan/",
+  "subject": "STCHOUKINE, Ivan",
+  "birth_year": 1886,
+  "death_year": 1975
+ },
+ "model": "gemini-flash-latest"
+}

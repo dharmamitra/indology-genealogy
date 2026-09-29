@@ -1,0 +1,183 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Philippe Stern",
+   "birth_year": 1895,
+   "death_year": 1979,
+   "nationality": "French",
+   "field": "Art Historian specialized in Indian and South-East Asian (Khmer & Champa) Art"
+  },
+  {
+   "name": "Finot",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Grousset",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Auboyer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "M. Bénisti",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "O. Viennot",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "STERN, Philippe – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1862,
+   "death_year": 1951
+  },
+  {
+   "name": "STERN, Philippe",
+   "birth_year": 1895,
+   "death_year": 1979
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Philippe Stern",
+   "type": "student_of",
+   "object": "Finot",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied in Paris first philosophy and musicology, soon Indian and Khmer cultures under Finot et al.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philippe Stern",
+   "type": "position_at",
+   "object": "Musée Guimet in Paris",
+   "role": "attachée",
+   "place": "Paris",
+   "year_start": 1921,
+   "year_end": 1929,
+   "explicit": true,
+   "evidence": "In 1921-29 attachée, then Conservateur-adjoint and 1954-65 Conservateur-en-chef of Musée Guimet in Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philippe Stern",
+   "type": "position_at",
+   "object": "Musée Guimet in Paris",
+   "role": "Conservateur-adjoint",
+   "place": "Paris",
+   "year_start": 1929,
+   "year_end": 1954,
+   "explicit": true,
+   "evidence": "In 1921-29 attachée, then Conservateur-adjoint and 1954-65 Conservateur-en-chef of Musée Guimet in Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philippe Stern",
+   "type": "position_at",
+   "object": "Musée Guimet in Paris",
+   "role": "Conservateur-en-chef",
+   "place": "Paris",
+   "year_start": 1954,
+   "year_end": 1965,
+   "explicit": true,
+   "evidence": "1954-65 Conservateur-en-chef of Musée Guimet in Paris (after Grousset, succeeded by Auboyer)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philippe Stern",
+   "type": "succeeded",
+   "object": "Grousset",
+   "role": "Conservateur-en-chef",
+   "place": "Musée Guimet in Paris",
+   "year_start": 1954,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Conservateur-en-chef of Musée Guimet in Paris (after Grousset, succeeded by Auboyer)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Auboyer",
+   "type": "succeeded",
+   "object": "Philippe Stern",
+   "role": "Conservateur-en-chef",
+   "place": "Musée Guimet in Paris",
+   "year_start": 1965,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Conservateur-en-chef of Musée Guimet in Paris (after Grousset, succeeded by Auboyer)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Philippe Stern",
+   "type": "position_at",
+   "object": "École de Louvre",
+   "role": "Professor of Indian art and archaeology",
+   "place": null,
+   "year_start": 1929,
+   "year_end": 1959,
+   "explicit": true,
+   "evidence": "Also Professor of Indian art and archaeology at École de Louvre (about 30 years from 1929).",
+   "quote_ok": true
+  },
+  {
+   "subject": "M. Bénisti",
+   "type": "student_of",
+   "object": "Philippe Stern",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His students include M. Bénisti and O. Viennot.",
+   "quote_ok": true
+  },
+  {
+   "subject": "O. Viennot",
+   "type": "student_of",
+   "object": "Philippe Stern",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His students include M. Bénisti and O. Viennot.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: STERN, Philippe",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5993-stern-philippe.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: STERN, Philippe",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5993/stern-philippe/",
+  "subject": "STERN, Philippe",
+  "birth_year": 1895,
+  "death_year": 1979
+ },
+ "model": "gemini-flash-latest"
+}

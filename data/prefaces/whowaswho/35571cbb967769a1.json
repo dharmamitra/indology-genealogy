@@ -1,0 +1,121 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Alois Anton Führer",
+   "birth_year": 1853,
+   "death_year": 1930,
+   "nationality": "German",
+   "field": "Indologist and Archaeologist"
+  },
+  {
+   "name": "Jolly",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "J. B. Keith",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "FÜHRER, Alois Anton",
+   "birth_year": 1853,
+   "death_year": 1930
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Alois Anton Führer",
+   "type": "studied_at",
+   "object": "Würzburg",
+   "role": null,
+   "place": "Würzburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies of Catholic Theology and Oriental languages at Würzburg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alois Anton Führer",
+   "type": "studied_at",
+   "object": "Würzburg",
+   "role": "Ph.D.",
+   "place": "Würzburg",
+   "year_start": null,
+   "year_end": 1879,
+   "explicit": true,
+   "evidence": "Ph.D. 1879 Würzburg (apparently under Jolly)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alois Anton Führer",
+   "type": "student_of",
+   "object": "Jolly",
+   "role": "doctoral supervisor",
+   "place": "Würzburg",
+   "year_start": null,
+   "year_end": 1879,
+   "explicit": false,
+   "evidence": "Ph.D. 1879 Würzburg (apparently under Jolly)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alois Anton Führer",
+   "type": "position_at",
+   "object": "St. Xavier College",
+   "role": "Professor of Sanskrit",
+   "place": "Bombay",
+   "year_start": 1881,
+   "year_end": 1884,
+   "explicit": true,
+   "evidence": "Professor of Sanskrit at St. Xavier College in Bombay in 1881-84",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alois Anton Führer",
+   "type": "position_at",
+   "object": "Provincial Museum in Lakhnau",
+   "role": "Curator",
+   "place": "Lakhnau",
+   "year_start": 1884,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "he worked as Curator of Provincial Museum in Lakhnau until 1885",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alois Anton Führer",
+   "type": "succeeded",
+   "object": "J. B. Keith",
+   "role": "Archaeological Surveyor of NW Provinces of India",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1885 also Assistant to Archaeological Surveyor of NW Provinces of India (now Uttar Pradesh), Major J. B. Keith, soon his successor.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: FÜHRER, Alois Anton",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2123-fuhrer-alois-anton.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: FÜHRER, Alois Anton",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2123/fuhrer-alois-anton/",
+  "subject": "FÜHRER, Alois Anton",
+  "birth_year": 1853,
+  "death_year": 1930
+ },
+ "model": "gemini-flash-latest"
+}

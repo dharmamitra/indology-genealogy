@@ -1,0 +1,112 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Roxburgh",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BUCHANAN-HAMILTON, Francis – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1715,
+   "death_year": 1791
+  },
+  {
+   "name": "BUCHANAN-HAMILTON, Francis",
+   "birth_year": 1762,
+   "death_year": 1829
+  }
+ ],
+ "relations": [
+  {
+   "subject": "BUCHANAN-HAMILTON, Francis",
+   "type": "studied_at",
+   "object": "Edinburgh",
+   "role": "M.D.",
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": 1783,
+   "explicit": true,
+   "evidence": "took himself a M.D. at Edinburgh in 1783 (with diss. on malaria).",
+   "quote_ok": true
+  },
+  {
+   "subject": "BUCHANAN-HAMILTON, Francis",
+   "type": "position_at",
+   "object": "E.I.C.",
+   "role": null,
+   "place": null,
+   "year_start": 1794,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After serving on a war ship joined the E.I.C.’s service in 1794.",
+   "quote_ok": true
+  },
+  {
+   "subject": "BUCHANAN-HAMILTON, Francis",
+   "type": "position_at",
+   "object": "Botanic Garden in Calcutta",
+   "role": "Superintendent",
+   "place": "Calcutta",
+   "year_start": 1814,
+   "year_end": 1815,
+   "explicit": true,
+   "evidence": "In 1814-15 Superintendent of the Botanic Garden in Calcutta (succeeding Roxburgh)",
+   "quote_ok": true
+  },
+  {
+   "subject": "BUCHANAN-HAMILTON, Francis",
+   "type": "succeeded",
+   "object": "Roxburgh",
+   "role": "Superintendent",
+   "place": "Calcutta",
+   "year_start": 1814,
+   "year_end": 1815,
+   "explicit": true,
+   "evidence": "In 1814-15 Superintendent of the Botanic Garden in Calcutta (succeeding Roxburgh)",
+   "quote_ok": true
+  },
+  {
+   "subject": "BUCHANAN-HAMILTON, Francis",
+   "type": "position_at",
+   "object": "Royal Botanic Garden in Edinburgh",
+   "role": "Keeper",
+   "place": "Edinburgh",
+   "year_start": 1815,
+   "year_end": 1829,
+   "explicit": true,
+   "evidence": "Again succeeded Roxburgh as the Keeper of Royal Botanic Garden in Edinburgh in 1815-29.",
+   "quote_ok": true
+  },
+  {
+   "subject": "BUCHANAN-HAMILTON, Francis",
+   "type": "succeeded",
+   "object": "Roxburgh",
+   "role": "Keeper",
+   "place": "Edinburgh",
+   "year_start": 1815,
+   "year_end": 1829,
+   "explicit": true,
+   "evidence": "Again succeeded Roxburgh as the Keeper of Royal Botanic Garden in Edinburgh in 1815-29.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BUCHANAN-HAMILTON, Francis",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1020-buchanan-hamilton-francis.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BUCHANAN-HAMILTON, Francis",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1020/buchanan-hamilton-francis/",
+  "subject": "BUCHANAN-HAMILTON, Francis",
+  "birth_year": 1762,
+  "death_year": 1829
+ },
+ "model": "gemini-flash-latest"
+}

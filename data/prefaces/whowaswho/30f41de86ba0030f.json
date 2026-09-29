@@ -1,0 +1,145 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Thomas Candy",
+   "birth_year": 1804,
+   "death_year": 1877,
+   "nationality": "British",
+   "field": "Marathi Scholar"
+  },
+  {
+   "name": "George Candy",
+   "birth_year": 1804,
+   "death_year": 1869,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Molesworth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "E. T. Candy",
+   "birth_year": 1845,
+   "death_year": 1913,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "CANDY, Thomas – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1712,
+   "death_year": 1808
+  },
+  {
+   "name": "CANDY, Thomas",
+   "birth_year": 1804,
+   "death_year": 1877
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Thomas Candy",
+   "type": "studied_at",
+   "object": "Magdalene College School, Oxford",
+   "role": null,
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "educated at Magdalene College School, Oxford",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Candy",
+   "type": "collaborated_with",
+   "object": "Molesworth",
+   "role": "assisted in compiling Marathi dictionary",
+   "place": null,
+   "year_start": null,
+   "year_end": 1836,
+   "explicit": true,
+   "evidence": "Both assisted Molesworth in compiling the first edition of his great Marathi dictionary. [...] Th. Candy continued collaboration with Molesworth and when the latter left India in 1836 he completed the work.",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Candy",
+   "type": "collaborated_with",
+   "object": "Molesworth",
+   "role": "assisted in compiling Marathi dictionary",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Both assisted Molesworth in compiling the first edition of his great Marathi dictionary.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Candy",
+   "type": "position_at",
+   "object": "Poona Sanskrit College",
+   "role": "Superintendent",
+   "place": null,
+   "year_start": 1837,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1837 he also served as Superintendent of Poona Sanskrit College and of government schools",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Candy",
+   "type": "position_at",
+   "object": "Deccan College",
+   "role": "Principal",
+   "place": null,
+   "year_start": 1851,
+   "year_end": 1857,
+   "explicit": true,
+   "evidence": "in 1851-57 Principal of Deccan College.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Candy",
+   "type": "other",
+   "object": "George Candy",
+   "role": "twin brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Together with his twin brother George Candy (1804–1869)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Candy",
+   "type": "other",
+   "object": "E. T. Candy",
+   "role": "father of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "father of —> E. T. Candy (1845–1913).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: CANDY, Thomas",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1169-candy-thomas.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: CANDY, Thomas",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1169/candy-thomas/",
+  "subject": "CANDY, Thomas",
+  "birth_year": 1804,
+  "death_year": 1877
+ },
+ "model": "gemini-flash-latest"
+}

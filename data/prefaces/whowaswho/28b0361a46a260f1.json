@@ -1,0 +1,90 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "George William Cox",
+   "birth_year": 1827,
+   "death_year": 1902,
+   "nationality": "British",
+   "field": "Historian"
+  },
+  {
+   "name": "Edmund Charles Cox",
+   "birth_year": 1856,
+   "death_year": 1935,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "COX, George – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1851,
+   "death_year": 1853
+  },
+  {
+   "name": "COX, George",
+   "birth_year": 1827,
+   "death_year": 1902
+  }
+ ],
+ "relations": [
+  {
+   "subject": "George William Cox",
+   "type": "studied_at",
+   "object": "Trinity College, Oxford",
+   "role": "B.A., 1859 M.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1859,
+   "explicit": true,
+   "evidence": "Studies at Trinity College, Oxford (B.A., 1859 M.A.)",
+   "quote_ok": true
+  },
+  {
+   "subject": "George William Cox",
+   "type": "influenced_by",
+   "object": "Max Müller",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In his mythological studies he followed Max Müller.",
+   "quote_ok": true
+  },
+  {
+   "subject": "George William Cox",
+   "type": "other",
+   "object": "Edmund Charles Cox",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Married 1850 Emily Maria Stirling (1833–1898) , their son was —> Edmund Charles Cox (1856–1935)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: COX, George",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/13284-cox-george-william.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: COX, George",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/13284/cox-george-william/",
+  "subject": "COX, George",
+  "birth_year": 1827,
+  "death_year": 1902
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,102 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Max Lindenau",
+   "birth_year": 1885,
+   "death_year": 1980,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Windisch",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "LINDENAU, Max",
+   "birth_year": 1885,
+   "death_year": 1980
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Max Lindenau",
+   "type": "studied_at",
+   "object": "Munich",
+   "role": null,
+   "place": null,
+   "year_start": 1906,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1906 studies at Munich, Greifswald and Leipzig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Lindenau",
+   "type": "studied_at",
+   "object": "Greifswald",
+   "role": null,
+   "place": null,
+   "year_start": 1906,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1906 studies at Munich, Greifswald and Leipzig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Lindenau",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": 1906,
+   "year_end": 1913,
+   "explicit": true,
+   "evidence": "From 1906 studies at Munich, Greifswald and Leipzig. Ph.D. 1913 Leipzig (under Windisch).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Lindenau",
+   "type": "student_of",
+   "object": "Windisch",
+   "role": "doctoral supervisor",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": 1913,
+   "explicit": true,
+   "evidence": "Ph.D. 1913 Leipzig (under Windisch).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Max Lindenau",
+   "type": "position_at",
+   "object": "Marburg",
+   "role": "PD",
+   "place": null,
+   "year_start": 1919,
+   "year_end": 1927,
+   "explicit": true,
+   "evidence": "From 1919 PD at Marburg, until 1927, when he moved to Königsberg",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: LINDENAU, Max",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3823-lindenau-max.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: LINDENAU, Max",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3823/lindenau-max/",
+  "subject": "LINDENAU, Max",
+  "birth_year": 1885,
+  "death_year": 1980
+ },
+ "model": "gemini-flash-latest"
+}

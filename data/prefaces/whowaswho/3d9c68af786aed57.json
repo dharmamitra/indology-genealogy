@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2026,
+ "people": [
+  {
+   "name": "Walther Hugo Michaelis",
+   "birth_year": 1873,
+   "death_year": 1967,
+   "nationality": "German",
+   "field": "classics"
+  },
+  {
+   "name": "Weber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "MICHAELIS, Walther – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1873,
+   "death_year": 1967
+  },
+  {
+   "name": "MICHAELIS, Walther",
+   "birth_year": 1873,
+   "death_year": 1967
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Walther Hugo Michaelis",
+   "type": "student_of",
+   "object": "Weber",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Apparently among the last students of Weber.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walther Hugo Michaelis",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": "Ph.D.",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": 1898,
+   "explicit": true,
+   "evidence": "Ph.D. 1898 Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walther Hugo Michaelis",
+   "type": "position_at",
+   "object": "Francke Foundation in Halle",
+   "role": "Director",
+   "place": "Halle",
+   "year_start": 1931,
+   "year_end": 1935,
+   "explicit": true,
+   "evidence": "One Dr. W. Michaelis (2.2.1873–27.3.1967) was in 1931-35 Director of Francke Foundation in Halle",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MICHAELIS, Walther",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4158-michaelis-walther.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MICHAELIS, Walther",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4158/michaelis-walther/",
+  "subject": "MICHAELIS, Walther",
+  "birth_year": 1873,
+  "death_year": 1967
+ },
+ "model": "gemini-flash-latest"
+}

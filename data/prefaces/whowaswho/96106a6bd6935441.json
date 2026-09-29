@@ -1,0 +1,109 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Cornelis Christian Berg",
+   "birth_year": 1900,
+   "death_year": 1990,
+   "nationality": "Dutch",
+   "field": "South-East Asian Scholar"
+  },
+  {
+   "name": "Hazeu",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Krom",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BERG, Cornelis Christian",
+   "birth_year": 1900,
+   "death_year": 1990
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Cornelis Christian Berg",
+   "type": "studied_at",
+   "object": "Leiden",
+   "role": null,
+   "place": "Leiden",
+   "year_start": 1919,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1919 studies of Arabic, Sanskrit and Javanese at Leiden.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Cornelis Christian Berg",
+   "type": "studied_at",
+   "object": "Leiden",
+   "role": "Dr.",
+   "place": "Leiden",
+   "year_start": null,
+   "year_end": 1927,
+   "explicit": true,
+   "evidence": "Dr. 1927 (under Hazeu and Krom)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Cornelis Christian Berg",
+   "type": "student_of",
+   "object": "Hazeu",
+   "role": "doctoral supervisor",
+   "place": "Leiden",
+   "year_start": null,
+   "year_end": 1927,
+   "explicit": true,
+   "evidence": "Dr. 1927 (under Hazeu and Krom)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Cornelis Christian Berg",
+   "type": "student_of",
+   "object": "Krom",
+   "role": "doctoral supervisor",
+   "place": "Leiden",
+   "year_start": null,
+   "year_end": 1927,
+   "explicit": true,
+   "evidence": "Dr. 1927 (under Hazeu and Krom)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Cornelis Christian Berg",
+   "type": "position_at",
+   "object": "Leiden",
+   "role": "Professor of Javanese",
+   "place": "Leiden",
+   "year_start": 1929,
+   "year_end": 1972,
+   "explicit": true,
+   "evidence": "from 1929 Professor of Javanese at Leiden. ... Retired 1972.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BERG, Cornelis Christian",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/672-berg-cornelis-christian.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BERG, Cornelis Christian",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/672/berg-cornelis-christian/",
+  "subject": "BERG, Cornelis Christian",
+  "birth_year": 1900,
+  "death_year": 1990
+ },
+ "model": "gemini-flash-latest"
+}

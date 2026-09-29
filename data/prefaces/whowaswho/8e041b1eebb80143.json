@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Herman Eildert Buiskool",
+   "birth_year": 1884,
+   "death_year": 1963,
+   "nationality": "Dutch",
+   "field": "Indology"
+  },
+  {
+   "name": "Faddegon",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BUISKOOL, Herman – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1847,
+   "death_year": 1917
+  },
+  {
+   "name": "BUISKOOL, Herman",
+   "birth_year": 1884,
+   "death_year": 1963
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Herman Eildert Buiskool",
+   "type": "student_of",
+   "object": "Faddegon",
+   "role": "teacher",
+   "place": "Amsterdam University",
+   "year_start": 1920,
+   "year_end": 1929,
+   "explicit": true,
+   "evidence": "in the 1920s also student of Faddegon at Amsterdam University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Herman Eildert Buiskool",
+   "type": "studied_at",
+   "object": "Amsterdam University",
+   "role": "PhD",
+   "place": "Amsterdam",
+   "year_start": null,
+   "year_end": 1934,
+   "explicit": true,
+   "evidence": "student of Faddegon at Amsterdam University. Ph.D. 1934 Amsterdam.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Herman Eildert Buiskool",
+   "type": "position_at",
+   "object": "Kern Institute",
+   "role": "conservator",
+   "place": "Leiden",
+   "year_start": 1936,
+   "year_end": 1938,
+   "explicit": true,
+   "evidence": "In 1936-1938 also conservator of the Kern Institute at Leiden.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BUISKOOL, Herman",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1036-buiskool-herman-eldert.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BUISKOOL, Herman",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1036/buiskool-herman-eldert/",
+  "subject": "BUISKOOL, Herman",
+  "birth_year": 1884,
+  "death_year": 1963
+ },
+ "model": "gemini-flash-latest"
+}

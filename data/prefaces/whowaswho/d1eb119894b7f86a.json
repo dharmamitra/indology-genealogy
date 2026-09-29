@@ -1,0 +1,181 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Charles Aemilius Oldham",
+   "birth_year": 1831,
+   "death_year": 1869,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "C. E. A. W. Oldham",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Richard Dixon Oldham",
+   "birth_year": 1868,
+   "death_year": 1936,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "OLDHAM, Thomas",
+   "birth_year": 1816,
+   "death_year": 1878
+  }
+ ],
+ "relations": [
+  {
+   "subject": "OLDHAM, Thomas",
+   "type": "studied_at",
+   "object": "Trinity College in Dublin",
+   "role": "B.A.",
+   "place": "Dublin",
+   "year_start": null,
+   "year_end": 1836,
+   "explicit": true,
+   "evidence": "studies at Trinity College in Dublin, B.A. 1836, M.A. 1846.",
+   "quote_ok": true
+  },
+  {
+   "subject": "OLDHAM, Thomas",
+   "type": "studied_at",
+   "object": "Trinity College in Dublin",
+   "role": "M.A.",
+   "place": "Dublin",
+   "year_start": null,
+   "year_end": 1846,
+   "explicit": true,
+   "evidence": "studies at Trinity College in Dublin, B.A. 1836, M.A. 1846.",
+   "quote_ok": true
+  },
+  {
+   "subject": "OLDHAM, Thomas",
+   "type": "studied_at",
+   "object": "Engineering School in Edinburgh",
+   "role": null,
+   "place": "Edinburgh",
+   "year_start": 1836,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1836 further studies of geology at Engineering School in Edinburgh.",
+   "quote_ok": true
+  },
+  {
+   "subject": "OLDHAM, Thomas",
+   "type": "position_at",
+   "object": "Trinity College",
+   "role": "Professor of Geology",
+   "place": "Dublin",
+   "year_start": 1846,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1846 Professor of Geology at Trinity College and Director of Geological Survey of Ireland.",
+   "quote_ok": true
+  },
+  {
+   "subject": "OLDHAM, Thomas",
+   "type": "position_at",
+   "object": "Geological Survey of Ireland",
+   "role": "Director",
+   "place": "Ireland",
+   "year_start": 1846,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1846 Professor of Geology at Trinity College and Director of Geological Survey of Ireland.",
+   "quote_ok": true
+  },
+  {
+   "subject": "OLDHAM, Thomas",
+   "type": "position_at",
+   "object": "Geological Survey of India",
+   "role": "Superintendent",
+   "place": "India",
+   "year_start": 1851,
+   "year_end": 1876,
+   "explicit": true,
+   "evidence": "In 1851-76 the first Superintendent of the Geological Survey of India",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Aemilius Oldham",
+   "type": "position_at",
+   "object": "Geological Survey of India",
+   "role": null,
+   "place": "India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "employed there his younger brother Charles Aemilius Oldham (1831-1869, the father of —> C. E. A. W. Oldham).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Aemilius Oldham",
+   "type": "other",
+   "object": "OLDHAM, Thomas",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "employed there his younger brother Charles Aemilius Oldham",
+   "quote_ok": true
+  },
+  {
+   "subject": "C. E. A. W. Oldham",
+   "type": "other",
+   "object": "Charles Aemilius Oldham",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Charles Aemilius Oldham (1831-1869, the father of —> C. E. A. W. Oldham).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Dixon Oldham",
+   "type": "position_at",
+   "object": "Geological Survey of India",
+   "role": null,
+   "place": "India",
+   "year_start": 1879,
+   "year_end": 1903,
+   "explicit": true,
+   "evidence": "One son, Richard Dixon Oldham (1868–1936) served in the Geological Survey of India in 1879-1903.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Dixon Oldham",
+   "type": "other",
+   "object": "OLDHAM, Thomas",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "One son, Richard Dixon Oldham (1868–1936) served in the Geological Survey of India in 1879-1903.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: OLDHAM, Thomas",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/18906-oldham-thomas.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: OLDHAM, Thomas",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/18906/oldham-thomas/",
+  "subject": "OLDHAM, Thomas",
+  "birth_year": 1816,
+  "death_year": 1878
+ },
+ "model": "gemini-flash-latest"
+}

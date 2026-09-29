@@ -1,0 +1,61 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Gustav Herberich",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Jolly",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Gustav Herberich",
+   "type": "student_of",
+   "object": "Jolly",
+   "role": null,
+   "place": "Würzburg",
+   "year_start": null,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "A student of Jolly at Würzburg, Ph.D. there 1893.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gustav Herberich",
+   "type": "studied_at",
+   "object": "Würzburg",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "A student of Jolly at Würzburg, Ph.D. there 1893.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HERBERICH, Gustav",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2931-herberich-gustav.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HERBERICH, Gustav",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2931/herberich-gustav/",
+  "subject": "HERBERICH, Gustav",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

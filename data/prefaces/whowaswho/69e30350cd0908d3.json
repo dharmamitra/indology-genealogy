@@ -1,0 +1,85 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Jules Monchanin",
+   "birth_year": 1895,
+   "death_year": 1957,
+   "nationality": "French",
+   "field": null
+  },
+  {
+   "name": "Minard",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Henri Le Saux",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "French",
+   "field": null
+  },
+  {
+   "name": "MONCHANIN, Jules (Swami Paramarubyananda)",
+   "birth_year": 1895,
+   "death_year": 1957
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jules Monchanin",
+   "type": "student_of",
+   "object": "Minard",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied Sanskrit under Minard",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jules Monchanin",
+   "type": "collaborated_with",
+   "object": "Henri Le Saux",
+   "role": null,
+   "place": "Tannirpalli",
+   "year_start": 1948,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1948 founded with another French priest, Henri Le Saux, an ashram (Saccidānanda Ashram, also called Shantivaram, a Benedictine monastery) in the village of Tannirpalli in Tamil Nadu",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jules Monchanin",
+   "type": "founded",
+   "object": "Saccidānanda Ashram",
+   "role": null,
+   "place": "Tannirpalli",
+   "year_start": 1948,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1948 founded with another French priest, Henri Le Saux, an ashram (Saccidānanda Ashram, also called Shantivaram, a Benedictine monastery) in the village of Tannirpalli in Tamil Nadu",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MONCHANIN, Jules (Swami Paramarubyananda)",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/6908-monchanin-jules-swami-paramarubyananda.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MONCHANIN, Jules (Swami Paramarubyananda)",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/6908/monchanin-jules-swami-paramarubyananda/",
+  "subject": "MONCHANIN, Jules (Swami Paramarubyananda)",
+  "birth_year": 1895,
+  "death_year": 1957
+ },
+ "model": "gemini-flash-latest"
+}

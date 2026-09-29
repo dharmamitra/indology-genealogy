@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Paulinus a Sancto Bartholomaeo",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ALTER, Franz Karl",
+   "birth_year": 1749,
+   "death_year": 1804
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ALTER, Franz Karl",
+   "type": "studied_at",
+   "object": "Vienna",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "further studies at Vienna and Prague.",
+   "quote_ok": true
+  },
+  {
+   "subject": "ALTER, Franz Karl",
+   "type": "studied_at",
+   "object": "Prague",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "further studies at Vienna and Prague. Ph.D.",
+   "quote_ok": true
+  },
+  {
+   "subject": "ALTER, Franz Karl",
+   "type": "position_at",
+   "object": "Vienna university library",
+   "role": "custos (librarian)",
+   "place": "Vienna",
+   "year_start": 1779,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1779 custos (librarian) of the Vienna university library.",
+   "quote_ok": true
+  },
+  {
+   "subject": "ALTER, Franz Karl",
+   "type": "student_of",
+   "object": "Paulinus a Sancto Bartholomaeo",
+   "role": "teacher",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He learned little Sanskrit in Vienna from Paulinus a Sancto Bartholomaeo",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ALTER, Franz Karl",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/227-alter-franz-karl.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ALTER, Franz Karl",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/227/alter-franz-karl/",
+  "subject": "ALTER, Franz Karl",
+  "birth_year": 1749,
+  "death_year": 1804
+ },
+ "model": "gemini-flash-latest"
+}

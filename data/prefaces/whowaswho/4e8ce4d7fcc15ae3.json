@@ -1,0 +1,107 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "James Liddell Phillips",
+   "birth_year": 1840,
+   "death_year": 1895,
+   "nationality": "American",
+   "field": null
+  },
+  {
+   "name": "Jeremiah Phillips",
+   "birth_year": 1812,
+   "death_year": 1879,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "PHILLIPS, James L. – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1812,
+   "death_year": 1879
+  },
+  {
+   "name": "PHILLIPS, James L",
+   "birth_year": 1840,
+   "death_year": 1895
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Liddell Phillips",
+   "type": "other",
+   "object": "Jeremiah Phillips",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of —> Jeremiah Phillips (1812–1879)",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Liddell Phillips",
+   "type": "studied_at",
+   "object": "Whitestown Seminary, N.Y.",
+   "role": null,
+   "place": "N.Y.",
+   "year_start": 1851,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "educated from 1851 in the U.S.A. (at Whitestown Seminary, N.Y.)",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Liddell Phillips",
+   "type": "studied_at",
+   "object": "Bowdoin College",
+   "role": "graduate",
+   "place": null,
+   "year_start": null,
+   "year_end": 1860,
+   "explicit": true,
+   "evidence": "Graduated 1860 from Bowdoin College",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Liddell Phillips",
+   "type": "studied_at",
+   "object": "College of Physicians and Surgeons in New York",
+   "role": "M.D.",
+   "place": "New York",
+   "year_start": null,
+   "year_end": 1864,
+   "explicit": true,
+   "evidence": "studied medicine for missionary work at College of Physicians and Surgeons in New York,  M.D. 1864",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Liddell Phillips",
+   "type": "studied_at",
+   "object": "Bowdoin College",
+   "role": "D.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1878,
+   "explicit": true,
+   "evidence": "D.D. 1878 Bowdoin College",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: PHILLIPS, James L",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/19492-phillips-james-l.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: PHILLIPS, James L",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/19492/phillips-james-l/",
+  "subject": "PHILLIPS, James L",
+  "birth_year": 1840,
+  "death_year": 1895
+ },
+ "model": "gemini-flash-latest"
+}

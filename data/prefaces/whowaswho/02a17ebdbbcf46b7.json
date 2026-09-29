@@ -1,0 +1,97 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Lubor Hájek",
+   "birth_year": 1921,
+   "death_year": 2000,
+   "nationality": "Czech",
+   "field": "Art Historian"
+  },
+  {
+   "name": "Lesný",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Pertold",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "HÁJEK, Lubor",
+   "birth_year": 1921,
+   "death_year": 2000
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Lubor Hájek",
+   "type": "student_of",
+   "object": "Lesný",
+   "role": "teacher",
+   "place": "Prague",
+   "year_start": 1945,
+   "year_end": 1949,
+   "explicit": true,
+   "evidence": "Studies of Indology at Prague in 1945-49 (Lesný and Pertold)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lubor Hájek",
+   "type": "student_of",
+   "object": "Pertold",
+   "role": "doctoral supervisor",
+   "place": "Prague",
+   "year_start": 1945,
+   "year_end": 1949,
+   "explicit": true,
+   "evidence": "Ph.D. 1949 Prague (under Pertold)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lubor Hájek",
+   "type": "studied_at",
+   "object": "Prague",
+   "role": "Ph.D.",
+   "place": "Prague",
+   "year_start": 1945,
+   "year_end": 1949,
+   "explicit": true,
+   "evidence": "Studies of Indology at Prague in 1945-49 (Lesný and Pertold). Ph.D. 1949 Prague (under Pertold).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lubor Hájek",
+   "type": "position_at",
+   "object": "Czech National Gallery",
+   "role": "Director of Oriental Collections",
+   "place": null,
+   "year_start": 1952,
+   "year_end": 1986,
+   "explicit": true,
+   "evidence": "From 1952 Director of Oriental Collections at Czech National Gallery, retired in 1986.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HÁJEK, Lubor",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/15078-hajek-lubor.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HÁJEK, Lubor",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/15078/hajek-lubor/",
+  "subject": "HÁJEK, Lubor",
+  "birth_year": 1921,
+  "death_year": 2000
+ },
+ "model": "gemini-flash-latest"
+}

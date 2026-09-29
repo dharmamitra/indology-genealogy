@@ -1,0 +1,49 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Amédée Blin",
+   "birth_year": 1799,
+   "death_year": null,
+   "nationality": "French",
+   "field": null
+  },
+  {
+   "name": "Garcin de Tassy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Hindustani"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Amédée Blin",
+   "type": "student_of",
+   "object": "Garcin de Tassy",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Still in Paris, he had some months attended the Hindustani classes of Garcin de Tassy.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BLIN, Amédée",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/12360-blin-amedee.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BLIN, Amédée",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/12360/blin-amedee/",
+  "subject": "BLIN, Amédée",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

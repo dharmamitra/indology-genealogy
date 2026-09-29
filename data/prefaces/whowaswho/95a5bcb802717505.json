@@ -1,0 +1,109 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John Cockburn Thomson",
+   "birth_year": 1834,
+   "death_year": 1860,
+   "nationality": "British",
+   "field": "Indology"
+  },
+  {
+   "name": "H. B. Thomson",
+   "birth_year": 1822,
+   "death_year": 1867,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lassen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Wilson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "THOMSON, John Cockburn – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1778,
+   "death_year": 1849
+  },
+  {
+   "name": "THOMSON, John Cockburn",
+   "birth_year": 1834,
+   "death_year": 1860
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Cockburn Thomson",
+   "type": "other",
+   "object": "H. B. Thomson",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "younger brother of —> H. B. Thomson (1822–1867)",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Cockburn Thomson",
+   "type": "student_of",
+   "object": "Lassen",
+   "role": "teacher",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Bonn (under Lassen)",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Cockburn Thomson",
+   "type": "studied_at",
+   "object": "Trinity College, Oxford",
+   "role": "B.A.",
+   "place": null,
+   "year_start": 1852,
+   "year_end": 1857,
+   "explicit": true,
+   "evidence": "in 1852-57 at Trinity College, Oxford (Wilson). B.A. 1857.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Cockburn Thomson",
+   "type": "student_of",
+   "object": "Wilson",
+   "role": "teacher",
+   "place": "Trinity College, Oxford",
+   "year_start": 1852,
+   "year_end": 1857,
+   "explicit": true,
+   "evidence": "in 1852-57 at Trinity College, Oxford (Wilson)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: THOMSON, John Cockburn",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5002-thomson-john-cockburn.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: THOMSON, John Cockburn",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5002/thomson-john-cockburn/",
+  "subject": "THOMSON, John Cockburn",
+  "birth_year": 1834,
+  "death_year": 1860
+ },
+ "model": "gemini-flash-latest"
+}

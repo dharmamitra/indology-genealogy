@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Henry Cole",
+   "birth_year": 1808,
+   "death_year": 1882,
+   "nationality": "English",
+   "field": null
+  },
+  {
+   "name": "Henry H. Cole",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "COLE, Henry",
+   "birth_year": 1808,
+   "death_year": 1882
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Henry Cole",
+   "type": "founded",
+   "object": "South Kensington Museum",
+   "role": null,
+   "place": null,
+   "year_start": 1857,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He founded the South Kensington Museum in 1857 (from 1899 Victoria and Albert Museum)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Cole",
+   "type": "position_at",
+   "object": "South Kensington Museum",
+   "role": "director",
+   "place": null,
+   "year_start": 1857,
+   "year_end": 1873,
+   "explicit": true,
+   "evidence": "He founded the South Kensington Museum in 1857 (from 1899 Victoria and Albert Museum) and was its first director until 1873.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Cole",
+   "type": "other",
+   "object": "Henry H. Cole",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Married 1833 Marian Fairman Bond (1812–1892), five daughters and three sons (—> Henry H. Cole)... Sometimes confused with his son.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: COLE, Henry",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1311-cole-henry.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: COLE, Henry",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1311/cole-henry/",
+  "subject": "COLE, Henry",
+  "birth_year": 1808,
+  "death_year": 1882
+ },
+ "model": "gemini-flash-latest"
+}

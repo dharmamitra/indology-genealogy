@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "William C arson SMITH",
+   "birth_year": 1883,
+   "death_year": null,
+   "nationality": "American",
+   "field": "Sociologist"
+  },
+  {
+   "name": "SMITH, William C",
+   "birth_year": 1883,
+   "death_year": 1907
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William C arson SMITH",
+   "type": "studied_at",
+   "object": "Grand Island College",
+   "role": "graduated",
+   "place": "Nebraska",
+   "year_start": null,
+   "year_end": 1907,
+   "explicit": true,
+   "evidence": "Graduated 1907 from Grand Island College, Nebraska.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William C arson SMITH",
+   "type": "position_at",
+   "object": "American Baptist Foreign Mission Society",
+   "role": "educational work",
+   "place": "Assam",
+   "year_start": 1912,
+   "year_end": 1915,
+   "explicit": true,
+   "evidence": "In 1912-15 educational work in Assam for American Baptist Foreign Mission Society.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William C arson SMITH",
+   "type": "studied_at",
+   "object": "University of Southern California",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Back in the U.S.A. studied Sociology at University of Southern California and University of Chicago.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William C arson SMITH",
+   "type": "studied_at",
+   "object": "University of Chicago",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Back in the U.S.A. studied Sociology at University of Southern California and University of Chicago.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SMITH, William C",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/36803-smith-william-c.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SMITH, William C",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/36803/smith-william-c/",
+  "subject": "SMITH, William C",
+  "birth_year": 1883,
+  "death_year": 1907
+ },
+ "model": "gemini-flash-latest"
+}

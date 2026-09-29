@@ -1,0 +1,109 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John Leyden",
+   "birth_year": 1775,
+   "death_year": 1811,
+   "nationality": "British",
+   "field": "Orientalist"
+  },
+  {
+   "name": "Sir Walter Scott",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Raffles",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "LEYDEN, John",
+   "birth_year": 1775,
+   "death_year": 1811
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Leyden",
+   "type": "studied_at",
+   "object": "Edinburgh University",
+   "role": null,
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was educated at Kirktown parish school and Edinburgh University",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Leyden",
+   "type": "collaborated_with",
+   "object": "Sir Walter Scott",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "collaborated with Sir Walter Scott collecting old ballads and folklore",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Leyden",
+   "type": "studied_at",
+   "object": "St.Andrew’s",
+   "role": "M.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He studied now medicine and became M.D. at St.Andrew’s.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Leyden",
+   "type": "position_at",
+   "object": "College of Fort Williams",
+   "role": "Professor of Hindustani",
+   "place": "Calcutta",
+   "year_start": 1806,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "came in 1806 to Calcutta and became Professor of Hindustani at College of Fort Williams",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Leyden",
+   "type": "other",
+   "object": "Raffles",
+   "role": "friendship",
+   "place": "Penang",
+   "year_start": 1805,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1805 in Penang he met and befriended himself with Raffles",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: LEYDEN, John",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3789-leyden-john.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: LEYDEN, John",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3789/leyden-john/",
+  "subject": "LEYDEN, John",
+  "birth_year": 1775,
+  "death_year": 1811
+ },
+ "model": "gemini-flash-latest"
+}

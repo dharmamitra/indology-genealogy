@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Gherardo De Vincentiis",
+   "birth_year": 1845,
+   "death_year": 1907,
+   "nationality": "Italian",
+   "field": "Iranian (Persian) Scholar"
+  },
+  {
+   "name": "Lignana",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "DE VINCENTIIS, Gherardo",
+   "birth_year": 1845,
+   "death_year": 1907
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Gherardo De Vincentiis",
+   "type": "student_of",
+   "object": "Lignana",
+   "role": "teacher",
+   "place": "Naples",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Naples under Lignana.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gherardo De Vincentiis",
+   "type": "position_at",
+   "object": "Regio Istituto Orientale di Napoli",
+   "role": "incaricato",
+   "place": "Naples",
+   "year_start": 1878,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor of Persian at Regio Istituto Orientale di Napoli: incaricato 1878",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gherardo De Vincentiis",
+   "type": "position_at",
+   "object": "Regio Istituto Orientale di Napoli",
+   "role": "Professor of Persian",
+   "place": "Naples",
+   "year_start": 1878,
+   "year_end": 1907,
+   "explicit": true,
+   "evidence": "Professor of Persian at Regio Istituto Orientale di Napoli: incaricato 1878, eo. 1890, ord. 1904-07.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: DE VINCENTIIS, Gherardo",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/13606-de-vincentiis-gherardo.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: DE VINCENTIIS, Gherardo",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/13606/de-vincentiis-gherardo/",
+  "subject": "DE VINCENTIIS, Gherardo",
+  "birth_year": 1845,
+  "death_year": 1907
+ },
+ "model": "gemini-flash-latest"
+}

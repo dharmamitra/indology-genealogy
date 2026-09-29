@@ -1,0 +1,107 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Michael Baumgarten",
+   "birth_year": 1812,
+   "death_year": 1889,
+   "nationality": "German",
+   "field": "theology"
+  },
+  {
+   "name": "Bopp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BAUMGARTEN, Michael – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1774,
+   "death_year": 1853
+  },
+  {
+   "name": "BAUMGARTEN, Michael",
+   "birth_year": 1812,
+   "death_year": 1889
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Michael Baumgarten",
+   "type": "studied_at",
+   "object": "Kiel",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After school in Altona studies of theology at Kiel",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Baumgarten",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studies of theology at Kiel and Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Baumgarten",
+   "type": "student_of",
+   "object": "Bopp",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "(probably also Sanskrit under Bopp)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Baumgarten",
+   "type": "studied_at",
+   "object": "Kiel",
+   "role": "Dr.theol. & PD",
+   "place": null,
+   "year_start": null,
+   "year_end": 1839,
+   "explicit": true,
+   "evidence": "Dr.theol. & PD 1839 Kiel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michael Baumgarten",
+   "type": "position_at",
+   "object": "Rostock",
+   "role": "Professor of Theology",
+   "place": null,
+   "year_start": 1850,
+   "year_end": 1858,
+   "explicit": true,
+   "evidence": "From 1850 Professor of Theology at Rostock, in the beginning also gave a course of Sanskrit (Rabault-Feuerham 2008). Lost his chair 1858",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BAUMGARTEN, Michael",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/11990-baumgarten-michael.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BAUMGARTEN, Michael",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/11990/baumgarten-michael/",
+  "subject": "BAUMGARTEN, Michael",
+  "birth_year": 1812,
+  "death_year": 1889
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Kurt Bruno Otto Fischer",
+   "birth_year": 1892,
+   "death_year": 1942,
+   "nationality": "German",
+   "field": "Buddhist studies"
+  },
+  {
+   "name": "Dahlke",
+   "birth_year": null,
+   "death_year": 1928,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "FISCHER, Kurt – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1859,
+   "death_year": 1923
+  },
+  {
+   "name": "FISCHER, Kurt",
+   "birth_year": 1892,
+   "death_year": 1942
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Kurt Bruno Otto Fischer",
+   "type": "student_of",
+   "object": "Dahlke",
+   "role": "pupil",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pupil, secretary and successor of Dahlke (d. 1928)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kurt Bruno Otto Fischer",
+   "type": "succeeded",
+   "object": "Dahlke",
+   "role": "leader",
+   "place": "Buddhistisches Haus in Berlin-Frohnau",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pupil, secretary and successor of Dahlke (d. 1928) as the leader of Buddhistisches Haus in Berlin-Frohnau",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kurt Bruno Otto Fischer",
+   "type": "position_at",
+   "object": "Buddhistisches Haus in Berlin-Frohnau",
+   "role": "leader",
+   "place": "Berlin-Frohnau",
+   "year_start": null,
+   "year_end": 1942,
+   "explicit": true,
+   "evidence": "successor of Dahlke (d. 1928) as the leader of Buddhistisches Haus in Berlin-Frohnau, where he was even capable of keeping it open and publishing its quarterly through the Nazi period, until his death",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: FISCHER, Kurt",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1981-fischer-kurt.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: FISCHER, Kurt",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1981/fischer-kurt/",
+  "subject": "FISCHER, Kurt",
+  "birth_year": 1892,
+  "death_year": 1942
+ },
+ "model": "gemini-flash-latest"
+}

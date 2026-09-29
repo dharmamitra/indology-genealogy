@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Joseph Dalton Hooker",
+   "birth_year": 1817,
+   "death_year": 1911,
+   "nationality": "British",
+   "field": "botany"
+  },
+  {
+   "name": "Sir William Jackson Hooker",
+   "birth_year": 1785,
+   "death_year": 1865,
+   "nationality": null,
+   "field": "botany"
+  },
+  {
+   "name": "HOOKER, Joseph Dalton – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1785,
+   "death_year": 1865
+  },
+  {
+   "name": "HOOKER, Joseph Dalton",
+   "birth_year": 1817,
+   "death_year": 1911
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Joseph Dalton Hooker",
+   "type": "studied_at",
+   "object": "University of Glasgow",
+   "role": "M.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1839,
+   "explicit": true,
+   "evidence": "Educated at High School and University of Glasgow, medical degree (M.D.) 1839.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Dalton Hooker",
+   "type": "position_at",
+   "object": "Kew Gardens",
+   "role": "Assistant Director and Director",
+   "place": null,
+   "year_start": 1855,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "In 1855-85 Assistant Director and Director of Kew Gardens (succeeding his father).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Dalton Hooker",
+   "type": "succeeded",
+   "object": "Sir William Jackson Hooker",
+   "role": "Director",
+   "place": "Kew Gardens",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Director of Kew Gardens (succeeding his father).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joseph Dalton Hooker",
+   "type": "other",
+   "object": "Sir William Jackson Hooker",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of Sir William Jackson Hooker (1785–1865), also a botanist",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HOOKER, Joseph Dalton",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3084-hooker-joseph-dalton.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HOOKER, Joseph Dalton",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3084/hooker-joseph-dalton/",
+  "subject": "HOOKER, Joseph Dalton",
+  "birth_year": 1817,
+  "death_year": 1911
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,133 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Karl Hummel",
+   "birth_year": 1902,
+   "death_year": 1987,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Geiger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "E. Littmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "HUMMEL, Karl",
+   "birth_year": 1902,
+   "death_year": 1987
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Karl Hummel",
+   "type": "studied_at",
+   "object": "Munich",
+   "role": "Ph.D.",
+   "place": "Munich",
+   "year_start": null,
+   "year_end": 1925,
+   "explicit": true,
+   "evidence": "studied Indology at Munich under Geiger. Ph.D. 1925 Munich.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Hummel",
+   "type": "student_of",
+   "object": "Geiger",
+   "role": null,
+   "place": "Munich",
+   "year_start": null,
+   "year_end": 1925,
+   "explicit": true,
+   "evidence": "studied Indology at Munich under Geiger. Ph.D. 1925 Munich.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Hummel",
+   "type": "studied_at",
+   "object": "Tübingen",
+   "role": null,
+   "place": "Tübingen",
+   "year_start": null,
+   "year_end": 1933,
+   "explicit": true,
+   "evidence": "studied botany at Tübingen (also Persian under E. Littmann), soon also pharmacy, graduating in 1933.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Hummel",
+   "type": "student_of",
+   "object": "E. Littmann",
+   "role": null,
+   "place": "Tübingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied botany at Tübingen (also Persian under E. Littmann)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Hummel",
+   "type": "position_at",
+   "object": "Tübingen",
+   "role": "Assistant of botany",
+   "place": "Tübingen",
+   "year_start": 1935,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1935 Assistant of botany at Tübingen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Hummel",
+   "type": "position_at",
+   "object": "University Botanical Institute in Hechingen",
+   "role": "Director",
+   "place": "Hechingen",
+   "year_start": 1946,
+   "year_end": 1976,
+   "explicit": true,
+   "evidence": "was in 1946/47-1976 Director of the University Botanical Institute in Hechingen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Hummel",
+   "type": "position_at",
+   "object": "Tehran University",
+   "role": "visiting Professor",
+   "place": "Tehran",
+   "year_start": 1975,
+   "year_end": 1976,
+   "explicit": true,
+   "evidence": "was in 1975-76 visiting Professor at Tehran University.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HUMMEL, Karl",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3162-hummel-karl.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HUMMEL, Karl",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3162/hummel-karl/",
+  "subject": "HUMMEL, Karl",
+  "birth_year": 1902,
+  "death_year": 1987
+ },
+ "model": "gemini-flash-latest"
+}

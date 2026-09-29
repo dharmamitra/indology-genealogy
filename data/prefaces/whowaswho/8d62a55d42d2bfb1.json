@@ -1,0 +1,190 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Paul Goldschmidt",
+   "birth_year": 1850,
+   "death_year": 1877,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Siegfried Goldschmidt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Roth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Weber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Benfey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "E. Müller-Hess",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "GOLDSCHMIDT, Paul",
+   "birth_year": 1850,
+   "death_year": 1877
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Paul Goldschmidt",
+   "type": "other",
+   "object": "Siegfried Goldschmidt",
+   "role": "relative",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "perhaps somehow (but not closely) related to —> Siegfried Goldschmidt.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Goldschmidt",
+   "type": "studied_at",
+   "object": "Heidelberg",
+   "role": null,
+   "place": null,
+   "year_start": 1867,
+   "year_end": 1872,
+   "explicit": true,
+   "evidence": "Studies of Indology in 1867-72 (interrupted by voluntary military service) at Heidelberg, Tübingen (Roth), Berlin (Weber) and Göttingen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Goldschmidt",
+   "type": "studied_at",
+   "object": "Tübingen",
+   "role": null,
+   "place": null,
+   "year_start": 1867,
+   "year_end": 1872,
+   "explicit": true,
+   "evidence": "Studies of Indology in 1867-72 (interrupted by voluntary military service) at Heidelberg, Tübingen (Roth), Berlin (Weber) and Göttingen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Goldschmidt",
+   "type": "student_of",
+   "object": "Roth",
+   "role": "teacher",
+   "place": "Tübingen",
+   "year_start": 1867,
+   "year_end": 1872,
+   "explicit": true,
+   "evidence": "Tübingen (Roth)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Goldschmidt",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": null,
+   "year_start": 1867,
+   "year_end": 1872,
+   "explicit": true,
+   "evidence": "Studies of Indology in 1867-72 (interrupted by voluntary military service) at Heidelberg, Tübingen (Roth), Berlin (Weber) and Göttingen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Goldschmidt",
+   "type": "student_of",
+   "object": "Weber",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1867,
+   "year_end": 1872,
+   "explicit": true,
+   "evidence": "Berlin (Weber)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Goldschmidt",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": "PhD",
+   "place": null,
+   "year_start": 1867,
+   "year_end": 1872,
+   "explicit": true,
+   "evidence": "Studies of Indology in 1867-72 [...] at Göttingen. Ph.D. 1872 Göttingen (under Benfey).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Goldschmidt",
+   "type": "student_of",
+   "object": "Benfey",
+   "role": "doctoral supervisor",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": 1872,
+   "explicit": true,
+   "evidence": "Ph.D. 1872 Göttingen (under Benfey).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Goldschmidt",
+   "type": "position_at",
+   "object": "Ceylon government",
+   "role": "epigraphist (Commissioner of Archaeology)",
+   "place": "Sri Lanka",
+   "year_start": 1874,
+   "year_end": 1877,
+   "explicit": true,
+   "evidence": "accepted the post of epigraphist (Commissioner of Archaeology) to the Ceylon government and sailed from England in December 1874.",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. Müller-Hess",
+   "type": "succeeded",
+   "object": "Paul Goldschmidt",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His work was continued by —> E. Müller-Hess.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GOLDSCHMIDT, Paul",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2322-goldschmidt-paul.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GOLDSCHMIDT, Paul",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2322/goldschmidt-paul/",
+  "subject": "GOLDSCHMIDT, Paul",
+  "birth_year": 1850,
+  "death_year": 1877
+ },
+ "model": "gemini-flash-latest"
+}

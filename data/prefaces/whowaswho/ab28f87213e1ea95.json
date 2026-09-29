@@ -1,0 +1,76 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2022,
+ "people": [
+  {
+   "name": "ANDERSON, John",
+   "birth_year": 1833,
+   "death_year": 1900
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ANDERSON, John",
+   "type": "studied_at",
+   "object": "Edinburgh",
+   "role": "M.D.",
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": 1862,
+   "explicit": true,
+   "evidence": "School and medical studies in Edinburgh. M.D. 1862 (with zoological diss.).",
+   "quote_ok": true
+  },
+  {
+   "subject": "ANDERSON, John",
+   "type": "position_at",
+   "object": "Free Church College",
+   "role": "Professor of Natural History",
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Two years Professor of Natural History at Free Church College in Edinburgh",
+   "quote_ok": true
+  },
+  {
+   "subject": "ANDERSON, John",
+   "type": "position_at",
+   "object": "Indian Museum",
+   "role": "First Curator then Superviser",
+   "place": "Calcutta",
+   "year_start": 1865,
+   "year_end": 1886,
+   "explicit": true,
+   "evidence": "From 1865-86 First Curator then Superviser of Indian Museum in Calcutta",
+   "quote_ok": true
+  },
+  {
+   "subject": "ANDERSON, John",
+   "type": "position_at",
+   "object": "Medical School",
+   "role": "Professor of Comparative Anatomy",
+   "place": "Calcutta",
+   "year_start": 1877,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from c. 1877 also Professor of Comparative Anatomy at Medical School",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ANDERSON, John",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/24435-anderson-john.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ANDERSON, John",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/24435/anderson-john/",
+  "subject": "ANDERSON, John",
+  "birth_year": 1833,
+  "death_year": 1900
+ },
+ "model": "gemini-flash-latest"
+}

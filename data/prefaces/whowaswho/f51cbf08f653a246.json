@@ -1,0 +1,73 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Pietro Giuseppe Maggi",
+   "birth_year": 1817,
+   "death_year": 1873,
+   "nationality": "Italian",
+   "field": "Indology"
+  },
+  {
+   "name": "Angelo De Gubernatis",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Angelo Maria Pizzagalli",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "MAGGI, Pietro Giuseppe",
+   "birth_year": 1817,
+   "death_year": 1873
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Pietro Giuseppe Maggi",
+   "type": "position_at",
+   "object": "Lombardian Academy",
+   "role": "Member",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Member of Lombardian Academy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pietro Giuseppe Maggi",
+   "type": "other",
+   "object": "Angelo Maria Pizzagalli",
+   "role": "great-grandfather",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "his granddaughter was —> Pizzagalli’s mother.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MAGGI, Pietro Giuseppe",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3975-maggi-pietro-giuseppe.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MAGGI, Pietro Giuseppe",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3975/maggi-pietro-giuseppe/",
+  "subject": "MAGGI, Pietro Giuseppe",
+  "birth_year": 1817,
+  "death_year": 1873
+ },
+ "model": "gemini-flash-latest"
+}

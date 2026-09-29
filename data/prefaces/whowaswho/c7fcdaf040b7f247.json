@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Albert Graeter",
+   "birth_year": 1835,
+   "death_year": 1909,
+   "nationality": "American",
+   "field": null
+  },
+  {
+   "name": "John Benignus Gräter",
+   "birth_year": 1838,
+   "death_year": 1895,
+   "nationality": "American",
+   "field": null
+  },
+  {
+   "name": "GRAETER, Albert – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1835,
+   "death_year": 1909
+  },
+  {
+   "name": "GRAETER, Albert",
+   "birth_year": 1835,
+   "death_year": 1909
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Albert Graeter",
+   "type": "position_at",
+   "object": "Basel Mission of Mangalore",
+   "role": "Missionary",
+   "place": "Mangalore",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Went to India as a member of Basel Mission of Mangalore.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albert Graeter",
+   "type": "position_at",
+   "object": "Basel",
+   "role": "teacher of English",
+   "place": "Basel",
+   "year_start": 1870,
+   "year_end": 1908,
+   "explicit": true,
+   "evidence": "Retired, he worked 1870-1908 as teacher of English in Basel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Benignus Gräter",
+   "type": "position_at",
+   "object": "Basel Mission",
+   "role": "Rev.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His younger brother was Rev. John (Johann) Benignus Gräter ( Boston 12.5.1838 — Esslingen, Württemberg ?.2.1895 ), who also belonged to Basel Mission.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Benignus Gräter",
+   "type": "other",
+   "object": "Albert Graeter",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His younger brother was Rev. John (Johann) Benignus Gräter",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GRAETER, Albert",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/14898-graeter-albert.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GRAETER, Albert",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/14898/graeter-albert/",
+  "subject": "GRAETER, Albert",
+  "birth_year": 1835,
+  "death_year": 1909
+ },
+ "model": "gemini-flash-latest"
+}

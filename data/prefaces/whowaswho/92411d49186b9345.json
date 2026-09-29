@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Aubrey John O’Brien",
+   "birth_year": 1870,
+   "death_year": 1930,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Edward O’Brien",
+   "birth_year": 1840,
+   "death_year": 1893,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "O’BRIEN, Aubrey J. – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1840,
+   "death_year": 1893
+  },
+  {
+   "name": "O’BRIEN, Aubrey J",
+   "birth_year": 1870,
+   "death_year": 1930
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Aubrey John O’Brien",
+   "type": "studied_at",
+   "object": "Dover College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After Dover College studies at Sandhurst.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Aubrey John O’Brien",
+   "type": "studied_at",
+   "object": "Sandhurst",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After Dover College studies at Sandhurst.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Aubrey John O’Brien",
+   "type": "other",
+   "object": "Edward O’Brien",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of —> Edward O’Brien (1840–1893)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: O’BRIEN, Aubrey J",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/34903-obrien-aubrey-j.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: O’BRIEN, Aubrey J",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/34903/obrien-aubrey-j/",
+  "subject": "O’BRIEN, Aubrey J",
+  "birth_year": 1870,
+  "death_year": 1930
+ },
+ "model": "gemini-flash-latest"
+}

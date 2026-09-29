@@ -1,0 +1,181 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Jülg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Curtius",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Walde",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "STOLZ, Friedrich",
+   "birth_year": 1850,
+   "death_year": 1915
+  }
+ ],
+ "relations": [
+  {
+   "subject": "STOLZ, Friedrich",
+   "type": "studied_at",
+   "object": "Innsbruck",
+   "role": null,
+   "place": "Innsbruck",
+   "year_start": 1868,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1868 studied classics at Innsbruck under Jülg et al.",
+   "quote_ok": true
+  },
+  {
+   "subject": "STOLZ, Friedrich",
+   "type": "student_of",
+   "object": "Jülg",
+   "role": "teacher",
+   "place": "Innsbruck",
+   "year_start": 1868,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1868 studied classics at Innsbruck under Jülg et al.",
+   "quote_ok": true
+  },
+  {
+   "subject": "STOLZ, Friedrich",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": 1871,
+   "year_end": 1872,
+   "explicit": true,
+   "evidence": "1871-72 at Leipzig (Curtius)",
+   "quote_ok": true
+  },
+  {
+   "subject": "STOLZ, Friedrich",
+   "type": "student_of",
+   "object": "Curtius",
+   "role": "teacher",
+   "place": "Leipzig",
+   "year_start": 1871,
+   "year_end": 1872,
+   "explicit": true,
+   "evidence": "1871-72 at Leipzig (Curtius)",
+   "quote_ok": true
+  },
+  {
+   "subject": "STOLZ, Friedrich",
+   "type": "studied_at",
+   "object": "Graz",
+   "role": "PhD",
+   "place": "Graz",
+   "year_start": null,
+   "year_end": 1874,
+   "explicit": true,
+   "evidence": "Ph.D. 1874 Graz.",
+   "quote_ok": true
+  },
+  {
+   "subject": "STOLZ, Friedrich",
+   "type": "position_at",
+   "object": "Innsbruck",
+   "role": "PD",
+   "place": "Innsbruck",
+   "year_start": 1879,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "PD 1879 Innsbruck.",
+   "quote_ok": true
+  },
+  {
+   "subject": "STOLZ, Friedrich",
+   "type": "position_at",
+   "object": "Innsbruck",
+   "role": "ao. Professor of comparative linguistics",
+   "place": "Innsbruck",
+   "year_start": 1886,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1886 ao. Professor of comparative linguistics there as Jülg’s successor, 1890 ord.",
+   "quote_ok": true
+  },
+  {
+   "subject": "STOLZ, Friedrich",
+   "type": "position_at",
+   "object": "Innsbruck",
+   "role": "ord. Professor of comparative linguistics",
+   "place": "Innsbruck",
+   "year_start": 1890,
+   "year_end": 1912,
+   "explicit": true,
+   "evidence": "1890 ord. An illness forced him to retire in 1912",
+   "quote_ok": true
+  },
+  {
+   "subject": "STOLZ, Friedrich",
+   "type": "succeeded",
+   "object": "Jülg",
+   "role": null,
+   "place": "Innsbruck",
+   "year_start": 1886,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1886 ao. Professor of comparative linguistics there as Jülg’s successor",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walde",
+   "type": "student_of",
+   "object": "STOLZ, Friedrich",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "succeeded by his student Walde",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walde",
+   "type": "succeeded",
+   "object": "STOLZ, Friedrich",
+   "role": null,
+   "place": "Innsbruck",
+   "year_start": 1912,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "An illness forced him to retire in 1912 (succeeded by his student Walde).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: STOLZ, Friedrich",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/37093-stolz-friedrich.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: STOLZ, Friedrich",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/37093/stolz-friedrich/",
+  "subject": "STOLZ, Friedrich",
+  "birth_year": 1850,
+  "death_year": 1915
+ },
+ "model": "gemini-flash-latest"
+}

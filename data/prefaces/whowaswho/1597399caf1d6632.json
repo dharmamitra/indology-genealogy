@@ -1,0 +1,73 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Josef Maria Abs",
+   "birth_year": 1889,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Jacobi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Josef Maria Abs",
+   "type": "position_at",
+   "object": "Calcutta",
+   "role": "Professorship",
+   "place": "Calcutta",
+   "year_start": 1914,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1914 appointed to a Professorship in Calcutta, but soon interned.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Josef Maria Abs",
+   "type": "student_of",
+   "object": "Jacobi",
+   "role": "teacher",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After the war he studied Indology under Jacobi at Bonn.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Josef Maria Abs",
+   "type": "studied_at",
+   "object": "Bonn",
+   "role": null,
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After the war he studied Indology under Jacobi at Bonn.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ABS, Josef Maria",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/168-abs-josef-maria.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ABS, Josef Maria",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/168/abs-josef-maria/",
+  "subject": "ABS, Josef Maria",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

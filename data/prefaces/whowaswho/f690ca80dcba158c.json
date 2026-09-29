@@ -1,0 +1,90 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "William Frederick Webster",
+   "birth_year": 1855,
+   "death_year": 1929,
+   "nationality": "British",
+   "field": "Indology"
+  },
+  {
+   "name": "Cowell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "WEBSTER, William Frederick",
+   "birth_year": 1855,
+   "death_year": 1929
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Frederick Webster",
+   "type": "studied_at",
+   "object": "City School in London",
+   "role": null,
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Attended the City School in London",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Frederick Webster",
+   "type": "studied_at",
+   "object": "Trinity College, Cambridge",
+   "role": "B.A., M.A.",
+   "place": "Cambridge",
+   "year_start": 1874,
+   "year_end": 1881,
+   "explicit": true,
+   "evidence": "from 1874 studies at Trinity College, Cambridge (i.al. under Cowell). B.A. 1878, Indian Language Trip., 1st class 1879, M.A. 1881",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Frederick Webster",
+   "type": "student_of",
+   "object": "Cowell",
+   "role": "teacher",
+   "place": "Cambridge",
+   "year_start": 1874,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1874 studies at Trinity College, Cambridge (i.al. under Cowell)",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Frederick Webster",
+   "type": "studied_at",
+   "object": "Lincoln’s Inn",
+   "role": null,
+   "place": null,
+   "year_start": 1879,
+   "year_end": 1882,
+   "explicit": true,
+   "evidence": "From 1879 law studies, Lincoln’s Inn, in 1882 called to the Bar.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: WEBSTER, William Frederick",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5404-webster-william-frederick.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: WEBSTER, William Frederick",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5404/webster-william-frederick/",
+  "subject": "WEBSTER, William Frederick",
+  "birth_year": 1855,
+  "death_year": 1929
+ },
+ "model": "gemini-flash-latest"
+}

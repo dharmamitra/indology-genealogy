@@ -1,0 +1,76 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "R. Caldwell",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BOWER, Henry – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1813,
+   "death_year": 1885
+  },
+  {
+   "name": "BOWER, Henry",
+   "birth_year": 1813,
+   "death_year": 1885
+  }
+ ],
+ "relations": [
+  {
+   "subject": "BOWER, Henry",
+   "type": "studied_at",
+   "object": "Vepery Seminary",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Wikipedia: studied at Vepery Seminary",
+   "quote_ok": true
+  },
+  {
+   "subject": "BOWER, Henry",
+   "type": "position_at",
+   "object": "Madras University",
+   "role": "Principal Tamil examiner",
+   "place": "Madras",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Principal Tamil examiner of Madras University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "R. Caldwell",
+   "type": "student_of",
+   "object": "BOWER, Henry",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Introduced R. Caldwell to Tamil Literature.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BOWER, Henry",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/916-bower-henry.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BOWER, Henry",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/916/bower-henry/",
+  "subject": "BOWER, Henry",
+  "birth_year": 1813,
+  "death_year": 1885
+ },
+ "model": "gemini-flash-latest"
+}

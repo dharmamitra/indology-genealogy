@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Robert Anderson",
+   "birth_year": 1792,
+   "death_year": 1843,
+   "nationality": "British",
+   "field": "Tamil Scholar"
+  },
+  {
+   "name": "John Shore",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ANDERSON, Robert – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1792,
+   "death_year": 1843
+  },
+  {
+   "name": "ANDERSON, Robert",
+   "birth_year": 1792,
+   "death_year": 1843
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Robert Anderson",
+   "type": "studied_at",
+   "object": "Harrow",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "educated at Harrow and Haileybury",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Anderson",
+   "type": "studied_at",
+   "object": "Haileybury",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "educated at Harrow and Haileybury. Learned Sanskrit, Persian and Bengali at East India College",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Anderson",
+   "type": "position_at",
+   "object": "East India College",
+   "role": "Assistant Professor",
+   "place": "Haileybury",
+   "year_start": 1821,
+   "year_end": 1825,
+   "explicit": true,
+   "evidence": "As an Assistant Professor at East India College in Haileybury 1821–25, he taught Persian and privately Tamil",
+   "quote_ok": true
+  },
+  {
+   "subject": "Robert Anderson",
+   "type": "other",
+   "object": "John Shore",
+   "role": "father-in-law",
+   "place": null,
+   "year_start": 1829,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Married 1829 Caroline Dorothea (1802–1874), the daughter of —> John Shore",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ANDERSON, Robert",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/264-anderson-robert.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ANDERSON, Robert",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/264/anderson-robert/",
+  "subject": "ANDERSON, Robert",
+  "birth_year": 1792,
+  "death_year": 1843
+ },
+ "model": "gemini-flash-latest"
+}

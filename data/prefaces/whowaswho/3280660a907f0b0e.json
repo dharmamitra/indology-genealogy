@@ -1,0 +1,85 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Sidney Endle",
+   "birth_year": 1840,
+   "death_year": 1907,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Hesselmyer",
+   "birth_year": null,
+   "death_year": 1869,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sidney Endle",
+   "type": "studied_at",
+   "object": "Totnes Grammar School",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "educated at Totnes Grammar School and at St. Augustine’s College in Canterbury",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sidney Endle",
+   "type": "studied_at",
+   "object": "St. Augustine’s College in Canterbury",
+   "role": null,
+   "place": "Canterbury",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "educated at Totnes Grammar School and at St. Augustine’s College in Canterbury",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sidney Endle",
+   "type": "position_at",
+   "object": "Kachari Mission",
+   "role": "in charge",
+   "place": "Tezpur",
+   "year_start": 1869,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "after his death in 1869 took charge of the Kachari Mission with headquarters at Tezpur",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sidney Endle",
+   "type": "succeeded",
+   "object": "Hesselmyer",
+   "role": null,
+   "place": "Kachari Mission",
+   "year_start": 1869,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Worked under Hesselmyer and after his death in 1869 took charge of the Kachari Mission with headquarters at Tezpur.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ENDLE, Sidney",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1824-endle-sidney.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ENDLE, Sidney",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1824/endle-sidney/",
+  "subject": "ENDLE, Sidney",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

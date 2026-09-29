@@ -1,0 +1,76 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "ČUPR, František",
+   "birth_year": 1821,
+   "death_year": 1882
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ČUPR, František",
+   "type": "studied_at",
+   "object": "Prague",
+   "role": "Ph.D.",
+   "place": "Prague",
+   "year_start": null,
+   "year_end": 1845,
+   "explicit": true,
+   "evidence": "studies at Prague, Ph.D. 1845",
+   "quote_ok": true
+  },
+  {
+   "subject": "ČUPR, František",
+   "type": "position_at",
+   "object": "Altstädter akad. Gymnasium",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1848,
+   "year_end": 1853,
+   "explicit": true,
+   "evidence": "In 1848-53 taught at Altstädter akad. Gymnasium",
+   "quote_ok": true
+  },
+  {
+   "subject": "ČUPR, František",
+   "type": "position_at",
+   "object": "private Czech Gymnasium",
+   "role": "principal",
+   "place": null,
+   "year_start": 1853,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1853 opened a private Czech Gymnasium and became its principal",
+   "quote_ok": true
+  },
+  {
+   "subject": "ČUPR, František",
+   "type": "position_at",
+   "object": "Prague",
+   "role": "PD für Logik und wissenschaftliche Enzyklopädie",
+   "place": "Prague",
+   "year_start": 1849,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "From 1849 also PD für Logik und wissenschaftliche Enzyklopädie, taught often in Czech.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ČUPR, František",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1435-cupr-frantisek.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ČUPR, František",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1435/cupr-frantisek/",
+  "subject": "ČUPR, František",
+  "birth_year": 1821,
+  "death_year": 1882
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,88 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "R. DeSmet",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "LEDRUS, Michel – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1932,
+   "death_year": 1939
+  },
+  {
+   "name": "LEDRUS, Michel",
+   "birth_year": 1899,
+   "death_year": 1983
+  }
+ ],
+ "relations": [
+  {
+   "subject": "LEDRUS, Michel",
+   "type": "position_at",
+   "object": "Louvain",
+   "role": null,
+   "place": null,
+   "year_start": 1931,
+   "year_end": 1931,
+   "explicit": true,
+   "evidence": "Taught at Louvain (1931)",
+   "quote_ok": true
+  },
+  {
+   "subject": "LEDRUS, Michel",
+   "type": "position_at",
+   "object": "Università Gregoriana in Rome",
+   "role": null,
+   "place": "Rome",
+   "year_start": 1932,
+   "year_end": 1933,
+   "explicit": true,
+   "evidence": "Taught at Louvain (1931) and at Università Gregoriana in Rome (1932-33)",
+   "quote_ok": true
+  },
+  {
+   "subject": "LEDRUS, Michel",
+   "type": "position_at",
+   "object": "Collegio Internazionale S. J. “Roberto Bellarmino” in Rome",
+   "role": "spiritual director",
+   "place": "Rome",
+   "year_start": 1949,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1949 spiritual director of Collegio Internazionale S. J. “Roberto Bellarmino” in Rome.",
+   "quote_ok": true
+  },
+  {
+   "subject": "R. DeSmet",
+   "type": "student_of",
+   "object": "LEDRUS, Michel",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "R. DeSmet was his student.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: LEDRUS, Michel",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/16794-ledrus-michel.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: LEDRUS, Michel",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/16794/ledrus-michel/",
+  "subject": "LEDRUS, Michel",
+  "birth_year": 1899,
+  "death_year": 1983
+ },
+ "model": "gemini-flash-latest"
+}

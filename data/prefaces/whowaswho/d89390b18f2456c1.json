@@ -1,0 +1,119 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Werner Schulemann",
+   "birth_year": 1888,
+   "death_year": 1975,
+   "nationality": "German",
+   "field": "Pharmacology"
+  },
+  {
+   "name": "Günther Schulemann",
+   "birth_year": 1889,
+   "death_year": 1964,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "SCHULEMANN, Werner – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1889,
+   "death_year": 1964
+  },
+  {
+   "name": "SCHULEMANN, Werner",
+   "birth_year": 1888,
+   "death_year": 1975
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Werner Schulemann",
+   "type": "other",
+   "object": "Günther Schulemann",
+   "role": "elder brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "elder brother of —> GüntherSchulemann (1889–1964)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Werner Schulemann",
+   "type": "studied_at",
+   "object": "Freiburg",
+   "role": null,
+   "place": "Freiburg",
+   "year_start": 1909,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1909 studies at Freiburg and Breslau.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Werner Schulemann",
+   "type": "studied_at",
+   "object": "Breslau",
+   "role": "Dr.phil.",
+   "place": "Breslau",
+   "year_start": 1909,
+   "year_end": 1913,
+   "explicit": true,
+   "evidence": "from 1909 studies at Freiburg and Breslau. Dr.phil. Breslau 1913 (in chemistry)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Werner Schulemann",
+   "type": "studied_at",
+   "object": "Freiburg",
+   "role": "Dr.med.",
+   "place": "Freiburg",
+   "year_start": null,
+   "year_end": 1914,
+   "explicit": true,
+   "evidence": "Dr.med. 1914 Freiburg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Werner Schulemann",
+   "type": "position_at",
+   "object": "Düsseldorf Medical Academy",
+   "role": "Professor",
+   "place": "Düsseldorf",
+   "year_start": 1931,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1931 Professor at Düsseldorf Medical Academy",
+   "quote_ok": true
+  },
+  {
+   "subject": "Werner Schulemann",
+   "type": "position_at",
+   "object": "Bonn",
+   "role": "Professor ord. of Pharmacology and Toxicology",
+   "place": "Bonn",
+   "year_start": 1938,
+   "year_end": 1955,
+   "explicit": true,
+   "evidence": "from 1938 Professor ord. of Pharmacology and Toxicology at Bonn, after WW II rejected as “Mitläufer” (member of NSDAP 1937), but allowed back in 1948. Retired 1955.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SCHULEMANN, Werner",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/6117-schulemann-werner.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SCHULEMANN, Werner",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/6117/schulemann-werner/",
+  "subject": "SCHULEMANN, Werner",
+  "birth_year": 1888,
+  "death_year": 1975
+ },
+ "model": "gemini-flash-latest"
+}

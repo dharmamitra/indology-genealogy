@@ -1,0 +1,66 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Friedrich Christian Gotthelf Schröter",
+   "birth_year": 1786,
+   "death_year": 1820,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "Johann Jaenicke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "SCHRÖTER, Friedrich Christian Gotthelf",
+   "birth_year": 1786,
+   "death_year": 1820
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Friedrich Christian Gotthelf Schröter",
+   "type": "student_of",
+   "object": "Johann Jaenicke",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "was educated as a missionary by Johann Jaenicke in Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Christian Gotthelf Schröter",
+   "type": "position_at",
+   "object": "Church Missionary Society",
+   "role": "missionary",
+   "place": null,
+   "year_start": 1815,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Went to England and in 1815 to Ceylon (Sri Lanka) to work for Church Missionary Society.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SCHRÖTER, Friedrich Christian Gotthelf",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/6009-schroeter-friedrich-christian-gotthelf.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SCHRÖTER, Friedrich Christian Gotthelf",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/6009/schroeter-friedrich-christian-gotthelf/",
+  "subject": "SCHRÖTER, Friedrich Christian Gotthelf",
+  "birth_year": 1786,
+  "death_year": 1820
+ },
+ "model": "gemini-flash-latest"
+}

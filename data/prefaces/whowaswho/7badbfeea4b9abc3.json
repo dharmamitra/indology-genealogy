@@ -1,0 +1,145 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Charles Bruce",
+   "birth_year": 1836,
+   "death_year": 1920,
+   "nationality": "British",
+   "field": "Indologist"
+  },
+  {
+   "name": "Roth",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Böhtlingk",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BRUCE, Charles",
+   "birth_year": 1836,
+   "death_year": 1920
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Charles Bruce",
+   "type": "studied_at",
+   "object": "Yale University",
+   "role": null,
+   "place": null,
+   "year_start": 1856,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at Harrow, Yale University (from 1856), and in Germany",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Bruce",
+   "type": "studied_at",
+   "object": "Tübingen",
+   "role": null,
+   "place": null,
+   "year_start": 1861,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "a student of Roth at Tübingen (from 1861, concentrating on Sanskrit and Iranian)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Bruce",
+   "type": "student_of",
+   "object": "Roth",
+   "role": "teacher",
+   "place": "Tübingen",
+   "year_start": 1861,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "a student of Roth at Tübingen (from 1861, concentrating on Sanskrit and Iranian)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Bruce",
+   "type": "position_at",
+   "object": "British Museum Library",
+   "role": "Assistant Librarian",
+   "place": null,
+   "year_start": 1863,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1863 Assistant Librarian at British Museum Library",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Bruce",
+   "type": "position_at",
+   "object": "King’s College, London",
+   "role": "Professor (unpaid) of Sanskrit",
+   "place": null,
+   "year_start": 1865,
+   "year_end": 1869,
+   "explicit": true,
+   "evidence": "from 1865-69 also Professor (unpaid) of Sanskrit at the King’s College, London",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Bruce",
+   "type": "collaborated_with",
+   "object": "Böhtlingk",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Assisted Böhtlingk and Roth in their dictionary work ( PW )",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Bruce",
+   "type": "collaborated_with",
+   "object": "Roth",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Assisted Böhtlingk and Roth in their dictionary work ( PW )",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Bruce",
+   "type": "position_at",
+   "object": "Royal College in Port Louis",
+   "role": "Rector",
+   "place": "Mauritius",
+   "year_start": 1868,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1868 Rector of the Royal College in Port Louis, Mauritius",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BRUCE, Charles",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1008-bruce-charles.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BRUCE, Charles",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1008/bruce-charles/",
+  "subject": "BRUCE, Charles",
+  "birth_year": 1836,
+  "death_year": 1920
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Charles Lecoutere",
+   "birth_year": 1865,
+   "death_year": 1921,
+   "nationality": "Belgian",
+   "field": "Linguist"
+  },
+  {
+   "name": "de Harlez",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "LECOUTERE, Charles",
+   "birth_year": 1865,
+   "death_year": 1921
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Charles Lecoutere",
+   "type": "student_of",
+   "object": "de Harlez",
+   "role": "teacher",
+   "place": "Leuven",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Student of de Harlez at Leuven",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Lecoutere",
+   "type": "studied_at",
+   "object": "Leuven",
+   "role": "Ph.D.",
+   "place": "Leuven",
+   "year_start": null,
+   "year_end": 1892,
+   "explicit": true,
+   "evidence": "Student of de Harlez at Leuven, but concentrated more on Classics (Ph.D. 1892)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Lecoutere",
+   "type": "position_at",
+   "object": "Leuven",
+   "role": "Professor",
+   "place": "Leuven",
+   "year_start": 1895,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor in Leuven... Eo. Professor at Louvain (Leuven) from 1895, ord. 1899.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: LECOUTERE, Charles",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3721-lecoutere-charles.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: LECOUTERE, Charles",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3721/lecoutere-charles/",
+  "subject": "LECOUTERE, Charles",
+  "birth_year": 1865,
+  "death_year": 1921
+ },
+ "model": "gemini-flash-latest"
+}

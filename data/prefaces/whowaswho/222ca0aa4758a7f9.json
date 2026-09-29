@@ -1,0 +1,59 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Edward O’Brien",
+   "birth_year": 1840,
+   "death_year": 1893,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "A. J. O’Brien",
+   "birth_year": 1870,
+   "death_year": 1930,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "O’BRIEN, Edward – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1848,
+   "death_year": 1939
+  },
+  {
+   "name": "O’BRIEN, Edward",
+   "birth_year": 1840,
+   "death_year": 1893
+  }
+ ],
+ "relations": [
+  {
+   "subject": "A. J. O’Brien",
+   "type": "other",
+   "object": "Edward O’Brien",
+   "role": "child",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Married Mary Oclanis Lamb (1848–1939), six children (—> A. J. O’Brien, 1870–1930).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: O’BRIEN, Edward",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/18800-obrien-edward.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: O’BRIEN, Edward",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/18800/obrien-edward/",
+  "subject": "O’BRIEN, Edward",
+  "birth_year": 1840,
+  "death_year": 1893
+ },
+ "model": "gemini-flash-latest"
+}

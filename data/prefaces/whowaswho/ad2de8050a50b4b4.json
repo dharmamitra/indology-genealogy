@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Henry Morris",
+   "birth_year": 1829,
+   "death_year": 1912,
+   "nationality": "British",
+   "field": "Civil Servant and Historian in India"
+  },
+  {
+   "name": "John Carnac Morris",
+   "birth_year": 1798,
+   "death_year": 1858,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "MORRIS, Henry – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1829,
+   "death_year": 1912
+  },
+  {
+   "name": "MORRIS, Henry",
+   "birth_year": 1829,
+   "death_year": 1912
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Henry Morris",
+   "type": "other",
+   "object": "John Carnac Morris",
+   "role": "son of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of —> John Carnac Morris (1798–1858)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Morris",
+   "type": "studied_at",
+   "object": "Rugby",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at Rugby and Haileybury, 1846-48.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Morris",
+   "type": "studied_at",
+   "object": "Haileybury",
+   "role": null,
+   "place": null,
+   "year_start": 1846,
+   "year_end": 1848,
+   "explicit": true,
+   "evidence": "Educated at Rugby and Haileybury, 1846-48.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Morris",
+   "type": "position_at",
+   "object": "Madras C.S.",
+   "role": "Judge of Godavery",
+   "place": "India",
+   "year_start": 1848,
+   "year_end": 1875,
+   "explicit": true,
+   "evidence": "In India, 1848-75, in the Madras C.S., rose to be Judge of Godavery.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MORRIS, Henry",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/6938-morris-henry-2.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MORRIS, Henry",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/6938/morris-henry-2/",
+  "subject": "MORRIS, Henry",
+  "birth_year": 1829,
+  "death_year": 1912
+ },
+ "model": "gemini-flash-latest"
+}

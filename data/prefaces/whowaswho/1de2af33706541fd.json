@@ -1,0 +1,133 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Hugo Heinrich Max Figulla",
+   "birth_year": 1885,
+   "death_year": 1969,
+   "nationality": "German",
+   "field": "Assyriology, Hittite studies, Dravidian"
+  },
+  {
+   "name": "Bruno Meissner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Assyriology"
+  },
+  {
+   "name": "H. Winckler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "FIGULLA, Hugo Heinrich",
+   "birth_year": 1885,
+   "death_year": 1969
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hugo Heinrich Max Figulla",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After gymnasium in Ratibor studied at Berlin and Breslau",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hugo Heinrich Max Figulla",
+   "type": "studied_at",
+   "object": "Breslau",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1911,
+   "explicit": true,
+   "evidence": "studied at Berlin and Breslau (Assyriology under Br. Meissner). Ph.D. 1911 Breslau in Assyriology.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hugo Heinrich Max Figulla",
+   "type": "student_of",
+   "object": "Bruno Meissner",
+   "role": null,
+   "place": "Breslau",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied at Berlin and Breslau (Assyriology under Br. Meissner).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hugo Heinrich Max Figulla",
+   "type": "position_at",
+   "object": "Vorderasiatische Museum in Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1912,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1912 worked in Vorderasiatische Museum in Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hugo Heinrich Max Figulla",
+   "type": "collaborated_with",
+   "object": "H. Winckler",
+   "role": null,
+   "place": "Turkey",
+   "year_start": 1914,
+   "year_end": 1914,
+   "explicit": true,
+   "evidence": "In 1914 visited Turkey with H. Winckler",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hugo Heinrich Max Figulla",
+   "type": "position_at",
+   "object": "Seminar für orientalische Sprachen",
+   "role": "Docent and Librarian, then Director of the library",
+   "place": null,
+   "year_start": null,
+   "year_end": 1936,
+   "explicit": true,
+   "evidence": "Docent and Librarian, then Director of the library of Seminar für orientalische Sprachen, also teaching Telugu (1934-36)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hugo Heinrich Max Figulla",
+   "type": "position_at",
+   "object": "British Museum",
+   "role": "Keeper",
+   "place": "London",
+   "year_start": 1946,
+   "year_end": 1963,
+   "explicit": true,
+   "evidence": "In 1946-63 worked as Keeper in British Museum cataloguing Assyriological material.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: FIGULLA, Hugo Heinrich",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1959-figulla-hugo-heinrich.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: FIGULLA, Hugo Heinrich",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1959/figulla-hugo-heinrich/",
+  "subject": "FIGULLA, Hugo Heinrich",
+  "birth_year": 1885,
+  "death_year": 1969
+ },
+ "model": "gemini-flash-latest"
+}

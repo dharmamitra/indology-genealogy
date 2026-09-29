@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Wilhelm Eggers",
+   "birth_year": 1888,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Schrader",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "EGGERS, Wilhelm – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1898,
+   "death_year": 1908
+  },
+  {
+   "name": "EGGERS, Wilhelm",
+   "birth_year": 1898,
+   "death_year": 1908
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Wilhelm Eggers",
+   "type": "studied_at",
+   "object": "Karlsruhe technische Hochschule",
+   "role": null,
+   "place": null,
+   "year_start": 1909,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "studied in 1909-10 mechanical engineering at Karlsruhe technische Hochschule",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Eggers",
+   "type": "studied_at",
+   "object": "Kolonialschule in Witzenhausen",
+   "role": null,
+   "place": "Witzenhausen",
+   "year_start": 1910,
+   "year_end": 1912,
+   "explicit": true,
+   "evidence": "and in 1910-12 at Kolonialschule in Witzenhausen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Eggers",
+   "type": "studied_at",
+   "object": "Kiel",
+   "role": "Ph.D.",
+   "place": "Kiel",
+   "year_start": 1924,
+   "year_end": 1929,
+   "explicit": true,
+   "evidence": "In 1924 started studies at Kiel... Ph.D. 1929 Kiel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Wilhelm Eggers",
+   "type": "student_of",
+   "object": "Schrader",
+   "role": "teacher",
+   "place": "Kiel",
+   "year_start": 1924,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1924 started studies at Kiel, first two terms as “Gasthörer”, concentrated soon on Indology (under Schrader).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: EGGERS, Wilhelm",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1758-eggers-wilhelm.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: EGGERS, Wilhelm",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1758/eggers-wilhelm/",
+  "subject": "EGGERS, Wilhelm",
+  "birth_year": 1898,
+  "death_year": 1908
+ },
+ "model": "gemini-flash-latest"
+}

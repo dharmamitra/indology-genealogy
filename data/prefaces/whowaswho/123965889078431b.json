@@ -1,0 +1,123 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Simon-Alexandre Langlois",
+   "birth_year": 1788,
+   "death_year": 1854,
+   "nationality": "French",
+   "field": "Indologist"
+  },
+  {
+   "name": "Chézy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Burnouf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lassen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "A. W. von Schlegel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "LANGLOIS, Alexandre",
+   "birth_year": 1788,
+   "death_year": 1854
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Simon-Alexandre Langlois",
+   "type": "student_of",
+   "object": "Chézy",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies of Sanskrit under Chézy in Paris.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Simon-Alexandre Langlois",
+   "type": "position_at",
+   "object": "Lycée de Charlemagne",
+   "role": "Professor (teacher) of Rhetorics",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor (teacher) of Rhetorics at Lycée de Charlemagne.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Simon-Alexandre Langlois",
+   "type": "position_at",
+   "object": "A.I.B.L.",
+   "role": "member",
+   "place": null,
+   "year_start": 1835,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1835 member of A.I.B.L.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Simon-Alexandre Langlois",
+   "type": "other",
+   "object": "Burnouf",
+   "role": "feud",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Langlois was the favourite student of Chézy and therefore not in too good relations with Chézy’s enemies like Burnouf and Lassen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Simon-Alexandre Langlois",
+   "type": "other",
+   "object": "Lassen",
+   "role": "feud",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Langlois was the favourite student of Chézy and therefore not in too good relations with Chézy’s enemies like Burnouf and Lassen.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: LANGLOIS, Alexandre",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/6493-langlois-simon-alexandre-2.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: LANGLOIS, Alexandre",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/6493/langlois-simon-alexandre-2/",
+  "subject": "LANGLOIS, Alexandre",
+  "birth_year": 1788,
+  "death_year": 1854
+ },
+ "model": "gemini-flash-latest"
+}

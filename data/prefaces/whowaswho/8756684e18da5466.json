@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2022,
+ "people": [
+  {
+   "name": "William Diver",
+   "birth_year": 1921,
+   "death_year": 1995,
+   "nationality": "American",
+   "field": "Linguistics"
+  },
+  {
+   "name": "DIVER, William",
+   "birth_year": 1921,
+   "death_year": 1995
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Diver",
+   "type": "studied_at",
+   "object": "Lawrence College",
+   "role": "B.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1942,
+   "explicit": true,
+   "evidence": "B.A. 1942 Lawrence College.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Diver",
+   "type": "studied_at",
+   "object": "Harvard",
+   "role": "M.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "M.A. Harvard, in English.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Diver",
+   "type": "studied_at",
+   "object": "Columbia University",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ph.D. Columbia University, in IE Linguistics.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Diver",
+   "type": "position_at",
+   "object": "Columbia",
+   "role": "Professor",
+   "place": null,
+   "year_start": 1965,
+   "year_end": 1989,
+   "explicit": true,
+   "evidence": "From 1965 taught at Columbia, finally as Professor, emeritus 1989.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Diver",
+   "type": "founded",
+   "object": "Columbia School of Linguistics",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He is known as the founder of the Columbia School of Linguistics.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: DIVER, William",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/28473-diver-william.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: DIVER, William",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/28473/diver-william/",
+  "subject": "DIVER, William",
+  "birth_year": 1921,
+  "death_year": 1995
+ },
+ "model": "gemini-flash-latest"
+}

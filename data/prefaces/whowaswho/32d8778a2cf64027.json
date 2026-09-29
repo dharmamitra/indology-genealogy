@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Edward Payson Newton",
+   "birth_year": 1850,
+   "death_year": 1918,
+   "nationality": "American",
+   "field": null
+  },
+  {
+   "name": "John Newton",
+   "birth_year": 1810,
+   "death_year": 1891,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "NEWTON, Edward Payson – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1810,
+   "death_year": 1891
+  },
+  {
+   "name": "NEWTON, Edward Payson",
+   "birth_year": 1850,
+   "death_year": 1918
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Edward Payson Newton",
+   "type": "other",
+   "object": "John Newton",
+   "role": "son of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of Rev. —> John Newton (1810–1891)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Payson Newton",
+   "type": "studied_at",
+   "object": "Princeton College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at Princeton College and Alleghany Theological Seminary.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Payson Newton",
+   "type": "studied_at",
+   "object": "Alleghany Theological Seminary",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at Princeton College and Alleghany Theological Seminary.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: NEWTON, Edward Payson",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/18626-newton-edward-payson.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: NEWTON, Edward Payson",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/18626/newton-edward-payson/",
+  "subject": "NEWTON, Edward Payson",
+  "birth_year": 1850,
+  "death_year": 1918
+ },
+ "model": "gemini-flash-latest"
+}

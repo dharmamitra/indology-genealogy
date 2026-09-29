@@ -1,0 +1,145 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John Strachan",
+   "birth_year": 1862,
+   "death_year": 1907,
+   "nationality": "British",
+   "field": "Classical and Celtic Linguist"
+  },
+  {
+   "name": "Delbrück",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Thurneysen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "STRACHAN, John",
+   "birth_year": 1862,
+   "death_year": 1907
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Strachan",
+   "type": "studied_at",
+   "object": "Aberdeen",
+   "role": "M.A.",
+   "place": null,
+   "year_start": 1877,
+   "year_end": 1881,
+   "explicit": true,
+   "evidence": "studies of Classics from 1877 at Aberdeen (M.A. 1881)",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Strachan",
+   "type": "studied_at",
+   "object": "Cambridge",
+   "role": "B.A., M.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1889,
+   "explicit": true,
+   "evidence": "Cambridge (Pembroke College, B.A. 1885, Fellow 1886, M.A. 1889)",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Strachan",
+   "type": "position_at",
+   "object": "Pembroke College",
+   "role": "Fellow",
+   "place": "Cambridge",
+   "year_start": 1886,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Pembroke College, B.A. 1885, Fellow 1886, M.A. 1889",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Strachan",
+   "type": "studied_at",
+   "object": "Jena",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then IE and Indology at Jena",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Strachan",
+   "type": "student_of",
+   "object": "Delbrück",
+   "role": "teacher",
+   "place": "Jena",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Sanskrit under Delbrück",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Strachan",
+   "type": "student_of",
+   "object": "Thurneysen",
+   "role": "teacher",
+   "place": "Jena",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Celtic under Thurneysen",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Strachan",
+   "type": "position_at",
+   "object": "Owens College in Manchester",
+   "role": "Professor of Greek",
+   "place": "Manchester",
+   "year_start": 1885,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1885 Professor of Greek and from 1889 also of Sanskrit and Comparative Philology at the Owens College in Manchester",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Strachan",
+   "type": "position_at",
+   "object": "Owens College in Manchester",
+   "role": "Professor of Sanskrit and Comparative Philology",
+   "place": "Manchester",
+   "year_start": 1889,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1889 also of Sanskrit and Comparative Philology at the Owens College in Manchester",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: STRACHAN, John",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/6092-strachan-john.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: STRACHAN, John",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/6092/strachan-john/",
+  "subject": "STRACHAN, John",
+  "birth_year": 1862,
+  "death_year": 1907
+ },
+ "model": "gemini-flash-latest"
+}

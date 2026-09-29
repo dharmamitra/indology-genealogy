@@ -1,0 +1,107 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Albert Ludwig Herrmann",
+   "birth_year": 1886,
+   "death_year": 1945,
+   "nationality": "German",
+   "field": "Historical Geography"
+  },
+  {
+   "name": "H. Wagner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "HERRMANN, Albert – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1844,
+   "death_year": 1910
+  },
+  {
+   "name": "HERRMANN, Albert",
+   "birth_year": 1886,
+   "death_year": 1945
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Albert Ludwig Herrmann",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": null,
+   "year_start": 1904,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied from 1904 at Berlin and Göttingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albert Ludwig Herrmann",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": 1904,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "studied from 1904 at Berlin and Göttingen. Ph.D. Göttingen 1910",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albert Ludwig Herrmann",
+   "type": "student_of",
+   "object": "H. Wagner",
+   "role": "doctoral supervisor",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "Ph.D. Göttingen 1910 (under H. Wagner)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albert Ludwig Herrmann",
+   "type": "position_at",
+   "object": "Berlin",
+   "role": "PD",
+   "place": null,
+   "year_start": 1923,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1923 PD at Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Albert Ludwig Herrmann",
+   "type": "position_at",
+   "object": "Berlin",
+   "role": "nb. ao. Professor of Historical Geography",
+   "place": null,
+   "year_start": 1934,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1934 nb. ao. Professor of Historical Geography there",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HERRMANN, Albert",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2951-herrmann-albert-ludwig.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HERRMANN, Albert",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2951/herrmann-albert-ludwig/",
+  "subject": "HERRMANN, Albert",
+  "birth_year": 1886,
+  "death_year": 1945
+ },
+ "model": "gemini-flash-latest"
+}

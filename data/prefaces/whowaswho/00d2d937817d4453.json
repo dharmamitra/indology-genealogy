@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2018,
+ "people": [
+  {
+   "name": "José Ventura Traveset",
+   "birth_year": 1862,
+   "death_year": 1941,
+   "nationality": "Spanish",
+   "field": null
+  },
+  {
+   "name": "Garcia Ayuso",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "TRAVESET, José Ventura – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1862,
+   "death_year": 1941
+  },
+  {
+   "name": "TRAVESET, José Ventura",
+   "birth_year": 1862,
+   "death_year": 1941
+  }
+ ],
+ "relations": [
+  {
+   "subject": "José Ventura Traveset",
+   "type": "student_of",
+   "object": "Garcia Ayuso",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Student of Garcia Ayuso",
+   "quote_ok": true
+  },
+  {
+   "subject": "José Ventura Traveset",
+   "type": "position_at",
+   "object": "University of Granada",
+   "role": "taught Sanskrit courses",
+   "place": "Granada",
+   "year_start": 1887,
+   "year_end": 1889,
+   "explicit": true,
+   "evidence": "taught Sanskrit courses at the University of Granadain 1887-89",
+   "quote_ok": true
+  },
+  {
+   "subject": "José Ventura Traveset",
+   "type": "position_at",
+   "object": "University of Granada",
+   "role": "Professor of Humanities",
+   "place": "Granada",
+   "year_start": 1889,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1889 Professor of Humanities there",
+   "quote_ok": true
+  },
+  {
+   "subject": "José Ventura Traveset",
+   "type": "position_at",
+   "object": "Valencia",
+   "role": "Professor",
+   "place": "Valencia",
+   "year_start": 1901,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1901 Professor at Valencia",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: TRAVESET, José Ventura",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/10966-traveset-jose-ventura.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: TRAVESET, José Ventura",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/10966/traveset-jose-ventura/",
+  "subject": "TRAVESET, José Ventura",
+  "birth_year": 1862,
+  "death_year": 1941
+ },
+ "model": "gemini-flash-latest"
+}

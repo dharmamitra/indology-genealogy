@@ -1,0 +1,90 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Edward Barry Conolly",
+   "birth_year": 1808,
+   "death_year": 1840,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Arthur Conolly",
+   "birth_year": 1807,
+   "death_year": 1842,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "John Balfour Conolly",
+   "birth_year": null,
+   "death_year": 1842,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "CONOLLY, Edward – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1763,
+   "death_year": 1809
+  },
+  {
+   "name": "CONOLLY, Edward",
+   "birth_year": 1808,
+   "death_year": 1840
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Edward Barry Conolly",
+   "type": "other",
+   "object": "Arthur Conolly",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His elder brother, Arthur Conolly (1807–1842?) was also officer in India",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Barry Conolly",
+   "type": "other",
+   "object": "John Balfour Conolly",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Also a third brother, John Balfour Conolly was officer and killed in Afghanistan in 1842.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Barry Conolly",
+   "type": "position_at",
+   "object": "Bengal Cavalry",
+   "role": "Lieutenant, then Captain",
+   "place": null,
+   "year_start": 1824,
+   "year_end": 1840,
+   "explicit": true,
+   "evidence": "From 1824 served in Bengal Cavalry. Lieutenant, then Captain.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: CONOLLY, Edward",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/13058-conolly-edward-barry.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: CONOLLY, Edward",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/13058/conolly-edward-barry/",
+  "subject": "CONOLLY, Edward",
+  "birth_year": 1808,
+  "death_year": 1840
+ },
+ "model": "gemini-flash-latest"
+}

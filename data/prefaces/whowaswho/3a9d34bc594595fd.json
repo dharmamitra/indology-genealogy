@@ -1,0 +1,59 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "John Robson",
+   "birth_year": 1836,
+   "death_year": 1908,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "ROBSON, John",
+   "birth_year": 1836,
+   "death_year": 1908
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Robson",
+   "type": "position_at",
+   "object": "United Presbyterian Missionary",
+   "role": "Missionary",
+   "place": "Ajmer",
+   "year_start": 1861,
+   "year_end": 1872,
+   "explicit": true,
+   "evidence": "United Presbyterian Missionary in Ajmer in 1861-72",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Robson",
+   "type": "position_at",
+   "object": "St.Nicholas’ Union Church",
+   "role": "Minister",
+   "place": "Aberdeen",
+   "year_start": 1876,
+   "year_end": 1898,
+   "explicit": true,
+   "evidence": "from 1876 Minister of St.Nicholas’ Union Church there, retired from active service in 1898",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ROBSON, John",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/20287-robson-john.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ROBSON, John",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/20287/robson-john/",
+  "subject": "ROBSON, John",
+  "birth_year": 1836,
+  "death_year": 1908
+ },
+ "model": "gemini-flash-latest"
+}

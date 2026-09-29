@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Zdeněk Materna",
+   "birth_year": 1900,
+   "death_year": 1944,
+   "nationality": "Czech",
+   "field": "Indology"
+  },
+  {
+   "name": "Zybatý",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "MATERNA, Zdeněk",
+   "birth_year": 1900,
+   "death_year": 1944
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Zdeněk Materna",
+   "type": "studied_at",
+   "object": "Charles University, Prague",
+   "role": "Ph.D.",
+   "place": "Prague",
+   "year_start": 1920,
+   "year_end": 1925,
+   "explicit": true,
+   "evidence": "studies from 1920 at Prague. Ph.D. 1925 Charles University, Prague",
+   "quote_ok": true
+  },
+  {
+   "subject": "Zdeněk Materna",
+   "type": "student_of",
+   "object": "Zybatý",
+   "role": "doctoral supervisor",
+   "place": "Prague",
+   "year_start": null,
+   "year_end": 1925,
+   "explicit": true,
+   "evidence": "Ph.D. 1925 Charles University, Prague (under Zybatý).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Zdeněk Materna",
+   "type": "position_at",
+   "object": "Gymnasium",
+   "role": "Gymnasium Professor",
+   "place": "Ostrava (Moravia)",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Then Gymnasium Professor in Ostrava (Moravia).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MATERNA, Zdeněk",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/6797-materna-zdenek.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MATERNA, Zdeněk",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/6797/materna-zdenek/",
+  "subject": "MATERNA, Zdeněk",
+  "birth_year": 1900,
+  "death_year": 1944
+ },
+ "model": "gemini-flash-latest"
+}

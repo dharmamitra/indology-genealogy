@@ -1,0 +1,119 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Johann Albert von Regel",
+   "birth_year": 1845,
+   "death_year": 1908,
+   "nationality": "Swiss",
+   "field": "Physician, Botanist and Exporer"
+  },
+  {
+   "name": "Eduard Regel",
+   "birth_year": 1815,
+   "death_year": 1892,
+   "nationality": "Russian",
+   "field": "garden architect and botanist"
+  },
+  {
+   "name": "REGEL, Albert (von) – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1815,
+   "death_year": 1892
+  },
+  {
+   "name": "REGEL, Albert (von)",
+   "birth_year": 1845,
+   "death_year": 1908
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johann Albert von Regel",
+   "type": "other",
+   "object": "Eduard Regel",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of Eduard Regel (1815–1892, 1873 Russian title of nobility), a garden architect and botanist",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Albert von Regel",
+   "type": "studied_at",
+   "object": "St.Petersburg",
+   "role": "medicine",
+   "place": "St.Petersburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied medicine at St.Petersburg, Göttingen, Vienna and Dorpat (Tartu).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Albert von Regel",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": "medicine",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied medicine at St.Petersburg, Göttingen, Vienna and Dorpat (Tartu).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Albert von Regel",
+   "type": "studied_at",
+   "object": "Vienna",
+   "role": "medicine",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied medicine at St.Petersburg, Göttingen, Vienna and Dorpat (Tartu).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Albert von Regel",
+   "type": "studied_at",
+   "object": "Dorpat (Tartu)",
+   "role": "medicine",
+   "place": "Dorpat (Tartu)",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied medicine at St.Petersburg, Göttingen, Vienna and Dorpat (Tartu).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Albert von Regel",
+   "type": "position_at",
+   "object": "Kuldja",
+   "role": "district physician",
+   "place": "Kuldja",
+   "year_start": 1875,
+   "year_end": 1881,
+   "explicit": true,
+   "evidence": "From 1875 district physician in Kuldja, then part of Russian Turkestan until 1881",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: REGEL, Albert (von)",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/20029-regel-johann-albert.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: REGEL, Albert (von)",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/20029/regel-johann-albert/",
+  "subject": "REGEL, Albert (von)",
+  "birth_year": 1845,
+  "death_year": 1908
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,59 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Zubatý",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "KAMARYT, František",
+   "birth_year": 1876,
+   "death_year": 1946
+  }
+ ],
+ "relations": [
+  {
+   "subject": "KAMARYT, František",
+   "type": "studied_at",
+   "object": "Charles University in Prague",
+   "role": "Ph.D.",
+   "place": "Prague",
+   "year_start": null,
+   "year_end": 1917,
+   "explicit": true,
+   "evidence": "Studies at Charles University in Prague under Zubatý, Ph.D. there 1916/17.",
+   "quote_ok": true
+  },
+  {
+   "subject": "KAMARYT, František",
+   "type": "student_of",
+   "object": "Zubatý",
+   "role": "teacher",
+   "place": "Prague",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Charles University in Prague under Zubatý",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: KAMARYT, František",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3383-kamaryt-frantisek.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: KAMARYT, František",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3383/kamaryt-frantisek/",
+  "subject": "KAMARYT, František",
+  "birth_year": 1876,
+  "death_year": 1946
+ },
+ "model": "gemini-flash-latest"
+}

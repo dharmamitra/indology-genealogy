@@ -1,0 +1,92 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Vincent Tregear",
+   "birth_year": 1787,
+   "death_year": 1851,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "A. Cunningham",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Vincent Tregear, Jr.",
+   "birth_year": 1809,
+   "death_year": 1857,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Alexander Cunningham",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "TREGEAR, Vincent",
+   "birth_year": 1787,
+   "death_year": 1851
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Vincent Tregear, Jr.",
+   "type": "position_at",
+   "object": "Bareilly College",
+   "role": "Principal",
+   "place": "Bareilly",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Another possibility would be his son, Vincent Tregear (England 4.4.1809 — Meerut 10.5.1857) who also served in India (as did some other descendants of the first V. Tregear) and was Principal of Bareilly College",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vincent Tregear, Jr.",
+   "type": "other",
+   "object": "Vincent Tregear",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Another possibility would be his son, Vincent Tregear (England 4.4.1809 — Meerut 10.5.1857)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vincent Tregear, Jr.",
+   "type": "other",
+   "object": "Alexander Cunningham",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "V. A. Smith in JASB 58:1, 1889, 87 mentions him as a friend of Alexander Cunningham",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: TREGEAR, Vincent",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5052-tregear-vincent.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: TREGEAR, Vincent",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5052/tregear-vincent/",
+  "subject": "TREGEAR, Vincent",
+  "birth_year": 1787,
+  "death_year": 1851
+ },
+ "model": "gemini-flash-latest"
+}

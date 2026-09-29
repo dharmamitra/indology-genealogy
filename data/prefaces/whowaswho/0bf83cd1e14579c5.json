@@ -1,0 +1,64 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "James Stark(e)",
+   "birth_year": 1798,
+   "death_year": 1879,
+   "nationality": "British",
+   "field": "Lawyer"
+  },
+  {
+   "name": "STARK(E), J. (James?) – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1838,
+   "death_year": 1849
+  },
+  {
+   "name": "STARK(E), J. (James?)",
+   "birth_year": 1798,
+   "death_year": 1879
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Stark(e)",
+   "type": "position_at",
+   "object": "Supreme Court in Colombo",
+   "role": "Puisne Justice",
+   "place": "Colombo",
+   "year_start": 1840,
+   "year_end": 1849,
+   "explicit": true,
+   "evidence": "Queen’s Advocate in Ceylon 1838-40, then Puisne Justice of Supreme Court in Colombo (still 1849)",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Stark(e)",
+   "type": "position_at",
+   "object": "Ceylon Branch of R.A.S.",
+   "role": "President",
+   "place": "Ceylon",
+   "year_start": 1845,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1845 the first President of the Ceylon Branch of R.A.S.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: STARK(E), J. (James?)",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/21789-starke-john-james.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: STARK(E), J. (James?)",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/21789/starke-john-james/",
+  "subject": "STARK(E), J. (James?)",
+  "birth_year": 1798,
+  "death_year": 1879
+ },
+ "model": "gemini-flash-latest"
+}

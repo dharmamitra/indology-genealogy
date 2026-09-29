@@ -1,0 +1,154 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Richard Fritzsche",
+   "birth_year": 1851,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indologist"
+  },
+  {
+   "name": "Ritschl",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "classics"
+  },
+  {
+   "name": "Curtius",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "classics"
+  },
+  {
+   "name": "Brockhaus",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Grassmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Richard Fritzsche",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": "classics",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studies of classics at Leipzig (Ritschl, Curtius)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Fritzsche",
+   "type": "student_of",
+   "object": "Ritschl",
+   "role": "teacher",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studies of classics at Leipzig (Ritschl, Curtius)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Fritzsche",
+   "type": "student_of",
+   "object": "Curtius",
+   "role": "teacher",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studies of classics at Leipzig (Ritschl, Curtius)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Fritzsche",
+   "type": "student_of",
+   "object": "Brockhaus",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "also Indology under Brockhaus",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Fritzsche",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": "Ph.D.",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": 1873,
+   "explicit": true,
+   "evidence": "Ph.D. 1873 Leipzig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Fritzsche",
+   "type": "position_at",
+   "object": "Gymnasium of Chemnitz",
+   "role": "Teacher",
+   "place": "Chemnitz",
+   "year_start": 1876,
+   "year_end": 1888,
+   "explicit": true,
+   "evidence": "Teacher at Gymnasium of Chemnitz 1876-88",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Fritzsche",
+   "type": "position_at",
+   "object": "Gymnasium of Schneeberg",
+   "role": "principal",
+   "place": "Schneeberg",
+   "year_start": 1888,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then principal of Gymnasium of Schneeberg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Fritzsche",
+   "type": "collaborated_with",
+   "object": "Grassmann",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "read the proofs of Grassmann’s Rigvedic dictionary.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: FRITZSCHE, Richard",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2109-fritzsche-richard.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: FRITZSCHE, Richard",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2109/fritzsche-richard/",
+  "subject": "FRITZSCHE, Richard",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

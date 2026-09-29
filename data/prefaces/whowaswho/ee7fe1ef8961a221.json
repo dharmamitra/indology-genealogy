@@ -1,0 +1,73 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Willy Zinkgräf",
+   "birth_year": 1903,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Walleser",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Willy Zinkgräf",
+   "type": "student_of",
+   "object": "Walleser",
+   "role": "teacher",
+   "place": "Heidelberg",
+   "year_start": 1922,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Student of Walleser at Heidelberg as early as 1922",
+   "quote_ok": true
+  },
+  {
+   "subject": "Willy Zinkgräf",
+   "type": "studied_at",
+   "object": "Heidelberg",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": 1922,
+   "year_end": 1939,
+   "explicit": true,
+   "evidence": "Student of Walleser at Heidelberg as early as 1922, also studied Germanistics. In the 1930s worked at Walleser’s institute. Ph.D. 1939 Heidelberg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Willy Zinkgräf",
+   "type": "position_at",
+   "object": "Walleser’s institute",
+   "role": null,
+   "place": null,
+   "year_start": 1930,
+   "year_end": 1939,
+   "explicit": true,
+   "evidence": "In the 1930s worked at Walleser’s institute.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ZINKGRÄF, Willy",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/23809-zinkgraf-willy.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ZINKGRÄF, Willy",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/23809/zinkgraf-willy/",
+  "subject": "ZINKGRÄF, Willy",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

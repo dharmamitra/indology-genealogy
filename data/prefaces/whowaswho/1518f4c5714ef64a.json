@@ -1,0 +1,80 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Dieuke Gaastra",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Dutch",
+   "field": "Indology"
+  },
+  {
+   "name": "Gallée",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Caland",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Dieuke Gaastra",
+   "type": "student_of",
+   "object": "Gallée",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Student of Gallée and Caland.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dieuke Gaastra",
+   "type": "student_of",
+   "object": "Caland",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Student of Gallée and Caland.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dieuke Gaastra",
+   "type": "studied_at",
+   "object": "Utrecht",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 1906,
+   "explicit": true,
+   "evidence": "Ph.D. 1906 Utrecht.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GAASTRA, Dieuke",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2139-gaastra-dieuke.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GAASTRA, Dieuke",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2139/gaastra-dieuke/",
+  "subject": "GAASTRA, Dieuke",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

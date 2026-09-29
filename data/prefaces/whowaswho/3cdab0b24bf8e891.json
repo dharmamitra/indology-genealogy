@@ -1,0 +1,88 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "John Peter Jones",
+   "birth_year": 1847,
+   "death_year": 1916,
+   "nationality": "American",
+   "field": null
+  },
+  {
+   "name": "JONES, John P. – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1808,
+   "death_year": 1865
+  },
+  {
+   "name": "JONES, John P",
+   "birth_year": 1847,
+   "death_year": 1916
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Peter Jones",
+   "type": "studied_at",
+   "object": "Western Reserve College",
+   "role": null,
+   "place": "Ohio",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "graduated from Western Reserve College (later University) in Ohio",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Peter Jones",
+   "type": "studied_at",
+   "object": "Andover Theological Seminary",
+   "role": "M.A.",
+   "place": "Massachusetts",
+   "year_start": null,
+   "year_end": 1875,
+   "explicit": true,
+   "evidence": "then studies at Andover Theological Seminary in Massachusetts. M.A. 1875.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Peter Jones",
+   "type": "position_at",
+   "object": "theological school in Pasumalai",
+   "role": "Principal",
+   "place": "Pasumalai",
+   "year_start": 1892,
+   "year_end": 1914,
+   "explicit": true,
+   "evidence": "In 1892-1914 Principal of theological school in Pasumalai",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Peter Jones",
+   "type": "position_at",
+   "object": "Kennedy School of Missions",
+   "role": "Professor of Indian Missions",
+   "place": "Hartford, Conn.",
+   "year_start": 1914,
+   "year_end": 1916,
+   "explicit": true,
+   "evidence": "From 1914 until death Professor of Indian Missions at Kennedy School of Missions in Hartford, Conn.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: JONES, John P",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/15956-jones-john-peter.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: JONES, John P",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/15956/jones-john-peter/",
+  "subject": "JONES, John P",
+  "birth_year": 1847,
+  "death_year": 1916
+ },
+ "model": "gemini-flash-latest"
+}

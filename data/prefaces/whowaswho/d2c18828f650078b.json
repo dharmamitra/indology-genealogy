@@ -1,0 +1,90 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Thomas Maurice",
+   "birth_year": 1754,
+   "death_year": 1824,
+   "nationality": "British",
+   "field": "Oriental Scholar"
+  },
+  {
+   "name": "Jones",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "MAURICE, Thomas",
+   "birth_year": 1754,
+   "death_year": 1824
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Thomas Maurice",
+   "type": "studied_at",
+   "object": "Oxford",
+   "role": "B.A.",
+   "place": null,
+   "year_start": 1774,
+   "year_end": 1778,
+   "explicit": true,
+   "evidence": "Educated at Christ’s Hospital, Ealing and Bath, and at St. John’s and University Colleges, Oxford, 1774-78 [B.A. 1778]",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Maurice",
+   "type": "position_at",
+   "object": "British Museum",
+   "role": "Assistant-Keeper of Manuscripts",
+   "place": null,
+   "year_start": 1798,
+   "year_end": 1824,
+   "explicit": true,
+   "evidence": "Assistant-Keeper of Manuscripts in the British Museum [1798–1824], where he died.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Maurice",
+   "type": "studied_at",
+   "object": "Oxford",
+   "role": "M.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1808,
+   "explicit": true,
+   "evidence": "M.A. 1808 Oxford.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Maurice",
+   "type": "influenced_by",
+   "object": "Jones",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He draw much of his material from Jones.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MAURICE, Thomas",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/6806-maurice-thomas-2.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MAURICE, Thomas",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/6806/maurice-thomas-2/",
+  "subject": "MAURICE, Thomas",
+  "birth_year": 1754,
+  "death_year": 1824
+ },
+ "model": "gemini-flash-latest"
+}

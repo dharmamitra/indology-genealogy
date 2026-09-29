@@ -1,0 +1,102 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Otto Wecker",
+   "birth_year": 1882,
+   "death_year": 1965,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Garbe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "WECKER, Otto",
+   "birth_year": 1882,
+   "death_year": 1965
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Otto Wecker",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies of philology at Berlin and Münster",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Wecker",
+   "type": "studied_at",
+   "object": "Münster",
+   "role": null,
+   "place": "Münster",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies of philology at Berlin and Münster",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Wecker",
+   "type": "student_of",
+   "object": "Garbe",
+   "role": "teacher",
+   "place": "Tübingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then student of Garbe at Tübingen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Wecker",
+   "type": "studied_at",
+   "object": "Tübingen",
+   "role": "PhD",
+   "place": "Tübingen",
+   "year_start": null,
+   "year_end": 1905,
+   "explicit": true,
+   "evidence": "then student of Garbe at Tübingen. Ph.D. 1905 Tübingen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Wecker",
+   "type": "position_at",
+   "object": "Göttingen University",
+   "role": "teacher",
+   "place": "Göttingen",
+   "year_start": 1947,
+   "year_end": 1953,
+   "explicit": true,
+   "evidence": "In 1947-53 also taught Latin at Göttingen University.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: WECKER, Otto",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5406-wecker-otto.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: WECKER, Otto",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5406/wecker-otto/",
+  "subject": "WECKER, Otto",
+  "birth_year": 1882,
+  "death_year": 1965
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,66 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Nicolas Michel Krick",
+   "birth_year": 1819,
+   "death_year": 1854,
+   "nationality": "French",
+   "field": null
+  },
+  {
+   "name": "Foucaux",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Tibetan"
+  },
+  {
+   "name": "KRICK, Nicolas",
+   "birth_year": 1819,
+   "death_year": 1854
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Nicolas Michel Krick",
+   "type": "studied_at",
+   "object": "seminary of Nancy",
+   "role": null,
+   "place": "Nancy",
+   "year_start": 1839,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1839 studies at the seminary of Nancy, ordained priest 1844",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nicolas Michel Krick",
+   "type": "student_of",
+   "object": "Foucaux",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Before this he had learned the elements of Tibetan from Foucaux.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: KRICK, Nicolas",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/16506-krick-nicolas-michel.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: KRICK, Nicolas",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/16506/krick-nicolas-michel/",
+  "subject": "KRICK, Nicolas",
+  "birth_year": 1819,
+  "death_year": 1854
+ },
+ "model": "gemini-flash-latest"
+}

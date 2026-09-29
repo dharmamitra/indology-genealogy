@@ -1,0 +1,59 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "František Kořínek",
+   "birth_year": 1899,
+   "death_year": null,
+   "nationality": "Czech",
+   "field": "Linguist"
+  },
+  {
+   "name": "KOŘÍNEK, František",
+   "birth_year": 1899,
+   "death_year": 1935
+  }
+ ],
+ "relations": [
+  {
+   "subject": "František Kořínek",
+   "type": "studied_at",
+   "object": "Prague",
+   "role": "Ph.D.",
+   "place": "Prague",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ph.D. Prague.",
+   "quote_ok": true
+  },
+  {
+   "subject": "František Kořínek",
+   "type": "position_at",
+   "object": "Bratislava",
+   "role": "PD of Comparative Linguistics",
+   "place": "Bratislava",
+   "year_start": 1935,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1935 PD of Comparative Linguistics at Bratislava.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: KOŘÍNEK, František",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/16416-korinek-frantisek.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: KOŘÍNEK, František",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/16416/korinek-frantisek/",
+  "subject": "KOŘÍNEK, František",
+  "birth_year": 1899,
+  "death_year": 1935
+ },
+ "model": "gemini-flash-latest"
+}

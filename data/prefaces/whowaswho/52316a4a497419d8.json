@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "George Burnham Beaman",
+   "birth_year": 1870,
+   "death_year": 1942,
+   "nationality": "United States",
+   "field": "Indology"
+  },
+  {
+   "name": "Windisch",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BEAMAN, George Burnham – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1811,
+   "death_year": 1908
+  },
+  {
+   "name": "BEAMAN, George Burnham",
+   "birth_year": 1870,
+   "death_year": 1942
+  }
+ ],
+ "relations": [
+  {
+   "subject": "George Burnham Beaman",
+   "type": "studied_at",
+   "object": "University of Cincinnati",
+   "role": "B.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "studies at University of Cincinnati (B.A. 1893)",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Burnham Beaman",
+   "type": "studied_at",
+   "object": "Jena",
+   "role": null,
+   "place": null,
+   "year_start": 1893,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In August 1893 left for Europe, studied first at Jena",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Burnham Beaman",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": 1894,
+   "year_end": 1895,
+   "explicit": true,
+   "evidence": "from 1894 at Leipzig (under Windisch). Ph.D. 1895 Leipzig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Burnham Beaman",
+   "type": "student_of",
+   "object": "Windisch",
+   "role": "teacher",
+   "place": "Leipzig",
+   "year_start": 1894,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1894 at Leipzig (under Windisch)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BEAMAN, George Burnham",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/611-beaman-george-burnham.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BEAMAN, George Burnham",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/611/beaman-george-burnham/",
+  "subject": "BEAMAN, George Burnham",
+  "birth_year": 1870,
+  "death_year": 1942
+ },
+ "model": "gemini-flash-latest"
+}

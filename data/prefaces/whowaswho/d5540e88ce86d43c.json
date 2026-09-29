@@ -1,0 +1,157 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Hermann Ammann",
+   "birth_year": 1885,
+   "death_year": 1956,
+   "nationality": "German",
+   "field": "IE Linguist"
+  },
+  {
+   "name": "Thurneysen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Walde",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "AMMANN, Hermann",
+   "birth_year": 1885,
+   "death_year": 1956
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hermann Ammann",
+   "type": "studied_at",
+   "object": "Freiburg",
+   "role": null,
+   "place": null,
+   "year_start": 1903,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1903 studies at Freiburg (Thurneysen)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Ammann",
+   "type": "student_of",
+   "object": "Thurneysen",
+   "role": "teacher",
+   "place": "Freiburg",
+   "year_start": 1903,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1903 studies at Freiburg (Thurneysen)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Ammann",
+   "type": "studied_at",
+   "object": "Heidelberg",
+   "role": null,
+   "place": null,
+   "year_start": 1905,
+   "year_end": 1906,
+   "explicit": true,
+   "evidence": "and 1905-06 Heidelberg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Ammann",
+   "type": "studied_at",
+   "object": "Freiburg",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "Ph.D. 1910 Freiburg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Ammann",
+   "type": "position_at",
+   "object": "Thesaurus linguae Latinae",
+   "role": "Assistant",
+   "place": "Munich",
+   "year_start": 1911,
+   "year_end": 1913,
+   "explicit": true,
+   "evidence": "In 1911-13 Assistant of Thesaurus linguae Latinae in Munich.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Ammann",
+   "type": "studied_at",
+   "object": "Freiburg i. Br.",
+   "role": "PD",
+   "place": null,
+   "year_start": null,
+   "year_end": 1920,
+   "explicit": true,
+   "evidence": "PD 1920 Freiburg i. Br.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Ammann",
+   "type": "position_at",
+   "object": "Freiburg",
+   "role": "nebenbeamt. ao. Professor",
+   "place": null,
+   "year_start": 1926,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1926 nebenbeamt. ao. Professor at Freiburg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Ammann",
+   "type": "position_at",
+   "object": "Innsbruck",
+   "role": "ord. Professor der idg. und allgem. Sprachwissenschaft",
+   "place": "Innsbruck",
+   "year_start": 1928,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1928 ord. Professor der idg. und allgem. Sprachwissenschaft at Innsbruck (succeeding Walde).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hermann Ammann",
+   "type": "succeeded",
+   "object": "Walde",
+   "role": null,
+   "place": "Innsbruck",
+   "year_start": 1928,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1928 ord. Professor der idg. und allgem. Sprachwissenschaft at Innsbruck (succeeding Walde).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: AMMANN, Hermann",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/241-ammann-hermann.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: AMMANN, Hermann",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/241/ammann-hermann/",
+  "subject": "AMMANN, Hermann",
+  "birth_year": 1885,
+  "death_year": 1956
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,186 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Eugène Burnouf",
+   "birth_year": 1801,
+   "death_year": 1852,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ad. Regnier",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Chézy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BURNOUF, Jean-Louis – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1801,
+   "death_year": 1852
+  },
+  {
+   "name": "BURNOUF, Jean-Louis",
+   "birth_year": 1775,
+   "death_year": 1844
+  }
+ ],
+ "relations": [
+  {
+   "subject": "BURNOUF, Jean-Louis",
+   "type": "other",
+   "object": "Eugène Burnouf",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Father of —> Eugène Burnouf (1801–1852)",
+   "quote_ok": true
+  },
+  {
+   "subject": "BURNOUF, Jean-Louis",
+   "type": "studied_at",
+   "object": "collège of Harcourt",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1793,
+   "explicit": true,
+   "evidence": "In 1793 matriculated from the collège of Harcourt",
+   "quote_ok": true
+  },
+  {
+   "subject": "BURNOUF, Jean-Louis",
+   "type": "position_at",
+   "object": "Lycée Charlemagne",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1808,
+   "year_end": 1810,
+   "explicit": true,
+   "evidence": "From 1808 teacher at Lycée Charlemagne",
+   "quote_ok": true
+  },
+  {
+   "subject": "BURNOUF, Jean-Louis",
+   "type": "position_at",
+   "object": "Lycée Charlemagne",
+   "role": "professeur de rhétorique",
+   "place": null,
+   "year_start": 1810,
+   "year_end": 1826,
+   "explicit": true,
+   "evidence": "1810-26 professeur de rhétorique there",
+   "quote_ok": true
+  },
+  {
+   "subject": "BURNOUF, Jean-Louis",
+   "type": "position_at",
+   "object": "École normale supérieure",
+   "role": "maître de conferences",
+   "place": null,
+   "year_start": 1811,
+   "year_end": 1822,
+   "explicit": true,
+   "evidence": "In 1811-22 maître de conferences in the newly founded École normale supérieure.",
+   "quote_ok": true
+  },
+  {
+   "subject": "BURNOUF, Jean-Louis",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "professeur de l’éloquence latine",
+   "place": null,
+   "year_start": 1817,
+   "year_end": 1844,
+   "explicit": true,
+   "evidence": "From 1817 professeur de l’éloquence latine at Collège de France, until 1844",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ad. Regnier",
+   "type": "succeeded",
+   "object": "BURNOUF, Jean-Louis",
+   "role": null,
+   "place": "Collège de France",
+   "year_start": 1844,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "until 1844 (succeeded by —> Ad. Regnier)",
+   "quote_ok": true
+  },
+  {
+   "subject": "BURNOUF, Jean-Louis",
+   "type": "student_of",
+   "object": "Chézy",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "attended, together with his son, Chézy’s lectures",
+   "quote_ok": true
+  },
+  {
+   "subject": "Eugène Burnouf",
+   "type": "student_of",
+   "object": "Chézy",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "attended, together with his son, Chézy’s lectures",
+   "quote_ok": true
+  },
+  {
+   "subject": "BURNOUF, Jean-Louis",
+   "type": "position_at",
+   "object": "l’académie de Paris",
+   "role": "inspecteur général des études",
+   "place": null,
+   "year_start": 1826,
+   "year_end": 1840,
+   "explicit": true,
+   "evidence": "From 1826-40 inspecteur général des études de l’académie de Paris.",
+   "quote_ok": true
+  },
+  {
+   "subject": "BURNOUF, Jean-Louis",
+   "type": "position_at",
+   "object": "l’université",
+   "role": "bibliothécaire en chef",
+   "place": null,
+   "year_start": 1840,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1840 bibliothécaire en chef de l’université.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BURNOUF, Jean-Louis",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1080-burnouf-jean-louis.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BURNOUF, Jean-Louis",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1080/burnouf-jean-louis/",
+  "subject": "BURNOUF, Jean-Louis",
+  "birth_year": 1775,
+  "death_year": 1844
+ },
+ "model": "gemini-flash-latest"
+}

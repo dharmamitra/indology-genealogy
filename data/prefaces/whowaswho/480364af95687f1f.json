@@ -1,0 +1,114 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Henry Baily Wade Garrick",
+   "birth_year": 1861,
+   "death_year": 1922,
+   "nationality": "British",
+   "field": "Archaeologist"
+  },
+  {
+   "name": "Cunningham",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Beglar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "GARRICK, H. B. W. – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1880,
+   "death_year": 1891
+  },
+  {
+   "name": "GARRICK, H. B. W",
+   "birth_year": 1861,
+   "death_year": 1922
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Henry Baily Wade Garrick",
+   "type": "studied_at",
+   "object": "South Kensington School of Art",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Attended South Kensington School of Art.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Baily Wade Garrick",
+   "type": "position_at",
+   "object": "A.S.I.",
+   "role": "Assistant of Cunningham",
+   "place": null,
+   "year_start": 1880,
+   "year_end": 1890,
+   "explicit": true,
+   "evidence": "Assistant of Cunningham in the A.S.I. from 1880-90 (successor of Beglar)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Baily Wade Garrick",
+   "type": "collaborated_with",
+   "object": "Cunningham",
+   "role": "Assistant",
+   "place": null,
+   "year_start": 1880,
+   "year_end": 1890,
+   "explicit": true,
+   "evidence": "Assistant of Cunningham in the A.S.I. from 1880-90",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Baily Wade Garrick",
+   "type": "succeeded",
+   "object": "Beglar",
+   "role": "Assistant of Cunningham",
+   "place": "A.S.I.",
+   "year_start": 1880,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Assistant of Cunningham in the A.S.I. from 1880-90 (successor of Beglar)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Baily Wade Garrick",
+   "type": "position_at",
+   "object": "Geological Survey of India",
+   "role": "artist",
+   "place": null,
+   "year_start": 1891,
+   "year_end": 1911,
+   "explicit": true,
+   "evidence": "1891-1911 in Geological Survey of India as artist.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GARRICK, H. B. W",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2183-garrick-henry-baily-wade.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GARRICK, H. B. W",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2183/garrick-henry-baily-wade/",
+  "subject": "GARRICK, H. B. W",
+  "birth_year": 1861,
+  "death_year": 1922
+ },
+ "model": "gemini-flash-latest"
+}

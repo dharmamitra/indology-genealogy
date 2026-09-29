@@ -1,0 +1,66 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2018,
+ "people": [
+  {
+   "name": "SCHÄFFER, Philipp Nikolai Woldemar",
+   "birth_year": 1894,
+   "death_year": 1943,
+   "nationality": "German",
+   "field": "Indology, Sinology"
+  },
+  {
+   "name": "Walleser",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "SCHÄFFER, Philipp",
+   "birth_year": 1894,
+   "death_year": 1943
+  }
+ ],
+ "relations": [
+  {
+   "subject": "SCHÄFFER, Philipp Nikolai Woldemar",
+   "type": "studied_at",
+   "object": "Heidelberg",
+   "role": "Ph.D.",
+   "place": "Heidelberg",
+   "year_start": 1920,
+   "year_end": 1924,
+   "explicit": true,
+   "evidence": "From 1920 studied Indology, Tibetan and Sinology at Heidelberg. Ph.D. 1924 Heidelberg (under Walleser).",
+   "quote_ok": true
+  },
+  {
+   "subject": "SCHÄFFER, Philipp Nikolai Woldemar",
+   "type": "student_of",
+   "object": "Walleser",
+   "role": "doctoral supervisor",
+   "place": "Heidelberg",
+   "year_start": null,
+   "year_end": 1924,
+   "explicit": true,
+   "evidence": "Ph.D. 1924 Heidelberg (under Walleser).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SCHÄFFER, Philipp",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/9896-schaeffer-philipp.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SCHÄFFER, Philipp",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/9896/schaeffer-philipp/",
+  "subject": "SCHÄFFER, Philipp",
+  "birth_year": 1894,
+  "death_year": 1943
+ },
+ "model": "gemini-flash-latest"
+}

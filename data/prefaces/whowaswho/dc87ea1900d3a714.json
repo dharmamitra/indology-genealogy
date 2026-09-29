@@ -1,0 +1,140 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2022,
+ "people": [
+  {
+   "name": "Bernd Barschel",
+   "birth_year": 1937,
+   "death_year": 1990,
+   "nationality": "German (East)",
+   "field": "Indologist"
+  },
+  {
+   "name": "Ammer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Mehlig",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hauschild",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BARSCHEL, Bernd",
+   "birth_year": 1937,
+   "death_year": 1990
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Bernd Barschel",
+   "type": "studied_at",
+   "object": "Halle",
+   "role": null,
+   "place": null,
+   "year_start": 1955,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1955 studies at Halle, first theology, but soon linguistics and Indology (Ammer and Mehlig)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bernd Barschel",
+   "type": "student_of",
+   "object": "Ammer",
+   "role": "teacher",
+   "place": "Halle",
+   "year_start": 1955,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1955 studies at Halle, first theology, but soon linguistics and Indology (Ammer and Mehlig)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bernd Barschel",
+   "type": "student_of",
+   "object": "Mehlig",
+   "role": "teacher",
+   "place": "Halle",
+   "year_start": 1955,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1955 studies at Halle, first theology, but soon linguistics and Indology (Ammer and Mehlig)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bernd Barschel",
+   "type": "position_at",
+   "object": "Halle",
+   "role": "Assistant",
+   "place": null,
+   "year_start": 1960,
+   "year_end": 1970,
+   "explicit": true,
+   "evidence": "From 1960 Assistant at Halle, 1970 moved to Jena.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bernd Barschel",
+   "type": "studied_at",
+   "object": "Jena",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1976,
+   "explicit": true,
+   "evidence": "Ph.D. 1976 Jena.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bernd Barschel",
+   "type": "position_at",
+   "object": "Jena University",
+   "role": "Lektor",
+   "place": null,
+   "year_start": 1977,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1977 Lektor at Jena University, at Sektion Sprachwissenschaft.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hauschild",
+   "type": "position_at",
+   "object": "Jena",
+   "role": "chair",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "where the chair had been discontinued after Hauschild",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BARSCHEL, Bernd",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/25151-barschel-bernd.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BARSCHEL, Bernd",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/25151/barschel-bernd/",
+  "subject": "BARSCHEL, Bernd",
+  "birth_year": 1937,
+  "death_year": 1990
+ },
+ "model": "gemini-flash-latest"
+}

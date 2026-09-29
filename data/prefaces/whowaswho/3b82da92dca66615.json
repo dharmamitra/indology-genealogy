@@ -1,0 +1,121 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Edmund Kleinhans",
+   "birth_year": 1870,
+   "death_year": 1934,
+   "nationality": "Austrian",
+   "field": "IE Linguist"
+  },
+  {
+   "name": "Fr. Stolz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Brugmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "H. Pedersen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "KLEINHANS, Edmund – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1848,
+   "death_year": 1874
+  },
+  {
+   "name": "KLEINHANS, Edmund",
+   "birth_year": 1870,
+   "death_year": 1934
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Edmund Kleinhans",
+   "type": "studied_at",
+   "object": "Innsbruck",
+   "role": null,
+   "place": "Innsbruck",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Innsbruck (Fr. Stolz)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edmund Kleinhans",
+   "type": "student_of",
+   "object": "Fr. Stolz",
+   "role": "teacher",
+   "place": "Innsbruck",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Innsbruck (Fr. Stolz)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edmund Kleinhans",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": 1892,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "and 1892-93 at Leipzig (Brugmann).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edmund Kleinhans",
+   "type": "student_of",
+   "object": "Brugmann",
+   "role": "teacher",
+   "place": "Leipzig",
+   "year_start": 1892,
+   "year_end": 1893,
+   "explicit": true,
+   "evidence": "and 1892-93 at Leipzig (Brugmann).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edmund Kleinhans",
+   "type": "other",
+   "object": "H. Pedersen",
+   "role": "friend",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a friend of H. Pedersen (from their study time in Leipzig)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: KLEINHANS, Edmund",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3516-kleinhans-edmund.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: KLEINHANS, Edmund",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3516/kleinhans-edmund/",
+  "subject": "KLEINHANS, Edmund",
+  "birth_year": 1870,
+  "death_year": 1934
+ },
+ "model": "gemini-flash-latest"
+}

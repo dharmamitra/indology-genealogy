@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2018,
+ "people": [
+  {
+   "name": "Henry Thomas Rogers",
+   "birth_year": 1830,
+   "death_year": 1898,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Max Müller",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ROGERS, Thomas",
+   "birth_year": 1830,
+   "death_year": 1898
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Henry Thomas Rogers",
+   "type": "studied_at",
+   "object": "Addiscombe",
+   "role": null,
+   "place": null,
+   "year_start": 1848,
+   "year_end": 1849,
+   "explicit": true,
+   "evidence": "In 1848-49 at Addiscombe",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Thomas Rogers",
+   "type": "position_at",
+   "object": "Madras Civil Engineering College",
+   "role": "Principal",
+   "place": "Fort St. George",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Finally Principal of Madras Civil Engineering College at Fort St. George.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Thomas Rogers",
+   "type": "collaborated_with",
+   "object": "Max Müller",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Collaborated with Max Müller",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ROGERS, Thomas",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/9612-rogers-henry-thomas.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ROGERS, Thomas",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/9612/rogers-henry-thomas/",
+  "subject": "ROGERS, Thomas",
+  "birth_year": 1830,
+  "death_year": 1898
+ },
+ "model": "gemini-flash-latest"
+}

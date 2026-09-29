@@ -1,0 +1,102 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Lilias Homburger",
+   "birth_year": 1880,
+   "death_year": 1969,
+   "nationality": "French",
+   "field": "Linguist"
+  },
+  {
+   "name": "Meillet",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "linguistics"
+  },
+  {
+   "name": "L. S. Senghor",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "HOMBURGER, Lilias – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1880,
+   "death_year": 1969
+  },
+  {
+   "name": "HOMBURGER, Lilias",
+   "birth_year": 1880,
+   "death_year": 1969
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Lilias Homburger",
+   "type": "student_of",
+   "object": "Meillet",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied linguistics (Meillet), Dravidian and African languages.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lilias Homburger",
+   "type": "position_at",
+   "object": "É.P.H.É.",
+   "role": "directeur d’études",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "As directeur d’études taught African linguistics at É.P.H.É.",
+   "quote_ok": true
+  },
+  {
+   "subject": "L. S. Senghor",
+   "type": "student_of",
+   "object": "Lilias Homburger",
+   "role": "student",
+   "place": "É.P.H.É.",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "L. S. Senghor was among her students there.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Lilias Homburger",
+   "type": "position_at",
+   "object": "É.L.O.V.",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Also taught Peul and Mandingo at É.L.O.V.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HOMBURGER, Lilias",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/15504-homburger-lilias.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HOMBURGER, Lilias",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/15504/homburger-lilias/",
+  "subject": "HOMBURGER, Lilias",
+  "birth_year": 1880,
+  "death_year": 1969
+ },
+ "model": "gemini-flash-latest"
+}

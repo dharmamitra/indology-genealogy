@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "George Barrow",
+   "birth_year": 1806,
+   "death_year": 1876,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Sir John Barrow",
+   "birth_year": 1764,
+   "death_year": 1848,
+   "nationality": "British",
+   "field": "geography, linguistics and history"
+  },
+  {
+   "name": "BARROW, George – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1764,
+   "death_year": 1848
+  },
+  {
+   "name": "BARROW, George",
+   "birth_year": 1806,
+   "death_year": 1876
+  }
+ ],
+ "relations": [
+  {
+   "subject": "George Barrow",
+   "type": "other",
+   "object": "Sir John Barrow",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of Sir John Barrow (1764–1848), first Bart., a geographer, linguist and historian",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Barrow",
+   "type": "studied_at",
+   "object": "Charterhouse",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at Charterhouse.",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Barrow",
+   "type": "position_at",
+   "object": "Colonial Office",
+   "role": "Clerk",
+   "place": null,
+   "year_start": 1825,
+   "year_end": 1872,
+   "explicit": true,
+   "evidence": "From 1825 Clerk at Colonial Office, Senior Clerk 1843, Chief Clerk 1870, retired 1872.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BARROW, George",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/11940-barrow.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BARROW, George",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/11940/barrow/",
+  "subject": "BARROW, George",
+  "birth_year": 1806,
+  "death_year": 1876
+ },
+ "model": "gemini-flash-latest"
+}

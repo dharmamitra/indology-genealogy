@@ -1,0 +1,178 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Dubeux, J. Louis",
+   "birth_year": 1798,
+   "death_year": 1863,
+   "nationality": "French",
+   "field": "Oriental Scholar"
+  },
+  {
+   "name": "Silvestre de Sacy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Chézy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jaubert",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Quatremère",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Renan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "DUBEUX, J. Louis",
+   "birth_year": 1798,
+   "death_year": 1863
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Dubeux, J. Louis",
+   "type": "position_at",
+   "object": "Royal Library",
+   "role": null,
+   "place": "Paris",
+   "year_start": 1816,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1816 worked in Royal Library",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dubeux, J. Louis",
+   "type": "position_at",
+   "object": "Royal Library",
+   "role": "conservateur adjoint",
+   "place": "Paris",
+   "year_start": 1835,
+   "year_end": 1848,
+   "explicit": true,
+   "evidence": "in 1835-48 as conservateur adjoint",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dubeux, J. Louis",
+   "type": "student_of",
+   "object": "Silvestre de Sacy",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Also studied languages under Silvestre de Sacy and Chézy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dubeux, J. Louis",
+   "type": "student_of",
+   "object": "Chézy",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Also studied languages under Silvestre de Sacy and Chézy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dubeux, J. Louis",
+   "type": "position_at",
+   "object": "É.L.O.V.",
+   "role": "Professor of Turkish",
+   "place": "Paris",
+   "year_start": 1848,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1848 Jaubert’s successor as the Professor of Turkish at É.L.O.V.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dubeux, J. Louis",
+   "type": "succeeded",
+   "object": "Jaubert",
+   "role": "Professor of Turkish",
+   "place": "É.L.O.V.",
+   "year_start": 1848,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1848 Jaubert’s successor as the Professor of Turkish at É.L.O.V.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dubeux, J. Louis",
+   "type": "position_at",
+   "object": "Collège de France",
+   "role": "Professor of Hebrew",
+   "place": "Paris",
+   "year_start": 1857,
+   "year_end": 1862,
+   "explicit": true,
+   "evidence": "from 1857 Quatremère’s successor as the Professor of Hebrew at Collège de France. In 1862 retired",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dubeux, J. Louis",
+   "type": "succeeded",
+   "object": "Quatremère",
+   "role": "Professor of Hebrew",
+   "place": "Collège de France",
+   "year_start": 1857,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1857 Quatremère’s successor as the Professor of Hebrew at Collège de France.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Renan",
+   "type": "succeeded",
+   "object": "Dubeux, J. Louis",
+   "role": "Professor of Hebrew",
+   "place": "Collège de France",
+   "year_start": 1862,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "In 1862 retired in order to make room for Renan.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: DUBEUX, J. Louis",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1639-dubeux-j-louis.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: DUBEUX, J. Louis",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1639/dubeux-j-louis/",
+  "subject": "DUBEUX, J. Louis",
+  "birth_year": 1798,
+  "death_year": 1863
+ },
+ "model": "gemini-flash-latest"
+}

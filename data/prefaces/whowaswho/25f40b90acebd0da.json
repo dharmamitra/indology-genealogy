@@ -1,0 +1,90 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Alexander Gerard",
+   "birth_year": 1792,
+   "death_year": 1839,
+   "nationality": "British (Scottish)",
+   "field": null
+  },
+  {
+   "name": "James G. Gerard",
+   "birth_year": 1795,
+   "death_year": 1835,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Patrick Gerard",
+   "birth_year": 1794,
+   "death_year": 1848,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "GERARD, Alexander – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1760,
+   "death_year": 1815
+  },
+  {
+   "name": "GERARD, Alexander",
+   "birth_year": 1792,
+   "death_year": 1839
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Alexander Gerard",
+   "type": "other",
+   "object": "James G. Gerard",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "brother of —> James G. Gerard (1795–1835) and —> Patrick Gerard",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander Gerard",
+   "type": "other",
+   "object": "Patrick Gerard",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "brother of —> James G. Gerard (1795–1835) and —> Patrick Gerard",
+   "quote_ok": true
+  },
+  {
+   "subject": "Alexander Gerard",
+   "type": "studied_at",
+   "object": "King’s College, Aberdeen",
+   "role": null,
+   "place": "Aberdeen",
+   "year_start": null,
+   "year_end": 1808,
+   "explicit": true,
+   "evidence": "Graduated from King’s College, Aberdeen, in 1808",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GERARD, Alexander",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2227-gerard-alexander.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GERARD, Alexander",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2227/gerard-alexander/",
+  "subject": "GERARD, Alexander",
+  "birth_year": 1792,
+  "death_year": 1839
+ },
+ "model": "gemini-flash-latest"
+}

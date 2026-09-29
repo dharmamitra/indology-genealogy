@@ -1,0 +1,107 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "William King",
+   "birth_year": 1834,
+   "death_year": 1900,
+   "nationality": "Anglo-Irish",
+   "field": "geology"
+  },
+  {
+   "name": "William King, senior",
+   "birth_year": 1809,
+   "death_year": 1886,
+   "nationality": null,
+   "field": "geology"
+  },
+  {
+   "name": "KING, William – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1809,
+   "death_year": 1886
+  },
+  {
+   "name": "KING, William",
+   "birth_year": 1809,
+   "death_year": 1886
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William King",
+   "type": "other",
+   "object": "William King, senior",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of William King (1809–1886, the Geologist, who in 1863 proposed that  Homo neanderthalensis  is a different species)",
+   "quote_ok": true
+  },
+  {
+   "subject": "William King",
+   "type": "studied_at",
+   "object": "Queen’s College in Galway",
+   "role": "civil engineering",
+   "place": "Galway",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied civil engineering at Queen’s College in Galway",
+   "quote_ok": true
+  },
+  {
+   "subject": "William King",
+   "type": "studied_at",
+   "object": "Queen’s University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then studies at Queen’s University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William King",
+   "type": "position_at",
+   "object": "Geological Survey of India",
+   "role": null,
+   "place": "India",
+   "year_start": 1857,
+   "year_end": 1894,
+   "explicit": true,
+   "evidence": "In 1857 joined the Geological Survey of India. Worked in South India and Chota Nagpur, then from 1887 as director of the Survey in Calcutta. Retired after several extensions in 1894.",
+   "quote_ok": true
+  },
+  {
+   "subject": "William King",
+   "type": "position_at",
+   "object": "Geological Survey of India",
+   "role": "director",
+   "place": "Calcutta",
+   "year_start": 1887,
+   "year_end": 1894,
+   "explicit": true,
+   "evidence": "then from 1887 as director of the Survey in Calcutta. Retired after several extensions in 1894.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: KING, William",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/16248-king-william.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: KING, William",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/16248/king-william/",
+  "subject": "KING, William",
+  "birth_year": 1809,
+  "death_year": 1886
+ },
+ "model": "gemini-flash-latest"
+}

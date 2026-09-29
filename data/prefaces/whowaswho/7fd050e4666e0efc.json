@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "James Anderson",
+   "birth_year": 1758,
+   "death_year": 1833,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "David Anderson",
+   "birth_year": 1750,
+   "death_year": 1825,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "ANDERSON, James – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1707,
+   "death_year": 1786
+  },
+  {
+   "name": "ANDERSON, James",
+   "birth_year": 1758,
+   "death_year": 1833
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Anderson",
+   "type": "studied_at",
+   "object": "Edinburgh",
+   "role": null,
+   "place": "Edinburgh",
+   "year_start": 1768,
+   "year_end": 1774,
+   "explicit": true,
+   "evidence": "Studied at Edinburgh 1768-74, graduated.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Anderson",
+   "type": "other",
+   "object": "David Anderson",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1785 succeeded his brother David as the Resident with Sindhia",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ANDERSON, James",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/11738-anderson-james.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ANDERSON, James",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/11738/anderson-james/",
+  "subject": "ANDERSON, James",
+  "birth_year": 1758,
+  "death_year": 1833
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,152 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Dmitrij Nikolaevič Kudrjavskij",
+   "birth_year": 1867,
+   "death_year": 1920,
+   "nationality": "Russian",
+   "field": "Indologist"
+  },
+  {
+   "name": "Minaev",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Delbrück",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "L. Meier",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "KUDRJAVSKIJ, Dmitrij Nikolaevič",
+   "birth_year": 1867,
+   "death_year": 1920
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Dmitrij Nikolaevič Kudrjavskij",
+   "type": "studied_at",
+   "object": "St.Petersburg",
+   "role": null,
+   "place": "St.Petersburg",
+   "year_start": 1885,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1885 studies of Slavic, IE and Indology at St.Petersburg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dmitrij Nikolaevič Kudrjavskij",
+   "type": "student_of",
+   "object": "Minaev",
+   "role": "teacher",
+   "place": "St.Petersburg",
+   "year_start": 1885,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studies of Slavic, IE and Indology at St.Petersburg (i.al. under Minaev)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dmitrij Nikolaevič Kudrjavskij",
+   "type": "studied_at",
+   "object": "Jena",
+   "role": null,
+   "place": "Jena",
+   "year_start": 1894,
+   "year_end": 1895,
+   "explicit": true,
+   "evidence": "In 1894-95 further studies at Jena under Delbrück.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dmitrij Nikolaevič Kudrjavskij",
+   "type": "student_of",
+   "object": "Delbrück",
+   "role": "teacher",
+   "place": "Jena",
+   "year_start": 1894,
+   "year_end": 1895,
+   "explicit": true,
+   "evidence": "In 1894-95 further studies at Jena under Delbrück.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dmitrij Nikolaevič Kudrjavskij",
+   "type": "position_at",
+   "object": "St.Petersburg",
+   "role": "PD",
+   "place": "St.Petersburg",
+   "year_start": 1895,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1895 PD at St.Petersburg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dmitrij Nikolaevič Kudrjavskij",
+   "type": "succeeded",
+   "object": "L. Meier",
+   "role": null,
+   "place": "Jur’jev",
+   "year_start": 1898,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1898 L. Meier’s successor as eo. Professor of German and comparative grammar at Jur’jev",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dmitrij Nikolaevič Kudrjavskij",
+   "type": "position_at",
+   "object": "Jur’jev",
+   "role": "eo. Professor of German and comparative grammar",
+   "place": "Jur’jev",
+   "year_start": 1898,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1898 L. Meier’s successor as eo. Professor of German and comparative grammar at Jur’jev",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dmitrij Nikolaevič Kudrjavskij",
+   "type": "position_at",
+   "object": "Voronež",
+   "role": null,
+   "place": "Voronež",
+   "year_start": null,
+   "year_end": 1920,
+   "explicit": true,
+   "evidence": "During the war moved with the University to Voronež and taught there until his death.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: KUDRJAVSKIJ, Dmitrij Nikolaevič",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3618-kudrjavskij-dmitrij-nikolaevic.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: KUDRJAVSKIJ, Dmitrij Nikolaevič",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3618/kudrjavskij-dmitrij-nikolaevic/",
+  "subject": "KUDRJAVSKIJ, Dmitrij Nikolaevič",
+  "birth_year": 1867,
+  "death_year": 1920
+ },
+ "model": "gemini-flash-latest"
+}

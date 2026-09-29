@@ -1,0 +1,66 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2022,
+ "people": [
+  {
+   "name": "James Forsyth",
+   "birth_year": 1838,
+   "death_year": 1871,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "R. Temple",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "FORSYTH, James",
+   "birth_year": 1838,
+   "death_year": 1871
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Forsyth",
+   "type": "position_at",
+   "object": "I.C.S.",
+   "role": null,
+   "place": "India",
+   "year_start": 1857,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Joined I.C.S. in 1857.",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Forsyth",
+   "type": "position_at",
+   "object": "Bengal Staff Corps",
+   "role": "Lieutenant",
+   "place": "Central India",
+   "year_start": 1862,
+   "year_end": 1867,
+   "explicit": true,
+   "evidence": "In 1862-64 made a great tour in Central India for Bengal Staff Corps. [...] According to title page of the 1867 book he was then Lieutenant of Bengal Staff Corps.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: FORSYTH, James",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/29631-forsyth-james.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: FORSYTH, James",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/29631/forsyth-james/",
+  "subject": "FORSYTH, James",
+  "birth_year": 1838,
+  "death_year": 1871
+ },
+ "model": "gemini-flash-latest"
+}

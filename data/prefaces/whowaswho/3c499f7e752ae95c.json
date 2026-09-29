@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Fritz Hungerleider",
+   "birth_year": 1920,
+   "death_year": 1998,
+   "nationality": "Austrian",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Dr. Oprachal",
+   "birth_year": null,
+   "death_year": 1955,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "HUNGERLEIDER, Fritz – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1920,
+   "death_year": 1998
+  },
+  {
+   "name": "HUNGERLEIDER, Fritz",
+   "birth_year": 1920,
+   "death_year": 1998
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Fritz Hungerleider",
+   "type": "studied_at",
+   "object": "Handelsakademie",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1938,
+   "explicit": true,
+   "evidence": "Studied at Handelsakademie. After matriculation in 1938",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fritz Hungerleider",
+   "type": "position_at",
+   "object": "Buddhistische Gesellschaft",
+   "role": "President",
+   "place": null,
+   "year_start": 1955,
+   "year_end": 1975,
+   "explicit": true,
+   "evidence": "From 1955 President of the Buddhistische Gesellschaft after its founder (in 1949) Dr. Oprachal (d. 1955), until 1975.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fritz Hungerleider",
+   "type": "succeeded",
+   "object": "Dr. Oprachal",
+   "role": "President",
+   "place": "Buddhistische Gesellschaft",
+   "year_start": 1955,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1955 President of the Buddhistische Gesellschaft after its founder (in 1949) Dr. Oprachal (d. 1955), until 1975.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dr. Oprachal",
+   "type": "founded",
+   "object": "Buddhistische Gesellschaft",
+   "role": null,
+   "place": null,
+   "year_start": 1949,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the Buddhistische Gesellschaft after its founder (in 1949) Dr. Oprachal",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HUNGERLEIDER, Fritz",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3168-hungerleider-fritz.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HUNGERLEIDER, Fritz",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3168/hungerleider-fritz/",
+  "subject": "HUNGERLEIDER, Fritz",
+  "birth_year": 1920,
+  "death_year": 1998
+ },
+ "model": "gemini-flash-latest"
+}

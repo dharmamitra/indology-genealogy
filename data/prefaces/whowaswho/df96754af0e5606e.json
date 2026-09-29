@@ -1,0 +1,66 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Karl Rudolf Marx",
+   "birth_year": 1857,
+   "death_year": 1891,
+   "nationality": "German",
+   "field": "Tibetologist and Historian"
+  },
+  {
+   "name": "A. H. Francke",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "MARX, Karl",
+   "birth_year": 1857,
+   "death_year": 1891
+  }
+ ],
+ "relations": [
+  {
+   "subject": "A. H. Francke",
+   "type": "student_of",
+   "object": "Karl Rudolf Marx",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the teacher of A. H. Francke",
+   "quote_ok": true
+  },
+  {
+   "subject": "Karl Rudolf Marx",
+   "type": "position_at",
+   "object": "Moravian Mission in Ladakh",
+   "role": "Missionary",
+   "place": "Leh",
+   "year_start": 1887,
+   "year_end": 1891,
+   "explicit": true,
+   "evidence": "Missionary of the Moravian Mission in Ladakh (Leh) from 1887 leading the mission’s hospital and clinic.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MARX, Karl",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4063-marx-karl.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MARX, Karl",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4063/marx-karl/",
+  "subject": "MARX, Karl",
+  "birth_year": 1857,
+  "death_year": 1891
+ },
+ "model": "gemini-flash-latest"
+}

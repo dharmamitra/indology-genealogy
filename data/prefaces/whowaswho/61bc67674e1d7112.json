@@ -1,0 +1,59 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Zubatý",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "ŠMELHAUS, Stanislav",
+   "birth_year": 1887,
+   "death_year": 1959
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ŠMELHAUS, Stanislav",
+   "type": "studied_at",
+   "object": "Charles University in Prague",
+   "role": "Ph.D.",
+   "place": "Prague",
+   "year_start": null,
+   "year_end": 1925,
+   "explicit": true,
+   "evidence": "Studied medicine and philology at Charles University in Prague, Indology under Zubatý, Ph.D. there 1924/25.",
+   "quote_ok": true
+  },
+  {
+   "subject": "ŠMELHAUS, Stanislav",
+   "type": "student_of",
+   "object": "Zubatý",
+   "role": "teacher",
+   "place": "Prague",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Indology under Zubatý",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ŠMELHAUS, Stanislav",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5829-smelhaus-stanislav.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ŠMELHAUS, Stanislav",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5829/smelhaus-stanislav/",
+  "subject": "ŠMELHAUS, Stanislav",
+  "birth_year": 1887,
+  "death_year": 1959
+ },
+ "model": "gemini-flash-latest"
+}

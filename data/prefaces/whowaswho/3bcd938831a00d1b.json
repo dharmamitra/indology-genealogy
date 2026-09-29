@@ -1,0 +1,76 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "MURDOCH, John",
+   "birth_year": 1819,
+   "death_year": 1904
+  }
+ ],
+ "relations": [
+  {
+   "subject": "MURDOCH, John",
+   "type": "studied_at",
+   "object": "Glasgow High School",
+   "role": null,
+   "place": "Glasgow",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "educated at Glasgow High School",
+   "quote_ok": true
+  },
+  {
+   "subject": "MURDOCH, John",
+   "type": "studied_at",
+   "object": "Glasgow",
+   "role": "LL.D.",
+   "place": "Glasgow",
+   "year_start": null,
+   "year_end": 1878,
+   "explicit": true,
+   "evidence": "studies at Glasgow. ... LL.D. 1878 Glasgow",
+   "quote_ok": true
+  },
+  {
+   "subject": "MURDOCH, John",
+   "type": "position_at",
+   "object": "Christian Vernacular Education Society",
+   "role": "Agent and Travelling Secretary in India",
+   "place": "India",
+   "year_start": 1858,
+   "year_end": 1903,
+   "explicit": true,
+   "evidence": "In 1858 he was invited to India to become the Agent and Travelling Secretary in India for the Christian Vernacular Education Society and worked in this position until his retirement in 1903.",
+   "quote_ok": true
+  },
+  {
+   "subject": "MURDOCH, John",
+   "type": "position_at",
+   "object": "Madras University",
+   "role": "Fellow",
+   "place": "Madras",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Fellow of Madras University.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MURDOCH, John",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/18484-murdoch-john.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MURDOCH, John",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/18484/murdoch-john/",
+  "subject": "MURDOCH, John",
+  "birth_year": 1819,
+  "death_year": 1904
+ },
+ "model": "gemini-flash-latest"
+}

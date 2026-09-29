@@ -1,0 +1,59 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "John Wenger",
+   "birth_year": 1811,
+   "death_year": 1880,
+   "nationality": "Swiss",
+   "field": null
+  },
+  {
+   "name": "WENGER, John",
+   "birth_year": 1811,
+   "death_year": 1880
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Wenger",
+   "type": "studied_at",
+   "object": "Bern",
+   "role": null,
+   "place": "Bern",
+   "year_start": 1827,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1827 studies of classics and theology at Bern.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Wenger",
+   "type": "studied_at",
+   "object": "Rhode Island University",
+   "role": "D.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1878,
+   "explicit": true,
+   "evidence": "D.D. Rhode Island University 1878.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: WENGER, John",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5430-wenger-john.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: WENGER, John",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5430/wenger-john/",
+  "subject": "WENGER, John",
+  "birth_year": 1811,
+  "death_year": 1880
+ },
+ "model": "gemini-flash-latest"
+}

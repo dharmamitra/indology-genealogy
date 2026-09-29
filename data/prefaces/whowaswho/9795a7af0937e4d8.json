@@ -1,0 +1,190 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "F. W. K. Müller",
+   "birth_year": 1863,
+   "death_year": 1930,
+   "nationality": "German",
+   "field": "Central Asian Scholar"
+  },
+  {
+   "name": "Sachau",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Grube",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Bastian",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "W. Lentz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "A. von Gabain",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "MÜLLER, F. W. K",
+   "birth_year": 1863,
+   "death_year": 1930
+  }
+ ],
+ "relations": [
+  {
+   "subject": "F. W. K. Müller",
+   "type": "studied_at",
+   "object": "Französisches Gymnasium",
+   "role": null,
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he attended Französisches Gymnasium",
+   "quote_ok": true
+  },
+  {
+   "subject": "F. W. K. Müller",
+   "type": "studied_at",
+   "object": "Berlin University",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1883,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1883 studied at Berlin University theology and Oriental languages",
+   "quote_ok": true
+  },
+  {
+   "subject": "F. W. K. Müller",
+   "type": "student_of",
+   "object": "Sachau",
+   "role": "teacher",
+   "place": "Berlin University",
+   "year_start": 1883,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1883 studied at Berlin University theology and Oriental languages (under Sachau and Grube)",
+   "quote_ok": true
+  },
+  {
+   "subject": "F. W. K. Müller",
+   "type": "student_of",
+   "object": "Grube",
+   "role": "teacher",
+   "place": "Berlin University",
+   "year_start": 1883,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1883 studied at Berlin University theology and Oriental languages (under Sachau and Grube)",
+   "quote_ok": true
+  },
+  {
+   "subject": "F. W. K. Müller",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": "Ph.D.",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": 1889,
+   "explicit": true,
+   "evidence": "Ph.D. 1889 Leipzig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "F. W. K. Müller",
+   "type": "position_at",
+   "object": "Museum für Völkerkunde",
+   "role": "Hilfsarbeiter",
+   "place": null,
+   "year_start": 1887,
+   "year_end": 1896,
+   "explicit": true,
+   "evidence": "From 1887 Hilfsarbeiter in the just-founded Museum für Völkerkunde (under Bastian)",
+   "quote_ok": true
+  },
+  {
+   "subject": "F. W. K. Müller",
+   "type": "position_at",
+   "object": "Museum für Völkerkunde",
+   "role": "Direktorialassistent",
+   "place": null,
+   "year_start": 1896,
+   "year_end": 1906,
+   "explicit": true,
+   "evidence": "from 1896 Direktorialassistent",
+   "quote_ok": true
+  },
+  {
+   "subject": "F. W. K. Müller",
+   "type": "position_at",
+   "object": "Museum für Völkerkunde",
+   "role": "Director of Ostasiatische Abteilung",
+   "place": null,
+   "year_start": 1906,
+   "year_end": 1928,
+   "explicit": true,
+   "evidence": "from 1906 Director of Ostasiatische Abteilung. Title of Professor 1906. Retired in 1928.",
+   "quote_ok": true
+  },
+  {
+   "subject": "W. Lentz",
+   "type": "student_of",
+   "object": "F. W. K. Müller",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "W. Lentz and A. von Gabain were his disciples.",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. von Gabain",
+   "type": "student_of",
+   "object": "F. W. K. Müller",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "W. Lentz and A. von Gabain were his disciples.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MÜLLER, F. W. K",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4306-muller-friedrich-wilhelm-karl.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MÜLLER, F. W. K",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4306/muller-friedrich-wilhelm-karl/",
+  "subject": "MÜLLER, F. W. K",
+  "birth_year": 1863,
+  "death_year": 1930
+ },
+ "model": "gemini-flash-latest"
+}

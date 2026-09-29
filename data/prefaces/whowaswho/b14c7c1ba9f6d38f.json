@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "William Lewis Macgregor",
+   "birth_year": 1801,
+   "death_year": 1853,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Honigberger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "MACGREGOR, William Lewis",
+   "birth_year": 1801,
+   "death_year": 1853
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Lewis Macgregor",
+   "type": "studied_at",
+   "object": "Edinburgh",
+   "role": "M.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1825,
+   "explicit": true,
+   "evidence": "M.D. 1825 Edinburgh",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Lewis Macgregor",
+   "type": "position_at",
+   "object": "Ranjit Singh",
+   "role": "principal physician",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The principal physician to Ranjit Singh",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Lewis Macgregor",
+   "type": "other",
+   "object": "Honigberger",
+   "role": "superior of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "superior of —> Honigberger",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MACGREGOR, William Lewis",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/17410-macgregor-william-lewis.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MACGREGOR, William Lewis",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/17410/macgregor-william-lewis/",
+  "subject": "MACGREGOR, William Lewis",
+  "birth_year": 1801,
+  "death_year": 1853
+ },
+ "model": "gemini-flash-latest"
+}

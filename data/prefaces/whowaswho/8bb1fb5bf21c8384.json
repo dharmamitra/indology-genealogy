@@ -1,0 +1,85 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Carl Friedrich Koeppen",
+   "birth_year": 1808,
+   "death_year": 1863,
+   "nationality": "German",
+   "field": "Buddhism"
+  },
+  {
+   "name": "Marx",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Max Stirner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "KOEPPEN, Carl Friedrich",
+   "birth_year": 1808,
+   "death_year": 1863
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Carl Friedrich Koeppen",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": "theology",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After gymnasium in Stendal studies of theology at Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Friedrich Koeppen",
+   "type": "other",
+   "object": "Marx",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a Linkshegelian and a close friend of Marx, Max Stirner, et al.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Friedrich Koeppen",
+   "type": "other",
+   "object": "Max Stirner",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a Linkshegelian and a close friend of Marx, Max Stirner, et al.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: KOEPPEN, Carl Friedrich",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3540-koeppen-carl-friedrich.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: KOEPPEN, Carl Friedrich",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3540/koeppen-carl-friedrich/",
+  "subject": "KOEPPEN, Carl Friedrich",
+  "birth_year": 1808,
+  "death_year": 1863
+ },
+ "model": "gemini-flash-latest"
+}

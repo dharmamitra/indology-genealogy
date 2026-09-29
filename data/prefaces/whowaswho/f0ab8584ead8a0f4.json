@@ -1,0 +1,116 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Georg Friedrich Bollensen",
+   "birth_year": 1809,
+   "death_year": 1896,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Ewald",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Oriental languages"
+  },
+  {
+   "name": "Lenz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Petrov",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "BOLLENSEN, Friedrich",
+   "birth_year": 1809,
+   "death_year": 1896
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Georg Friedrich Bollensen",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1830,
+   "explicit": true,
+   "evidence": "Then studied theology at Göttingen, where Ewald prompted him to take Oriental languages. Further details of his study time unknown, Ph.D. 1830 there",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Friedrich Bollensen",
+   "type": "student_of",
+   "object": "Ewald",
+   "role": "teacher",
+   "place": "Göttingen",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "studied theology at Göttingen, where Ewald prompted him to take Oriental languages.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Friedrich Bollensen",
+   "type": "position_at",
+   "object": "St.Petersburg University",
+   "role": "adjunkt of German",
+   "place": "St.Petersburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "As an adjunkt of German at St.Petersburg University he studied the posthumous papers of Lenz",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Friedrich Bollensen",
+   "type": "succeeded",
+   "object": "Petrov",
+   "role": "Professor of Sanskrit",
+   "place": "University of Kazan",
+   "year_start": 1852,
+   "year_end": 1856,
+   "explicit": true,
+   "evidence": "In 1852-56 he succeeded Petrov as the Professor of Sanskrit at the University of Kazan.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Georg Friedrich Bollensen",
+   "type": "position_at",
+   "object": "University of Kazan",
+   "role": "Professor of Sanskrit",
+   "place": "Kazan",
+   "year_start": 1852,
+   "year_end": 1856,
+   "explicit": true,
+   "evidence": "In 1852-56 he succeeded Petrov as the Professor of Sanskrit at the University of Kazan.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BOLLENSEN, Friedrich",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/860-bollensen-friedrich.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BOLLENSEN, Friedrich",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/860/bollensen-friedrich/",
+  "subject": "BOLLENSEN, Friedrich",
+  "birth_year": 1809,
+  "death_year": 1896
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,133 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Paul Carus",
+   "birth_year": 1852,
+   "death_year": 1919,
+   "nationality": "German",
+   "field": "Philosopher and Scholar of Comparative Religion"
+  },
+  {
+   "name": "Grassmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "D. T. Suzuki",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "CARUS, Paul",
+   "birth_year": 1852,
+   "death_year": 1919
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Paul Carus",
+   "type": "student_of",
+   "object": "Grassmann",
+   "role": "teacher",
+   "place": "Stettin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "school in Posen and Stettin (where Grassmann was his teacher)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Carus",
+   "type": "studied_at",
+   "object": "Greifswald",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied philosophy, classics and science at Greifswald, Strassburg and Tübingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Carus",
+   "type": "studied_at",
+   "object": "Strassburg",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied philosophy, classics and science at Greifswald, Strassburg and Tübingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Carus",
+   "type": "studied_at",
+   "object": "Tübingen",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 1876,
+   "explicit": true,
+   "evidence": "studied philosophy, classics and science at Greifswald, Strassburg and Tübingen. Ph.D. 1876 Tübingen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Carus",
+   "type": "position_at",
+   "object": "Military Academy in Dresden",
+   "role": "teacher",
+   "place": "Dresden",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Worked as a teacher at Military Academy in Dresden",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Carus",
+   "type": "founded",
+   "object": "Open Court Publishing Company",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In order to propagate his ideas he founded the Open Court Publishing Company",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Carus",
+   "type": "other",
+   "object": "D. T. Suzuki",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In the beginning of the century he befriended with D. T. Suzuki, then a young student (and Buddhist monk) sent to the U.S.A. for study.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: CARUS, Paul",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1208-carus-paul.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: CARUS, Paul",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1208/carus-paul/",
+  "subject": "CARUS, Paul",
+  "birth_year": 1852,
+  "death_year": 1919
+ },
+ "model": "gemini-flash-latest"
+}

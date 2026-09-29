@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Edward Hamilton Whitley",
+   "birth_year": 1866,
+   "death_year": 1945,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Jabez Cornelius Whitley",
+   "birth_year": 1837,
+   "death_year": 1904,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "WHITLEY, Edward Hamilton – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1837,
+   "death_year": 1904
+  },
+  {
+   "name": "WHITLEY, Edward Hamilton",
+   "birth_year": 1866,
+   "death_year": 1945
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Edward Hamilton Whitley",
+   "type": "other",
+   "object": "Jabez Cornelius Whitley",
+   "role": "son of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of Rev. —> Jabez Cornelius Whitley (1837–1904, 1890-1904 the first Bishop of Chota Nagpur)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Hamilton Whitley",
+   "type": "studied_at",
+   "object": "Cambridge (Queen’s College)",
+   "role": "B.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Cambridge (Queen’s College, B.A.).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: WHITLEY, Edward Hamilton",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/23341-whitley-edward-hamilton.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: WHITLEY, Edward Hamilton",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/23341/whitley-edward-hamilton/",
+  "subject": "WHITLEY, Edward Hamilton",
+  "birth_year": 1866,
+  "death_year": 1945
+ },
+ "model": "gemini-flash-latest"
+}

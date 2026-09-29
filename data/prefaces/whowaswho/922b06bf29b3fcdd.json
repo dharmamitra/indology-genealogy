@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Jaromír Jedlička",
+   "birth_year": 1869,
+   "death_year": 1901,
+   "nationality": "Czech",
+   "field": "IE Linguistics"
+  },
+  {
+   "name": "Zubatý",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "JEDLIČKA, Jaromír",
+   "birth_year": 1869,
+   "death_year": 1901
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jaromír Jedlička",
+   "type": "studied_at",
+   "object": "Charles University in Prague",
+   "role": "Ph.D.",
+   "place": "Prague",
+   "year_start": 1888,
+   "year_end": 1894,
+   "explicit": true,
+   "evidence": "from 1888 studies at Charles University in Prague under Zubatý, Ph.D. there 1894.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jaromír Jedlička",
+   "type": "student_of",
+   "object": "Zubatý",
+   "role": "teacher",
+   "place": "Prague",
+   "year_start": 1888,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studies at Charles University in Prague under Zubatý",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jaromír Jedlička",
+   "type": "position_at",
+   "object": "Charles University in Prague",
+   "role": "library worker",
+   "place": null,
+   "year_start": 1899,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1899 worked in the university library.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: JEDLIČKA, Jaromír",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2796-jedlicka-jaromir.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: JEDLIČKA, Jaromír",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2796/jedlicka-jaromir/",
+  "subject": "JEDLIČKA, Jaromír",
+  "birth_year": 1869,
+  "death_year": 1901
+ },
+ "model": "gemini-flash-latest"
+}

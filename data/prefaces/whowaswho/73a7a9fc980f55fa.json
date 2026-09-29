@@ -1,0 +1,76 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "BEAL, Samuel",
+   "birth_year": 1825,
+   "death_year": 1889
+  }
+ ],
+ "relations": [
+  {
+   "subject": "BEAL, Samuel",
+   "type": "studied_at",
+   "object": "Trinity College, Cambridge",
+   "role": "B.A.",
+   "place": null,
+   "year_start": 1843,
+   "year_end": 1847,
+   "explicit": true,
+   "evidence": "from 1843 studied at Trinity College, Cambridge (B.A. 1847)",
+   "quote_ok": true
+  },
+  {
+   "subject": "BEAL, Samuel",
+   "type": "position_at",
+   "object": "Bramham College in Yorkshire",
+   "role": "Headmaster",
+   "place": "Yorkshire",
+   "year_start": 1848,
+   "year_end": 1850,
+   "explicit": true,
+   "evidence": "In 1848-50 Headmaster of Bramham College in Yorkshire.",
+   "quote_ok": true
+  },
+  {
+   "subject": "BEAL, Samuel",
+   "type": "position_at",
+   "object": "University College in London",
+   "role": "Professor of Chinese (a honorary chair)",
+   "place": "London",
+   "year_start": 1877,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At the same time, from 1877, Professor of Chinese (a honorary chair) at the University College in London.",
+   "quote_ok": true
+  },
+  {
+   "subject": "BEAL, Samuel",
+   "type": "studied_at",
+   "object": "Durham",
+   "role": "D.C.L.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "D.C.L. 1885 Durham.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BEAL, Samuel",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/609-beal-samuel.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BEAL, Samuel",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/609/beal-samuel/",
+  "subject": "BEAL, Samuel",
+  "birth_year": 1825,
+  "death_year": 1889
+ },
+ "model": "gemini-flash-latest"
+}

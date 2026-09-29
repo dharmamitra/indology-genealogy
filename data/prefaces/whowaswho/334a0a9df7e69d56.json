@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "George Grenville Malet",
+   "birth_year": 1804,
+   "death_year": 1856,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Charles W. Malet",
+   "birth_year": 1752,
+   "death_year": 1815,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "MALET, George Grenville – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1752,
+   "death_year": 1815
+  },
+  {
+   "name": "MALET, George Grenville",
+   "birth_year": 1752,
+   "death_year": 1815
+  }
+ ],
+ "relations": [
+  {
+   "subject": "George Grenville Malet",
+   "type": "other",
+   "object": "Charles W. Malet",
+   "role": "son of",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of —> Charles W. Malet (1752–1815)",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Grenville Malet",
+   "type": "position_at",
+   "object": "E.I.C.’s army",
+   "role": "Lieutenant-Colonel",
+   "place": "Bombay Presidency",
+   "year_start": 1822,
+   "year_end": 1856,
+   "explicit": true,
+   "evidence": "Lieutenant-Colonel (1854). Son of —> Charles W. Malet (1752–1815) and Susanna Wales. Joined E.I.C.’s army in 1822, served in Bombay Presidency.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MALET, George Grenville",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/17582-malet-george-grenville.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MALET, George Grenville",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/17582/malet-george-grenville/",
+  "subject": "MALET, George Grenville",
+  "birth_year": 1752,
+  "death_year": 1815
+ },
+ "model": "gemini-flash-latest"
+}

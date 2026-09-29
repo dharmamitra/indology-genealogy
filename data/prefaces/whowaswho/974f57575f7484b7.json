@@ -1,0 +1,73 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Thomas Richard Brown",
+   "birth_year": 1791,
+   "death_year": 1875,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Grotefend",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rawlinson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BROWN, Thomas Richard",
+   "birth_year": 1791,
+   "death_year": 1875
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Thomas Richard Brown",
+   "type": "studied_at",
+   "object": "St. John’s College, Cambridge",
+   "role": "B.A.",
+   "place": "Cambridge",
+   "year_start": 1810,
+   "year_end": 1815,
+   "explicit": true,
+   "evidence": "From 1810 studies at St. John’s College, Cambridge (B.A. 1815, M.A. 1820)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Richard Brown",
+   "type": "studied_at",
+   "object": "St. John’s College, Cambridge",
+   "role": "M.A.",
+   "place": "Cambridge",
+   "year_start": 1810,
+   "year_end": 1820,
+   "explicit": true,
+   "evidence": "From 1810 studies at St. John’s College, Cambridge (B.A. 1815, M.A. 1820)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BROWN, Thomas Richard",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/992-brown-thomas-richard.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BROWN, Thomas Richard",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/992/brown-thomas-richard/",
+  "subject": "BROWN, Thomas Richard",
+  "birth_year": 1791,
+  "death_year": 1875
+ },
+ "model": "gemini-flash-latest"
+}

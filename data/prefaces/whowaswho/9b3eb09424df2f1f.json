@@ -1,0 +1,123 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Paul Wilhelm Eduard Dahlke",
+   "birth_year": 1865,
+   "death_year": 1928,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "Srī Sumaṅgala Thera",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ñāṇissara Thera",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Pandit Wagiswara",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "K. Fischer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "DAHLKE, Paul",
+   "birth_year": 1865,
+   "death_year": 1928
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Paul Wilhelm Eduard Dahlke",
+   "type": "student_of",
+   "object": "Srī Sumaṅgala Thera",
+   "role": "teacher",
+   "place": "Ceylon",
+   "year_start": 1900,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "went in 1900 from Germany to Ceylon, where he had Srī Sumaṅgala Thera, Ñāṇissara Thera, Pandit Wagiswara and others as his teachers.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Wilhelm Eduard Dahlke",
+   "type": "student_of",
+   "object": "Ñāṇissara Thera",
+   "role": "teacher",
+   "place": "Ceylon",
+   "year_start": 1900,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "went in 1900 from Germany to Ceylon, where he had Srī Sumaṅgala Thera, Ñāṇissara Thera, Pandit Wagiswara and others as his teachers.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Wilhelm Eduard Dahlke",
+   "type": "student_of",
+   "object": "Pandit Wagiswara",
+   "role": "teacher",
+   "place": "Ceylon",
+   "year_start": 1900,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "went in 1900 from Germany to Ceylon, where he had Srī Sumaṅgala Thera, Ñāṇissara Thera, Pandit Wagiswara and others as his teachers.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Wilhelm Eduard Dahlke",
+   "type": "founded",
+   "object": "Buddhistisches Haus",
+   "role": null,
+   "place": "Berlin-Frohnau",
+   "year_start": 1924,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1924 he founded a kind of monastery, Buddhistisches Haus, in Berlin-Frohnau.",
+   "quote_ok": true
+  },
+  {
+   "subject": "K. Fischer",
+   "type": "succeeded",
+   "object": "Paul Wilhelm Eduard Dahlke",
+   "role": "secretary and successor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His secretary and successor was —> K. Fischer.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: DAHLKE, Paul",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1452-dahlke-paul-wilhelm-eduard.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: DAHLKE, Paul",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1452/dahlke-paul-wilhelm-eduard/",
+  "subject": "DAHLKE, Paul",
+  "birth_year": 1865,
+  "death_year": 1928
+ },
+ "model": "gemini-flash-latest"
+}

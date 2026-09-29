@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Michael Topping",
+   "birth_year": 1747,
+   "death_year": 1796,
+   "nationality": null,
+   "field": "sailor-astronomer"
+  },
+  {
+   "name": "William Lambton",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "GOLDINGHAM, John – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1747,
+   "death_year": 1796
+  },
+  {
+   "name": "GOLDINGHAM, John",
+   "birth_year": 1767,
+   "death_year": 1849
+  }
+ ],
+ "relations": [
+  {
+   "subject": "GOLDINGHAM, John",
+   "type": "student_of",
+   "object": "Michael Topping",
+   "role": "assistant",
+   "place": "Madras",
+   "year_start": 1788,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1788 assistant to sailor-astronomer Michael Topping (1747–1796) and thus came to Madras.",
+   "quote_ok": true
+  },
+  {
+   "subject": "GOLDINGHAM, John",
+   "type": "succeeded",
+   "object": "Michael Topping",
+   "role": "astronomer",
+   "place": "Madras Observatory",
+   "year_start": 1796,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Succeeded Topping as the astronomer of Madras Observatory and started its records in 1796.",
+   "quote_ok": true
+  },
+  {
+   "subject": "GOLDINGHAM, John",
+   "type": "position_at",
+   "object": "Madras Observatory",
+   "role": "astronomer",
+   "place": null,
+   "year_start": 1796,
+   "year_end": 1827,
+   "explicit": true,
+   "evidence": "Succeeded Topping as the astronomer of Madras Observatory and started its records in 1796. ... Still in the observatory in the 1820s, in 1827 returned to England",
+   "quote_ok": true
+  },
+  {
+   "subject": "GOLDINGHAM, John",
+   "type": "collaborated_with",
+   "object": "William Lambton",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "With William Lambton started the Trigonometrical Survey.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GOLDINGHAM, John",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2320-goldingham-john.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GOLDINGHAM, John",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2320/goldingham-john/",
+  "subject": "GOLDINGHAM, John",
+  "birth_year": 1767,
+  "death_year": 1849
+ },
+ "model": "gemini-flash-latest"
+}

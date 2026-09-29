@@ -1,0 +1,133 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Johan Huizinga",
+   "birth_year": 1872,
+   "death_year": 1945,
+   "nationality": "Dutch",
+   "field": "Indology, history"
+  },
+  {
+   "name": "Dirk Huizinga",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Dutch",
+   "field": "Physiology"
+  },
+  {
+   "name": "Speyer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "HUIZINGA, Johan",
+   "birth_year": 1872,
+   "death_year": 1945
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johan Huizinga",
+   "type": "studied_at",
+   "object": "Groningen",
+   "role": "Ph.D.",
+   "place": "Groningen",
+   "year_start": 1891,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "After school in Groningen studies there in 1891-97, also Indology at Leipzig. Ph.D. 1897 in Dutch literature (but diss. on Indology, under Speyer).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johan Huizinga",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studies there in 1891-97, also Indology at Leipzig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johan Huizinga",
+   "type": "student_of",
+   "object": "Speyer",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": 1897,
+   "explicit": true,
+   "evidence": "Ph.D. 1897 in Dutch literature (but diss. on Indology, under Speyer).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johan Huizinga",
+   "type": "position_at",
+   "object": "Amsterdam",
+   "role": "Docent of Oud-Indische litt.- en cultuurgesch.",
+   "place": "Amsterdam",
+   "year_start": 1903,
+   "year_end": 1905,
+   "explicit": true,
+   "evidence": "In 1903-05 also Docent of Oud-Indische litt.- en cultuurgesch. at Amsterdam.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johan Huizinga",
+   "type": "position_at",
+   "object": "Groningen",
+   "role": "Professor of History (Geschiedenis)",
+   "place": "Groningen",
+   "year_start": 1905,
+   "year_end": 1915,
+   "explicit": true,
+   "evidence": "In 1905-15 Professor of History (Geschiedenis) at Groningen",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johan Huizinga",
+   "type": "position_at",
+   "object": "Leiden",
+   "role": "Professor of History (Geschiedenis)",
+   "place": "Leiden",
+   "year_start": 1915,
+   "year_end": 1941,
+   "explicit": true,
+   "evidence": "in 1915-41 same at Leiden.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johan Huizinga",
+   "type": "other",
+   "object": "Dirk Huizinga",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Son of Dirk Huizinga, a Professor of Physiology",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HUIZINGA, Johan",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3148-huizinga-johan.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HUIZINGA, Johan",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3148/huizinga-johan/",
+  "subject": "HUIZINGA, Johan",
+  "birth_year": 1872,
+  "death_year": 1945
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Thomas Robinson",
+   "birth_year": 1790,
+   "death_year": 1873,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "R. Heber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ROBINSON, Thomas – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1749,
+   "death_year": 1813
+  },
+  {
+   "name": "ROBINSON, Thomas",
+   "birth_year": 1790,
+   "death_year": 1873
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Thomas Robinson",
+   "type": "studied_at",
+   "object": "Trinity College, Cambridge",
+   "role": "B.A., M.A., D.D.",
+   "place": "Cambridge",
+   "year_start": 1808,
+   "year_end": 1816,
+   "explicit": true,
+   "evidence": "From 1808 studied at Trinity College, Cambridge, B.A. 1813, M.A. 1816.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Robinson",
+   "type": "collaborated_with",
+   "object": "R. Heber",
+   "role": "chaplain",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Worked at Seroor (Shirur) and Poona (Pune), then as chaplain of —> R. Heber.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Thomas Robinson",
+   "type": "position_at",
+   "object": "Cambridge",
+   "role": "Lord Almoner’s Professor of Arabic",
+   "place": "Cambridge",
+   "year_start": 1837,
+   "year_end": 1854,
+   "explicit": true,
+   "evidence": "Lord Almoner’s Professor of Arabic at Cambridge 1837-54",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ROBINSON, Thomas",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/35927-robinson-thomas.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ROBINSON, Thomas",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/35927/robinson-thomas/",
+  "subject": "ROBINSON, Thomas",
+  "birth_year": 1790,
+  "death_year": 1873
+ },
+ "model": "gemini-flash-latest"
+}

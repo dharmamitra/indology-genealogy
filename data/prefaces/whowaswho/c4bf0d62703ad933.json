@@ -1,0 +1,59 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Pavolini",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "DE STEFANI, Eduardo Luigi",
+   "birth_year": 1869,
+   "death_year": 1921
+  }
+ ],
+ "relations": [
+  {
+   "subject": "DE STEFANI, Eduardo Luigi",
+   "type": "student_of",
+   "object": "Pavolini",
+   "role": "teacher",
+   "place": "Florence",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After studies at Florence under Pavolini",
+   "quote_ok": true
+  },
+  {
+   "subject": "DE STEFANI, Eduardo Luigi",
+   "type": "position_at",
+   "object": "R. Università di Roma (La Sapienza)",
+   "role": "incaricato dell’ insegnamento della grammatica latina e greca",
+   "place": "Rome",
+   "year_start": 1910,
+   "year_end": 1921,
+   "explicit": true,
+   "evidence": "he was appointed in 1910 the “incaricato dell’ insegnamento della grammatica latina e greca” at R. Università di Roma (La Sapienza) and stayed there until his death.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: DE STEFANI, Eduardo Luigi",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1563-de-stefani-eduardo-luigi.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: DE STEFANI, Eduardo Luigi",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1563/de-stefani-eduardo-luigi/",
+  "subject": "DE STEFANI, Eduardo Luigi",
+  "birth_year": 1869,
+  "death_year": 1921
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,54 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Zubatý",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "BROŽOVÁ, Marie",
+   "type": "student_of",
+   "object": "Zubatý",
+   "role": "teacher",
+   "place": "Prague",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Prague under Zubatý",
+   "quote_ok": true
+  },
+  {
+   "subject": "BROŽOVÁ, Marie",
+   "type": "studied_at",
+   "object": "Prague",
+   "role": "Ph.D.",
+   "place": "Prague",
+   "year_start": null,
+   "year_end": 1921,
+   "explicit": true,
+   "evidence": "Studies at Prague under Zubatý, Ph.D. there 1920/21.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BROŽOVÁ, Marie",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1006-brozova-marie.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BROŽOVÁ, Marie",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1006/brozova-marie/",
+  "subject": "BROŽOVÁ, Marie",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

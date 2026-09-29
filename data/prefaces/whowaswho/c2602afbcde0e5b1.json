@@ -1,0 +1,90 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Henry Cousens",
+   "birth_year": 1854,
+   "death_year": 1934,
+   "nationality": "British",
+   "field": "Archaeologist"
+  },
+  {
+   "name": "Cunningham",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Burgess",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "COUSENS, Henry – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1826,
+   "death_year": 1914
+  },
+  {
+   "name": "COUSENS, Henry",
+   "birth_year": 1854,
+   "death_year": 1934
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Henry Cousens",
+   "type": "position_at",
+   "object": "A.S.I.",
+   "role": "Assistant of Cunningham",
+   "place": "India",
+   "year_start": 1881,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1881 Assistant of Cunningham in the A.S.I.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Cousens",
+   "type": "succeeded",
+   "object": "Burgess",
+   "role": null,
+   "place": "Western India",
+   "year_start": 1886,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1886 in charge of Western India (succeeding Burgess)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Cousens",
+   "type": "position_at",
+   "object": "A.S.I.",
+   "role": "Superintendent of Western India",
+   "place": "Western India",
+   "year_start": 1891,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "in the reorganization of A.S.I. after Burgess’ retirement 1891 Superintendent of Western India. Retired in 1910.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: COUSENS, Henry",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1385-cousens-henry.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: COUSENS, Henry",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1385/cousens-henry/",
+  "subject": "COUSENS, Henry",
+  "birth_year": 1854,
+  "death_year": 1934
+ },
+ "model": "gemini-flash-latest"
+}

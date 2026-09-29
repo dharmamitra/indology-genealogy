@@ -1,0 +1,102 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John Newton",
+   "birth_year": 1810,
+   "death_year": 1891,
+   "nationality": "United States",
+   "field": null
+  },
+  {
+   "name": "C. F. Forman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "E. P. Newton",
+   "birth_year": 1850,
+   "death_year": 1918,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "NEWTON, John – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1812,
+   "death_year": 1857
+  },
+  {
+   "name": "NEWTON, John",
+   "birth_year": 1810,
+   "death_year": 1891
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Newton",
+   "type": "position_at",
+   "object": "American Presbyterian Ludhiana Christian Mission",
+   "role": "Missionary",
+   "place": "Ludhiana",
+   "year_start": 1835,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Joined American Presbyterian Ludhiana Christian Mission and arrived at Ludhiana in 1835.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Newton",
+   "type": "collaborated_with",
+   "object": "C. F. Forman",
+   "role": null,
+   "place": "Lahore",
+   "year_start": 1849,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1849 worked in the newly annexed Lahore together with his future son-in-law C. F. Forman.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Newton",
+   "type": "other",
+   "object": "C. F. Forman",
+   "role": "father-in-law",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "together with his future son-in-law C. F. Forman.",
+   "quote_ok": true
+  },
+  {
+   "subject": "E. P. Newton",
+   "type": "other",
+   "object": "John Newton",
+   "role": "child",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "several children (the youngest was —> E. P. Newton, 1850–1918).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: NEWTON, John",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/18634-newton-john.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: NEWTON, John",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/18634/newton-john/",
+  "subject": "NEWTON, John",
+  "birth_year": 1810,
+  "death_year": 1891
+ },
+ "model": "gemini-flash-latest"
+}

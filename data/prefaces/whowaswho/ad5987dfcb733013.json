@@ -1,0 +1,97 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "HOVELACQUE, Alexandre Abel",
+   "birth_year": 1843,
+   "death_year": 1896,
+   "nationality": "French",
+   "field": "Iranian Scholar, Linguist and Anthropologist"
+  },
+  {
+   "name": "H. Chavée",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Schleicher",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "comparative linguistics"
+  },
+  {
+   "name": "HOVELACQUE, Abel",
+   "birth_year": 1843,
+   "death_year": 1896
+  }
+ ],
+ "relations": [
+  {
+   "subject": "HOVELACQUE, Alexandre Abel",
+   "type": "student_of",
+   "object": "H. Chavée",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "took comparative grammar as an additional subject under H. Chavée.",
+   "quote_ok": true
+  },
+  {
+   "subject": "HOVELACQUE, Alexandre Abel",
+   "type": "position_at",
+   "object": "School of Anthropology",
+   "role": "Professor of Linguistics",
+   "place": null,
+   "year_start": 1876,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "became in 1876 Professor of Linguistics at the new School of Anthropology.",
+   "quote_ok": true
+  },
+  {
+   "subject": "HOVELACQUE, Alexandre Abel",
+   "type": "position_at",
+   "object": "School of Anthropology",
+   "role": "Director",
+   "place": null,
+   "year_start": 1891,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1891 Director of the same school.",
+   "quote_ok": true
+  },
+  {
+   "subject": "HOVELACQUE, Alexandre Abel",
+   "type": "influenced_by",
+   "object": "Schleicher",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In comparative linguistics he followed Schleicher",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HOVELACQUE, Abel",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3123-hovelacque-alexandre-abel.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HOVELACQUE, Abel",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3123/hovelacque-alexandre-abel/",
+  "subject": "HOVELACQUE, Abel",
+  "birth_year": 1843,
+  "death_year": 1896
+ },
+ "model": "gemini-flash-latest"
+}

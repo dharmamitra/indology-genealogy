@@ -1,0 +1,73 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "John-Baptist Hoffmann",
+   "birth_year": 1857,
+   "death_year": 1928,
+   "nationality": "German",
+   "field": null
+  },
+  {
+   "name": "Theophilus Bodson",
+   "birth_year": null,
+   "death_year": 1892,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Van Emelen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "HOFFMANN, John-Baptist (Johann Baptist)",
+   "birth_year": 1857,
+   "death_year": 1928
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John-Baptist Hoffmann",
+   "type": "collaborated_with",
+   "object": "Theophilus Bodson",
+   "role": null,
+   "place": null,
+   "year_start": 1888,
+   "year_end": 1892,
+   "explicit": true,
+   "evidence": "He started working on the Mundari Encyclopaedia as early as 1888, first assisted by Rev. Theophilus Bodson, S.J. (d. 1892).",
+   "quote_ok": true
+  },
+  {
+   "subject": "John-Baptist Hoffmann",
+   "type": "collaborated_with",
+   "object": "Van Emelen",
+   "role": null,
+   "place": null,
+   "year_start": 1920,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "returned after war in 1920, now assisted by —> Van Emelen.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HOFFMANN, John-Baptist (Johann Baptist)",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3048-hoffmann-john.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HOFFMANN, John-Baptist (Johann Baptist)",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3048/hoffmann-john/",
+  "subject": "HOFFMANN, John-Baptist (Johann Baptist)",
+  "birth_year": 1857,
+  "death_year": 1928
+ },
+ "model": "gemini-flash-latest"
+}

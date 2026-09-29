@@ -1,0 +1,109 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Herbert Galton",
+   "birth_year": 1917,
+   "death_year": 2004,
+   "nationality": "Austrian",
+   "field": "Linguist"
+  },
+  {
+   "name": "Trubetzkoy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Slavic"
+  },
+  {
+   "name": "Geiger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "GALTON, Herbert",
+   "birth_year": 1917,
+   "death_year": 2004
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Herbert Galton",
+   "type": "studied_at",
+   "object": "Vienna",
+   "role": null,
+   "place": "Vienna",
+   "year_start": 1935,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1935 studies at Vienna (Slavic under Trubetzkoy, also Sanskrit under Geiger).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Herbert Galton",
+   "type": "student_of",
+   "object": "Trubetzkoy",
+   "role": "teacher",
+   "place": "Vienna",
+   "year_start": 1935,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1935 studies at Vienna (Slavic under Trubetzkoy, also Sanskrit under Geiger).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Herbert Galton",
+   "type": "student_of",
+   "object": "Geiger",
+   "role": "teacher",
+   "place": "Vienna",
+   "year_start": 1935,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1935 studies at Vienna (Slavic under Trubetzkoy, also Sanskrit under Geiger).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Herbert Galton",
+   "type": "studied_at",
+   "object": "London",
+   "role": "Ph.D.",
+   "place": "London",
+   "year_start": null,
+   "year_end": 1951,
+   "explicit": true,
+   "evidence": "Ph.D. 1951 London.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Herbert Galton",
+   "type": "position_at",
+   "object": "University of Kansas",
+   "role": "Professor of Slavic Linguistics",
+   "place": null,
+   "year_start": 1962,
+   "year_end": 1988,
+   "explicit": true,
+   "evidence": "From 1962 Professor of Slavic Linguistics at University of Kansas. 1967 U.S. citizen. In 1988 retired and returned to Vienna.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GALTON, Herbert",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/40640-galton-herbert.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GALTON, Herbert",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/40640/galton-herbert/",
+  "subject": "GALTON, Herbert",
+  "birth_year": 1917,
+  "death_year": 2004
+ },
+ "model": "gemini-flash-latest"
+}

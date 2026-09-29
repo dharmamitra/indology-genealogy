@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John Clark Marshman",
+   "birth_year": 1794,
+   "death_year": 1877,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Joshua Marshman",
+   "birth_year": 1768,
+   "death_year": 1834,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "MARSHMAN, John Clark – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1768,
+   "death_year": 1834
+  },
+  {
+   "name": "MARSHMAN, John Clark",
+   "birth_year": 1794,
+   "death_year": 1877
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Clark Marshman",
+   "type": "other",
+   "object": "Joshua Marshman",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "The first child of —> Joshua Marshman (1768–1834) and Hannah Shepherd (1768–1847)",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Clark Marshman",
+   "type": "collaborated_with",
+   "object": "Joshua Marshman",
+   "role": null,
+   "place": null,
+   "year_start": 1818,
+   "year_end": 1818,
+   "explicit": true,
+   "evidence": "founding the first Bengali monthly and weekly, both with his father in 1818.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Clark Marshman",
+   "type": "founded",
+   "object": "Serampore College",
+   "role": null,
+   "place": null,
+   "year_start": 1818,
+   "year_end": 1818,
+   "explicit": true,
+   "evidence": "One of the founders of the Serampore College (also in 1818).",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Clark Marshman",
+   "type": "position_at",
+   "object": "Baptist Missionary station in Serampore",
+   "role": "directed its affairs",
+   "place": "Serampore",
+   "year_start": 1819,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "formally joined the brotherhood in 1819 and directed, as layman, its affairs during 20 years.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MARSHMAN, John Clark",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4053-marshman-john-clark.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MARSHMAN, John Clark",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4053/marshman-john-clark/",
+  "subject": "MARSHMAN, John Clark",
+  "birth_year": 1794,
+  "death_year": 1877
+ },
+ "model": "gemini-flash-latest"
+}

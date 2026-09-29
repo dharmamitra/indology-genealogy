@@ -1,0 +1,88 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "George Smith",
+   "birth_year": 1833,
+   "death_year": 1919,
+   "nationality": "British",
+   "field": "Teacher in India, Historian and Geographer"
+  },
+  {
+   "name": "SMITH, George – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1809,
+   "death_year": 1837
+  },
+  {
+   "name": "SMITH, George",
+   "birth_year": 1833,
+   "death_year": 1919
+  }
+ ],
+ "relations": [
+  {
+   "subject": "George Smith",
+   "type": "studied_at",
+   "object": "University of Edinburgh",
+   "role": "LL.D.",
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": 1868,
+   "explicit": true,
+   "evidence": "studies at University of Edinburgh: LL.D. 1868.",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Smith",
+   "type": "position_at",
+   "object": "Doveton College",
+   "role": "Professor",
+   "place": "Madras",
+   "year_start": 1854,
+   "year_end": 1854,
+   "explicit": true,
+   "evidence": "Professor 1854 and Principal 1855-58 of the Doveton College, Madras.",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Smith",
+   "type": "position_at",
+   "object": "Doveton College",
+   "role": "Principal",
+   "place": "Madras",
+   "year_start": 1855,
+   "year_end": 1858,
+   "explicit": true,
+   "evidence": "Professor 1854 and Principal 1855-58 of the Doveton College, Madras.",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Smith",
+   "type": "position_at",
+   "object": "Calcutta University",
+   "role": "Fellow",
+   "place": "Calcutta",
+   "year_start": 1856,
+   "year_end": 1875,
+   "explicit": true,
+   "evidence": "Fellow of Calcutta University in 1856-75.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SMITH, George",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5845-smith-george.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SMITH, George",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5845/smith-george/",
+  "subject": "SMITH, George",
+  "birth_year": 1833,
+  "death_year": 1919
+ },
+ "model": "gemini-flash-latest"
+}

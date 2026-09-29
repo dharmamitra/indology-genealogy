@@ -1,0 +1,145 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Oscar Lewis",
+   "birth_year": 1914,
+   "death_year": 1970,
+   "nationality": "American",
+   "field": "Anthropology"
+  },
+  {
+   "name": "Ruth Benedict",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Anthropology"
+  },
+  {
+   "name": "Ruth Maslow",
+   "birth_year": 1918,
+   "death_year": 2008,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "LEWIS, Oscar",
+   "birth_year": 1914,
+   "death_year": 1970
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Oscar Lewis",
+   "type": "studied_at",
+   "object": "City College of New York",
+   "role": "B.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1936,
+   "explicit": true,
+   "evidence": "Studies at City College of New York (B.A. 1936 in history)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Oscar Lewis",
+   "type": "studied_at",
+   "object": "Columbia University",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1940,
+   "explicit": true,
+   "evidence": "Studies at City College of New York (B.A. 1936 in history) and Columbia University, switched from history to anthropology (Ruth Benedict). Ph.D. 1940 there.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Oscar Lewis",
+   "type": "student_of",
+   "object": "Ruth Benedict",
+   "role": null,
+   "place": "Columbia University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "and Columbia University, switched from history to anthropology (Ruth Benedict).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Oscar Lewis",
+   "type": "position_at",
+   "object": "Brooklyn College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Taught at Brooklyn College",
+   "quote_ok": true
+  },
+  {
+   "subject": "Oscar Lewis",
+   "type": "position_at",
+   "object": "Washington University (St.Louis)",
+   "role": null,
+   "place": "St.Louis",
+   "year_start": 1946,
+   "year_end": 1948,
+   "explicit": true,
+   "evidence": "and 1946-48 Washington University (St.Louis)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Oscar Lewis",
+   "type": "position_at",
+   "object": "University of Illinois Urbana-Champaign",
+   "role": null,
+   "place": "Urbana-Champaign",
+   "year_start": 1948,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then from 1948 at University of Illinois Urbana-Champaign",
+   "quote_ok": true
+  },
+  {
+   "subject": "Oscar Lewis",
+   "type": "collaborated_with",
+   "object": "Ruth Maslow",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Married Ruth Maslow (1918–2008), who collaborated with him",
+   "quote_ok": true
+  },
+  {
+   "subject": "Oscar Lewis",
+   "type": "other",
+   "object": "Ruth Maslow",
+   "role": "spouse",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Married Ruth Maslow (1918–2008), who collaborated with him",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: LEWIS, Oscar",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/16962-lewis-oscar.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: LEWIS, Oscar",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/16962/lewis-oscar/",
+  "subject": "LEWIS, Oscar",
+  "birth_year": 1914,
+  "death_year": 1970
+ },
+ "model": "gemini-flash-latest"
+}

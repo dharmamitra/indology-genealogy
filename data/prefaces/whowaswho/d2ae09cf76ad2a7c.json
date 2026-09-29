@@ -1,0 +1,85 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "GATELLIER -BESNARD, Marie",
+   "birth_year": 1940,
+   "death_year": 1993,
+   "nationality": "French",
+   "field": "Art Historian"
+  },
+  {
+   "name": "J. Boisselier",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "A. Bareau",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "GATELLIER, Marie",
+   "birth_year": 1940,
+   "death_year": 1993
+  }
+ ],
+ "relations": [
+  {
+   "subject": "GATELLIER -BESNARD, Marie",
+   "type": "student_of",
+   "object": "J. Boisselier",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies under J. Boisselier",
+   "quote_ok": true
+  },
+  {
+   "subject": "GATELLIER -BESNARD, Marie",
+   "type": "student_of",
+   "object": "A. Bareau",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies under J. Boisselier, also A. Bareau.",
+   "quote_ok": true
+  },
+  {
+   "subject": "GATELLIER -BESNARD, Marie",
+   "type": "position_at",
+   "object": "C.N.R.S.",
+   "role": "Chargée de recherche",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Chargée de recherche in C.N.R.S.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GATELLIER, Marie",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/14516-gatellier-marie.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GATELLIER, Marie",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/14516/gatellier-marie/",
+  "subject": "GATELLIER, Marie",
+  "birth_year": 1940,
+  "death_year": 1993
+ },
+ "model": "gemini-flash-latest"
+}

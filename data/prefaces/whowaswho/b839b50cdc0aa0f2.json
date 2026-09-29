@@ -1,0 +1,107 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Rudolf Virchow",
+   "birth_year": 1821,
+   "death_year": 1902,
+   "nationality": "German",
+   "field": "Anatomy, Pathology and Anthropology"
+  },
+  {
+   "name": "Adolf Bastian",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "VIRCHOW, Rudolf – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1785,
+   "death_year": 1865
+  },
+  {
+   "name": "VIRCHOW, Rudolf",
+   "birth_year": 1821,
+   "death_year": 1902
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Rudolf Virchow",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": "graduated",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": 1843,
+   "explicit": true,
+   "evidence": "Studies of medicine at Berlin, graduated 1843.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rudolf Virchow",
+   "type": "position_at",
+   "object": "Charité Hospital",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1848,
+   "explicit": true,
+   "evidence": "Worked in Charité Hospital, but lost his position because of participation in the 1848 revolution.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rudolf Virchow",
+   "type": "position_at",
+   "object": "Würzburg",
+   "role": "Professor of Pathologic Anatomy",
+   "place": "Würzburg",
+   "year_start": 1849,
+   "year_end": 1856,
+   "explicit": true,
+   "evidence": "Professor of Pathologic Anatomy at Würzburg in 1849-56",
+   "quote_ok": true
+  },
+  {
+   "subject": "Rudolf Virchow",
+   "type": "position_at",
+   "object": "Berlin",
+   "role": "Professor of Pathologic Anatomy",
+   "place": "Berlin",
+   "year_start": 1856,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and, reinstated in Charité, at Berlin from 1856.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Adolf Bastian",
+   "type": "student_of",
+   "object": "Rudolf Virchow",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Adolf Bastian was his student.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: VIRCHOW, Rudolf",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4629-virchow-rudolf.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: VIRCHOW, Rudolf",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4629/virchow-rudolf/",
+  "subject": "VIRCHOW, Rudolf",
+  "birth_year": 1821,
+  "death_year": 1902
+ },
+ "model": "gemini-flash-latest"
+}

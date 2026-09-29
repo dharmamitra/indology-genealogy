@@ -1,0 +1,145 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Domenico Pezzi",
+   "birth_year": 1844,
+   "death_year": 1905,
+   "nationality": "Italian",
+   "field": "IE Scholar"
+  },
+  {
+   "name": "Flechia",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Pizzi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "PEZZI, Domenico",
+   "birth_year": 1844,
+   "death_year": 1905
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Domenico Pezzi",
+   "type": "student_of",
+   "object": "Flechia",
+   "role": "teacher",
+   "place": "Turin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Turin, among other things Sanskrit under Flechia.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Domenico Pezzi",
+   "type": "studied_at",
+   "object": "Turin",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1865,
+   "explicit": true,
+   "evidence": "Studies at Turin, among other things Sanskrit under Flechia. Ph.D. 1865.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Domenico Pezzi",
+   "type": "position_at",
+   "object": "Turin University",
+   "role": "aggregato alla Facoltà",
+   "place": "Turin",
+   "year_start": 1871,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Taught at Turin University (Facolta di lettere): from 1871 aggregato alla Facoltà",
+   "quote_ok": true
+  },
+  {
+   "subject": "Domenico Pezzi",
+   "type": "position_at",
+   "object": "Turin University",
+   "role": "incaricato del corso di grammatica greca",
+   "place": "Turin",
+   "year_start": 1876,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1876 incaricato del corso di grammatica greca",
+   "quote_ok": true
+  },
+  {
+   "subject": "Domenico Pezzi",
+   "type": "position_at",
+   "object": "Turin University",
+   "role": "Professore straordinario di grammatica e lessicologia greca",
+   "place": "Turin",
+   "year_start": 1878,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1878 Professore straordinario di grammatica e lessicologia greca",
+   "quote_ok": true
+  },
+  {
+   "subject": "Domenico Pezzi",
+   "type": "position_at",
+   "object": "Turin University",
+   "role": "Professor ord. di storia comparata delle lingue classiche e neolatine",
+   "place": "Turin",
+   "year_start": 1891,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1891 Flechia’s successor as Professor ord. di storia comparata delle lingue classiche e neolatine.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Domenico Pezzi",
+   "type": "succeeded",
+   "object": "Flechia",
+   "role": "Professor ord. di storia comparata delle lingue classiche e neolatine",
+   "place": "Turin University",
+   "year_start": 1891,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1891 Flechia’s successor as Professor ord. di storia comparata delle lingue classiche e neolatine.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Pizzi",
+   "type": "succeeded",
+   "object": "Flechia",
+   "role": "Sanskrit teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Apparently he never taught Sanskrit, which Flechia continued in retirement and then gave to Pizzi.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: PEZZI, Domenico",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4775-pezzi-domenico.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: PEZZI, Domenico",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4775/pezzi-domenico/",
+  "subject": "PEZZI, Domenico",
+  "birth_year": 1844,
+  "death_year": 1905
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,121 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Otto Albert Paul",
+   "birth_year": 1888,
+   "death_year": 1944,
+   "nationality": "German",
+   "field": "Germanist and Iranian Scholar"
+  },
+  {
+   "name": "Geiger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Wüst",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "PAUL, Otto",
+   "birth_year": 1888,
+   "death_year": 1944
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Otto Albert Paul",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1915,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Started studies late (1915) at Berlin concentrating on German and Linguistics",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Albert Paul",
+   "type": "studied_at",
+   "object": "Munich",
+   "role": "Ph.D.",
+   "place": "Munich",
+   "year_start": 1924,
+   "year_end": 1927,
+   "explicit": true,
+   "evidence": "from 1924 at Munich (Ph.D. 1927)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Albert Paul",
+   "type": "studied_at",
+   "object": "Munich",
+   "role": "Habilitation",
+   "place": "Munich",
+   "year_start": null,
+   "year_end": 1938,
+   "explicit": true,
+   "evidence": "Habilitation 1938 Munich.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Albert Paul",
+   "type": "student_of",
+   "object": "Geiger",
+   "role": "teacher",
+   "place": "Munich",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "now also Aryan Philology, under Geiger, then also Wüst.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Albert Paul",
+   "type": "student_of",
+   "object": "Wüst",
+   "role": "teacher",
+   "place": "Munich",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "now also Aryan Philology, under Geiger, then also Wüst.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otto Albert Paul",
+   "type": "position_at",
+   "object": "Rosenberg’s Institut zur Erforschung der Judenfrage",
+   "role": "director",
+   "place": null,
+   "year_start": 1941,
+   "year_end": 1943,
+   "explicit": true,
+   "evidence": "he worked from 1941 at Rosenberg’s Institut zur Erforschung der Judenfrage, 1942-43 its director.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: PAUL, Otto",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4707-paul-otto.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: PAUL, Otto",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4707/paul-otto/",
+  "subject": "PAUL, Otto",
+  "birth_year": 1888,
+  "death_year": 1944
+ },
+ "model": "gemini-flash-latest"
+}

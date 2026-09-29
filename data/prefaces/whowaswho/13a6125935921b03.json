@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Luise Hilgenberg",
+   "birth_year": 1886,
+   "death_year": 1942,
+   "nationality": "German",
+   "field": "Indologist"
+  },
+  {
+   "name": "Kirfel",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "HILGENBERG, Luise",
+   "birth_year": 1886,
+   "death_year": 1942
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Luise Hilgenberg",
+   "type": "studied_at",
+   "object": "Bonn",
+   "role": "Dr.med.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1922,
+   "explicit": true,
+   "evidence": "Dr.med. 1922 Bonn",
+   "quote_ok": true
+  },
+  {
+   "subject": "Luise Hilgenberg",
+   "type": "studied_at",
+   "object": "Bonn",
+   "role": "Dr. phil.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1933,
+   "explicit": true,
+   "evidence": "Dr. phil. 1933 Bonn (under Kirfel)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Luise Hilgenberg",
+   "type": "student_of",
+   "object": "Kirfel",
+   "role": "doctoral supervisor",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": 1933,
+   "explicit": true,
+   "evidence": "Dr. phil. 1933 Bonn (under Kirfel)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HILGENBERG, Luise",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2982-hilgenberg-luise.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HILGENBERG, Luise",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2982/hilgenberg-luise/",
+  "subject": "HILGENBERG, Luise",
+  "birth_year": 1886,
+  "death_year": 1942
+ },
+ "model": "gemini-flash-latest"
+}

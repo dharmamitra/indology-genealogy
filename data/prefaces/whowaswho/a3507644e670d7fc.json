@@ -1,0 +1,169 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Flechia",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Bopp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Weber",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lignana",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "DE GUBERNATIS, Angelo – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1836,
+   "death_year": 1914
+  },
+  {
+   "name": "DE GUBERNATIS, Angelo",
+   "birth_year": 1840,
+   "death_year": 1913
+  }
+ ],
+ "relations": [
+  {
+   "subject": "DE GUBERNATIS, Angelo",
+   "type": "student_of",
+   "object": "Flechia",
+   "role": "teacher",
+   "place": "Turin",
+   "year_start": null,
+   "year_end": 1861,
+   "explicit": true,
+   "evidence": "School and studies at Turin (under Flechia), graduated as Ph.D. in 1861",
+   "quote_ok": true
+  },
+  {
+   "subject": "DE GUBERNATIS, Angelo",
+   "type": "studied_at",
+   "object": "Turin",
+   "role": "Ph.D.",
+   "place": "Turin",
+   "year_start": null,
+   "year_end": 1861,
+   "explicit": true,
+   "evidence": "School and studies at Turin (under Flechia), graduated as Ph.D. in 1861",
+   "quote_ok": true
+  },
+  {
+   "subject": "DE GUBERNATIS, Angelo",
+   "type": "student_of",
+   "object": "Bopp",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1862,
+   "year_end": 1863,
+   "explicit": true,
+   "evidence": "then further studies 1862-63 under Bopp and Weber at Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "DE GUBERNATIS, Angelo",
+   "type": "student_of",
+   "object": "Weber",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1862,
+   "year_end": 1863,
+   "explicit": true,
+   "evidence": "then further studies 1862-63 under Bopp and Weber at Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "DE GUBERNATIS, Angelo",
+   "type": "position_at",
+   "object": "Istituto dei Studi Superiori in Florence",
+   "role": "Professor of Sanskrit and Comparative Linguistics",
+   "place": "Florence",
+   "year_start": 1863,
+   "year_end": 1890,
+   "explicit": true,
+   "evidence": "In 1863-90 Professor of Sanskrit and Comparative Linguistics at Istituto dei Studi Superiori in Florence.",
+   "quote_ok": true
+  },
+  {
+   "subject": "DE GUBERNATIS, Angelo",
+   "type": "position_at",
+   "object": "Rome",
+   "role": "Professor of Sanskrit and Italian Literature",
+   "place": "Rome",
+   "year_start": 1890,
+   "year_end": 1908,
+   "explicit": true,
+   "evidence": "From 1890 Professor of Sanskrit (succeeding Lignana) and Italian Literature at Rome. Retired in 1908.",
+   "quote_ok": true
+  },
+  {
+   "subject": "DE GUBERNATIS, Angelo",
+   "type": "succeeded",
+   "object": "Lignana",
+   "role": null,
+   "place": "Rome",
+   "year_start": 1890,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1890 Professor of Sanskrit (succeeding Lignana) and Italian Literature at Rome.",
+   "quote_ok": true
+  },
+  {
+   "subject": "DE GUBERNATIS, Angelo",
+   "type": "founded",
+   "object": "Museo Indiano in Florence",
+   "role": null,
+   "place": "Florence",
+   "year_start": 1886,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a skilled organizator who founded the Museo Indiano in Florence and the Società Asiatica Italiana (both in 1886).",
+   "quote_ok": true
+  },
+  {
+   "subject": "DE GUBERNATIS, Angelo",
+   "type": "founded",
+   "object": "Società Asiatica Italiana",
+   "role": null,
+   "place": null,
+   "year_start": 1886,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a skilled organizator who founded the Museo Indiano in Florence and the Società Asiatica Italiana (both in 1886).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: DE GUBERNATIS, Angelo",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1514-1514.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: DE GUBERNATIS, Angelo",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1514/1514/",
+  "subject": "DE GUBERNATIS, Angelo",
+  "birth_year": 1840,
+  "death_year": 1913
+ },
+ "model": "gemini-flash-latest"
+}

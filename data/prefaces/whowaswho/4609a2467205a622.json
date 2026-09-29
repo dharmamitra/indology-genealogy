@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Henry Bartle Edward Frere",
+   "birth_year": 1815,
+   "death_year": 1884,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Mary Frere",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "FRERE, Bartle – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1770,
+   "death_year": 1844
+  },
+  {
+   "name": "FRERE, Bartle",
+   "birth_year": 1815,
+   "death_year": 1884
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Henry Bartle Edward Frere",
+   "type": "studied_at",
+   "object": "Bath grammar school",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "educated at Bath grammar school and Haileybury.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Bartle Edward Frere",
+   "type": "studied_at",
+   "object": "Haileybury",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "educated at Bath grammar school and Haileybury.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mary Frere",
+   "type": "other",
+   "object": "Henry Bartle Edward Frere",
+   "role": "daughter",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Married 1844 Catherine Arthur (d. 1899), four daughters (—> Mary Frere) and one son.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: FRERE, Bartle",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2093-frere-henry-bartle-edward.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: FRERE, Bartle",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2093/frere-henry-bartle-edward/",
+  "subject": "FRERE, Bartle",
+  "birth_year": 1815,
+  "death_year": 1884
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,152 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Silvestre de Sacy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Chézy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "S. Munk",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lassen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "REINAUD, Joseph-Toussaint",
+   "birth_year": 1795,
+   "death_year": 1867
+  }
+ ],
+ "relations": [
+  {
+   "subject": "REINAUD, Joseph-Toussaint",
+   "type": "student_of",
+   "object": "Silvestre de Sacy",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied theology from 1814 in Paris, where he soon became student of Silvestre de Sacy.",
+   "quote_ok": true
+  },
+  {
+   "subject": "REINAUD, Joseph-Toussaint",
+   "type": "position_at",
+   "object": "Bibliothèque nationale",
+   "role": null,
+   "place": null,
+   "year_start": 1824,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1824 he worked in Bibliothèque nationale (then Bibl. royale).",
+   "quote_ok": true
+  },
+  {
+   "subject": "REINAUD, Joseph-Toussaint",
+   "type": "position_at",
+   "object": "A.I.B.L.",
+   "role": "member",
+   "place": null,
+   "year_start": 1832,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1832 member of A.I.B.L. (succeeding Chézy).",
+   "quote_ok": true
+  },
+  {
+   "subject": "REINAUD, Joseph-Toussaint",
+   "type": "succeeded",
+   "object": "Chézy",
+   "role": "member",
+   "place": "A.I.B.L.",
+   "year_start": 1832,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1832 member of A.I.B.L. (succeeding Chézy).",
+   "quote_ok": true
+  },
+  {
+   "subject": "REINAUD, Joseph-Toussaint",
+   "type": "position_at",
+   "object": "É.L.O.V.",
+   "role": "Professor of Arabic",
+   "place": null,
+   "year_start": 1838,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1838 he succeeded Silvestre de Sacy as Professor of Arabic at É.L.O.V.",
+   "quote_ok": true
+  },
+  {
+   "subject": "REINAUD, Joseph-Toussaint",
+   "type": "succeeded",
+   "object": "Silvestre de Sacy",
+   "role": "Professor of Arabic",
+   "place": "É.L.O.V.",
+   "year_start": 1838,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1838 he succeeded Silvestre de Sacy as Professor of Arabic at É.L.O.V.",
+   "quote_ok": true
+  },
+  {
+   "subject": "REINAUD, Joseph-Toussaint",
+   "type": "position_at",
+   "object": "Bibliothèque nationale",
+   "role": "Conservator of Oriental manuscripts",
+   "place": null,
+   "year_start": 1854,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1854 also Conservator of Oriental manuscripts at Bibliothèque nationale (then Bibl. impériale).",
+   "quote_ok": true
+  },
+  {
+   "subject": "REINAUD, Joseph-Toussaint",
+   "type": "position_at",
+   "object": "Société asiatique",
+   "role": "President",
+   "place": null,
+   "year_start": 1847,
+   "year_end": 1867,
+   "explicit": true,
+   "evidence": "In 1847-67 also President of Société asiatique.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: REINAUD, Joseph-Toussaint",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5164-reinaud-joseph-toussaint.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: REINAUD, Joseph-Toussaint",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5164/reinaud-joseph-toussaint/",
+  "subject": "REINAUD, Joseph-Toussaint",
+  "birth_year": 1795,
+  "death_year": 1867
+ },
+ "model": "gemini-flash-latest"
+}

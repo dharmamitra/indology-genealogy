@@ -1,0 +1,85 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "WOLLHEIM DA FONSECA, Anton Eduard",
+   "birth_year": 1810,
+   "death_year": 1884,
+   "nationality": "German",
+   "field": "Indologist"
+  },
+  {
+   "name": "Bopp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Oriental philology"
+  },
+  {
+   "name": "Windisch",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "WOLLHEIM DA FONSECA, Eduard",
+   "birth_year": 1810,
+   "death_year": 1884
+  }
+ ],
+ "relations": [
+  {
+   "subject": "WOLLHEIM DA FONSECA, Anton Eduard",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": "Ph.D.",
+   "place": "Berlin",
+   "year_start": 1828,
+   "year_end": 1831,
+   "explicit": true,
+   "evidence": "Studied in 1828-31 at Berlin philosophy, Oriental philology (Bopp), history, and political science. Ph.D. 1831 Berlin.",
+   "quote_ok": true
+  },
+  {
+   "subject": "WOLLHEIM DA FONSECA, Anton Eduard",
+   "type": "student_of",
+   "object": "Bopp",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1828,
+   "year_end": 1831,
+   "explicit": false,
+   "evidence": "Studied in 1828-31 at Berlin philosophy, Oriental philology (Bopp)",
+   "quote_ok": true
+  },
+  {
+   "subject": "WOLLHEIM DA FONSECA, Anton Eduard",
+   "type": "position_at",
+   "object": "Berlin",
+   "role": "PD of Oriental and Modern Languages",
+   "place": "Berlin",
+   "year_start": 1849,
+   "year_end": 1852,
+   "explicit": true,
+   "evidence": "In 1849 Wollheim da Fonseca became PD of Oriental and Modern Languages at Berlin, but taught only until 1852.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: WOLLHEIM DA FONSECA, Eduard",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5552-wollheim-da-fonseca-anton-eduard.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: WOLLHEIM DA FONSECA, Eduard",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5552/wollheim-da-fonseca-anton-eduard/",
+  "subject": "WOLLHEIM DA FONSECA, Eduard",
+  "birth_year": 1810,
+  "death_year": 1884
+ },
+ "model": "gemini-flash-latest"
+}

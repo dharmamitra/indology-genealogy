@@ -1,0 +1,73 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Johann Michael Bühler",
+   "birth_year": 1817,
+   "death_year": 1854,
+   "nationality": "German",
+   "field": "Indologist"
+  },
+  {
+   "name": "Ewald",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Weigle",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BÜHLER, Michael",
+   "birth_year": 1817,
+   "death_year": 1854
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johann Michael Bühler",
+   "type": "student_of",
+   "object": "Ewald",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "After several years of Sanskrit studies in Germany (perhaps under Ewald, with whom he later corresponded)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johann Michael Bühler",
+   "type": "collaborated_with",
+   "object": "Weigle",
+   "role": null,
+   "place": "Kateri (Kaity) in the Nilgiris",
+   "year_start": 1847,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "settled down in Kateri (Kaity) in the Nilgiris founding the Toda mission together with Weigle",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BÜHLER, Michael",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1030-buhler-johann-michael.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BÜHLER, Michael",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1030/buhler-johann-michael/",
+  "subject": "BÜHLER, Michael",
+  "birth_year": 1817,
+  "death_year": 1854
+ },
+ "model": "gemini-flash-latest"
+}

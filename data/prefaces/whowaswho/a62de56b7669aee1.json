@@ -1,0 +1,85 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "William Howell",
+   "birth_year": 1790,
+   "death_year": 1867,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Mackenzie",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Howell",
+   "type": "position_at",
+   "object": "Madras Survey",
+   "role": "Assistant Surveyor",
+   "place": "Madras",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "When 14 apprenticed as Assistant Surveyor in Madras Survey under Major Mackenzie",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Howell",
+   "type": "student_of",
+   "object": "Mackenzie",
+   "role": "apprentice",
+   "place": "Madras",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "When 14 apprenticed as Assistant Surveyor in Madras Survey under Major Mackenzie, conducted surveys in the South and in 1818 followed Mackenzie to Calcutta",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Howell",
+   "type": "position_at",
+   "object": "London Missionary Society",
+   "role": "missionary",
+   "place": null,
+   "year_start": 1821,
+   "year_end": 1842,
+   "explicit": true,
+   "evidence": "From 1821 working for London Missionary Society from 1821. First in Bellary as superintendent of native schools, in 1822 started mission in Cuddapah (Kadapa)... In 1842 left the mission",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Howell",
+   "type": "position_at",
+   "object": "Church of England",
+   "role": "priest",
+   "place": "Madras",
+   "year_start": 1842,
+   "year_end": 1856,
+   "explicit": true,
+   "evidence": "In 1842 left the mission and joined the Church of England  working as priest in Madras until his retirement in 1856.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HOWELL, William",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/15574-howell-william.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HOWELL, William",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/15574/howell-william/",
+  "subject": "HOWELL, William",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

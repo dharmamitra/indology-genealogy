@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Gordon Matthews",
+   "birth_year": 1886,
+   "death_year": 1947,
+   "nationality": "British",
+   "field": "Tamil"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Gordon Matthews",
+   "type": "studied_at",
+   "object": "Merton College, Oxford",
+   "role": "M.A.",
+   "place": "Oxford",
+   "year_start": null,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "Studies at Merton College, Oxford. M.A. 1910",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gordon Matthews",
+   "type": "studied_at",
+   "object": "Mansfield College",
+   "role": "B.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1912,
+   "explicit": true,
+   "evidence": "B.Litt., B.D. 1912 (Mansfield College)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gordon Matthews",
+   "type": "position_at",
+   "object": "Madras Christian College",
+   "role": "Professor of English and Vice-Principal",
+   "place": null,
+   "year_start": null,
+   "year_end": 1939,
+   "explicit": true,
+   "evidence": "Professor of English and Vice-Principal at Madras Christian College. Member of Tamil Lexicon Committee. Retired 1939",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gordon Matthews",
+   "type": "position_at",
+   "object": "S.O.A.S.",
+   "role": "Lecturer in Tamil",
+   "place": null,
+   "year_start": 1939,
+   "year_end": 1947,
+   "explicit": true,
+   "evidence": "Retired 1939 and was then eight years Lecturer in Tamil at S.O.A.S.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: MATTHEWS, Gordon",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/17850-matthews-gordon.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: MATTHEWS, Gordon",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/17850/matthews-gordon/",
+  "subject": "MATTHEWS, Gordon",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

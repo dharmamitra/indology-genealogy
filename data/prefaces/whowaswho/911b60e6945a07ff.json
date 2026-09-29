@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John Malcolm Forbes Ludlow",
+   "birth_year": 1821,
+   "death_year": 1911,
+   "nationality": "British",
+   "field": "Lawyer and Historian"
+  },
+  {
+   "name": "John Briggs",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "LUDLOW, John Malcolm",
+   "birth_year": 1821,
+   "death_year": 1911
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Malcolm Forbes Ludlow",
+   "type": "studied_at",
+   "object": "Merchant Taylor’s School",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at Merchant Taylor’s School and College Bourbon in Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Malcolm Forbes Ludlow",
+   "type": "studied_at",
+   "object": "College Bourbon",
+   "role": "Bachelor-ès-lettres",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": 1837,
+   "explicit": true,
+   "evidence": "Educated at Merchant Taylor’s School and College Bourbon in Paris... Bachelor-ès-lettres 1837 Paris",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Malcolm Forbes Ludlow",
+   "type": "other",
+   "object": "John Briggs",
+   "role": "family",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His grandmother was the sister of —> John Briggs’ father.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: LUDLOW, John Malcolm",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3901-ludlow-john-malcolm.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: LUDLOW, John Malcolm",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3901/ludlow-john-malcolm/",
+  "subject": "LUDLOW, John Malcolm",
+  "birth_year": 1821,
+  "death_year": 1911
+ },
+ "model": "gemini-flash-latest"
+}

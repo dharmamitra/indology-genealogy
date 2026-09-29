@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2022,
+ "people": [
+  {
+   "name": "Andrew Hollingworth Frost",
+   "birth_year": 1819,
+   "death_year": 1907,
+   "nationality": "British",
+   "field": "Mathematician"
+  },
+  {
+   "name": "FROST, Andrew Hollingworth",
+   "birth_year": 1819,
+   "death_year": 1907
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Andrew Hollingworth Frost",
+   "type": "studied_at",
+   "object": "Cambridge (St. John’s College)",
+   "role": "B.A.",
+   "place": null,
+   "year_start": 1838,
+   "year_end": 1842,
+   "explicit": true,
+   "evidence": "From 1838 studies at Cambridge (St. John’s College), B.A. 1842, M.A. 1846.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Andrew Hollingworth Frost",
+   "type": "studied_at",
+   "object": "Cambridge (St. John’s College)",
+   "role": "M.A.",
+   "place": null,
+   "year_start": 1838,
+   "year_end": 1846,
+   "explicit": true,
+   "evidence": "From 1838 studies at Cambridge (St. John’s College), B.A. 1842, M.A. 1846.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Andrew Hollingworth Frost",
+   "type": "position_at",
+   "object": "Church Missionary College in Islington",
+   "role": "Principal",
+   "place": "Islington",
+   "year_start": 1870,
+   "year_end": 1874,
+   "explicit": true,
+   "evidence": "In 1870-74 Principal of the Church Missionary College in Islington",
+   "quote_ok": true
+  },
+  {
+   "subject": "Andrew Hollingworth Frost",
+   "type": "position_at",
+   "object": "Cambridge",
+   "role": "Lecturer in Marathi and Gujarati",
+   "place": null,
+   "year_start": 1884,
+   "year_end": 1902,
+   "explicit": true,
+   "evidence": "In 1884-1902 Lecturer in Marathi and Gujarati at Cambridge.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: FROST, Andrew Hollingworth",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/29851-frost-andrew-hollingworth.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: FROST, Andrew Hollingworth",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/29851/frost-andrew-hollingworth/",
+  "subject": "FROST, Andrew Hollingworth",
+  "birth_year": 1819,
+  "death_year": 1907
+ },
+ "model": "gemini-flash-latest"
+}

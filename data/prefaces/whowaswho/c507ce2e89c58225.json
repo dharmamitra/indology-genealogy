@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Edward Thomas",
+   "birth_year": 1813,
+   "death_year": 1886,
+   "nationality": "British",
+   "field": "Indology"
+  },
+  {
+   "name": "Prinsep",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "THOMAS, Edward – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1769,
+   "death_year": 1846
+  },
+  {
+   "name": "THOMAS, Edward",
+   "birth_year": 1813,
+   "death_year": 1886
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Edward Thomas",
+   "type": "studied_at",
+   "object": "Haileybury",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at Haileybury.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Thomas",
+   "type": "position_at",
+   "object": "Bengal Civil Service",
+   "role": "writer",
+   "place": "India",
+   "year_start": 1832,
+   "year_end": 1857,
+   "explicit": true,
+   "evidence": "In 1832 joined the Bengal Civil Service as a writer. ... Retired in 1857",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edward Thomas",
+   "type": "influenced_by",
+   "object": "Prinsep",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Thomas continued Prinsep’s work studying Indo-Greek, Indo-Scythian and Iranian numismatics, Indian metrology and epigraphy",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: THOMAS, Edward",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4980-thomas-edward.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: THOMAS, Edward",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4980/thomas-edward/",
+  "subject": "THOMAS, Edward",
+  "birth_year": 1813,
+  "death_year": 1886
+ },
+ "model": "gemini-flash-latest"
+}

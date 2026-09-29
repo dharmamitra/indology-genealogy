@@ -1,0 +1,121 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2018,
+ "people": [
+  {
+   "name": "Moritz Steinschneider",
+   "birth_year": 1816,
+   "death_year": 1907,
+   "nationality": "Austrian",
+   "field": "Semitic Scholar"
+  },
+  {
+   "name": "Fleischer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Bopp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Renan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "STEINSCHNEIDER, Moritz – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1782,
+   "death_year": 1856
+  },
+  {
+   "name": "STEINSCHNEIDER, Moritz",
+   "birth_year": 1816,
+   "death_year": 1907
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Moritz Steinschneider",
+   "type": "student_of",
+   "object": "Fleischer",
+   "role": "teacher",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "he went to Leipzig and studied under Fleischer",
+   "quote_ok": true
+  },
+  {
+   "subject": "Moritz Steinschneider",
+   "type": "student_of",
+   "object": "Bopp",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": 1839,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then from 1839 at Berlin under Bopp",
+   "quote_ok": true
+  },
+  {
+   "subject": "Moritz Steinschneider",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": "PhD",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": 1850,
+   "explicit": true,
+   "evidence": "Ph.D. 1850 Leipzig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Moritz Steinschneider",
+   "type": "position_at",
+   "object": "Royal Library",
+   "role": "Hilfsarbeiter",
+   "place": "Berlin",
+   "year_start": 1869,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1869 also Hilfsarbeiter in Royal Library",
+   "quote_ok": true
+  },
+  {
+   "subject": "Moritz Steinschneider",
+   "type": "position_at",
+   "object": "Jüdische Mädchenschule",
+   "role": "director",
+   "place": "Berlin",
+   "year_start": 1869,
+   "year_end": 1890,
+   "explicit": true,
+   "evidence": "in 1869-90 director of Jüdische Mädchenschule",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: STEINSCHNEIDER, Moritz",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/10632-steinschneider-moritz.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: STEINSCHNEIDER, Moritz",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/10632/steinschneider-moritz/",
+  "subject": "STEINSCHNEIDER, Moritz",
+  "birth_year": 1816,
+  "death_year": 1907
+ },
+ "model": "gemini-flash-latest"
+}

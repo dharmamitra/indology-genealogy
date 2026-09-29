@@ -1,0 +1,85 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Friedrich Wilhelm Oloff Johannes Lorentz",
+   "birth_year": 1870,
+   "death_year": 1937,
+   "nationality": "German",
+   "field": "Slavist"
+  },
+  {
+   "name": "Brugmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Leskien",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "LORENTZ, Friedrich",
+   "birth_year": 1870,
+   "death_year": 1937
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Friedrich Wilhelm Oloff Johannes Lorentz",
+   "type": "student_of",
+   "object": "Brugmann",
+   "role": "teacher",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied IE and Slavonic linguistics at Leipzig (under Brugmann and Leskien)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Wilhelm Oloff Johannes Lorentz",
+   "type": "student_of",
+   "object": "Leskien",
+   "role": "teacher",
+   "place": "Leipzig",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied IE and Slavonic linguistics at Leipzig (under Brugmann and Leskien)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Friedrich Wilhelm Oloff Johannes Lorentz",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1894,
+   "explicit": true,
+   "evidence": "Studied IE and Slavonic linguistics at Leipzig (under Brugmann and Leskien), Ph.D. 1894 there.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: LORENTZ, Friedrich",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3873-lorentz-friedrich.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: LORENTZ, Friedrich",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3873/lorentz-friedrich/",
+  "subject": "LORENTZ, Friedrich",
+  "birth_year": 1870,
+  "death_year": 1937
+ },
+ "model": "gemini-flash-latest"
+}

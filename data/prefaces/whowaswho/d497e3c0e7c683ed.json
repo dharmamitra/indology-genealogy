@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Jean-Baptiste Bourguignon d’Anville",
+   "birth_year": 1697,
+   "death_year": 1782,
+   "nationality": "French",
+   "field": "Cartographer, Geographer and Historian of Geography"
+  },
+  {
+   "name": "abbé de Longerue",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BOURGUIGNON D’ANVILLE, Jean-Baptiste",
+   "birth_year": 1697,
+   "death_year": 1782
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jean-Baptiste Bourguignon d’Anville",
+   "type": "student_of",
+   "object": "abbé de Longerue",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Student of abbé de Longerue.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean-Baptiste Bourguignon d’Anville",
+   "type": "position_at",
+   "object": "A.I.B.L.",
+   "role": "member",
+   "place": null,
+   "year_start": 1754,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1754 member of A.I.B.L.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean-Baptiste Bourguignon d’Anville",
+   "type": "position_at",
+   "object": "Académie des Sciences",
+   "role": "member",
+   "place": null,
+   "year_start": 1773,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "1773 of Académie des Sciences.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BOURGUIGNON D’ANVILLE, Jean-Baptiste",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/287-bourguignon-danville-jean-baptiste.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BOURGUIGNON D’ANVILLE, Jean-Baptiste",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/287/bourguignon-danville-jean-baptiste/",
+  "subject": "BOURGUIGNON D’ANVILLE, Jean-Baptiste",
+  "birth_year": 1697,
+  "death_year": 1782
+ },
+ "model": "gemini-flash-latest"
+}

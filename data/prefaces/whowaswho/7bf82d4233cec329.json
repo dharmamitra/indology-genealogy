@@ -1,0 +1,95 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2022,
+ "people": [
+  {
+   "name": "Josef Jakub Jungmann",
+   "birth_year": 1773,
+   "death_year": 1847,
+   "nationality": "Czech",
+   "field": "Linguist and Poet"
+  },
+  {
+   "name": "A. J. Jungmann",
+   "birth_year": 1775,
+   "death_year": 1854,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "JUNGMANN, Josef – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1775,
+   "death_year": 1854
+  },
+  {
+   "name": "JUNGMANN, Josef",
+   "birth_year": 1773,
+   "death_year": 1847
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Josef Jakub Jungmann",
+   "type": "other",
+   "object": "A. J. Jungmann",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "brother of —> A. J. Jungmann (1775–1854)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Josef Jakub Jungmann",
+   "type": "studied_at",
+   "object": "Prague",
+   "role": null,
+   "place": "Prague",
+   "year_start": 1795,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied from 1795 literature and from 1799 law at Prague.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Josef Jakub Jungmann",
+   "type": "studied_at",
+   "object": "Prague",
+   "role": "Ph.D.",
+   "place": "Prague",
+   "year_start": null,
+   "year_end": 1817,
+   "explicit": true,
+   "evidence": "Ph.D. 1817, from now on also taught at university as Professor.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Josef Jakub Jungmann",
+   "type": "position_at",
+   "object": "university",
+   "role": "Professor",
+   "place": null,
+   "year_start": 1817,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Ph.D. 1817, from now on also taught at university as Professor.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: JUNGMANN, Josef",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/32817-jungmann-josef.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: JUNGMANN, Josef",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/32817/jungmann-josef/",
+  "subject": "JUNGMANN, Josef",
+  "birth_year": 1773,
+  "death_year": 1847
+ },
+ "model": "gemini-flash-latest"
+}

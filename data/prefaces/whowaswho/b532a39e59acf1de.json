@@ -1,0 +1,171 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Zimmer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Schubring",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lévi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Foucher",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Renou",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "FABRICIUS, Pierre",
+   "birth_year": 1912,
+   "death_year": 1988
+  }
+ ],
+ "relations": [
+  {
+   "subject": "FABRICIUS, Pierre",
+   "type": "student_of",
+   "object": "Zimmer",
+   "role": "teacher",
+   "place": "Heidelberg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Heidelberg (under  Zimmer)",
+   "quote_ok": true
+  },
+  {
+   "subject": "FABRICIUS, Pierre",
+   "type": "studied_at",
+   "object": "Heidelberg",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studies at Heidelberg (under  Zimmer)",
+   "quote_ok": true
+  },
+  {
+   "subject": "FABRICIUS, Pierre",
+   "type": "student_of",
+   "object": "Schubring",
+   "role": "teacher",
+   "place": "Hamburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then at Hamburg (Schubring)",
+   "quote_ok": true
+  },
+  {
+   "subject": "FABRICIUS, Pierre",
+   "type": "studied_at",
+   "object": "Hamburg",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then at Hamburg (Schubring)",
+   "quote_ok": true
+  },
+  {
+   "subject": "FABRICIUS, Pierre",
+   "type": "student_of",
+   "object": "Lévi",
+   "role": "teacher",
+   "place": "France",
+   "year_start": 1933,
+   "year_end": 1935,
+   "explicit": true,
+   "evidence": "In 1933 emigrated to France because of Nazis. Now further studies under Lévi, Foucher, Renou, et al., diplome 1935",
+   "quote_ok": true
+  },
+  {
+   "subject": "FABRICIUS, Pierre",
+   "type": "student_of",
+   "object": "Foucher",
+   "role": "teacher",
+   "place": "France",
+   "year_start": 1933,
+   "year_end": 1935,
+   "explicit": true,
+   "evidence": "further studies under Lévi, Foucher, Renou, et al., diplome 1935",
+   "quote_ok": true
+  },
+  {
+   "subject": "FABRICIUS, Pierre",
+   "type": "student_of",
+   "object": "Renou",
+   "role": "teacher",
+   "place": "France",
+   "year_start": 1933,
+   "year_end": 1935,
+   "explicit": true,
+   "evidence": "further studies under Lévi, Foucher, Renou, et al., diplome 1935",
+   "quote_ok": true
+  },
+  {
+   "subject": "FABRICIUS, Pierre",
+   "type": "studied_at",
+   "object": "S.O.A.S. in London",
+   "role": null,
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "diplome 1935, then one year at S.O.A.S. in London",
+   "quote_ok": true
+  },
+  {
+   "subject": "FABRICIUS, Pierre",
+   "type": "position_at",
+   "object": "Phnom Penh University",
+   "role": "Professor",
+   "place": "Phnom Penh",
+   "year_start": 1965,
+   "year_end": 1974,
+   "explicit": true,
+   "evidence": "In 1965-74 Professor at Phnom Penh University teaching Sanskrit.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: FABRICIUS, Pierre",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/14012-fabricius-pierre.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: FABRICIUS, Pierre",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/14012/fabricius-pierre/",
+  "subject": "FABRICIUS, Pierre",
+  "birth_year": 1912,
+  "death_year": 1988
+ },
+ "model": "gemini-flash-latest"
+}

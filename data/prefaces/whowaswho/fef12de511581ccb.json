@@ -1,0 +1,145 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Willy Foy",
+   "birth_year": 1873,
+   "death_year": 1929,
+   "nationality": "German",
+   "field": "Indologist and Ethnologist"
+  },
+  {
+   "name": "Windisch",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Brugmann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "FOY, Willy",
+   "birth_year": 1873,
+   "death_year": 1929
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Willy Foy",
+   "type": "student_of",
+   "object": "Windisch",
+   "role": "teacher",
+   "place": "Leipzig",
+   "year_start": 1892,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied from 1892 philology at Leipzig (Windisch, Brugmann)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Willy Foy",
+   "type": "student_of",
+   "object": "Brugmann",
+   "role": "teacher",
+   "place": "Leipzig",
+   "year_start": 1892,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied from 1892 philology at Leipzig (Windisch, Brugmann)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Willy Foy",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": "philology",
+   "place": null,
+   "year_start": 1892,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied from 1892 philology at Leipzig (Windisch, Brugmann)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Willy Foy",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1895,
+   "explicit": true,
+   "evidence": "Ph.D. 1895 Leipzig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Willy Foy",
+   "type": "position_at",
+   "object": "Dresden Ethnographic Museum",
+   "role": "Assistant",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After a while as Assistant in Dresden Ethnographic Museum",
+   "quote_ok": true
+  },
+  {
+   "subject": "Willy Foy",
+   "type": "position_at",
+   "object": "Rautenstrauch-Joest-Museum in Cologne",
+   "role": "first director",
+   "place": "Cologne",
+   "year_start": 1901,
+   "year_end": 1925,
+   "explicit": true,
+   "evidence": "became in 1901 the first director of Rautenstrauch-Joest-Museum in Cologne, until 1925.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Willy Foy",
+   "type": "position_at",
+   "object": "Cologne University",
+   "role": "ao. Professor",
+   "place": "Cologne",
+   "year_start": 1914,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1914 also ao. Professor at Cologne University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Willy Foy",
+   "type": "position_at",
+   "object": "Cologne University",
+   "role": "Honorary Professor",
+   "place": "Cologne",
+   "year_start": 1920,
+   "year_end": 1929,
+   "explicit": true,
+   "evidence": "1920-29 Honorary Professor.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: FOY, Willy",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2055-foy-willy.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: FOY, Willy",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2055/foy-willy/",
+  "subject": "FOY, Willy",
+  "birth_year": 1873,
+  "death_year": 1929
+ },
+ "model": "gemini-flash-latest"
+}

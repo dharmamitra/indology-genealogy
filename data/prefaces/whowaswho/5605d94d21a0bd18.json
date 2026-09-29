@@ -1,0 +1,145 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Nikolai Karl Adolf Anderson",
+   "birth_year": 1845,
+   "death_year": 1905,
+   "nationality": "Russian",
+   "field": "Linguist, Specialist of IE and Finno-Ugrian"
+  },
+  {
+   "name": "Leo Meyer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Walter Anderson",
+   "birth_year": 1885,
+   "death_year": 1962,
+   "nationality": null,
+   "field": "folklorist"
+  },
+  {
+   "name": "ANDERSON, Nikolai",
+   "birth_year": 1845,
+   "death_year": 1905
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Nikolai Karl Adolf Anderson",
+   "type": "studied_at",
+   "object": "Dorpat",
+   "role": "Cand. Phil.",
+   "place": "Tartu",
+   "year_start": 1865,
+   "year_end": 1875,
+   "explicit": true,
+   "evidence": "1865-72 studied IE and Germanic Philology at Dorpat (Tartu, under Leo Meyer). Cand. Phil. 1875 there, Magister 1891.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nikolai Karl Adolf Anderson",
+   "type": "studied_at",
+   "object": "Dorpat",
+   "role": "Magister",
+   "place": "Tartu",
+   "year_start": 1865,
+   "year_end": 1891,
+   "explicit": true,
+   "evidence": "1865-72 studied IE and Germanic Philology at Dorpat (Tartu, under Leo Meyer). Cand. Phil. 1875 there, Magister 1891.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nikolai Karl Adolf Anderson",
+   "type": "student_of",
+   "object": "Leo Meyer",
+   "role": null,
+   "place": "Dorpat",
+   "year_start": 1865,
+   "year_end": 1872,
+   "explicit": true,
+   "evidence": "1865-72 studied IE and Germanic Philology at Dorpat (Tartu, under Leo Meyer).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nikolai Karl Adolf Anderson",
+   "type": "position_at",
+   "object": "Gymnasium in Minsk",
+   "role": "Oberlehrer für alte Sprachen",
+   "place": "Minsk",
+   "year_start": 1872,
+   "year_end": 1894,
+   "explicit": true,
+   "evidence": "In 1872-94 taught (as Oberlehrer für alte Sprachen) at a Gymnasium in Minsk.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nikolai Karl Adolf Anderson",
+   "type": "position_at",
+   "object": "Kazan University",
+   "role": "Eo. Professor of Finno-Ugric",
+   "place": null,
+   "year_start": 1894,
+   "year_end": 1905,
+   "explicit": true,
+   "evidence": "Eo. Professor of Finno-Ugric at Kazan University in 1894-1905.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Anderson",
+   "type": "other",
+   "object": "Nikolai Karl Adolf Anderson",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Their son was folklorist Walter Anderson (1885–1962), Professor at Tartu and, after war, at Kiel",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Anderson",
+   "type": "position_at",
+   "object": "Tartu",
+   "role": "Professor",
+   "place": "Tartu",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Their son was folklorist Walter Anderson (1885–1962), Professor at Tartu and, after war, at Kiel",
+   "quote_ok": true
+  },
+  {
+   "subject": "Walter Anderson",
+   "type": "position_at",
+   "object": "Kiel",
+   "role": "Professor",
+   "place": "Kiel",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Their son was folklorist Walter Anderson (1885–1962), Professor at Tartu and, after war, at Kiel",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ANDERSON, Nikolai",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/260-anderson-nikolai-karl-adolf.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ANDERSON, Nikolai",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/260/anderson-nikolai-karl-adolf/",
+  "subject": "ANDERSON, Nikolai",
+  "birth_year": 1845,
+  "death_year": 1905
+ },
+ "model": "gemini-flash-latest"
+}

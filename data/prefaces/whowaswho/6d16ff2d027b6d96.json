@@ -1,0 +1,90 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Antonina Gawrońska",
+   "birth_year": 1864,
+   "death_year": 1944,
+   "nationality": "Polish",
+   "field": null
+  },
+  {
+   "name": "Andrzej Gawroński",
+   "birth_year": 1885,
+   "death_year": 1927,
+   "nationality": "Polish",
+   "field": null
+  },
+  {
+   "name": "Franciszek Rawita-Gawroński",
+   "birth_year": 1845,
+   "death_year": 1930,
+   "nationality": "Polish",
+   "field": "history"
+  },
+  {
+   "name": "GAWROŃSKA, Antonina – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1885,
+   "death_year": 1927
+  },
+  {
+   "name": "GAWROŃSKA, Antonina",
+   "birth_year": 1885,
+   "death_year": 1927
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Antonina Gawrońska",
+   "type": "other",
+   "object": "Andrzej Gawroński",
+   "role": "mother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mother of —> Andrzej Gawroński (1885–1927).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Antonina Gawrońska",
+   "type": "other",
+   "object": "Franciszek Rawita-Gawroński",
+   "role": "wife",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Married with the historian Franciszek Rawita-Gawroński (1845-1930)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Franciszek Rawita-Gawroński",
+   "type": "other",
+   "object": "Andrzej Gawroński",
+   "role": "father",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Mother of —> Andrzej Gawroński (1885–1927)... Married with the historian Franciszek Rawita-Gawroński (1845-1930), three sons.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GAWROŃSKA, Antonina",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2193-gawronska-antonina.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GAWROŃSKA, Antonina",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2193/gawronska-antonina/",
+  "subject": "GAWROŃSKA, Antonina",
+  "birth_year": 1885,
+  "death_year": 1927
+ },
+ "model": "gemini-flash-latest"
+}

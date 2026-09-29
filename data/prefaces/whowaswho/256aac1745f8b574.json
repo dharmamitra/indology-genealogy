@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "CORDIER, Palmyr Uldéric Alexis",
+   "birth_year": 1871,
+   "death_year": 1914,
+   "nationality": "French",
+   "field": "Indology"
+  },
+  {
+   "name": "Liétard",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "CORDIER, Palmyr",
+   "birth_year": 1871,
+   "death_year": 1914
+  }
+ ],
+ "relations": [
+  {
+   "subject": "CORDIER, Palmyr Uldéric Alexis",
+   "type": "studied_at",
+   "object": "Marine medical school",
+   "role": null,
+   "place": "Toulon and Bordeaux",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied medicine in Toulon and Bordeaux, at Marine medical school.",
+   "quote_ok": true
+  },
+  {
+   "subject": "CORDIER, Palmyr Uldéric Alexis",
+   "type": "studied_at",
+   "object": "Faculté de médecine de Bordeaux",
+   "role": "Dr.med.",
+   "place": "Bordeaux",
+   "year_start": null,
+   "year_end": 1894,
+   "explicit": true,
+   "evidence": "Dr.med. 1894 at Faculté de médecine de Bordeaux.",
+   "quote_ok": true
+  },
+  {
+   "subject": "CORDIER, Palmyr Uldéric Alexis",
+   "type": "other",
+   "object": "Liétard",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Became friend with —> Liétard and began the study of Sanskrit.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: CORDIER, Palmyr",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1361-cordier-palmyr-ulderic-alexis.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: CORDIER, Palmyr",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1361/cordier-palmyr-ulderic-alexis/",
+  "subject": "CORDIER, Palmyr",
+  "birth_year": 1871,
+  "death_year": 1914
+ },
+ "model": "gemini-flash-latest"
+}

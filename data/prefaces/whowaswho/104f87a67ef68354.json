@@ -1,0 +1,169 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Matthias Lexer",
+   "birth_year": 1830,
+   "death_year": 1892,
+   "nationality": "Austrian",
+   "field": "Germanist"
+  },
+  {
+   "name": "Bopp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jolly",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "LEXER, Mattias (Ritter von)",
+   "birth_year": 1830,
+   "death_year": 1892
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Matthias Lexer",
+   "type": "studied_at",
+   "object": "Graz",
+   "role": null,
+   "place": null,
+   "year_start": 1851,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied from 1851 first law at Graz, but soon switched to German",
+   "quote_ok": true
+  },
+  {
+   "subject": "Matthias Lexer",
+   "type": "studied_at",
+   "object": "Vienna",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then also at Vienna",
+   "quote_ok": true
+  },
+  {
+   "subject": "Matthias Lexer",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": null,
+   "year_start": 1857,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After two years (1855-57) as teacher in Cracow further studies at Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Matthias Lexer",
+   "type": "student_of",
+   "object": "Bopp",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "further studies at Berlin, now also under Bopp",
+   "quote_ok": true
+  },
+  {
+   "subject": "Matthias Lexer",
+   "type": "studied_at",
+   "object": "Erlangen",
+   "role": "PhD",
+   "place": null,
+   "year_start": null,
+   "year_end": 1860,
+   "explicit": true,
+   "evidence": "Ph.D. 1860 Erlangen.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Matthias Lexer",
+   "type": "position_at",
+   "object": "Freiburg (Br.)",
+   "role": "ao. Professor",
+   "place": null,
+   "year_start": 1863,
+   "year_end": 1866,
+   "explicit": true,
+   "evidence": "From 1863 ao. Professor at Freiburg (Br.)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Matthias Lexer",
+   "type": "position_at",
+   "object": "Freiburg (Br.)",
+   "role": "ord. Professor",
+   "place": null,
+   "year_start": 1866,
+   "year_end": 1868,
+   "explicit": true,
+   "evidence": "1866 ord.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Matthias Lexer",
+   "type": "position_at",
+   "object": "Würzburg",
+   "role": "Professor",
+   "place": null,
+   "year_start": 1868,
+   "year_end": 1891,
+   "explicit": true,
+   "evidence": "from 1868 Professor at Würzburg",
+   "quote_ok": true
+  },
+  {
+   "subject": "Matthias Lexer",
+   "type": "position_at",
+   "object": "Munich",
+   "role": "Professor",
+   "place": null,
+   "year_start": 1891,
+   "year_end": 1892,
+   "explicit": true,
+   "evidence": "and from 1891 at Munich.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jolly",
+   "type": "succeeded",
+   "object": "Matthias Lexer",
+   "role": null,
+   "place": "Würzburg",
+   "year_start": 1873,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "At Würzburg also taught Sanskrit in 1871-73, then left it to Jolly.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: LEXER, Mattias (Ritter von)",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/16986-lexer-mattias-ritter-von.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: LEXER, Mattias (Ritter von)",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/16986/lexer-mattias-ritter-von/",
+  "subject": "LEXER, Mattias (Ritter von)",
+  "birth_year": 1830,
+  "death_year": 1892
+ },
+ "model": "gemini-flash-latest"
+}

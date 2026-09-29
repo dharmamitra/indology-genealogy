@@ -1,0 +1,75 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Carl Rabe",
+   "birth_year": 1814,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Stenzler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Whitney",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Goldstücker",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Carl Rabe",
+   "type": "student_of",
+   "object": "Stenzler",
+   "role": "doctoral supervisor",
+   "place": "Breslau",
+   "year_start": null,
+   "year_end": 1845,
+   "explicit": true,
+   "evidence": "Ph.D. Breslau 1845 (under Stenzler).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carl Rabe",
+   "type": "studied_at",
+   "object": "Breslau",
+   "role": "Ph.D.",
+   "place": "Breslau",
+   "year_start": null,
+   "year_end": 1845,
+   "explicit": true,
+   "evidence": "Ph.D. Breslau 1845 (under Stenzler).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: RABE, Carl",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5116-rabe-carl.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: RABE, Carl",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5116/rabe-carl/",
+  "subject": "RABE, Carl",
+  "birth_year": null,
+  "death_year": null
+ },
+ "model": "gemini-flash-latest"
+}

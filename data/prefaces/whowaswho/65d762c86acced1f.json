@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2018,
+ "people": [
+  {
+   "name": "Čeněk Vyhnis",
+   "birth_year": 1842,
+   "death_year": 1897,
+   "nationality": "Czech",
+   "field": "Indology"
+  },
+  {
+   "name": "Ludwig",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "VYHNIS, Čeněk (Vincenz)",
+   "birth_year": 1842,
+   "death_year": 1897
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Čeněk Vyhnis",
+   "type": "studied_at",
+   "object": "Prague",
+   "role": null,
+   "place": "Prague",
+   "year_start": 1864,
+   "year_end": 1867,
+   "explicit": true,
+   "evidence": "Gymnasium and in 1864-67 studies at Prague, mainly of classics and philosophy, also Sanskrit under Ludwig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Čeněk Vyhnis",
+   "type": "student_of",
+   "object": "Ludwig",
+   "role": "teacher",
+   "place": "Prague",
+   "year_start": 1864,
+   "year_end": 1867,
+   "explicit": true,
+   "evidence": "studies at Prague, mainly of classics and philosophy, also Sanskrit under Ludwig.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Čeněk Vyhnis",
+   "type": "position_at",
+   "object": "Prague",
+   "role": "gymnasium professor of classics",
+   "place": "Prague",
+   "year_start": 1891,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Worked as gymnasium professor of classics in Hradec Králové and Přibram, finally from 1891 in Prague.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: VYHNIS, Čeněk (Vincenz)",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/11230-vyhnis-cenek-vincenz.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: VYHNIS, Čeněk (Vincenz)",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/11230/vyhnis-cenek-vincenz/",
+  "subject": "VYHNIS, Čeněk (Vincenz)",
+  "birth_year": 1842,
+  "death_year": 1897
+ },
+ "model": "gemini-flash-latest"
+}

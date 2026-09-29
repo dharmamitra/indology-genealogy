@@ -1,0 +1,85 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Mihail Mihajlovič Berezovskij",
+   "birth_year": 1848,
+   "death_year": 1912,
+   "nationality": "Russian",
+   "field": "Ornithologist, Ethnographer and Traveller"
+  },
+  {
+   "name": "Potanin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "N. M. Berezovskij",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BEREZOVSKIJ, Mihail Mihailovič",
+   "birth_year": 1848,
+   "death_year": 1912
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Mihail Mihajlovič Berezovskij",
+   "type": "collaborated_with",
+   "object": "Potanin",
+   "role": null,
+   "place": "Mongolia",
+   "year_start": 1876,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1876 repeatedly with Potanin in Mongolia, starting as zoologist and botanist, but gradually becoming also interested in antiquity.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mihail Mihajlovič Berezovskij",
+   "type": "collaborated_with",
+   "object": "N. M. Berezovskij",
+   "role": null,
+   "place": "Kucha",
+   "year_start": 1905,
+   "year_end": 1908,
+   "explicit": true,
+   "evidence": "in 1905-08 in Kucha with his his cousin N. M. Berezovskij making excavations and buying antiquities in the area.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mihail Mihajlovič Berezovskij",
+   "type": "other",
+   "object": "N. M. Berezovskij",
+   "role": "cousin",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "with his his cousin N. M. Berezovskij",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BEREZOVSKIJ, Mihail Mihailovič",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/670-berezovskij-mihail-mihailovic.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BEREZOVSKIJ, Mihail Mihailovič",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/670/berezovskij-mihail-mihailovic/",
+  "subject": "BEREZOVSKIJ, Mihail Mihailovič",
+  "birth_year": 1848,
+  "death_year": 1912
+ },
+ "model": "gemini-flash-latest"
+}

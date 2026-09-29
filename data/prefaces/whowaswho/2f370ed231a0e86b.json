@@ -1,0 +1,64 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Grant Duff",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BRIGGS, John – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1758,
+   "death_year": 1830
+  },
+  {
+   "name": "BRIGGS, John",
+   "birth_year": 1785,
+   "death_year": 1875
+  }
+ ],
+ "relations": [
+  {
+   "subject": "BRIGGS, John",
+   "type": "studied_at",
+   "object": "Eton",
+   "role": null,
+   "place": null,
+   "year_start": 1794,
+   "year_end": 1799,
+   "explicit": true,
+   "evidence": "Educated at Eton 1794-99.",
+   "quote_ok": true
+  },
+  {
+   "subject": "BRIGGS, John",
+   "type": "succeeded",
+   "object": "Grant Duff",
+   "role": "Resident in Khandesh and Sattar",
+   "place": "Khandesh and Sattar",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Resident in Khandesh and Sattar (Grant Duff’s successor).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BRIGGS, John",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/970-briggs-john.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BRIGGS, John",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/970/briggs-john/",
+  "subject": "BRIGGS, John",
+  "birth_year": 1785,
+  "death_year": 1875
+ },
+ "model": "gemini-flash-latest"
+}

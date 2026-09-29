@@ -1,0 +1,107 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "József Schmidt",
+   "birth_year": 1868,
+   "death_year": 1933,
+   "nationality": "Hungarian",
+   "field": "Indologist"
+  },
+  {
+   "name": "Mayr",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "SCHMIDT, József – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1899,
+   "death_year": 1908
+  },
+  {
+   "name": "SCHMIDT, József",
+   "birth_year": 1868,
+   "death_year": 1933
+  }
+ ],
+ "relations": [
+  {
+   "subject": "József Schmidt",
+   "type": "studied_at",
+   "object": "Budapest",
+   "role": null,
+   "place": "Budapest",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied at Budapest under Mayr.",
+   "quote_ok": true
+  },
+  {
+   "subject": "József Schmidt",
+   "type": "student_of",
+   "object": "Mayr",
+   "role": "teacher",
+   "place": "Budapest",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studied at Budapest under Mayr.",
+   "quote_ok": true
+  },
+  {
+   "subject": "József Schmidt",
+   "type": "position_at",
+   "object": "Budapest",
+   "role": "Docent",
+   "place": "Budapest",
+   "year_start": 1908,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "In 1908-10 Docent and in 1910-20 Professor of comparative IE linguistics at Budapest",
+   "quote_ok": true
+  },
+  {
+   "subject": "József Schmidt",
+   "type": "position_at",
+   "object": "Budapest",
+   "role": "Professor of comparative IE linguistics",
+   "place": "Budapest",
+   "year_start": 1910,
+   "year_end": 1920,
+   "explicit": true,
+   "evidence": "in 1910-20 Professor of comparative IE linguistics at Budapest (succeeding Mayr).",
+   "quote_ok": true
+  },
+  {
+   "subject": "József Schmidt",
+   "type": "succeeded",
+   "object": "Mayr",
+   "role": null,
+   "place": "Budapest",
+   "year_start": 1910,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor of comparative IE linguistics at Budapest (succeeding Mayr).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SCHMIDT, József",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/9978-schmidt-jozsef-2.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SCHMIDT, József",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/9978/schmidt-jozsef-2/",
+  "subject": "SCHMIDT, József",
+  "birth_year": 1868,
+  "death_year": 1933
+ },
+ "model": "gemini-flash-latest"
+}

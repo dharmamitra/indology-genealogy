@@ -1,0 +1,121 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "William Ward",
+   "birth_year": 1769,
+   "death_year": 1823,
+   "nationality": "British",
+   "field": "Indology"
+  },
+  {
+   "name": "Marshman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Carey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "WARD, William",
+   "birth_year": 1769,
+   "death_year": 1823
+  }
+ ],
+ "relations": [
+  {
+   "subject": "William Ward",
+   "type": "studied_at",
+   "object": "John Fawcett’s theological institute",
+   "role": null,
+   "place": null,
+   "year_start": 1797,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1797 studied at John Fawcett’s theological institute",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Ward",
+   "type": "collaborated_with",
+   "object": "Marshman",
+   "role": null,
+   "place": "Serampur",
+   "year_start": 1799,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Together with Marshman and Carey worked in Serampur, where he was in charge of the printing press",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Ward",
+   "type": "collaborated_with",
+   "object": "Carey",
+   "role": null,
+   "place": "Serampur",
+   "year_start": 1799,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Together with Marshman and Carey worked in Serampur, where he was in charge of the printing press",
+   "quote_ok": true
+  },
+  {
+   "subject": "William Ward",
+   "type": "founded",
+   "object": "Serampore College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the Serampore College he had founded with Carey and Marshman",
+   "quote_ok": true
+  },
+  {
+   "subject": "Carey",
+   "type": "founded",
+   "object": "Serampore College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the Serampore College he had founded with Carey and Marshman",
+   "quote_ok": true
+  },
+  {
+   "subject": "Marshman",
+   "type": "founded",
+   "object": "Serampore College",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the Serampore College he had founded with Carey and Marshman",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: WARD, William",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5376-ward-william.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: WARD, William",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5376/ward-william/",
+  "subject": "WARD, William",
+  "birth_year": 1769,
+  "death_year": 1823
+ },
+ "model": "gemini-flash-latest"
+}

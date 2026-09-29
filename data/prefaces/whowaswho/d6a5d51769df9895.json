@@ -1,0 +1,90 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Jean François Pons",
+   "birth_year": 1698,
+   "death_year": 1752,
+   "nationality": "French",
+   "field": null
+  },
+  {
+   "name": "P. Boudier",
+   "birth_year": 1686,
+   "death_year": 1757,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Chézy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "PONS, Jean François – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1698,
+   "death_year": 1752
+  },
+  {
+   "name": "PONS, Jean François",
+   "birth_year": 1698,
+   "death_year": 1752
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jean François Pons",
+   "type": "position_at",
+   "object": "Bengal Mission in Chandernagor",
+   "role": "Superior",
+   "place": "Chandernagor",
+   "year_start": 1731,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1731 Superior of Bengal Mission in Chandernagor",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jean François Pons",
+   "type": "collaborated_with",
+   "object": "P. Boudier",
+   "role": null,
+   "place": null,
+   "year_start": 1734,
+   "year_end": 1734,
+   "explicit": true,
+   "evidence": "In 1734 he visited the observatories of Delhi and Jaipur together with P. Boudier (1686–1757).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chézy",
+   "type": "influenced_by",
+   "object": "Jean François Pons",
+   "role": null,
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He learned Sanskrit and wrote a manuscript grammar and dictionary, which he sent to Paris where they were then studied by a few interested (Chézy!).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: PONS, Jean François",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4836-pons-jean-francois-du.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: PONS, Jean François",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4836/pons-jean-francois-du/",
+  "subject": "PONS, Jean François",
+  "birth_year": 1698,
+  "death_year": 1752
+ },
+ "model": "gemini-flash-latest"
+}

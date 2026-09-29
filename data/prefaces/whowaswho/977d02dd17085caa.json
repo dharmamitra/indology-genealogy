@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Vitalij Petrovič Furnika",
+   "birth_year": 1940,
+   "death_year": 1993,
+   "nationality": "Ukrainian",
+   "field": "Indologist"
+  },
+  {
+   "name": "Rudin",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "FURNIKA, Vitalij Petrovič",
+   "birth_year": 1940,
+   "death_year": 1993
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Vitalij Petrovič Furnika",
+   "type": "student_of",
+   "object": "Rudin",
+   "role": "teacher",
+   "place": "Leningrad",
+   "year_start": 1965,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1965 studies in Leningrad (Rudin)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vitalij Petrovič Furnika",
+   "type": "studied_at",
+   "object": "Leningrad",
+   "role": null,
+   "place": "Leningrad",
+   "year_start": 1965,
+   "year_end": 1970,
+   "explicit": true,
+   "evidence": "From 1965 studies in Leningrad (Rudin) and 1969-70 in Madras. Graduated 1970 from Leningrad.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vitalij Petrovič Furnika",
+   "type": "studied_at",
+   "object": "Madras",
+   "role": null,
+   "place": "Madras",
+   "year_start": 1969,
+   "year_end": 1970,
+   "explicit": true,
+   "evidence": "and 1969-70 in Madras",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: FURNIKA, Vitalij Petrovič",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2133-furnika-vitalij-petrovic.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: FURNIKA, Vitalij Petrovič",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2133/furnika-vitalij-petrovic/",
+  "subject": "FURNIKA, Vitalij Petrovič",
+  "birth_year": 1940,
+  "death_year": 1993
+ },
+ "model": "gemini-flash-latest"
+}

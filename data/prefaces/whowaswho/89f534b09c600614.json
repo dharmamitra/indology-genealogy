@@ -1,0 +1,59 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "John Hay",
+   "birth_year": 1812,
+   "death_year": 1891,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "HAY, John",
+   "birth_year": 1812,
+   "death_year": 1891
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Hay",
+   "type": "studied_at",
+   "object": "Aberdeen University",
+   "role": "M.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1833,
+   "explicit": true,
+   "evidence": "educated at Aberdeen University, M.A. 1833",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Hay",
+   "type": "position_at",
+   "object": "Madras University",
+   "role": "Fellow",
+   "place": null,
+   "year_start": 1888,
+   "year_end": 1889,
+   "explicit": true,
+   "evidence": "Fellow of Madras University in 1888-89",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: HAY, John",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2693-hay-john.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: HAY, John",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2693/hay-john/",
+  "subject": "HAY, John",
+  "birth_year": 1812,
+  "death_year": 1891
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "John Watson Laidlay",
+   "birth_year": 1808,
+   "death_year": 1885,
+   "nationality": "British",
+   "field": "Archaeology, Numismatics"
+  },
+  {
+   "name": "Faraday",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "chemistry"
+  },
+  {
+   "name": "Gilchrist",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "LAIDLAY, John Watson – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1782,
+   "death_year": 1855
+  },
+  {
+   "name": "LAIDLAY, John Watson",
+   "birth_year": 1808,
+   "death_year": 1885
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Watson Laidlay",
+   "type": "student_of",
+   "object": "Faraday",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Studied chemistry under Faraday",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Watson Laidlay",
+   "type": "student_of",
+   "object": "Gilchrist",
+   "role": "teacher",
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hindustani in London under Gilchrist",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: LAIDLAY, John Watson",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/3665-laidlay-j-w.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: LAIDLAY, John Watson",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/3665/laidlay-j-w/",
+  "subject": "LAIDLAY, John Watson",
+  "birth_year": 1808,
+  "death_year": 1885
+ },
+ "model": "gemini-flash-latest"
+}

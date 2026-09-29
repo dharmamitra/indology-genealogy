@@ -1,0 +1,176 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Emil Abegg",
+   "birth_year": 1885,
+   "death_year": 1962,
+   "nationality": "Swiss",
+   "field": "Indology"
+  },
+  {
+   "name": "Kaegi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Windisch",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Sievers",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Linguistics"
+  },
+  {
+   "name": "Conrady",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ABEGG, Emil – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1846,
+   "death_year": 1894
+  },
+  {
+   "name": "ABEGG, Emil",
+   "birth_year": 1885,
+   "death_year": 1962
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Emil Abegg",
+   "type": "student_of",
+   "object": "Kaegi",
+   "role": "teacher",
+   "place": "Zürich University",
+   "year_start": 1904,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then from 1904 studied Germanistics, psychology, Arabic, Persian and Sanskrit (under Kaegi) at Zürich University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Emil Abegg",
+   "type": "studied_at",
+   "object": "Zürich University",
+   "role": "Ph.D.",
+   "place": "Zürich",
+   "year_start": 1904,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "from 1904 studied Germanistics, psychology, Arabic, Persian and Sanskrit (under Kaegi) at Zürich University. Ph.D. 1910 Zürich",
+   "quote_ok": true
+  },
+  {
+   "subject": "Emil Abegg",
+   "type": "student_of",
+   "object": "Windisch",
+   "role": "teacher",
+   "place": "Leipzig",
+   "year_start": 1908,
+   "year_end": 1909,
+   "explicit": true,
+   "evidence": "Further studies 1908-09 at Leipzig, of Indology (Windisch), Linguistics (Sievers), Chinese and Tibetan (Conrady)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Emil Abegg",
+   "type": "student_of",
+   "object": "Sievers",
+   "role": "teacher",
+   "place": "Leipzig",
+   "year_start": 1908,
+   "year_end": 1909,
+   "explicit": true,
+   "evidence": "Further studies 1908-09 at Leipzig, of Indology (Windisch), Linguistics (Sievers), Chinese and Tibetan (Conrady)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Emil Abegg",
+   "type": "student_of",
+   "object": "Conrady",
+   "role": "teacher",
+   "place": "Leipzig",
+   "year_start": 1908,
+   "year_end": 1909,
+   "explicit": true,
+   "evidence": "Further studies 1908-09 at Leipzig, of Indology (Windisch), Linguistics (Sievers), Chinese and Tibetan (Conrady)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Emil Abegg",
+   "type": "studied_at",
+   "object": "Leipzig",
+   "role": null,
+   "place": "Leipzig",
+   "year_start": 1908,
+   "year_end": 1909,
+   "explicit": true,
+   "evidence": "Further studies 1908-09 at Leipzig, of Indology (Windisch), Linguistics (Sievers), Chinese and Tibetan (Conrady)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Emil Abegg",
+   "type": "position_at",
+   "object": "Zürich University",
+   "role": "PD",
+   "place": "Zürich",
+   "year_start": 1919,
+   "year_end": 1928,
+   "explicit": true,
+   "evidence": "PD 1919 Zürich, from 1928 Titularprofesor für indische Philologie und allgemeine Sprachwissenschaft there",
+   "quote_ok": true
+  },
+  {
+   "subject": "Emil Abegg",
+   "type": "position_at",
+   "object": "Zürich University",
+   "role": "Titularprofesor für indische Philologie und allgemeine Sprachwissenschaft",
+   "place": "Zürich",
+   "year_start": 1928,
+   "year_end": 1932,
+   "explicit": true,
+   "evidence": "from 1928 Titularprofesor für indische Philologie und allgemeine Sprachwissenschaft there, 1932 ord. Professor. Retired in 1955.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Emil Abegg",
+   "type": "position_at",
+   "object": "Zürich University",
+   "role": "ord. Professor",
+   "place": "Zürich",
+   "year_start": 1932,
+   "year_end": 1955,
+   "explicit": true,
+   "evidence": "1932 ord. Professor. Retired in 1955.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ABEGG, Emil",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/160-abegg-emil.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ABEGG, Emil",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/160/abegg-emil/",
+  "subject": "ABEGG, Emil",
+  "birth_year": 1885,
+  "death_year": 1962
+ },
+ "model": "gemini-flash-latest"
+}

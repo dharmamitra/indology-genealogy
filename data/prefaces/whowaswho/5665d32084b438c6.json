@@ -1,0 +1,121 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Bergaigne",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Hauvette-Besnault",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Lévi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "ROUSSEL, Alfred",
+   "birth_year": 1849,
+   "death_year": 1921
+  }
+ ],
+ "relations": [
+  {
+   "subject": "ROUSSEL, Alfred",
+   "type": "studied_at",
+   "object": "Collège de Saint-Malo",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After Collège de Saint-Malo studied at seminary of Rennes",
+   "quote_ok": true
+  },
+  {
+   "subject": "ROUSSEL, Alfred",
+   "type": "studied_at",
+   "object": "seminary of Rennes",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1873,
+   "explicit": true,
+   "evidence": "studied at seminary of Rennes, ordained priest in 1873.",
+   "quote_ok": true
+  },
+  {
+   "subject": "ROUSSEL, Alfred",
+   "type": "student_of",
+   "object": "Bergaigne",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studies of Indology in Paris under Bergaigne, Hauvette-Besnault and Lévi.",
+   "quote_ok": true
+  },
+  {
+   "subject": "ROUSSEL, Alfred",
+   "type": "student_of",
+   "object": "Hauvette-Besnault",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studies of Indology in Paris under Bergaigne, Hauvette-Besnault and Lévi.",
+   "quote_ok": true
+  },
+  {
+   "subject": "ROUSSEL, Alfred",
+   "type": "student_of",
+   "object": "Lévi",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "studies of Indology in Paris under Bergaigne, Hauvette-Besnault and Lévi.",
+   "quote_ok": true
+  },
+  {
+   "subject": "ROUSSEL, Alfred",
+   "type": "position_at",
+   "object": "Fribourg",
+   "role": "Professor of Sanskrit",
+   "place": "Switzerland",
+   "year_start": 1903,
+   "year_end": 1920,
+   "explicit": true,
+   "evidence": "In 1903-20 Professor of Sanskrit at Fribourg, Switzerland.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ROUSSEL, Alfred",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5304-roussel-alfred.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ROUSSEL, Alfred",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5304/roussel-alfred/",
+  "subject": "ROUSSEL, Alfred",
+  "birth_year": 1849,
+  "death_year": 1921
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,97 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Johannes H. Brune",
+   "birth_year": 1883,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Hermann Oldenberg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Paul Deussen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "BRUNE, Johannes H",
+   "birth_year": 1883,
+   "death_year": 1903
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Johannes H. Brune",
+   "type": "studied_at",
+   "object": "Kiel",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": 1903,
+   "year_end": 1909,
+   "explicit": true,
+   "evidence": "From 1903 studies of philology and politics at Kiel, after some years (10 terms) switched into Indology and comparative linguistics (Oldenberg, Deussen). Ph.D. 1909 Kiel.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes H. Brune",
+   "type": "student_of",
+   "object": "Hermann Oldenberg",
+   "role": "teacher",
+   "place": "Kiel",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "switched into Indology and comparative linguistics (Oldenberg, Deussen).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes H. Brune",
+   "type": "student_of",
+   "object": "Paul Deussen",
+   "role": "teacher",
+   "place": "Kiel",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "switched into Indology and comparative linguistics (Oldenberg, Deussen).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes H. Brune",
+   "type": "collaborated_with",
+   "object": "Paul Deussen",
+   "role": null,
+   "place": null,
+   "year_start": 1906,
+   "year_end": 1906,
+   "explicit": true,
+   "evidence": "In the second edition of his Allgemeine Geschichte 1:2, 1906, Deussen thanks Brune for preparing the index.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: BRUNE, Johannes H",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1014-brune-johannes-h.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: BRUNE, Johannes H",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1014/brune-johannes-h/",
+  "subject": "BRUNE, Johannes H",
+  "birth_year": 1883,
+  "death_year": 1903
+ },
+ "model": "gemini-flash-latest"
+}

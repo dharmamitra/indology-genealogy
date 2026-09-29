@@ -1,0 +1,145 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Magdalene Geiger",
+   "birth_year": 1877,
+   "death_year": 1960,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "Wilhelm Geiger",
+   "birth_year": 1856,
+   "death_year": 1943,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Beckh",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lüders",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "GEIGER, Magdalene – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1856,
+   "death_year": 1943
+  },
+  {
+   "name": "GEIGER, Magdalene",
+   "birth_year": 1877,
+   "death_year": 1960
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Magdalene Geiger",
+   "type": "other",
+   "object": "Wilhelm Geiger",
+   "role": "spouse",
+   "place": null,
+   "year_start": 1917,
+   "year_end": 1943,
+   "explicit": true,
+   "evidence": "Wife of —> Wilhelm Geiger (1856–1943)... The marriage was completed on 12.4.1917.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Magdalene Geiger",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": "Berlin",
+   "year_start": 1911,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "began in 1911 studies of classical philology at Berlin",
+   "quote_ok": true
+  },
+  {
+   "subject": "Magdalene Geiger",
+   "type": "student_of",
+   "object": "Beckh",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "After having learnt elementary Sanskrit under Beckh",
+   "quote_ok": true
+  },
+  {
+   "subject": "Magdalene Geiger",
+   "type": "student_of",
+   "object": "Lüders",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "started study on Central Asian fragments under Lüders.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Magdalene Geiger",
+   "type": "studied_at",
+   "object": "Erlangen",
+   "role": null,
+   "place": "Erlangen",
+   "year_start": 1915,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1915 she moved to Erlangen and continued her studies under Geiger",
+   "quote_ok": true
+  },
+  {
+   "subject": "Magdalene Geiger",
+   "type": "student_of",
+   "object": "Wilhelm Geiger",
+   "role": "teacher",
+   "place": "Erlangen",
+   "year_start": 1915,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1915 she moved to Erlangen and continued her studies under Geiger",
+   "quote_ok": true
+  },
+  {
+   "subject": "Magdalene Geiger",
+   "type": "collaborated_with",
+   "object": "Wilhelm Geiger",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "M. Geiger participated intensively in the work of her husband, for instance in the Sinhalese dictionary.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GEIGER, Magdalene",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2203-geiger-magdalene.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GEIGER, Magdalene",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2203/geiger-magdalene/",
+  "subject": "GEIGER, Magdalene",
+  "birth_year": 1877,
+  "death_year": 1960
+ },
+ "model": "gemini-flash-latest"
+}

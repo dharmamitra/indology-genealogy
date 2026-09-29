@@ -1,0 +1,76 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Pořízka",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "SMÉKAL, Odolen – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1890,
+   "death_year": 1948
+  },
+  {
+   "name": "SMÉKAL, Odolen",
+   "birth_year": 1928,
+   "death_year": 1998
+  }
+ ],
+ "relations": [
+  {
+   "subject": "SMÉKAL, Odolen",
+   "type": "studied_at",
+   "object": "Charles University in Prague",
+   "role": "Ph.D.",
+   "place": "Prague",
+   "year_start": null,
+   "year_end": 1952,
+   "explicit": true,
+   "evidence": "Studies at Charles University in Prague (Pořízka), matriculated 1952. Ph.D. in Hindi.",
+   "quote_ok": true
+  },
+  {
+   "subject": "SMÉKAL, Odolen",
+   "type": "student_of",
+   "object": "Pořízka",
+   "role": "teacher",
+   "place": "Charles University in Prague",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Studies at Charles University in Prague (Pořízka), matriculated 1952.",
+   "quote_ok": true
+  },
+  {
+   "subject": "SMÉKAL, Odolen",
+   "type": "position_at",
+   "object": "Charles University",
+   "role": "taught Hindi",
+   "place": "Prague",
+   "year_start": 1954,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "From 1954 taught Hindi at Charles University.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: SMÉKAL, Odolen",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/10434-smekal-odolen.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: SMÉKAL, Odolen",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/10434/smekal-odolen/",
+  "subject": "SMÉKAL, Odolen",
+  "birth_year": 1928,
+  "death_year": 1998
+ },
+ "model": "gemini-flash-latest"
+}

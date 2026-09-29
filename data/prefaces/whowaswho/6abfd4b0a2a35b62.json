@@ -1,0 +1,109 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "James Gilbert Gerard",
+   "birth_year": 1795,
+   "death_year": 1835,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Alexander Gerard",
+   "birth_year": 1792,
+   "death_year": 1839,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Patrick Gerard",
+   "birth_year": 1794,
+   "death_year": 1848,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "A. Burnes",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "GERARD, James G. – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1760,
+   "death_year": 1815
+  },
+  {
+   "name": "GERARD, James G",
+   "birth_year": 1795,
+   "death_year": 1835
+  }
+ ],
+ "relations": [
+  {
+   "subject": "James Gilbert Gerard",
+   "type": "other",
+   "object": "Alexander Gerard",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "brother of —> Alexander Gerard (1792–1839)",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Gilbert Gerard",
+   "type": "other",
+   "object": "Patrick Gerard",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "brother of —> Alexander Gerard (1792–1839) and —> Patrick Gerard (1794–1848)",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Gilbert Gerard",
+   "type": "collaborated_with",
+   "object": "Alexander Gerard",
+   "role": "travelled together",
+   "place": "Himalayas",
+   "year_start": 1818,
+   "year_end": 1818,
+   "explicit": true,
+   "evidence": "He accompanied his brother in Himalayan travels (1818 in Spiti).",
+   "quote_ok": true
+  },
+  {
+   "subject": "James Gilbert Gerard",
+   "type": "collaborated_with",
+   "object": "A. Burnes",
+   "role": "travelled together",
+   "place": null,
+   "year_start": 1832,
+   "year_end": 1832,
+   "explicit": true,
+   "evidence": "In 1832 he was —> A. Burnes’ company on the journey to Afghanistan and Bukhara",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GERARD, James G",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2229-gerard-james-gilbert.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GERARD, James G",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2229/gerard-james-gilbert/",
+  "subject": "GERARD, James G",
+  "birth_year": 1795,
+  "death_year": 1835
+ },
+ "model": "gemini-flash-latest"
+}

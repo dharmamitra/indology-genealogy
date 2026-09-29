@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Arthur Anderson West",
+   "birth_year": 1827,
+   "death_year": 1913,
+   "nationality": "British",
+   "field": "Engineering"
+  },
+  {
+   "name": "E. W. West",
+   "birth_year": 1824,
+   "death_year": 1905,
+   "nationality": null,
+   "field": "Epigraphy"
+  },
+  {
+   "name": "WEST, Arthur A. – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1827,
+   "death_year": 1913
+  },
+  {
+   "name": "WEST, Arthur A",
+   "birth_year": 1827,
+   "death_year": 1913
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Arthur Anderson West",
+   "type": "other",
+   "object": "E. W. West",
+   "role": "younger brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "younger brother of —> E. W. West (1824–1905)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Anderson West",
+   "type": "collaborated_with",
+   "object": "E. W. West",
+   "role": "assisted in epigraphical studies",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "younger brother of —> E. W. West (1824–1905), whom he assisted in his epigraphical studies",
+   "quote_ok": true
+  },
+  {
+   "subject": "Arthur Anderson West",
+   "type": "studied_at",
+   "object": "King’s College in London",
+   "role": null,
+   "place": "London",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at King’s College in London.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: WEST, Arthur A",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5440-west-arthur-a.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: WEST, Arthur A",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5440/west-arthur-a/",
+  "subject": "WEST, Arthur A",
+  "birth_year": 1827,
+  "death_year": 1913
+ },
+ "model": "gemini-flash-latest"
+}

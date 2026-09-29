@@ -1,0 +1,157 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Edwin Norris",
+   "birth_year": 1795,
+   "death_year": 1872,
+   "nationality": "British",
+   "field": "Oriental and Celtic Scholar"
+  },
+  {
+   "name": "Henry Norris",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "J. Dowson",
+   "birth_year": 1820,
+   "death_year": 1881,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rawlinson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "NORRIS, Edwin – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1820,
+   "death_year": 1881
+  },
+  {
+   "name": "NORRIS, Edwin",
+   "birth_year": 1795,
+   "death_year": 1872
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Edwin Norris",
+   "type": "student_of",
+   "object": "Henry Norris",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at the local school by its headmaster, his uncle Henry Norris",
+   "quote_ok": true
+  },
+  {
+   "subject": "Henry Norris",
+   "type": "other",
+   "object": "J. Dowson",
+   "role": "uncle",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "his uncle Henry Norris, himself uncle of —> J. Dowson (1820–1881)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edwin Norris",
+   "type": "position_at",
+   "object": "E.I.C.",
+   "role": "clerk",
+   "place": "London",
+   "year_start": 1825,
+   "year_end": 1837,
+   "explicit": true,
+   "evidence": "in 1825/26-37 clerk to the E.I.C. in London",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edwin Norris",
+   "type": "position_at",
+   "object": "R.A.S.",
+   "role": "Assistant Secretary",
+   "place": null,
+   "year_start": 1837,
+   "year_end": 1859,
+   "explicit": true,
+   "evidence": "In 1837-59 Assistant Secretary, from 1859 Secretary and 1861 Honorary Secretary and Librarian of the R.A.S. until his death.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edwin Norris",
+   "type": "position_at",
+   "object": "R.A.S.",
+   "role": "Secretary",
+   "place": null,
+   "year_start": 1859,
+   "year_end": 1861,
+   "explicit": true,
+   "evidence": "from 1859 Secretary and 1861 Honorary Secretary and Librarian of the R.A.S. until his death.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edwin Norris",
+   "type": "position_at",
+   "object": "R.A.S.",
+   "role": "Honorary Secretary and Librarian",
+   "place": null,
+   "year_start": 1861,
+   "year_end": 1872,
+   "explicit": true,
+   "evidence": "from 1859 Secretary and 1861 Honorary Secretary and Librarian of the R.A.S. until his death.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edwin Norris",
+   "type": "position_at",
+   "object": "JRAS",
+   "role": "editor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Also the editor of the JRAS .",
+   "quote_ok": true
+  },
+  {
+   "subject": "Edwin Norris",
+   "type": "collaborated_with",
+   "object": "Rawlinson",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He also edited Rawlinson’s (who was still in Baghdad) long decipherment for the JRAS .",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: NORRIS, Edwin",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4402-norris-edwin.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: NORRIS, Edwin",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4402/norris-edwin/",
+  "subject": "NORRIS, Edwin",
+  "birth_year": 1795,
+  "death_year": 1872
+ },
+ "model": "gemini-flash-latest"
+}

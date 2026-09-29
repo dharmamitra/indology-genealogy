@@ -1,0 +1,90 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Francisco de Paula Canalejas y Casas",
+   "birth_year": 1834,
+   "death_year": 1883,
+   "nationality": "Spanish",
+   "field": "Scholar of Literature interested in Indo-European"
+  },
+  {
+   "name": "Garcia Ayuso",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "CANALEJAS, Francisco de Paula",
+   "birth_year": 1834,
+   "death_year": 1883
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Francisco de Paula Canalejas y Casas",
+   "type": "studied_at",
+   "object": "Madrid",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1858,
+   "explicit": true,
+   "evidence": "Studies at Madrid, graduated in humanities 1856, in law 1857, Ph.D. 1858.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francisco de Paula Canalejas y Casas",
+   "type": "position_at",
+   "object": "Valladolid",
+   "role": "Professor of Literature",
+   "place": null,
+   "year_start": 1860,
+   "year_end": 1862,
+   "explicit": true,
+   "evidence": "In 1860-62 Professor of Literature at Valladolid",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francisco de Paula Canalejas y Casas",
+   "type": "position_at",
+   "object": "Madrid",
+   "role": "eo. Professor",
+   "place": null,
+   "year_start": 1862,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "In 1860-62 Professor of Literature at Valladolid, then eo. Professor at Madrid.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francisco de Paula Canalejas y Casas",
+   "type": "student_of",
+   "object": "Garcia Ayuso",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1870,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Attended Garcia Ayuso’s Sanskrit classes in the early 1870s.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: CANALEJAS, Francisco de Paula",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/12760-canalejas-francisco-de-paula.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: CANALEJAS, Francisco de Paula",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/12760/canalejas-francisco-de-paula/",
+  "subject": "CANALEJAS, Francisco de Paula",
+  "birth_year": 1834,
+  "death_year": 1883
+ },
+ "model": "gemini-flash-latest"
+}

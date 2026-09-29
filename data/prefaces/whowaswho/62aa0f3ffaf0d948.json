@@ -1,0 +1,88 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Ewald",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "TAMASKÓ, István – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1822,
+   "death_year": 1828
+  },
+  {
+   "name": "TAMASKÓ, István",
+   "birth_year": 1801,
+   "death_year": 1881
+  }
+ ],
+ "relations": [
+  {
+   "subject": "TAMASKÓ, István",
+   "type": "studied_at",
+   "object": "Vienna",
+   "role": null,
+   "place": "Vienna",
+   "year_start": 1822,
+   "year_end": 1823,
+   "explicit": true,
+   "evidence": "Studied 1822-23 Protestant theology in Vienna",
+   "quote_ok": true
+  },
+  {
+   "subject": "TAMASKÓ, István",
+   "type": "studied_at",
+   "object": "Göttingen",
+   "role": null,
+   "place": "Göttingen",
+   "year_start": 1828,
+   "year_end": 1830,
+   "explicit": true,
+   "evidence": "in 1828-30 further studies at Göttingen",
+   "quote_ok": true
+  },
+  {
+   "subject": "TAMASKÓ, István",
+   "type": "student_of",
+   "object": "Ewald",
+   "role": "teacher",
+   "place": "Göttingen",
+   "year_start": 1828,
+   "year_end": 1830,
+   "explicit": true,
+   "evidence": "at Göttingen, now learned Sanskrit and Arabic from Ewald",
+   "quote_ok": true
+  },
+  {
+   "subject": "TAMASKÓ, István",
+   "type": "position_at",
+   "object": "German-language Lutheran Lycaeum in Pozsony",
+   "role": "Professor",
+   "place": "Pozsony",
+   "year_start": 1838,
+   "year_end": 1892,
+   "explicit": true,
+   "evidence": "Professor at the German-language Lutheran Lycaeum in Pozsony from 1838 until retirement in 1892",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: TAMASKÓ, István",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/4928-tamasko-istvan.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: TAMASKÓ, István",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/4928/tamasko-istvan/",
+  "subject": "TAMASKÓ, István",
+  "birth_year": 1801,
+  "death_year": 1881
+ },
+ "model": "gemini-flash-latest"
+}

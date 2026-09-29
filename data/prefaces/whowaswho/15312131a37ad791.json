@@ -1,0 +1,152 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "George Everest",
+   "birth_year": 1790,
+   "death_year": 1866,
+   "nationality": "British",
+   "field": "Geography"
+  },
+  {
+   "name": "Raffles",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Crawfurd",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lambton",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "A. S. Waugh",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "EVEREST, George – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1747,
+   "death_year": 1825
+  },
+  {
+   "name": "EVEREST, George",
+   "birth_year": 1790,
+   "death_year": 1866
+  }
+ ],
+ "relations": [
+  {
+   "subject": "George Everest",
+   "type": "collaborated_with",
+   "object": "Raffles",
+   "role": "assistant",
+   "place": "Java",
+   "year_start": 1814,
+   "year_end": 1816,
+   "explicit": true,
+   "evidence": "During the occupation of Java in 1814-16 he was assistant to Raffles surveying the island",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Everest",
+   "type": "other",
+   "object": "Crawfurd",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "became friend with —> Crawfurd",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Everest",
+   "type": "position_at",
+   "object": "Great Trigonometrical Survey",
+   "role": "assistant",
+   "place": "India",
+   "year_start": 1817,
+   "year_end": 1823,
+   "explicit": true,
+   "evidence": "From 1817 assistant of the Great Trigonometrical Survey",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Everest",
+   "type": "succeeded",
+   "object": "Lambton",
+   "role": "Superintendent",
+   "place": "Great Trigonometrical Survey",
+   "year_start": 1823,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1823 succeeded colonel Lambton as its Superintendent",
+   "quote_ok": true
+  },
+  {
+   "subject": "George Everest",
+   "type": "position_at",
+   "object": "Surveyor General of India",
+   "role": "Surveyor General",
+   "place": "India",
+   "year_start": 1830,
+   "year_end": 1843,
+   "explicit": true,
+   "evidence": "from 1830 Surveyor General of India, in 1832-41 “also engaged in measurements of the great Arch of Meridian of India... In 1843 retired",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. S. Waugh",
+   "type": "succeeded",
+   "object": "George Everest",
+   "role": null,
+   "place": "India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In India his former assistant and successor A. S. Waugh named Mount Everest after him",
+   "quote_ok": true
+  },
+  {
+   "subject": "A. S. Waugh",
+   "type": "collaborated_with",
+   "object": "George Everest",
+   "role": "assistant",
+   "place": "India",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In India his former assistant and successor A. S. Waugh",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: EVEREST, George",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1860-everest-george.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: EVEREST, George",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1860/everest-george/",
+  "subject": "EVEREST, George",
+  "birth_year": 1790,
+  "death_year": 1866
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,64 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2022,
+ "people": [
+  {
+   "name": "John D’Oyly",
+   "birth_year": 1774,
+   "death_year": 1824,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "D’OYLY, John – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1743,
+   "death_year": 1815
+  },
+  {
+   "name": "D’OYLY, John",
+   "birth_year": 1774,
+   "death_year": 1824
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John D’Oyly",
+   "type": "studied_at",
+   "object": "Cambridge (Corpus Christi)",
+   "role": "B.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1796,
+   "explicit": true,
+   "evidence": "Studies at Cambridge (Corpus Christi), graduated B.A. 1796, M.A. 1799.",
+   "quote_ok": true
+  },
+  {
+   "subject": "John D’Oyly",
+   "type": "studied_at",
+   "object": "Cambridge (Corpus Christi)",
+   "role": "M.A.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1799,
+   "explicit": true,
+   "evidence": "Studies at Cambridge (Corpus Christi), graduated B.A. 1796, M.A. 1799.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: D’OYLY, John",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/28551-28551.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: D’OYLY, John",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/28551/28551/",
+  "subject": "D’OYLY, John",
+  "birth_year": 1774,
+  "death_year": 1824
+ },
+ "model": "gemini-flash-latest"
+}

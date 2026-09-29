@@ -1,0 +1,190 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Otton Ottonovič Rozenberg",
+   "birth_year": 1888,
+   "death_year": 1919,
+   "nationality": "Russian",
+   "field": "Buddhologist and Sinologist"
+  },
+  {
+   "name": "Ščerbatskoj",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jacobi",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lange",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Baev",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "S. Eliseev",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "ROZENBERG, Otton Ottonovič (Otto Rosenberg)",
+   "birth_year": 1888,
+   "death_year": 1919
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Otton Ottonovič Rozenberg",
+   "type": "student_of",
+   "object": "Ščerbatskoj",
+   "role": "teacher",
+   "place": "St.Petersburg",
+   "year_start": null,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "Studied Sanskrit (under Ščerbatskoj) and Chinese at St.Petersburg, graduated 1910.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otton Ottonovič Rozenberg",
+   "type": "studied_at",
+   "object": "St.Petersburg",
+   "role": null,
+   "place": null,
+   "year_start": 1905,
+   "year_end": 1910,
+   "explicit": true,
+   "evidence": "matriculated (1905) in St.Petersburg. Studied Sanskrit (under Ščerbatskoj) and Chinese at St.Petersburg, graduated 1910.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otton Ottonovič Rozenberg",
+   "type": "studied_at",
+   "object": "Bonn",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Further studies at Bonn (Jacobi) and Berlin (i.al. Japanese under Lange).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otton Ottonovič Rozenberg",
+   "type": "student_of",
+   "object": "Jacobi",
+   "role": "teacher",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Further studies at Bonn (Jacobi)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otton Ottonovič Rozenberg",
+   "type": "studied_at",
+   "object": "Berlin",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Further studies at Bonn (Jacobi) and Berlin (i.al. Japanese under Lange).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otton Ottonovič Rozenberg",
+   "type": "student_of",
+   "object": "Lange",
+   "role": "teacher",
+   "place": "Berlin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Berlin (i.al. Japanese under Lange).",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otton Ottonovič Rozenberg",
+   "type": "studied_at",
+   "object": "St.Petersburg",
+   "role": "Ph.D.",
+   "place": null,
+   "year_start": null,
+   "year_end": 1918,
+   "explicit": true,
+   "evidence": "Ph.D. 1918 St.Petersburg.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otton Ottonovič Rozenberg",
+   "type": "position_at",
+   "object": "St.Petersburg University",
+   "role": "Professor",
+   "place": null,
+   "year_start": 1919,
+   "year_end": 1919,
+   "explicit": true,
+   "evidence": "In 1919 he became Professor at St.Petersburg University, but died soon.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Otton Ottonovič Rozenberg",
+   "type": "collaborated_with",
+   "object": "Ščerbatskoj",
+   "role": "colleague",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "his colleague Ščerbatskoj and his only student Baev in their obituaries tell",
+   "quote_ok": true
+  },
+  {
+   "subject": "Baev",
+   "type": "student_of",
+   "object": "Otton Ottonovič Rozenberg",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "his colleague Ščerbatskoj and his only student Baev in their obituaries tell",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: ROZENBERG, Otton Ottonovič (Otto Rosenberg)",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5314-rozenberg-otton-ottonovic.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: ROZENBERG, Otton Ottonovič (Otto Rosenberg)",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5314/rozenberg-otton-ottonovic/",
+  "subject": "ROZENBERG, Otton Ottonovič (Otto Rosenberg)",
+  "birth_year": 1888,
+  "death_year": 1919
+ },
+ "model": "gemini-flash-latest"
+}

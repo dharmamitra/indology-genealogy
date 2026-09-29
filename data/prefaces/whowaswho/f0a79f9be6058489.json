@@ -1,0 +1,145 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Francesco Cimmino",
+   "birth_year": 1862,
+   "death_year": 1939,
+   "nationality": "Italian",
+   "field": "Indology"
+  },
+  {
+   "name": "Kerbaker",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Flechia",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "CIMMINO, Francesco",
+   "birth_year": 1862,
+   "death_year": 1939
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Francesco Cimmino",
+   "type": "student_of",
+   "object": "Kerbaker",
+   "role": "teacher",
+   "place": "Naples",
+   "year_start": null,
+   "year_end": 1886,
+   "explicit": true,
+   "evidence": "Studies at Naples under Kerbaker, graduated in 1886",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francesco Cimmino",
+   "type": "studied_at",
+   "object": "Naples",
+   "role": null,
+   "place": "Naples",
+   "year_start": null,
+   "year_end": 1886,
+   "explicit": true,
+   "evidence": "Studies at Naples under Kerbaker, graduated in 1886",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francesco Cimmino",
+   "type": "student_of",
+   "object": "Flechia",
+   "role": "teacher",
+   "place": "Turin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then at Turin under Flechia.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francesco Cimmino",
+   "type": "studied_at",
+   "object": "Turin",
+   "role": null,
+   "place": "Turin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "then at Turin under Flechia.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francesco Cimmino",
+   "type": "position_at",
+   "object": "Liceo Genovesi",
+   "role": "Teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Teacher at Liceo Genovesi",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francesco Cimmino",
+   "type": "position_at",
+   "object": "R. Università di Napoli",
+   "role": "libera docenza di letteratura sanscrita",
+   "place": "Naples",
+   "year_start": 1898,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1898 libera docenza di letteratura sanscrita at R. Università di Napoli.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francesco Cimmino",
+   "type": "succeeded",
+   "object": "Kerbaker",
+   "role": null,
+   "place": "R. Università di Napoli",
+   "year_start": 1914,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "In 1914 succeeded Kerbaker as Professor (incaricato) of Sanskrit there, retired 1935.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francesco Cimmino",
+   "type": "position_at",
+   "object": "R. Università di Napoli",
+   "role": "Professor (incaricato) of Sanskrit",
+   "place": "Naples",
+   "year_start": 1914,
+   "year_end": 1935,
+   "explicit": true,
+   "evidence": "In 1914 succeeded Kerbaker as Professor (incaricato) of Sanskrit there, retired 1935.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: CIMMINO, Francesco",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1266-cimmino-francesco.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: CIMMINO, Francesco",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1266/cimmino-francesco/",
+  "subject": "CIMMINO, Francesco",
+  "birth_year": 1862,
+  "death_year": 1939
+ },
+ "model": "gemini-flash-latest"
+}

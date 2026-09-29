@@ -1,0 +1,90 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Felix Carey",
+   "birth_year": 1786,
+   "death_year": 1822,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "William Carey",
+   "birth_year": 1761,
+   "death_year": 1834,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "W. Ward",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "CAREY, Felix – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1761,
+   "death_year": 1834
+  },
+  {
+   "name": "CAREY, Felix",
+   "birth_year": 1761,
+   "death_year": 1834
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Felix Carey",
+   "type": "other",
+   "object": "William Carey",
+   "role": "son",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Eldest son of —> William Carey (1761–1834)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Felix Carey",
+   "type": "collaborated_with",
+   "object": "William Carey",
+   "role": "assistant in literary work",
+   "place": "Serampore",
+   "year_start": 1818,
+   "year_end": 1822,
+   "explicit": true,
+   "evidence": "Late in 1818 Ward met him in Chittagong and persuaded him to return to Serampore, where he became his father’s assistant",
+   "quote_ok": true
+  },
+  {
+   "subject": "Felix Carey",
+   "type": "collaborated_with",
+   "object": "William Carey",
+   "role": "assisted in literary work",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "assisted his father in literary work in Bengali",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: CAREY, Felix",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1184-carey-felix.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: CAREY, Felix",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1184/carey-felix/",
+  "subject": "CAREY, Felix",
+  "birth_year": 1761,
+  "death_year": 1834
+ },
+ "model": "gemini-flash-latest"
+}

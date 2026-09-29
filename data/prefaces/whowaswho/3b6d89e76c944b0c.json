@@ -1,0 +1,71 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Anne Grimblot",
+   "birth_year": 1813,
+   "death_year": null,
+   "nationality": "French",
+   "field": "Indology"
+  },
+  {
+   "name": "Paul Grimblot",
+   "birth_year": 1817,
+   "death_year": 1870,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "GRIMBLOT, Anne – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1817,
+   "death_year": 1870
+  },
+  {
+   "name": "GRIMBLOT, Anne",
+   "birth_year": 1813,
+   "death_year": 1839
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Anne Grimblot",
+   "type": "other",
+   "object": "Paul Grimblot",
+   "role": "wife",
+   "place": null,
+   "year_start": 1839,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "from 1839 wife of —> Paul Grimblot (1817–1870)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Anne Grimblot",
+   "type": "collaborated_with",
+   "object": "Paul Grimblot",
+   "role": "participated in studies and edited posthumous works",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Participated in her husband’s studies and edited his posthumous works.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GRIMBLOT, Anne",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2432-grimblot-a.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GRIMBLOT, Anne",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2432/grimblot-a/",
+  "subject": "GRIMBLOT, Anne",
+  "birth_year": 1813,
+  "death_year": 1839
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,102 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Patrick Gerard",
+   "birth_year": 1794,
+   "death_year": 1848,
+   "nationality": "Scottish",
+   "field": null
+  },
+  {
+   "name": "Alexander Gerard",
+   "birth_year": 1792,
+   "death_year": 1839,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "James G. Gerard",
+   "birth_year": 1795,
+   "death_year": 1835,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "GERARD, Patrick – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1760,
+   "death_year": 1815
+  },
+  {
+   "name": "GERARD, Patrick",
+   "birth_year": 1794,
+   "death_year": 1848
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Patrick Gerard",
+   "type": "other",
+   "object": "Alexander Gerard",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "brother of —> Alexander Gerard (1792–1839) and —> James G. Gerard (1795–1835)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Patrick Gerard",
+   "type": "other",
+   "object": "James G. Gerard",
+   "role": "brother",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "brother of —> Alexander Gerard (1792–1839) and —> James G. Gerard (1795–1835)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Patrick Gerard",
+   "type": "collaborated_with",
+   "object": "Alexander Gerard",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Collaborated with his brothers.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Patrick Gerard",
+   "type": "collaborated_with",
+   "object": "James G. Gerard",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Collaborated with his brothers.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GERARD, Patrick",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/14610-gerard-patrick.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GERARD, Patrick",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/14610/gerard-patrick/",
+  "subject": "GERARD, Patrick",
+  "birth_year": 1794,
+  "death_year": 1848
+ },
+ "model": "gemini-flash-latest"
+}

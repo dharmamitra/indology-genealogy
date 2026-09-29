@@ -1,0 +1,92 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Benjamin Clough",
+   "birth_year": 1791,
+   "death_year": 1853,
+   "nationality": "British",
+   "field": "Pāli Scholar"
+  },
+  {
+   "name": "Tolfrey",
+   "birth_year": null,
+   "death_year": 1817,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Rask",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Fausbøll",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "CLOUGH, Benjamin",
+   "birth_year": 1791,
+   "death_year": 1853
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Benjamin Clough",
+   "type": "succeeded",
+   "object": "Tolfrey",
+   "role": "head of Sinhalese Bible translation committee",
+   "place": "Ceylon",
+   "year_start": 1817,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "after —> Tolfrey’s death in 1817 he headed the Sinhalese Bible translation committee.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Benjamin Clough",
+   "type": "collaborated_with",
+   "object": "Rask",
+   "role": "friend / assisted in Pāli studies",
+   "place": "Ceylon",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "During —> Rask’s visit to Ceylon he became friend with him and helped him in Pāli studies.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fausbøll",
+   "type": "influenced_by",
+   "object": "Benjamin Clough",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His grammar was still used in the middle of the 19th century e.g. by Fausbøll.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: CLOUGH, Benjamin",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/1289-1289.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: CLOUGH, Benjamin",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/1289/1289/",
+  "subject": "CLOUGH, Benjamin",
+  "birth_year": 1791,
+  "death_year": 1853
+ },
+ "model": "gemini-flash-latest"
+}

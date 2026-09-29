@@ -1,0 +1,83 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "John Wood",
+   "birth_year": 1812,
+   "death_year": 1871,
+   "nationality": "British",
+   "field": null
+  },
+  {
+   "name": "Burnes",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "WOOD, John – Persons of Indian Studies by Prof. Dr. Klaus Karttunen",
+   "birth_year": 1835,
+   "death_year": 1836
+  },
+  {
+   "name": "WOOD, John",
+   "birth_year": 1812,
+   "death_year": 1871
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Wood",
+   "type": "studied_at",
+   "object": "Perth Academy",
+   "role": null,
+   "place": "Perth, Scotland",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Educated at Perth Academy",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Wood",
+   "type": "position_at",
+   "object": "E.I.C.’s navy",
+   "role": "Naval Officer",
+   "place": "India",
+   "year_start": 1826,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "in 1826 joined the E.I.C.’s navy",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Wood",
+   "type": "collaborated_with",
+   "object": "Burnes",
+   "role": "Assistant to Burnes in his commercial mission to Afghanistan",
+   "place": "Afghanistan",
+   "year_start": 1836,
+   "year_end": 1836,
+   "explicit": true,
+   "evidence": "Assistant to Burnes in his commercial mission to Afghanistan, 1836",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: WOOD, John",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/5556-wood-john.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: WOOD, John",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/5556/wood-john/",
+  "subject": "WOOD, John",
+  "birth_year": 1812,
+  "death_year": 1871
+ },
+ "model": "gemini-flash-latest"
+}

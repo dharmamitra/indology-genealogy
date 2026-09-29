@@ -1,0 +1,78 @@
+{
+ "author": "Klaus Karttunen",
+ "doc_kind": "other",
+ "doc_year": null,
+ "people": [
+  {
+   "name": "Chavée",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "linguistics"
+  },
+  {
+   "name": "Bergaigne",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "GIRARD DE RIALLE, Julien",
+   "birth_year": 1841,
+   "death_year": 1904
+  }
+ ],
+ "relations": [
+  {
+   "subject": "GIRARD DE RIALLE, Julien",
+   "type": "student_of",
+   "object": "Chavée",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Privately he studied Sanskrit, Avestan and linguistics (also under Chavée)",
+   "quote_ok": true
+  },
+  {
+   "subject": "GIRARD DE RIALLE, Julien",
+   "type": "position_at",
+   "object": "Sorbonne",
+   "role": "lecturer",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "is said to have lectured on them at Sorbonne",
+   "quote_ok": true
+  },
+  {
+   "subject": "Bergaigne",
+   "type": "position_at",
+   "object": "Sorbonne",
+   "role": null,
+   "place": null,
+   "year_start": 1877,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "at Sorbonne the teaching of Sanskrit was started by Bergaigne in 1877",
+   "quote_ok": true
+  }
+ ],
+ "docid": "Who Was Who in Indology: GIRARD DE RIALLE, Julien",
+ "corpus": "whowaswho",
+ "path": "/home/sebastian/code/indology-genealogy/data/whowaswho/2273-girard-de-rialle-julien.txt",
+ "meta": {
+  "title": "Who Was Who in Indology: GIRARD DE RIALLE, Julien",
+  "author": "Klaus Karttunen",
+  "year": null,
+  "language": "en",
+  "url": "https://whowaswho-indology.info/2273/girard-de-rialle-julien/",
+  "subject": "GIRARD DE RIALLE, Julien",
+  "birth_year": 1841,
+  "death_year": 1904
+ },
+ "model": "gemini-flash-latest"
+}
