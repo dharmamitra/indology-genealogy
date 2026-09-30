@@ -3,7 +3,20 @@
  "doc_kind": "other",
  "doc_year": null,
  "people": [],
- "relations": [],
+ "relations": [
+  {
+   "subject": "Sven Sellmer",
+   "type": "student_of",
+   "object": "Horst Brinkhaus",
+   "role": "teacher (Indology, Kiel University)",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "[editorial addition, S. Nehrdich 2026-09-30] Stated by S. Nehrdich (personal knowledge), 2026-09-30; no published statement found in the corpora or online",
+   "quote_ok": true
+  }
+ ],
  "docid": "Editorial additions",
  "corpus": "manual",
  "path": "/home/sebastian/code/indology-genealogy/data/manual/relations.tsv",
