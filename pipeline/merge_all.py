@@ -336,6 +336,12 @@ def main():
     json.dump(log, open(os.path.join(DATA, "harmonize_merges.json"), "w"), ensure_ascii=False, indent=1)
     print(f"[merge] {len(log)} merges in total; {len(E)} edges", flush=True)
 
+    # ---- editorial retractions: a "[editorial retraction, ...]" line removes the relation it names
+    ret = {(e["source"], e["type"], e["target"]) for e in E if any(x.get("evidence", "").startswith("[editorial retraction") for x in e["evidence"])}
+    if ret:
+        E = [e for e in E if (e["source"], e["type"], e["target"]) not in ret or all(x.get("evidence", "").startswith("[editorial retraction") for x in e["evidence"])]
+        E = [e for e in E if not all(x.get("evidence", "").startswith("[editorial retraction") for x in e["evidence"])]
+        print(f"[merge] {len(ret)} relations retracted by editorial lines", flush=True)
     # ---- 5a. coherence rules (logged in data/coherence_report.json)
     rep, examples = Counter(), defaultdict(list)
 

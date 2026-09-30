@@ -159,6 +159,7 @@ a{color:var(--indigo)}
 .head{display:flex;gap:14px;align-items:flex-start}
 .head img{width:84px;height:104px;object-fit:cover;border-radius:2px;flex:none;background:var(--rule);filter:grayscale(.3)}
 .links{margin-top:6px;font-size:12px;display:flex;gap:10px;flex-wrap:wrap}
+.suggest{color:var(--turmeric);font-weight:500}
 .back{background:none;border:0;padding:0;margin:0 0 12px;color:var(--muted);cursor:pointer;font-size:12px}
 .back:hover{color:var(--ink)}
 .items{display:flex;flex-direction:column;gap:12px;list-style:none;margin:0;padding:0}

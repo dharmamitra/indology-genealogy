@@ -108,6 +108,16 @@ Open-ended periods are closed with a modelled end (next post, death, or a cap; n
 drawn fading out. Fields, countries and summaries are assigned automatically. Name merging makes mistakes in both
 directions. Evidence quotes let you check every publication-derived link.
 
+## Suggesting corrections (crowd-sourcing by email)
+
+Every scholar's page has **✎ Suggest a correction or addition**, which opens a pre-filled mail to
+dharmamitra.project@gmail.com. Free text is fine ("X studied under Y in Kiel, PhD 1998"; "the post at Z is wrong";
+"these two entries are the same person"), with a source if there is one. `pipeline/inbox_to_pr.py` (cron, hourly)
+reads the inbox, has Gemini turn each mail into lines of `data/manual/relations.tsv` / `merges.tsv` (additions,
+retractions, merges; contributor = the sender), opens a pull request quoting the mail, and replies to the sender with the
+link. A maintainer merges; the nightly rebuild takes the lines in. Everything contributed this way is shown on the site
+as "[editorial addition, contributor] source", never as a quote from a publication.
+
 ## Re-running
 
 ```bash

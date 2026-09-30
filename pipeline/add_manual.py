@@ -14,13 +14,15 @@ from extract_relations import DATA, REL_TYPES
 src = os.path.join(DATA, "manual", "relations.tsv")
 rows = []
 with open(src, encoding="utf-8") as f:
-    for r in csv.DictReader((l for l in f if l.strip() and not l.startswith("#")), delimiter="\t"):
+    for r in csv.DictReader((l.replace("#RETRACT\t", "RETRACT\t", 1) if l.startswith("#RETRACT\t") else l for l in f if l.strip() and (not l.startswith("#") or l.startswith("#RETRACT\t"))), delimiter="\t"):
+        if r["subject"] == "RETRACT":  # "#RETRACT<TAB>subject<TAB>type<TAB>object..." : shift the columns
+            vals = list(r.values()); r = dict(zip(["subject", "type", "object", "role", "year_start", "year_end", "source", "contributor"], vals[1:] + [None])); r["retract"] = True
         if r["type"] not in REL_TYPES or not r["subject"].strip() or not r["object"].strip():
             print("skipped:", r); continue
         rows.append({"subject": r["subject"].strip(), "type": r["type"], "object": r["object"].strip(), "role": r.get("role") or None,
                      "place": None, "year_start": int(r["year_start"]) if (r.get("year_start") or "").strip() else None,
                      "year_end": int(r["year_end"]) if (r.get("year_end") or "").strip() else None, "explicit": True,
-                     "evidence": f'[editorial addition, {r.get("contributor", "").strip()}] {r["source"].strip()}', "quote_ok": True})
+                     "evidence": f'[editorial {"retraction" if r.get("retract") else "addition"}, {(r.get("contributor") or "").strip()}] {(r.get("source") or "").strip()}', "quote_ok": True, "retract": bool(r.get("retract"))})
 out = os.path.join(DATA, "prefaces", "manual"); os.makedirs(out, exist_ok=True)
 json.dump({"author": None, "doc_kind": "other", "doc_year": None, "people": [], "relations": rows, "docid": "Editorial additions",
            "corpus": "manual", "path": src, "meta": {"title": "Editorial additions", "author": "", "year": None}}, open(os.path.join(out, "manual.json"), "w"), ensure_ascii=False, indent=1)

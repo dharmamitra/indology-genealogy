@@ -451,6 +451,11 @@ function colleagues(n) { // derived, not extracted: people whose posts at the sa
     rows.slice(0, cap).map(r => `<li><button class="who" data-i="${r.o.i}"><span class="dot" style="background:${fcol(r.o)}"></span>${esc(r.o.label)}</button><span class="meta">${esc(r.at.label)}, ${r.a}–${r.b}</span></li>`).join('') + '</ul>' +
     (rows.length > cap ? `<button class="back more" data-open="coll">Show all ${rows.length}…</button>` : '');
 }
+function suggest(n) { // a pre-filled mail; the inbox is parsed by pipeline/inbox_to_pr.py and becomes a pull request
+  const subj = `[Indology Lineages] ${n.label}`;
+  const body = `Suggestion about: ${n.label}${n.birth_year ? ` (${n.birth_year}–${n.death_year || ''})` : ''}\nPage: ${location.href}\n\nWhat should be added, changed or removed?\n(e.g. "X studied under Y in Kiel, PhD 1998"; "the post at Z is wrong"; "these two entries are the same person")\n\n\nSource (a preface, obituary, CV, web page, or "personal knowledge"):\n\n\nYour name and affiliation (shown as contributor):\n`;
+  return `<div class="links"><a class="suggest" href="mailto:dharmamitra.project@gmail.com?subject=${encodeURIComponent(subj)}&body=${encodeURIComponent(body)}">✎ Suggest a correction or addition</a></div>`;
+}
 function renderPanel() {
   const el = $('panel'), n = S.sel != null && N[S.sel];
   if (!n) { el.innerHTML = overview(); return; }
@@ -467,7 +472,7 @@ function renderPanel() {
     el.innerHTML = back + `<div class="head">${n.image ? `<img alt="" loading="lazy" src="https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(n.image)}?width=180">` : ''}<div>` +
       `<h2>${esc(n.label)}</h2>${n.native ? `<div class="native">${esc(n.native)}</div>` : ''}<div class="dates">${[life, esc(where)].filter(Boolean).join('<br>')}</div>` +
       `<div class="field">${(n.fields || []).map(f => `<span class="chip"><span class="dot" style="background:var(--f-${f})"></span>${FLABEL[f] || f}</span>`).join('')}${n.country ? `<span class="chip">${esc(n.country)}</span>` : ''}</div>` +
-      (links ? `<div class="links">${links}</div>` : '') + '</div></div>' +
+      (links ? `<div class="links">${links}</div>` : '') + suggest(n) + '</div></div>' +
       (n.bio ? `<blockquote class="bio">${esc(n.bio.text)}<footer>— ${esc(n.bio.source)}${n.bio.url ? `, <a href="${esc(n.bio.url)}" target="_blank" rel="noopener">full entry</a>` : ''}</footer></blockquote>` : '') +
       (n.summary ? `<p class="summary">${esc(n.summary)} <span class="tag" title="Written by Gemini from the facts listed below">auto-summary</span></p>` : '') +
       (!G.includes(n) ? '<p class="note">No teacher–student link in this lens, so this scholar is not on the lineage graph.</p>' : '') +
@@ -502,7 +507,7 @@ function overview() {
   <ul class="rank">${pl.map(([n, c]) => `<li><button class="who inst" data-i="${n.i}">${esc(n.label)}</button><span class="n">${c}</span></li>`).join('')}</ul>
   <h3><span>How to read this</span></h3>
   <p class="note">Relations were extracted with Gemini and kept only when the quoted evidence was found verbatim in the source text. Name variants (including kanji and romanised forms) were merged automatically, matched to Wikidata, and checked again for duplicates; mistakes remain. Every extracted link was checked a second time by an independent model pass against its quote, and a year counts only if it is written in the quote. Years come in four grades: unmarked years are stated in a publication; <span class="tag">attested</span> means publications of those years mention the affiliation as current (presence, not start or end); <span class="tag">Wikidata</span> years come from dated Wikidata statements; <span class="tag model">model</span> years were recalled by the language model and are approximate. Bars that fade out have an unknown end. Hollow dots are scholars without a known birth year, placed by their neighbours. Fields and career summaries are assigned automatically. Faded dots in a lens are teachers or pupils from neighbouring fields.</p>
-  <p class="note">Biographical notes on the scholars' pages are quoted, with a link to the entry, from Klaus Karttunen's <a href="https://whowaswho-indology.info/" target="_blank" rel="noopener"><i>Who Was Who in Indology</i></a>, which is also the source of many links and dates here. Data build: ${esc(BUILD.built || '—')}. Code and data: <a href="https://github.com/dharmamitra/indology-genealogy">github.com/dharmamitra/indology-genealogy</a></p>`;
+  <p class="note">Every scholar's page has a link to suggest a correction or addition by email; suggestions are reviewed and enter the graph with the contributor's name. Biographical notes on the scholars' pages are quoted, with a link to the entry, from Klaus Karttunen's <a href="https://whowaswho-indology.info/" target="_blank" rel="noopener"><i>Who Was Who in Indology</i></a>, which is also the source of many links and dates here. Data build: ${esc(BUILD.built || '—')}. Code and data: <a href="https://github.com/dharmamitra/indology-genealogy">github.com/dharmamitra/indology-genealogy</a></p>`;
 }
 $('panel').addEventListener('click', ev => { const m = ev.target.closest('[data-open]'); if (m) { S.open = m.dataset.open; const t = $('panel').scrollTop; renderPanel(); $('panel').scrollTop = t; return; }
   const b = ev.target.closest('[data-i]'); if (b) { S.open = null; select(b.dataset.i === '' ? null : +b.dataset.i, true); } });
