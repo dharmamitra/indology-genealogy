@@ -1,0 +1,90 @@
+{
+ "author": "S. Kalyanaraman",
+ "doc_kind": "other",
+ "doc_year": 1995,
+ "people": [
+  {
+   "name": "S. Kalyanaraman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "K.Subramanian",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kunjunni Raja",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Dominik",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Thomas Burrow",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "K.Subramanian",
+   "type": "position_at",
+   "object": "Lucknow",
+   "role": "Prof.",
+   "place": "Lucknow",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Prof. K.Subramanian of Lucknow?",
+   "quote_ok": true
+  },
+  {
+   "subject": "Kunjunni Raja",
+   "type": "position_at",
+   "object": "Adyar Library",
+   "role": null,
+   "place": "Madras",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. Kunjunni Raja's (now with Adyar Library, Madras)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Dominik",
+   "type": "student_of",
+   "object": "Thomas Burrow",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. Thomas Burrow, my old teacher",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 1995: pra mit ? - an inquiry",
+ "corpus": "indology-list",
+ "path": "indology_list/1995-February.txt.gz#pra mit ? - an inquiry#1083",
+ "meta": {
+  "title": "INDOLOGY list message, 1995: pra mit ? - an inquiry",
+  "author": "s. kalyanaraman",
+  "year": 1995,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

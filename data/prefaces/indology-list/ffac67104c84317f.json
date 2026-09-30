@@ -1,0 +1,150 @@
+{
+ "author": "David Reigle",
+ "doc_kind": "other",
+ "doc_year": 2019,
+ "people": [
+  {
+   "name": "Gerald Larson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ram Shankar Bhattacharya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "David Reigle",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": null
+  },
+  {
+   "name": "Nandini Iyer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "W. Norman Brown",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Vedic"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Gerald Larson",
+   "type": "student_of",
+   "object": "Ram Shankar Bhattacharya",
+   "role": "mentor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He and his longtime mentor Ram Shankar Bhattacharya together produced two volumes of the Encyclopedia of Indian Philosophies",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gerald Larson",
+   "type": "collaborated_with",
+   "object": "Ram Shankar Bhattacharya",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He and his longtime mentor Ram Shankar Bhattacharya together produced two volumes of the Encyclopedia of Indian Philosophies: Volume 4... (1987); and Volume 12... (2008).",
+   "quote_ok": true
+  },
+  {
+   "subject": "David Reigle",
+   "type": "student_of",
+   "object": "Gerald Larson",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "For many years he taught classes on S??khya and Yoga combined, attracting hundreds of students (including myself)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nandini Iyer",
+   "type": "position_at",
+   "object": "University of California, Santa Barbara",
+   "role": "teacher",
+   "place": "Santa Barbara",
+   "year_start": 1978,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "My first-year Sanskrit class at University of California, Santa Barbara, taught by Nandini Iyer, consisted of mostly former students of the Maharishi International University (this was in 1978).",
+   "quote_ok": true
+  },
+  {
+   "subject": "David Reigle",
+   "type": "student_of",
+   "object": "Nandini Iyer",
+   "role": "teacher",
+   "place": "University of California, Santa Barbara",
+   "year_start": 1978,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "My first-year Sanskrit class at University of California, Santa Barbara, taught by Nandini Iyer",
+   "quote_ok": true
+  },
+  {
+   "subject": "David Reigle",
+   "type": "studied_at",
+   "object": "University of California, Santa Barbara",
+   "role": null,
+   "place": "Santa Barbara",
+   "year_start": 1978,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "My first-year Sanskrit class at University of California, Santa Barbara, taught by Nandini Iyer",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gerald Larson",
+   "type": "studied_at",
+   "object": "Columbia University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He had studied it briefly at Columbia University, I think from a pupil of Vedic specialist W. Norman Brown.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Gerald Larson",
+   "type": "position_at",
+   "object": "University of California, Santa Barbara",
+   "role": "teacher",
+   "place": "Santa Barbara",
+   "year_start": 1978,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "My first-year Sanskrit class at University of California, Santa Barbara... implored Gerald Larson to teach Vedic Sanskrit. Although this was not his personal interest, he kindly agreed to do so.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 2019: [INDOLOGY] Gerry Larson",
+ "corpus": "indology-list",
+ "path": "indology_list/2019-April.txt.gz#[INDOLOGY] Gerry Larson#1936",
+ "meta": {
+  "title": "INDOLOGY list message, 2019: [INDOLOGY] Gerry Larson",
+  "author": "David and Nancy Reigle",
+  "year": 2019,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

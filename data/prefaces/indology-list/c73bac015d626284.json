@@ -1,0 +1,57 @@
+{
+ "author": "Fred Smith",
+ "doc_kind": "other",
+ "doc_year": 1997,
+ "people": [
+  {
+   "name": "Fred Smith",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Agnihotram Ramanuja Thathacharya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Fred Smith",
+   "type": "student_of",
+   "object": "Agnihotram Ramanuja Thathacharya",
+   "role": "traditional teacher",
+   "place": "Madras",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "as my old teacher in Madras, Agnihotram Ramanuja Thathacharya, calls it",
+   "quote_ok": true
+  },
+  {
+   "subject": "Fred Smith",
+   "type": "position_at",
+   "object": "Univ. of iowa",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Fred Smith\nUniv. of iowa",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 1997: Question about vikrtis in Vedaadhyayana",
+ "corpus": "indology-list",
+ "path": "indology_list/1997-August.txt.gz#Question about vikrtis in Vedaadhyayana#394",
+ "meta": {
+  "title": "INDOLOGY list message, 1997: Question about vikrtis in Vedaadhyayana",
+  "author": "F. Smith",
+  "year": 1997,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

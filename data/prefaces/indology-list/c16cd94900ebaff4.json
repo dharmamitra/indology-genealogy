@@ -1,0 +1,76 @@
+{
+ "author": "Dipak Bhattacharya",
+ "doc_kind": "other",
+ "doc_year": 2015,
+ "people": [
+  {
+   "name": "Nityanand Mishra",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ram Chandra Prasad",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "English"
+  },
+  {
+   "name": "Giridhara Miśra",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ram Chandra Prasad",
+   "type": "position_at",
+   "object": "Patna University",
+   "role": "professor of English",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Ram Chandra Prasad, who was a professor of English at the Patna University.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nityanand Mishra",
+   "type": "student_of",
+   "object": "Giridhara Miśra",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "discourses and books by my Guru ?c?rya Giridhara Mi?ra",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ram Chandra Prasad",
+   "type": "influenced_by",
+   "object": "Giridhara Miśra",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "many of Dr. Ram Chandra Prasad's interpretations were drawn from discourses and books by my Guru ?c?rya Giridhara Mi?ra",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 2015: [INDOLOGY] Eng. transl. Tulsi Ramayana",
+ "corpus": "indology-list",
+ "path": "indology_list/2015-March.txt.gz#[INDOLOGY] Eng. transl. Tulsi Ramayana#1706",
+ "meta": {
+  "title": "INDOLOGY list message, 2015: [INDOLOGY] Eng. transl. Tulsi Ramayana",
+  "author": "Dipak Bhattacharya",
+  "year": 2015,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

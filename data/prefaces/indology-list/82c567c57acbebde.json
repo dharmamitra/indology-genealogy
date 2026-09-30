@@ -1,0 +1,57 @@
+{
+ "author": "Michael Brattus Jones",
+ "doc_kind": "other",
+ "doc_year": 2011,
+ "people": [
+  {
+   "name": "Michael Brattus Jones",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Asian Studies"
+  },
+  {
+   "name": "D N Jha",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "History"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Michael Brattus Jones",
+   "type": "studied_at",
+   "object": "University of Texas in Austin",
+   "role": "PhD",
+   "place": "Austin",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Michael Brattus Jones\nPh.D. student, Department of Asian Studies\nUniversity of Texas in Austin",
+   "quote_ok": true
+  },
+  {
+   "subject": "D N Jha",
+   "type": "position_at",
+   "object": "University of Delhi",
+   "role": "Professor of History (retired)",
+   "place": "Delhi",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "D N Jha\nProfessor of History (retired),\nUniversity of Delhi",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 2011: query",
+ "corpus": "indology-list",
+ "path": "indology_list/2011-June.txt.gz#query#1214",
+ "meta": {
+  "title": "INDOLOGY list message, 2011: query",
+  "author": "Michael Brattus Jones",
+  "year": 2011,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

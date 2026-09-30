@@ -1,0 +1,81 @@
+{
+ "author": "Michio Yano",
+ "doc_kind": "other",
+ "doc_year": 2012,
+ "people": [
+  {
+   "name": "Michio Yano",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Japanese",
+   "field": null
+  },
+  {
+   "name": "Frits Staal",
+   "birth_year": null,
+   "death_year": 2012,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Michio Yano",
+   "type": "student_of",
+   "object": "Frits Staal",
+   "role": "teacher",
+   "place": "Kyoto University",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I was one of his long time friends since I attended his lectures in Kyoto University in  late 1960s.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Frits Staal",
+   "type": "position_at",
+   "object": "Kyoto University",
+   "role": "lecturer",
+   "place": "Kyoto",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "I attended his lectures in Kyoto University in  late 1960s.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michio Yano",
+   "type": "position_at",
+   "object": "Kyoto Sangyo University",
+   "role": null,
+   "place": "Kyoto, Japan",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Michio Yano\nKyoto Sangyo University\nKamigamo, Kita-ku, Kyoto, 603-8555 Japan",
+   "quote_ok": true
+  },
+  {
+   "subject": "Michio Yano",
+   "type": "other",
+   "object": "Frits Staal",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I was one of his long time friends since I attended his lectures in Kyoto University in  late 1960s.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 2012: sad new: Frits Staal",
+ "corpus": "indology-list",
+ "path": "indology_list/2012-February.txt.gz#sad new: Frits Staal",
+ "meta": {
+  "title": "INDOLOGY list message, 2012: sad new: Frits Staal",
+  "author": "Michio Yano",
+  "year": 2012,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

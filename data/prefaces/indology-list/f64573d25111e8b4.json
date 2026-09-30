@@ -1,0 +1,64 @@
+{
+ "author": "Lars Martin Fosse",
+ "doc_kind": "obituary",
+ "doc_year": 1999,
+ "people": [
+  {
+   "name": "Knut Kristiansen",
+   "birth_year": 1928,
+   "death_year": 1999,
+   "nationality": "Norwegian",
+   "field": "Indology"
+  },
+  {
+   "name": "Georg Morgenstierne",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Norwegian",
+   "field": "Indology"
+  },
+  {
+   "name": "Sten Konow",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Norwegian",
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Knut Kristiansen",
+   "type": "position_at",
+   "object": "University of Oslo",
+   "role": "taught New Indic languages",
+   "place": "Oslo",
+   "year_start": null,
+   "year_end": 1998,
+   "explicit": true,
+   "evidence": "Knut Kristiansen, who taught New Indic languages at the University of Oslo until a year ago, died at the beginning of July, brutally murdered in his flat by an intruder.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Knut Kristiansen",
+   "type": "student_of",
+   "object": "Georg Morgenstierne",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He also constituted one of the last links to the great period of Norwegian Indology, the period of Sten Konow and Georg Morgenstierne, whose student he was.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 1999: Obituary",
+ "corpus": "indology-list",
+ "path": "indology_list/1999-August.txt.gz#Obituary",
+ "meta": {
+  "title": "INDOLOGY list message, 1999: Obituary",
+  "author": "Lars Martin Fosse",
+  "year": 1999,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

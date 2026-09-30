@@ -1,0 +1,76 @@
+{
+ "author": "Mrinal Kaul",
+ "doc_kind": "obituary",
+ "doc_year": 2011,
+ "people": [
+  {
+   "name": "Mrinal Kaul",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Hemendra Nath Chakravarty",
+   "birth_year": null,
+   "death_year": 2011,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Gopinath Kaviraj",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Hemendra Nath Chakravarty",
+   "type": "student_of",
+   "object": "Gopinath Kaviraj",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He was a student of Gopinath Kaviraj and learnt many ?aiva texts with him besides the Ny?ya??stra.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mrinal Kaul",
+   "type": "student_of",
+   "object": "Hemendra Nath Chakravarty",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He taught many Indologists and helped many of us learning the texts of Abhinavagupta.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hemendra Nath Chakravarty",
+   "type": "collaborated_with",
+   "object": "Indira Gandhi National Centre for the Arts",
+   "role": null,
+   "place": "Varanasi",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He worked for long term projects with Indira Gandhi National Centre for the Arts (Varanasi)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 2011: Pandit Hemendra Nath Chakravarty passed away",
+ "corpus": "indology-list",
+ "path": "indology_list/2011-April.txt.gz#Pandit Hemendra Nath Chakravarty passed #216",
+ "meta": {
+  "title": "INDOLOGY list message, 2011: Pandit Hemendra Nath Chakravarty passed away",
+  "author": "Mrinal Kaul",
+  "year": 2011,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

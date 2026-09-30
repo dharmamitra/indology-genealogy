@@ -1,0 +1,83 @@
+{
+ "author": "Alfred Collins",
+ "doc_kind": "other",
+ "doc_year": 2003,
+ "people": [
+  {
+   "name": "Alfred Collins",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Raja Rao",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sri Padmanabha Menon",
+   "birth_year": null,
+   "death_year": 2000,
+   "nationality": "Indian",
+   "field": null
+  },
+  {
+   "name": "Sri Atmananda",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Indian",
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Alfred Collins",
+   "type": "student_of",
+   "object": "Sri Padmanabha Menon",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "His son, Sri Padmanabha Menon, Sri Adwayananda, was my teacher.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Raja Rao",
+   "type": "student_of",
+   "object": "Sri Atmananda",
+   "role": "disciple",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Raja Rao, the novelist, was Atmananda's disciple",
+   "quote_ok": true
+  },
+  {
+   "subject": "Raja Rao",
+   "type": "position_at",
+   "object": "University of Texas",
+   "role": "teaching",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Raja (then teaching at the University of Texas)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 2003: introduction and a question",
+ "corpus": "indology-list",
+ "path": "indology_list/2003-December.txt.gz#introduction and a question#218",
+ "meta": {
+  "title": "INDOLOGY list message, 2003: introduction and a question",
+  "author": "Alfred Collins",
+  "year": 2003,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

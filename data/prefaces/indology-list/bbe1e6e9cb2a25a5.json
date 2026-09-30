@@ -1,0 +1,71 @@
+{
+ "author": "Dipak Bhattacharya",
+ "doc_kind": "other",
+ "doc_year": 2012,
+ "people": [
+  {
+   "name": "Tilmann Vetter",
+   "birth_year": 1937,
+   "death_year": 2012,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Victor van Bijlert",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Dipak Bhattacharya",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jonathan Silk",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Victor van Bijlert",
+   "type": "student_of",
+   "object": "Tilmann Vetter",
+   "role": "doctoral supervisor",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Professor Victor van Bijlert who did his doctorate under him",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jonathan Silk",
+   "type": "position_at",
+   "object": "Universiteit Leiden",
+   "role": null,
+   "place": "Leiden",
+   "year_start": null,
+   "year_end": 2012,
+   "explicit": true,
+   "evidence": "Jonathan Silk\n\n-- \nJ. Silk\nInstituut Kern / Universiteit Leiden\nLeiden University Institute for Area Studies, LIAS",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 2012: Sad announcement: Passing of Prof Tilmann Vetter (1937-2012)",
+ "corpus": "indology-list",
+ "path": "indology_list/2012-December.txt.gz#Sad announcement: Passing of Prof Tilman",
+ "meta": {
+  "title": "INDOLOGY list message, 2012: Sad announcement: Passing of Prof Tilmann Vetter (1937-2012)",
+  "author": "Dipak Bhattacharya",
+  "year": 2012,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

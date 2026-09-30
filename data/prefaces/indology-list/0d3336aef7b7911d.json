@@ -1,0 +1,176 @@
+{
+ "author": null,
+ "doc_kind": "obituary",
+ "doc_year": 2023,
+ "people": [
+  {
+   "name": "Paul Dundas",
+   "birth_year": 1952,
+   "death_year": 2023,
+   "nationality": null,
+   "field": "Jain and Prakrit studies"
+  },
+  {
+   "name": "Patrick Olivelle",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Michael Coulson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "John Brough",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "K.R. Norman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Peter Bisschop",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "John Brockington",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Paul Dundas",
+   "type": "other",
+   "object": "Patrick Olivelle",
+   "role": "friend",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Paul was also a good friend.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Dundas",
+   "type": "studied_at",
+   "object": "University of Edinburgh",
+   "role": "undergraduate",
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Paul started studying Sanskrit and Prakrit as an undergraduate at the University of Edinburgh with Michael Coulson",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Dundas",
+   "type": "student_of",
+   "object": "Michael Coulson",
+   "role": "teacher",
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Paul started studying Sanskrit and Prakrit as an undergraduate at the University of Edinburgh with Michael Coulson",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Dundas",
+   "type": "studied_at",
+   "object": "University of Cambridge",
+   "role": "postgraduate",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "had a short period as a postgraduate at the University of Cambridge with among others, John Brough and K.R. Norman",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Dundas",
+   "type": "student_of",
+   "object": "John Brough",
+   "role": "teacher",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "had a short period as a postgraduate at the University of Cambridge with among others, John Brough and K.R. Norman",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Dundas",
+   "type": "student_of",
+   "object": "K.R. Norman",
+   "role": "teacher",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "had a short period as a postgraduate at the University of Cambridge with among others, John Brough and K.R. Norman",
+   "quote_ok": true
+  },
+  {
+   "subject": "Paul Dundas",
+   "type": "position_at",
+   "object": "University of Edinburgh",
+   "role": "reader",
+   "place": "Edinburgh",
+   "year_start": 1976,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "accepting the post in Sanskrit at Edinburgh in 1976, where he continued to teach and research throughout his entire career until his retirement as reader only a few years ago.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Bisschop",
+   "type": "position_at",
+   "object": "University of Edinburgh",
+   "role": "Sanskrit colleague",
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "we, his former Sanskrit colleagues at the University of Edinburgh... Peter Bisschop, Leiden",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Brockington",
+   "type": "position_at",
+   "object": "University of Edinburgh",
+   "role": "Sanskrit colleague",
+   "place": "Edinburgh",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "we, his former Sanskrit colleagues at the University of Edinburgh... John Brockington, Kidlington",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 2023: [INDOLOGY] Paul Dundas (1952-2023)",
+ "corpus": "indology-list",
+ "path": "indology_list/2023-April.txt.gz#[INDOLOGY] Paul Dundas (1952-2023)",
+ "meta": {
+  "title": "INDOLOGY list message, 2023: [INDOLOGY] Paul Dundas (1952-2023)",
+  "author": "Patrick Olivelle",
+  "year": 2023,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

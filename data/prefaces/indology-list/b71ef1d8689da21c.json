@@ -1,0 +1,64 @@
+{
+ "author": "Patrick Olivelle",
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Patrick Olivelle",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Richard Salomon",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ludo Rocher",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Richard Salomon",
+   "type": "student_of",
+   "object": "Ludo Rocher",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Richard Salomon, my classmate and former student of Ludo Rocher",
+   "quote_ok": true
+  },
+  {
+   "subject": "Patrick Olivelle",
+   "type": "other",
+   "object": "Richard Salomon",
+   "role": "classmate",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Richard Salomon, my classmate",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 2017: [INDOLOGY] Ludo Rocher Obituary",
+ "corpus": "indology-list",
+ "path": "indology_list/2017-January.txt.gz#[INDOLOGY] Ludo Rocher Obituary",
+ "meta": {
+  "title": "INDOLOGY list message, 2017: [INDOLOGY] Ludo Rocher Obituary",
+  "author": "Olivelle, J P",
+  "year": 2017,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

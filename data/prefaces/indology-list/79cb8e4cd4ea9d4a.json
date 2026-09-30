@@ -1,0 +1,64 @@
+{
+ "author": "David Smith",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "David Smith",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "South Asian Religions"
+  },
+  {
+   "name": "M.N. Tiwari",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Kamal Giri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "David Smith",
+   "type": "position_at",
+   "object": "Lancaster University",
+   "role": "Reader in South Asian Religions (retired)",
+   "place": "UK",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr David Smith\nReader in South Asian Religions (retired)\nLancaster University\nUK",
+   "quote_ok": true
+  },
+  {
+   "subject": "M.N. Tiwari",
+   "type": "collaborated_with",
+   "object": "Kamal Giri",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": 1998,
+   "explicit": true,
+   "evidence": "M.N. Tiwari and Kamal Giri,' Some rare sculptures from Modhera'",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 2021: [INDOLOGY] Seeking extract from Gustav Roth Festschrift 1998",
+ "corpus": "indology-list",
+ "path": "indology_list/2021-January.txt.gz#[INDOLOGY] Seeking extract from Gustav R",
+ "meta": {
+  "title": "INDOLOGY list message, 2021: [INDOLOGY] Seeking extract from Gustav Roth Festschrift 1998",
+  "author": "David Smith",
+  "year": 2021,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

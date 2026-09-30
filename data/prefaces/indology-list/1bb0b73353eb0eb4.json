@@ -1,0 +1,45 @@
+{
+ "author": "Dominik",
+ "doc_kind": "other",
+ "doc_year": 2023,
+ "people": [
+  {
+   "name": "Dominik",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Thomas Burrow",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Dominik",
+   "type": "student_of",
+   "object": "Thomas Burrow",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "when I was an undergraduate, my teacher Prof. Thomas Burrow told us",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 2023: [INDOLOGY] Heggarty et al. 2023,",
+ "corpus": "indology-list",
+ "path": "indology_list/2023-August.txt.gz#[INDOLOGY] Heggarty et al. 2023,#59",
+ "meta": {
+  "title": "INDOLOGY list message, 2023: [INDOLOGY] Heggarty et al. 2023,",
+  "author": "Dominik",
+  "year": 2023,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

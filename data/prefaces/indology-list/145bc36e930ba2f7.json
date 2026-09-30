@@ -1,0 +1,83 @@
+{
+ "author": "Richard Salomon",
+ "doc_kind": "other",
+ "doc_year": 2004,
+ "people": [
+  {
+   "name": "Richard Salomon",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Tim Lenz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jason Neelis",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ashok Aklujkar",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Tim Lenz",
+   "type": "student_of",
+   "object": "Richard Salomon",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "my former students Tim Lenz or Jason Neelis",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jason Neelis",
+   "type": "student_of",
+   "object": "Richard Salomon",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "my former students Tim Lenz or Jason Neelis",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ashok Aklujkar",
+   "type": "position_at",
+   "object": "University of British Columbia",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 2004,
+   "explicit": false,
+   "evidence": "From: \"Ashok Aklujkar\" <aklujkar at INTERCHANGE.UBC.CA>",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 2004: Position at the University of British Columbia",
+ "corpus": "indology-list",
+ "path": "indology_list/2004-November.txt.gz#Position at the University of British Co#44",
+ "meta": {
+  "title": "INDOLOGY list message, 2004: Position at the University of British Columbia",
+  "author": "Richard Salomon",
+  "year": 2004,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

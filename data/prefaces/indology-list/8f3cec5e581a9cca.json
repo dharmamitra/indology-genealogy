@@ -1,0 +1,100 @@
+{
+ "author": "David Reigle",
+ "doc_kind": "other",
+ "doc_year": 2016,
+ "people": [
+  {
+   "name": "Stanley Insler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Stephanie Jamison",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Joel Brereton",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Stephanie Jamison",
+   "type": "student_of",
+   "object": "Stanley Insler",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "2 of my former students, Prof. Stephanie Jamison",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joel Brereton",
+   "type": "student_of",
+   "object": "Stanley Insler",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "2 of my former students, Prof. Stephanie Jamison (UCLA) and Prof. Joel Brereton",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stephanie Jamison",
+   "type": "position_at",
+   "object": "UCLA",
+   "role": "Prof.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. Stephanie Jamison (UCLA)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joel Brereton",
+   "type": "position_at",
+   "object": "UT Austin",
+   "role": "Prof.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. Joel Brereton (UT Austin)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Stephanie Jamison",
+   "type": "collaborated_with",
+   "object": "Joel Brereton",
+   "role": "co-translators",
+   "place": null,
+   "year_start": null,
+   "year_end": 2014,
+   "explicit": true,
+   "evidence": "Prof. Stephanie Jamison (UCLA) and Prof. Joel Brereton (UT Austin). They worked from scratch for 15 years ... and their translation was published by OUP (in 3 vols.) in June 2014.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 2016: [INDOLOGY] Stanley Insler's translation of the Rigveda?",
+ "corpus": "indology-list",
+ "path": "indology_list/2016-January.txt.gz#[INDOLOGY] Stanley Insler's translation #257",
+ "meta": {
+  "title": "INDOLOGY list message, 2016: [INDOLOGY] Stanley Insler's translation of the Rigveda?",
+  "author": "David and Nancy Reigle",
+  "year": 2016,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

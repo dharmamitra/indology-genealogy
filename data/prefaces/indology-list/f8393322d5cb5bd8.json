@@ -1,0 +1,76 @@
+{
+ "author": "Vincent Eltschinger",
+ "doc_kind": "other",
+ "doc_year": 2025,
+ "people": [
+  {
+   "name": "Vincent Eltschinger",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Johannes Bronkhorst",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jacques May",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Vincent Eltschinger",
+   "type": "student_of",
+   "object": "Johannes Bronkhorst",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "To him who had been ? and remained ? my teacher before becoming a friend",
+   "quote_ok": true
+  },
+  {
+   "subject": "Johannes Bronkhorst",
+   "type": "collaborated_with",
+   "object": "Jacques May",
+   "role": "colleague",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "filmed interview modelled on the one I had conducted with his former colleague Jacques May",
+   "quote_ok": true
+  },
+  {
+   "subject": "Vincent Eltschinger",
+   "type": "position_at",
+   "object": "cole Pratique des Hautes tudes, Section des sciences religieuses",
+   "role": "Directeur d'tudes",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Directeur d'?tudes\n?cole Pratique des Hautes ?tudes, Section des sciences religieuses\nPatios Saint-Jacques, 4-14 rue Ferrus - 75014 Paris",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 2025: [INDOLOGY] Interview with Johannes Bronkhorst",
+ "corpus": "indology-list",
+ "path": "indology_list/2025-June.txt.gz#[INDOLOGY] Interview with Johannes Bronk#1078",
+ "meta": {
+  "title": "INDOLOGY list message, 2025: [INDOLOGY] Interview with Johannes Bronkhorst",
+  "author": "Eltschinger, Vincent",
+  "year": 2025,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

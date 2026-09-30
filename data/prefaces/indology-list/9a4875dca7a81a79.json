@@ -1,0 +1,128 @@
+{
+ "author": null,
+ "doc_kind": "other",
+ "doc_year": 2017,
+ "people": [
+  {
+   "name": "Andrey Zaliznyak",
+   "birth_year": 1935,
+   "death_year": 2017,
+   "nationality": "Russian",
+   "field": "linguistics"
+  },
+  {
+   "name": "V.A. Kochergina",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Russian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Mārcis Gasūns",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Renou",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Ivanov",
+   "birth_year": null,
+   "death_year": 2017,
+   "nationality": "Russian",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "George Cardona",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Peter Scharf",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Andrey Zaliznyak",
+   "type": "position_at",
+   "object": "Moscow State University",
+   "role": "teacher of Sanskrit",
+   "place": "Moscow",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "who taught Sanskrit as well in Moscow State Universityfor more than 50 years from time to time",
+   "quote_ok": true
+  },
+  {
+   "subject": "Andrey Zaliznyak",
+   "type": "student_of",
+   "object": "Renou",
+   "role": "teacher",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "He learnedSanskrit from Renou in Paris.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mārcis Gasūns",
+   "type": "student_of",
+   "object": "Andrey Zaliznyak",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "But for me, he remains to be my teacher of Sanskrit",
+   "quote_ok": true
+  },
+  {
+   "subject": "Andrey Zaliznyak",
+   "type": "collaborated_with",
+   "object": "Ivanov",
+   "role": "colleague",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "A month before his best colleague, Ivanov died.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Peter Scharf",
+   "type": "student_of",
+   "object": "George Cardona",
+   "role": "pupil",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Peter Scharf, Cardona's most talented pupil.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 2017: [INDOLOGY] Obituary: Andrey Zaliznyak (1935-2017)",
+ "corpus": "indology-list",
+ "path": "indology_list/2017-December.txt.gz#[INDOLOGY] Obituary: Andrey Zaliznyak (1#1858",
+ "meta": {
+  "title": "INDOLOGY list message, 2017: [INDOLOGY] Obituary: Andrey Zaliznyak (1935-2017)",
+  "author": "Shrinivas Tilak",
+  "year": 2017,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

@@ -1,0 +1,76 @@
+{
+ "author": "Matthew Kapstein",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "Jan E.M. Houben",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "South Asian History and Philology"
+  },
+  {
+   "name": "Henk Bodewitz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Jean-Luc Chevillard",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jan E.M. Houben",
+   "type": "student_of",
+   "object": "Henk Bodewitz",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "according to my teacher Prof. Henk Bodewitz",
+   "quote_ok": true
+  },
+  {
+   "subject": "Jan E.M. Houben",
+   "type": "position_at",
+   "object": "École Pratique des Hautes Études",
+   "role": "Directeur d'études, Professor of South Asian History and Philology",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Jan E.M. Houben\n\nDirecteur d'études, Professor of South Asian History and Philology\n\nSources et histoire de la tradition sanskrite\n\nÉcole Pratique des Hautes Études (EPHE, Paris Sciences et Lettres)",
+   "quote_ok": false
+  },
+  {
+   "subject": "Jean-Luc Chevillard",
+   "type": "position_at",
+   "object": "univ-paris-diderot",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "Jean-Luc Chevillard <jean-luc.chevillard at univ-paris-diderot.fr>",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 2020: [INDOLOGY] (still) no distraction from the coronavirus...",
+ "corpus": "indology-list",
+ "path": "indology_list/2020-March.txt.gz#[INDOLOGY] (still) no distraction from t#1261",
+ "meta": {
+  "title": "INDOLOGY list message, 2020: [INDOLOGY] (still) no distraction from the coronavirus...",
+  "author": "Matthew Kapstein",
+  "year": 2020,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

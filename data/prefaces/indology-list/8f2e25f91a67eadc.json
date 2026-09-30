@@ -1,0 +1,57 @@
+{
+ "author": "Burt Thorp",
+ "doc_kind": "other",
+ "doc_year": 1999,
+ "people": [
+  {
+   "name": "Burt Thorp",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Hartmut Scharfe",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Burt Thorp",
+   "type": "student_of",
+   "object": "Hartmut Scharfe",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "My former teacher, Hartmut Scharfe",
+   "quote_ok": true
+  },
+  {
+   "subject": "Hartmut Scharfe",
+   "type": "position_at",
+   "object": "UCLA",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Hartmut Scharfe, used to teach Panini as part of his undergraduate course on Indian Philosophy at UCLA.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 1999: \"Top Five\" Philosophy Works",
+ "corpus": "indology-list",
+ "path": "indology_list/1999-November.txt.gz#\"Top Five\" Philosophy Works#171",
+ "meta": {
+  "title": "INDOLOGY list message, 1999: \"Top Five\" Philosophy Works",
+  "author": "Burt Thorp",
+  "year": 1999,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

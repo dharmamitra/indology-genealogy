@@ -1,0 +1,95 @@
+{
+ "author": "Mrinal Kaul",
+ "doc_kind": "obituary",
+ "doc_year": 2025,
+ "people": [
+  {
+   "name": "Raniero Gnoli",
+   "birth_year": 1930,
+   "death_year": 2025,
+   "nationality": "Italian",
+   "field": null
+  },
+  {
+   "name": "Dinanath Yaccha",
+   "birth_year": 1921,
+   "death_year": 2004,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Francesco Sferra",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Mrinal Kaul",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indian Philosophy"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Mrinal Kaul",
+   "type": "student_of",
+   "object": "Dinanath Yaccha",
+   "role": "traditional teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "my teacher Pandit Dinanath Yaccha (1921-2004)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Raniero Gnoli",
+   "type": "collaborated_with",
+   "object": "Dinanath Yaccha",
+   "role": null,
+   "place": "Srinagar",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Whenever Gnoli visited Srinagar, he would meet with Yaccha. Yaccha told me that once, while looking at a text together, they got stuck at a particular place",
+   "quote_ok": true
+  },
+  {
+   "subject": "Francesco Sferra",
+   "type": "student_of",
+   "object": "Raniero Gnoli",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Thanks to Francesco Sferra, one of his students",
+   "quote_ok": true
+  },
+  {
+   "subject": "Mrinal Kaul",
+   "type": "position_at",
+   "object": "Indian Institute of Technology Bombay (IITB)",
+   "role": "Associate Professor (Indian Philosophy)",
+   "place": "Powai, Mumbai",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Mrinal Kaul (he/ him/ his)\nAssociate Professor (Indian Philosophy)\nDepartment of Humanities and Social Sciences (HSS)\nIndian Institute of Technology Bombay (IITB)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 2025: [INDOLOGY] death of Raniero Gnoli",
+ "corpus": "indology-list",
+ "path": "indology_list/2025-May.txt.gz#[INDOLOGY] death of Raniero Gnoli#96",
+ "meta": {
+  "title": "INDOLOGY list message, 2025: [INDOLOGY] death of Raniero Gnoli",
+  "author": "Mrinal Kaul",
+  "year": 2025,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

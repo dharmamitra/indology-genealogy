@@ -1,0 +1,69 @@
+{
+ "author": "John Powers",
+ "doc_kind": "other",
+ "doc_year": 1997,
+ "people": [
+  {
+   "name": "John Powers",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Richard Barz",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "John Powers",
+   "type": "position_at",
+   "object": "Australian National University",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": 1997,
+   "explicit": true,
+   "evidence": "John Powers\nFaculty of Asian Studies\nAustralian National University",
+   "quote_ok": true
+  },
+  {
+   "subject": "John Powers",
+   "type": "position_at",
+   "object": "Faculty of Asian Studies",
+   "role": null,
+   "place": "Australian National University",
+   "year_start": null,
+   "year_end": 1997,
+   "explicit": true,
+   "evidence": "John Powers\nFaculty of Asian Studies\nAustralian National University",
+   "quote_ok": true
+  },
+  {
+   "subject": "Richard Barz",
+   "type": "collaborated_with",
+   "object": "John Powers",
+   "role": "colleague",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I recommended that the student in question speak to a colleague who is an expert on bhakti (Dr Richard Barz)",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 1997: Faith in Hinduism",
+ "corpus": "indology-list",
+ "path": "indology_list/1997-August.txt.gz#Faith in Hinduism#201",
+ "meta": {
+  "title": "INDOLOGY list message, 1997: Faith in Hinduism",
+  "author": "John.Powers at anu.edu.au",
+  "year": 1997,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

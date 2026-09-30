@@ -1,0 +1,57 @@
+{
+ "author": "Ronald E. Emmerick",
+ "doc_kind": "other",
+ "doc_year": 2000,
+ "people": [
+  {
+   "name": "Ronald E. Emmerick",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sir Harold Bailey",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ronald E. Emmerick",
+   "type": "student_of",
+   "object": "Sir Harold Bailey",
+   "role": "teacher",
+   "place": "Cambridge",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "This is a saying I first heard from my former teacher in Cambridge, the late Sir Harold Bailey",
+   "quote_ok": true
+  },
+  {
+   "subject": "Ronald E. Emmerick",
+   "type": "position_at",
+   "object": "Hamburg University",
+   "role": "Prof. Dr.",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. Dr. Ronald E. Emmerick\nHamburg University",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 2000: \"Etymologies are either obvious or wrong\"",
+ "corpus": "indology-list",
+ "path": "indology_list/2000-January.txt.gz#\"Etymologies are either obvious or wrong#79",
+ "meta": {
+  "title": "INDOLOGY list message, 2000: \"Etymologies are either obvious or wrong\"",
+  "author": "Ronald E.Emmerick",
+  "year": 2000,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

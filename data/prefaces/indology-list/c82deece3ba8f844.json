@@ -1,0 +1,168 @@
+{
+ "author": "Robert A. Hueckstedt",
+ "doc_kind": "other",
+ "doc_year": 2018,
+ "people": [
+  {
+   "name": "Robert A. Hueckstedt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Caroline Fitzgerald",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "American",
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Whitney",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Lanman",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Christophe Vielle",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Klaus Karttunen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Salisbury",
+   "birth_year": null,
+   "death_year": 1900,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "de Sacy",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Lassen",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Charles Rieu",
+   "birth_year": 1820,
+   "death_year": 1902,
+   "nationality": "Swiss",
+   "field": "Arabic"
+  },
+  {
+   "name": "Herman Tull",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Caroline Fitzgerald",
+   "type": "student_of",
+   "object": "Whitney",
+   "role": "teacher",
+   "place": null,
+   "year_start": 1884,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "She studied under Whitney in 1884-85, thereabouts, at the age of 19-20",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Rieu",
+   "type": "student_of",
+   "object": "Lassen",
+   "role": "teacher",
+   "place": "Bonn",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "and Sanskrit (learned in Bonn with Lassen), was the Swiss (from Geneva) Charles Rieu",
+   "quote_ok": true
+  },
+  {
+   "subject": "Charles Rieu",
+   "type": "position_at",
+   "object": "Cambridge",
+   "role": "Professor of Arabic",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Charles Rieu (1820-1902), who became Professor of Arabic in Cambridge.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Salisbury",
+   "type": "position_at",
+   "object": "Yale",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Salisbury, who founded Sanskrit studies at Yale",
+   "quote_ok": true
+  },
+  {
+   "subject": "Whitney",
+   "type": "student_of",
+   "object": "Salisbury",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Salisbury, by his own admission, was not much of a Sanskritist (or, much of a teacher), and had only two Sanskrit students ... One of his two students was W. D. Whitney.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Whitney",
+   "type": "position_at",
+   "object": "Yale",
+   "role": null,
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Whitney, went on to study in Germany, and then was appointed at Yale through Salisbury's generosity.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 2018: [INDOLOGY] On Sanskrit in the USA",
+ "corpus": "indology-list",
+ "path": "indology_list/2018-June.txt.gz#[INDOLOGY] On Sanskrit in the USA",
+ "meta": {
+  "title": "INDOLOGY list message, 2018: [INDOLOGY] On Sanskrit in the USA",
+  "author": "Hueckstedt, Robert A. (rah2k)",
+  "year": 2018,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

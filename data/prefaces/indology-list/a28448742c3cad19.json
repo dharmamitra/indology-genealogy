@@ -1,0 +1,83 @@
+{
+ "author": "Valerie J Roebuck",
+ "doc_kind": "other",
+ "doc_year": 2015,
+ "people": [
+  {
+   "name": "Monier Monier-Williams",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Ernst Leumann",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "Swiss",
+   "field": null
+  },
+  {
+   "name": "Sch?nberg",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "B?hler",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Ernst Leumann",
+   "type": "collaborated_with",
+   "object": "Monier Monier-Williams",
+   "role": "assistant",
+   "place": "Oxford",
+   "year_start": 1882,
+   "year_end": 1884,
+   "explicit": true,
+   "evidence": "Dr. Ernst Leumann (a native of Switzerland), who worked with me in Oxford from October 3, 1882, until April 15, 1884",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sch?nberg",
+   "type": "student_of",
+   "object": "B?hler",
+   "role": "pupil",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Dr. Sch?nberg (a pupil of the late Professor B?hler)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sch?nberg",
+   "type": "collaborated_with",
+   "object": "Monier Monier-Williams",
+   "role": "assistant",
+   "place": null,
+   "year_start": 1884,
+   "year_end": 1885,
+   "explicit": true,
+   "evidence": "Dr. Sch?nberg ... whose assistance only extended from May 20, 1884, to July 19, 1885",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 2015: =?utf-8?Q?Re:_[INDOLOGY]_Speaking_of_plagiarism:_Satya_Prakash_Sarasvati_and_Sat",
+ "corpus": "indology-list",
+ "path": "indology_list/2015-July.txt.gz#=?utf-8?Q?Re:_[INDOLOGY]_Speaking_of_pla#503",
+ "meta": {
+  "title": "INDOLOGY list message, 2015: =?utf-8?Q?Re:_[INDOLOGY]_Speaking_of_plagiarism:_Satya_Prakash_Sarasvati_and_Sat",
+  "author": "Valerie Roebuck",
+  "year": 2015,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

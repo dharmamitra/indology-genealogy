@@ -1,0 +1,76 @@
+{
+ "author": "Matthew Kapstein",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Steven Collins",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Richard Gombrich",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Sheldon Pollock",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Steven Collins",
+   "type": "student_of",
+   "object": "Richard Gombrich",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "the late Steven Collins who both endorsed his teacher Richard Gombrich?s adoption of this interpretation",
+   "quote_ok": true
+  },
+  {
+   "subject": "Steven Collins",
+   "type": "position_at",
+   "object": "University of Chicago",
+   "role": "colleague",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "familiarized his colleagues at the University of Chicago - Sheldon Pollock and others",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sheldon Pollock",
+   "type": "position_at",
+   "object": "University of Chicago",
+   "role": "colleague",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "familiarized his colleagues at the University of Chicago - Sheldon Pollock and others",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 2021: [INDOLOGY] The Buddhist term sutta",
+ "corpus": "indology-list",
+ "path": "indology_list/2021-May.txt.gz#[INDOLOGY] The Buddhist term sutta",
+ "meta": {
+  "title": "INDOLOGY list message, 2021: [INDOLOGY] The Buddhist term sutta",
+  "author": "Matthew Kapstein",
+  "year": 2021,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

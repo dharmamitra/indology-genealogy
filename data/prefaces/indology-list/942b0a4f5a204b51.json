@@ -1,0 +1,57 @@
+{
+ "author": "McComas Taylor",
+ "doc_kind": "other",
+ "doc_year": 2020,
+ "people": [
+  {
+   "name": "McComas Taylor",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Alex Watt",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Alex Watt",
+   "type": "student_of",
+   "object": "McComas Taylor",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "One of my students, Alex Watt, found this interesting passage",
+   "quote_ok": true
+  },
+  {
+   "subject": "McComas Taylor",
+   "type": "position_at",
+   "object": "The Australian National University",
+   "role": "Associate Professor, Reader in Sanskrit",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "McComas Taylor\nAssociate Professor\nReader in Sanskrit\nCollege of Asia and the Pacific\nThe Australian National University",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 2020: [INDOLOGY] Monier-Williams and Spoken Sanskrit",
+ "corpus": "indology-list",
+ "path": "indology_list/2020-June.txt.gz#[INDOLOGY] Monier-Williams and Spoken Sa#7",
+ "meta": {
+  "title": "INDOLOGY list message, 2020: [INDOLOGY] Monier-Williams and Spoken Sanskrit",
+  "author": "McComas Taylor",
+  "year": 2020,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

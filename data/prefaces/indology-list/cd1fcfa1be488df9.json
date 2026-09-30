@@ -1,0 +1,76 @@
+{
+ "author": "Roland Steiner",
+ "doc_kind": "obituary",
+ "doc_year": 2000,
+ "people": [
+  {
+   "name": "Roland Steiner",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Sarveswara Sharma Peri",
+   "birth_year": 1926,
+   "death_year": 2000,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Wilhelm Rau",
+   "birth_year": 1922,
+   "death_year": 1999,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Sarveswara Sharma Peri",
+   "type": "position_at",
+   "object": "Department of Indology, University of Marburg, Germany",
+   "role": "Lektor",
+   "place": "Marburg, Germany",
+   "year_start": 1964,
+   "year_end": 1991,
+   "explicit": true,
+   "evidence": "From 1964 until his retirement in 1991 he was a \"Lektor\" in the department teaching Hindi, Telugu and Sanskrit.",
+   "quote_ok": true
+  },
+  {
+   "subject": "Sarveswara Sharma Peri",
+   "type": "student_of",
+   "object": "Wilhelm Rau",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "philological methodology in the tradition of his teacher Prof. Dr. Wilhelm Rau (1922-1999)",
+   "quote_ok": true
+  },
+  {
+   "subject": "Roland Steiner",
+   "type": "position_at",
+   "object": "Department of Indology, University of Marburg, Germany",
+   "role": "member",
+   "place": "Marburg, Germany",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "The members of the Department of Indology, University of Marburg, Germany, are extremely sorry to report the passing away of Dr. Sarveswara Sharma Peri",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 2000: Obituary: Dr S. Sharma Peri",
+ "corpus": "indology-list",
+ "path": "indology_list/2000-March.txt.gz#Obituary: Dr S. Sharma Peri",
+ "meta": {
+  "title": "INDOLOGY list message, 2000: Obituary: Dr S. Sharma Peri",
+  "author": "Roland Steiner",
+  "year": 2000,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

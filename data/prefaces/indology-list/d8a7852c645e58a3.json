@@ -1,0 +1,90 @@
+{
+ "author": "Mark McClish",
+ "doc_kind": "other",
+ "doc_year": 2023,
+ "people": [
+  {
+   "name": "Mark McClish",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Albrecht Wezler",
+   "birth_year": null,
+   "death_year": 2023,
+   "nationality": null,
+   "field": "Sanskrit studies"
+  },
+  {
+   "name": "Raffaele Torella",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Isabelle Ratié",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Axel Michaels",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Isabelle Ratié",
+   "type": "position_at",
+   "object": "Sorbonne Nouvelle, Paris",
+   "role": "Professeur",
+   "place": "Paris",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Isabelle Ratié\nProfesseur, Département des Études Orientales, Sorbonne Nouvelle, Paris",
+   "quote_ok": false
+  },
+  {
+   "subject": "Axel Michaels",
+   "type": "student_of",
+   "object": "Albrecht Wezler",
+   "role": "teacher",
+   "place": "Hamburg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I am deeply saddened to learn about the passing of Albrecht Wezler. As my teacher in Hamburg, he had a significant impact on my academic journey",
+   "quote_ok": true
+  },
+  {
+   "subject": "Axel Michaels",
+   "type": "position_at",
+   "object": "Centre for Asian and Transcultural Studies (CATS) / Südasien-Institut der Universität Heidelberg",
+   "role": "Seniorprofessor",
+   "place": "Heidelberg",
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "Prof. Dr. Axel Michaels\nSeniorprofessor - Vorsitzender des Kuratoriums der Josefine und Eduard von Portheim-Stiftung für Wissenschaft und Kunst\n\nCentre for Asian and Transcultural Studies (CATS) / Südasien-Institut der Universität Heidelberg",
+   "quote_ok": false
+  }
+ ],
+ "docid": "INDOLOGY list, 2023: [INDOLOGY]",
+ "corpus": "indology-list",
+ "path": "indology_list/2023-May.txt.gz#[INDOLOGY]#1751",
+ "meta": {
+  "title": "INDOLOGY list message, 2023: [INDOLOGY]",
+  "author": "Mark McClish",
+  "year": 2023,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

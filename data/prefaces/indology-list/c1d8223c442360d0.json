@@ -1,0 +1,45 @@
+{
+ "author": "Jim Ryan",
+ "doc_kind": "other",
+ "doc_year": 2021,
+ "people": [
+  {
+   "name": "Jim Ryan",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Frances Wilson",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Jim Ryan",
+   "type": "student_of",
+   "object": "Frances Wilson",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "conditioned by my teacher some years ago, Frances Wilson",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 2021: [INDOLOGY] =?utf-8?b?UMSB4bmHaW5p?=",
+ "corpus": "indology-list",
+ "path": "indology_list/2021-September.txt.gz#[INDOLOGY] =?utf-8?b?UMSB4bmHaW5p?=#241",
+ "meta": {
+  "title": "INDOLOGY list message, 2021: [INDOLOGY] =?utf-8?b?UMSB4bmHaW5p?=",
+  "author": "Jim Ryan",
+  "year": 2021,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

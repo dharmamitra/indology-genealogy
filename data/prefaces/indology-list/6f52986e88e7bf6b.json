@@ -1,0 +1,57 @@
+{
+ "author": "Joydeep Bagchee",
+ "doc_kind": "other",
+ "doc_year": 2016,
+ "people": [
+  {
+   "name": "Joydeep Bagchee",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  },
+  {
+   "name": "Vishwa Adluri",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": null
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Joydeep Bagchee",
+   "type": "student_of",
+   "object": "Vishwa Adluri",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "a book I co-authored with my teacher Vishwa Adluri",
+   "quote_ok": true
+  },
+  {
+   "subject": "Joydeep Bagchee",
+   "type": "collaborated_with",
+   "object": "Vishwa Adluri",
+   "role": "co-author",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "a book I co-authored with my teacher Vishwa Adluri",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 2016: =?utf-8?Q?[INDOLOGY]_The_layers_of_the_Bhagavadg=C4=ABt=C4=81?=",
+ "corpus": "indology-list",
+ "path": "indology_list/2016-February.txt.gz#=?utf-8?Q?[INDOLOGY]_The_layers_of_the_B#177",
+ "meta": {
+  "title": "INDOLOGY list message, 2016: =?utf-8?Q?[INDOLOGY]_The_layers_of_the_Bhagavadg=C4=ABt=C4=81?=",
+  "author": "Joydeep",
+  "year": 2016,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

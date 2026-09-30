@@ -1,0 +1,95 @@
+{
+ "author": "Asko Parpola",
+ "doc_kind": "obituary",
+ "doc_year": 2019,
+ "people": [
+  {
+   "name": "Chlodwig Werba",
+   "birth_year": null,
+   "death_year": 2019,
+   "nationality": "Austrian",
+   "field": "Indology"
+  },
+  {
+   "name": "Gerhard Oberhammer",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "Hertha Krick",
+   "birth_year": 1945,
+   "death_year": 1979,
+   "nationality": "Austrian",
+   "field": "Indology"
+  },
+  {
+   "name": "Asko Parpola",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Chlodwig Werba",
+   "type": "other",
+   "object": "Asko Parpola",
+   "role": "friendship",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "I am really sorry to hear of the premature death on 25 January 2019 of my old friend Chlodwig",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chlodwig Werba",
+   "type": "student_of",
+   "object": "Gerhard Oberhammer",
+   "role": "teacher",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "containing the Festschrift of his teacher Gerhard Oberhammer",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chlodwig Werba",
+   "type": "position_at",
+   "object": "Institut für Indologie",
+   "role": "Studienassistent",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": 1982,
+   "explicit": true,
+   "evidence": "Herrn Chlodwig Werba, Studienassistent am Institut f?r Indologie",
+   "quote_ok": true
+  },
+  {
+   "subject": "Chlodwig Werba",
+   "type": "studied_at",
+   "object": "University of Vienna",
+   "role": "PhD",
+   "place": "Vienna",
+   "year_start": null,
+   "year_end": 1982,
+   "explicit": true,
+   "evidence": "Werba?s list of publications does not include his Viennese doctoral dissertation from 1982",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 2019: [INDOLOGY] Passing Away of Prof. Dr. Chlodwig Werba!",
+ "corpus": "indology-list",
+ "path": "indology_list/2019-January.txt.gz#[INDOLOGY] Passing Away of Prof. Dr. Chl",
+ "meta": {
+  "title": "INDOLOGY list message, 2019: [INDOLOGY] Passing Away of Prof. Dr. Chlodwig Werba!",
+  "author": "Asko Parpola",
+  "year": 2019,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

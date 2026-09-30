@@ -1,0 +1,64 @@
+{
+ "author": "Rolf Koch",
+ "doc_kind": "other",
+ "doc_year": 1998,
+ "people": [
+  {
+   "name": "METTE",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  },
+  {
+   "name": "ALSDORF",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": "German",
+   "field": "Indology"
+  },
+  {
+   "name": "BRUHN",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Indology"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "METTE",
+   "type": "student_of",
+   "object": "ALSDORF",
+   "role": "pupil",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "METTE etc.(pupil of ALSDORF, as BRUHN - as far as I know).",
+   "quote_ok": true
+  },
+  {
+   "subject": "BRUHN",
+   "type": "student_of",
+   "object": "ALSDORF",
+   "role": "pupil",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "METTE etc.(pupil of ALSDORF, as BRUHN - as far as I know).",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 1998: Sanskrit translations in Nazi hands",
+ "corpus": "indology-list",
+ "path": "indology_list/1998-December.txt.gz#Sanskrit translations in Nazi hands#787",
+ "meta": {
+  "title": "INDOLOGY list message, 1998: Sanskrit translations in Nazi hands",
+  "author": "Rolf Koch",
+  "year": 1998,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}

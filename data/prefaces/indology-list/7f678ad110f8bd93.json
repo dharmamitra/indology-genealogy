@@ -1,0 +1,100 @@
+{
+ "author": "McComas Taylor",
+ "doc_kind": "other",
+ "doc_year": 2012,
+ "people": [
+  {
+   "name": "McComas Taylor",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Steve Johnston",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  },
+  {
+   "name": "Nada Cat",
+   "birth_year": null,
+   "death_year": null,
+   "nationality": null,
+   "field": "Sanskrit"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "McComas Taylor",
+   "type": "position_at",
+   "object": "ANU College of Asia and the Pacific",
+   "role": "Head, South Asia Program",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "McComas Taylor\nHead, South Asia Program\nANU College of Asia and the Pacific",
+   "quote_ok": true
+  },
+  {
+   "subject": "Steve Johnston",
+   "type": "studied_at",
+   "object": "ANU",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "two 3rd year students at ANU, Steve Johnston (a professional artist) and Nada Cat",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nada Cat",
+   "type": "studied_at",
+   "object": "ANU",
+   "role": "student",
+   "place": null,
+   "year_start": null,
+   "year_end": null,
+   "explicit": true,
+   "evidence": "two 3rd year students at ANU, Steve Johnston (a professional artist) and Nada Cat",
+   "quote_ok": true
+  },
+  {
+   "subject": "Steve Johnston",
+   "type": "student_of",
+   "object": "McComas Taylor",
+   "role": "teacher",
+   "place": "ANU",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "our students cannot reach a very wide audience for their work. I hope you don't mind me sharing this with you. Here is a wonderful creation from two 3rd year students at ANU, Steve Johnston",
+   "quote_ok": true
+  },
+  {
+   "subject": "Nada Cat",
+   "type": "student_of",
+   "object": "McComas Taylor",
+   "role": "teacher",
+   "place": "ANU",
+   "year_start": null,
+   "year_end": null,
+   "explicit": false,
+   "evidence": "our students cannot reach a very wide audience for their work. I hope you don't mind me sharing this with you. Here is a wonderful creation from two 3rd year students at ANU, Steve Johnston (a professional artist) and Nada Cat.",
+   "quote_ok": true
+  }
+ ],
+ "docid": "INDOLOGY list, 2012: A wonderful video creation by ANU students: the Two-headed Weaver",
+ "corpus": "indology-list",
+ "path": "indology_list/2012-March.txt.gz#A wonderful video creation by ANU studen#94",
+ "meta": {
+  "title": "INDOLOGY list message, 2012: A wonderful video creation by ANU students: the Two-headed Weaver",
+  "author": "McComas Taylor",
+  "year": 2012,
+  "language": "en"
+ },
+ "model": "gemini-flash-latest"
+}
