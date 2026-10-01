@@ -18,7 +18,7 @@ for line in open(sys.argv[1], encoding="utf-8"):
     changed = False
     for r in d["relations"]:
         before += bool(r.get("quote_ok"))
-        ok = quote_ok(r["evidence"], cn, wins)
+        ok = quote_ok(r["evidence"], cn, wins, (r.get("subject"), r.get("object")))
         after += ok
         if ok != r.get("quote_ok"):
             r["quote_ok"] = ok; changed = True
